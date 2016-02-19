@@ -1,0 +1,751 @@
+
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/harp_3_col.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Send Mail for the Seals To Wal-Mart Stores! - Harpseals.org</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<meta name="keywords" content="harp seals,seals,Canadian seafood boycott,baby seals,seal pups,pinnipeds,volunteer,help,oppose,stop the seal hunt,seal hunt,marine mammals,Canada,Canadian seal hunt,seal pelts,massacre,Canadian government,DFO">
+<meta http-equiv="Distribution" content="Global">
+<meta http-equiv="Resource type" content="Document">
+<META Name="description" Content="Harp seals are the victims of one of the largest slaughters of marine mammals in the world: the Canadian seal hunt. The Canadian fishing industry is behind the seal slaughter. Write letters to Wal-Mart supermarkets, which sells Canadian seafood, and other political and commercial targets to urge them to join the boycott of Canadian seafood. Help us end the cruel, ecologically irresponsible, and totally unnecessary seal hunt on Harpseals.org.">
+<!-- InstanceEndEditable -->
+<link href="../../scripts/sealstyle.css" rel="stylesheet" type="text/css" />
+<link href="../../menu.css" rel="stylesheet" type="text/css" />
+</head>
+   
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="wholeseal">
+  <tr>
+    <td id="sealheader"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="206"><img src="../../images/header/hs_header_left_seal.jpg" width="206" height="152" border="0" /></td>
+        <td width="358"><img src="../../images/header/hs_header_logo.gif" width="381" height="152" border="0" /></td>
+        <td>&nbsp;</td>
+        <td align="right" valign="top" id="rightseal"><a href="../../index.html">Home</a> | <a href="../../sitemap.html">Site Map</a> | <a href="../../search.html">Search&nbsp;&nbsp;&nbsp; </a> </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" id="sealtable">
+	<tr>
+    <td width="9" valign="top"><img src="../../images/header/harpseals_header_07.jpg" width="9" height="30" align="left" /></td>
+    <td id="sealnav" align="center">
+    <td id="sealnav" align="center">
+      <p><a href="/help/index.php">Help</a> | <a href="/help/donate/index.php">Donate</a> | <a href="/resources/index.php">Resources</a> | <a href="/help/boycott_seafood/index.php">Boycott Canadian Seafood</a> | <a href="/spreading_the_word/index.php">Spread the Word </a> | <a href="/about_the_hunt/index.php">About the Seal Hunt</a> |       <a href="/about_seals/index.php">About Seals</a> | <a href="/resources/news_and_press/index.php">News</a> | <a href="/politics_and_propaganda/index.php">Politics</a> | <a href="/about_us/index.php">About Us</a> |  <a href="http://harpseals.org/index_chinese_mandarin.php" target="_blank"><img src="images/misc/china_flag-tiny2.jpg" alt="Chinese" width="35" height="23" align="absbottom" /></a></p>      <span class='st_facebook' title="facebook"></span> <span class='st_twitter' title="twitter"></span> <span class='st_linkedin' title="linkedin"></span><span class='st_pinterest' title="pinterest"></span> <span class='st_email' title="email"></span>
+    </td>     
+    </td>
+    <td align="right" width="187" valign="top"><img src="../../images/header/sealchin.jpg" width="187" height="30" align="right" /></td>
+  </tr></table></td>
+  </tr>
+  <tr>
+    <td id="sealbody"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td rowspan="2" valign="top" id="leftside"><img src="../../images/header/hs_lett_side_hed.gif" alt="graphic" width="203" height="27" /><br />
+          <!-- InstanceBeginEditable name="leftside" -->
+           
+          <!-- InstanceEndEditable -->
+          <table width="201" border="0" cellspacing="0" cellpadding="0" id="leftnav">    
+            <tr>
+                
+        <div id="left-menu">
+            <ul id="menu2">
+                <li class="level1-li"><a class="level1-a" href="http://Harpseals.org">Home</a></li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">About the Hunt</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col2">
+                        <div class="listCol">
+                            <ul>
+                            <h5>About the seal hunt</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/quota_tac.html">Quotas</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/pelts.html">About the pelts</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/oil.html">About seal oil</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/ecosystem.html">Ecological aspects</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/economic_analysis.html">Economical aspects</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/index.html">Politics &amp; propaganda</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/sealmanagementplan2006.html">Seal management plans</a> </li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/dfo_failures.html">DFO mismanagement</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/inuit_sue_in_eu_court.html">Inuit sealing</a></li>
+                                                               
+                            </ul>
+                            <ul>
+                            <h5>History of the seal hunt</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/sealwars.html">Seal wars</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/seals_and_cod.html">Seals &amp; cod</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sealing_over_the_years.html">Year by year recap</a></li>
+                                <li class="navsub-item"><a href="/resources/news_and_press/index.html">News reports</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/anne_of_green_gables.html">Anne of Green Gables</a></li>
+                            </ul>
+                            <ul>
+                            <h5>About the sealers</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/about_sealers.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sealergallery.html">Sealer gallery</a></li>
+                            </ul>
+                        </div>
+                        <div class="listCol">
+                            <ul>
+                            <h5>Q &amp; A</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/faqs.html">FAQ&acute;s</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/morefaqs.html">More FAQ&acute;s</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sable_island_grey_seal_cull.html">Myths and facts</a></li>
+                            </ul>
+                            <ul>
+                            <h5>About seals</h5>
+                                <li class="navsub-item"><a href="/about_seals/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_seals/seal_conservation.html">Seal conservation</a></li>
+                                <li class="navsub-item"><a href="/help/boycott_tourism/index.php#tours">Seal tours</a></li>
+                            </ul>
+                            <ul>
+                          <h5>Other seal slaughters</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/grey_seals.html">Grey seals</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sable_island_grey_seal_cull.html">Sable island sealing</a></li>
+                                <li class="navsub-item"><a href="/help/letters_and_emails/canada_pols_grey_seals_email.php">Letters for grey seals</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/cape_fur_seal_alert.html">Cape fur seals</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/cape_fur_seal_news.html">Cape fur seal news</a></li>
+                                <li class="navsub-item"><a href="/help/letters_and_emails/namibia_email.php">Letters for cape fur seals</a></li>
+                            </ul>
+                        </div>
+                        <div class="bottomLine">
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">How to Help</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col1">
+                        <div class="listCol">
+                            <ul>
+                                <li class="navsub-item"><a href="/help/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/help/boycott_seafood/index.html">Boycott Canadian seafood</a></li>
+                                <li class="navsub-item"><a href="/help/boycott_tourism/index.html">Boycott Canadian tourism</a></li>
+                                <li class="navsub-item"><a href="/help/letters_and_emails/index.html">Letters and emails</a></li>
+                                <li class="navsub-item"><a href="/help/demand_side_efforts/index.html">End demand for pelts</a></li>
+                                <li class="navsub-item"><a href="/e-store/index.php">Harpseals.org store</a></li>
+                                <li class="navsub-item"><a href="/help/events/index.php">Outreach events</a></li>
+                                <li class="navsub-item"><a href="/help/seal_action_team/index.html">Join us</a></li>
+                                <li class="navsub-item"><a href="/help/volunteer/index.html">Volunteer</a></li>
+                                <li class="navsub-item"><a href="/help/volunteer/celebrity_seal_activists.php">Sealebrities</a></li>
+                                <li class="navsub-item"><a href="/help/volunteer/indysealproj.html">Independent projects</a></li>
+                                <li class="navsub-item"><a href="/help/projeasyswitch/index.php">Project Easy Switch</a></li>
+                            </ul>
+                      </div>
+                        <div class="bottomLine">
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">Resources</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col2">
+                        <div class="listCol">
+                            <ul>
+                            <h5>About seals</h5>
+                                <li class="navsub-item"><a href="/about_seals/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_seals/seal_conservation.html">Seal conservation</a></li>
+                            </ul>
+                            <ul>
+                            <h5>Other organizations</h5>
+                                <li class="navsub-item"><a href="/resources/links/index.html">Links</a></li>
+                                <li class="navsub-item"><a href="/resources/links/wwf.html">WWF and seals</a></li>
+                            </ul>
+                            <ul>
+                            <h5>Toolbox for seal activists</h5>
+                                <li class="navsub-item"><a href="/resources/toolbox/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/stickers_decals/index.html">Stickers, Decals</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/video_audio/index.html">Videos &amp; Radio Spots</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/banners/index.html">Banners, Flash ads</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/presentation/index.html#recruit">Boycott recruitment kit</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/leaflets_cards/index.html">Leaflets &amp; Cards</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/presentation/index.html#library">Library Display</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/presentation/index.html">Presentation/Lessons</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/print_ads/index.html">Print Ads</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/press_releases/index.html">Press Releases</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/photo_archives/index.html">Photo archives</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/petitions/index.html">Petitions</a></li>
+                            </ul>
+                        </div>
+                        <div class="listCol">
+                            <ul>
+                                <h5>News on the seal hunt</h5>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/index.php">Overview</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2015/index.php">News- 2015</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2014/index.php">News- 2014</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2013/index.php">News- 2013</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2012/index.php">News- 2012</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2011/index.php">News- 2011</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2010/index.php">News- 2010</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2009/index.php">News- 2009</a></li>
+                                <li class="navsub-item"><a href="http://www.harpseals.org/resources/news_and_press/2008/index.php">News- 2008</a></li>
+                                <li class="navsub-item"><a href="/resources/news_and_press/2007/index.html">News- 2007</a></li>
+                            </ul>
+                </div>
+                        <div class="bottomLine">
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">Our Campaigns</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col1">
+                        <div class="listCol">
+                            <ul>
+                                <li class="navsub-item"><a href="/spreading_the_word/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/spreading_the_word/advertising/index.html">Advertising</a> </li>
+                                <li class="navsub-item"><a href="/spreading_the_word/outreach/index.html">Outreach</a></li>
+                                <li class="navsub-item"><a href="/help/events/index.php">Seal activist network</a></li>
+                                <li class="navsub-item"><a href="/spreading_the_word/outreach/days_of_action_for_seals.html">Days of action</a></li>
+                                <li class="navsub-item"><a href="/help/projeasyswitch/index.php">Project Easy Switch</a></li>
+                            </ul>
+                        </div>
+                        <div class="bottomLine">
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">About Us</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col1">
+                        <div class="listCol">
+                            <ul>
+                                <li class="navsub-item"><a href="/about_us/index.html">Who we are</a></li>
+                                <li class="navsub-item"><a href="/about_us/contact.html">Contact</a> </li>
+                                <li class="navsub-item"><a href="/about_us/accounts-2012.php">Our funds</a></li>
+                                <li class="navsub-item"><a href="/help/seal_action_team/index.html">Join us</a></li>
+                            </ul>
+                        </div>
+                        <div class="bottomLine">
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li sub"><a class="level1-a" href="/#url">Site Map</a>
+                    <!--[if gte IE 7]><!--><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                    <div class="listHolder col3 left1">
+                        <div class="listCol">
+                            <ul>
+                                <h5>How to Help</h5>
+                                <li class="navsub-item"><a href="/help/boycott_seafood/index.html">Boycott Canadian seafood</a></li>
+                                <li class="navsub-item"><a href="/help/boycott_tourism/index.html"> Boycott Canadian tourism</a></li>
+                                <li class="navsub-item"><a href="/help/demand_side_efforts/index.html">End demand for pelts</a></li>
+                                <li class="navsub-item"><a href="/help/seal_action_team/index.html">Join us</a></li>
+                                <li class="navsub-item"><a href="/help/events/index.php">Outreach Events</a></li>
+                                <li class="navsub-item"><a href="/help/letters_and_emails/index.html">Letters and Emails</a></li>
+                                <li class="navsub-item"><a href="/help/volunteer/index.html">Volunteer</a></li>
+                                <li class="navsub-item"><a href="/help/projeasyswitch/index.php">Project Easy Switch</a></li>
+                                <li class="navsub-item"><a href="/help/donate/index.html">Donate for the seals</a></li>
+                            </ul>
+                            <ul>
+                                <h5>About the Hunt</h5>
+                                <li class="navsub-item"><a href="/about_the_hunt/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/quota_tac.html">Quotas</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/pelts.html">About the pelts</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/oil.html">About seal oil</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/ecosystem.html">Ecological aspects</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/economic-analysis.html">Economical aspects</a></li>
+                                 <li class="navsub-item"><a href="/about_the_hunt/sealwars.html">Seal wars</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/seals_and_cod.html">Seals &amp; cod</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sealing_over_the_years.html">Year by year recap</a>
+                                <li class="navsub-item"><a href="/about_the_hunt/about_sealers.html">About sealers</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sealergallery.html">Sealer gallery</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/faqs.html">FAQ&acute;s</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/morefaqs.html">More FAQ&acute;s</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/grey_seals.html">Grey seals</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/sable_island_grey_seal_cull.html">Sable island sealing</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/cape_fur_seal_alert.html">Cape fur seals</a></li>
+                                <li class="navsub-item"><a href="/about_the_hunt/cape_fur_seal_news.html">Cape fur seal news</a></li>
+                            </ul>
+                        </div>
+                        <div class="listCol">
+                            <ul>
+                                <h5>Resources</h5>
+                                <li class="navsub-item"><a href="/resources/links/index.html">Links</a></li>
+                                <li class="navsub-item"><a href="/resources/links/wwf.html">WWF and seals</a></li>
+                                <li class="navsub-item"><a href="/resources/news_and_press/index.html">News over the years</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/index.html">Toolbox for activists</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/stickers_decals/index.html">Stickers, Decals</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/video_audio/index.html">Videos &amp; Radio Spots</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/banners/index.html">Banners</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/leaflets_cards/index.html">Leaflets &amp; Cards</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/presentation/index.html">Presentations</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/print_ads/index.html">Print Ads</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/press_releases/index.html">Press Releases</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/photo_archives/index.html">Photo archives</a></li>
+                                <li class="navsub-item"><a href="/resources/toolbox/petitions/index.html">Petitions</a></li>
+                            </ul>
+                            <ul>
+                          <h5>Campaigns</h5>
+                                <li class="navsub-item"><a href="/spreading_the_word/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/spreading_the_word/advertising/index.html">Advertising</a> </li>
+                                <li class="navsub-item"><a href="/spreading_the_word/outreach/index.html">Outreach</a>                               <li class="navsub-item"><a href="/spreading_the_word/outreach/days_of_action_for_seals.html">Days of action</a></li>                                
+                            </ul>
+                        </div>
+                        <div class="listCol">
+                            <ul>
+                                <h5>About Seals</h5>
+                                 <li class="navsub-item"><a href="/about_seals/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/about_seals/seal_conservation.html">Seal conservation</a></li>
+                            </ul>
+                            <ul>
+                            <h5>Politics &amp; Propaganda</h5>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/index.html">Overview</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/sealmanagementplan2006.html">Seal management plans</a> </li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/dfo_failures.html">DFO mismanagement</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/inuit_sue_in_eu_court.html">Inuit sealing</a></li>
+                                <li class="navsub-item"><a href="/politics_and_propaganda/anne_of_green_gables.html">Anne of Green Gables</a></li>
+                            </ul>
+      
+                        </div>
+                        <div class="bottomLine">
+                          
+                            <p><a href="/help/donate">Donate</a> for the seals</p>
+                        </div>
+                    </div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+                <li class="level1-li"><a class="level1-a" href="/search.html">Search</a></li>
+            </ul>
+</div>
+        <div style="clear: both;" >&nbsp;</div>
+           </tr>
+        </table>
+          <br />
+          <br />
+          <!-- include dynamic  buttons  --> 
+          <div>
+   <table width="201" border="0" cellspacing="0" cellpadding="0" class="leftgrey">
+        <tr>
+            <td class="left_grey_head"><img src="/images/header/hs_left_grey_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+          <td class="left_grey_links"><table border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="right_grey"><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="center" valign="middle"><a href="/help/donate/index.php"><img src="http://www.harpseals.org/images/logos/donate6.jpg" alt="Donate to help end the massacre of seals" width="150" height="150" border="0" bordercolor="c9c8bc" align="absmiddle" /></a></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+            <td class="left_grey_foot"><img src="/images/header/hs_left_grey_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+</div>
+		  <br/>
+          <div>
+<table width="201" border="0" cellspacing="0" cellpadding="0" class="leftblue">
+        <tr>
+            <td class="left_blue_head"><img src="/images/header/hs_left_blue_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+            <td class="leftblue"><p align="center"><a href="/e-store/index.php"><img src="http://www.harpseals.org/images/logos/estore.jpg" alt="Get Seal Gear at the Harpseals.org E-Store" width="148" height="216" border="0" align="absmiddle" /></a></p></td>
+        </tr>
+        <tr>
+            <td class="left_blue_foot"><img src="/images/header/hs_left_blue_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+ 
+</div>
+          <br/>
+          <div>
+    <table width="201" border="0" cellspacing="0" cellpadding="0" class="leftred">
+        <tr>
+            <td class="left_red_head"><img src="/images/header/hs_left_red_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+             <td class="leftred" align="center">&nbsp;<a href="/help/seal_action_team/index.html"><img src="http://www.harpseals.org/images/logos/signup3.jpg" alt="Join the Harpseals.org Campaign" width="150" height="200" border="0" /></a></td>
+        </tr>
+        <tr>
+            <td class="left_red_foot"><img src="/images/header/hs_left_red_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+</div>          <br/>
+          <div>
+   <table width="201" border="0" cellspacing="0" cellpadding="0" class="leftgrey">
+        <tr>
+            <td class="left_grey_head"><img src="/images/header/hs_left_grey_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+          <td class="left_grey_links"><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="center"><h2><font face="Verdana, Geneva, sans-serif">Follow us on</font></h2>                  <p><a href="http://www.facebook.com/harpseals.org" target="_blank"><img src="http://www.harpseals.org/images/logos/facebook_logo.gif" width="150" height="40" alt="facebook" /></a></p></td>
+            </tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td class="left_grey_foot"><img src="/images/header/hs_left_grey_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+</div>          <br/>
+          <div>
+ <table width="201" border="0" cellspacing="0" cellpadding="0" class="leftred">
+        <tr>
+            <td class="left_red_head"><img src="/images/header/hs_left_red_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+            <td class="left_red_links"><p>Give to Harpseals.org while you shop with iGive.com</p>
+              <table width="120" border="0" align="center" cellpadding="2" cellspacing="2">
+                <tr>
+                  <td><a href="http://www.iGive.com/Harpseals " target="_blank"><img src="http://www.harpseals.org/images/logos/igive120x60.gif" width="120" height="60" alt="iGive.com" /></a></td>
+                </tr>
+              </table></td>
+        </tr>
+        <tr>
+            <td class="left_red_foot"><img src="/images/header/hs_left_red_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+  </div>          <br/>
+          <div>
+ <table width="201" border="0" cellspacing="0" cellpadding="0" class="leftwht">
+        <tr>
+            <td class="left_wht_head"><img src="/images/header/hs_left_white_tbl_hed.gif" alt="graphic" width="203" height="11" /></td>
+        </tr>
+        <tr>
+            <td class="left_wht_links"><table width="160" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><img src="http://www.harpseals.org/images/logos/adrenaline_radio2.gif" width="160" height="60" alt="Adrenaline Radio" /><br />
+                  <a href="http://adrenalineradio.com/podcasts/archives/summary/437-animal-issues/16086-animal-issues-12-18-12-protecting-harp-seals-exposing-the-fur-industry" target="_blank"><img src="http://www.harpseals.org/images/logos/adrenaline_radio_121812.gif" width="160" height="60" alt="Radio Show on the seal hunt 12/18/12" /></a><br />
+                <a href="http://adrenalineradio.com/podcasts/archives/summary/437-animal-issues/16703-animal-issues-04-30-13-harpsealsorg-and-worldfest" target="_blank"><img src="http://www.harpseals.org/images/logos/adrenaline_radio_43013.gif" alt="Radio show on the seal hunt on 4/30/13" width="160" height="60" /></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td class="left_wht_foot"><img src="/images/header/hs_left_white_tbl_ft.gif" alt="graphic" width="203" height="24" /></td>
+        </tr>
+    </table>
+</div>          
+          
+          
+          
+		  </td>
+        <td valign="top" id="maintoper">&nbsp;</td>
+        <td rowspan="2" valign="top" id="rightside"><img src="../../images/header/hs_right_side_hed.gif" alt="graphic" width="175" height="27" /><br />
+          <!-- InstanceBeginEditable name="rightcol" --> 
+
+        <!-- InstanceEndEditable -->
+            
+            
+          <!-- include dynamic  buttons  --> 
+          <div>
+    <table width="175" border="0" cellspacing="0" cellpadding="0" id="right_blue">
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_blue_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+              </tr>
+            <tr>
+              <td class="right_blue"><p align="center"><a href="http://www.kids4seals.org" target="_blank"><img src="http://www.harpseals.org/images/logos/kids4seals2.jpg" alt="Kids4Seals Web Site" width="144" height="234" border="0" align="absmiddle" /></a></p></td>
+              </tr>
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_blue_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+              </tr>
+            </table>
+</div>
+		  <br/>
+          <div>
+    <table width="175" border="0" cellspacing="0" cellpadding="0" class="right_red">
+  <tr>
+    <td><div align="right"><img src="/images/header/hs_right_red_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+  </tr>
+  <tr>
+    <td class="right_red"><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+          <td align="center"><font face=arial color="FFFFFF"> Organize or Join</font>
+            <p><a href="/help/events/index.php" target="_blank"><img src="http://harpseals.org/images/logos/events_for_seals.gif" width="125" height="45" alt="Organize or join events for seals" /></a></p></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><div align="right"><img src="/images/header/hs_right_red_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+  </tr>
+</table>
+</div>          <br/>
+          <div>
+   <table width="175" border="0" cellspacing="0" cellpadding="0" class="right_grey">
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_gry_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+              </tr>
+            <tr>
+              <td class="right_grey"><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td><a href="http://ecodefense12287.yuku.com/forum/view/id/2" target="_blank"><img src="http://www.harpseals.org/images/logos/sealtalk.jpg" alt="Seal Talk" width="160" height="160" border="0" /></a></td>
+                </tr>
+              </table></td>
+     </tr>
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_gry_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+              </tr>
+            </table>
+</div>          <br/>
+          <div>
+    <table width="175" border="0" cellspacing="0" cellpadding="0" class="right_red">
+  <tr>
+    <td><div align="right"><img src="/images/header/hs_right_red_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+  </tr>
+  <tr>
+    <td class="right_red"><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+          <td align="center"><font face=arial color="FFFFFF"> Donate to Harpseals.org while you shop with<br />
+              <a href="http://www.goodsearch.com/goodshop.aspx" target="_blank"><img src="http://www.harpseals.org/images/logos/goodshop-4.png" width="150" height="26" alt="goodshop" /></a>          <br />
+            and<br />
+            <a href="http://www.goodsearch.com/goodto-go?spMailingID=5123963&amp;spUserID=MjgwMDA3NDE4OQS2&amp;spJobID=58665125&amp;spReportId=NTg2NjUxMjUS1" target="_blank"><img src="http://www.harpseals.org/images/logos/goodshopto-go-logo-4.png" width="150" height="18" alt="goodshopto-go" /></a> </font></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><div align="right"><img src="/images/header/hs_right_red_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+  </tr>
+</table>
+</div>
+          <br/>
+          <div>
+    <table width="175" border="0" cellspacing="0" cellpadding="0" id="right_blue">
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_blue_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+              </tr>
+            <tr>
+              <td class="right_blue"><h3 align="center">Join or Start a Harpseals.org Meetup Group<br /></h3><p align="center"><a href="http://harpseals.meetup.com" target="_blank"><img src="/images/logos/meetup.gif" alt="Meetup.com Web Site" width="150" height="113" border="0" align="absmiddle" /></a></p></td>
+              </tr>
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_blue_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+              </tr>
+            </table>
+</div>          <br/>
+          <div>
+   <table width="175" border="0" cellspacing="0" cellpadding="0" class="right_grey">
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_gry_tbl_hed.gif" alt="graphic" width="171" height="11" /></div></td>
+              </tr>
+            <tr>
+              <td class="right_grey"><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="center"><font face=arial color="000000" size="2">Support Harpseals.org<br /><br/>
+              <a href="https://smile.amazon.com/ch/61-1467370" target="_blank"><img src="http://www.harpseals.org/images/logos/amazon_smile_logo.jpg" width="140" height="26" alt="Amazon Smile" /></a>          <br />
+           <br/> When you shop at Smile.Amazon.Com<br />
+            Amazon donates to Harpseals.org<br/>
+           </font></td>
+                </tr>
+              </table></td>
+     </tr>
+            <tr>
+              <td><div align="right"><img src="/images/header/hs_right_gry_tbl_ft.gif" alt="graphic" width="171" height="24" /></div></td>
+              </tr>
+            </table>
+</div>          
+           
+          
+          
+		 
+          <p>&nbsp;</p>
+        </td>
+        </tr>
+      <tr>
+        <td valign="top" id="maincenter"><!-- InstanceBeginEditable name="maincenter" -->
+
+        <script type="text/javascript">
+/* <![CDATA[ */
+	function changeFormAttr()
+	{
+		document.mail_form.action = "/help/letters_and_emails/wal-mart_email.php";
+		document.mail_form.action_id.value = "";
+		return true;
+	}
+/* ]]> */
+</script>
+        <form id="mail_form" name="mail_form" method="post" action="thankyou.html" onsubmit="return changeFormAttr()">
+<input type="hidden" name="protest_id" value="WALMART_SEAFOOD" />
+<input type="hidden" name="action_id" value="5" />
+  <table width="779" border="0" cellspacing="4">
+    <tr> 
+      <td width="211" rowspan="2" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="31%">
+            
+                <p align="left"><img src="../../images/targets/s_robson_walton_chair_board_wal-mart.jpg" width="100" height="100" alt="S. Robson Walton, Chair, Board of Directors, Wal-Mart" /></p>           </td>
+          </tr>
+        <tr>
+          <td><p><strong>S. Robson Walton</strong><br />
+              <em>Chairman of the Board </em><br />
+            Wal-Mart Stores</p>
+            <p> <br />
+            </p></td>
+          </tr>
+            </table>
+      <p align="center">&nbsp;</p></td>
+      <td width="552" colspan="2"><h2><strong><font color="#800000" size="+3"><font face="Arial, Helvetica, sans-serif">Put Your Keyboard to Work for the Seals!</font></font></strong></h2>
+        <h2>Write Wal-Mart!</h2></td>
+    </tr>
+    <tr> 
+      <td colspan="2"><table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#BBBBBB">
+          <tr>
+            <td bgcolor="#EFEFEF"><table width="98%" border="0" cellspacing="4">
+              
+              <tr>
+                <td colspan="2"><div align="left">
+
+				  
+                  </p>
+<p><strong>Please select the recipient(s) / &quot;Decision Maker(s)&quot;:</strong> </p>
+                </div>
+                  <p>
+				  
+				  				  
+				    <input name="recipient[]" type="checkbox" id="recipient[]" value="swalton@wal-mart.com,srwalton@wal-mart.com,rob@wal-mart.com,sam.rob@wal-mart.com,sam.walton@wal-mart.com,sam.rob_walton@wal-mart.com,rob_walton@wal-mart.com,waltonsr@wal-mart.com,waltonsr@walmart.com,srwalton@walmart.com:email_name:Mr. Walton" checked="checked" />S. Robson Walton - Chairman of the Board, Wal-Mart Stores<br />
+				  
+				  
+				  				  
+				    <input name="recipient[]" type="checkbox" id="recipient[]" value="michael_duke@wal-mart.com,michael.duke@wal-mart.com,m.duke@wal-mart.com,mduke@wal-mart.com,michael_duke@walmart.com,dukem@wal-mart.com,dukem@walmart.com,michael.duke@walmart.com:email_name:Mr. Duke" checked="checked" />Michael Duke - CEO, Wal-Mart Stores<br />
+				  
+				  
+				  				  
+				    <input name="recipient[]" type="checkbox" id="recipient[]" value="john_butler@wal-mart.com,john.butler@wal-mart.com,j.butler@wal-mart.com,jbutler@wal-mart.com,butlerj@wal-mart.com,butlerj@walmart.com,john_butler@walmart.com,john.butler@walmart.com:email_name:Mr. Butler" checked="checked" />John Butler - Vice President DMM Meat, Poultry, Seafood, Wal-Mart Stores <br />
+				  
+				  
+				  				  
+				    <input name="recipient[]" type="checkbox" id="recipient[]" value="jack_sinclair@wal-mart.com,jack.sinclair@wal-mart.com,j.sinclair@wal-mart.com,jlsinclair@wal-mart.com,jsinclair@wal-mart.com,sinclairj@wal-mart.com,sinclairj@walmart.com,jack_sinclair@walmart.com,jack.sinclair@walmart.com:email_name:Mr. Sinclair" checked="checked" />Jack L. Sinclair - Executive Vice President, Food, Wal-Mart Stores U.S.<br />
+				  
+				  
+				                </td>
+                </tr>
+              <tr>
+                <td colspan="2">&nbsp;</td>
+              </tr>
+              <tr>
+                <td colspan="2"><p><strong>Subject:</strong><br />
+                  <input name="subject" type="text" id="subject" value="Please stop purchasing all seafood from Canada" size="60" maxlength="60" />
+                  </p>
+                  <p><strong>Dear </strong> [Decision Maker] </p>
+                  <p><strong>Message:</strong> [Edit below] <br />
+                    <textarea name="message" cols="60" rows="12" wrap="physical" id="message">
+I understand that Wal-Mart is concerned with the sustainability of the seafood it sells. I commend the efforts of Wal-Mart in this regard. However, one important aspect of the sustainability of seafood is the overall manner in which governments manage ocean ecosystems, including the marine mammals who are key figures in these ecosystems.
+
+Unfortunately, the government of Canada has been mismanaging the oceans in its care. This government has allowed over-fishing of the North Atlantic cod until the fishery collapsed. It then blamed the seals for its own transgressions.
+
+Today, the Canadian government, under pressure from the Canadian fishing industry, continues to mismanage the oceans. It continues to allow factory trawlers to destroy ocean life faster than it can be replenished. Furthermore, it continues to allow and promote the massacre of seal pups.
+
+This brutal massacre, which has been condemned by European nations, the U.S. Congress, the Mexican government, and millions of people around the world, is an effort to placate a fishing industry that refuses to acknowledge its own guilt in wiping out life in the oceans.
+
+In an effort to force the Canadian government to reform its policies of ocean ecosystem and fisheries management, I urge you to join the Canadian seafood boycott.
+
+This boycott will put pressure on the Canadian fishing industry to stop promoting the bloody massacre of baby harp seals.
+
+By joining the boycott of all Canadian seafood, Wal-Mart will show Americans and the world that it cares about the plight of these defenseless seals, that it is concerned about the Canadian mismanagement of the ocean ecosystem, and that it is a good corporate citizen.
+
+Please do not delay. Yet another massacre is being planned today.</textarea>
+                  </p></td></tr>
+              <tr>
+                <td><div align="right"><strong>Sincerely, </strong></div></td>
+                <td>[Enter details below] </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>Please avoid using foreign characters</td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"></div></td>
+                <td width="80%"><font color="#FF0000">* Required Field </font></td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"><strong> First Name:</strong></div></td>
+                <td><input name="first_name" type="text" id="first_name" size="20" maxlength="60" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td><div align="right"><strong>Last Name: </strong></div></td>
+                <td><input name="last_name" type="text" id="last_name" size="20" maxlength="60" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"><strong>Address:</strong></div></td>
+                <td><input name="address" type="text" id="address" size="40" maxlength="80" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"><strong> City:</strong></div></td>
+                <td><input name="city" type="text" id="city" size="20" maxlength="30" value=""/>
+                  <font color="#FF0000">*</font></td>
+                </tr>
+              <tr>
+                <td><div align="right"><strong>State/Province:</strong></div></td>
+                <td><input name="state" type="text" id="state" size="5" maxlength="30" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"><strong> ZIP/Postal Code:</strong></div></td>
+                <td><input name="zip" type="text" id="zip" size="10" maxlength="10" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td><div align="right"><strong>Country:</strong></div></td>
+                <td><input name="country" type="text" id="country" size="30" maxlength="20" value=""/>
+                  <font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td><div align="right"><strong>Phone:</strong></div></td>
+                <td><input name="phone" type="text" id="phone" size="30" maxlength="15" value=""/> 
+                  (Optional) </td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right"><strong> Your E-mail:</strong></div></td>
+                <td><input name="frommail" type="text" id="frommail" size="40" maxlength="80" value=""/><font color="#FF0000">*</font></td>
+              </tr>
+              <tr>
+                <td width="20%"><div align="right">
+                  <input name="joinlist" type="checkbox" id="joinlist" value="Y" checked="checked" />
+                  </div></td>
+                <td><p>Sign me up for email alerts. </p></td>
+              </tr>
+              
+              <tr>
+                <td width="20%"><div align="right"></div></td>
+                <td><input name="mode" type="submit" id="mode" value="Send E-mail" /></td>
+              </tr>
+            </table></td>
+          </tr>
+          </table></td>
+    </tr>
+  </table>
+</form>
+<!-- InstanceEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td id="sealfooder"><p><img src="../../images/header/hs_right_ft_end.jpg" alt="graphic" width="15" height="103" align="right" /><img src="../../images/header/hs_left_ft_end.jpg" alt="graphic" width="14" height="103" align="left" /></p>
+    <br /><br />
+    <!-- include dynamic  copyright  --> 
+           <p align="center"><img src="http://www.harpseals.org/images/misc/copyright_symbol2.jpg" width="20" height="20" alt="copyright" /> Harpseals.org 2000-2016 All rights reserved </p>
+ <!-- Premium Google -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23311565-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+   </td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 not-logged-in "> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8 not-logged-in "> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9 not-logged-in "> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js not-logged-in "> <!--<![endif]-->
+    <head>
+        
+    <script type="text/javascript">window._timings = {"domLoading": Date.now()}</script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+Instagram
+</title>
+
+        <script type="text/javascript">
+  WebFontConfig = {
+    custom: {
+      families: ['proxima-nova:n3,n4,n6,n7'],
+    }
+  };
+</script>
+<script src="//instagramstatic-a.akamaihd.net/h1/scripts/webfont.js/c0456c81549b.js" type="text/javascript" async></script>
+
+<style type="text/css">
+  /* @license
+   * MyFonts Webfont Build ID 2164953, 2012-03-23T23:06:30-0400
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   *
+   * Webfont: Proxima Nova Light by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Regular by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Semibold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Bold Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold-it/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Bold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular-it/
+   * Licensed pageviews: unlimited
+   *
+   *
+   * License: http://www.myfonts.com/viewlicense?type=web&buildid=2164953
+   * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+   *
+   * (c) 2012 Bitstream Inc
+   */
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-bold-webfont.woff/618250d25a4d.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-bold-webfont.ttf/646346e03084.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-bold-webfont.svg/e55a9d6051e8.svg#ProximaNovaBold') format("svg");
+    font-weight: bold;
+    font-style: normal; }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-boldit-webfont.woff/b1cf049474c9.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-boldit-webfont.ttf/3adb020ceae3.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-boldit-webfont.svg/29948a2d3c58.svg#ProximaNovaBoldItalic') format("svg");
+    font-weight: bold;
+    font-style: italic; }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-reg-webfont.woff/a9a9773b8e29.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-reg-webfont.ttf/99e19808976a.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-reg-webfont.svg/c33d2fd56309.svg#ProximaNovaRegular') format("svg");
+    font-weight: normal;
+    font-style: normal; }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-regit-webfont.woff/9e306befca91.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-regit-webfont.ttf/4a8663684135.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-regit-webfont.svg/876278d4b189.svg#ProximaNovaRegularItalic') format("svg");
+    font-weight: normal;
+    font-style: italic; }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-sbold-webfont.woff/615c1b06d8fa.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-sbold-webfont.ttf/2973bd483f7a.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-sbold-webfont.svg/868597833e49.svg#ProximaNovaSemibold') format("svg");
+    font-weight: 600;
+    font-style: normal; }
+</style>
+
+  <style type="text/css">
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-light-webfont.eot/63c84728610f.eot');
+    src: url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-light-webfont.eot/63c84728610f.eot?#iefix') format("embedded-opentype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-light-webfont.woff/66bbe029f180.woff') format("woff"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-light-webfont.ttf/eb408516399b.ttf') format("truetype"),
+      url(' //instagramstatic-a.akamaihd.net/h1/webfonts/proximanova-light-webfont.svg/858f6a9b7ef3.svg#ProximaNovaLight') format("svg");
+    font-weight: 300;
+    font-style: normal; }
+</style>
+
+
+        
+    
+        <meta name="robots" content="noimageindex">
+        
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+
+        
+    <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+
+        <script type="text/javascript">
+        (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+        </script>
+
+        
+    
+    
+    
+        <link rel="Shortcut Icon" type="image/x-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico"><link rel="mask-icon" href="//instagramstatic-a.akamaihd.net/h1/images/ico/favicon.svg/dfde15ef1533.svg" color="#125688">
+    
+    
+        <link rel="apple-touch-icon-precomposed" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-precomposed.png/29d68fc587d7.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-72x72-precomposed.png/3f5e04d85488.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-114x114-precomposed.png/29d68fc587d7.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//instagramstatic-a.akamaihd.net/h1/images/ico/apple-touch-icon-144x144-precomposed.png/52fcc0fc09e4.png">
+    
+    
+    
+
+    
+    
+    <link rel="canonical" href="https://www.instagram.com/p/BA0RLJar8VL/" />
+    <meta content="“And let me take this time to thank #Walmart for coming on board with my #moscato 🙏🏽 we are #1 b/c I&amp;#39;ve never had to force it on ppl. I&amp;#39;ve never met a…”" name="description" />
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="Nicki Minaj on Instagram: “And let me take this time to thank #Walmart for coming on board with my #moscato 🙏🏽 we are #1 b/c I&#39;ve never had to force it on ppl. I&#39;ve…”" />
+    <meta property="og:image" content="https://scontent.cdninstagram.com/t51.2885-15/e35/12424595_1692219331057403_1528240972_n.jpg?ig_cache_key=MTE2NzYzMzczNjIxMjEzNzI5MQ%3D%3D.2" />
+    <meta property="og:description" content="“And let me take this time to thank #Walmart for coming on board with my #moscato 🙏🏽 we are #1 b/c I&#39;ve never had to force it on ppl. I&#39;ve never met a…”" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="https://www.instagram.com/p/BA0RLJar8VL/" />
+    <meta property="instapp:owner_user_id" content="451573056" />
+    <meta property="al:ios:app_name" content="Instagram" />
+    <meta property="al:ios:app_store_id" content="389801252" />
+    <meta property="al:ios:url" content="instagram://media?id=1167633736212137291" />
+    <meta property="al:android:app_name" content="Instagram" />
+    <meta property="al:android:package" content="com.instagram.android" />
+    <meta property="al:android:url" content="https://www.instagram.com/p/BA0RLJar8VL/" />
+    
+    <meta name="medium" content="image" />
+    <meta property="og:type" content="instapp:photo" />
+    <meta content="1" property="instapp:hashtags" /><meta content="youngblackfemaleboss" property="instapp:hashtags" /><meta content="woman" property="instapp:hashtags" /><meta content="owns" property="instapp:hashtags" /><meta content="top" property="instapp:hashtags" /><meta content="moscato" property="instapp:hashtags" /><meta content="walmart" property="instapp:hashtags" />
+
+    <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/p/BA0RLJar8VL/" />
+    
+    <link href="https://www.instagram.com/p/BA0RLJar8VL/" rel="alternate" hreflang="x-default" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=el" rel="alternate" hreflang="el" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=gu" rel="alternate" hreflang="gu" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=en" rel="alternate" hreflang="en" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=af" rel="alternate" hreflang="af" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=vi" rel="alternate" hreflang="vi" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=it" rel="alternate" hreflang="it" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=kn" rel="alternate" hreflang="kn" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=pt-br" rel="alternate" hreflang="pt-br" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=cs" rel="alternate" hreflang="cs" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=id" rel="alternate" hreflang="id" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=es" rel="alternate" hreflang="es" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ru" rel="alternate" hreflang="ru" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=nl" rel="alternate" hreflang="nl" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=pt" rel="alternate" hreflang="pt" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=zh-tw" rel="alternate" hreflang="zh-tw" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=nb" rel="alternate" hreflang="nb" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=tr" rel="alternate" hreflang="tr" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ne" rel="alternate" hreflang="ne" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=zh-cn" rel="alternate" hreflang="zh-cn" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=tl" rel="alternate" hreflang="tl" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=pa" rel="alternate" hreflang="pa" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=th" rel="alternate" hreflang="th" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=te" rel="alternate" hreflang="te" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=pl" rel="alternate" hreflang="pl" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ta" rel="alternate" hreflang="ta" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=fr" rel="alternate" hreflang="fr" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=hr" rel="alternate" hreflang="hr" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=bn" rel="alternate" hreflang="bn" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=de" rel="alternate" hreflang="de" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=da" rel="alternate" hreflang="da" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=hi" rel="alternate" hreflang="hi" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=fi" rel="alternate" hreflang="fi" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=hu" rel="alternate" hreflang="hu" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ja" rel="alternate" hreflang="ja" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ml" rel="alternate" hreflang="ml" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ko" rel="alternate" hreflang="ko" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=sv" rel="alternate" hreflang="sv" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ur" rel="alternate" hreflang="ur" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=sk" rel="alternate" hreflang="sk" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=si" rel="alternate" hreflang="si" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=ms" rel="alternate" hreflang="ms" />
+<link href="https://www.instagram.com/p/BA0RLJar8VL/?hl=mr" rel="alternate" hreflang="mr" />
+    
+
+    </head>
+    <body class="">
+        
+    
+    <span id="react-root"></span>
+
+    
+
+        
+    <script src=//instagramstatic-a.akamaihd.net/h1/scripts/polyfills/es5-shim.min.js/6514c5e08593.js></script>
+<script src=//instagramstatic-a.akamaihd.net/h1/scripts/polyfills/es5-sham.min.js/fc3c22cf2d67.js></script>
+<script type="text/javascript">window._sharedData = {"country_code":"US","language_code":"en","gatekeepers":{"rhp":true},"qs":"{\"shift\":10,\"header\":\"V7fJUUTyQJyggkrYwWzNE0vxiNQDA43W\",\"edges\":100,\"blob\":\"AQBSgUriOTy1WBwnbxlJHhFNbcaRTL2f3hHiTmIP4MHuSuLdyLAqx9HiJSCXocrK0irfYeZrNqzqfPPGaCA5pbSNYJgLRpv8nODdzKjW0yJCyNzEKe8rjor8F9I8ufOfB_zGlL2LTU3oRMXg-03tpir1vbmc4e0_udRd6Ncw1o2rNcfzzL4MXSwGpj_zZYrJzowNySD0KYgEJivzOGGMgNHEAju4PhbMDuWlHzOZctSpFg\",\"iterations\":7,\"size\":42}","static_root":"\/\/instagramstatic-a.akamaihd.net\/bluebar\/b2908ed","platform":"web","hostname":"www.instagram.com","entry_data":{"PostPage":[{"media":{"code":"BA0RLJar8VL","date":1453412809.0,"dimensions":{"width":1080,"height":1080},"usertags":{"nodes":[]},"comments":{"count":1584,"page_info":{"has_previous_page":true,"start_cursor":"1180121180325004957","end_cursor":"1185744152708498787","has_next_page":false},"nodes":[{"text":"Good night","created_at":1454901429.0,"id":"1180121180325004957","user":{"username":"desirepretty0209","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12547478_1118285311527028_1651359650_a.jpg","id":"2911433589"}},{"text":"@kaylatielmann @boonana_kb","created_at":1454904408.0,"id":"1180146170139231979","user":{"username":"tauryturner","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/11931221_869386676509514_924499746_a.jpg","id":"230035833"}},{"text":"@ajohal6 when u see Milton but it's not in Canada \ud83d\ude12","created_at":1454905988.0,"id":"1180159428040574601","user":{"username":"renekumar07","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12558643_1687094704908689_114814048_a.jpg","id":"2290846749"}},{"text":"North Lauderdale \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d","created_at":1454908338.0,"id":"1180179140279518824","user":{"username":"50shadesoftae._","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12716686_1728068130738808_182996178_a.jpg","id":"1934432997"}},{"text":"Feeling some type of way... I could not be part of this tuh!!!!","created_at":1454908982.0,"id":"1180184542954112218","user":{"username":"deshawn_geremy_myloves","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12558923_1634707163444794_701996323_a.jpg","id":"1403395996"}},{"text":"@pheromoney road trip","created_at":1454910519.0,"id":"1180197439172232818","user":{"username":"americanbabe","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12523643_145615109148895_1402639807_a.jpg","id":"276343898"}},{"text":"Yasssss","created_at":1454916799.0,"id":"1180250119529809380","user":{"username":"theonikaprint_","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12530988_189365698091897_1220117545_a.jpg","id":"2301322784"}},{"text":"@hitlerfetus we can get nicki minaj alcohol wht","created_at":1454931788.0,"id":"1180375852717688319","user":{"username":"tiniestfox","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12728694_1114081065283447_1904342050_a.jpg","id":"240202737"}},{"text":"I was just looking for My Fusions at Wal-Mart in Fort Worth, TX. the other day.....please come soon boo \ud83d\ude19\ud83d\ude0b\ud83d\ude18\ud83d\ude18\ud83d\ude0a","created_at":1454933056.0,"id":"1180386491133576563","user":{"username":"nikkicbossb","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12501713_422450067946489_619374958_a.jpg","id":"243045757"}},{"text":"Oh girrrrl hit up Canada \u2764\ufe0f\ud83c\udf41\ud83c\udf41\ud83c\udf41 plz \ud83d\ude0a","created_at":1454945084.0,"id":"1180487387490272382","user":{"username":"lipstickandkillshots","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12628006_751223868312252_1073953411_a.jpg","id":"2360556155"}},{"text":"\u0633","created_at":1454948615.0,"id":"1180517004200625567","user":{"username":"misss1394","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12547733_1008616015844112_1727830296_a.jpg","id":"2911378807"}},{"text":"I think you are more cute with long hair. @nickiminaj","created_at":1454968668.0,"id":"1180685224077412215","user":{"username":"bianca_tumbler","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12599342_609814845832961_360557252_a.jpg","id":"1980909988"}},{"text":"Margate???","created_at":1455016191.0,"id":"1181083874704213242","user":{"username":"amzkent","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12530774_1011481182250937_788934247_a.jpg","id":"2248167623"}},{"text":"Miramar","created_at":1455078171.0,"id":"1181603803631174985","user":{"username":"april_0_to_100","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12558330_1517196098586170_1575365147_a.jpg","id":"2925310647"}},{"text":"@nickiminaj I have two hot hooks and video treatments that are fire I live in Philadelphia and I am down to meet","created_at":1455133706.0,"id":"1182069661369353925","user":{"username":"10grams","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12362603_1702734303290740_529276075_a.jpg","id":"244695481"}},{"text":"@biancagiorgiii wish we had this here!!!!","created_at":1455201215.0,"id":"1182635965826451070","user":{"username":"capicatz","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/11267566_1731144707115793_104193073_a.jpg","id":"248393910"}},{"text":"@capicatz like imagine drinking her drink like, were your biggest fans send some over to Canada \ud83d\ude44\ud83d\ude2d","created_at":1455201426.0,"id":"1182637738305767285","user":{"username":"biancagiorgiii","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12729648_822954617833553_1263434568_a.jpg","id":"182267121"}},{"text":"#youngfemaleboss","created_at":1455208935.0,"id":"1182700728774281101","user":{"username":"miss_racheltx","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12338633_1035667426485643_110898063_a.jpg","id":"8555508"}},{"text":"**","created_at":1455208937.0,"id":"1182700749947127695","user":{"username":"miss_racheltx","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12338633_1035667426485643_110898063_a.jpg","id":"8555508"}},{"text":"\u2600\u2605HELLO! I HAVE JUST GOT FREE 10K REAL INSTAGRAM FOLLOWERS\u2764 FROM HERE -> @addigfollowers1 \u2764\u2744\u2600!","created_at":1455225563.0,"id":"1182840218230703717","user":{"username":"rjv57572","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11906329_960233084022564_1448528159_a.jpg","id":"2931741945"}},{"text":"hello","created_at":1455229954.0,"id":"1182877048204412117","user":{"username":"hamidkral935","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/12383580_933637220024682_2008907652_a.jpg","id":"2580533661"}},{"text":"HIIIII IM THE BEST FEMALE RAPPER IN HOUSTON GO Listen\ud83d\udc42\ud83c\udffb\ud83d\udc42\ud83c\udffb\ud83d\udc42\ud83c\udffb\ud83d\udc42\ud83c\udffb\ud83d\udc42\ud83c\udffb NOW GOD BLESS","created_at":1455255864.0,"id":"1183094397834610391","user":{"username":"kbtherapper","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/924130_772852632810281_1392143075_a.jpg","id":"38004267"}},{"text":"Unblock @chiraq_legends","created_at":1455274621.0,"id":"1183251748482959203","user":{"username":"ddb.bandzz","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12627987_1024297687626451_1035204027_a.jpg","id":"484183136"}},{"text":"Ball head","created_at":1455353877.0,"id":"1183916593305863355","user":{"username":"mkhbester","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11906329_960233084022564_1448528159_a.jpg","id":"2868324389"}},{"text":"That is my shit . its heaven yaaasss best shit ever ! That's allllll I drink fr 100","created_at":1455383646.0,"id":"1184166310799459677","user":{"username":"rissamindlessbaby","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/11349276_934107666666206_1817862018_a.jpg","id":"1719371761"}},{"text":"\ud83d\ude33","created_at":1455385250.0,"id":"1184179771646395452","user":{"username":"13thsignofthezodiac","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12627866_1540889172907076_689705722_a.jpg","id":"1968707971"}},{"text":"\ud83d\ude03","created_at":1455397453.0,"id":"1184282133157365296","user":{"username":"darriusrick","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12552363_230153837323624_971701834_a.jpg","id":"2426868669"}},{"text":"@andreaschums maricaaa \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1455402118.0,"id":"1184321262800848442","user":{"username":"riricorcholis","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12394168_835798763196655_1618858507_a.jpg","id":"15204613"}},{"text":"La cagamos. No fuimos #fail @andreaschums \ud83d\ude02","created_at":1455402150.0,"id":"1184321536957335152","user":{"username":"riricorcholis","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12394168_835798763196655_1618858507_a.jpg","id":"15204613"}},{"text":"@dancindiva143","created_at":1455406232.0,"id":"1184355780530259939","user":{"username":"justin_case8","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12356486_1642497879335455_827222746_a.jpg","id":"176144176"}},{"text":"Loljobbvvpypbuvuvpfpvdpt","created_at":1455407529.0,"id":"1184366655882380389","user":{"username":"hannahhannah839","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/1170509_472649862926723_1536032471_a.jpg","id":"2323880850"}},{"text":"When a bih from homestead","created_at":1455418228.0,"id":"1184456408778655377","user":{"username":"_moonz_","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12716900_843993549044395_726159038_a.jpg","id":"195067605"}},{"text":"@gemmakeaston","created_at":1455427387.0,"id":"1184533241155012479","user":{"username":"ainslieeaston","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11809804_1503942746564092_44436897_a.jpg","id":"218577958"}},{"text":"@ainslieeaston lol","created_at":1455435956.0,"id":"1184605120687491025","user":{"username":"gemmakeaston","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11142190_1417744575209581_1352092340_a.jpg","id":"245973170"}},{"text":"Myxmoscato in  chile","created_at":1455500381.0,"id":"1185145561396790519","user":{"username":"ladylauratm31362","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12728654_1692410987671861_1184437252_a.jpg","id":"2030193352"}},{"text":"@thee_milf  I'm on it","created_at":1455505592.0,"id":"1185189271169910478","user":{"username":"renayalexander2","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12407509_1699154136963730_292836042_a.jpg","id":"1634343810"}},{"text":"Voyons chu cramp\u00e9 !!! Nicki aussi b\u00e2tit son empire au Walmart @cdecourville @pri.deschamps","created_at":1455517610.0,"id":"1185290086995969828","user":{"username":"lucleblan","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12545428_160444670996577_434675396_a.jpg","id":"433018230"}},{"text":"@peransesminaj \u0645\u0646\u0645 \u06af\u0641\u062a\u0645 \u06a9\u0627\u0631\u062a \u06a9 \u062a\u0645\u0648\u0645 \u0634\u062f","created_at":1455537639.0,"id":"1185458098130633912","user":{"username":"emadd7041","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/10413828_158826254486172_806033336_a.jpg","id":"1642360066"}},{"text":"Hahahahaha Rihanna enwaye au tigre g\u00e9ant on start une comp\u00e9 @lucleblan @cdecourville","created_at":1455564118.0,"id":"1185680219159119056","user":{"username":"pri.deschamps","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12599012_970141319690211_327590807_a.jpg","id":"2055055679"}},{"text":"Wssup bae","created_at":1455571739.0,"id":"1185744152708498787","user":{"username":"mrflyboyswag","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12677657_791215494315705_220958066_a.jpg","id":"2939950885"}}]},"id":"1167633736212137291","caption":"And let me take this time to thank #Walmart for coming on board with my #moscato \ud83d\ude4f\ud83c\udffd we are #1 b\/c I've never had to force it on ppl. I've never met a person who didn't like the taste of it! So thank you Walmart, & thank you to the incredible sales teams out there doing an amazing job at keeping us at the #Top spot. #YoungBlackFemaleBoss cheers to every #woman who #Owns her Company. Thank you to the consumer for giving us a chance. Love u \ud83d\udc8b","likes":{"count":168601,"viewer_has_liked":false,"nodes":[{"user":{"username":"queen.aaliyah._","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12716455_1695899764028101_1141876248_a.jpg","id":"2948639405"}},{"user":{"username":"musical.lylover_","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11906329_960233084022564_1448528159_a.jpg","id":"2948437026"}},{"user":{"username":"nickibeyqueens","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12142479_168071520236971_6662315_a.jpg","id":"2949087654"}},{"user":{"username":"raerae_6543","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12599040_329986963792162_1969985144_a.jpg","id":"2948831494"}},{"user":{"username":"rozhannnnnnnnnnnnnnnnnn","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11906329_960233084022564_1448528159_a.jpg","id":"2948529768"}},{"user":{"username":"jakedope64","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/11906329_960233084022564_1448528159_a.jpg","id":"2948268077"}},{"user":{"username":"zinaj73","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12748426_1122120151141242_724193257_a.jpg","id":"2947382573"}},{"user":{"username":"_alina_kat_","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12751273_1711757569042738_926996074_a.jpg","id":"2948117653"}},{"user":{"username":"eminacisija","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12716537_478162785722911_1454929621_a.jpg","id":"2947339897"}},{"user":{"username":"bey.bey.beyonce","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12747729_1758789051022529_263702266_a.jpg","id":"2949108827"}}]},"owner":{"username":"nickiminaj","is_unpublished":false,"requested_by_viewer":false,"followed_by_viewer":false,"blocked_by_viewer":false,"profile_pic_url":"https:\/\/scontent.cdninstagram.com\/t51.2885-19\/s150x150\/12362309_921456431278751_644385854_a.jpg","full_name":"Nicki Minaj","has_blocked_viewer":false,"id":"451573056","is_private":false},"is_video":false,"is_ad":false,"display_src":"https:\/\/scontent.cdninstagram.com\/t51.2885-15\/e35\/12424595_1692219331057403_1528240972_n.jpg?ig_cache_key=MTE2NzYzMzczNjIxMjEzNzI5MQ%3D%3D.2","location":null}}]},"qe":{"nav":{"p":{},"g":""},"su":{"p":{},"g":""},"discovery":{"p":{},"g":""}},"display_properties_server_guess":{"viewport_width":360,"pixel_ratio":1.5},"config":{"viewer":null,"csrf_token":"a839915f3315ba16a7a01f8b0c156234"},"environment_switcher_visible_server_guess":true};</script>
+<script src="//instagramstatic-a.akamaihd.net/h1/bundles/en_US_Commons.js/3c52a0a63b2c.js" type="text/javascript"></script>
+<script src="//instagramstatic-a.akamaihd.net/h1/bundles/en_US_PostPage.js/8fcc50bee964.js" type="text/javascript"></script>
+        
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1425767024389221');
+fbq('track', 'PageView');
+
+
+</script>
+<noscript>
+
+
+</noscript>
+
+    
+    <script type="text/javascript">window._timings.domInteractive = Date.now()</script>
+
+    </body>
+</html>

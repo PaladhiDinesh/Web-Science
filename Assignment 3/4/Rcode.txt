@@ -1,0 +1,5 @@
+Pagerank <-- c(0,0,0,0.6,0.6,0.6,0.6,0.6,0.6,0.7)
+
+TFIDF <-- c(0.0045,0.0067,0.0075,0.0082,0.0082,0.015,0.0352,0.0449,0.1167,0.3606)
+
+cor.test(TFIDF,Pagerank, method = "kendall", alternative = "greater")

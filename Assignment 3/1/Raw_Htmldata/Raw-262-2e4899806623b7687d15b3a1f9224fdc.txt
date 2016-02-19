@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://thezaytsevteam.wordpress.com/xmlrpc.php">
+
+<title>The Second Avenue Subway explained &#8211; The Zaytsev Team Blog</title>
+<link rel="alternate" type="application/rss+xml" title="The Zaytsev Team Blog &raquo; Feed" href="https://thezaytsevteam.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Zaytsev Team Blog &raquo; Comments Feed" href="https://thezaytsevteam.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s0.wp.com/_static/??-eJyFkN2uAiEMhF9IJOao0QtznmWXrchKaUO72fj2sm7U+BO8ITPNfEzBjmwcJYWkFgfDcfAhiRUMES6cqQenr27pRBb2OxbDGcT2oNy4s7m5j3gbyT8B8h46GtQcKUYa7Rg6D9WODLFR6AyT6JurYY4ylDlyo1MCoQsNRMASq2HI2zs1yVN5V7Vm5JI2bcsZREw5MQxo9FSKfqyH0yrzn9kSfJ3MaLCJNBRaHqJ2p4cEeY5/lRP7j4fVev23XW12+31/BcdExs0=' type='text/css' media='all' />
+<link rel='stylesheet' id='boardwalk-source-code-pro-css'  href='https://fonts.googleapis.com/css?family=Source+Code+Pro%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.4.1-alpha-36109' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/_static/??-eJx9i0sOwjAMBS+EsWhA6gZxliSYkGLHUT6KuD1FbMqmm6c30gyODF5To9SwPUmoYu4OndpyH5ZfGJPH2t5MMLJXOfpaD7iJpEPmHmKqSKJL/O2eFkiB1dsWNf0BPNjGspcWcqxhvQFXa4Pf6CbX0/liptlMZl4+4VVQVw==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3' href='https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1444132114g' type='text/css' media='print' />
+<link rel='stylesheet' id='cubic-montserrat-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='cubic-playfair-display-css'  href='https://fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-8' href='https://s1.wp.com/_static/??-eJyNzcEKQiEQheEXyoZAixbRs6iZWqMjzoj09t0Ltaqg1dl8PwdmU56qhCogKZTA0IYDR7ZfpsU7sDwwbD3zBr5TP1z2/7JcX1TN5ql8BGWohiPmukTEoq5ocwdOtuca3/vrJmmISM7iCs7ltNNGm+Nhb8ztCXCDVRM=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFj90OwiAMhV9IJJvzwgvjs2yjI0WgSEGiTy9L1MS5aNKkf985aWUJAv1oswKWpsYlQ7w909bwRv4ChEMd+wRbh/4Fj+QT+DSzjga0IDJD7HWdVaOJVrhAnBwwV2hl+3kS+itC+YsZSKEfzyIC4/3LdbCkRbBZo2dZaw2KchITWUtFFlQa0lLj8lsRwdanlZjvXnRVdXLHput2bdscmr15AHGYhE4='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thezaytsevteam.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='These Are The Streets You Need To Know About In New York City' href='https://thezaytsevteam.wordpress.com/2016/02/01/these-are-the-streets-you-need-to-know-about-in-new-york-city/' />
+<link rel='next' title='Why Central Park Is The Best' href='https://thezaytsevteam.wordpress.com/2016/02/01/why-central-park-is-the-best/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/" />
+<link rel='shortlink' href='http://wp.me/p790fT-4u' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fthezaytsevteam.wordpress.com%2F2016%2F02%2F01%2Fthe-second-avenue-subway-explained%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fthezaytsevteam.wordpress.com%2F2016%2F02%2F01%2Fthe-second-avenue-subway-explained%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Second Avenue Subway explained" />
+<meta property="og:url" content="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/" />
+<meta property="og:description" content="Written by: REBECCA HARSHBARGER AND CRISTIAN SALAZAR The construction of the Second Avenue Subway on the Upper East Side has been an epic odyssey. But after decades of false starts, officials said ..." />
+<meta property="article:published_time" content="2016-02-01T01:00:40+00:00" />
+<meta property="article:modified_time" content="2016-02-01T02:47:43+00:00" />
+<meta property="og:site_name" content="The Zaytsev Team Blog" />
+<meta property="og:image" content="https://thezaytsevteam.files.wordpress.com/2016/02/image.jpg" />
+<meta property="og:image:width" content="730" />
+<meta property="og:image:height" content="350" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://thezaytsevteam.files.wordpress.com/2016/02/image.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://thezaytsevteam.wordpress.com/osd.xml" title="The Zaytsev Team Blog" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="The Zaytsev Team Blog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="&quot;We deliver New York City real estate news on a platter&quot; - The Zaytsev Team at Charles Rutenberg" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://thezaytsevteam.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="The Second Avenue Subway explained | The Zaytsev Team Blog on WordPress.com" />
+<meta name="description" content="Written by: REBECCA HARSHBARGER AND CRISTIAN SALAZAR The construction of the Second Avenue Subway on the Upper East Side has been an epic odyssey. But after decades of false starts, officials said on Friday that the subway line’s first phase is 90% complete. The journey to launch the new line goes back to the 1920s, when&hellip;" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="single single-post postid-278 single-format-standard mp6 customizer-styles-applied has-sidebar highlander-enabled highlander-light">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+						<div class="clear">
+				<h1 class="site-title"><a href="https://thezaytsevteam.wordpress.com/" rel="home">The Zaytsev Team Blog</a></h1>
+				<h2 class="site-description">&quot;We deliver New York City real estate news on a platter&quot; &#8211; The Zaytsev Team at Charles Rutenberg</h2>
+			</div>
+		</div><!-- .site-branding -->
+					<button class="sidebar-toggle" aria-expanded="false" ><span class="screen-reader-text">Toggle Sidebar</span></button>
+			</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-278" class="post-278 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+			<div class="entry-thumbnail">
+			<img width="730" height="350" src="https://thezaytsevteam.files.wordpress.com/2016/02/image.jpg?w=730&amp;h=350&amp;crop=1" class="attachment-boardwalk-hero-image size-boardwalk-hero-image wp-post-image" alt="image" />		</div><!-- .entry-thumbnail -->
+	
+	<header class="entry-header">
+		<div class="entry-meta">
+			<span class="posted-on"><time class="entry-date published" datetime="2016-02-01T01:00:40+00:00">February 1, 2016</time><time class="updated" datetime="2016-02-01T02:47:43+00:00">February 1, 2016</time></span>		</div><!-- .entry-meta -->
+		<h1 class="entry-title">The Second Avenue Subway explained</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h6>Written by: REBECCA HARSHBARGER AND CRISTIAN SALAZAR</h6>
+<p>The construction of the Second Avenue Subway on the Upper East Side has been an epic odyssey. But after decades of false starts, officials said on Friday that the subway line’s first phase is 90% complete.</p>
+<p>The journey to launch the new line goes back to the 1920s, when the route was first proposed by a state agency. Construction has been derailed by the Great Depression, World War II, the city’s financial woes in the seventies, and the challenges of building in one of the densest neighborhoods in the country.</p>
+<p>The state finally broke ground on this first phase of the line in April 2007, though construction work had been undertaken in previous decades in Chinatown and East Harlem.</p>
+<p>MTA officials say that once it is complete, the Second Avenue Subway will allow residents and workers to be able to get to the west side of Manhattan more easily, and many commuters near Second Avenue may be able to skip bus or car service.</p>
+<p>“There are many benefits. It will give the Upper East Side more travel options that they didn’t have,” said board member Andrew Albert, chairman of the Transit Riders Council.</p>
+<p>Here’s what else you need to know about the Second Avenue Subway.</p>
+<section id="1">
+<h2>The Second Avenue Subway is designed to take ridership pressure off the crowded Lexington Line</h2>
+<figure><img id="1_11244945" class="" title="The Second Avenue Subway is designed to take ridership pressure off the crowded Lexington Line  " src="https://i0.wp.com/cdn.newsday.com/polopoly_fs/1.11244945.1450645819!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" alt="The MTA expects the new subway route to" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>The MTA expects the new subway route to be used by 200,000 people each weekday, which will take ridership pressure off the Lexington Avenue route, the most-used transit line in the country. Currently, that route, on the Upper East Side, is served by the No. 4, 5, and 6 trains. That&#8217;s in stark contrast to the Upper West Side, which is served by both the Broadway lines (No. 1, 2, and 3 trains) and the Central Park West lines (the B and C trains). The neighborhood once had two other subway routes on Second and Third avenues, but the noisy elevated routes were torn down to improve real estate values.<em>(Credit: Brian via Flickr)</em></p>
+</section>
+<section id="2">
+<h2>There’s a ‘moderate risk’ the MTA won’t be able to meet its Dec. 2016 deadline</h2>
+<figure><img id="1_11244944" class="" title="There’s a ‘moderate risk’ the MTA won’t be able to meet its Dec. 2016 deadline " src="https://i1.wp.com/cdn.newsday.com/polopoly_fs/1.11244944.1450484137!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" alt="The Second Avenue Subway was designed to be" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>The Second Avenue Subway was designed to be built in four phases. The $4.45 billion first phase, which is currently under construction, will include three stations on 96th, 86th, and 72nd streets. It is scheduled to open to the public in December 2016. However, the MTA is behind on track installation and construction of entrances at the future 72nd Street station, as well as bringing power to the 86th Street station.<em>(Credit: MTA)</em></p>
+</section>
+<section id="3">
+<h2>No one reading this story will likely be alive when the Second Avenue Subway is completed</h2>
+<figure><img id="1_11244941" class="" title="No one reading this story will likely be alive when the Second Avenue Subway is completed" src="https://i0.wp.com/cdn.newsday.com/polopoly_fs/1.11244941.1450484096!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" alt="It's unclear when the other three phases will" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>It&#8217;s unclear when the other three phases will be completed or how much they will cost. There is $535 million budgeted in the 2015-2019 capital plan for design work and utility location for the second phase that runs to East Harlem, with tunneling expected to begin after 2019. The third phase will run to Houston Street, the fourth to the Financial District.</p>
+</section>
+<section id="4">
+<h2>The three new stations will have new features to keep them cool and accessible</h2>
+<figure><img id="1_11244939" class="" title="The three new stations will have new features to keep them cool and accessible" src="https://i0.wp.com/cdn.newsday.com/polopoly_fs/1.11244939.1450617579!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" alt="While there won't be air conditioning at the" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>While there won&#8217;t be air conditioning at the new stations, they will be 10 degrees cooler than it is on the street due to climate controls. The stations will all have Wi-Fi and porcelain panels that are easier to clean. They will also be accessible by wheelchair; there will be elevators and escalators. They have an open style and are column-free.<em>(Credit: MTA)</em></p>
+</section>
+<section id="5">
+<h2>The Q train will serve the Second Avenue Subway</h2>
+<figure><img id="1_11244938" class="" title="The Q train will serve the Second Avenue Subway" src="https://i0.wp.com/cdn.newsday.com/polopoly_fs/1.11244938.1452035571!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" alt="When the Q is sent to the Upper" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>When the Q is sent to the Upper East Side, instead of Queens, the MTA may bring back the W train that hasn&#8217;t been around since 2010. N train riders who currently have only local service in Manhattan may then get express service back. Local stations along the Broadway line that the N currently serve will likely need another train to make up for the loss of service.<em>(Credit: gmpicket via Flickr)</em></p>
+</section>
+<section id="6">
+<h2>The cost of building the Second Avenue Subway was once estimated at $86 million</h2>
+<figure><img id="1_11244926" class="" title="The cost of building the Second Avenue Subway was once estimated at $86 million" src="https://i2.wp.com/cdn.newsday.com/polopoly_fs/1.11244926.1450483342!/httpImage/image.png_gen/derivatives/display_600/image.png" alt="When the Second Avenue Subway was proposed in" /></p>
+<div class="simpleShare"></div>
+</figure>
+<p>When the Second Avenue Subway was proposed in the 1920s, it was estimated it would cost $86 million to build it from the Harlem River to Houston Street. The MTA is spending $4.45 billion on the three new stops, as well as a connection to the Lexington Avenue/63rd Street station.<em>(Credit: MTA)</em></p>
+</section>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-278" class="share-twitter sd-button share-icon" href="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-278" class="share-facebook sd-button share-icon" href="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-278" class="share-google-plus-1 sd-button share-icon" href="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-105580289-278-56c2b0eb57142' data-src='//widgets.wp.com/likes/#blog_id=105580289&amp;post_id=278&amp;origin=thezaytsevteam.wordpress.com&amp;obj_id=105580289-278-56c2b0eb57142' data-name='like-post-frame-105580289-278-56c2b0eb57142'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>			</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="byline">By <span class="author vcard"><a class="url fn n" href="https://thezaytsevteam.wordpress.com/author/zaytsevteam/">zaytsevteam</a></span></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+
+			<div class="nav-previous"><a href="https://thezaytsevteam.wordpress.com/2016/02/01/these-are-the-streets-you-need-to-know-about-in-new-york-city/" rel="prev"><span class="screen-reader-text"><span class="meta-nav">&larr;</span>&nbsp;These Are The Streets You Need To Know About In New York City</span></a></div><div class="nav-next"><a href="https://thezaytsevteam.wordpress.com/2016/02/01/why-central-park-is-the-best/" rel="next"><span class="screen-reader-text">Why Central Park Is The Best&nbsp;<span class="meta-nav">&rarr;</span></span></a></div>
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="sidebar" class="sidebar" aria-hidden="true">
+	<div class="sidebar-content">
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+				<h1 class="menu-title">Menu</h1>
+				<div class="menu-primary"><ul id="menu-menu-1" class="clear"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-50"><a href="https://thezaytsevteam.wordpress.com/2016/01/19/our-purpose/">About</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51"><a href="https://thezaytsevteam.wordpress.com/2016/01/19/services/">Services</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://thezaytsevteam.wordpress.com/blog/">Contact Us</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		
+				<div id="secondary" class="widget-area" role="complementary">
+			<aside id="widget_contact_info-3" class="widget widget_contact_info"><h1 class="widget-title">Address</h1>				<div class="contact-map">
+				<input type="hidden" class="contact-info-map-lat" value="40.7606473" />
+				<input type="hidden" class="contact-info-map-lon" value="-73.9700095" />
+				<div class="contact-info-map-canvas"></div></div><div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=127+east+56th+street,+new+york,+ny+10022" target="_blank">127 East 56th Street, New York, NY 10022</a></div></aside><aside id="archives-5" class="widget widget_archive"><h1 class="widget-title">Past posts</h1>		<label class="screen-reader-text" for="archives-dropdown-5">Past posts</label>
+		<select id="archives-dropdown-5" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://thezaytsevteam.wordpress.com/2016/02/'> February 2016 </option>
+	<option value='https://thezaytsevteam.wordpress.com/2016/01/'> January 2016 </option>
+
+		</select>
+		</aside>		</div><!-- #secondary -->
+			</div><!-- .sidebar-content -->
+</div><!-- #sidebar -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+				<div class="site-info">
+			<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+			<span class="sep"> | </span>
+			<a href="https://wordpress.com/themes/cubic/" title="Learn more about this theme">The Cubic Theme</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201607y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;The Zaytsev Team Blog&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+			
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="105580289"/>
+			<input type="hidden" name="source" value="https://thezaytsevteam.wordpress.com/2016/02/01/the-second-avenue-subway-explained/?platform=hootsuite"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="534f579c2d" /><input type="hidden" name="_wp_http_referer" value="/2016/02/01/the-second-avenue-subway-explained/?platform=hootsuite" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/thezaytsevteam.wordpress.com\/2016\/02\/01\/the-second-avenue-subway-explained\/":278};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<iframe src='https://widgets.wp.com/likes/master.html?ver=20151208#ver=20151208&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'clickReblogFlair' == event.event ) {
+					wpcom_reblog.toggle_reblog_box_flair( event.obj_id );
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/widgets/contact-info/contact-info-map.css?m=1422407963g' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVkNsOwjAIhl/ISjTLshvjs6wdU3oktl19fDuvNs9eQeD74QcoLFTwCX0CHWHAiRTydavjBhYtlwXbfCIfQQXnaklYMhhnjSUJsRDjP6JV4VGYzugqxlmCDP1lKL01s4h79bTkHRsNcZ3ujRiDylGM9OkodEETpLKKX3mNqVoy4jf6JbWwr7Ikdf/NnFTw6A67pumatu26vb4BbtGeFA=='></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;ver=4.4.1-alpha-36109'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJxti8sOQDAQAH/IWqSCg/iWxqNW2m1jV/w+Dg4Sp8lkMngmGCPrzIrhgOQPRyx40uRmFXySHRWIl/gRCDblm2T4/6coCou3tKOsdid2L+9pCH1p6qopW1N02wWULC96'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "thezaytsevteam.wordpress.com";
+	</script>
+	<script type="text/javascript" src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="//stats.wp.com/w.js?51" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'105580289','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'105580289','v':'wpcom','tz':'0','user_id':'0','post':'278','subd':'thezaytsevteam'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1mJVY3bm9aR3VCbS9mWm1pRyZuJS1LX1t5QmRXZzE3RC9rQWZHK1FjbDltdWdaMVFFZTcxNEIvUkxpVDNPci0wW1VXbyt8OFR6Y0RLMD1hYlZHZV1kQ3drJXdvRnFZaHR4T0xEMklob1Q9K2RLL1gzTl13OTF2N3NTLGR4RG8zfjNGSEh8cysteklmR1VofjlLOVFhLUlNPzltUzZHUS0vbnJMP0dPLEFLRG96Y1VNdEcyeGdYP0p4JjB5QjB5NlJPYUtPd3hPZDRyVVZbNS5KLjMyWlBXQ3EzfjBhOWExOHEwKy5hc1kwSFRtZWMvdyw2S2pQTlRwX3lGWUtQTWk3OVN5dS4/P3BOa1JGb0RRWnUwMn5rTQ=='}]);
+_stq.push([ 'clickTrackerInit', '105580289', '278' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

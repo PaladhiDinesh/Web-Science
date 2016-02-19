@@ -1,0 +1,3020 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Disable IE compatibility view - needs to appear before any IE conditional comments -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<meta charset="UTF-8" />
+
+	<title>[VIDEO] Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s &#8216;Late Show&#8217; Post-Super Bowl | Deadline</title>
+
+	<link rel="image_src" link="https://s0.wp.com/wp-content/themes/vip/pmc-deadline/screenshot.png" />
+	<meta name="viewport" content="width=device-width" />
+
+	
+<!-- Facebook / OpenGraph -->
+<meta property="fb:page_id" content="105558754896" />
+
+<!-- Deprecated: Yahoo Site Explorer -->
+<meta name="y_key" content="a810be562637c603" />
+
+<!-- Pinterest -->
+<meta name="p:domain_verify" content="f5dfa14b5684550478e0b704b2c372b9">
+
+<!-- Apple Smart App Banner -->
+<meta name="apple-itunes-app" content="app-id=533209613">
+
+<!-- Pingdom RUM start -->
+<script type="text/javascript">
+var _prum = [['id', '53349e43abe53d611f527b3d'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<!-- Pingdom RUM end -->
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+		<!-- Amazon adcode begin-->
+		<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+				<script type='text/javascript'>
+			var crtg_nid = '4959';
+			var crtg_cookiename = 'crtg_rta';
+			var crtg_varname = 'crtg_content';
+			function crtg_getCookie(c_name) {
+				var i, x, y, ARRCookies = document.cookie.split(";");
+				for (i = 0; i < ARRCookies.length; i++) {
+					x = ARRCookies[i].substr(0, ARRCookies[i].indexOf("=") );
+					y = ARRCookies[i].substr(ARRCookies[i].indexOf("=") + 1);
+					x = x.replace(/^\s+|\s+$/g, "");
+					if (x == c_name) {
+						return decodeURIComponent(y);
+					}
+				}
+				return '';
+			}
+			var crtg_content = crtg_getCookie(crtg_cookiename);
+			var crtg_rnd = Math.floor(Math.random() * 99999999999);
+			(function () {
+				var crtg_url = location.protocol + '//rtax.criteo.com/delivery/rta/rta.js?netId=' + encodeURIComponent(crtg_nid);
+				crtg_url += '&cookieName=' + encodeURIComponent(crtg_cookiename);
+				crtg_url += '&rnd=' + crtg_rnd;
+				crtg_url += '&varName=' + encodeURIComponent(crtg_varname);
+				var crtg_script = document.createElement('script');
+				crtg_script.type = 'text/javascript';
+				crtg_script.src = crtg_url;
+				crtg_script.async = true;
+				if (document.getElementsByTagName("head").length > 0) {
+					document.getElementsByTagName("head")[0].appendChild(crtg_script);
+				}
+				else if (document.getElementsByTagName("body").length > 0) {
+					document.getElementsByTagName("body")[0].appendChild(crtg_script);
+				}
+			})();
+		</script>
+	
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7Eorf" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Jhm7Eorf";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+			<meta name="publish-date" content="2016-02-08 13:40:39 +0000" />
+			
+<meta name="description" content="&quot;Why is Fox News feuding with Donald Trump?&quot; Stephen Colbert asked FNC show host Megyn Kelly on tonight&#039;s live post-Super Bowl broadcast of The Late Show. &quot;What do you have against that good man. He&#039;s just a billionaire who also wants to have the nuclear launch codes." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="Donald Trump, GOP Debate, Megyn Kelly, Stephen Colbert, Super Bowl" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"deadline","page-type":"article","env":"desktop","primary-category":"Late Night TV","primary-vertical":"tv","vertical":["tv","video"],"category":["Breaking News","Late Night TV","News","Politics","TV News"],"tag":["Donald Trump","GOP Debate","Megyn Kelly","Stephen Colbert","Super Bowl"],"author":["Lisa de Moraes"],"logged-in":"","subscriber-type":"","country":"us"};
+
+/* ]]> */
+</script>
+		<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=deadline.com&amp;id=36403310&amp;t=1455600514&amp;back=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Feed" href="http://deadline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Comments Feed" href="http://deadline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl  &#8216;Late Show&#8217; Comments Feed" href="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/likes/jetpack-likes.css?m=1424450955g' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.4.1-alpha-36109' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/_static/??-eJyVkN1uwyAMhV9oFE3tMu1i2rM44DReMSBsGuXtRxo12o9ULTfI2Od81rGdsqHoQvUo1olYDzKSS1EOTPHQOk/2twR8G5keyg9J8yhGtToiN+GVss3sTA71TFFu9YghN8jlRmGM9Y+Z62ZwqWDrcwZdFIyeAENjR31k49zdXUs5grvII/2Um9r0fS4oYtrLVNmsIfZkO4fUQzBDjU4pxfVS3wbpiqWQ3wcdUlIsG2r97gEUDKDoTaC4Xl10DriHIBMNOme0IIIq/4d4BN/Wog3UFyjzluI+WAAf/P58ejm+HU+vXff5BWYC9D8=' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='pmc-deadline-ie-css'  href='https://s0.wp.com/wp-content/themes/vip/pmc-deadline/style-ie.css?m=1397757326g&#038;ver=4.4.1-alpha-36109' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-4' href='https://s2.wp.com/_static/??-eJytkeFqAyEQhF8oZmmaQPuj9FmMbszm1BVd79q3717opQmFQkN+OaMzHwPCVAxlF7vHBqcGciQ37PnjItautRVoynEWzKIPmDQ7UoGSnPFofaSMUGIPlBssF6YULfUmnIz6ARQETT4j3o8cmZwGZ9JEPqDcj0pc0RyqjrNdjlwfB80oE9dBz+kxU6MVbGJGrELOxv+CF96srU/n5rc2V/9BkFn5rMlF/CKnfqEFZBPZWSHON8YcoqX6V7XiPnJQGc5bfuxcek9vT9vdZrd92bw+n74AWHX8Dw==' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A600%2C300&#038;ver=4.4.1-alpha-36109' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-6' href='https://s1.wp.com/_static/??-eJydjkkOwjAQBD+EGUUEgQ+It3gZO0bjRRmb4N+ziAOXCMS1u0rdsBRhcqqYKtQJIzJcQ4ESjbCoLIWEUKj5kPgV6nwT2blgUKQWNc4MXDvhWrs1zBv4YYSCntXc4cEDL8HVXvCb/HnMKyJ8+1rx365FpxrVNX0awVPWip7AOZ6Gcb+Tg5THw+UOHcJ67w==' type='text/css' media='all' />
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js?m=1392820885g"></script><script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1436193849g"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-deadline/',
+				current_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-deadline/',
+				fb_channel_uri: 'https://s1.wp.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"1201698161","dimension4":"ldemoraes","dimension5":"breaking-news|late-night-tv|news|politics|tv-news","dimension6":"donald-trump|gop-debate|megyn-kelly|stephen-colbert|super-bowl","dimension7":"tv|video","dimension8":"late-night-tv","dimension9":"tv","dimension10":"2016","dimension11":"02","dimension12":"08","dimension13":"05","dimension14":"40","dimension25":"2016-02-08T13:40:39+00:00","dimension26":"2016-02-08 05:40:39"};			pmc_ga_dimensions['dimension15'] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							})('pmc_ga_dimensions');
+			ga('create', 'UA-1915907-29', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+						ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmcdeadline2.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmcdeadline2.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJytkN0OwiAMhV9IxN8LL4zPMrGybtAihS369LJFL4yLxsSEpOTw9XBa3QeFZFw+geimnEuGeH2UeSMz/QlQHm2sEsw90hM2TAkoDaznIzpQWSBWtmjF6MwTXGBJHkQKNPH6GgmpQ+i/Yg2kUJlWRRC8vbmmGsp/usOggzcquGyRZLzX4EIZtR3zA+UfWq3jY+XUOZNJyDSua9AjeO5ApVgCIdk/ONbMrRSfg98vN+vddrlY7TbNHaiKrCY='></script>
+<script type='text/javascript' src='//video-cdn.deadline.com/libraries/RonuikeE.js?ver=4.4.1-alpha-36109'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/deadline.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var deadline_comments_ajax = {"ajaxurl":"\/dl-ajax\/dl-comments\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_criteo_script_code = {"enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydksFuwyAQRH+omFSOpV6qfguGTbquYekCdujXF1xZapJDYt9gVvM02lk5e6HJRXBRxk+wEOSEXnqrhR/TGV1Y3hMaoKKoDCyHIINm9LEZwot8DqDJBk0M1fz/vwHRM6gvdGfhYA6VcyU8ABlQZkQHciWuQk1ii2Eh3onPUkfsWXGuDEsG2OEPNzqFSHYHYvhOwLmZVfaE+1L8FbTHuWq7F5oplUbAiEiiNGQq9FbbULsythJGUmWvYmq35lpOhy6CTifUIFyyPXBY7/B+Uvgf9v312HWH9ti1b8Mv4oQsNg=='></script>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p2sKaa-1jkcAp' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Megyn Kelly Tackles Trump, O&#039;Reilly On Stephen Colbert&#039;s Post-Super Bowl  &#039;Late Show&#039;" />
+<meta property="og:url" content="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" />
+<meta property="og:description" content="&quot;Why is Fox News feuding with Donald Trump?&quot; Stephen Colbert asked FNC show host Megyn Kelly on tonight&#039;s live post-Super Bowl broadcast of The Late Show. &quot;What do you have against that good man. H..." />
+<meta property="article:published_time" content="2016-02-08T13:40:39+00:00" />
+<meta property="article:modified_time" content="2016-02-08T18:57:19+00:00" />
+<meta property="og:site_name" content="Deadline" />
+<meta property="og:image" content="https://pmcdeadline2.files.wordpress.com/2016/02/article-colbert-1-0207.jpg?w=635" />
+<meta property="og:image:width" content="635" />
+<meta property="og:image:height" content="359" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@Deadline" />
+<meta name="twitter:image:src" content="https://pmcdeadline2.files.wordpress.com/2016/02/article-colbert-1-0207.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Megyn Kelly Tackles Trump, O&#039;Reilly On Stephen Colbert&#039;s Post-Super Bowl  &#039;Late Show&#039;" />
+<meta name="twitter:description" content="&quot;Why is Fox News feuding with Donald Trump?&quot; Stephen Colbert asked FNC show host Megyn Kelly on tonight&#039;s live post-Super Bowl broadcast of The Late Show. &quot;What do you have against that good man. H..." />
+<meta name="twitter:image" content="https://pmcdeadline2.files.wordpress.com/2016/02/article-colbert-1-0207.jpg" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/ea830583f836637483f0f89240cb0b53?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/ea830583f836637483f0f89240cb0b53?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=114" />
+<link rel='openid.server' href='http://pmcdeadline2.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmcdeadline2.wordpress.com/' />
+<meta name="author" content="Lisa de Moraes">		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+				<link rel="search" type="application/opensearchdescription+xml"
+		      href="http://deadline.com/pmc-opensearch"
+		      title="Deadline  Search"/>
+	
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" />
+
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="title" data-type="string" content="Megyn Kelly Tackles Trump, O&#039;Reilly On Stephen Colbert&#039;s Post-Super Bowl  &#039;Late Show&#039;" />
+<meta class="swiftype" name="author" data-type="string" content="Lisa de Moraes" />
+<meta class="swiftype" name="published_at" data-type="date" content="2016-02-08 05:40:39" />
+<meta class="swiftype" name="image" data-type="enum" content="https://pmcdeadline2.files.wordpress.com/2016/02/article-colbert-1-0207.jpg?w=300" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="51" />
+<meta class="swiftype" name="tags" data-type="string" content="Donald Trump" />
+<meta class="swiftype" name="tags" data-type="string" content="GOP Debate" />
+<meta class="swiftype" name="tags" data-type="string" content="Megyn Kelly" />
+<meta class="swiftype" name="tags" data-type="string" content="Stephen Colbert" />
+<meta class="swiftype" name="tags" data-type="string" content="Super Bowl" />
+<meta class="swiftype" name="topics" data-type="string" content="TV" />
+<meta class="swiftype" name="topics" data-type="string" content="Video" />
+<meta class="swiftype" name="body" data-type="text" content="&quot;Why is Fox News feuding with Donald Trump?&quot; Stephen Colbert asked FNC show host Megyn Kelly on tonight&#039;s live post-Super Bowl broadcast of The Late Show. &quot;What do you have against that good man. He&#039;s just a billionaire who also wants to have the nuclear launch codes.&quot;
+
+Kelly responded: &quot;Donald Trump has been on Fox News 140 times in the last year. We are not feuding with him. But he does have a beef with me.&quot;
+
+Colbert noted Trump&#039;s tweet of a while back in which he said he would not call Kelly a &quot;bimbo&quot; because that would be politically incorrect, and would instead call her a &quot;lightweight reporter,&quot; wondering if Kelly would like to refuse to call Trump a &quot;blowhard&quot; or &quot;second-place loser.&quot;
+
+
+
+&quot;The only thing I really wanted to ask him was, he recently said his supporters are so devoted to him he could go in the middle of Fifth Avenue and shoot someone and he wouldn&#039;t lose a single voter. In response to which I want to ask him, &#039;Were you talking about me?&#039;&quot; Kelly said with a smile. &quot;I never go there anymore.&quot;
+Kelly has emerged as one of the lead characters in the country’s most watched TV series, The GOP Debates, after she was cited by Republican front-runner Trump as being among the reasons he boycotted FNC&#039;s recent debate on the eve of Iowa caucuses. It&#039;s a move Trump later said may have cost him the win among GOP hopefuls in that state. Trump had a run in with Kelly at the first GOP debate of this election cycle, in August, when she opened with a question to Trump: “You’ve called women you don’t like ‘fat pigs,’ ‘dogs,’ ‘’slobs’ and ‘disgusting animals’. Does that sound to you like the temperament of a man we should elect as president? And how will you answer the charge from Hillary Clinton, who is likely to be the Democratic nominee, that you are part of the war on women?”
+Trump subsequently said of Kelly’s question-asking:  “You could see there was blood coming out of her eyes, blood coming out of her -- wherever.” That debate exchange, and his subsequent comments, turned the FNC primetime star into a household name, and a Vanity Fair cover – which Colbert held up once or twice during his interview tonight.
+
+
+When Kelly moderates the next GOP debate, which Donald Trump has said he will attend, her first question should be: &quot;Mr. Trump: Boo!&quot; Colbert suggested. Kelly had her own thoughts on that.
+
+&quot;I&#039;m going to start with &#039;Apology accepted,&#039;&quot; Kelly said.
+
+Our money&#039;s on Trump having something to say about that on Twitter at the crack of dawn Monday morning.
+
+&quot;And then we&#039;re going to have at it, like we&#039;ve had at it with all the other guys – and Carly – up there,&quot; Kelly said. She and GOP candidate Carly Fiorina appear to be on a first-name basis.
+
+
+
+Colbert wondered how the elected officials who&#039;ve done time at GOP debates kids tables feel about having &quot;Donald Trump the lead guy at the Big Boy&#039;s table&quot; at virtually every debate since the White House race began.
+
+&quot;Trump has electrified the Republican base,&quot; Kelly acknowledged.
+
+Colbert&#039;s Late Show tonight is live, as is Kelly&#039;s primetime show every weeknight.  &quot;I love it. I think it adds a lot to the show,&quot; Kelly said. &quot;If you&#039;re not live at 9, because the shows around me are taped, you lose a lot.&quot;
+
+Bill O&#039;Reilly and Sean Hannity, between whose programs Kelly&#039;s is sandwiched on FNC&#039;s schedule, are &quot;phoning it in,&quot; Colbert said, throwing Kelly an opening.
+
+&quot;Let&#039;s just say they tape earlier in the day, which is an advantage to us,&quot; Kelly replied, smiling again.
+
+&quot;Wow,&quot; Colbert responded, as his studio audience made surprised noises too.
+
+Trump’s least favorite debate moderator was a later booking for Colbert&#039;s post-Super Bowl broadcast. She joined Whiskey Tango Foxtrot stars Tina Fey and Margot Robbie, Zoolander 2’s Will Ferrell, and Colbert’s former Comedy Central colleagues Keegan-Michael Key and Jordan Peele, who are starring together in Keanu,  as Colbert&#039;s show makes TV history in becoming the first late-night series to snag a live post-Super Bowl broadcast." />
+<!-- Swiftype Meta Tags End -->
+
+<meta property="trueanthem.headline" content="Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl  &#8216;Late Show&#8217;"/><meta name="application-name" content="Deadline" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Hollywood Entertainment Breaking News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://deadline.com/feed/;icon-uri=http://0.gravatar.com/blavatar/ea830583f836637483f0f89240cb0b53?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"deadline","page-type":"article","env":"desktop","primary-category":"Late Night TV","primary-vertical":"tv","vertical":["tv","video"],"category":["Breaking News","Late Night TV","News","Politics","TV News"],"tag":["Donald Trump","GOP Debate","Megyn Kelly","Stephen Colbert","Super Bowl"],"author":["Lisa de Moraes"],"logged-in":"","subscriber-type":""};
+
+/* ]]> */
+</script>
+	<script>
+		var admin_bar_showing = false;
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="pingback" href="http://deadline.com/xmlrpc.php" />
+</head>
+
+<body class="single single-post postid-1201698161 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us">
+
+	<div id="fb-root"></div>
+	<script>(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=290526267722658";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T247L5"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-T247L5');</script>
+	<!-- End Google Tag Manager -->
+
+	<div  id="pmc-adm-interrupts-container" class="interstitial" >
+	<script type="text/javascript" language="javascript">
+		pmc_admanager.settings.interrupt_counter = 10;
+	</script>
+	<style>
+		body.interrupt-ads > * {
+			display: none;
+		}
+
+		body #pmc-adm-interrupts-container {
+			display: none;
+		}
+
+		body.interrupt-ads #pmc-adm-interrupts-container  {
+			display: block;
+		}
+
+		body.interrupt-ads {
+			font-size: 1em; font-family:Verdana, Geneva, sans-serif;
+		}
+
+		body.interrupt-ads a {
+			color: #000; text-decoration: none;
+		}
+
+		#ad-interruptus-header {
+			width:75%; margin: 1% auto; padding:0;
+			font-weight: bold;
+		}
+
+		#ad-interruptus-header #site-logo, #ad-interruptus-header #continue-link {
+			width: 40%; display: inline-block;
+		}
+
+		#ad-interruptus-header #site-logo {
+			left 0; font-size: 2em;
+		}
+
+		#ad-interruptus-header #continue-link {
+			float: right; text-align:right; font-size: 1em;
+		}
+
+		#timer {
+			width:85%; margin: 2% auto; padding:0;
+			text-align:center;
+		}
+
+		#pmc-adm-ad-interruptus {
+			width:90%; margin: 20px auto; padding:0;
+			text-align:center; display: block;
+		}
+	</style>
+	<div id="ad-interruptus-header">
+		<a href="javascript:pmc_admanager.hide_interrupt_ads();"><div id="site-logo">Deadline</div></a>
+		<div id="continue-link">
+			<a href="javascript:pmc_admanager.hide_interrupt_ads();">Continue to Deadline</a>
+		</div>
+	</div>
+
+	<div id="timer">
+		You will be redirected back to the your article in <span id="pmc_ads_interrupts_timer"></span> seconds
+		<script type="text/javascript" language="javascript">
+			pmc_admanager.interrupt_timer();
+		</script>
+	</div>
+	<div id="pmc-adm-ad-interrupts"><div class="admz" id="adm-interstitial">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-dl-interstitial-uid0" class=""></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-interstitial', [
+				{
+			"device": "Desktop",
+			"width": 970,
+			"height": 600		}			]);
+</script>
+</div>
+</div><script type="text/javascript" id="show-interrupts">
+	var ck = 'pmc-adi-31bb2464aad8b905af7a81e1d57b77ae';
+
+	var cookie_check = pmc.cookie.get( ck );
+	var show_interrupt_hash = location.hash;
+
+	if( show_interrupt_hash.indexOf('showinterrupt') > -1 ){
+		// we want to force the interrupt to be shown for 200 seconds without a cookie written or any other check.
+		pmc_admanager.settings.interrupt_counter = 200;
+		pmc_admanager.show_interrupt_ads();
+
+	}else if( cookie_check == null || typeof cookie_check === 'undefined' || cookie_check == ''){
+		pmc_adm_has_interrupts = true; // global variabl telling us that there is an interstitial or prestitial on this page.
+		// we got to this point so we need to set the cookie so that this overlay doesn't show up again.
+		//set endpoint cookie
+		pmc.cookie.set(ck, 1, 28800, '/');
+
+		pmc_admanager.show_interrupt_ads();
+	}
+
+</script>
+<div id="fb-root"></div>
+
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+<div id="main-wrapper">
+	
+	<header class="site-header">
+		<section id="masthead">
+			<div id="js-mobile-menu-trigger" class="hamburger">Menu</div>
+						<h2  class="blogheader">
+			<a class="header-logo " href="http://deadline.com">Deadline</a>
+			<div class="sticky-category"><a href="http://deadline.com/v/tv/" title="Go to all posts in TV" class="category">TV</a></div><div class="sticky-title">Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s P&hellip;</div>		</h2>
+		<div id="js-nav-outer-wrapper" class="nav-outer-wrapper">
+			<nav class="menu-primary-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-742360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-742360"><a href="/">Home</a></li>
+<li id="menu-item-742366" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742366"><a href="http://deadline.com/v/film/">Film</a></li>
+<li id="menu-item-728913" class="menu-item menu-item-type-taxonomy menu-item-object-vertical current-post-ancestor current-menu-parent current-post-parent menu-item-728913"><a href="http://deadline.com/v/tv/">TV</a></li>
+<li id="menu-item-728914" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-728914"><a href="http://deadline.com/v/awards/">Awardsline</a></li>
+<li id="menu-item-742362" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742362"><a href="http://deadline.com/v/box-office/">Box Office</a></li>
+<li id="menu-item-742363" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742363"><a href="http://deadline.com/v/business/">Business</a></li>
+<li id="menu-item-742365" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742365"><a href="http://deadline.com/v/international/">INTL</a></li>
+<li id="menu-item-742364" class="menu-item menu-item-type-taxonomy menu-item-object-vertical current-post-ancestor current-menu-parent current-post-parent menu-item-742364"><a href="http://deadline.com/v/video/">Video</a></li>
+<li id="menu-item-1201321026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201321026"><a href="http://jobsearch.deadline.com/jobs/search">Jobs</a></li>
+<li id="menu-item-273109" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-273109"><a href="http://deadline.com/tip-line/">Got A Tip?</a></li>
+</ul></nav>			<div id="cse-search-form">
+				<!-- Site Search -->
+						<section id="swiftype-search-widget" class="swiftype">
+			<div class="search_form block search_form_widget">
+				<div data-st-search-form="small_search_form"></div>
+			</div>
+		</section>
+					</div>
+			<!-- End Google Site Search -->
+		</div>
+		</section><!-- /#masthead -->
+
+		<div class="header-ad-mobile">
+					</div>
+
+				<div id="ad-header" class="below-header-ad">
+			<div class="admz" id="adm-header">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-970x90-uid1" class="ad-rotatable"></div>
+			<div id="div-gpt-deadline-ros-970x90-uid1-oop" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-header', [
+				{
+			"device": "Desktop",
+			"width": 970,
+			"height": 90		}			]);
+</script>
+		</div>
+			</header>
+	<!-- /header -->
+
+	<div class="pmc-breaking-news below-header"></div>
+
+	<div id="carousel" class="clearfix nocontent">
+	<section id="featured-content" class="below-header-ad">
+		<h2 class="top-stories">Top Stories</h2>
+		<ul>
+							<li id="slide-1201698161" class="slide">
+					<a href="http://deadline.com/2016/02/deadpool-zoolander-2-how-to-be-single-valentines-weekend-box-office-1201699895/" title="How ‘Deadpool’ Gunned Down Records Nobody&nbsp;Saw&nbsp;Coming"   ><img width="243" height="162" src="https://pmcdeadline2.files.wordpress.com/2016/02/deadpool.png?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="deadpool" /></a>
+					<a href="http://deadline.com/v/box-office/" title="Go to all posts in Box Office" class="category"><i class="fa fa-play"></i>Box Office</a>					<h3>
+						<a href="http://deadline.com/2016/02/deadpool-zoolander-2-how-to-be-single-valentines-weekend-box-office-1201699895/" title="How ‘Deadpool’ Gunned Down Records Nobody&nbsp;Saw&nbsp;Coming" >How 'Deadpool' Gunned Down Records Nobody&nbsp;Saw&nbsp;Coming</a>
+													<span class="author">by by <a href="http://deadline.com/author/ldemoraes/" title="Posts by Lisa de Moraes" rel="author" class="name">Lisa de Moraes</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+							<li id="slide-1201698161" class="slide">
+					<a href="http://deadline.com/2016/02/james-gunn-deadpool-success-guardians-of-the-galaxy-1201702897/" title="James Gunn Rips Deadline, Studio Exec Over &#8216;Deadpool&#8217;"   ><img width="243" height="162" src="http://i2.wp.com/pmcdeadline2.files.wordpress.com/2016/02/james-gunn.jpg?crop=191px%2C463px%2C2782px%2C1863px&amp;resize=243%2C162" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="james gunn" /></a>
+					<a href="http://deadline.com/v/film/" title="Go to all posts in Film" class="category"><i class="fa fa-play"></i>Film</a>					<h3>
+						<a href="http://deadline.com/2016/02/james-gunn-deadpool-success-guardians-of-the-galaxy-1201702897/" title="James Gunn Rips Deadline, Studio Exec Over &#8216;Deadpool&#8217;" >James Gunn Rips Deadline, Studio Exec Over &#8216;Deadpool&#8217;</a>
+													<span class="author">by by <a href="http://deadline.com/author/ldemoraes/" title="Posts by Lisa de Moraes" rel="author" class="name">Lisa de Moraes</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+							<li id="slide-1201698161" class="slide">
+					<a href="http://deadline.com/tag/bafta-awards/" title="BAFTAs: Stephen Fry Baglady Flap, Winners List&nbsp;&amp;&nbsp;More"   ><img width="243" height="162" src="https://pmcdeadline2.files.wordpress.com/2016/02/baftas.jpg?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="baftas" /></a>
+										<h3>
+						<a href="http://deadline.com/tag/bafta-awards/" title="BAFTAs: Stephen Fry Baglady Flap, Winners List&nbsp;&amp;&nbsp;More" >BAFTAs: Stephen Fry Baglady Flap, Winners List&nbsp;&amp;&nbsp;More</a>
+											</h3>
+				</li>
+							<li id="slide-1201698161" class="slide">
+					<a href="http://deadline.com/2016/02/frank-rich-on-becoming-mike-nichols-veep-hbo-conversations-1201701285/" title="Frank Rich On &#8216;Becoming Mike Nichols&#8217; &amp; More:&nbsp;Q&amp;A"   ><img width="243" height="162" src="https://pmcdeadline2.files.wordpress.com/2016/02/becomingmikenichols01.jpeg?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="&quot;The Graduate&quot; 
+Dustin Hoffman, director Mike Nichols
+1967 United Artists" /></a>
+					<a href="http://deadline.com/v/film/" title="Go to all posts in Film" class="category"><i class="fa fa-play"></i>Film</a>					<h3>
+						<a href="http://deadline.com/2016/02/frank-rich-on-becoming-mike-nichols-veep-hbo-conversations-1201701285/" title="Frank Rich On &#8216;Becoming Mike Nichols&#8217; &amp; More:&nbsp;Q&amp;A" >Frank Rich On &#8216;Becoming Mike Nichols&#8217; &amp; More:&nbsp;Q&amp;A</a>
+													<span class="author">by by <a href="http://deadline.com/author/ldemoraes/" title="Posts by Lisa de Moraes" rel="author" class="name">Lisa de Moraes</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+					</ul>
+	</section>
+	<!-- /#featured-content -->
+	</div>
+
+		<div id="content">
+		
+<div class="section-tag"><a href="http://deadline.com/v/tv/" title="Go to all posts in TV" class="category">TV</a></div>
+
+
+<h1 class="post-title entry-title">Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl &#8216;Late&nbsp;Show&#8217;</h1>
+
+<div class="post-author-time">
+
+    
+    <div class="author-info coauthors">
+
+        <span class="byline">by <a href="http://deadline.com/author/ldemoraes/" title="Posts by Lisa de Moraes" rel="author" class="name">Lisa de Moraes</a>
+		
+		<div class="clear"></div></span>
+
+        <time class="date-published updated">February 8, 2016 5:40am</time>
+
+        <div class="clear"></div>
+
+        
+<div class="counters">
+	<ul class="share-comment">
+		<li class="social-v3-facebook byline-icon fb-share-button as-popup">
+			<a class="" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;t=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99" rel="nofollow" target="_blank"  ></a>
+		</li>
+
+		<li class="social-v3-twitter byline-icon as-popup" data-permalink="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" data-http-permalink="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/">
+			<a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;text=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99&#038;via=deadline" rel="nofollow" ></a>
+		</li>
+		<li class="social-v3-googleplus byline-icon as-popup">
+			<a target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F" rel="nofollow" ></a>
+<!--			<g:plusone size="medium" href="--><!--" data-width="60"></g:plusone>-->
+		</li>
+		<li class="social-v3-linkedin byline-icon as-popup">
+			<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=truemini=true&#038;url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;title=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99&#038;summary=%22Why+is+Fox+News+feuding+with+Donald+Trump%3F%22+Stephen+Colbert+asked+FNC+show+host+Megyn+Kelly+on+tonight%27s+live+post-Super+Bowl+broadcast+of+The%C2%A0Late+Show.+%22What+do+you+have+against+that+good+man.+He%27s+just+a+billionaire+who+also+wants+to+have+the+nuclear+launch+codes.%22Kelly+responded%3A+%22Donald+Trump+has+been+on+Fox+News+140+times+in+the+last&#038;source=Deadline" rel="nofollow" ></a>
+		</li>
+				<li class="social-v3-comments no-sprite">
+			<i class="fa fa-comments ">
+				<a class="" href="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/#comments" title="Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl &#8216;Late&nbsp;Show&#8217;" >
+					51				</a>
+			</i>
+		</li>
+		
+		<li class="social-v3-mail no-sprite">
+			<a  href="mailto:?subject=Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl &#8216;Late&nbsp;Show&#8217;&body=Check+out+this+article+from+Deadline%3A%0A%0Ahttp%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F"><i class="fa fa-envelope-o"></i></a>
+		</li>
+
+		<li class="social-v3-print no-sprite">
+			<a rel="nofollow"  href="/print-article/1201698161/?KeepThis=1&#038;TB_iframe=1&#038;height=500&#038;width=750" class="thickbox" title="Print This Article"><i class="fa fa-print"></i></a>
+		</li>
+	</ul>
+
+	<div class="clear"></div>
+
+</div>
+
+<div class="social-links">
+	<div class="social twitter">
+		<a href="https://twitter.com/home?status=http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" title="Follow Deadline Hollywood on Twitter"><i class="fa fa-twitter-square"></i></a>
+	</div>
+	<div class="social facebook">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" title="Follow Deadline Hollywood on Facebook"><i class="fa fa-facebook-square"></i></a>
+	</div>
+	<div class="social google-plus">
+		<a href="https://plus.google.com/share?url=http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" title="Follow Deadline Hollywood on Google Plus"><i class="fa fa-google-plus-square"></i></a>
+	</div>
+	<div class="social linkedin">
+		<a href="https://www.linkedin.com/shareArticle?title=Megyn%20Kelly%20Tackles%20Trump,%20O&#8217;Reilly%20On%20Stephen%20Colbert&#8217;s%20Post-Super%20Bowl%20&#8216;Late&nbsp;Show&#8217;&#038;url=http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/&#038;source=deadline.com&#038;mini=true&#038;summary" title="Follow Deadline Hollywood on LinkedIn "><i class="fa fa-linkedin-square"></i></a>
+	</div>
+    <div class="social email">
+        <a href="mailto:?subject=Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl &#8216;Late&nbsp;Show&#8217;&body=Check+out+this+article+from+Deadline%3A%0A%0Ahttp%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F" title="Email Deadline Hollywood"><i class="fa fa-envelope"></i></a>
+    </div>
+    <div class="social comments">
+        <a href="#respond" title="Comment on Deadline Hollywood"><i class="fa fa-comments"></i></a>
+    </div>
+	<div class="clear"></div>
+</div>
+
+    </div>
+
+</div>
+
+<div id="content-wrapper">
+
+	<article class="post-1201698161 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-late-night-tv category-news category-politics category-tv-news tag-donald-trump tag-gop-debate tag-megyn-kelly tag-stephen-colbert tag-super-bowl vertical-tv vertical-video">
+
+					<div class="main-article-thumbnail-wrapper desktop override">
+				<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='605' height='340' src='http://www.youtube.com/embed/yG2r9gleg48?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0' allowfullscreen='true'></iframe></span>			</div>
+		<div class="copyright" itemprop="copyrightHolder">CBS</div><div class="clear"></div>
+		<div id="main-content-wrapper">
+
+			<div class="post-content">
+				<p>&#8220;Why is Fox News feuding with Donald Trump?&#8221; <a href="http://deadline.com/tag/stephen-colbert/" id="auto-tag_stephen-colbert" data-tag="stephen-colbert">Stephen Colbert</a> asked FNC show host <a href="http://deadline.com/tag/megyn-kelly/" id="auto-tag_megyn-kelly" data-tag="megyn-kelly">Megyn Kelly</a> on tonight&#8217;s live post-Super Bowl broadcast of <em><a  href="http://deadline.com/the-late-show-with-stephen-colbert"  >The&nbsp;Late Show</a></em>. &#8220;What do you have against that good man. He&#8217;s just a billionaire who also wants to have the nuclear launch codes.&#8221;</p>
+<p><div class="related-article">
+					<div class="pad">
+						<a href="http://deadline.com/2016/02/stephen-colberts-post-super-bowl-live-late-show-scores-all-time-high-prelim-stats-1201698281/" title="Related Article" class="related" >Related</a>
+						<div class="article"><a href="http://deadline.com/2016/02/stephen-colberts-post-super-bowl-live-late-show-scores-all-time-high-prelim-stats-1201698281/" title="Related Article" >Stephen Colbert&#039;s Post-Super Bowl Live &#039;Late Show&#039; Scores Show High Prelim Stats</a></div>
+						<div class="clear"></div>
+					</div>
+				</div></p>
+<p>Kelly responded: &#8220;Donald Trump has been on Fox News 140 times in the last year. We are not feuding with him. But he does have a beef with me.&#8221;</p>
+<p>Colbert noted Trump&#8217;s tweet of a while back in which he said he would not call Kelly a &#8220;bimbo&#8221; because that would be politically incorrect, and would instead call her a &#8220;lightweight reporter,&#8221; wondering if Kelly would like to refuse to call Trump a &#8220;blowhard&#8221; or &#8220;second-place loser.&#8221;</p>
+<p>
+			<section class="recent-comments"><div class="sign-in desktop">
+					<i class="fa fa-comments"></i><h5>Recent Comments</h5>
+					<div class="login-link">
+						<div class="link"><a href="#comments" title="Comment on this post" data-event-tracking="click,article-rail,inline-comment-block,click">Add Comment</a></div>
+						<div class="commenters">23 People Commenting</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+
+				<div class="comment comment1">
+				<div class="comment-name">AlexMolina</div>
+				<div class="comment-bullet"><i class="fa-circle fa"></i></div>
+				<div class="comment-time">5 days</div>
+				<div class="comment-excerpt">Kelly should apologize for using FemiNazi&#039;s tactics on a &#039;well-known&#039; entertainer, known to use outlandish comments in...</div>
+			</div><div class="comment comment2">
+				<div class="comment-name">Leslee</div>
+				<div class="comment-bullet"><i class="fa-circle fa"></i></div>
+				<div class="comment-time">6 days</div>
+				<div class="comment-excerpt">I have watched every <a href="http://deadline.com/tag/gop-debate/" id="auto-tag_gop-debate" data-tag="gop-debate">GOP Debate</a>, and enjoy them very much. However, I do think it is...</div>
+			</div><div class="comment comment3">
+				<div class="comment-name">7roses</div>
+				<div class="comment-bullet"><i class="fa-circle fa"></i></div>
+				<div class="comment-time">6 days</div>
+				<div class="comment-excerpt">Agreed!</div>
+			</div>
+
+				<div class="clear"></div>
+
+			</section>
+			</p>
+<p class="pmc-related-link related">
+			<strong class="pmc-related-type">Related</strong><a target="_self" href="http://deadline.com/2016/02/president-obama-scott-kelly-chewbacca-stephen-colbert-live-late-show-post-super-bowl-1201698168/" title="Obama Opens Stephen Colbert&rsquo;s Live &lsquo;Late Show&rsquo; After Super Bowl">Obama Opens Stephen Colbert&rsquo;s Live &lsquo;Late Show&rsquo; After Super Bowl</a>
+		</p>
+<p>&#8220;The only thing I really wanted to ask him was, he recently said his supporters are so devoted to him he could go in the middle of Fifth Avenue and shoot someone and he wouldn&#8217;t lose a single voter. In response to which I want to ask him, &#8216;Were you talking about me?'&#8221; Kelly said with a smile. &#8220;I never go there anymore.&#8221;</p>
+<p class="paragraph">Kelly has emerged as one of the lead characters in the country&rsquo;s most watched TV series, The <a  href="http://deadline.com/tag/gop-debate"  >GOP Debates</a>, after she was cited by Republican&nbsp;front-runner Trump as being among <a  href="https://pmcdeadline2.files.wordpress.com/2016/01/donald-trump-megynkelly-2-shot.jpg"  rel="attachment wp-att-1201691549"  target="_blank"  ><img class="alignright size-dl-article-body wp-image-1201691549" src="https://pmcdeadline2.files.wordpress.com/2016/01/donald-trump-megynkelly-2-shot.jpg?w=301&amp;h=202&amp;crop=1" alt="Donald Trump MegynKelly 2-shot" width="301" height="202"></a>the reasons <a  href="http://deadline.com/2016/01/donald-trump-fox-news-gop-debate-roger-ailes-megyn-kelly-cnn-1201692523/"  >he boycotted FNC&#8217;s recent debate</a> on the eve of Iowa caucuses. It&#8217;s a move Trump later said may have cost him the win among GOP hopefuls in that state. Trump had a run in with Kelly at the first GOP debate of this election cycle, in August, when she opened with a question to Trump: &ldquo;You&rsquo;ve called women you don&rsquo;t like &lsquo;fat pigs,&rsquo; &lsquo;dogs,&rsquo; &lsquo;&rsquo;slobs&rsquo; and &lsquo;disgusting animals&rsquo;. Does that sound to you like the temperament of a man we should elect as president? And how will you answer the charge from Hillary Clinton, who is likely to be the Democratic nominee, that you are part of the war on women?&rdquo;</p>
+<p class="paragraph">Trump subsequently said of Kelly&rsquo;s question-asking:&nbsp; &ldquo;You could see there was blood coming out of her eyes, blood coming out of her&nbsp;&#8212;&nbsp;wherever.&rdquo; That debate exchange, and his subsequent comments, turned the FNC primetime star into a household name, and a <em>Vanity Fair</em> cover &ndash; which Colbert held up once or twice during his interview tonight.</p>
+<p class="pmc-related-link related">
+			<strong class="pmc-related-type">Related</strong><a target="_self" href="http://deadline.com/2016/01/megyn-kelly-vanity-fair-cover-donald-trump-fox-news-1201675518/" title="Donald Trump Feud + &ldquo;Preternatural Charisma&rdquo; = Megyn Kelly On Vanity Fair Cover">Donald Trump Feud + &ldquo;Preternatural Charisma&rdquo; = Megyn Kelly On Vanity Fair Cover</a>
+		</p>
+<p>When Kelly moderates the next GOP debate, which Donald Trump has said he will attend, her first question should be: &#8220;Mr. Trump: Boo!&#8221; Colbert suggested. Kelly had her own thoughts on that.</p>
+<p>&#8220;I&#8217;m going to start with &#8216;Apology accepted,'&#8221; Kelly said.</p>
+<p>Our money&#8217;s on Trump having something to say about that on Twitter at the crack of dawn Monday morning.</p>
+<p>&#8220;And then we&#8217;re going to have at it, like we&#8217;ve had at it with all the other guys &ndash; and Carly &ndash; up there,&#8221; Kelly said. She and GOP candidate Carly Fiorina appear to be on a first-name basis.</p>
+<p class="pmc-related-link related">
+			<strong class="pmc-related-type">Related</strong><a target="_self" href="http://deadline.com/2016/01/michael-moore-megyn-kelly-fox-news-the-kelly-file-1201691091/" title="Michael Moore-Megyn Kelly Lovefest Features Talk Of Trump, Obama, Pizza &ndash; But Not Flint">Michael Moore-Megyn Kelly Lovefest Features Talk Of Trump, Obama, Pizza &ndash; But Not Flint</a>
+		</p>
+<p>Colbert wondered how the elected officials who&#8217;ve done time at GOP debates kids tables feel about having &#8220;Donald Trump the lead guy at the Big Boy&#8217;s table&#8221; at virtually every debate since the White House race began.</p>
+<p>&#8220;Trump has electrified the Republican base,&#8221; Kelly acknowledged.</p>
+<p>Colbert&#8217;s <em>Late Show</em> tonight is live, as is Kelly&#8217;s primetime show every weeknight.&nbsp; &#8220;I love it. I think it adds a lot to the show,&#8221; Kelly said. &#8220;If you&#8217;re not live at 9, because the shows around me are taped, you lose a lot.&#8221;</p>
+<p>Bill O&#8217;Reilly and Sean Hannity, between whose programs Kelly&#8217;s is sandwiched on FNC&#8217;s schedule, are &#8220;phoning it in,&#8221; Colbert said, throwing Kelly an opening.</p>
+<p>&#8220;Let&#8217;s just say they tape earlier in the day, which is an advantage to us,&#8221; Kelly replied, smiling again.</p>
+<p>&#8220;Wow,&#8221; Colbert responded, as his studio audience made surprised noises too.</p>
+<p><a  id="auto-tag_donald-trump"  href="http://deadline.com/tag/donald-trump/"  >Trump</a>&rsquo;s least favorite debate moderator was a later booking for Colbert&#8217;s post-<a  id="auto-tag_super-bowl"  href="http://deadline.com/tag/super-bowl/"  >Super Bowl</a> broadcast. She joined <em>Whiskey Tango Foxtrot</em>&nbsp;stars Tina Fey and Margot Robbie<em>,</em> <em>Zoolander 2&rsquo;s&nbsp;</em>Will Ferrell, and Colbert&rsquo;s former Comedy Central colleagues Keegan-Michael Key and Jordan Peele, who are starring together in <em>Keanu,&nbsp;</em> as Colbert&#8217;s show makes TV history in becoming the first late-night series to snag a live post-Super Bowl broadcast.</p>
+			</div>
+							<div class="tag-links">
+					<span>Filed Under:</span> <ul>
+				<li>
+				<a href="http://deadline.com/v/tv/">
+					TV				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/breaking-news/">
+					Breaking News				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/late-night-tv/">
+					Late Night TV				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/news/">
+					News				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/politics/">
+					Politics				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/tv-news/">
+					TV News				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/tag/donald-trump/">
+					Donald Trump				</a>
+			</li>
+		</ul>				</div>
+
+					</div>
+
+	</article>
+
+	<!-- End of article link to Using text link widget -->
+	<div id="text-4" class="widget-container widget_text">			<div class="textwidget"><p style="font-size:1.3335em;font-style:italic;margin-top:-10px;">Subscribe to <a href="http://pages.email.deadline.com/signup" style="color:#008ad8;">Deadline Breaking News Alerts</a> and keep your inbox happy</p></div>
+		</div>
+<ul class="social-strip" data-relativepath="/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/">
+	<li class="social-v3-facebook as-popup ">
+		<a  class="" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;t=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99" rel="nofollow" target="_blank"></a>
+	</li>
+
+	<li class="social-v3-twitter as-popup" data-permalink="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" data-http-permalink="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/">
+		<a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;text=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99&#038;via=deadline" rel="nofollow"></a>
+	</li>
+	<li class="social-v3-googleplus as-popup ">
+		<a  target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F" rel="nofollow"></a>
+		<!--			<g:plusone size="medium" href="--><!--" data-width="60"></g:plusone>-->
+	</li>
+	<li class="social-v3-linkedin as-popup">
+		<a  target="_blank" href="https://www.linkedin.com/shareArticle?mini=truemini=true&#038;url=http%3A%2F%2Fdeadline.com%2F2016%2F02%2Fmegyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161%2F&#038;title=Megyn+Kelly+Tackles+Trump%2C+O%E2%80%99Reilly+On+Stephen+Colbert%E2%80%99s+Post-Super+Bowl+%E2%80%98Late%C2%A0Show%E2%80%99&#038;summary=%22Why+is+Fox+News+feuding+with+Donald+Trump%3F%22+Stephen+Colbert+asked+FNC+show+host+Megyn+Kelly+on+tonight%27s+live+post-Super+Bowl+broadcast+of+The%C2%A0Late+Show.+%22What+do+you+have+against+that+good+man.+He%27s+just+a+billionaire+who+also+wants+to+have+the+nuclear+launch+codes.%22Kelly+responded%3A+%22Donald+Trump+has+been+on+Fox+News+140+times+in+the+last&#038;source=Deadline" rel="nofollow"></a>
+	</li>
+		<li class="no-sprite social-comments">
+		<i class="fa fa-comments ">
+			<a  class="" href="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/#comments" title="Megyn Kelly Tackles Trump, O&#8217;Reilly On Stephen Colbert&#8217;s Post-Super Bowl &#8216;Late&nbsp;Show&#8217;">
+				51			</a>
+		</i>
+	</li>
+	</ul>
+<div class="widget widget_pmc_outbrain_widget"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="Deadline" ></div>
+	</div>
+</div>
+	<div class="widget-area horizontal ad" id="ad-widget-single">
+		<div class="admz" id="adm-after-article">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-620x250-uid2" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-after-article', [
+				{
+			"device": "Desktop",
+			"width": 620,
+			"height": 250		}			]);
+</script>
+	</div>
+
+	<div id="mobile-sidebar">
+			</div>
+
+	<div id="comments">
+
+		<h3 id="comments-title">51 Comments</h3>
+
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://deadline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="comment-notes">Comments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.</p><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="8019b71d7c" /><input type="hidden" name="_wp_http_referer" value="/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name</label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+<div class="countdown comment-countdown" id="comment-countdown"></div>
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1201698161' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="db2ed4363e" /></p>
+<input type="hidden" name="genseq" value="1455600514" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="77"/></p>				</form>
+					</div><!-- #respond -->
+		<div style="clear: both"></div>		<div class="clear"></div>
+
+		<ol id="comment-list-wrapper">
+						<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578496">
+			<div id="comment-1578496" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">DC</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:01 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Megyn Kelly is as much a journalist as Lois Lane, Brenda Starr, Miss Polly Purebred, Ted Baxter and Ron Burgundy.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578496#respond' onclick='return addComment.moveForm( "comment-1578496", "1578496", "respond", "1201698161" )' aria-label='Reply to DC'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578520">
+			<div id="comment-1578520" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Jason</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:45 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>FOX should stop degrading the political process. It was obvious to anyone who watched her argumentative, finger pointing, towards Mr.Trump (during their combative confrontation) that she hates him. She PERSONALLY attacked him. Not on political substance, but personally. It is now FOX&#8217;S responsibility to excuse HER from these amateurish &#8220;anti-debates&#8221;, and allow the voting public to hear an honest &#8220;debate&#8221; about real issues effecting ths country. </p>
+<p>I&#8217;m neither a conservative, nor a liberal. I&#8217;d appreciate the opportunity to hear some real substance before I decide how to vote. This FOX fiasco has proven that they should not be involved in the &#8220;debates&#8221;.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578520#respond' onclick='return addComment.moveForm( "comment-1578520", "1578520", "respond", "1201698161" )' aria-label='Reply to Jason'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1578743">
+			<div id="comment-1578743" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/10153292409154051/' rel='external nofollow' class='url'>Jeff Glenn</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 10:21 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Jason &#8230; I am not a trump supporter, but using your logic about personal attacks shouldn&#8217;t trump also not be involved?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578743#respond' onclick='return addComment.moveForm( "comment-1578743", "1578743", "respond", "1201698161" )' aria-label='Reply to Jeff Glenn'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-3 highlander-comment" id="li-comment-1578998">
+			<div id="comment-1578998" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Jason</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 3:50 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Jeff, Donald Trump is running for president. It is our obligation to decide if he is the person who can do the job, not the &#8216;moderators&#8217; of the debates. It is their job to be impartial. On the &#8220;semi-debate&#8221; in question, Mr. Trump was singled out and systematically attacked by Ms.Kelly. If the voting public finds his response offensive, or not fitting of a president, he won&#8217;t win the nomination. However, I think that most of his supporters understand why he responded as he did, and obviously, it didn&#8217;t bother them. </p>
+<p>Had it been a man who personally attacked him, I guarantee you he would have ripped the host a new one! She&#8217;s playing the gender card, and it&#8217;s getting rather old. If she simply would ask the participants questions that the American people need answers to, and stick to issues of political significance, she might be viewed as a little more professional.</p>
+<p>Like I said, I just want to hear answers to THE issues most relevant to our country. We don&#8217;t need any of the moderators, of the semi-debate, to create topics that no one cares about. The moderators agenda should be neutral. Anything other than neutrality and they appear to come across biased — as Ms.Kelly has.   </p>
+<p>All things being equal — and, regardless of who&#8217;s nominated in either party&#8230;.we are in big trouble.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578998#respond' onclick='return addComment.moveForm( "comment-1578998", "1578998", "respond", "1201698161" )' aria-label='Reply to Jason'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-4 highlander-comment" id="li-comment-1579066">
+			<div id="comment-1579066" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Tally the Votes</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 5:37 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Gender issues &#8211; contraception, abortion, equal pay etc. are very political these days so it&#8217;s entirely appropriate to ask a man known for only being interested in the young and hot (creepily including his own daughter) as evidenced by three wives.  His &#8220;must be on her period&#8221; response proves the legitimacy of the MK&#8217;s questioning.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579066#respond' onclick='return addComment.moveForm( "comment-1579066", "1579066", "respond", "1201698161" )' aria-label='Reply to Tally the Votes'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1579049">
+			<div id="comment-1579049" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 5:13 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Don&#8217;t hold your breath for &#8220;real substance&#8221; from mr McCarthy.. Errrr..  I mean Trump!  She called him on &#8220;HIS&#8221; statements, as any newsman would  and should if they had the backbone to do it. Too bad Megyn has bigger &#8220;balls&#8221; than the rest of the news staff on Fox!  To think that she wouldn&#8217;t be offended by such a base comment is ludicrous.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579049#respond' onclick='return addComment.moveForm( "comment-1579049", "1579049", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578563">
+			<div id="comment-1578563" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 3:37 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>See she&#8217;s a punk. What an az. <br />
+An Ugly-hearted witch. <br />
+Escaped from the wizard of oz movie I&#8217;ll get you !!!!!!!! </p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578563#respond' onclick='return addComment.moveForm( "comment-1578563", "1578563", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578570">
+			<div id="comment-1578570" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 3:58 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She threatened to attempt to victimize him by promoting a fraudulent statement that represented a half truth. Attempting to slander him by not stating Rosie verbally assaulted him publicly FIRST. This so called news reporter made a slanderous and fraudulent statement.<br />
+If it was a man he would have been fired.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578570#respond' onclick='return addComment.moveForm( "comment-1578570", "1578570", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578586">
+			<div id="comment-1578586" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Tally</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 4:49 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Kelly &amp; Trump are two sides of the same coin. They both spread hate to win appeal. However, Trump has more integrity. He&#8217;s honest about who he is. Kelly, on the other hand, is pretends to be an impartial journalist but has a legacy polluted by her awful race baiting reports.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578586#respond' onclick='return addComment.moveForm( "comment-1578586", "1578586", "respond", "1201698161" )' aria-label='Reply to Tally'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment byuser comment-author-blmathew1955 odd alt depth-2 highlander-comment" id="li-comment-1578678">
+			<div id="comment-1578678" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">blmathew1955</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:19 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Trump has integrity? How about his birthier investigation and whatever big announcement he was going to make? There was nothing to find out except the President was born in Hawaii to an American citizen. Trump has no integrity.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578678#respond' onclick='return addComment.moveForm( "comment-1578678", "1578678", "respond", "1201698161" )' aria-label='Reply to blmathew1955'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-3 highlander-comment" id="li-comment-1578747">
+			<div id="comment-1578747" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/10153292409154051/' rel='external nofollow' class='url'>Jeff Glenn</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 10:23 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>hank you, blmathew1955 &#8230; at least somebody understands what&#8217;s going on!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578747#respond' onclick='return addComment.moveForm( "comment-1578747", "1578747", "respond", "1201698161" )' aria-label='Reply to Jeff Glenn'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt depth-3 highlander-comment" id="li-comment-1578836">
+			<div id="comment-1578836" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">sharwood</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:30 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Did you call out Hillary Clinton when she went into birther mode over Obama back in 2008?  Selective outrage much?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578836#respond' onclick='return addComment.moveForm( "comment-1578836", "1578836", "respond", "1201698161" )' aria-label='Reply to sharwood'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-4 highlander-comment" id="li-comment-1578885">
+			<div id="comment-1578885" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Don't Lust After Your Own Daughters!</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:25 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Sharwood, President Obama seems to have gotten over it. Why can&#8217;t any conservative clowns do the same?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578885#respond' onclick='return addComment.moveForm( "comment-1578885", "1578885", "respond", "1201698161" )' aria-label='Reply to Don&#039;t Lust After Your Own Daughters!'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt depth-3 highlander-comment" id="li-comment-1579002">
+			<div id="comment-1579002" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 3:57 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>With all due respect, blmathew1955, no one&#8217;s ever seen Obama&#8217;s <b>birth certificate</b><b></b> !!!</p>
+<p>Don&#8217;t et me wrong, I&#8217;m not a &#8216;birther&#8217; however, I do believe in investigating the legitimacy of any candidate running for president. </p>
+<p>If you have a certified copy of his Hawaiian birth certificate, because it&#8217;s &#8220;not available&#8221; in Hawaii, I&#8217;d love to see it — as I&#8217;m sure, the Supreme Court would, also.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579002#respond' onclick='return addComment.moveForm( "comment-1579002", "1579002", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment byuser comment-author-byrdstation1 even depth-4 highlander-comment" id="li-comment-1579030">
+			<div id="comment-1579030" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://byrdstation1.wordpress.com' rel='external nofollow' class='url'>byrdstation1</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 4:41 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>You&#8217;re not a birther. Riiiiiiiiiiiight.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579030#respond' onclick='return addComment.moveForm( "comment-1579030", "1579030", "respond", "1201698161" )' aria-label='Reply to byrdstation1'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt depth-4 highlander-comment" id="li-comment-1579090">
+			<div id="comment-1579090" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Mark</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 6:15 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Sure people have seen it. There&#8217;s just some that refuse to believe it&#8217;s real. Besides, if there was any doubt as to the legitimacy of his citizenship &#8211; ANY AT ALL &#8211; he would not be President right now.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579090#respond' onclick='return addComment.moveForm( "comment-1579090", "1579090", "respond", "1201698161" )' aria-label='Reply to Mark'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1578777">
+			<div id="comment-1578777" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Tally the Votes</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 11:18 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I&#8217;m sure Donald summoned all his honesty and integrity when the varsity athlete had that mysterious foot injury and got his medical deferment to avoid serving in Vietnam. Then even more integrity was called on when he called those who did serve and were captured &#8220;losers.&#8221; How does anyone cast a vote for that?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578777#respond' onclick='return addComment.moveForm( "comment-1578777", "1578777", "respond", "1201698161" )' aria-label='Reply to Tally the Votes'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-3 highlander-comment" id="li-comment-1578860">
+			<div id="comment-1578860" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:53 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I don&#8217;t blame anyone for opting out of Vietnam if possible.  Ali didn&#8217;t want to kill any VC either, I sure as hell didn&#8217;t volunteer to go over there to die in that mosh-pit !</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578860#respond' onclick='return addComment.moveForm( "comment-1578860", "1578860", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-4 highlander-comment" id="li-comment-1578900">
+			<div id="comment-1578900" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Sanity Clause</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:36 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Difference there, integrity-wise, is Ali (then Cassius Clay) was a conscientious objector. He knew that there would be consequences for his actions and he still stood by his decision. Trump was a weaselly little snot who claimed to have a boo-boo to get out  of service and now has the unmitigated gall to demean the veterans who went in his place.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578900#respond' onclick='return addComment.moveForm( "comment-1578900", "1578900", "respond", "1201698161" )' aria-label='Reply to Sanity Clause'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578598">
+			<div id="comment-1578598" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">sharwood</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 5:33 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>In 50 years, this dishonest airhead will still be bringing up Trump&#8217;s name to get some attention for herself.  Pathetic.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578598#respond' onclick='return addComment.moveForm( "comment-1578598", "1578598", "respond", "1201698161" )' aria-label='Reply to sharwood'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1579028">
+			<div id="comment-1579028" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 4:40 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>In 50 years she&#8217;ll be in her 90&#8217;s.  Get your math straight.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579028#respond' onclick='return addComment.moveForm( "comment-1579028", "1579028", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-3 highlander-comment" id="li-comment-1579159">
+			<div id="comment-1579159" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">sharwood</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:12 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>People don&#8217;t live to 90 you say?  Really?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579159#respond' onclick='return addComment.moveForm( "comment-1579159", "1579159", "respond", "1201698161" )' aria-label='Reply to sharwood'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578618">
+			<div id="comment-1578618" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">CW</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 6:17 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She keeps saying she&#8217;s a journalist.  I thought she was a lawyer turned new anchor.  How does that qualify as a journalist.  I like her but I think her act is beginning to wear thin. She clearly is enjoying all the celebrity.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578618#respond' onclick='return addComment.moveForm( "comment-1578618", "1578618", "respond", "1201698161" )' aria-label='Reply to CW'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578630">
+			<div id="comment-1578630" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/100008322872699/' rel='external nofollow' class='url'>Bach Nguyen</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 6:57 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Kelly comes off as a woman who appears to be just a little too smug benefiting from white privilege.  It&#8217;s quite annoying.  The fact that she works for Fox makes it worse.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578630#respond' onclick='return addComment.moveForm( "comment-1578630", "1578630", "respond", "1201698161" )' aria-label='Reply to Bach Nguyen'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578674">
+			<div id="comment-1578674" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Chuck m.</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:17 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She is clearly on a image repair tour,I&#8217;m sure fox made her do it in an attempt to save her career at fox,she is too late and continues to think her questions were clever.she does appear to be obsessed with trump.if he does continue to be the GOP candidate,she will be left out and that is what she has done to herself and fox</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578674#respond' onclick='return addComment.moveForm( "comment-1578674", "1578674", "respond", "1201698161" )' aria-label='Reply to Chuck m.'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578686">
+			<div id="comment-1578686" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://Deadline%20Hollywood' rel='external nofollow' class='url'>Joe Sepie</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:29 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I think it is past time for Fox to put an end to the foolish questions. It may get you a boost in ratings but they are the type of people that reads the National Enquire and believe it.</p>
+<p>Stick to the real issues. This is a campaign for the POTUS not one for your ratings. Your advertisers are foolish to think they are going to increase their market share with readers of the National Enquire.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578686#respond' onclick='return addComment.moveForm( "comment-1578686", "1578686", "respond", "1201698161" )' aria-label='Reply to Joe Sepie'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578690">
+			<div id="comment-1578690" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Diane sullivan</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:39 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Megan kelly was loaded for bear from the start of the first debate.  Obvious she treated mr trump with disdain.  She is snarky and has a very high opinion of herself in my personal opinion.   Rather than moderating the news with her own opinions, fox should consider her for a new show where her looks and snarky approach would be better suited to her.  She forgets viewers are looking for new facts with which they can form their own opinions and not tolerate hers or her behavior.  Fox&#8217;s response to the mess was also snarky and opinionated.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578690#respond' onclick='return addComment.moveForm( "comment-1578690", "1578690", "respond", "1201698161" )' aria-label='Reply to Diane sullivan'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578692">
+			<div id="comment-1578692" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:45 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I am agreeing with these comments in the sense that Megyn was a lawyer, news anchor, etc.  Celebrity seems way too important to her &#8211; above what she should be doing for those of us who care about the truth.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578692#respond' onclick='return addComment.moveForm( "comment-1578692", "1578692", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578699">
+			<div id="comment-1578699" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:54 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>it looks like the beautiful roger ailes in a red versace dress/ megyn kelly has an image problem all 11 comments are negative to megyn kelly most blogs right wing esp  hate her</p>
+<p>fox news style picking style over substance has worked for a long time<br />
+the hooters looking women with who do not have credentials are like the say</p>
+<p>the chickens are coming home to roost<br />
+   really people who want their news and not filtered by roger ailes in a hooters channel are demanding more</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578699#respond' onclick='return addComment.moveForm( "comment-1578699", "1578699", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578703">
+			<div id="comment-1578703" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/227584694247463/' rel='external nofollow' class='url'>Bill Stipek</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 9:02 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Kelly should start off and apologize to Trump, it&#8217;s the right thing o do!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578703#respond' onclick='return addComment.moveForm( "comment-1578703", "1578703", "respond", "1201698161" )' aria-label='Reply to Bill Stipek'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1578889">
+			<div id="comment-1578889" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Don't Lust After Your Own Daughters!</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:27 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She should apologize to Donny the Dip over things he actually said?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578889#respond' onclick='return addComment.moveForm( "comment-1578889", "1578889", "respond", "1201698161" )' aria-label='Reply to Don&#039;t Lust After Your Own Daughters!'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1 highlander-comment" id="li-comment-1578722">
+			<div id="comment-1578722" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Surfer</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 9:34 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>You guys are talking about both her and Trump&#8211;they are both getting what they want and none of you are having a substantive discussion about issues&#8211;which is also what they both want.</p>
+<p>What&#8217;s the quotation&#8230;&#8221;Great minds discuss ideas, small minds discuss people.&#8221;  Something to that effect?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578722#respond' onclick='return addComment.moveForm( "comment-1578722", "1578722", "respond", "1201698161" )' aria-label='Reply to Surfer'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578736">
+			<div id="comment-1578736" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">lti99@yahoo.com</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 10:01 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Is this a Drudge Report link? Lot of people whining about Megyn Kelly.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578736#respond' onclick='return addComment.moveForm( "comment-1578736", "1578736", "respond", "1201698161" )' aria-label='Reply to lti99@yahoo.com'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1 highlander-comment" id="li-comment-1578757">
+			<div id="comment-1578757" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 10:43 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Kelly it purely promoting her OWN rise in attacking Mr. Trump. She needs to excuse herself as a conflict of interest. Very bad press!!! She is SUPPOSED to be impartial. Right? We will be watching because we want to see the candidates. Ms. Kelly needs to return to the courtroom as we don&#8217;t give a tinker darn about what she has to say.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578757#respond' onclick='return addComment.moveForm( "comment-1578757", "1578757", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578763">
+			<div id="comment-1578763" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Marcie</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 10:55 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Does Trump have people out there on his defensive team commenting on stories such as this???&#8230;because this is clearly a Megyn Kelly bash. Megyn clearly had a point when asking him about his &#8220;name calling&#8221;! Trump lashes back at anyone he comes in conflict with in a derogatory manner. It&#8217;s Never His Fault&#8230;it&#8217;s their fault you moron.  If he were to become President how is he going to respond/act to the many put downs he will receive from other political figures? Is he going to call them names like he does now? Is he going to start a war with them? How can anyone want Trump to represent the USA with his boorishness and childish ways?<br />
+What you are Mr. Trump is an embarrassment! A Blowhard! And a Bully!<br />
+By the way look up the word HYPOCRITE and you&#8217;ll see a picture of Donald Trump!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578763#respond' onclick='return addComment.moveForm( "comment-1578763", "1578763", "respond", "1201698161" )' aria-label='Reply to Marcie'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1578842">
+			<div id="comment-1578842" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">sharwood</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:34 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>You criticize Trump for his name-calling yet you engage in it yourself.  Oy.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578842#respond' onclick='return addComment.moveForm( "comment-1578842", "1578842", "respond", "1201698161" )' aria-label='Reply to sharwood'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-cadavra even thread-even depth-1 highlander-comment" id="li-comment-1578787">
+			<div id="comment-1578787" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">cadavra</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 11:34 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Stop attacking Megyn! She&#8217;s white&#8211;and that&#8217;s a verifiable fact!  ;-)</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578787#respond' onclick='return addComment.moveForm( "comment-1578787", "1578787", "respond", "1201698161" )' aria-label='Reply to cadavra'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1578849">
+			<div id="comment-1578849" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://yahoo' rel='external nofollow' class='url'>7roses</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:43 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She&#8217;s white that is verifiable-What&#8217;s the point!!!!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578849#respond' onclick='return addComment.moveForm( "comment-1578849", "1578849", "respond", "1201698161" )' aria-label='Reply to 7roses'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment byuser comment-author-cadavra even depth-3 highlander-comment" id="li-comment-1578967">
+			<div id="comment-1578967" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">cadavra</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 2:58 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>It&#8217;s a reference to his infamous comment that Santa Claus is white&#8211;&#8220;and that&#8217;s a verifiable fact!&#8221;&#8211;as if he were a real person. She even apologized to children who may have been watching, as if any children anywhere would be watching Fox News.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578967#respond' onclick='return addComment.moveForm( "comment-1578967", "1578967", "respond", "1201698161" )' aria-label='Reply to cadavra'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-4 highlander-comment" id="li-comment-1579160">
+			<div id="comment-1579160" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">sharwood</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 8:13 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>You do realize Santa Claus is based on a real person, right?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579160#respond' onclick='return addComment.moveForm( "comment-1579160", "1579160", "respond", "1201698161" )' aria-label='Reply to sharwood'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment byuser comment-author-cadavra even depth-5 highlander-comment" id="li-comment-1579236">
+			<div id="comment-1579236" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">cadavra</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 9:57 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Um, no. There was a Saint Nicholas, but he was Greek with dark skin (and also very skinny). Santa as we know him today is a blend of two fictional characters, the Dutch &#8220;Sinterklass&#8221; and England&#8217;s &#8220;Father Christmas.&#8221; The image of the jolly fat man with the big white beard comes from Thomas Nast, who drew it to accompany the original printing of &#8220;The Night Before Christmas.&#8221; Santa is about as &#8220;real&#8221; as the Tooth Fairy.</p>
+<p>BTW, Jesus wasn&#8217;t a blue-eyed blonde, either, though Kelly insisted on that as well. But at least he was a real person.</p>
+</div>
+
+					<div class="reply">
+											</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578832">
+			<div id="comment-1578832" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://YAHOO' rel='external nofollow' class='url'>7ROSES</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:26 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Megyn Kelly it would be nice if you started off being a responsible moderator and letting this go in a mature manner. Is this really so hard to do???</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578832#respond' onclick='return addComment.moveForm( "comment-1578832", "1578832", "respond", "1201698161" )' aria-label='Reply to 7ROSES'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578833">
+			<div id="comment-1578833" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://YAHOO' rel='external nofollow' class='url'>7ROSES</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 12:28 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Megyn Kelly be a professional let it go!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578833#respond' onclick='return addComment.moveForm( "comment-1578833", "1578833", "respond", "1201698161" )' aria-label='Reply to 7ROSES'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1578886">
+			<div id="comment-1578886" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:26 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>She is just another loser..</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578886#respond' onclick='return addComment.moveForm( "comment-1578886", "1578886", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-3 highlander-comment" id="li-comment-1580217">
+			<div id="comment-1580217" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://yahoo' rel='external nofollow' class='url'>7roses</a></cite> &bull; 						<i>on </i> Feb 10, 2016<span> 3:56 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Agreed!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1580217#respond' onclick='return addComment.moveForm( "comment-1580217", "1580217", "respond", "1201698161" )' aria-label='Reply to 7roses'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578893">
+			<div id="comment-1578893" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:30 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>jimmy kimmel live came on after the super bowl in 2003&#8212;sooo that make colbert second in that department</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578893#respond' onclick='return addComment.moveForm( "comment-1578893", "1578893", "respond", "1201698161" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1578896">
+			<div id="comment-1578896" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">james roberts</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 1:32 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>jimmy kimmel live did it first in 2003</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578896#respond' onclick='return addComment.moveForm( "comment-1578896", "1578896", "respond", "1201698161" )' aria-label='Reply to james roberts'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment byuser comment-author-lila1242 odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1578950">
+			<div id="comment-1578950" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn"><a href='http://wordpresscom413.wordpress.com' rel='external nofollow' class='url'>lila1242</a></cite> &bull; 						<i>on </i> Feb 8, 2016<span> 2:35 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Megyn, you need to move to Hollywood before it is too late (age-wise).  Trump doesn&#8217;t owe you an apology and FOX shouldn&#8217;t let you even ask him a question.  #DonaldTrumpForPresident</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1578950#respond' onclick='return addComment.moveForm( "comment-1578950", "1578950", "respond", "1201698161" )' aria-label='Reply to lila1242'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1579089">
+			<div id="comment-1579089" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Mark</cite> &bull; 						<i>on </i> Feb 8, 2016<span> 6:12 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>After some of the comments Trump made about her, he most certainly does owe her an apology. But I doubt that will ever happen, seeing as he clearly never learned how to apologize when he is wrong about something.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1579089#respond' onclick='return addComment.moveForm( "comment-1579089", "1579089", "respond", "1201698161" )' aria-label='Reply to Mark'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1 highlander-comment" id="li-comment-1580375">
+			<div id="comment-1580375" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Leslee</cite> &bull; 						<i>on </i> Feb 10, 2016<span> 8:35 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I have watched every GOP Debate, and enjoy them very much. However, I do think it is an absolute shame that Donald Trump did not attend the last debate because of Megyn Kelly; and feel that during the first debate Kelly did in fact attack Trump, and did not do this to any other canidate. So he shot back to defend himself; Kelly needed to take the heat, and Fox news needed to stay out of it. If she is such a great journalist, then she needed to put her big girl panties on and deal with the situation herself. But, instead of handling this in a professional way, she just kept bringing the Debate and Trumps Tweets up over again and again. So, hopefully if the situation ever happens again, Kelly will keep it professional and not try to be nasty and attack him personally, in no other Debate has this happened. And, also if it does Fox News will let her deal with it herself, instead of backing her when she was wrong; when they did that, people lost some respect for the Network.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/?replytocom=1580375#respond' onclick='return addComment.moveForm( "comment-1580375", "1580375", "respond", "1201698161" )' aria-label='Reply to Leslee'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+		</ol>
+
+		<a href="http://deadline.com/2016/02/megyn-kelly-stephen-colbert-donald-trump-apology-accepted-gop-debate-super-bowl-1201698161/comment-page-2/#comments"  id="more-comments" onclick="deadline_comments.more_comments(1201698161); return false;" pagenum="1" maxpages="2" >Load More Comments</a>
+	
+</div>
+	<div class="widget-area horizontal ad" id="after-comment-ad">
+		<div class="admz" id="adm-after-comments">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-620x251-uid3" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-after-comments', [
+				{
+			"device": "Desktop",
+			"width": 620,
+			"height": 251		}			]);
+</script>
+	</div>
+
+</div>
+
+<ul id="sidebar" class="widget-area nocontent">
+	<div class="admz" id="adm-widget-dl-ros-300x600">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-300x600-uid4" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-dl-ros-300x600', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 600		}			]);
+</script>
+<li id="pmc_wt_widget-14" class="widget-container pmc_wt_widget_template"><div style="padding:0;margin:0;">
+	<a href="/v/awards/#icn=300x250-promo&amp;ici=article-rail-widget">
+		<img src="https://pmcdeadline2.files.wordpress.com/2015/06/al_promo.jpg" width="300" height="250" alt="" />
+	</a>
+</div></li><li id="deadline_most_popular-11" class="widget-container widget_deadline_most_popular"><h3 class="widget-title"><span>What&#039;s Hot on Deadline</span></h3><ul id="most-popular">				<li class="trending-item">
+					<span class="number">1</span>
+					<h5><a href="http://deadline.com/2016/02/james-gunn-deadpool-success-guardians-of-the-galaxy-1201702897/">&#039;Guardians&#039; Helmer James Gunn Slams Deadline &amp; Studio Exec Over Why &#039;Deadpool&#039; Succeeded</a></h5>
+					<div class="percentage" style="width:20%">
+				</li>
+							<li class="trending-item">
+					<span class="number">2</span>
+					<h5><a href="http://deadline.com/2016/02/deadpool-zoolander-2-how-to-be-single-valentines-weekend-box-office-1201699895/">&#039;Deadpool&#039;s $150M Opening: Why The Town Didn’t See It Coming Until It Happened - Monday</a></h5>
+					<div class="percentage" style="width:14%">
+				</li>
+							<li class="trending-item">
+					<span class="number">3</span>
+					<h5><a href="http://deadline.com/2016/02/star-wars-episode-viii-benicio-del-toro-laura-dern-1201702797/">Benicio Del Toro &amp; Laura Dern Join &#039;Star Wars: Episode VIII&#039; As Filming Kicks Off</a></h5>
+					<div class="percentage" style="width:13%">
+				</li>
+							<li class="trending-item">
+					<span class="number">4</span>
+					<h5><a href="http://deadline.com/2016/02/deadpool-zoolander-2-how-to-be-single-opening-international-box-office-1201702508/">&#039;Deadpool,&#039; &#039;Zoolander 2,&#039; &#039;How To Be Single&#039; All Higher Than Sunday Estimates - Int&#039;l Box Office Update</a></h5>
+					<div class="percentage" style="width:12%">
+				</li>
+							<li class="trending-item">
+					<span class="number">5</span>
+					<h5><a href="http://deadline.com/2016/02/singer-actress-denise-matthews-known-as-vanity-dies-at-57-1201703155/">Singer And Actress Vanity Dies: The Former Prince Protege Was 57</a></h5>
+					<div class="percentage" style="width:12%">
+				</li>
+							<li class="trending-item">
+					<span class="number">6</span>
+					<h5><a href="http://deadline.com/2016/02/hbo-game-of-thrones-teaser-jon-snow-1201702719/">&#039;Game Of Thrones&#039; Season 6 Teaser: HBO Trolls Hard On Jon Snow&#039;s Fate</a></h5>
+					<div class="percentage" style="width:9%">
+				</li>
+							<li class="trending-item">
+					<span class="number">7</span>
+					<h5><a href="http://deadline.com/2016/02/walking-dead-season-6-return-spoilers-gale-anne-hurd-negan-chandler-riggs-1201700775/">&#039;The Walking Dead&#039; EP Gale Anne Hurd Eyeballs Midseason Shocker, Where Season 6 Is Going &amp; More &#039;Fear The Walking Dead&#039;</a></h5>
+					<div class="percentage" style="width:6%">
+				</li>
+							<li class="trending-item">
+					<span class="number">8</span>
+					<h5><a href="http://deadline.com/2016/02/oscars-robert-richardson-the-hateful-eight-live-by-night-cinematography-interview-1201701206/">&#039;Hateful Eight&#039; DP Robert Richardson On The Tarantino-Disney Debacle: &quot;It Hurt Quentin, Emotionally&quot; - AwardsLine</a></h5>
+					<div class="percentage" style="width:4%">
+				</li>
+							<li class="trending-item">
+					<span class="number">9</span>
+					<h5><a href="http://deadline.com/2016/02/bafta-awards-2016-winners-full-list-1201702470/">BAFTA Awards: &#039;The Revenant&#039; Tops Night With Best Film Win; Much Love For &#039;Mad Max: Fury Road&#039;</a></h5>
+					<div class="percentage" style="width:3%">
+				</li>
+							<li class="trending-item">
+					<span class="number">10</span>
+					<h5><a href="http://deadline.com/2016/02/tonight-show-valentines-day-special-ratings-walking-dead-madam-secretary-simpsons-nbc-1201702877/">&#039;Tonight Show Valentine&#039;s Day Special&#039; Ratings Top Slow Sunday As &#039;Walking Dead&#039; Returns</a></h5>
+					<div class="percentage" style="width:2%">
+				</li>
+			</ul></li><li id="deadline-latest-vertical-news-3" class="widget-container widget_deadline-latest-vertical-news"><h3 class="widget-title"><span>Latest TV News</span></h3><!--  Latest Vertical News Module -->
+<section class="latest-vertical-news">
+	<ul>
+					<li>
+				<a href="http://deadline.com/2016/02/grammys-lady-gaga-david-bowie-1201703185/"
+				   title="Lady Gaga&#8217;s Bowie Tribute Rocks Grammys Amid Cancellations &amp; Tech Issues" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/gagagrammys.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="GagaGrammys" />					<span>
+						Lady Gaga&#8217;s Bowie Tribute Rocks Grammys Amid Cancellations &amp; Tech Issues					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2016/02/singer-actress-denise-matthews-known-as-vanity-dies-at-57-1201703155/"
+				   title="Singer And Actress Vanity Dies: The Former Prince Protege Was 57" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/vanity-the-last-dragon.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Vanity The Last Dragon" />					<span>
+						Singer And Actress Vanity Dies: The Former Prince Protege Was 57					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2016/02/grammys-amy-earned-it-louis-c-k-film-television-1201703153/"
+				   title="Grammys: &#8216;Amy&#8217; Docu, &#8216;Fifty Shades&#8217; Hit, &#8216;Glory&#8217; &amp; Louis C.K. Among Winners" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/grammys-logo.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Grammys logo" />					<span>
+						Grammys: &#8216;Amy&#8217; Docu, &#8216;Fifty Shades&#8217; Hit, &#8216;Glory&#8217; &amp; Louis C.K. Among Winners					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2016/02/anne-dudek-adam-lustick-cast-corporate-pilot-comedy-central-1201703075/"
+				   title="Anne Dudek &amp; Adam Lustick To Co-Star In Comedy Central Pilot &#8216;Corporate&#8217;" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/dudek.png?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Dudek" />					<span>
+						Anne Dudek &amp; Adam Lustick To Co-Star In Comedy Central Pilot &#8216;Corporate&#8217;					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2016/02/neema-barnette-1201703074/"
+				   title="Neema Barnette Joins OWN Drama Series &#8216;Queen Sugar&#8217; As Director &amp; Producer" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/neema-barnette-oprah-winfrey.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Neema Barnette Oprah Winfrey" />					<span>
+						Neema Barnette Joins OWN Drama Series &#8216;Queen Sugar&#8217; As Director &amp; Producer					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2016/02/donald-trump-ted-cruz-unstable-blasts-george-w-bush-9-11-1201703001/"
+				   title="Donald Trump: Ted Cruz &#8220;Unstable&#8221;, Lawsuit Imminent, G.W. Bush Did Not Keep America Safe" rel="nofollow">
+					<img width="91" height="59" src="https://pmcdeadline2.files.wordpress.com/2016/02/donald-trump-2.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Mandatory Credit: Photo by MediaPunch/REX/Shutterstock (5585247f)
+Donald Trump
+Donald Trump presidential campaigning in New Hampshire, America - 08 Feb 2016" />					<span>
+						Donald Trump: Ted Cruz &#8220;Unstable&#8221;, Lawsuit Imminent, G.W. Bush Did Not Keep America Safe					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+			</ul>
+
+	<p class="more">
+		<a href="http://deadline.com/v/tv/">More</a></p>
+</section>
+<!-- /End Latest Vertical News Module -->
+</li>		<style type="text/css">
+			.markplace-ads {
+				padding: 20px 0;
+			}
+
+			.marketplace-title {
+				display: none;
+			}
+		</style>
+		<li id="pmc_marketplace_ads-4" class="widget-container widget_pmc_marketplace_ads"><div class="markplace-ads" data-event-tracking="" ><h3 class='widget-title marketplace-title'><span>Marketplace</span></h3><ul><div class="admz" id="adm-widget-dl-marketplace-2">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-marketplace2-uid5" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-dl-marketplace-2', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 100		}			]);
+</script>
+<div class="admz" id="adm-widget-dl-marketplace-3">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-marketplace3-uid6" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-dl-marketplace-3', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 100		}			]);
+</script>
+</ul></div></li><li id="pmc_wt_widget-8" class="widget-container pmc_wt_widget_template"><h3 class="widget-title"><span>Featured Jobs</span></h3>
+<ul style="border-bottom:white;">
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/creative-development-coordinator-new-york-new-york-10036-76895659-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Creative Development Coordinator</a><br />Triptyk Studios, New York, New York</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/account-project-coordinator-ad-agency-burbank-california-91502-76363067-d" target="_blank" style="color:#008cd8;">Account/Project Coordinator (Ad Agency)</a><br />
+Petrol Advertising, Burbank, California
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/media-specialist-westport-connecticut-06880-77057795-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Media Specialist</a><br />
+Bridgewater Associates, Westport, Connecticut
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/executive-director-aspen-film-aspen-colorado-81611-76854695-d" target="_blank" style="color:#008cd8;">Executive Director, Aspen Film</a><br />
+Company Confidential, Aspen, Colorado
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;"><a href="http://jobsearch.deadline.com/jobs/associate-director-youtuber-gamer-partnerships-fairfield-connecticut-06825-76696346-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Associate Director, YouTuber &amp; Gamer Partnerships</a><br />
+Save the Children, Fairfield, Connecticut
+</li>
+<li style="padding:23px 10px 0;font-family:balto web medium;"><a href="http://jobsearch.deadline.com/jobs/search" target="_blank" style="color:white;background-color:#cd0000;padding:5px 5px 4px;">SEE MORE JOBS</a><br />
+</li>
+</ul></li><div class="admz" id="adm-widget-dl-ros-300x250">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-300x250-uid7" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-dl-ros-300x250', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 250		}			]);
+</script>
+</ul>
+
+<div class="clear"></div>
+</div><!-- /#content -->
+</div><!-- /#main-wrapper -->
+<div class="footer-ad-mobile">
+	</div>
+
+       <footer id="footer" class="site-footer wrap" role="contentinfo">
+           <div id="other-pmc-properties">
+               		<ul id="property-snippets">
+        
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2016/music/news/gwen-stefani-grammys-live-music-video-target-1201706800/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="//i2.wp.com/pmcvariety.files.wordpress.com/2016/02/gwen-stefani-music-video-grammys-target-2.jpg?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>Grammys: Gwen Stefani Performs Live Music Video in Target&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites tvline">
+				<a href="http://tvline.com/2016/02/15/castle-season-8-recap-rick-meets-stepmother-rita/">
+					<h5 class="tvline-logo logos"></h5>
+					<img src="//i2.wp.com/pmctvline2.files.wordpress.com/2016/02/141684_8259.jpg?resize=180%2C101" width="180" height="101" alt="TVLine" />
+					<p>Castle Recap: Stepmother, Russia</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites varietylatino">
+				<a href="http://varietylatino.com/2016/musica/noticias/grammy-awards-2016-justin-biener-love-yourself-y-where-are-u-now-video-217864/">
+					<h5 class="varietylatino-logo logos"></h5>
+					<img src="//i0.wp.com/pmcvarietylatino.files.wordpress.com/2016/02/ap_5708412724951-e1455594646483.jpg?resize=180%2C101" width="180" height="101" alt="VarietyLatino" />
+					<p>Grammy Awards 2016: Justin Bieber canta 'Love Yourself' y 'Where&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites hollywoodlife">
+				<a href="http://hollywoodlife.com/2016/02/15/pitbull-performance-grammys-2016-grammy-awards-taxi-song-robin-thicke-travis-barker-joe-perry/">
+					<h5 class="hollywoodlife-logo logos"></h5>
+					<img src="//i2.wp.com/pmchollywoodlife.files.wordpress.com/2016/02/pitbull-sofia-vergara-grammy-awards-2016-ftr.jpg?resize=180%2C101" width="180" height="101" alt="HollywoodLife" />
+					<p>Pitbull, Robin Thicke &amp; Travis Barker Rock The Grammys With Epic&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites bgr">
+				<a href="http://bgr.com/2016/02/15/iphone-other-storage-explained/">
+					<h5 class="bgr-logo logos"></h5>
+					<img src="//i0.wp.com/boygeniusreport.files.wordpress.com/2015/01/iphone-6-plus-321.jpg?resize=180%2C101" width="180" height="101" alt="BGR" />
+					<p>What is the mysterious 'other' storage that's clogging up your&hellip;</p>
+				</a>
+			</li>
+		        </ul>
+        		<section class="footer-links">
+			<ul>
+				<li><a href="/about-dhd/" title="About" rel="nofollow">About Us</a></li>
+				<li><a href="/advertise/" title="Advertise" rel="nofollow">Advertise</a></li>
+				<li><a href="/terms-of-service/" title="Terms of Service" rel="nofollow">Terms of Service</a>
+				</li>
+				<li><a href="/privacy-policy/" title="Privacy Policy" rel="nofollow">Privacy Policy</a></li>
+				<li><a href="https://plus.google.com/+Deadline" rel="publisher">Google+</a></li>
+			</ul>
+		</section>
+				<section class="pmc-links">
+			<h3 class="pmc-logo-wrap"><a href="http://www.pmc.com/" title="PMC Network" >
+					<span class="pmc-logo logos"></span>
+					<span class="power-content">The Power of Content</span></a></h3>
+			<nav>
+				<ul class="pmc-properties icon-pmc-logos">
+												<li class=" variety-logo logos"><a title="Variety" href="http://variety.com/" ><span>Variety</span></a></li>
+														<li class=" india-logo logos"><a title="india.com" href="http://india.com/" ><span>india.com</span></a></li>
+														<li class=" hollywoodlife-logo logos"><a title="Hollywoodlife" href="http://hollywoodlife.com" ><span>Hollywoodlife</span></a></li>
+														<li class=" varietylatino-logo logos"><a title="VarietyLatino" href="http://varietylatino.com" ><span>VarietyLatino</span></a></li>
+														<li class=" tvline-logo logos"><a title="TV Line" href="http://tvline.com" ><span>TV Line</span></a></li>
+														<li class=" bgr-logo logos"><a title="BGR" href="http://bgr.com" ><span>BGR</span></a></li>
+														<li class=" wwd-logo logos"><a title="WWD" href="http://wwd.com/" ><span>WWD</span></a></li>
+														<li class=" fn-logo logos"><a title="Footwear News" href="http://footwearnews.com/" ><span>Footwear News</span></a></li>
+							
+				</ul>
+			</nav>
+		</section>
+
+		
+		<p class="copyright">Copyright &copy; 2016 Penske Business Media, LLC. All rights reserved.<br />
+			HOLLYWOOD&trade; &amp; Design &copy; 2016 Hollywood Chamber of Commerce. The Hollywood Sign is a trademark and intellectual property of Hollywood Chamber of Commerce. All Rights Reserved.
+		</p>
+					<p class="copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+			           </div><!-- closes wrap -->
+       </footer>
+    
+<!-- facebook needs this div to load the button :hover -->
+<div id="fb-root"></div>
+		<script type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+		
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = document.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+	}
+})();
+
+</script>
+
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-0f0nSqEQ_DwA6" }, // Deadline P-code
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=<code>&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<!-- CrazyEgg start -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- CrazyEgg end -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript><div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+function global_urlhashchanged() {
+		/**
+	 * Track pageview
+	 */
+	// Build the current domain name
+	var tmp_td = document.domain.split('.');
+	var tracking_domain = tmp_td[tmp_td.length-2] + "." + tmp_td[tmp_td.length-1];
+
+	// Build the current image
+	var imgname = location.hash.replace('#','');
+	try {
+		ga( 'send', 'pageview', location.pathname + location.hash );
+	} catch(err) {}
+
+
+
+	// Track Comscore
+	try {
+		setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+		COMSCORE.beacon({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: ""});
+	} catch(err) {}
+
+	// Track Quantcast
+	try {
+		_qevents.push([
+			{ qacct:"p-0f0nSqEQ_DwA6" }, // Deadline P-code
+			{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+		]);
+	} catch(err) {}
+
+	/**
+	 * Track pageview end
+	 */
+}
+</script>
+
+<script src="//tru.am/scripts/custom/penskemedia.js"></script>
+<script type="text/javascript" src="//s.skimresources.com/js/87443X1540252.skimlinks.js"></script>
+<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "deadline.com",
+        "kw": [
+            "breaking-news",
+            "late-night-tv",
+            "news",
+            "politics",
+            "tv-news",
+            "donald-trump",
+            "gop-debate",
+            "megyn-kelly",
+            "stephen-colbert",
+            "super-bowl",
+            "tv",
+            "video"
+        ]
+    },
+    "ad_list": {
+        "interrupt-ads": [
+            {
+                "targeting": [],
+                "slot": "3782/DHD/interstitial",
+                "id": "div-gpt-dl-interstitial-uid0",
+                "width": [
+                    [
+                        970,
+                        600
+                    ]
+                ]
+            }
+        ],
+        "default": [
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-970x90-uid1",
+                "width": [
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        66
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-970x90-uid1-oop",
+                "width": [
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        66
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "/3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-620x250-uid2",
+                "width": [
+                    [
+                        620,
+                        250
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-620x251-uid3",
+                "width": [
+                    [
+                        620,
+                        251
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-300x600-uid4",
+                "width": [
+                    [
+                        300,
+                        600
+                    ],
+                    [
+                        300,
+                        1050
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "3782/DHD/marketplace_2",
+                "id": "div-gpt-deadline-marketplace2-uid5",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "/3782/DHD/marketplace_3",
+                "id": "div-gpt-deadline-marketplace3-uid6",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "/3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-300x250-uid7",
+                "width": [
+                    [
+                        300,
+                        250
+                    ]
+                ]
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type="text/javascript">var pmc_gallery_jsdata = {"gallery_first":0,"ad_click":"","ad_interstitial":"","interstitial_duration":"","interstitial_start":0,"shortcode":"0"};</script>		<script type="text/javascript">
+
+			try {
+
+				/**
+				 * Check if GA Universal API is available or not. If both
+				 * UA API & old API exist then first preference goes to UA API.
+				 *
+				 * @version 2016-01-28 Amit Gupta - PMCVIP-873
+				 */
+				if ( typeof window.ga !== 'undefined' ) {
+
+					ga( 'send', 'pageview', location.pathname + location.hash );
+
+				} else if ( ( typeof _gaq !== "undefined" ) && ( typeof pmc_do_analytics_pagecount == "undefined" || pmc_do_analytics_pagecount === true ) ) {
+
+					_gaq.push(['_trackPageview', location.pathname + location.hash]);
+
+				}
+
+				
+			} catch ( e ) {}
+
+		</script>
+	<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmcdeadline2.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmcdeadline2.wordpress.com\/wp-login.php?action=logout&_wpnonce=86ce9635a5","homeURL":"http:\/\/deadline.com\/","postID":"1201698161","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431g'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/devicepx.js,/wp-includes/js/comment-reply.min.js?m=1448466882j'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVjEEOgjAQAD9kXY1iwsH4llLWutBuN+0W8PeCB09euE0mmYFZjEusyAqxGgnVExfQmVQxmy5YN3aUeyOEIMg9sT8O5QB7OsYJ8/9WXxixwEQCEt3vs7EPqbPBPCs7pbTKocBs35KItez4jLkuRq3f+i8LLRjWwSPez9dLc2vb5nQbPs2JY1U='></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/Tyut9ZjAAB9kAKBjPMRb.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"Tyut9ZjAAB9kAKBjPMRb","redirect_to":"\/results","home_url":"http:\/\/deadline.com\/","placeholder_image":"","image_size":"medium","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Articles"}},"author_list":["Nellie Andreeva","Mike Fleming Jr","Pete Hammond","Anita Busch","Jeremy Gerrard","David Lieberman","Nancy Tartaglione","Dominic Patten","Jen Yamato","The Deadline Team","Patrick Hipes","Denise Petski","Erik Pedersen","David Bloom","Anthony D'Alessandro","Lisa de Moraes","Scott Bowles","David Robb","Brian Brooks","Anna Lisa Raya","Diane Haithman"],"date_filters":["date_options:radio-options","topics_facet:checkbox-facet","tags_facet:checkbox-facet","author_facet:checkbox-facet"],"meta_tags":{"post_types":{"post":"Article"},"show_content_type_meta_tag":false,"tags":["post_tag"],"topics":["vertical"],"appeared_in_print":false},"q":"","trans":{"search":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Topics","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydkE1OxDAMRi9Ea3XoIGaBWHAETpAmntYhf8QupbcnbYcu2KCplIVl5X1+Nkyp0jEIBgEZ0CPDFyVIXlfJjT0FXmue6CpzQlDMKAyW4f3Weos+xVB4ri0/wOG8Ql2pH7MSiuGfKIPKOAoIjrqs8rzw9nPEPNcspD/mO1QsV1sKLR8wmJjBRNkeNPVT3bS/4Xu/9rQ7UtBuNLguIUOZ3sXvvfgr4sd9+KladOxqVamg3FzU7zlir5zDbflyz4TH0EHxoAcV+oN8l+PEmA0KajkWcSsL/Opfmvbcnk+Pl8uz/QHK8vsB'></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.4.1-alpha-36109'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/themes/vip/pmc-plugins/pmc-outbrain/assets/js/pmc-outbrain.js?m=1444841494g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?51" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'36403310','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'36403310','v':'wpcom','tz':'-8','user_id':'0','post':'1201698161','subd':'pmcdeadline2'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=36403310&v=wpcomvt&tz=-8&user_id=0&post=1201698161&subd=pmcdeadline2&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sa0ZsbndoVVZfSjc4OFVSNkV+P0hBW2hwWG5LNy5kODg5WjRSZGF3cXpfR3xFdTlnWHI9bVAsej9LaTNpaTdxaHNrbjRILVAzK3RHLjQ5diwxN1Zsbi0lK3xwJTBUN3dGL3EzOCsuaVtvUmZKam9tRVhMWT01UFpDeDdZbmdQbUVqSTM5T1ssMi9beFAsJjlyNHRTRGF+VndFLTMrZmcxJUpzQ3ZwYmZSbHxNdT9LeS94RUNsP2ZhN1l6UmM='}]);
+_stq.push([ 'clickTrackerInit', '36403310', '1201698161' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+<!-- Divs for easy breakpoint checks in JS -->
+<div id="js-small-vis-check"></div>
+<div id="js-large-vis-check"></div>
+</body>
+</html>
+<!--
+	generated in 0.523 seconds
+	166475 bytes batcached for 300 seconds
+-->

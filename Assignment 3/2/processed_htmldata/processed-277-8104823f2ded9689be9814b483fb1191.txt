@@ -1,0 +1,10 @@
+   [sigalert-logo-white.svg] [sigalert-logo-small.svg]
+
+New York Traffic Report
+
+   (BUTTON) × (BUTTON)
+
+Map Traffic Details
+
+   Location MPH
+   Select a point on the map to view speeds, incidents, and cameras.

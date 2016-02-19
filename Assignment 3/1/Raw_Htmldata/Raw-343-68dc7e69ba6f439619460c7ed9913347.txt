@@ -1,0 +1,2392 @@
+ 
+
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+            
+            
+			
+            
+                
+				
+                
+
+                
+            
+
+            
+            
+      
+            
+            
+    
+	
+    
+    	
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+ 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+ 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<html>
+<head>
+<title>Bolsa de Empleos Universidad Diego Portales</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta name="robots" content="all">
+<meta name="keywords" content="empleo, trabajando, trabajo, practica, practica profesional, bolsa de empleo, bolsa laboral, mercado laboral, laborum, empleos, trabajos, universidad, universitaria, curriculo, curriculum, vitae, curriculum vitae, bolsa de trabajo, bolsa trabajo, pega, desempleo, cesante, desempleado, cesantia">
+<meta name="author" content="Trabajando.com"/>
+
+<meta name="description" content="La Primera Bolsa de Empleo de Latinoamerica, desde 1999. Contamos con mas de 3000 empresas asociadas y la mejor tecnologia."/>
+
+
+
+
+<meta name="DC.Rights" content="1999-2005 Trabajando.com, Inc. Todos los derechos reservados">
+<meta name="DC.Creator" content="Trabajando.com">
+
+<meta name="DC.Description" content="La Primera Bolsa de Empleo de Latinoamerica, desde 1999. Contamos con mas de 3000 empresas asociadas que diariamente utilizan nuestros servicios.">
+
+<meta name="DC.Subject" content="empleo, trabajando, trabajo, practica, practica profesional, bolsa de empleo, bolsa laboral, mercado laboral, laborum, empleos, trabajos, universidad, universitaria, curriculo, curriculum, vitae, curriculum vitae, bolsa de trabajo, bolsa trabajo, pega, desempleo, cesante, desempleado, cesantia">
+<meta name="DC.Publisher" content="Trabajando.com, Inc.">
+<meta name="DC.Language" content="es">
+
+
+
+
+
+
+
+
+
+
+	<meta property="og:image" content="http://www.udpempleos.cl/img/cl-dportales/bannerudpempleos3.jpg" />
+
+
+
+
+<!-- Se agrega INCLUDE para desplegar modalbox --->
+<script src="http://tbjui.trabajando.com/ver1.0/js/prototype-packed.js" type="text/javascript"></script>
+<script src="http://tbjui.trabajando.com/ver1.0/js/scriptaculous.js?load=effects" type="text/javascript"></script>
+<script src="http://tbjui.trabajando.com/ver1.0/js/modalbox.js" type="text/javascript"></script>
+<link href="http://tbjui.trabajando.com/ver1.0/css/modalbox.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://css.trabajando.com/reset.css" rel="stylesheet" type="text/css" media="screen"  />
+<link href="http://css.trabajando.com/ui.alertas.css" rel="stylesheet" type="text/css" media="screen"  />
+<link href="http://css.trabajando.com/ui.vistacv.css" rel="stylesheet" type="text/css" media="screen"  />
+<link href="http://tbjui.trabajando.com/ver1.0/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/lwindow.css" type="text/css" rel="stylesheet" media="screen" />
+<!--TBJ UI : scripts -->
+
+<script src="http://tbjui.trabajando.com/ver1.0/js/basicos.js" type="text/javascript"></script>
+<script src="http://tbjui.trabajando.com/ver1.0/js/swfobject.js" type="text/javascript"></script>
+<script src="http://tbjui.trabajando.com/ver1.0/js/prototype-packed.js" type="text/javascript"></script>
+
+<!--TBJ UI : styles -->
+
+
+<!--TBJ legacy : styles -->
+<link href="http://css.trabajando.com/reset.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="http://css.trabajando.com/ui.ingresocv.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://css.trabajando.com/ui.vistacv.css" rel="stylesheet" type="text/css" media="screen"  />
+
+<link href="http://tbjui.trabajando.com/ver1.0/css/seccion-edu-cont.css" rel="stylesheet" type="text/css" media="screen"  />
+
+<!--TBJ UI : styles -->
+<link href="http://tbjui.trabajando.com/ver1.0/css/alertas.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/avisos.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/formularios.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/validation.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/comunidadmenu.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/cursossapp.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="http://tbjui.trabajando.com/ver1.0/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+ 
+
+
+<link href="/css/default-personas.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/print.css" rel="stylesheet" type="text/css" media="print">
+
+
+
+
+
+	<link href="/img/cl-dportales/maestra.css" rel="stylesheet" type="text/css">
+
+
+<link href="http://tbjui.trabajando.com/ver1.0/css/lwindow.css" type="text/css" rel="stylesheet" media="screen" >
+
+<link href="http://tbjui.trabajando.com/ver1.0/css/jquery.fancybox.css?v=2.1.5" type="text/css" rel="stylesheet" media="screen"  >
+
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/swfobject.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/basicos.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/prototype-packed.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/scriptaculous.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/minlwindow.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/glider.js"></script>
+
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery.Rut.js"></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery.Rut.min.js"></script>
+
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery.fancybox.js?v=2.1.5" ></script>
+<script type="text/javascript" src="http://tbjui.trabajando.com/ver1.0/js/jquery.fancybox.pack.js" ></script>
+   
+
+
+<script>jQuery.noConflict();</script>
+<script type="text/javascript">
+	function ocultar_mostrar(div,pais){
+		region = document.getElementById(div);
+		//Verificamos si la capa esta oculta o no y como resultado
+		//indicamos que cambie su valor distinto al actual. "none" o "block"
+		if(pais != 1){
+			region.style.display='none';
+		}
+		else region.style.display='block';
+	}
+</script>
+
+<script src="http://tbjui.trabajando.com/ver1.0/js/modalbox.js" type="text/javascript"></script>
+<link href="http://tbjui.trabajando.com/ver1.0/css/modalbox.css" rel="stylesheet" type="text/css" media="screen" />
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+</head><body>
+<div id="contenedor" class="fijo">
+	
+
+
+
+<div id="cabecera">
+
+
+
+
+	
+				
+				<script>
+					jQuery("#cabecera").addClass("");
+				</script>				
+			
+<a href="http://www.udp.cl" target="_blank" class="bannerPostUDP"></a>
+<div class="menuSuperior">
+	<ul>
+		<li class="superior"><a href="http://www.udpempleos.cl/contactenos.cfm">CONTACTO</a></li> -
+		<li class="superior"><a href="http://www.centrolaboraludp.cl/" target="_blank">DESARROLLO DE CARRERA</a></li>
+	</ul>
+</div>
+<a class="logo" href="http://www.udpempleos.cl"></a>
+<div class="menuUdp">
+	
+
+  
+
+
+
+ 
+
+
+
+
+
+
+	
+
+
+
+
+<div id="menu">
+<ul>
+
+
+
+
+	
+			
+
+			
+
+				<div id="287"><li><a id="287"  href="index.cfm?actualiza=1" >Inicio</a></li></div>
+
+	
+					
+			
+	
+
+	
+
+
+
+
+	
+			
+
+			
+
+				<div id="19434"><li><a id="19434"  href="verofertas.cfm?ofertas=exclusivas" >Profesionales</a></li></div>
+
+	
+					
+			
+	
+
+	
+
+
+
+
+	
+			
+
+			
+
+				<div id="19433"><li><a id="19433"  href="verofertas.cfm?ofertas=exclusivaspracticas&disponible=1&actualiza=1" >Prácticas</a></li></div>
+
+	
+					
+			
+	
+
+	
+
+
+
+
+	
+			
+
+			
+
+				<div id="19432"><li><a id="19432"  href="verofertas.cfm?&actualiza=1&ofertas=exclusivasparttime" >Estudiantes</a></li></div>
+
+	
+					
+			
+	
+
+	
+
+
+
+
+	
+			
+
+			
+
+				<div id="506"><li><a id="506"  href="contactenos.cfm"  class="menu-item-cierre">Contacto</a></li></div>
+
+	
+					
+			
+	
+
+	
+
+
+
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+		
+	<div class="redes">
+		
+		<a href="https://twitter.com/udpempleos" target="_blank" class="twi"></a>
+		<a href="http://cl.linkedin.com/pub/desarrollo-de-carrera-udp/23/a63/42a/" target="_blank" class="in"></a>
+	</div>
+</div>
+
+<!--<div id="imagen-sobre-cabecera"><img src="img/cl-dportales/sobre-cabecera.jpg" alt="Universidad Diego Portales" /></div>
+<div id="descripcion-cabecera">
+<h1><a href="index.cfm">Bolsa de Empleos Universidad Diego Portales</a></h1></div>-->
+
+
+
+ 
+
+
+
+
+</div>
+<!-- END cabecera -->
+
+
+
+
+	
+
+	</br>
+
+
+
+	<div id="contenido" class="spa">
+		<div id="principal">
+		
+
+
+
+	<div id="col-s">
+
+
+
+
+
+
+
+ 
+
+	 
+
+
+
+
+
+
+
+
+
+
+	<div class="menuUDEmpleos">
+	 
+
+
+<div id="login-superior">
+
+  
+<h2>Acceso</h2>
+
+
+
+
+
+
+
+
+	<div class="">
+		
+			
+				
+					<form id="form1" name="form1" method="post" action="loginEsp.cfm">
+						<div id="usuario">
+
+						
+						
+                        
+                       
+                        
+                        
+                        
+						<label for="usuario">Usuario</label>
+						<input name="usuario" type="text"value="" />
+						
+						</div>
+						<div id="password">
+							
+							
+								<label for="clave">
+								
+									Clave
+								
+							</label>
+							<input name="clave" type="password"/>
+							
+						</div>
+						
+						
+						
+						
+						
+					<div id="boton-ingreso">
+					
+						<input type="submit" name="Submit" value="Entrar" class="bot-ingreso" />
+						
+					
+					</div>
+					</form>
+					
+					
+					
+						<div id="acciones">
+							<ul>
+								
+									
+                                       
+										<li class="ingresa-cv"> &raquo;<a href="ingresocv.cfm">Ingresa tu CV</a></li>
+									
+								  
+								
+									<li class="recordar-clave"> &raquo;<a href="RecordarClave.cfm">Recordar Clave</a></li>	
+										
+								
+																
+                                
+						
+							
+							</ul>
+						</div>
+						 
+					
+				
+			
+		
+	</div>
+</div>
+
+
+
+
+<div id="menuLateral">
+
+ 
+
+ 
+
+
+	<h2>Men&uacute;</h2>	
+
+
+
+
+
+	<ul>
+	
+	
+		
+		<li><a href="ingresocv.cfm">Ingresar CV</a></li>
+		
+		<li><a href="verofertas.cfm?ofertas=todas&actualiza=1&situacionEstudios=2">Otras Ofertas</a></li>
+		
+		<li><a href="noticia.cfm?noticiaid=4079">Preguntas Frecuentes</a></li>
+		
+		<li><a href="noticia.cfm?noticiaid=718">¿Cómo postular?</a></li>
+		
+	
+	
+	
+	
+	
+	</ul>
+	
+		
+
+
+
+
+		<div id="temasInteres">
+			  <h2>Temas destacados</h2>
+			  <ul>
+			  	
+			  	
+				  	<li><a href="noticia.cfm?noticiaid=14274">¿Cómo elaborar un buen Curriculum Vitae?</a></li>
+					<li><a href="noticia.cfm?noticiaid=14282">¿Cómo enfrentar una entrevista de trabajo?</a></li>
+					<li><a href="noticia.cfm?noticiaid=14295">10 errores más comunes de un CV</a></li>
+					<li><a href="noticia.cfm?noticiaid=14296">Entrevista laboral: Claves para ir bien preparado</a></li>	
+			  	
+				
+			  </ul>
+			</div>
+            
+
+			
+	
+</div>
+
+	</div>
+
+
+
+
+
+
+
+
+		<div class="banner" align="center">
+	
+
+
+
+
+
+
+	
+
+
+	
+		
+	
+		<a href="http://www.ayudando.com" 
+		 target="_blank" >
+		<img src="http://img2.trabajando.com/banner/banner-ayudando.gif" border="0" alt="ayudando.com"></a>
+				
+	
+</div>
+		<div class="banner" align="center">
+	
+
+
+
+
+</div>
+
+
+
+	
+<script> 
+function todaslasofertas() 
+	{
+	window.location.href="/aviso.cfm?ofertas=todas";
+	}
+</script>
+
+
+
+
+
+
+
+	
+		
+	
+
+	<div id="publicidadInstitucional">
+
+<div class="contenido-columnas">
+
+
+	<div class="banner" align="center">
+	
+
+
+
+
+
+
+	
+
+
+	
+		
+	
+		<a href="http://postgrados.udp.cl" 
+		>
+		<img src="http://www.trabajando.com/imagenes/banner/bannerpostgradoudpid0104725.jpg" border="0" alt="Postgrados UDP"></a>
+				
+	
+</div>
+
+
+
+<div class="banner" align="center">
+	
+
+
+
+
+</div>
+
+<div class="banner" align="center">
+	
+
+
+
+
+</div>
+</div>
+
+</div>
+	
+
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+<div id="publicidad">
+
+<h2>Publicidad</h2>
+
+
+
+
+<div class="contenido-columnas">
+
+	
+
+	
+	
+		<div class="banner" align="center">
+	
+
+
+
+
+
+
+	
+
+
+	
+		
+	
+		<a href="http://www.infofee.udp.cl/formularios_2014/form_mba_dge.html" 
+		 target="_blank" >
+		<img src="http://www.trabajando.com/imagenes/banner/150X100-EMPLEO-UDP-MAYO.gif" border="0" alt="Empleo UDP"></a>
+				
+	
+</div>
+		<div class="banner" align="center">
+	
+
+
+
+
+
+</div>
+		<div class="banner" align="center">
+	
+
+
+
+
+
+</div>
+	
+
+</div>
+</div>
+	
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+<!-- FLeiva 18-08-2015 inc. 0135590 / Se agregan redes sociales portal UGM --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+<script language="javascript" type="text/javascript">
+	function irA(e)
+	{
+		window.location.href=e;
+	}
+</script>
+
+
+		<div id="col-p">
+		<div class="caja-contenido">
+		   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+
+		var validaarch=1;
+	</script>
+
+
+
+
+
+ 
+		
+		 
+ 
+
+
+
+
+			
+			
+
+
+
+
+ 
+
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+ 
+		
+
+
+
+
+			 
+		
+		
+		
+		
+		
+		
+		
+	
+    	
+				
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+        
+        
+        
+      
+          
+          
+  
+  	   
+  
+           
+           
+           
+           
+
+           
+                
+           
+                   
+                
+                
+                        
+                        
+                
+                
+				
+                   
+		
+
+
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+		
+		
+			
+		
+		
+		
+		
+
+		
+    
+   		
+    
+   	
+    
+    
+    
+	  
+     
+    
+    
+    
+
+
+ 
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+		
+		
+		
+			
+			
+            	
+            
+		
+		
+		
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+		
+		
+		
+		
+			
+		
+		
+
+
+  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+		
+		
+		
+			
+		
+		
+
+
+
+
+
+  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+		
+		
+		
+			
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+    
+    
+    
+
+
+		
+
+ 
+
+			</p>
+		
+			
+			
+
+
+
+			   
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+ 
+ 
+ 
+
+<div id="UIvistaAviso"> 
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+ 	
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<form name="recomendar" method="post" action="?">
+	<input type="hidden" name="accion" value="recomendar">
+	<input type="hidden" name="idaviso" value="2861616">
+			  <input type="hidden" name="cargoAviso_" value="Practica Ingeniería Comercial/Civil industrial" />
+	
+</form>
+
+
+
+<div class="titulos_oferta">
+<div id="barraCumplimiento"></div>
+
+<p class="empresaOferta">Walmart Chile: </p>
+
+<h1>Practica Ingeniería Comercial/Civil industrial</h1>
+</div>
+<p class="fechaOferta">Publicado el 27/01/2016</p>
+
+
+
+
+<div class="toolbar">
+	<div class="related">
+        <div class="back">
+        <a onclick="pageTrackerCons._trackEvent('Vista Oferta', 'Barra de Herramientas',
+'Volver');" href="javascript:history.back()">Volver</a>
+        </div>
+        <div class="similar">
+        
+        </div>
+    </div>
+	
+	<div class="share">
+    <ul>
+        <li class="ad">
+            <span style="vertical-align: middle">
+            <!-- AddThis Button BEGIN -->
+            <div class="addthis_toolbox addthis_default_style ">
+            <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=perronegro" class="addthis_button_compact">Compartir</a>
+            </div>
+            <script type="text/javascript">var addthis_config = {"data_track_clickback":true, ui_language: "es", data_ga_property: 'UA-5352676-2', data_ga_social: true};</script>
+            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=perronegro"></script>
+            <!-- AddThis Button END -->
+        	</span>
+        </li>
+		
+        <li class="tw">
+        	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="es">Tweet</a>
+        </li>
+		
+		
+		   
+    </ul>
+    </div>
+	
+	<div class="tools">
+    <ul>
+        <li class="enviar"><a onclick="pageTrackerCons._trackEvent('Vista Oferta', 'Barra de Herramientas',
+'Enviar a un Amigo');" class="spt s26x26" href="javascript:recomendaraviso();" title="Recomendar esta oferta">Recomendar esta oferta</a></li>
+        <li class="imprimir"><a onclick="pageTrackerCons._trackEvent('Vista Oferta', 'Barra de Herramientas',
+'Imprimir');" class="spt s26x26" href="javascript:print()" title="Imprimir esta oferta">Imprimir</a></li>
+    </ul>
+    </div>
+</div>    
+
+
+
+
+
+
+
+<div class="doferta">
+<p>¿Quieres formar parte de un gran equipo, adquiriendo grandes aprendizajes, conocimientos, valores y por sobre todo unirte a una de las Empresas Líderes en Retail?<br>
+<br>
+Te invitamos a postular con nosotros para realizar tú Práctica Profesional.<br>
+¡Unete a Walmart Chile!<br>
+<br>
+Buscamos Ingenieros/as Comerciales e Ingenieros/as Civiles Industriales para realizar su práctica profesional en distintas áreas de la Gerencia Comercial, cuyas principales funciones serían:<br>
+<br>
+Apoyar al área con temas relacionados a implementación y evaluación de campañas, confección de reportes y coordinación con otras áreas.<br>
+<br>
+Requisitos:<br>
+- Inglés, nivel básico<br>
+- Excel, nivel medio<br>
+- Seguro escolar<br>
+<br>
+Beneficios:<br>
+- Almuerzo<br>
+- Buses de acercamiento<br>
+- Beneficios Internos</p>
+</div>
+<table cellspacing="0"> 
+  <tr> 
+     <th>Número de vacantes</th> 
+     <td>1</td> 
+   </tr> 
+   
+     <tr> 
+      <th>Tipo de cargo</th> 
+		
+			<td>Practica profesional</td> 
+		
+    </tr> 
+    
+
+   
+  <tr> 
+     <th>Área</th> 
+     <td>Comercial</td> 
+   </tr> 
+   
+   
+     <tr> 
+      <th>Actividad Empresa</th> 
+      <td>Retail</td> 
+    </tr> 
+    
+  
+  
+  
+	
+		<tr>
+			<th>Región Empresa</th> 
+			<td>Metropolitana</td> 
+		</tr>
+	
+ 
+   
+   
+   
+   
+	
+			 
+				<tr> 		
+					<th>Lugar de Trabajo</th> 
+					 <td>Ciudad empresarial</td> 
+				</tr>
+				  
+					
+			
+	
+	
+</table>
+
+<h2>Requisitos</h2>
+
+
+<table cellspacing="0"> 
+   
+     <tr> 
+      <th>Estudios mínimos</th> 
+	 
+	
+		<td>Universitaria</td> 
+	
+	
+	
+    </tr> 
+    
+	
+     <tr> 
+      <th>Situación de Estudios</th> 
+      <td>En curso</td> 
+    </tr>
+	
+	
+  
+  
+    
+     <tr> 
+      <th>Carrera</th> 
+      <td> 
+           
+          
+             : 1. Ingeniería Civil Industrial<br>
+           
+         
+           
+          
+             : 2. Ingeniería Comercial<br>
+           
+         </td> 
+    </tr> 
+    
+   
+   
+     <tr> 
+      <th>Conocimientos en computación</th>  
+      <td>Nivel Usuario</td> 
+    </tr> 
+    
+    
+   
+     <tr> 
+      <th>Requisitos mínimos</th> 
+      <td >-Inglés nivel medio<br>
+-Excel nivel medio<br>
+-Seguro escolar</td> 
+    </tr> 
+   
+   
+   
+   
+      
+	
+		 
+		<tr>
+			<th>Idiomas</th>
+			<td>
+			
+			Inglés (Hablado:Medio, Escrito:Medio, Traducción:Medio)</option>
+			
+			</td>
+		</tr>
+	
+
+    
+    
+	
+	
+	
+	
+</table>
+<h2>Contrato</h2>
+<table cellspacing="0"> 
+    
+  	
+
+   
+   
+     <tr> 
+      <th>Duración</th> 
+      <td>3 meses</td> 
+    </tr> 
+    
+   
+     <tr> 
+      <th>Jornada</th> 
+      <td>Práctica Profesional 
+       		
+              
+
+      </td> 
+    </tr> 
+   
+   
+   
+	 
+	   
+	 
+</table>
+ 
+
+
+
+
+
+
+
+		
+
+<h2 class="h2preguntas">Preguntas de la Oferta de Empleo (debes responderlas para poder postular)</h2>
+
+<table cellspacing="0" id="UIPreguntas"> 
+ <form action="?" method="post" name="preg">
+    
+      		<tr> 
+         		<td colspan="2">
+		
+			  
+			 - Indique formación y casa de estudios
+			  
+	    
+ 
+       
+             <br> 
+              
+			 - Indique nivel de inglés 
+           
+        
+       
+	    
+             <br> 
+              
+			 - Indique duración de la práctica a realizar 
+              
+       
+        
+             <br> 
+              
+			 - Indique disponibilidad para comenzar 
+              
+       
+        
+             <br> 
+			  
+             - ¿Cuenta con sguro escolar? 
+              
+         
+		
+			
+		
+		
+		
+		
+		
+		
+			
+			
+			
+						
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
+	
+	
+		
+
+		
+
+
+			
+			
+			
+
+			
+				
+			
+						
+			
+		
+			
+			
+		
+		
+		
+		
+			
+		
+			
+		
+		
+	
+		
+	
+			
+			
+		   
+		   
+		   
+	
+	    </td> 
+       </tr> 
+     
+	
+	 <script language="javascript" type="text/javascript">
+								
+				function postular(ruta,parametros)				
+				{
+					var param_var = '';
+					var n,n2;
+					
+					if(validaarchivo()){
+							arregloparam=parametros.split("&");
+							
+							
+						// ---- valida si viene aviso de sucursal y agrega a la URL ----
+						n=parametros.search("avisoid_suc");
+										
+						if (n > 0)
+							param_var = parametros.substring(n);
+							n2=param_var.search("&");
+							 if (n2 > 0)
+								 param_var = param_var.substring(n,n2);
+							else
+								param_var = '&' + param_var;
+						//---- FIN 		valida si viene aviso de sucursal  -----	
+						window.location = ruta + "?accion=postular&" + arregloparam[0] + param_var;
+					}else{alert('No ha completado los requerimientos de archivos.')}
+				//alert(arregloparam[1]);
+				}
+				
+				function validaarchivo(){
+					var ret = false;
+					if(validaarch==1){
+						ret=true
+					}
+					return ret;
+				}
+				
+				function recomendaraviso()				
+				{
+					document.recomendar.submit()
+				}
+				
+				function veravisosaviso(ruta,parametros)				
+				{
+				window.location = ruta + "?idaviso=" + parametros;
+				}
+								
+				function valida()
+				{
+					
+					
+						resp1 = document.preg.pregunta1.value;
+						resp1 = resp1.replace(/^\s*|\s*$/g,'');//TRIM
+						resp1 = resp1.toLowerCase(); 
+						if (document.preg.pregunta1.value.length ==0 || resp1 == 'null')
+						{
+							alert('Debes contestar la pregunta:\n Indique formación y casa de estudios');
+							document.preg.pregunta1.focus();
+							return false;
+						}
+					
+				
+				
+
+				
+				
+					
+						resp2 =document.preg.pregunta2.value;
+						resp2  = resp2.replace(/^\s*|\s*$/g,'');//TRIM
+						resp2  = resp2.toLowerCase(); 
+						
+						if (document.preg.pregunta2.value.length ==0 || resp2 == 'null')
+						{
+							alert('Debes contestar la pregunta:\n Indique nivel de inglés');
+							document.preg.pregunta2.focus();
+							return false;
+						}
+					
+				
+					
+						resp3 =document.preg.pregunta3.value;
+						resp3 = resp3.replace(/^\s*|\s*$/g,'');//TRIM
+						resp3 = resp3.toLowerCase(); 
+						if (document.preg.pregunta3.value.length ==0 || resp3 == 'null')
+						{
+							alert('Debes contestar la pregunta:\nIndique duración de la práctica a realizar');
+							document.preg.pregunta3.focus();
+							return false;
+						}
+					
+				
+					
+						resp4 =document.preg.pregunta4.value;
+						resp4 = resp4.replace(/^\s*|\s*$/g,'');//TRIM
+						resp4 = resp4.toLowerCase(); 
+						if (document.preg.pregunta4.value.length ==0 || resp4 == 'null')
+						{
+							alert('Debes contestar la pregunta:\nIndique disponibilidad para comenzar');
+							document.preg.pregunta4.focus();
+							return false;
+						}
+					
+				
+					
+						resp5 =document.preg.pregunta5.value;
+						resp5 = resp5.replace(/^\s*|\s*$/g,'');//TRIM
+						resp5 = resp5.toLowerCase(); 
+						if (document.preg.pregunta5.value.length ==0 || resp5 == 'null')
+						{
+							alert('Debes contestar la pregunta:\n¿Cuenta con sguro escolar?');
+							document.preg.pregunta5.focus();
+							return false;
+						}
+					
+					
+					/*
+					*	Autor		:	Carlos Garrido
+					*	Fecha		:	28-09-2012
+					*	Incidencia	:	64503
+					*	Descripcion	:	Validador de Preguntas Anexas.
+					*/
+		
+					var tRespuestas = 0
+					var indiceRespuesta = 0;
+					var preguntaAlterntivas=0;
+								
+					if(tRespuestas > 0 && 0==0)
+					{  	
+						for( indice = 1 ; indice <= tRespuestas ; indice ++ )
+						{	
+							indiceRespuesta = indice+5;						
+							// 26/11/2012 Marcela para la opcion de respuestas con alternativas 
+							preguntaAlterntivas = document.getElementById('pregAnexaalternativa_' + indiceRespuesta).value;
+							if(preguntaAlterntivas == 1){
+								var respuesta = document.getElementById('respuesta' + indiceRespuesta).options[document.getElementById('respuesta' + indiceRespuesta).selectedIndex].value;
+							}
+							else {
+								var respuesta = document.getElementById('respuesta' + indiceRespuesta).value
+							}
+								
+							if(respuesta == 'null' || respuesta.length == 0)
+							{
+								var pregunta = document.getElementById('pregunta' + indiceRespuesta)
+
+								alert('Debes contestar la pregunta:\n\r' + pregunta.innerHTML);
+								return false;
+							}
+																				
+						}						
+					}				
+										
+					if(validaarchivo()){				
+							document.preg.submit();
+						}else{
+							alert('No ha completado los requerimientos de archivos.');
+						return false;
+					}
+				
+				//cierra funcion
+				}
+				/*function recomendar(idaviso) {
+	ventana2('recomendarav1.cfm?avisoid='+idaviso,'recomendaraviso',490,420);
+}*/
+
+</script>
+				
+	
+	 
+	<input name="cartaPresentacion" type="hidden" value="0">
+	
+	
+     <input type="hidden" name="idaviso" value="2861616"> 
+     <input type="hidden" name="accion" value="postular"> 
+	 
+	 
+	  
+	</form>	 
+</table>
+
+	
+ 
+     
+     
+  
+    
+    
+
+  
+    
+    
+
+
+
+
+<div class="postularDiv">
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+ 
+
+	
+		
+		
+			
+			
+				
+					<input name="Postular" type="button" value="Postular a la vacante" onClick="javascript:postular('/aviso.cfm','idaviso=2861616&idaviso=2861616');pageTrackerCons._trackEvent('Links', 'Ofertas', 'Postular No-Logueado');">
+				
+			
+		
+	
+
+</div>
+
+
+
+
+<script>
+
+				function mostrarCarta(carta) {
+					ventana2('includes/cartai.cfm?vista_carta=1&cartaid='+carta,'Vercarta',490,420);
+				}
+				
+				function ventana2(archivo,nombre,ancho,alto)
+				{
+				LeftPosition=(screen.width)?(screen.width-ancho)/2:100;
+				TopPosition=(screen.height)?(screen.height-alto)/2:100;
+				anexosayuda = window.open(archivo,nombre,"left="+LeftPosition+",top="+TopPosition+",height="+alto+",width="+ancho+",toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,maximized");
+				}
+
+
+        
+      
+
+</script>
+</div>
+			
+
+
+
+			
+		 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+         
+
+      
+        
+                
+        
+        
+         
+		
+	        
+				
+
+	
+	
+	
+<br />
+		</div>
+		</div>
+		</div>
+		<!-- END principal -->
+		
+
+
+
+
+	<div id="secundario">
+    
+		<div id="col-a">		
+		  
+		 
+		
+		
+		
+
+		
+		
+        
+		
+        
+		
+		
+		
+		
+		
+		
+
+	
+
+	
+		
+			<div id="publicagratis"> 
+
+
+<h2>Publica Gratis</h2>
+
+<div class="contenido-columnas">  
+
+
+	<div class="EmpresaUDEmpleos"> 
+
+
+
+
+	<a href="/publicar.cfm">
+
+
+
+
+	<img src="img/cl-dportales/publicagratis.jpg" border="0" /></a>
+
+
+
+	<a href="http://www.udp.cl/facultades_carreras/"><img src="img/cl-dportales/facultadesCarreras.jpg" border="0" /></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	 
+	 
+</div>
+</div>
+
+		
+			
+
+
+
+		
+			
+
+
+		
+
+<div id="noticias">
+	<h2>Art&iacute;culos de Inter&eacute;s</h2>
+	
+	<div class="contenido-columnas">
+		
+			<ul>
+				
+				
+					
+					<li><a href="noticia.cfm?noticiaID=15785"><strong>Universia celebra 14 años al servicio de la educación superior</strong></a><br>El director general de Universia Chile, José Pedro Fuenzalida, agradece y destac...</li>
+					
+				
+			</ul>
+	    
+		<ul>
+		
+		<li><a href="noticia.cfm?noticiaID=15809"><strong>Diez Consejos para triunfar en una entrevista de trabajo</strong></a><br>Ser puntual, vestir de forma adecuada e informarse sobre la empresa, son algunas...</li>
+		
+		<li><a href="noticia.cfm?noticiaID=15795"><strong>Qué es lo que más valoran las empresas en un trabajador</strong></a><br>En mercado laboral tan competitivo como el actual no es de extrañar que a pesar ...</li>
+		
+		<li><a href="noticia.cfm?noticiaID=15787"><strong>Los diez consejos para enfrentarse a un assessment center</strong></a><br>Cada vez más empresas apuestan por el assessment center para sus procesos de sel...</li>
+		
+		<li><a href="noticia.cfm?noticiaID=15762"><strong>Revisa aquí un modelo de CV</strong></a><br></li>
+		
+		<li><a href="noticia.cfm?noticiaID=15744"><strong>10 cosas que se deben evitar en la primera práctica profesional.</strong></a><br>Benjamín Toselli, presidente ejecutivo de la consultora IT Hunter, entrega un li...</li>
+		
+		</ul>
+        
+		<p align="right"><img src="http://tbjui.trabajando.com/ver1.0/img/asset/comunes/flecha_der.gif" width="12" height="11"> <a href="noticias.cfm"><strong>Ver Todos</strong></a></p>
+        
+		
+            </div> 
+</div>
+
+
+
+			
+			
+	
+	
+	
+
+
+	
+	
+		</div>
+
+		
+		
+
+
+	
+
+			
+
+
+
+
+	
+
+		
+
+
+
+
+
+
+
+  
+  
+      
+
+
+  
+  
+   
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div id="banner_derecha">
+        <a href="http://www.publicistasportaleanos.udp.cl/" target="_blank" ><img src="http://www.trabajando.com/imagenes/banner/banner-pp.gif" style="margin-top:10px;"/></a>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FLeiva. Se agrega banner y redes sociales portal UAH 19/08/2015--->
+
+
+
+<br/>
+
+
+
+
+	</div>
+	<div id="pie-pagina">
+	 
+<hr />
+	
+ 
+	<p>&copy; Copyright 2006 - 2016 <strong><a title="Trabajo y Empleo Trabajando.com - Chile" target="_blank" href="http://www.trabajando.com/">Empleos Trabajando.com Chile</a></strong> y <strong><a href="http://www.universia.cl/" target="_blank">Universia</a></strong><a href="http://www.universia.cl/">.</a> Todos los derechos reservados <a href="administrador/">Acceso Administrador<br>
+	</a><a href="noticia.cfm?noticiaid=696">Pol&iacute;ticas de Privacidad</a> | <a href="noticia.cfm?noticiaid=697">Qui&eacute;nes Somos</a> | <a href="http://www.udp.cl">Sitio web Universidad Diego Portales</a></p>
+	
+    
+</div>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	    
+    	
+		
+		 
+		
+			<!--Chile -->
+			<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+		
+		
+		<script type="text/javascript">
+			var pageTrackerCons = _gat._getTracker("UA-5352676-2");
+			pageTrackerCons._setDomainName("none");
+			pageTrackerCons._setAllowLinker(true);
+			pageTrackerCons._setCustomVar(1,"Login","No-Logueado",2);
+			
+			
+		
+			 
+		
+			
+		
+			pageTrackerCons._trackPageview();
+			pageTrackerCons._trackPageLoadTime();
+			var pageTrackerPais = _gat._getTracker("UA-5358885-2");
+			pageTrackerPais._setDomainName("none");
+			pageTrackerPais._setAllowLinker(true);
+			pageTrackerPais._setCustomVar(1,"Login","No-Logueado",2);		
+			pageTrackerPais._trackPageview();
+			pageTrackerPais._trackPageLoadTime();
+			
+			
+				var pageTrackerU = _gat._getTracker("UA-5358885-3");
+				pageTrackerU._setDomainName("none");
+				pageTrackerU._setAllowLinker(true);
+				pageTrackerU._trackPageview();
+				pageTrackerU._trackPageLoadTime();
+			
+	
+			
+			
+
+			
+	
+			 
+	
+			
+			
+			
+			
+			
+	
+			
+
+				
+	
+					
+	
+			
+	
+			
+				
+		</script>
+			
+	
+	
+	
+	
+		<script type="text/javascript">
+			var pageTrackerUniversidades = _gat._getTracker("UA-5352676-3");
+			pageTrackerUniversidades._setDomainName("none");
+			pageTrackerUniversidades._setAllowLinker(true);
+			pageTrackerUniversidades._trackPageview();
+			pageTrackerUniversidades._trackPageLoadTime();
+		</script>
+	
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    
+      
+     
+     
+      
+    
+	
+    
+    
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+			
+			
+			
+				
+								
+				
+				
+				
+				
+				
+							
+				
+				
+				
+				
+							
+                
+	        
+			
+	
+
+	<!-- Se agregan sus propias metricas para portal uautonoma.trabajando.com  OCruz 24-11-2015 -->
+		
+	
+
+
+
+
+</div>
+<!-- END contenedor -->
+</body>
+</html>
+	
+
+
+

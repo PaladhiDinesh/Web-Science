@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<!--[if (IE 8)&!(IEMobile)]><html class="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Track Your Internet Connection in the New York Subway With This App - FeedPileFeedPile</title>
+
+<link rel="stylesheet" href="http://www.feedpile.net/wp-content/themes/grunge/style.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald:700|PT+Sans:400,400italic,700,700italic">
+
+<link rel="shortcut icon" href="http://www.feedpile.net/wp-content/themes/grunge/favicon.ico">
+<link rel="pingback" href="http://www.feedpile.net/xmlrpc.php">
+
+<script src="http://www.feedpile.net/wp-content/themes/grunge/js/respond.min.js"></script>
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.feedpile.net/?p=494339" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Track Your Internet Connection in the New York Subway With This App - FeedPile" />
+<meta property="og:description" content="Living in New York can be a real bag of garbage sometimes. There&#039;s the actual garbage, the mounds of snow covered in dog poo, the defunct phone booths dudes use like urinals, and worst of all, the unreliable data service underground. The indignity!...  ...read more" />
+<meta property="og:url" content="http://www.feedpile.net/?p=494339" />
+<meta property="og:site_name" content="FeedPile" />
+<meta property="article:publisher" content="http://www.facebook.com/feedpile" />
+<meta property="article:tag" content="Gadgets" />
+<meta property="article:section" content="Gadgets" />
+<meta property="article:published_time" content="2016-02-08T09:01:00+00:00" />
+<meta property="fb:admins" content="611026774" />
+<meta property="og:image" content="https://i.kinja-img.com/gawker-media/image/upload/s--Q84mm5Xc--/c_fit,fl_progressive,q_80,w_636/ycclzury2aoyyhzbpx4u.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Living in New York can be a real bag of garbage sometimes. There&#039;s the actual garbage, the mounds of snow covered in dog poo, the defunct phone booths dudes use like urinals, and worst of all, the unreliable data service underground. The indignity!...  ...read more"/>
+<meta name="twitter:title" content="Track Your Internet Connection in the New York Subway With This App - FeedPile"/>
+<meta name="twitter:site" content="@feed_pile"/>
+<meta name="twitter:image" content="https://i.kinja-img.com/gawker-media/image/upload/s--Q84mm5Xc--/c_fit,fl_progressive,q_80,w_636/ycclzury2aoyyhzbpx4u.jpg"/>
+<meta name="twitter:creator" content="@feed_pile"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="FeedPile &raquo; Feed" href="http://www.feedpile.net/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="FeedPile &raquo; Comments Feed" href="http://www.feedpile.net/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.feedpile.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.3"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wprssmi_template_styles-css'  href='http://www.feedpile.net/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-custom-css'  href='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/jquery-ui.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-login-register-style-css'  href='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/style.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-login-register-login-style-css'  href='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/login.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-login-register-register-style-css'  href='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/register.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.feedpile.net/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.feedpile.net/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.2' type='text/css' media='all' />
+
+<style>
+a, #main h1 a:hover {color:#d8193a;}
+aside a:hover, #dark aside a:hover {border-color:#d8193a;}
+.meta-tags li a {background-color:#d8193a;}
+
+.hentry {word-wrap: break-word;}</style>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js?ver=1.9.0'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _ajax_login_settings = {"ajaxurl":"http:\/\/www.feedpile.net\/wp-admin\/admin-ajax.php","login_handle":"","register_handle":"","redirect":"http:\/\/www.feedpile.net\/?p=494339","dialog_width":"265","match_error":"Passwords do not match.","is_user_logged_in":"0","wp_logout_url":"http:\/\/www.feedpile.net\/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwww.feedpile.net&_wpnonce=3df3fdf165","logout_text":"Logout","close_text":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/scripts.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/login.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-content/plugins/zm-ajax-login-register/assets/register.js?ver=4.3.3'></script>
+<link rel='shortlink' href='http://wp.me/p3P29Z-24Bd' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-43732816-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+</head>
+
+<body id="light" class="single single-post postid-494339 single-format-link">
+<div id="wrapper">
+		<div id="main">
+			<header role="banner">
+				<a href="http://www.feedpile.net/" id="logo">
+					<img src="http://www.feedpile.net/wp-content/themes/grunge/images/logo.png" alt=""></a>
+				
+				<p id="description">All the Worthless News in One Place</p>				
+				<nav class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://www.feedpile.net/?cat=2">Funny</a></li>
+<li id="menu-item-484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-484"><a href="http://www.feedpile.net/?cat=9">TV and Movies</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://www.feedpile.net/?cat=5">Gaming</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://www.feedpile.net/?cat=7">Music</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7"><a href="http://www.feedpile.net/?cat=6">Gadgets</a></li>
+<li id="menu-item-31223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31223"><a href="http://www.feedpile.net/?cat=17">Booze</a></li>
+<li id="menu-item-160527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160527"><a href="http://www.feedpile.net/?cat=18">Blog</a></li>
+<li id="menu-item-63497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63497"><a href="http://www.feedpile.net/?page_id=26132">Submit</a></li>
+</ul></nav>			</header>
+
+<div class="post-494339 post type-post status-publish format-link hentry category-tech tag-gadgets post_format-post-format-link">
+	<h1><a href=http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603 target=_blank >Track Your Internet Connection in the New York Subway With This App</a></h1>
+
+	<ul class="meta">
+		<li class="meta-date">February 8, 2016</li>
+		<li class="meta-category"><a href="http://www.feedpile.net/?cat=6" rel="category">Gadgets</a></li>
+		<li class="meta-comments"><a href="http://www.feedpile.net/?p=494339#comments">No comments</a></li>
+	</ul>
+	
+	
+	<p><span style="font-style:italic;font-size:16px">By  <a target="_blank" href="http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603">Alex Cranz</a></span>
+<div class="ftpimagefix" style="float:left"><a target="_blank" href="http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603"><img width="100" src="https://i.kinja-img.com/gawker-media/image/upload/s--Q84mm5Xc--/c_fit,fl_progressive,q_80,w_636/ycclzury2aoyyhzbpx4u.jpg"/></a></div>
+<figure></figure>
+<p>Living in New York can be a real bag of garbage sometimes. There&#8217;s the actual garbage, the mounds of snow covered in dog poo, the defunct phone booths dudes use like urinals, and worst of all, the unreliable data service underground. The indignity!</p>
+<p>&#8230;</p>
+<p> <a href="http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603" target="_blank" id="rssmi_more"> &#8230;read more</a>
+<p>Via:: <a href="http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603" target="_blank" title="Track Your Internet Connection in the New York Subway With This App">Gizmodo</a></p>
+<p></p><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=email" target="_blank" title="Click to email this to a friend"><span></span><span class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-494339" class="share-facebook sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-494339" class="share-twitter sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-494339" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=tumblr" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=reddit" target="_blank" title="Click to share on Reddit"><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-494339" class="share-pinterest sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=pinterest" target="_blank" title="Click to share on Pinterest"><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon no-text" href="http://www.feedpile.net/?p=494339&amp;share=pocket" target="_blank" title="Click to share on Pocket"><span></span><span class="sharing-screen-reader-text">Click to share on Pocket (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>	
+		
+	<ul class="meta-tags"><li><a href="http://www.feedpile.net/?tag=gadgets" rel="tag">Gadgets</a></li></ul>	
+	
+	<div id="comments">
+	
+			
+	
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/?p=494339#respond" style="display:none;">Cancel Reply</a></small></h3>
+									<p class="must-log-in">You must be <a href="http://www.feedpile.net/wp-login.php?redirect_to=http%3A%2F%2Fwww.feedpile.net%2F%3Fp%3D494339">logged in</a> to post a comment.</p>												</div><!-- #respond -->
+			
+</div><!-- /comments --></div><!-- /hentry -->
+
+<ul id="page-navi">
+	<li class="page-navi-prev"><a href="http://www.feedpile.net/?p=494350" rel="prev">Previous</a></li>
+	<li class="page-navi-next"><a href="http://www.feedpile.net/?p=494334" rel="next">Next</a></li>
+</ul>
+
+
+</div><!-- /main -->
+
+<aside>
+	<div class="aside-inner">
+		<div id="social_widget-2" class="widget-container widget_social"><ul  class="widget_social_color">
+			<li><a href="http://twitter.com/Feed_Pile" id="twitter">Twitter</a></li><li><a href="http://www.facebook.com/feedpile" id="facebook">Facebook</a></li><li><a href="http://plus.google.com/116550644330209070360" id="google">Google+</a></li><li><a href="http://feedpile.tumblr.com/" id="tumblr">Tumblr</a></li><li><a href="http://feeds.feedburner.com/Feedpile" id="rss">RSS</a></li>		</ul>
+		
+		</div>	 <div id="pro_recent_post-2" class="widget-container widget_pro_recent_post">	 <h3 class="widget-title">Funny</h3>	 <ul>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500063" title="Hey, Can We Talk About How Hot Kaley Cuoco Was Looking At The Grammys?">Hey, Can We Talk About How Hot Kaley Cuoco Was Looking At The Grammys?</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500066" title="Thin Wins">Thin Wins</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500034" title="Watch Lady Gaga’s Colorful Tribute To David Bowie At The Grammys">Watch Lady Gaga’s Colorful Tribute To David Bowie At The Grammys</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499993" title="Here Is David Grohl Rocking A Red Solo Cup On The Floor Of The Grammys Like A True Bro">Here Is David Grohl Rocking A Red Solo Cup On The Floor Of The Grammys Like A True Bro</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499965" title="Chrissy Teigen Dropped The Mic On The Trolls Body-Shaming Her Bikini Pics On Instagram">Chrissy Teigen Dropped The Mic On The Trolls Body-Shaming Her Bikini Pics On Instagram</a>
+				</li>
+	 	 </ul>
+	 </div>     	 <div id="pro_recent_post-3" class="widget-container widget_pro_recent_post">	 <h3 class="widget-title">TV and Movies</h3>	 <ul>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500060" title="Polite Fight: Is that light switch in Better Call Saul hooked up to anything?">Polite Fight: Is that light switch in Better Call Saul hooked up to anything?</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500051" title="Better Call Saul: &#8220;Switch&#8221; Review">Better Call Saul: &#8220;Switch&#8221; Review</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500071" title="Better Call Saul: &#8220;Switch&#8221; Review">Better Call Saul: &#8220;Switch&#8221; Review</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500017" title="TV Club: Gravity Falls has the perfect ending">TV Club: Gravity Falls has the perfect ending</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500005" title="All Hell Is About to Break Loose on The Magicians">All Hell Is About to Break Loose on The Magicians</a>
+				</li>
+	 	 </ul>
+	 </div>     <div id="text-3" class="widget-container widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- feedpile -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5352882889972490"
+     data-ad-slot="1775909360"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>	 <div id="pro_recent_post-4" class="widget-container widget_pro_recent_post">	 <h3 class="widget-title">Gaming</h3>	 <ul>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500044" title="Why Rogue One is Crucial to Star Wars Battlefront">Why Rogue One is Crucial to Star Wars Battlefront</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499910" title="Suck Less at Street Fighter 5">Suck Less at Street Fighter 5</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499710" title="Out This Week: Street Fighter V, Fire Emblem Fates: Birthright and Conquest">Out This Week: Street Fighter V, Fire Emblem Fates: Birthright and Conquest</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499711" title="Rumoured Green Lantern actor talks about Batman v Superman role">Rumoured Green Lantern actor talks about Batman v Superman role</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499652" title="Jimmy&#039;s enjoying his midlife crisis in Better Call Saul season 2 trailer">Jimmy&#039;s enjoying his midlife crisis in Better Call Saul season 2 trailer</a>
+				</li>
+	 	 </ul>
+	 </div>     	 <div id="pro_recent_post-5" class="widget-container widget_pro_recent_post">	 <h3 class="widget-title">Music</h3>	 <ul>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500062" title="Grammys 2016: Mark Ronson and Bruno Mars&#8217; &#8220;Uptown Funk&#8221; Wins Record of the Year">Grammys 2016: Mark Ronson and Bruno Mars&#8217; &#8220;Uptown Funk&#8221; Wins Record of the Year</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500046" title="Hollywood Vampires Bring Hard Rock to 2016 Grammys With Lemmy Kilmister Tribute">Hollywood Vampires Bring Hard Rock to 2016 Grammys With Lemmy Kilmister Tribute</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500047" title="Jay Rock Injured in Motorcycle Accident">Jay Rock Injured in Motorcycle Accident</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500048" title="Chris Stapleton, Bonnie Raitt Helm B.B. King Grammy Tribute">Chris Stapleton, Bonnie Raitt Helm B.B. King Grammy Tribute</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=500035" title="Grammys 2016: Lauryn Hill&#8217;s Absence From the Weeknd Performance Explained">Grammys 2016: Lauryn Hill&#8217;s Absence From the Weeknd Performance Explained</a>
+				</li>
+	 	 </ul>
+	 </div>     	 <div id="pro_recent_post-7" class="widget-container widget_pro_recent_post">	 <h3 class="widget-title">Booze</h3>	 <ul>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499832" title="Bootlegger Apple Brew – Prohibition Beer?">Bootlegger Apple Brew – Prohibition Beer?</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=499048" title="Tasting Notes: Beavertown: Bellwoods: Barrel Aged Moose Fang">Tasting Notes: Beavertown: Bellwoods: Barrel Aged Moose Fang</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=498476" title="Bruichladdich Octomore 7.4">Bruichladdich Octomore 7.4</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=498481" title="Bruichladdich Octomore 7.4">Bruichladdich Octomore 7.4</a>
+				</li>
+	 		<li>
+		<a href="http://www.feedpile.net/?p=497783" title="We Do Beer Now!">We Do Beer Now!</a>
+				</li>
+	 	 </ul>
+	 </div>     <div id="text-2" class="widget-container widget_text"><h3 class="widget-title">Contact</h3>			<div class="textwidget">For more information or advertising info, <A HREF="mailto:
+&#097;&#100;&#109;&#105;&#110;&#064;&#102;&#101;&#101;&#100;&#112;&#105;&#108;&#101;&#046;&#110;&#101;&#116;">
+contact us.</A></div>
+		</div><div id="text-4" class="widget-container widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- feedpile2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5352882889972490"
+     data-ad-slot="2081803769"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>		
+		<p id="copyright" class="aside-small"><a href="http://wordpress.org/"><br />Copyright &copy; 2016 <a href="http://www.feedpile.net/">FeedPile</a></p>
+	</div>
+</aside></div><!-- /wrapper -->
+
+<!-- SCRIPTS -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43732816-1', 'feedpile.net');
+  ga('send', 'pageview');
+
+</script>
+<div id="ajax-login-register-dialog" class="ajax-login-register-container" title="Register" data-security="e8fae4ab93" style="display: none;">
+    <div id="ajax-login-register-target" class="ajax-login-register-dialog">Loading...</div>
+</div><div id="ajax-login-register-login-dialog" class="ajax-login-register-container" title="Login" data-security="20a4d50465" style="display:none;">
+    <div id="ajax-login-register-login-target" class="ajax-login-register-login-dialog">Loading...</div>
+</div>
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/www.feedpile.net\/?p=494339":494339};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/?p=494339" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://www.feedpile.net/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+						<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://www.feedpile.net/wp-content/themes/grunge/js/scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-includes/js/comment-reply.min.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.feedpile.net/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.8.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'56492043',post:'494339',tz:'-5',srv:'www.feedpile.net'} ]);
+	_stq.push([ 'clickTrackerInit', '56492043', '494339' ]);
+</script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: www.feedpile.net @ 2016-02-16 00:12:21 by W3 Total Cache -->

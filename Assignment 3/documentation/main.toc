@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Problem 1}{2}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Solution}{2}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1.2}Code Listing}{3}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {1.3}Results}{4}{subsection.0.1.3}
+\contentsline {subsubsection}{Sample Raw File}{4}{section*.2}
+\contentsline {subsubsection}{Sample Processed File}{4}{section*.3}
+\contentsline {subsubsection}{Sample Collection of Raw files}{5}{section*.4}
+\contentsline {subsubsection}{Sample Collection of Processed files}{6}{section*.5}
+\contentsline {section}{\numberline {2}Problem 2}{7}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Solution}{7}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Code Listing}{9}{subsection.0.2.2}
+\contentsline {subsubsection}{Python Code for getting URIs with ``burger'' and TFIDF values for each URI}{9}{section*.6}
+\contentsline {subsection}{\numberline {2.3}Results}{10}{subsection.0.2.3}
+\contentsline {subsubsection}{Number of searches for ``burger'' in google}{10}{section*.7}
+\contentsline {subsubsection}{Processed URI files- having ``burger'' keyword in it}{10}{section*.8}
+\contentsline {subsubsection}{10 random URIs from Processed URI files- having ``burger'' keyword in it}{11}{section*.9}
+\contentsline {subsubsection}{TFIDF Table}{11}{section*.10}
+\contentsline {section}{\numberline {3}Problem 3}{12}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Solution}{12}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {3.2}Results}{13}{subsection.0.3.2}
+\contentsline {subsubsection}{Sample Rank for one URI}{13}{section*.11}
+\contentsline {subsubsection}{Page rank along with 10 URIs}{13}{section*.12}
+\contentsline {subsubsection}{Comparison between Pagerank and TFIDF}{13}{section*.13}
+\contentsline {section}{\numberline {4}Problem 4}{14}{section.0.4}
+\contentsline {subsection}{\numberline {4.1}Solution}{14}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {4.2}Code Listing and Results}{15}{subsection.0.4.2}
+\contentsline {subsubsection}{R code and results for Kendal's Tau b value and p value}{15}{section*.14}

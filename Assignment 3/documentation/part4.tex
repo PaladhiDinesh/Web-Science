@@ -1,0 +1,33 @@
+
+
+\section{Problem 4}
+\label{part4}
+\begin{verbatim}
+
+4.  Compute the Kendall Tau_b score for both lists (use ``b'' because
+there will likely be tie values in the rankings).  Report both the
+Tau value and the ``p'' value.
+
+See: 
+http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls-tau-b-and-tau-c
+http://en.wikipedia.org/wiki/Kendall_tau_rank_correlation_coefficient#Tau-b
+http://en.wikipedia.org/wiki/Correlation_and_dependence
+
+\end{verbatim}
+
+\subsection{Solution}
+\begin{enumerate}
+\item Here I need to calculate the kendall Tau b value and p-value.
+\item I used Tau b because there are tie values in the rankings.
+\item Tau b  score is used to measure the association between the ranks produced by TFIDF and Page rank.
+\item I have both the TFIDF and page rank values into two vectors and ``cor.text'' command is used in ``R''  giving method as ``Kendall'' which returns Tau b value and p-value.
+\item Output :- tau = 0.7833, z= 2.8088, p-value = 0.0024
+\item Here 3 URIs have 0 rank and 6 of them have 0.6 rank. So, there are a lot of ties and Kendall's tau coefficient shows a high correlation.
+\end{enumerate}
+\newpage
+\subsection{Code Listing and Results}
+
+\subsubsection{R code and results for Kendal's Tau b value and p value}
+\lstinputlisting[language=R,breaklines = true,frame=single,caption={R code for Kendal's Tau b value}, label=lst:q2R,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{Kendal.R}
+\newpage
+

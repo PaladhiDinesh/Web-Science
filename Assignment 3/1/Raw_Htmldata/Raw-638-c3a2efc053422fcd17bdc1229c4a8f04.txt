@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Larry J. Sabato&#039;s Crystal Ball  &raquo; WHAT WOULD – AND WOULD NOT – BE SURPRISING IN NEW HAMPSHIRE</title>
+<link rel="stylesheet" href="http://www.centerforpolitics.org/crystalball/wp-content/themes/NOcompromise/style.css" type="text/css" media="screen" />
+<link rel="shortcut icon" href="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/cbfavicon.ico"> 
+<link rel="alternate" type="application/rss+xml" title="Larry J. Sabato&#039;s Crystal Ball RSS Feed" href="http://www.centerforpolitics.org/crystalball/feed/" />
+<link rel="pingback" href="http://www.centerforpolitics.org/crystalball/xmlrpc.php" />
+</head>
+<body>
+
+<h1 id="header"><a href="http://www.centerforpolitics.org/crystalball/">Sabato's Crystal Ball</a></h1>
+
+<div id="navigation">
+
+<ul id="greater-navtop">
+	<li><a href="http://www.centerforpolitics.org/crystalball">Home</a></li>
+		<li class="cat-item cat-item-27"><a href="http://www.centerforpolitics.org/crystalball/2016-president/" title="View all posts filed under President">President</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.centerforpolitics.org/crystalball/2016-senate/" title="View all posts filed under Senate">Senate</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.centerforpolitics.org/crystalball/2016-house/" title="View all posts filed under House">House</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.centerforpolitics.org/crystalball/2016-governor/" title="View all posts filed under Governor">Governor</a>
+</li>
+        <li class="cat-item cat-item-39"><a href="http://www.centerforpolitics.org/crystalball/2016-ratings-changes/" title="View all posts filed under Rating Changes">Ratings Changes</a>
+
+</li>
+</ul>
+<ul id="lesser-navtop">
+	<li><a href="http://www.centerforpolitics.org/crystalball/archives/">Archives</a></li>
+	<li><a href="http://www.centerforpolitics.org/crystalball/about/">About</a></li>
+</ul>
+<hr />
+<ul id="second-nav">
+	<li><a href="http://www.centerforpolitics.org/crystalball/signup">Sign Up</a></li>
+	<li><a href="http://www.centerforpolitics.org/sponsors.html">Donate</a></li>
+	<li id="followus-nav"><a>Follow us</a>
+	<div>
+<span><a href="http://www.facebook.com/centerforpolitics" title="UVA Center for Politics on Facebook" target="_blank"><img src="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/facebook_16.png"  alt="Facebook"  title="UVA Center for Politics on Facebook" /> Facebook</a></span>
+<span><a href="http://twitter.com/larrysabato" title="Follow Larry on Twitter" target="_blank"><img src="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/twitter_16.png"  alt="Twitter"  title="Follow Larry on Twitter" /> Twitter</a></span>
+<span><a href="http://feeds.feedburner.com/Crystal_Ball" title="Subscribe to the RSS feed" target="_blank"><img src="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/rss_16.png"  alt="Subscribe to RSS"  title="Subscribe to the RSS feed" /> Subscribe to RSS</a></span>
+	</div>
+	</li>
+    </ul>
+    <ul id="second-rightnav">
+	<li><form action="http://www.centerforpolitics.org/crystalball/search/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="006765431737772454707:yt9wmzbyq7s" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="20" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+	</li>
+    </ul>
+
+</div>
+
+<div id="content"><div id="sidebar">
+	<ul>
+		<li id="text-8" class="widget widget_text">			<div class="textwidget"><center><h3 style="margin: 0px 0px 5px 0px">Subscribe to the Crystal Ball</h3></center>
+<style>
+.link,
+.link a,
+.signupframe
+{
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+	.link,
+	.link a {
+		text-decoration: none;
+		}
+	.signupframe {
+		border: 1px solid #000000;
+		background: #e6e6e6;
+		}
+.signupframe .required {
+	font-size: 10px;
+	}
+</style>
+<form method=post action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup300" accept-charset="UTF-8" onsubmit="return verifyRequired300();" >
+<input type=hidden name=redirect value="http://www.icontact.com/www/signup/thanks.html" />
+<input type=hidden name=errorredirect value="http://www.icontact.com/www/signup/error.html" />
+
+<div id="SignUp">
+<table width="219" class="signupframe" border="0" cellspacing="4" cellpadding="4">
+	<tr>
+      <td valign=top align=right>
+        E-mail
+      </td>
+      <td align=left>
+        <input type=text name="fields_email">
+      </td>
+    </tr>
+	<tr>
+      <td valign=top align=right>
+        First name
+      </td>
+      <td align=left>
+        <input type=text name="fields_fname">
+      </td>
+    </tr>
+	<tr>
+      <td valign=top align=right>
+        Last name
+      </td>
+      <td align=left>
+        <input type=text name="fields_lname">
+      </td>
+    </tr>
+	<tr>
+      <td valign=top align=right>
+        Zip code
+      </td>
+      <td align=left>
+        <input type=text name="fields_zip">
+      </td>
+    </tr>
+    <input type=hidden name="listid" value="4887">
+    <input type=hidden name="specialid:4887" value="IHA6">
+
+    <input type=hidden name=clientid value="561522">
+    <input type=hidden name=formid value="300">
+    <input type=hidden name=reallistid value="1">
+    <input type=hidden name=doubleopt value="0">
+    <tr>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><input type="image" name="submit" src="http://www.centerforpolitics.org/crystalball/content/images/signup.png" vspace="5"></td>
+    </tr>
+    </table>
+</div>
+</form>
+<script type="text/javascript">
+
+var icpForm300 = document.getElementById('icpsignup300');
+
+if (document.location.protocol === "https:")
+
+	icpForm300.action = "https://app.icontact.com/icp/signup.php";
+function verifyRequired300() {
+  if (icpForm300["fields_email"].value == "") {
+    icpForm300["fields_email"].focus();
+    alert("The Email field is required.");
+    return false;
+  }
+  if (icpForm300["fields_fname"].value == "") {
+    icpForm300["fields_fname"].focus();
+    alert("The First Name field is required.");
+    return false;
+  }
+  if (icpForm300["fields_lname"].value == "") {
+    icpForm300["fields_lname"].focus();
+    alert("The Last Name field is required.");
+    return false;
+  }
+  if (icpForm300["fields_zip"].value == "") {
+    icpForm300["fields_zip"].focus();
+    alert("The Zip field is required.");
+    return false;
+  }
+
+
+return true;
+}
+</script>
+<br /></div>
+		</li><li id="text-9" class="widget widget_text">			<div class="textwidget"><center><h3><em>Daily Beast</em> 2013 BeastBest winner</h3><a href="http://beastbestawards.thedailybeast.com/"><img src="http://www.centerforpolitics.org/crystalball/content/images/BeastBestAwardBadge.png" alt="" /></a></center>
+<br /></div>
+		</li><li id="text-7" class="widget widget_text">			<div class="textwidget"><center><h3>Follow us on Twitter!</h3></center>
+<br />
+<a href="http://twitter.com/LarrySabato" class="twitter-follow-button" data-show-count="false">Follow @LarrySabato</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<a href="http://twitter.com/Center4Politics" class="twitter-follow-button" data-show-count="false">Follow @Center4Politics</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<a href="http://twitter.com/kkondik" class="twitter-follow-button" data-show-count="false">Follow @kkondik</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<a href="http://twitter.com/geoffreyvs" class="twitter-follow-button" data-show-count="false">Follow @geoffreyvs</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<br />
+</div>
+		</li><li id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.270towin.com/"><img src="http://www.centerforpolitics.org/crystalball/content/images/270-logo.png" style="margin: 10px 0px 5px 0px"/></a></center></div>
+		</li>	</ul>
+</div>
+<!-- end #sidebar -->
+
+
+<div class="article" id="post-14817">
+<h3 class="art-title">What Would – and Would Not – Be Surprising in New Hampshire</h3>
+<h4 class="art-subtitle"></h4>
+<p class="art-whowhen"><span class="art-author">Larry J. Sabato, Kyle Kondik and Geoffrey Skelley</span>, <span class="art-author-position">Sabato's Crystal Ball</span> <span class="art-date">February 8th, 2016</span></p>
+<style> #upm-buttons img { border-radius: 3px; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); } </style><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-facebook nolightbox" data-provider="facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F&#038;t=What%20Would%20%E2%80%93%20and%20Would%20Not%20%E2%80%93%20Be%20Surprising%20in%20New%20Hampshire&#038;s=100&#038;p&#091;url&#093;=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F&#038;p&#091;images&#093;&#091;0&#093;=&#038;p&#091;title&#093;=What%20Would%20%E2%80%93%20and%20Would%20Not%20%E2%80%93%20Be%20Surprising%20in%20New%20Hampshire" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/facebook.png" /></a><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-twitter nolightbox" data-provider="twitter" target="_blank" rel="nofollow" title="Share on Twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F&#038;text=Hey%20check%20this%20out" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/twitter.png" /></a><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-google_plus nolightbox" data-provider="google_plus" target="_blank" rel="nofollow" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/google_plus.png" /></a><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-reddit nolightbox" data-provider="reddit" target="_blank" rel="nofollow" title="Share on Reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F&#038;title=What%20Would%20%E2%80%93%20and%20Would%20Not%20%E2%80%93%20Be%20Surprising%20in%20New%20Hampshire" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/reddit.png" /></a><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-pinterest nolightbox" data-provider="pinterest" target="_blank" rel="nofollow" title="Pin it with Pinterest" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F&#038;media=&#038;description=What%20Would%20%E2%80%93%20and%20Would%20Not%20%E2%80%93%20Be%20Surprising%20in%20New%20Hampshire" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="pinterest" title="Pin it with Pinterest" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/pinterest.png" /></a><a class="synved-social-button synved-social-button-share synved-social-size-24 synved-social-resolution-single synved-social-provider-mail nolightbox" data-provider="mail" rel="nofollow" title="Share by email" href="mailto:?subject=What%20Would%20%E2%80%93%20and%20Would%20Not%20%E2%80%93%20Be%20Surprising%20in%20New%20Hampshire&#038;body=Hey%20check%20this%20out:%20http%3A%2F%2Fwww.centerforpolitics.org%2Fcrystalball%2Farticles%2Fwhat-would-and-would-not-be-surprising-in-new-hampshire%2F" style="font-size: 0px; width:24px;height:24px;margin:0;margin-bottom:10px;"><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="24" height="24" style="display: inline; width:24px;height:24px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/social-media-feather/synved-social/image/social/regular/48x48/mail.png" /></a><p>Last week, <a href="http://www.centerforpolitics.org/crystalball/articles/sanders-trump-still-favored-in-new-hampshire/">we wrote that Bernie Sanders and Donald Trump are the favorites to win New Hampshire</a>, and while there have been plenty of fireworks between then and now (Monday afternoon), our overall assessment hasn’t changed. Polling in the New Hampshire primary is often far off the mark &#8212; the electorate has a remarkably high number of late-deciders and switchers &#8212; but keep this in mind: Trump has appeared strong in New Hampshire for more than half a year. Since mid-July, he has led 72 straight polls, almost all of them showing a double-digit lead. And since early January, Sanders has led 38 straight polls, with most also showing a double-digit lead.</p>
+<p>So Sanders or Trump losing would be a big surprise. But what else should &#8212; or shouldn’t &#8212; shock us on Tuesday? Let’s look at some possible outcomes and separate the predictable from the unpredictable:</p>
+<h3>SURPRISE: Trump outperforms his polling</h3>
+<p>Trump’s loss in Iowa showed deficiencies in his campaign. He did not have an adequate ground game and he has ignored traditional campaign tools and tactics. For instance, Trump <a href="http://www.nbcnews.com/politics/2016-election/clinton-spending-more-polling-six-gop-candidates-combined-n511676">does not do internal polling</a>, and thus he has no non-public data guiding his campaign. He also has generally eschewed the small, personal events that are a hallmark of winning primary campaigns. These shortcomings can matter at the margins, and they help explain why Trump’s support shrunk to some extent in Iowa. While it’s anecdotal, we also can’t ignore the frequent reports from journalists in New Hampshire about how many of the people at Trump’s events are not actually from the state or are otherwise not likely to vote. There’s a novelty that remains in Trump’s campaign, a novelty that probably makes his level of support seem higher than it is. Trump is at about 31%-32% in the polling averages. It would be more surprising to us if he exceeded those numbers than if he fell below them. But even if Trump falls all the way to about 24% &#8212; matching his Iowa performance &#8212; that’s still probably enough to win given the fractured GOP field, though it would be the lowest winning percentage in New Hampshire presidential primary history (Pat Buchanan’s 27.2% in 1996 is the all-time mark). But such a result would also fuel even more questions about Trump’s ability to expand his support ceiling.</p>
+<h3>NOT A SURPRISE: Rubio finishes inside the top three</h3>
+<p>Marco Rubio appeared to be rising in New Hampshire until his poor debate performance on Saturday night. His robotic, repeated talking points about President Obama played into a preexisting narrative about Rubio that he is too rehearsed and too green for the presidency. It was a bad moment, and one that his opponents and the national press jumped on. However, let’s not overreact here. There’s little hard evidence to suggest Rubio is sinking in New Hampshire or elsewhere. While some rival campaigns have suggested their internal polling shows a Rubio drop, it’s hard to take Rubio’s competitors at their word less than 24 hours before polling locations open. Still, the expectations for Rubio are higher now, to the point where anything other than a top-three finish, and maybe even a top-two finish, would signal weakness. Rubio is well-positioned to inherit the bulk of voters who support candidates other than Trump and Ted Cruz as the field contracts. His challenge now is getting those other candidates out of the race, and a subpar showing by Rubio in New Hampshire would only embolden the others to stay in longer. Rubio’s mainstream competitors &#8212; Jeb Bush, Chris Christie, and John Kasich &#8212; also believe that if only they can survive to face just Cruz or Trump, or both Cruz and Trump, they can unite a big enough segment of the party to ultimately prevail. Judging by the Rubio endorsements trickling out from Capitol Hill, we think most Republican officeholders are coming to believe Rubio is the Trump/Cruz stopper. He needs to continue to prove that.</p>
+<h3>SURPRISE: Christie finishes ahead of Kasich and Bush</h3>
+<p>Kasich has been something of a man apart in Republican debates. His message is generally less hard-edged than his competitors, and he rarely engages in arguments with his rivals (nor do they engage much with him). He doesn’t get a lot of time to talk, and he doesn’t produce soundbites that dominate coverage. But that might be a good approach for New Hampshire, where he is backed by the influential Sununu family and which has a big bloc of moderate voters who tend to prefer Republicans with softer edges than their opponents, candidates like John McCain in 2000 and 2008 and Jon Huntsman in 2012, who despite running a poor campaign that year still got about 17% in the Granite State. While Huntsman argued that his third-place performance gave him a “ticket to ride” to the next contest in South Carolina, he ended up dropping out before the Palmetto State voted.</p>
+<p>But for Kasich, 17% and third place might be a good showing. By not allowing Bush or Christie to get to his left, Kasich has positioned himself to do best among the three Republican candidates with gubernatorial experience. Christie appears the likeliest to show poorly in New Hampshire: His brutal attacks on Rubio, while potentially effective and a good use of his prosecutorial skills, were also a sign of desperation for a candidate mired in sixth place. Meanwhile, perhaps the deployment of popular former first lady Barbara Bush will add some points in a state that has sometimes been good to her family, but Jeb Bush could still find himself in fifth or worst, and as we’ve seen, money can only do so much if the candidate himself isn’t selling. As the race moves to South Carolina, Nevada, and the Southern-dominated March 1 primaries, even a governor who does well in New Hampshire, be it Kasich, Bush, or Christie, might not be able to build much momentum in the short term.</p>
+<h3>SURPRISE: Sanders wins by less than 10 percentage points or by 20 or more</h3>
+<p>In the 18 polls with survey dates following the Feb. 1 Iowa caucuses (in <em>RCP</em>’s database), Sanders has led 12 of them by 10 to 17 percentage points, two by less than 10, and four by at least 20. Thus, we expect Sanders is most likely to win the Granite State by double digits, but not much higher than the mid-teens.</p>
+<p>Of course, New Hampshire presidential primary polls can be fickle (on both sides): Just ask Barack Obama, who <a href="http://www.realclearpolitics.com/epolls/2008/president/nh/new_hampshire_democratic_primary-194.html">led all surveys</a> that sampled up to two days and the day before the Jan. 8, 2008 Democratic primary, only to see Hillary Clinton win in the end. There are a couple reasons for this volatility.</p>
+<p>First, an early primary election always contains some unpredictability. In a primary, a voter doesn’t have party ID to rely on when selecting a candidate to support; instead, he or she may largely agree with most positions held by the different candidates, meaning that more than one might be an acceptable choice. Up until the voter casts a ballot, there’s nothing to stop that person from switching allegiances. Spoiled for choice in their primary, Republicans find Rubio and the governor trio of Bush, Christie, and Kasich fighting for many of the same kinds of somewhat conservative or moderate voters. And some still haven’t finalized their decisions: Polls show <a href="http://www.uml.edu/docs/2-8%20TOPLINE%20-%20UMassLowell-7NEWS%20NH%20PRIMARY_tcm18-230870.pdf">as many as 44%</a> of likely Republican primary voters could still change their minds.</p>
+<p>But Sanders’ lead may be more certain because Democrats have only two candidates to pick from on Feb. 9, limiting the potential for vacillation; indeed, compared to Republican voters, polls show smaller percentages of likely Democratic primary voters expressing some level of uncertainty about their vote choice.</p>
+<p>Second, another complication is New Hampshire’s “undeclared” voters, who <a href="http://sos.nh.gov/VotePartyPrimFAQ.aspx">can choose</a> to vote in either party’s primary. With Sanders holding a solid lead in the polls, might some undeclared voters inclined to back him choose to vote in the GOP primary instead? Such a development <a href="http://www.politico.com/story/2016/01/bernie-sanders-new-hampshire-2016-republicans-trump-218042">might help</a> Kasich, who notably has higher support among undeclared voters in primary polling compared to registered Republicans. Reduced independent involvement would hurt Sanders’ margins as he has a larger lead among undeclared voters than among registered Democrats.</p>
+<p>If Clinton comes closer than 10 points, she could try to spin that performance into a comeback, though it won’t be easy. If Sanders wins by double-digits, or even approaches or surpasses 60%, Clinton will find herself in a dark place. We know that she is well-equipped to fight back in the more diverse and less liberal states that come next on the calendar, but that doesn’t mean that the New Hampshire aftermath won’t be withering.</p>
+<h3>SURPRISE: Cruz finishes below the top four</h3>
+<p>Ted Cruz isn’t going to win New Hampshire &#8212; he’s too conservative and outwardly religious for an electorate that is more secular and moderate than Iowa’s &#8212; and as we said last week, anything over 15% would be a strong performance for him. However, Cruz should be able to finish in double digits by picking up some pieces of the old Ron Paul coalition &#8212; the elder Paul finished second behind Mitt Romney in New Hampshire in 2012 &#8212; while also doing well among the small number of New Hampshire’s strong conservatives and evangelicals. That very well could be all it takes for him to finish ahead of some of the other candidates who have put more of a priority on New Hampshire than he has. Any of the Bush-Christie-Kasich group who finishes behind Cruz in a state like New Hampshire will have to reassess their path forward. The same wouldn’t necessarily be true of Rubio in the unlikely event he dips below Cruz, but a strong comeback in South Carolina would become a necessity for Rubio.</p>
+<h3>NOT A SURPRISE: GOP makes New Hampshire primary history with five candidates winning at least 10%</h3>
+<p>Based on the aggregate data at <a href="http://elections.huffingtonpost.com/pollster/2016-new-hampshire-presidential-republican-primary"><em>HuffPost</em> Pollster</a> and <a href="http://www.realclearpolitics.com/epolls/2016/president/nh/new_hampshire_republican_presidential_primary-3350.html"><em>RealClearPolitics</em></a>, four Republicans are presently averaging more than 10% in New Hampshire polls: Trump, Rubio, Cruz, and Kasich. The 10% mark is not only a straightforward cutoff point, it’s also the <a href="http://frontloading.blogspot.com/2015/10/2016-republican-delegate-allocation-new.html">statewide threshold for winning</a> at least one of the 20 GOP national convention delegates at stake in the Granite State’s Feb. 9 primary (the state has 23 total but its three automatic delegates are officially unbound).</p>
+<p>However, because Bush is averaging just under 10% in both aggregators (9.3% in <em>HPP</em>, 9.8% in <em>RCP</em>), five candidates could garner double-digit percentages on Tuesday. That would be a first: In the history of New Hampshire presidential primaries, there has never been a Democratic or Republican contest where five or more candidates won 10% or more of the vote. In six instances, there have been four candidates who finished with 10% or more: the 1964 Republican, 1976 Democratic, 1988 Republican, 1992 Democratic, 1996 Republican, and 2004 Democratic primaries. The closest call was the 1988 GOP tilt, when Pat Robertson won 9.4% to finish fifth behind George H.W. Bush, Bob Dole, Jack Kemp, and Pete du Pont. Yet in that primary Bush and Dole combined for 66% of the vote, whereas the combined percentage of the top-two finishers in this cycle’s GOP contest might not even form a majority. Given the heavily fragmented polling data and the uncertainty surrounding the impact of Saturday’s debate on the outcome, we could see an electoral traffic jam that creates five “10-percenters” on Tuesday night.</p>
+<div id="upm-buttons" align="right"> &nbsp;<a href="http://www.centerforpolitics.org/crystalball/articles/what-would-and-would-not-be-surprising-in-new-hampshire/?upm_export=print" target="_blank" ><img src="http://www.centerforpolitics.org/crystalball/wp-content/plugins/universal-post-manager/img/upm-print-1.2.0-small.png" style="padding:2px" align="absmiddle" border="0" align="Print this Post" title="Print this Post" /></a></div>
+<p></p>
+<hr class="art-end" />
+</div>
+
+
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-9374088-1']);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</div><!-- end #content -->
+
+<div id="footer">
+	<a href="#"><img src="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/ljs-cb-whiteongrey.jpg" /></a>
+	<p><a href="http://www.virginia.edu/copyright.html">&copy;</a> Copyright by the Rector and Visitors of the University of Virginia</p>
+	<div class="right"><a href="#"><img src="http://centerforpolitics.org/crystalball/wp-content/themes/compromise/images/uva-cfp-whiteongrey.jpg" /></a></div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9374088-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

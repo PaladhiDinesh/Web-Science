@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="twitter:card" content="amplify" />
+    <meta name="twitter:site" content="ABC" />
+    <meta name="twitter:site:id" content="28785486" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="https://amp.twimg.com/prod/default/2016/02/08/16/77ad4375-120c-4f3b-b147-3a4acf8cab3d_poster-1000.jpg" />
+    <meta name="twitter:image:width" content="640" />
+    <meta name="twitter:image:height" content="360" />
+    <meta name="twitter:amplify:vmap" content="https://amp.twimg.com/prod/multibr_v_1/vmap/2016/02/08/16/dc142306-0a47-4895-b822-9220cc904b30/a2e2b7cb-ab0e-4369-8e27-b6f11acb2721.vmap" />
+    <meta name="twitter:amplify:teaser_segments_stream" content="http://amp.twimg.com/prod/multibr_v_1/video/2016/02/08/16/dc142306-0a47-4895-b822-9220cc904b30-segments.mp4" />
+    <meta name="twitter:amplify:content_id" content="dc142306-0a47-4895-b822-9220cc904b30" />
+    <meta name="twitter:player:width" content="640" />
+    <meta name="twitter:player:height" content="360" />
+    <meta name="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" />
+    <meta name="twitter:amplify:embeddable" content="true" />
+    <meta name="twitter:amplify:dynamic_ads" content="true" />
+    <meta name="twitter:amplify:content_duration_seconds" content="76.476" />
+    <meta name="twitter:amplify:share_id" content="b33f2e53-634a-4304-b363-b872f51cbc32" />
+
+      <title>Twitter Video</title>
+
+    <link rel="stylesheet" href="https://amp.twimg.com/amplify-web-player/prod/styles/cardStyle.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1 id="site"><a target="_blank" href="https://twitter.com/ABC">@ABC</a></h1>
+      <div id="videoContainer" class="aspectwrapper">
+        <div class="content">
+          <iframe allowfullscreen marginheight="0" marginwidth="0" frameborder="0" id="iframe"
+             src="https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=https%3A%2F%2Famp.twimg.com%2Fprod%2Fmultibr_v_1%2Fvmap%2F2016%2F02%2F08%2F16%2Fdc142306-0a47-4895-b822-9220cc904b30%2Fa2e2b7cb-ab0e-4369-8e27-b6f11acb2721.vmap&duration=76.476&image_src=https%3A%2F%2Famp.twimg.com%2Fprod%2Fdefault%2F2016%2F02%2F08%2F16%2F77ad4375-120c-4f3b-b147-3a4acf8cab3d_poster-1000.jpg&content_id=dc142306-0a47-4895-b822-9220cc904b30&page=amplify_card">
+          </iframe>
+        </div>
+      </div>
+      <h2 id="title"></h2>
+      <p id="description"></p>
+    </div>
+    <div id="footer">
+      <img id="logo" src="https://amp.twimg.com/amplify-web-player/prod/styles/img/twitter_logo.png"/>
+      <a id="app-download" class="download-btn"><img id="whiteLogo" src="https://amp.twimg.com/amplify-web-player/prod/styles/img/twitter_logo_white.png"/></a>
+    </div>
+    <script src="https://amp.twimg.com/amplify-web-player/prod/js/build-card.min.js"></script>
+  </body>
+</html>
+
