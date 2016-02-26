@@ -1,0 +1,5 @@
+tmp <- read.csv("followers_count.csv")
+follower_count <- tmp[,2]
+barplot(follower_count,main="Twitter followers and Count of their followers",xlab="Followers sorted by the number of followers they have",ylab="Count of Followers",ylim=c(0,1000))
+arrows(x0=match(c(52),follower_count)+12, y0=700, x1=match(c(52), follower_count)+12, y1=70, length=0.07, lwd=1.5, col='blue')
+text(x=match(c(52), follower_count)+10,pos=4, y=730, labels="dineshpaladhi", col='blue')
