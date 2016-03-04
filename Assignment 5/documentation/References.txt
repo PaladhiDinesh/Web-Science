@@ -1,0 +1,10 @@
+http://nexus.igraph.org/api/dataset_info?id=1&format=html
+
+
+
+http://igraph.org/python/doc/tutorial/tutorial.html
+
+
+
+https://docs.python.org/2/library/functions.html
+http://aris.ss.uci.edu/~lin/76.pdf
