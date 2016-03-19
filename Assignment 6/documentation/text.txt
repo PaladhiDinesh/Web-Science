@@ -1,0 +1,51 @@
+1
+The aim of this question is to get list of followers for any account and find the friendship among the followers,i.e to find whether any followers follow each other so that they will have the links to the source account and links to each other.
+Here I used my account ``dineshpaladhi'' because I have more than 50 followers.
+So, here my first step is to get all my followers list.
+I wrote python code for it using tweepy library and the code can be found in listing\ref{lst:q1-1}.
+I have taken name, screen name, imageurl, and gave an id to each follower of mine. 
+Now I have to find the friendship among all my followers, the code for this is found in listing\ref{lst:q1-2}.
+Here I got a lot of errors like ``Rate Limit Error'', ``Not Authorized Error'',etc.
+It took a lot of time to figure this out and I found that ``Rate Limit Error'' is because of the excess input I am giving to the program, so I broken down my input list into smaller parts and ran the program repeatedly with smaller inputs.
+I deleted few users and their combination of friendships because they give ``Not Authorized Error'' as they have some privacy settings. This list can be found in figure\ref{Sample_list1}.
+Later, I got all the combination of possible friendships among my users. I have 61 followers so total combinations that I got is 61*60/2 = 1830. The sample list of this can be found in figure\ref{Sample_list2}.
+This list is then processed using the reference provided in the question and it gave me a list of followers who follow each other. The sample list of this can be found in figure\ref{Sample_list3}.
+The final sample json file can be seen in figure\ref{Sample_list4} and this json file is given as input to the html code which can be seen in listing\ref{lst:q1-3}.
+The d3 graph can be seen at this link \url{http://bl.ocks.org/PaladhiDinesh/56e1843c31960ecfe919} and the sample screenshot of it can be seen in figure\ref{graph1}.
+This is a directed graph, so we can view who follows who using the arrow mark.
+
+
+
+
+2
+
+This question is continuation of the above question with some changes. Here we need to use the output of the previous question and modify the output.
+I need to find out the genders of all my followers and find out whether there is gender homophily or not.
+I used follower's first name to find out their genders using the reference provided in the question.
+So, I took all my followers list in json file and gave it as input to my python code which processes each follower's first name and gives their gender as output.
+The python code used here can be found in listing\ref{lst:q2-1} and the sample output of it can be seen in figure\ref{Sample_t1}.
+Then I created a new json file which includes all the follower's names,genders and I gave sample id for each of them. This can be seen here in figure\ref{Sample_t2}.
+The output tells me whether a follower is ``Male'',``Female'' or ``Null''.
+I removed all the users who have their gender as ``Null'' because it was said so in the question and this helps me to find gender homophily easily.
+This json file is given as input to my html code which gives a force directed graph. The code of the html file can be seen in listing\ref{lst:q2-2}.
+The working model of this d3 graph can be seen at this link \url{http://bl.ocks.org/PaladhiDinesh/c7ad7ffc4fb17f4f9411} and the sample screenshot of it can be seen in figure\ref{graph2}.
+This is an undirected graph and when hovered on a node with the mouse pointer you can see the name of the follower. The nodes in blue are Male and in orange are Female.
+This twitter graph exhibits gender homophily as we can easily see that more blue are more connected to blue nodes which says that Male followers are more connected to other Male followers.
+
+
+
+
+
+
+
+
+3
+This question is similar to the previous assignment. In previous assignment I created the graph using python library and now with d3.js.
+The first step here is to convert the GraphML file into json file so that i can give the json file as input to my Html code.
+The sample graphMl file can be seen in figure\ref{Sample3_t1}.
+I wrote a python code for converting the graphMl to json and that code can be seen here in listing\ref{lst:q3-1}.
+I used ``BeautifulSoup'' in order to get the data from the GraphML and the final sample json file can be viewed here in figure\ref{Sample3_t2}.
+This json file is given as input to the Html code which can be seen here in listing\ref{lst:q3-2}.
+In order to toggle between before and after split graphs, I inserted buttons and the sample graphs can be seen here in figure\ref{graph3} and figure\ref{graph4}.
+The working model of d3 graph can be viewed in this link \url{http://bl.ocks.org/PaladhiDinesh/617c3ef60a692d2f972a}.
+
