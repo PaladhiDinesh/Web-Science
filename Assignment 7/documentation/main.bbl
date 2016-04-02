@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{a2}
+K.Arthur Endsley,
+Recommendation.py,
+\newblock
+{\url{https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter2/recommendations.py}},
+  2014
+
+\bibitem{a1}
+GroupLens,Movielens 100k dataset,{\url{http://grouplens.org/datasets/movielens/100k/}}, 2016
+
+\end{thebibliography}

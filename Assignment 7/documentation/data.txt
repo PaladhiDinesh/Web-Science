@@ -1,0 +1,51 @@
+1
+My first task is to find top 3 favorite and bottom 3 favorite films for three users who are closest to me in terms of age,gender and occupation.
+In order to do this I first collected data from u.data, u.user and u.item. Sample files for all these 3 are shown in fig\ref{Sample_list1}, fig\ref{Sample_list2} and fig\ref{Sample_list3}.
+The sample combined data can be seen in fig\ref{Sample_list4}.
+I took this data and then found users who are similar to me in terms of age,gender and occupation and this list can be found in fig\ref{Sample_list5}.
+I got 6 users who are similar to me and I choosed 3 users randomly and their user_id's are 135, 391 and 706.
+Now for each of this user I need to find out their top 3 favorite films and bottom 3 favorite films using the ratings given by them.
+I have written code for this and this can be seen in listing\ref{lst:q1-1}.
+I got 3 top and bottom favorite films for each user and this can be seen in fig\ref{output1}.
+I chose user with user_id = ``706'' as my substitute because my interest matched with him. Even I like star wars and Edge and but I am not interested in Phenomenon and I do not like Game, Fargo and Crash. 
+So user with user_id =1``706''  is my substitute. 
+
+
+2
+In this question I need to find out 5 users who are most and least correlated to my substitute.
+For doing this I used some function from recommendations.py as reference taken from a book called ``Programming Collective Intelligence.''
+I used u.data file and sent it as input to my program to get the solution. The program can be found in listing\ref{lst:q2-1}.
+For doing this I need to find the sim pearson's coefficient which for each user.
+If the coefficient for each user is 1 or nearer to 1, then that user is most correlated to my substitute and if the coefficient is negative then that user is least correlated to my substitute.
+I found the top 5 most correlated users and bottom 5 least correlated users which can be seen in fig\ref{Sample_t2}.
+First column represent the value of coefficient followed by user_id.
+
+
+
+3
+Here I need to compute the ratings for the films my substitute has not seen. Now I need find out top 5 and bottom 5 recommendations for films that my substitute should see.
+The bottom 5 recommendations are the films my substitute hate to see.
+I have found these recommendations using a function called ``getRecommendations'' from recommendations.py.
+The program for this question can be found in listing\ref{lst:q3-1}.
+This function gives me a list of movies and their rating. These are recommendations for my substitute.
+But all these are not considered as output, only the top 5 that is movies with rating as 5 are chosen and bottom 5 that is movies with rating  as 1 are chosen.
+So these top 5 movies are recommended to my substitute expecting that he/she likes them.
+The output file showing movie names and their ratings can be seen in fig\ref{Sample3_t3}.
+
+
+
+
+4
+I need to choose my top favorite and least favorite movies from u.item file. For each of this film I need to find out top 5 most correlated and bottom 5 least correlated films and for that I need to give my comments.
+I have chosen ``Die Hard (1988)'' as my top favorite film and ``Kazaam (1996)'' as my least favorite film.
+Now I have used functions from recommendations.py to compute the top 5 correlated and least 5 correlated films.
+I have used loadMovieLens, transformPrefs and topMatches functions from recommendations.py.
+This in turn uses sim pearson's coefficient for getting correlation.
+If the coefficient for each film is 1 or nearer to 1, then that film is most correlated to my film and if the coefficient is negative then that user is least correlated to my film.
+The program for this can be found in listing\ref{lst:q4-2}.
+Recommendations.py program can be seen in listing\ref{lst:q4-1}.
+The output file showing sim pearson's coefficient and movie names can be seen in the fig\ref{graph41}.
+
+
+
+
