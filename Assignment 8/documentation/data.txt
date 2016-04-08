@@ -1,0 +1,63 @@
+1
+My task was to create a blog matrix and for that first I need to get all the blog URIs. 
+Using ``http://www.blogger.com/next-blog?navBar=true&blogID=3471633091411211117'' this URI I managed to get 98 unique blog URIs. 2 URIs are provided in the question and I included them in my list.
+I appended each URI with ``/feeds/posts/default?alt=rss''. The code for doing this can be found in listing\ref{lst:q1-1}.
+Sample list of blog URIs can be found in fig\ref{Samplelist1} and sample list of URIs after appending can be found in fig\ref{Samplelist2}.
+Now I found the number of pages in each blog using the code in the listing\ref{lst:q1-2}. Sample list of the number of pages in each blog can be found in fig\ref{Samplelist3}.
+Now In order to find the blog matrix I used ``generatefeedvector.py'' code from Programming Collective Intelligence text.
+I used feedparser library in order to parse the URI. I have made modification to the code to limit the words count to 500.
+Each row in the blog represents a blog with blogname and each column is a specific word. Every cell in the matrix represent the number of times a word in present in that particular blog.
+Some URIs did not allow the feedparser to parse through them. So I added some other URIs to my list in order to get 100 URIs.
+I have also used stopwords so that irrelevant data is not entered into the blog matrix.
+In the blog matrix there are 100 rows(blogs) and 500 columns(words). 
+The frequency of each word in indicated in each cell of the matrix.
+Python code for generating the blog matrix can be found in the listing\ref{lst:q1-3}. 
+Sample blog matrix can be seen in the fig\ref{Samplelist4}.
+
+
+
+
+2
+In this question I was asked to create ASCII and JPEG Dendograms that clusters the most similar blogs. 
+In order to do this I used ``clusters.py'' code from Programming Collective Intelligence text. This code can be found in the listing\ref{lst:q2-1}.
+I imported this code into my python file and wrote small code for generating the ASCII and Dendograms. I wrote the code by referencing to the lecture slides.
+This code can be seen in listing\ref{lst:q2-2}.
+Dendogram file can be seen in the fig\ref{Samplet1} and ASCII file can be seen in the fig\ref{Samplet2}.
+Unfortunately, Dendogram is difficult to see, but from this Dendogram we can infer that the blogs similar to ``F-Measure'' is ``Samtastic! Review'' and the blog similar to ``Web Science and Digital Library Research Group '' is ``Mile In Mine''.
+
+
+
+3
+In this question I was asked to cluster the blogs using K-Means, using K=5,10,20. 
+For doing this I used ``clusters.py'' code from Programming Collective Intelligence text.
+My code for printing the values in each centroid and the number of iterations can be found in the fig\ref{lst:q3-1}.
+Number of Iterations for K=5 is 6.
+Number of Iterations for K=10 is 7.
+Number of Iterations for K=20 is 6.
+These Iterations count change if we execute the program again. Sample list of list of Iterations can be found in the fig\ref{Sample3t1}.
+
+4
+I was asked to use Multi-dimensional scaling to create a JPEG of the blogs similar to the figure in the lecture slides.
+To do this I used ``clusters.py'' code from Programming Collective Intelligence text.
+I have made modifications to ``cluster.py'' code to print the number of iterations. Number of Iterations taken are ``269''.
+My code for generating the JPEG and printing the iterations can be found in listing\ref{lst:q4-1}.
+JPEG image can be found in the following fig\ref{Sample4_t2} and sample list of the output can be found in this fig\ref{Sample4_t1}..
+
+
+
+
+
+5
+In this question I have to compute a blog matrix again but this time with the proper TFIDF calculations instead of the frequency of occurrences of the words.
+For this I have used concept from previous assignment on how to calculate TFIDF.Words having TFIDF values are chosen to be in the matrix.
+I have calculated TF value for each word with respect to each blog which is inturn used to calculate TF values.
+I have used ``generatefeedvector.py'' again to generate the blog matrix and for generating the Dendogram I have used code from question 2.
+My code for generating the blog matrix can be found in the listing\ref{lst:q5-1} and code for generating Dendogram and ASCII can be found in listing\ref{lst:q5-2}.
+Sample blog data can be found in the fig\ref{Sample5_t1}.
+Once I got the blog data I processed this data to be ASCII file and a Dendogram. This process is similar to the process in question 2.
+Dendogram can be found in the fig\ref{graph51} and sample ASCII file can be found in the fig\ref{Sample5_t2}.
+When compared to the Dendogram in the question 2, similarties for the ``F-Measure'' and ``Web Science'' have changed. 
+In the previous Dendogram ``F-Measure'' is similar to ``Samtastic! Review'' and now it is similar to ``I/Love/Total/Distruction''.
+In the previous Dendogram ``Web Science and Digital Library Research Group'' is similar to ``Mile In Mine'' and now it is similar to ``The Moon Topples''.
+Comparitively number of clusters in the present Dendogram are more than the number of clusters in the Dendogram generated in question 2.
+I have also observed that the almost all the clusters are around the same blogs but with different hierarchy.
