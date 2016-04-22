@@ -1,0 +1,306 @@
+
+
+\section{Problem 2}
+\label{part2}
+\begin{verbatim}
+2.  Manually classify the first 50 entries, and then classify (using
+the fisher classifier) the remaining 50 entries. 
+
+Create a table with the title, predicted category, actual category,
+and cprob() and fisherprob() for the actual category.
+
+
+\end{verbatim}
+
+\subsection{Solution}
+\begin{enumerate}
+\item In order to classify the feeds into the respective categories I need to train the data first.
+\item So what I did first is to divide the data into two parts. First 50 feeds are for training the code and the next 50 are for getting automatic classifications based on training.
+\item This is done with the help of docclass and feedfilter codes which are taken as a reference from Programming collective Intelligence textbook.
+\item Later by using the code I figured out to get the cprob() and fisherprob() values for the feeds.
+\item I have saved all those outputs and can be seen in the following tables below.
+\item Sample output for the first 50 feeds can be seen in the fig\ref{Samplet1} and the sample output for the last 50 feeds can be seen in the fig\ref{Samplet2}/.
+\end{enumerate}
+\newpage
+
+\subsection{Code Listing}
+
+\lstinputlisting[language=Python,breaklines = true,frame=single,caption={Python Code for feedfilter}, label=lst:q2-1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{feedfilter.py}
+\newpage
+
+\subsection{Code Listing}
+
+\lstinputlisting[language=Python,breaklines = true,frame=single,caption={Python Code for docclass}, label=lst:q2-2,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{docclass.py}
+\newpage
+
+
+\begin{table}
+\small
+\begin{tabular}{ | p{5.4cm}| p{2.0cm} | p{2.0cm} | }
+\hline
+\textbf{Title} & \textbf{Predicted} & \textbf{Actual} \\
+\hline
+AAP govt. withdraws plea on distribution of powers & none  & politics  \\
+\hline
+Uphaar fire tragedy: SC may hear review pleas next month & politics  & law  \\
+\hline
+Where the mind is not without fear & politics  & elections  \\
+\hline
+Buddhadeb on poll circuit & politics  & elections \\
+\hline
+If we win, there will be common programme & elections  & elections  \\
+\hline
+Nitish Kumar will be next PM: Lalu & elections  & elections  \\
+\hline
+Union govt. allots Rs. 800 crore to clean up polluted lakes in garden  & elections & politics \\
+\hline
+Will get Kohinoor back, says Centre & elections  & politics  \\
+\hline
+All members of mob equally guilty: HC & elections  & law  \\
+\hline
+Govt. yet to pay farmers in Punjab for procured wheat & politics  & politics  \\
+\hline
+SC asks NAAC to hear grievances of deemed varsities & elections  & law  \\
+\hline
+Developed countries must tax coal for climate fund & politics  & politics \\
+\hline
+Kirpal’s body arrives in India & politics  & accident  \\
+\hline
+Centre ‘introducing chaos’: HC & politics  & politics  \\
+\hline
+Trading bloc to India: Cut tariffs or exit FTA talks & politics  & others  \\
+\hline
+PM invokes Vajpayee, moots development of Kashmir & politics  & politics  \\
+\hline
+Handwara rejoices as Army bunkers are dismantled & politics  & accident   \\
+\hline
+Two youths create oases for birds as Bidar sizzles & politics  & others \\
+\hline
+Centre rejects T.N. proposal to free Rajiv Gandhi killers & politics  & politics \\
+\hline
+Rajan’s choice of words could have been better & law  & politics  \\
+\hline
+As an alumnus, I feel hurt over JNU controversy: Nirmala & politics  & politics \\
+\hline
+Woman Maoist killed in Gadhchiroli encounter & accident  & accident  \\
+\hline
+Insult to God to have unauthorised places of worship: SC & law  & law  \\
+\hline
+I have not been formally approached for ‘Atulya Bharat: Amitabh Bachchan & politics  & entertainment  \\
+\hline
+Odisha to provide free drinking water to urban poor & politics  & politics  \\
+\hline
+
+\end{tabular}
+\caption{Manually classified first 25 entries }
+\label{table:ql2-1}
+\end{table}
+
+\begin{table}
+\small
+\begin{tabular}{ | p{5.4cm}| p{2.0cm} | p{2.0cm} | }
+\hline
+\textbf{Title} & \textbf{Predicted} & \textbf{Actual} \\
+\hline
+India to insist written commitment from Pak on NIA team visit & entertainment  & accident  \\
+\hline
+TN diocese sued for reinstating convicted priest & politics  & accident  \\
+\hline
+Massive effort to be launched for water conservation: Modi & politics  & politics  \\
+\hline
+Mahaveer Jayanti celebrated & politics  & entertainment \\
+\hline
+Forty five more fire stations to be set up in Odisha: Patnaik & politics  & others  \\
+\hline
+LDF promises to free Vigilance, create 25 lakh jobs & politics  & politics  \\
+\hline
+Movement of buses affected between Tumakuru, Bengaluru  & politics & transportation \\
+\hline
+Explaining Ola and Ubers surge pricing & elections  & transportation  \\
+\hline
+Trains between Mysuru, Bengaluru packed to capacity & transportation  & transportation  \\
+\hline
+Tirupati temple deposits 1,311 kg gold in bank & politics  & others  \\
+\hline
+Mob ransacks Hebbagodi police station & entertainment  & accident  \\
+\hline
+EC silent on complaints against AIADMK: Pon Radhakrishnan & politics  & politics \\
+\hline
+Kalaburagi, Bidar record highest temperature & others  & others  \\
+\hline
+Women-only bus service launched in Kashmir & entertainment  & transportation  \\
+\hline
+Goa Government to bring monkey-hunting tribe to mainstream & politics  & politics  \\
+\hline
+Youth turn bird saviours in Bidar & others  & others  \\
+\hline
+Nagaland Chief Secretary is first Ambassador for Girl Child project & politics  & politics \\
+\hline
+Lockdown at Peenya Industrial Area & politics  & others \\
+\hline
+Timely action by police, fire services prevents fire mishap & accident  & accident \\
+\hline
+AIUTUC condemns lathicharge on garment workers & politics  & accident  \\
+\hline
+Ghulam Ali’s performance in Bhavnagar cancelled & accident  & entertainment \\
+\hline
+Bengaluru blockade: KSRTC suspends Mysuru-Bengaluru bus service & transportation  & transportation  \\
+\hline
+Three killed due to asphyxiation & accident  & accident  \\
+\hline
+Traffic on Mysuru-Bengaluru highway hit & transportation  & transportation  \\
+\hline
+Most hitches in Rafale deal addressed: Govt. & politics  & politics  \\
+\hline
+\end{tabular}
+\caption{Manually classified next 25 entries from 25 to 50 entries }
+\label{table:ql2-2}
+\end{table}
+\newpage
+
+\begin{table}
+\small
+\begin{tabular}{ | p{5.4cm} | p{2.0cm} | p{2.0cm}|p{1.3cm}|p{1.5cm}|}
+\hline
+\textbf{Title} & \textbf{Predicted} & \textbf{Actual}& \textbf{Cprob} & \textbf{fisherprob} \\
+\hline
+MBBS applications to be issued from May 9 & others  & others & 0.0 & 0.5 \\
+\hline
+Sripad Naik admitted to hospital, discharged  & politics  & politics & 0.0 & 0.4874 \\
+\hline
+Delhi govt impounds 18 taxis for overcharging & transportation  & transportation & 1.0 & 0.8333 \\
+\hline
+Garment workers stir continues in Bengaluru, traffic hit for second day & transportation  & transportation & 0.0 & 0.8333 \\
+\hline
+Global economic situation grim, worrisome: Jaitley &  transportation  & others & 0.0 & 0.5 \\
+\hline
+Pak troops violate ceasefire & politics  & politics & 0.0 & 0.7334 \\
+\hline
+Local youth held in Handwara molestation case & accident  & accident & 0.0 & 0.5 \\
+\hline
+Adopt Periyar’s Self-Respect principles, Bhagwan tells deprived classes & politics  & accident & 0.0 & 0.5 \\
+\hline
+Unstable academic calendar has made students’ life messy &  politics  & politics & 0.0 & 0.9 \\
+\hline
+Cops told to be on alert & entertainment  & others & 0.0 & 0.5 \\
+\hline
+Children need protection from heat and dehydration & others  & accident & 0.0 & 0.5 \\
+\hline
+Bengaluru Today & transportation  & others & 0.0 & 0.5 \\
+\hline
+Waive farm loans even if it means borrowing advance & politics  & politics & 0.0 & 0.9 \\
+\hline
+Kabini backwaters, a paradise for animals during drought & others  & others & 0.0 & 0.5 \\
+\hline
+New pay still on paper for gazetted officers & others  & others & 0.0 & 0.5 \\
+\hline
+Four killed in accident & accident  & accident & 0.0 & 0.5 \\
+\hline
+Case registered against polytechnic staff for beating student & politics  & accident & 0.0 & 0.5 \\
+\hline
+Training programme on tilapia fish farming & politics  & others & 0.0 & 0.5966 \\
+\hline
+PEW busts spurious liquor-manufacturing unit & accident  & accident & 0.0 & 0.5 \\
+\hline
+Tremors rock Andaman islands & entertainment  & accident & 0.0 & 0.5 \\
+\hline
+JD(S) wins Hassan local body by-election & entertainment  & elections & 0.0 & 0.25 \\
+\hline
+Where the grass is green even in blazing summer & transportation  & others & 0.0 & 0.5 \\
+\hline
+Tamil Nadu Assembly elections — Poll diary & accident  & elections & 0.0 & 0.5 \\
+\hline
+Vasan to start his campaign from Papanasam & transportation  & elections & 0.0 & 0.25 \\
+\hline
+An occasion to build new relationships & entertainment  & entertainment & 0.0 & 0.5 \\
+\hline
+
+\end{tabular}
+\caption{Automatically classified 25 entries from 50 to 75 entries}
+\label{table:ql2-3}
+\end{table}
+
+\begin{table}
+\small
+\begin{tabular}{ | p{5.4cm} | p{2.0cm} | p{2.0cm}|p{1.3cm}|p{1.5cm}|}
+\hline
+\textbf{Title} & \textbf{Predicted} & \textbf{Actual}& \textbf{Cprob} & \textbf{fisherprob} \\
+\hline
+Bear’s nocturnal adventure triggers ‘beehive’ of activity & accident  & accident & 0.0 & 0.5 \\
+\hline
+CCTVs to be installed in parts of Karimnagar  & entertainment  & politics & 0.0 & 0.25 \\
+\hline
+Balineni scoffs at rumours & elections  & politics & 0.0 & 0.752 \\
+\hline
+Monkey dies after being attacked by dog & transportation  & transportation & 0.0 & 0.8333 \\
+\hline
+Troubled by tradition &  politics  & politics & 0.0 & 0.5966 \\
+\hline
+Red rebels kill Odisha villager & accident  & accident & 0.0 & 0.5 \\
+\hline
+Punjab CM approves Rs 750 crore for roads & politics  & politics & 0.0 & 0.3289 \\
+\hline
+14 cases reported & entertainment  & elections & 0.0 & 0.25 \\
+\hline
+Dolphin washed ashore in Kilakkarai &  politics  & accident & 0.0 & 0.5966 \\
+\hline
+Fill vacancies in High Court & politics  & law & 0.0 & 0.2904 \\
+\hline
+engagements & law  & entertainment & 0.0 & 0.5 \\
+\hline
+Remembered only during elections, they harbour no high hopes & others  & others & 0.0 & 0.6407 \\
+\hline
+Three-time MLA to contest in Cumbum & accident  & elections & 0.0 & 0.5 \\
+\hline
+TMC fields candidates for Vilathikulam, Srivaikuntam & transportation  & elections & 0.0 & 0.5 \\
+\hline
+High Court reserves order on Virbhadra’s children plea & politics  & law & 0.0 & 0.2904 \\
+\hline
+Are there no rights violations in Union Territories, SC asks Centre & politics  & politics & 0.0 & 0.728 \\
+\hline
+Animation film to promote brand Amaravati & others  & entertainment & 0.0 & 0.5 \\
+\hline
+Seeking divine help to garner votes & politics  & politics & 0.0 & 0.75 \\
+\hline
+Kochi’s public transport to take new route & transportation  & transportation & 1.0 & 0.8333 \\
+\hline
+Ragi gruel centre launched for traffic police & politics  & transportation & 0.0 & 0.1667 \\
+\hline
+Cinema & entertainment  & entertainment & 0.0 & 0.75 \\
+\hline
+Engagements & accident  & entertainment & 0.0 & 0.5 \\
+\hline
+Martyr’s chronicle: bringing together bits and pieces & accident  & accident & 0.0 & 0.5 \\
+\hline
+Vasan to start his campaign from Papanasam & accident  & accident & 0.0 & 0.5 \\
+\hline
+Nine arrested on murder charge & accident  & accident & 1.0 & 0.8333 \\
+\hline
+
+\end{tabular}
+\caption{Automatically classified next 25 entries from 75 to 100 entries }
+\label{table:ql2-4}
+\end{table}
+
+\newpage
+
+\subsection{Outputs}
+\subsubsection{Output 1}
+\begin{figure}[ht]    
+    \begin{center}
+        \includegraphics[scale=0.8]{sample_first50.png}
+        \caption{Sample outputs for first 50 feeds}
+        \label{Samplet1}
+    \end{center}
+\end{figure}
+\newpage
+
+\subsubsection{Output 2}
+\begin{figure}[ht]    
+    \begin{center}
+        \includegraphics[scale=0.8]{output_last50.png}
+        \caption{Sample output for last 50 feeds}
+        \label{Samplet2}
+    \end{center}
+\end{figure}
+\newpage
