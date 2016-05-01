@@ -1,0 +1,610 @@
+<!DOCTYPE html><html itemscope="itemscope" itemtype="http://schema.org/WebPage" class="no-js"><head><link href="http://app.handelsblatt.com/unternehmen/handel-dienstleister/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" media="mobile" rel="alternate"/><script type="text/javascript">/* 10:55:02 - 16.09.2015 */
+
+var mobileSwitchHandler={url:document.querySelector('link[media="mobile"][rel="alternate"][href]').getAttribute("href"),ready:!1,init:function(a){"use strict";var getQueryParameter=function(name){name=name.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var regex=new RegExp("[\\?&]"+name+"=([^&#]*)"),results=regex.exec(location.search);return null===results?"":decodeURIComponent(results[1].replace(/\+/g," "))};if(""!==getQueryParameter("home_teaser"))return!1;if("false"===getQueryParameter("mobile"))return this.setMobileCookie(!1),!1;try{/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)&&null!==this.url&&(-1===document.cookie.indexOf("show_mobile=true")&&-1===document.cookie.indexOf("show_desktop=true")?this.ready=!0:-1===document.cookie.indexOf("show_desktop=true")?this.goMobile():this.showBackToMobileLayer())}catch(e){}},goMobile:function(){"use strict";this.setMobileCookie(!0),window.location.replace(this.url+(-1===this.url.indexOf("?")?"?":"&")+"mwl=ok"+(""!==location.search?"_"+encodeURIComponent(location.search.substr(1)):""))},setMobileCookie:function(e){var setCookieName=e?"show_mobile":"show_desktop",removeCookieName=e?"show_desktop":"show_mobile";if(-1===document.cookie.indexOf(setCookieName+"=true")){var _c_domain=window.location.host.split(".");1!==_c_domain.length?(_c_domain.shift(),_c_domain="."+_c_domain.join(".")):_c_domain=!1,document.cookie=removeCookieName+"=;expires="+new Date("1970/01/01").toString()+";"+(_c_domain?"domain="+_c_domain+";":"")+"path=/;";var _c_date=new Date;_c_date.setMonth(_c_date.getMonth()+1),document.cookie=setCookieName+"=true;expires="+_c_date+";"+(_c_domain?"domain="+_c_domain+";":"")+"path=/;"}},showBackToMobileLayer:function(){var d=document.createElement("div");d.className="vhb-back-to-mobile",d.innerHTML='<div class="vhb-stage"><div>Zur mobilen Ansicht wechseln</div></div>',d.onclick=function(){mobileSwitchHandler.setMobileCookie(!0),window.location.replace(mobileSwitchHandler.url+(-1===mobileSwitchHandler.url.indexOf("?")?"?":"&")+"mwl=button-rueckverlinkung")};var insertIv=window.setInterval(function(){null!==document.body&&(clearInterval(insertIv),document.body.insertBefore(d,document.body.firstChild))},500)},askForMobile:function(){if(this.ready)if(confirm("Wollen Sie zur mobilen Ansicht dieser Seite wechseln?"))this.goMobile();else{this.setMobileCookie(!1);var wtIv=window.setInterval(function(){"undefined"!=typeof window.wt&&"function"==typeof window.wt.sendinfo&&(clearInterval(wtIv),window.wt.sendinfo({linkId:"Aktionstracking",customClickParameter:{12:"Mobile-Weiche-Abbrechen"}}))},5e3);this.showBackToMobileLayer()}}};mobileSwitchHandler.init(navigator.userAgent||navigator.vendor||window.opera);var mobileSwitch=function(){"use strict";window.setTimeout(function(){mobileSwitchHandler.askForMobile()},1e3)};</script><link href="/css/11357910/9/vendor.css" rel="stylesheet" type="text/css"/><link href="/css/11058124/293/styles.css" id="maincss" rel="stylesheet" type="text/css"/><link href="/css/11090282/55/vwd.css" media="all" rel="stylesheet" type="text/css"/><link href="/css/12535722/21/experiments.css" rel="stylesheet" type="text/css"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<!--[if lte IE 8]>
+<link href="/css/11091050/8/ie-8.css" id="ie8css" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+<link href="/css/11104692/6/ie-9.css" id="ie9css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/11104704/1/ue.js"></script>
+<!--<![endif]--><script type="text/javascript" src="/preparesite/empty.js?elementId=12936600&#38;rand=425&#38;uri=%2Fhcf-webapp%2Fservlet%2Funternehmen%2Fhandel-konsumgueter%2Fschluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment%2F12936600.html"></script><script></script><title>Schluss mit Bio: McDonald's schmeißt McB aus dem Sortiment</title><meta content="Der Bio-Burger McB ist offenbar nicht bei allen Kunden gut angekommen: Der Fastfood-Riese McDonald&#039;s schmeißt den Hamburger aus Biofleisch wieder aus seinem Sortiment. Der Burger war erst seit Oktober im Programm." name="description"/><meta content="Ernährung,Gastronomie,Lebensmittel,Franchising,Gütesiegel,Produktpolitik,McDonald&#039;s,Fast Food-Gastronomie,Naturkost,Fleischprodukte,Lebensmittel, Einzelhandel" name="keywords"/><meta content="Ernährung, Gastronomie, Lebensmittel, Franchising, Gütesiegel, Produktpolitik, McDonald s, Fast Food-Gastronomie, Naturkost, Fleischprodukte" name="news_keywords"/><meta name="robots" content="index,follow,noarchive"><link href="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" rel="canonical"/><link href="/images/big-mac/12936612/3-format7.jpg" rel="image_src"/><meta content="Schluss mit Bio: McDonald&#39;s schmeißt McB aus dem Sortiment" property="og:title"/><meta content="Article" property="og:type"/><meta content="http://www.handelsblatt.com/images/big-mac/12936612/3-format2010.jpg" property="og:image"/><meta content="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" property="og:url"/><meta content="Der Bio-Burger McB ist offenbar nicht bei allen Kunden gut angekommen: Der Fastfood-Riese McDonald&#39;s schmeißt den Hamburger aus Biofleisch wieder aus seinem Sortiment. Der Burger war erst seit Oktober im Programm." property="og:description"/><meta content="text" name="vr:type"/><meta content="Handel + Konsumgüter" name="vr:category"/><meta content="dpa  " name="vr:author"/><meta content="08.02.2016 19:58" name="vr:published-time"/><meta content="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" name="vr:canonical"/><meta content="de-DE" http-equiv="Content-Language"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><meta content="text/css" http-equiv="Content-Style-Type"/><meta content="text/javascript" http-equiv="Content-Script-Type"/><meta content="104709558232" property="fb:page_id"/><meta content="{&quot;webtrekk&quot;:{&quot;contentId&quot;:&quot;unternehmen.handel-konsumgueter.McDonald\u0027s schmeißt McB aus dem Sortiment.12936600.Article&quot;,&quot;contentGroup&quot;:{&quot;1&quot;:&quot;unternehmen&quot;,&quot;2&quot;:&quot;handel-konsumgueter&quot;,&quot;3&quot;:&quot;&quot;,&quot;4&quot;:&quot;&quot;,&quot;5&quot;:&quot;12936600.Schluss mit Bio.McDonald\u0027s schmeißt McB aus dem Sortiment&quot;,&quot;6&quot;:&quot;12936600&quot;},&quot;customParameter&quot;:{&quot;1&quot;:&quot;Article&quot;,&quot;2&quot;:&quot;Article.1&quot;,&quot;3&quot;:&quot;Handelsblatt&quot;,&quot;4&quot;:&quot;Ernährung.Gastronomie.Lebensmittel.Franchising.Gütesiegel.Produktpolitik.McDonald\u0027s.Fast Food-Gastronomie.Naturkost.Fleischprodukte.Lebensmittel, Einzelhandel&quot;,&quot;6&quot;:&quot;16.02.08&quot;,&quot;33&quot;:&quot;FREE&quot;,&quot;34&quot;:&quot;&quot;},&quot;media&quot;:{&quot;1&quot;:&quot;&quot;,&quot;2&quot;:&quot;&quot;},&quot;customClickParameter&quot;:{&quot;2&quot;:&quot;&quot;},&quot;heatmap&quot;:0,&quot;trackId&quot;:&quot;357500119523122&quot;,&quot;trackDomain&quot;:&quot;handelsblatt01.webtrekk.net&quot;,&quot;domain&quot;:&quot;REGEXP:^([a-zA-Z0-9\\-\\.])*?handelsblatt([a-zA-Z0-9\\-])*?\\.(com|de|net|org|biz)$&quot;,&quot;active&quot;:true},&quot;audioPlayer&quot;:{&quot;player&quot;:&quot;/downloads/1981510/2/audioplayer.swf&quot;},&quot;flowplayer&quot;:{&quot;player&quot;:&quot;/downloads/1981418/2/flowplayer-3-2-5.swf&quot;},&quot;swfobj&quot;:{&quot;install&quot;:&quot;/downloads/1981480/2/expressinstall.swf&quot;}}" http-equiv="Config"/><link href="/images/apple-touch-icon/3896854/2-formatOriginal.png" rel="apple-touch-icon-precomposed"/><link href="/images/favicon-ico/1981436/2-formatOriginal.ico" rel="SHORTCUT ICON"/><link rel="alternate" type="application/rss+xml" title="Handelsblatt Online - RSS-Feed: Top-Themen" href="/contentexport/feed/top-themen/"/><script type="text/javascript">var GLOBAL = {
+  ABWT: true,
+  WTTD: 'wtk.service.vhb.de',
+  NOIVW: ['footerhp=scroll'],
+  PSD: 'push.service.vhb.de',
+  JOB: 'http://www.vhb.de/karriereportal?yid=435',
+  JSL: {
+    TBL: 'http://dienste.vhb.de/common/vhb-datatables/0.1.0/vhb.datatables.js'
+  },
+  CSSL: {
+    TBL: 'http://dienste.vhb.de/common/vhb-datatables/0.1.0/vhb.datatables.bs.css'
+  }, 
+  CS: {
+    URI: 'http://dienste.vhb.de/collector/collector.php',
+    LV: false,
+    ERR: false
+  }
+};
+
+var EXPERIMENTS = [
+  false, //Paywall Layer
+  true, //Eigenwerbung 
+  false, //PushService
+  false //Sticky Header Sparten
+];</script><script src="/js/13431242/2/customersupport.js" type="text/javascript"></script><script src="/js/11002856/14/header.js" type="text/javascript"></script><script src="//script.ioam.de/iam.js" type="text/javascript"></script><script type="text/javascript">//<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 574]);
+	_vrq.push(['automate', true]);
+	_vrq.push(['track', function(){}]);
+(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = 'http://a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);
+})(document, 'script');
+//<!-- End of VR RR Tracking Script - All rights reserved --></script><script src="/js/11462454/1/jquery.cycle.all.js" type="text/javascript"></script><script src="/js/12484614/3/kalooga.js" type="text/javascript"></script><script type="text/javascript">//<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 574]);
+	_vrq.push(['automate', false]);
+	_vrq.push(['track', function(){}]);
+(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = 'http://a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);
+})(document, 'script');
+//<!-- End of VR RR Tracking Script - All rights reserved --></script><script src="/js/12928036/23/iqadcontroller.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+	if (typeof AdController !== 'undefined') {
+		var pubCmsObject = {
+			$handle : "artikel",
+			$autoSizeFrames: true,
+			level2: "unternehmen",
+			level3: "handel_konsumgueter",
+			level4: "",
+			keywords :"hcfhb,newdesign" + (("unternehmen" !== "") ? ",unternehmen" : "" ) + (("handel_konsumgueter" !== "") ? ",handel_konsumgueter" : "" ) + ((",US5801351017" !== "") ? ","+",US5801351017".replace(/^,*/, "") : "" ),
+			tma:"Restaurants___Fast_Food"
+		};
+		
+		AdController.setPageInfo(pubCmsObject);
+  	      try{
+  	         AdController.stage();
+  	      } catch (e){}
+	}
+</script>
+
+<script type="text/javascript">
+	if (typeof AdController !== 'undefined') { 
+	        AdController.initialize();
+	}
+</script><meta content="summary_large_image" name="twitter:card"/><meta content="@handelsblatt_de" name="twitter:site"/><meta content="McDonald&#39;s schmeißt McB aus dem Sortiment" name="twitter:title"/><meta content="Der Bio-Burger McB ist offenbar nicht bei allen Kunden gut angekommen: Der Fastfood-Riese McDonald&#39;s schmeißt den Hamburger aus Biofleisch wieder aus seinem Sortiment. Der Burger war erst seit Oktober im Programm." name="twitter:description"/><meta content="http://www.handelsblatt.com/images/big-mac/12936612/3-format2403.jpg" name="twitter:image"/></head><body id="hbo"><div id="ivw"><!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+var iam_data = { "st":"handbl", "cp":"unt_han_64", "oc":"unt_han_64", "mg":"yes", "sv":"in" };
+(function(){
+  var enableIVW = true;
+  if (typeof GLOBAL === 'object'){
+    if (GLOBAL.NOIVW){
+      if (GLOBAL.NOIVW.length){
+        for (var i = 0; i < GLOBAL.NOIVW.length; i += 1){
+          if (enableIVW && window.location.href.indexOf(GLOBAL.NOIVW[i]) > -1){
+            enableIVW = false;
+          }
+        }
+      }
+    }
+  }
+
+  if (typeof iom !== 'undefined' && enableIVW){
+    iom.c(iam_data);
+  }
+})();
+</script>
+<!--/SZM --></div><script type="text/javascript">if(typeof mobileSwitch === 'function') {
+  mobileSwitch(navigator.userAgent || navigator.vendor || window.opera);
+}</script><div data-nocache="/ajaxentry/nocache/teasabledata" data-cache="/ajaxentry/cache/cacheableteasabledata" data-param="/ajaxentry/nocache/teasabledata" data-command="getComments" id="hcf-wrapper" class="vhb-stage ajaxify"><div id="hcf-ad-wrapper"><div id="iqadtileOOP" > 
+	<script type="text/javascript"> 
+		if(typeof AdController !== "undefined" && typeof AdController._siteConfig !== "undefined" && AdController._siteConfig._adapterName !== "dfp5" ){ 
+			AdController.render("iqadtileOOP"); 
+		} 
+	</script> 
+</div><div class="hcf-ad-superbanner-print ajaxify" data:command="checkAds" data:param="" ><!--size = "728x90")-->
+<div id="iqadtile16">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile16", "iqadtile16");
+		}
+	</script>
+</div>
+
+</div><div class="hcf-ad-superbanner ajaxify" data:command="checkAds" data:param="" ><!--size = "728x90)-->
+<div id="iqadtile1">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile1", "iqadtile1");
+		}
+	</script>
+</div></div><div class="hcf-ad-skyscraper ajaxify" data:command="checkAds" data:param="" ><!--size = "120x600,160x600,200x600")-->
+<div id="iqadtile2">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile2", "iqadtile2");
+		}
+	</script>
+</div>
+
+</div></div><header class="vhb-page-header ajaxify"><div class="vhb-page-top-bar"><section class="vhb-page-header-top-bar-left col-md-5 vhb-no-padding"><ul class="vhb-page-top-bar-link-list"><li><a href="http://club.handelsblatt.com" class="vhb-page-header-top-bar-link" target="_blank">Club</a></li><li><a href="http://epaper.handelsblatt.com/" class="vhb-page-header-top-bar-link" target="_blank">ePaper</a></li><li><a href="http://archiv.handelsblatt.com/" class="vhb-page-header-top-bar-link" target="_blank">Archiv</a></li><li><a href="http://angebot.handelsblatt.com" class="vhb-page-header-top-bar-link" target="_blank">Abonnement</a></li><li><a href="http://veranstaltungen.handelsblatt.com" class="vhb-page-header-top-bar-link" target="_blank">Veranstaltungen</a></li></ul></section><section class="vhb-page-header-top-bar-middle col-md-2 vhb-no-padding"><time current-time="">Sonntag, 01.05.2016</time></section><section id="userLog" class="vhb-page-header-top-bar-right col-md-5 vhb-no-padding"><ul data-nocache="/ajaxentry/nocache/mininavi" data-command="loadDynamically" class="vhb-page-top-bar-link-list vhb-page-top-bar-profile ajaxify"><li><a class="ajaxify" data-command="setRedirectService" href="https://profil.vhb.de/sso/login?service=http://www.handelsblatt.com/ajaxentry/nocache/ssohandshake?redirecturl=http://finanzen.handelsblatt.com/redirect.htn?e=1%26url=http://www.handelsblatt.com/meinhandelsblatt/">Login</a></li><li>|</li><li><a class="ajaxify" data-command="setRedirectService" href="https://profil.vhb.de/sso/register?service=http://www.handelsblatt.com/meinhandelsblatt/">Registrieren</a></li></ul></section><div class="clearfix"></div></div><div data-command="headerSticky" id="vhb-page-header-navigation" class="vhb-page-header-logo-navigation-wrapper ajaxify"><div><div class="vhb-page-header-logo"><a title="Zur Startseite" class="vhb-page-navigation-home-new" href="/"><span id="vhb-page-navigation-count-new"></span></a><a class="vhb-page-header-logo-image" href="/"><img title="" alt="" class="vhb-page-header-logo-image" src="/images/logo_handelsblatt/11002806/7-formatOriginal.png"/></a><div class="vhb-page-navigation-social"><ul><li><a data-command="track" data-share-url="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=facebook" title="Auf Facebook teilen" data-track="sh_facebook" class="vhb-share-socialmedia-facebook ajaxify"></a></li><li><a data-share-text="#Schluss mit #Bio : #McDonald&#39;s schmeißt #McB aus dem #Sortiment" data-command="track" data-share-url="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=twitter" title="Auf Twitter teilen" data-track="sh_twitter" class="vhb-share-socialmedia-twitter ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=xing" title="Auf Xing teilen" data-track="sh_xing" class="vhb-share-socialmedia-xing ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=googleplus" title="Auf Google+ teilen" data-track="sh_googleplus" class="vhb-share-socialmedia-googleplus ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=linkedin" title="Artikel teilen" data-track="sh_linkedin" class="vhb-share-socialmedia-linkedin ajaxify"></a></li></ul></div><form accept-charset="UTF-8" method="post" action="/suche/" name="globalsearch" class="vhb-page-header-logo-search"><input data-command="placeholder" id="search-phrase" placeholder="Suchbegriff, WKN, ISIN" value="" class="ajaxify vhb-required" name="sw" type="text"/><button title="Suche ausführen" class="vhb-page-header-logo-search-button"></button></form><div class="vhb-profile-button dropdown dropdown-no-balloon vhb-page-top-bar-profile-list"><button data-toggle="dropdown" data-track="sh_profil" class="dropdown-toggle ajaxify"></button><nav class="dropdown-menu dropdown-menu-right"><ul data-command="loadDynamically" data-nocache="/ajaxentry/nocache/mininavi?remotenavi=false&#38;sticky=true" class="vhb-page-top-bar-link-list vhb-page-top-bar-profile ajaxify"><li><a class="ajaxify" data-command="setRedirectService" href="https://profil.vhb.de/sso/login?service=http://www.handelsblatt.com/ajaxentry/nocache/ssohandshake?redirecturl=http://finanzen.handelsblatt.com/redirect.htn?e=1%26url=http://www.handelsblatt.com/meinhandelsblatt/">Login</a></li><li><a class="ajaxify" data-command="setRedirectService" href="https://profil.vhb.de/sso/register?service=http://www.handelsblatt.com/meinhandelsblatt/">Registrieren</a></li></ul></nav></div></div><div class="vhb-page-header-navigation-wrapper"><div data-param="/ajaxentry/cache/ressortpreview" class="vhb-page-header-navigation vhb-active" id="vhb-navigation-main-resorts"><ul class="vhb-flex-container"><li data-param="/ajaxentry/cache/ressortpreview?naviId=9599448" data-command="loadFlyout" class="vhb-flex-item ajaxify vhb-page-navigation-item-special"><a href="http://exklusiv.vhb.de/handelsblatt/digitalpass/" target="_blank"><div>Digitalpass</div></a></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980476" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/finanzen/" target="_self"><div>Finanzen</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="http://finanzen.handelsblatt.com/">Börsenkurse</a></li><li class=""><a href="/finanzen/maerkte/?navi=FINANZEN_SUBNAV_M%C3%84RKTE_1980480">Märkte</a></li><li class=""><a href="/finanzen/anlagestrategie/?navi=FINANZEN_SUBNAV_ANLAGESTRATEGIE_11251228">Anlagestrategie</a></li><li class=""><a href="/finanzen/immobilien/?navi=FINANZEN_SUBNAV_IMMOBILIEN_1980488">Immobilien</a></li><li class=""><a href="/finanzen/vorsorge/?navi=FINANZEN_SUBNAV_VORSORGE_1980490">Vorsorge</a></li><li class=""><a href="/finanzen/steuern-recht/?navi=FINANZEN_SUBNAV_STEUERN+%2B+RECHT_1980492">Steuern + Recht</a></li><li class=""><a href="/finanzen/finanztools/?navi=FINANZEN_SUBNAV_FINANZRECHNER_8174080">Finanzrechner</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980072" data-command="loadFlyout" class="vhb-flex-item ajaxify vhb-active"><a href="/unternehmen/" target="_self">Unternehmen</a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/unternehmen/industrie/?navi=UNTERNEHMEN_SUBNAV_INDUSTRIE_1980074">Industrie</a></li><li class=""><a href="/unternehmen/banken-versicherungen/?navi=UNTERNEHMEN_SUBNAV_BANKEN+%2B+VERSICHERUNGEN_11263520">Banken + Versicherungen</a></li><li class=""><a href="/unternehmen/handel-konsumgueter/?navi=UNTERNEHMEN_SUBNAV_HANDEL+%2B+KONSUMG%C3%9CTER_1980080">Handel + Konsumgüter</a></li><li class=""><a href="/unternehmen/dienstleister/?navi=UNTERNEHMEN_SUBNAV_DIENSTLEISTER_11251998">Dienstleister</a></li><li class=""><a href="/unternehmen/it-medien/?navi=UNTERNEHMEN_SUBNAV_IT+%2B+MEDIEN_1980082">IT + Medien</a></li><li class=""><a href="/unternehmen/mittelstand/?navi=UNTERNEHMEN_SUBNAV_MITTELSTAND_1980084">Mittelstand</a></li><li class=""><a href="/unternehmen/management/?navi=UNTERNEHMEN_SUBNAV_MANAGEMENT_1980088">Management</a></li><li class=""><a href="/unternehmen/beruf-und-buero/?navi=UNTERNEHMEN_SUBNAV_BERUF+%2B+B%C3%9CRO_11479364">Beruf + Büro</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1979524" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/politik/" target="_self"><div>Politik</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/politik/deutschland/?navi=POLITIK_SUBNAV_DEUTSCHLAND_1979526">Deutschland</a></li><li class=""><a href="/politik/international/?navi=POLITIK_SUBNAV_INTERNATIONAL_1979528">International</a></li><li class=""><a href="/politik/konjunktur/?navi=POLITIK_SUBNAV_KONJUNKTUR+%2B+GELDPOLITIK_1979530">Konjunktur + Geldpolitik</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980588" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/technik/" target="_self"><div>Technik</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/technik/it-internet/?navi=TECHNIK_SUBNAV_IT+%2B+INTERNET_1980552">IT + Internet</a></li><li class=""><a href="/technik/gadgets/?navi=TECHNIK_SUBNAV_GADGETS_1980558">Gadgets</a></li><li class=""><a href="/technik/forschung-innovation/?navi=TECHNIK_SUBNAV_FORSCHUNG+%2B+INNOVATION_1980592">Forschung + Innovation</a></li><li class=""><a href="/technik/medizin/?navi=TECHNIK_SUBNAV_MEDIZIN_1980608">Medizin</a></li><li class=""><a href="/technik/energie-umwelt/?navi=TECHNIK_SUBNAV_ENERGIE+%2B+UMWELT_1980594">Energie + Umwelt</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980580" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/auto/" target="_self"><div>Auto</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/auto/nachrichten/?navi=AUTO_SUBNAV_NACHRICHTEN_1980584">Nachrichten</a></li><li class=""><a href="/auto/test-technik/?navi=AUTO_SUBNAV_TEST+%2B+TECHNIK_1980450">Test + Technik</a></li><li class=""><a href="/auto/ratgeber-service/?navi=AUTO_SUBNAV_RATGEBER+%2B+SERVICE_1980586">Ratgeber + Service</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980622" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/sport/" target="_self"><div>Sport</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/sport/fussball/?navi=SPORT_SUBNAV_FUSSBALL_1980424">Fußball</a></li><li class=""><a href="/sport/motorsport/?navi=SPORT_SUBNAV_MOTORSPORT_1980626">Motorsport</a></li><li class=""><a href="/sport/sonstige-sportarten/?navi=SPORT_SUBNAV_SONSTIGE+SPORTARTEN_1980628">sonstige Sportarten</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980686" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/panorama/" target="_self"><div>Panorama</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/panorama/aus-aller-welt/?navi=PANORAMA_SUBNAV_AUS+ALLER+WELT_1980702">Aus aller Welt</a></li><li class=""><a href="/panorama/reise-leben/?navi=PANORAMA_SUBNAV_REISE+%2B+LEBEN_6128708">Reise + Leben</a></li><li class=""><a href="/panorama/tv-film/?navi=PANORAMA_SUBNAV_TV+%2B+FILM_11251820">TV + Film</a></li><li class=""><a href="/panorama/kultur-kunstmarkt/?navi=PANORAMA_SUBNAV_KULTUR+%2B+KUNSTMARKT_6128700">Kultur + Kunstmarkt</a></li><li class=""><a href="/panorama/spiele/?navi=PANORAMA_SUBNAV_SPIELE_12955046">Spiele</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=11241840" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/social-media/" target="_self"><div>Social Media</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="https://www.facebook.com/handelsblatt">Handelsblatt bei Facebook</a></li><li class=""><a href="https://twitter.com/handelsblatt">Handelsblatt bei Twitter</a></li><li class=""><a href="https://plus.google.com/+handelsblatt/posts">Handelsblatt bei Google +</a></li><li class=""><a href="https://instagram.com/handelsblatt_">Handelsblatt bei Instagram</a></li><li class=""><a href="/social-media/netz-bubble/?navi=SOCIAL+MEDIA_SUBNAV_NETZ-BUBBLE_12617678">Netz-Bubble</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1981074" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/video/" target="_self"><div>Video</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/video/finanzen/?navi=VIDEO_SUBNAV_FINANZEN_11289560">Finanzen</a></li><li class=""><a href="/video/unternehmen/?navi=VIDEO_SUBNAV_UNTERNEHMEN_1981138">Unternehmen</a></li><li class=""><a href="/video/politik/?navi=VIDEO_SUBNAV_POLITIK_1981136">Politik</a></li><li class=""><a href="/video/technik/?navi=VIDEO_SUBNAV_TECHNIK_11289992">Technik</a></li><li class=""><a href="/video/auto/?navi=VIDEO_SUBNAV_AUTO_1981106">Auto</a></li><li class=""><a href="/video/sport/?navi=VIDEO_SUBNAV_SPORT_1981140">Sport</a></li><li class=""><a href="/video/panorama/?navi=VIDEO_SUBNAV_PANORAMA_1981142">Panorama</a></li><li class=""><a href="/bildergalerien/?navi=VIDEO_SUBNAV_BILDERGALERIEN_11514914">Bildergalerien</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=8144472" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/service-angebote/" target="_self"><div>Service</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/service-angebote/abo-club/?navi=SERVICE_SUBNAV_ABO%2BCLUB_12881718">Abo+Club</a></li><li class=""><a href="http://kaufhaus.handelsblatt.com/">Kaufhaus</a></li><li class=""><a href="/tools/?navi=SERVICE_SUBNAV_TOOLS_1981088">Tools</a></li><li class=""><a href="/service-angebote/digitale-angebote/?navi=SERVICE_SUBNAV_DIGITALE+ANGEBOTE_11260594">Digitale Angebote</a></li><li class=""><a href="http://veranstaltungen.handelsblatt.com">Veranstaltungen</a></li><li class=""><a href="/rss-feeds/?navi=SERVICE_SUBNAV_RSS-FEEDS_3597096">RSS-Feeds</a></li><li class=""><a href="/service-angebote/newsletter/?navi=SERVICE_SUBNAV_NEWSLETTER_1981072">Newsletter</a></li><li class=""><a href="/service-angebote/werbung-content/?navi=SERVICE_SUBNAV_WERBUNG+%2B+CONTENT_12138026">Werbung + Content</a></li><li class=""><a href="/service-angebote/kontakt-hilfe/?navi=SERVICE_SUBNAV_KONTAKT%2BHILFE_1981444">Kontakt+Hilfe</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li></ul><div class="clearfix"></div></div><div class="vhb-page-header-sub-container vhb-page-header-hide-fixed"><div class="vhb-page-navigation-sub-resorts"><ul><li class=" "><a href="/unternehmen/industrie/" title="Industrie" target="_self">Industrie</a></li><li class=" "><a href="/unternehmen/banken-versicherungen/" title="Banken + Versicherungen" target="_self">Banken + Versicherungen</a></li><li class=" vhb-active"><a href="/unternehmen/handel-konsumgueter/" title="Handel + Konsumgüter" target="_self">Handel + Konsumgüter</a></li><li class=" "><a href="/unternehmen/dienstleister/" title="Dienstleister" class="vhb-caret-down" target="_self">Dienstleister</a><ul class="vhb-page-navigation-drop-down"><li class="vhb-partner-offers">Kolumnen</li><li class="vhb-partner-offers-item"><a href="/unternehmen/dienstleister/werber-rat/" title="Der Werber-Rat" target="_self">Der Werber-Rat</a></li><li class="vhb-partner-offers">Anzeige</li><li class="vhb-partner-offers-item"><a href="https://kompany.handelsblatt.com/handelsblatt/welcome" title="Kompany" target="_self">Kompany</a></li></ul></li><li class=" "><a href="/unternehmen/it-medien/" title="IT + Medien" class="vhb-caret-down" target="_self">IT + Medien</a><ul class="vhb-page-navigation-drop-down"><li class="vhb-partner-offers">Kolumnen</li><li class="vhb-partner-offers-item"><a href="/unternehmen/it-medien/medienkommissar/" title="Hans-Peter Siebenhaar: Medien-Kommissar" target="_self">Hans-Peter Siebenhaar: Medien-Kommissar</a></li><li class="vhb-partner-offers-item"><a href="/unternehmen/it-medien/medienmacher/" title="Kai-Hinrich Renner: Medienmacher" target="_self">Kai-Hinrich Renner: Medienmacher</a></li><li class="vhb-partner-offers-item"><a href="/unternehmen/it-medien/valley-voice/" title="Britta Weddeling: Valley-Voice" target="_self">Britta Weddeling: Valley-Voice</a></li></ul></li><li class="vhb-right "><a href="/unternehmen/mittelstand/" title="Mittelstand" class="vhb-caret-down" target="_self">Mittelstand</a><ul class="vhb-page-navigation-drop-down"><li class="vhb-partner-offers">Special</li><li class="vhb-partner-offers-item"><a href="/unternehmen/beruf-und-buero/hall-of-fame-2014/" title="Hall of Fame" target="_self">Hall of Fame</a></li><li class="vhb-partner-offers">Anzeige</li><li class="vhb-partner-offers-item"><a href="http://mittelstands-archiv.handelsblatt.com/" title="Unternehmer stellen sich vor" target="_self">Unternehmer stellen sich vor</a></li><li class="vhb-partner-offers-item"><a href="/adv/hsbc/" title="HSBC: International wachsen" target="_self">HSBC: International wachsen</a></li><li class="vhb-partner-offers">Partnerangebote</li><li class="vhb-partner-offers-item"><a href="/adv/unternehmerboerse/" title="Deutsche Unternehmerbörse" target="_self">Deutsche Unternehmerbörse</a></li></ul></li><li class="vhb-right "><a href="/unternehmen/management/" title="Management" class="vhb-caret-down" target="_self">Management</a><ul class="vhb-page-navigation-drop-down"><li class="vhb-partner-offers">Kolumne</li><li class="vhb-partner-offers-item"><a href="/unternehmen/management/chefberaterin/" title="Sabina Wachtel: Chef-Beraterin" target="_self">Sabina Wachtel: Chef-Beraterin</a></li><li class="vhb-partner-offers">Partnerangebot</li><li class="vhb-partner-offers-item"><a href="http://www.orderannualreports.com/v5/index.asp?cp_code=P007" title="Geschäftsbericht Service" target="_self">Geschäftsbericht Service</a></li><li class="vhb-partner-offers">Anzeige</li><li class="vhb-partner-offers-item"><a href="/adv/itcoach/" title="IT Coach" target="_self">IT Coach</a></li></ul></li><li class="vhb-right "><a href="/unternehmen/beruf-und-buero/" title="Beruf + Büro" class="vhb-caret-down" target="_self">Beruf + Büro</a><ul class="vhb-page-navigation-drop-down"><li class="vhb-partner-offers">Kolumne</li><li class="vhb-partner-offers-item"><a href="/unternehmen/beruf-und-buero/herrk/" title="Herr K. – der moderne Mann" target="_self">Herr K. – der moderne Mann</a></li><li class="vhb-partner-offers">Partnerangebote</li><li class="vhb-partner-offers-item"><a href="http://mybestcompany.handelsblatt.com" title="My Best Company" target="_self">My Best Company</a></li><li class="vhb-partner-offers">Anzeige</li><li class="vhb-partner-offers-item"><a href="/adv/mcfit/" title="McFit" target="_self">McFit</a></li></ul></li></ul></div></div><div class="vhb-page-header-sub-container vhb-page-header-show-fixed"><div class="vhb-page-header-sub-container vhb-page-header-stock">
+    <section class="vhb-chart-line vhb-vwd" id="pushFrame_01052016002444633">
+        <dl>
+                        
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/159096/dax"
+                        class="vhb-box-link">DAX:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/159096/dax">
+                    <span data-USFPushData='{"instrumentId":"159096","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>10.038,97</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/159096/dax"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"159096","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>-2,73
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/159194/e-stoxx-50"
+                        class="vhb-box-link">E-Stoxx 50:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/159194/e-stoxx-50">
+                    <span data-USFPushData='{"instrumentId":"159194","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>3.028,21</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/159194/e-stoxx-50"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"159194","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>-3,11
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2303555/dow-jones"
+                        class="vhb-box-link">Dow Jones:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2303555/dow-jones">
+                    <span data-USFPushData='{"instrumentId":"2303555","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>17.773,64</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2303555/dow-jones"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"2303555","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>-0,32
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2323869/goldpreis"
+                        class="vhb-box-link">Gold:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2323869/goldpreis">
+                    <span data-USFPushData='{"instrumentId":"2323869","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>1.292,90</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2323869/goldpreis"><span
+                            class="vhb-rate vhb-vwd-up"
+                            data-USFPushData='{"instrumentId":"2323869","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>+2,11
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2079559/eur-usd"
+                        class="vhb-box-link">EUR/USD:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2079559/eur-usd">
+                    <span data-USFPushData='{"instrumentId":"2079559","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>1,1456</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2079559/eur-usd"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"2079559","fieldOrigin":"quotes","pushFrameId":"pushFrame_01052016002444633","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>0,00
+                        %</span>
+                    </a>
+                </dd>
+                    </dl>
+        <a href="http://finanzen.handelsblatt.com" class="vhb-more-link">Alle Kurse</a>
+    </section>
+</div>
+
+</div></div></div></div><div class="vhb-breadcrumb"><ul itemscope="" itemtype="http://schema.org/BreadcrumbList" itemprop="breadcrumb"><li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/"><span itemprop="name"> Handelsblatt </span></a></li><li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/unternehmen/"><span itemprop="name"> Unternehmen </span></a></li><li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/unternehmen/handel-konsumgueter/"><span itemprop="name"> Handel + Konsumgüter </span></a></li></ul><h1 itemprop="headline" id="headlineRH"> Schluss mit Bio: McDonald&#039;s schmeißt McB aus dem Sortiment</h1></div><div class="col-md-12"><div class="hcf-sponsoring"><!--size = "930x200,940x250,800x250")-->
+<div class="vhb-center-iq">
+	<div id="iqadtile3" class="vhb-indicator" style="text-align:center;">
+		<script>
+			if(typeof AdController!=='undefined'){
+				AdController.render("iqadtile3", "iqadtile3");
+			}
+		</script>
+	</div>
+</div></div></div><div class="clearfix"></div></header><div class="container"><div class="vhb-content"><div id="vhb-article-area" class="vhb-flex-container vhb-article-area"><script>
+                document.getElementById('vhb-article-area').style.display = 'none';
+            </script><div itemref="PublisherRef" itemscope="" itemtype="http://schema.org/NewsArticle" itemprop="mainEntityOfPage" class="vhb-flex-item vhb-flex-top vhb-article-container"><meta itemid="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html" itemType="https://schema.org/WebPage" itemprop="mainEntityOfPage" itemscope=""/><article itemref="headlineRH " data-article-id="12936600" class="vhb-article"><h2 itemprop="headline" headline="headline"><div class="vhb-subline">Schluss mit Bio</div><span class="vhb-colon">: </span><div class="vhb-headline">McDonald&#039;s schmeißt McB aus dem Sortiment</div></h2><div class="vhb-article-author"><div class="vhb-article-author-table"><div class="vhb-article-author-row"><div class="vhb-article-author-cell vhb-article-caption">
+                     Datum:
+                  </div><div content="2016-02-08T19:58:00+0100" itemprop="datePublished" class="vhb-article-author-cell"><ul><li class="vhb-last-child">08.02.2016 19:58 Uhr</li></ul><meta content="2016-02-08T19:58:00+0100" itemprop="dateModified"/></div></div></div></div><div itemprop="description" class="vhb-teaser-head">Der Bio-Burger McB ist offenbar nicht bei allen Kunden gut angekommen: Der Fastfood-Riese McDonald's schmeißt den Hamburger aus Biofleisch wieder aus seinem Sortiment. Der Burger war erst seit Oktober im Programm. </div><div class="row"><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=facebook" title="Auf Facebook teilen" data-track="ash_facebook" class="vhb-share-socialmedia-facebook ajaxify">Facebook</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-share-text="#Schluss mit #Bio : #McDonald&#39;s schmeißt #McB aus dem #Sortiment" data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=twitter" title="Auf Twitter teilen" data-track="ash_twitter" class="vhb-share-socialmedia-twitter ajaxify">Twitter</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=googleplus" title="Auf Google+ teilen" data-track="ash_googleplus" class="vhb-share-socialmedia-googleplus ajaxify">Google+</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=xing" title="Auf Xing teilen" data-track="ash_xing" class="vhb-share-socialmedia-xing ajaxify">Xing</a></div></div><div class="vhb-article-content-container"><div class="vhb-hidden"><img alt="" height="1" width="1" src="http://handelsblatt.met.vgwort.de/na/33bd39ef032645bbad4f5eb8264227aa"/></div><div data-command="stickyScroller" class="vhb-article-controls-container ajaxify"><div class="vhb-article-controls vhb-sticky-scroller"><ul><li><div class="vhb-share-button dropdown dropdown-right vhb-article-control vhb-article-controls-share"><button title="Teilen und weiterempfehlen" data-toggle="dropdown" type="button" class="dropdown-toggle"><span class=" ajaxify" data-command="loadDynamically" data-param="/ajaxentry/nocache/social?elementId=12936600&action=getshort&service=facebook%2Cxing%2Cgoogleplus%2Ctwitter" href='javascript:void(0);' ></span></button><div class="dropdown-menu"><div title="Schließen" class="vhb-share-close"></div><div class="vhb-share-headline">Teilen</div><hr/><div class="vhb-share-count"><span class=" ajaxify" data-command="loadDynamically" data-param="/ajaxentry/nocache/social?elementId=12936600&action=getfull&service=facebook%2Cxing%2Cgoogleplus%2Ctwitter" href='javascript:void(0);' ></span></div><div class="vhb-share-buttons small"><div class="vhb-share-social-media-button small"><a data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=facebook" data-track="asd_facebook" data-command="track" class="vhb-share-socialmedia-facebook ajaxify" title="Artikel auf Facebook teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=twitter" data-track="asd_twitter" data-command="track" class="vhb-share-socialmedia-twitter ajaxify" title="Artikel auf Twitter teilen" data-share-text="Schluss mit Bio: McDonald&#38;#39;s schmeißt McB aus dem Sortiment" data-share-url="http://www.handelsblatt.com/12936600.html" data-share-hashtags="Handelsblatt"></a></div><div class="vhb-share-social-media-button small"><a data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=googleplus" data-track="asd_googleplus" data-command="track" class="vhb-share-socialmedia-googleplus ajaxify" title="Artikel auf Google+ teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=xing" data-track="asd_xing" data-command="track" class="vhb-share-socialmedia-xing ajaxify" title="Artikel auf Xing teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=email" data-track="asd_email" data-command="track" class="vhb-share-socialmedia-email ajaxify" title="E-Mail" data-share-url="http://www.handelsblatt.com/12936600.html" data-share-title="Schluss mit Bio: McDonald&#38;#39;s schmeißt McB aus dem Sortiment"></a></div></div><div class="vhb-share-permalink vhb-share-permalink-bottom"><input value="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html?share=direct" readonly="readonly" type="text" class="vhb-form stop-propagation" onClick="this.setSelectionRange(0, this.value.length);"/><button title="URL in die Zwischenablage kopieren" class="zclip vhb-button vhb-button-white stop-propagation" data-zclip-text="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/12936600.html?share=direct"></button></div><div class="clearfix"></div></div></div></li><li><a data-param="/unternehmen/handel-konsumgueter/schluss-mit-bio-mcdonalds-schmeisst-mcb-aus-dem-sortiment/v_detail_tab_print/12936600.html" data-command="print" class="vhb-article-control vhb-article-controls-print ajaxify" title="Drucken" href="#"></a></li><li class="vhb-last-child"><div class="vhb-share-button vhb-share-button-big dropdown dropdown-right vhb-article-control vhb-article-controls-bookmark"><div class="hidden-dropdown-toggle" data-toggle="dropdown"></div><button data-tooltip="In Merkliste aufnehmen" data-nocache="/ajaxentry/nocache/togglebookmark?teasableId=12936600" data-cache="/ajaxentry/cache/cacheabletogglebookmark?teasableId=12936600" data-tid="12936600" data-param="/ajaxentry/nocache/togglebookmark?teasableId=12936600" data-command="track toggleBookmark" type="button" data-track="ac_merken" class="ajaxify vhb-article-controls-bookmark-button"></button><div class="dropdown-menu"><div title="Schließen" class="vhb-share-close"></div><div class="vhb-share-headline">Artikel Teilen</div><hr/><p class="vhb-share-info-text">Sie haben den Artikel in Ihre Merkliste aufgenommen. <br/>Möchten Sie ihn nicht auch gleich mit Feunden teilen?</p><div class="vhb-share-buttons"><div class="vhb-share-social-media-button small"><a data-track="asd_facebook" data-command="track" class="vhb-share-socialmedia-facebook ajaxify" title="Artikel auf Facebook teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-track="asd_twitter" data-command="track" class="vhb-share-socialmedia-twitter ajaxify" title="Artikel auf Twitter teilen" data-share-text="Schluss mit Bio: McDonald&#38;#39;s schmeißt McB aus dem Sortiment" data-share-url="http://www.handelsblatt.com/12936600.html" data-share-hashtags="Handelsblatt"></a></div><div class="vhb-share-social-media-button small"><a data-track="asd_googleplus" data-command="track" class="vhb-share-socialmedia-googleplus ajaxify" title="Artikel auf Google+ teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-track="asd_xing" data-command="track" class="vhb-share-socialmedia-xing ajaxify" title="Artikel auf Xing teilen" data-share-url="http://www.handelsblatt.com/12936600.html"></a></div><div class="vhb-share-social-media-button small"><a data-track="asd_email" data-command="track" class="vhb-share-socialmedia-email ajaxify" title="E-Mail" data-share-url="http://www.handelsblatt.com/12936600.html" data-share-title="Schluss mit Bio: McDonald&#38;#39;s schmeißt McB aus dem Sortiment"></a></div></div><div class="row vhb-share-action-footer"><div class="col-md-6"><div class="vhb-form-element"><input name="formsGroupName" type="checkbox" id="vhb-share-bookmark-toggle"/><label for="vhb-share-bookmark-toggle">Nicht mehr fragen.</label></div></div><div class="col-md-6"><button class="vhb-button vhb-button-white pull-right" type="button">Schließen</button></div></div></div></div></li></ul></div></div><div itemProp="articleBody" class="vhb-article-content"><aside class="vhb-article-element vhb-full"><div class="clearfix"></div><figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" class="vhb-image"><a class="vhb-image-link ajaxify" data-command="openLayer" data-param="/ajaxentry/cache/imagelightbox?elementId=12936612" title='Bild vergrößern' ><div itemprop="image" class="vhb-media-wrapper"><img src="/images/big-mac/12936612/3-format2010.jpg" alt="Big statt Bio: Der Fastfood-Riese McDonald&#39;s nimmt seinen Bio-Burger McB wieder aus dem Sortiment. Quelle: dpa" itemprop="url" class="kalooga_18809"/><meta content="1920" itemprop="width"/><meta content="1275" itemprop="height"/><span class="vhb-media"></span></div></a><figcaption class="vhb-caption-wrapper"><em itemtype="text" itemprop="name" class="vhb-title">Big Mac</em><div itemtype="text" itemprop="caption" class="vhb-caption"><div><p>Big statt Bio: Der Fastfood-Riese McDonald's nimmt seinen Bio-Burger McB wieder aus dem Sortiment.</p></div></div><small class="vhb-credit"><a rel="" target="_blank" title="" href="http://www.dpa.de/">
+                     (Foto: dpa)
+                  </a></small></figcaption></figure></aside><p><span class="hcf-location-mark">München</span>Bei <a href="http://finanzen.handelsblatt.com/include_chart.htn?sektion=redirectPortrait&amp;suchbegriff=US5801351017" class="vhb-stock-icon">McDonald's</a> wird es vorerst keinen Hamburger aus Biofleisch mehr geben. Die Fast-Food-Kette hatte im Oktober und November zwischenzeitlich den „McB“ im Angebot und dafür mehrere hundert Tonnen Bio-Rindfleisch verbraten.</p><div class="hcf-detail-header-ad hcf-content"><div class="hcf-ad-wrapper"><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250") -->
+<div id="iqadtile4" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile4", "iqadtile4");
+		}
+	</script>
+</div>
+
+</div></div></div><p>Das Echo sei zwar positiv gewesen, aber der „McB“ sei „noch kein Produkt im Angebot für alle Gäste. Bio ist noch eine Nische“, hieß es am Montag aus der deutschen McDonald's-Zentrale in München.</p><p>Zuvor hatte die Online-Ausgabe des Medien- und Marketing-Fachmagazins „Horizont“ darüber berichtet.</p><aside class="vhb-article-element vhb-full"><div class="clearfix"></div><article id="gaPo11311606" class="vhb-imagegallery vhb-teaser"><a href="/unternehmen/handel-konsumgueter/mcdonalds-und-co-in-diesen-fast-food-restaurants-essen-die-deutschen-am-liebsten/11311606.html"><h2 class="vhb-caption-wrapper"><em class="vhb-overline">McDonalds und Co.</em><span class="vhb-colon">: </span><span class="vhb-headline">In diesen Fast-Food-Restaurants essen die Deutschen am liebsten</span></h2></a><div class="vhb-imagegallery-content"><section class="vhb-imagegallery-screen vhb-has-static-footer ajaxify" data-command="imageGallery" data-param="{&#34;showSushibar&#34;: false,&#34;staticFooter&#34;: true,&#34;showRecommendations&#34;: false}" data-limit='7' data-count='8' data-format-image='format2010' data-format-thumb='format2001' data-images='/ajaxentry/cache/imagegallery?format=format2010&#38;igId=11311606' data-more='/unternehmen/handel-konsumgueter/mcdonalds-und-co-in-diesen-fast-food-restaurants-essen-die-deutschen-am-liebsten/11311606.html' ><ul class="vhb-imagegallery-screen-list"><li class="vhb-imagegallery-screen-item"><figure itemscope=" " itemtype="http://schema.org/ImageObject" itemprop="image" class="vhb-imagegallery-image-wrapper"><img src="/images/tresen-im-schnellrestaurant-wienerwald/11311724/3-format2010.jpg" alt="Laut einer Umfrage der Verbrauchs- und Medienanalyse aus dem Jahr 2014 liegt die Fast-Food-Kette Wienerwald auf Platz Acht der beliebtesten Schnellrestaurants Deutschlands. Befragt wurden 23.093 Deutsche über 14 Jahre. Foto: Unternehmen." style="vhb-imagegallery-image" itemprop="url"/><meta content="4272" itemprop="width"/><meta content="2848" itemprop="height"/></figure><div class="vhb-imagegallery-screen-item-footer"><div class="vhb-background"></div><div class="vhb-foreground"><div class="vhb-container"><h3 class="vhb-headline" itemprop="caption">Tresen im Schnellrestaurant Wienerwald</h3><div class="vhb-content" itemprop="description"><div><p>Laut einer Umfrage der Verbrauchs- und Medienanalyse aus dem Jahr 2014 liegt die Fast-Food-Kette Wienerwald auf Platz Acht der beliebtesten Schnellrestaurants Deutschlands. Befragt wurden 23.093 Deutsche über 14 Jahre.</p><p><em>Foto: Unternehmen.</em></p></div></div></div><div class="vhb-page">
+                            Bild
+                            <span class="vhb-page-current">1</span>
+                            von
+                            <span class="vhb-page-total">8</span></div></div></div></li></ul><a href="#" class="vhb-imagegallery-next vhb-permanent"><div class="vhb-prev-next-switch" data-direction="next"></div></a></section></div></article></aside><p>Mit seinem Bio-Angebot hatte McDonald's auch auf den Erfolg neuer Burger-Ketten reagiert. Deutschland-Chef Holger Beeck hatte zum Start des siebenwöchigen Probelaufs im Herbst gesagt: „Wir haben das Ziel, eine Bio-Linie zu etablieren. Entscheidend ist aber am Ende natürlich die Akzeptanz beim Gast.“</p><div id="iq-artikelanker"></div><p>McDonald's hat in Deutschland derzeit 1478 Schnellrestaurants und beschäftigt rund 58 000 Mitarbeiter.<br/></p></div></div><section class="vhb-box-wrapper vhb-author-big"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul data-param="#vhb-tab-author-test-1" data-command="navLine tabSwap" class="vhb-toggles-nav ajaxify"><li class="vhb-first vhb-active"><a class="vhb-nav-link" href="#"><span>dpa</span></a></li></ul></nav></header><div id="vhb-tab-author-test-1"><div class="vhb-tab-1 "><div class="vhb-author-content-container"><div class="vhb-author-content"><div class="vhb-author-content-name">dpa </div><div class="vhb-author-content-profession">dpa Deutsche Presse-Agentur GmbH / Nachrichtenagentur</div><div class="vhb-author-content-controls"><ul class="vhb-author-content-controls-links"><li><a rel="author" href="/deutsche-presse-agentur/3722536.html">Alle Beiträge von dpa  anzeigen.</a></li></ul></div></div></div></div></div></section></article></div><div class="vhb-flex-item vhb-flex-static vhb-flex-top vhb-flex-stretch vhb-flex-container vhb-flex-column vhb-flex-spacebetween"><div class="vhb-flex-item"><aside class=""><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x600") -->
+<div id="iqadtile8" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile8", "iqadtile8");
+		}
+	</script>
+</div>
+
+</div><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-11252002" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11252000&#38;view=rcol_box_3layer_ticker&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >News</a></li><li><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11479600&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Kolumnen</a></li><li class="vhb-last"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11252014&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Bilanzcheck</a></li></ul></nav></header><div id="vhb-tab-11252002"><div class="vhb-tab-1"><div class="vhb-newsticker vhb-box-content"><div data-command="scrollBox" class="vhb-scrollpane ajaxify"><ul id="11252000" class="vhb-teaser-list-small panel-group"><li class="vhb-teaser panel"><time datetime="2016-04-30T18:16" class="vhb-time">30.04.16</time><a href="/unternehmen/banken-versicherungen/warren-buffett-chef-und-moralisches-vorbild/13526072.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Warren Buffett</em><span class="vhb-colon">: </span><span class="vhb-headline">Chef und moralisches Vorbild</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T16:21" class="vhb-time">30.04.16</time><a href="/unternehmen/industrie/klage-gegen-vw-volkswagen-soll-hybrid-technologien-geklaut-haben/13525684.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Klage gegen VW</em><span class="vhb-colon">: </span><span class="vhb-headline">Volkswagen soll Hybrid-Technologien geklaut haben</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T14:53" class="vhb-time">30.04.16</time><a href="/unternehmen/handel-konsumgueter/textilbranche-warum-der-deutsche-modehandel-achterbahn-faehrt/13521476.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Textilbranche</em><span class="vhb-colon">: </span><span class="vhb-headline">Warum der deutsche Modehandel Achterbahn fährt</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T12:55" class="vhb-time">30.04.16</time><a href="/unternehmen/industrie/rekord-pensionen-winterkorn-ist-rentenkoenig-im-vw-konzern/13525178.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Rekord-Pensionen</em><span class="vhb-colon">: </span><span class="vhb-headline">Winterkorn ist Rentenkönig im VW-Konzern</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T08:35" class="vhb-time">30.04.16</time><a href="/my/unternehmen/management/hauptversammlung-von-berkshire-hathaway-warren-buffett-laedt-zur-party-ein/13518922.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Hauptversammlung von Berkshire Hathaway</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Warren Buffett lädt zur Party ein</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T04:55" class="vhb-time">30.04.16</time><a href="/unternehmen/industrie/schwerer-unfall-in-norwegen-airbus-stoppt-hubschrauber-fluege/13524826.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Schwerer Unfall in Norwegen</em><span class="vhb-colon">: </span><span class="vhb-headline">Airbus stoppt Hubschrauber-Flüge</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-30T03:24" class="vhb-time">30.04.16</time><a href="/unternehmen/handel-konsumgueter/devisenmangel-und-misswirtschaft-venezuela-geht-das-bier-aus/13524820.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Devisenmangel und Misswirtschaft</em><span class="vhb-colon">: </span><span class="vhb-headline">Venezuela geht das Bier aus</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T23:59" class="vhb-time">29.04.16</time><a href="/unternehmen/it-medien/yahoo-will-cash-und-keine-aktien-nur-bares-ist-wahres/13524794.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Yahoo will Cash und keine Aktien</em><span class="vhb-colon">: </span><span class="vhb-headline">Nur Bares ist Wahres</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T20:21" class="vhb-time">29.04.16</time><a href="/unternehmen/dienstleister/werber-rat/der-werber-rat-verdienen-fussballer-zu-viel-geld/13520640.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Der Werber-Rat</em><span class="vhb-colon">: </span><span class="vhb-headline">Verdienen Fußballer zu viel Geld?</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T19:15" class="vhb-time">29.04.16</time><a href="/unternehmen/banken-versicherungen/danske-bank-daenische-grossbank-uebersteht-negative-zinsen/13524446.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Danske Bank</em><span class="vhb-colon">: </span><span class="vhb-headline">Dänische Großbank übersteht negative Zinsen</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T18:53" class="vhb-time">29.04.16</time><a href="/unternehmen/it-medien/streit-mit-eu-wettbewerbshuetern-google-steuert-auf-erste-strafe-zu/13524396.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Streit mit EU-Wettbewerbshütern</em><span class="vhb-colon">: </span><span class="vhb-headline">Google steuert auf erste Strafe zu</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T18:45" class="vhb-time">29.04.16</time><a href="/unternehmen/banken-versicherungen/kapitalvorgaben-fuer-banken-eu-erwaegt-extra-puffer-auch-fuer-kleinere-institute/13524382.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Kapitalvorgaben für Banken</em><span class="vhb-colon">: </span><span class="vhb-headline">EU erwägt Extra-Puffer auch für kleinere Institute</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T18:18" class="vhb-time">29.04.16</time><a href="/unternehmen/industrie/uniper-verklagt-netzbetreiber-eon-tochter-fordert-mehr-geld-fuer-noteinsaetze/13524330.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Uniper verklagt Netzbetreiber</em><span class="vhb-colon">: </span><span class="vhb-headline">Eon-Tochter fordert mehr Geld für Noteinsätze</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T17:47" class="vhb-time">29.04.16</time><a href="/unternehmen/industrie/merck-chef-kley-uebergibt-an-nachfolger-oschmann/13524154.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Merck-Chef</em><span class="vhb-colon">: </span><span class="vhb-headline">Kley übergibt an Nachfolger Oschmann</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T17:23" class="vhb-time">29.04.16</time><a href="/unternehmen/beruf-und-buero/herrk/der-moderne-mann-man-merkt-dass-man-aelter-wird-wenn/13495788.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Der moderne Mann</em><span class="vhb-colon">: </span><span class="vhb-headline">Man merkt, dass man älter wird, wenn…</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T16:56" class="vhb-time">29.04.16</time><a href="/unternehmen/industrie/nach-druck-der-us-behoerden-daimler-startet-interne-abgas-ermittlungen/13523506.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Nach Druck der US-Behörden</em><span class="vhb-colon">: </span><span class="vhb-headline">Daimler startet interne Abgas-Ermittlungen</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T16:31" class="vhb-time">29.04.16</time><a href="/unternehmen/industrie/exxon-und-chevron-preisverfall-lastet-schwer-auf-den-oelriesen/13523608.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Exxon und Chevron</em><span class="vhb-colon">: </span><span class="vhb-headline">Preisverfall lastet schwer auf den Ölriesen</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T16:27" class="vhb-time">29.04.16</time><a href="/my/unternehmen/management/investmentbank-bemueht-sich-um-staatsfonds-der-chinesische-prinzling/13523412.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Investmentbank bemüht sich um Staatsfonds</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Der chinesische Prinzling</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T15:47" class="vhb-time">29.04.16</time><a href="/unternehmen/banken-versicherungen/postbank-geldhaus-stemmt-sich-mit-sparkurs-gegen-niedrigzinsen/13523140.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Postbank</em><span class="vhb-colon">: </span><span class="vhb-headline">Geldhaus stemmt sich mit Sparkurs gegen Niedrigzinsen</span></a></li><li class="vhb-teaser panel"><time datetime="2016-04-29T15:42" class="vhb-time">29.04.16</time><a href="/unternehmen/handel-konsumgueter/oeko-test-shampoos-gegen-haarausfall-sollen-wirkungslos-sein/13522620.html?nlayer=News_11252000" class="vhb-teaser-link"><em class="vhb-overline">Öko-Test</em><span class="vhb-colon">: </span><span class="vhb-headline">Shampoos gegen Haarausfall sollen wirkungslos sein</span></a></li></ul></div><a href="http://www.handelsblatt.com/ticker/heute/unternehmen" title="Alle Schlagzeilen" class="vhb-teaser-list-small-load-more" target="_self">Alle Schlagzeilen</a></div></div></div></section>
+
+<section style="margin-bottom:30px;">
+
+ <script type="text/javascript" src='http://sentifi.com/engine.js?key=c53684bba7f5761.35379413'></script>
+ <div class="sf_widget_meter" ></div>
+
+</section><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x100") -->
+<div id="iqadtile9" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile9", "iqadtile9");
+		}
+	</script>
+</div>
+
+</div><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-11252006" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11252008&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Videos</a></li><li class="vhb-last"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11252004&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Bilder</a></li></ul></nav></header><div id="vhb-tab-11252006"><div class="vhb-tab-1"><div class="vhb-box-content"><ul class="vhb-teaser-list-small"><li class="vhb-teaser   vhb-type-video" data-vr-contentbox=""><a data-param="/ajaxentry/cache/videolightbox?videoId=13523802" class="vhb-teaser-link ajaxify" data-track-param="Videos_11252008" data-track="lc_video" data-command="openVideoLightbox track" href="/video/unternehmen/tarifstreit-ig-metall-streikt-angebot-eine-provokation/13523802.html?nlayer=Videos_11252008"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/ig-metall-streikt-angebot-eine-provokation/13523800/4-format2006.jpg" alt="IG Metall streikt: Angebot eine &#34;Provokation&#34;" itemprop="url"/><meta content="480" itemprop="width"/><meta content="270" itemprop="height"/><span class="vhb-media"></span></div><div class="vhb-link"><em class="vhb-overline">Tarifstreit</em><span class="vhb-colon">: </span><span class="vhb-headline">IG Metall streikt: Angebot eine "Provokation"</span></div></a></li><li class="vhb-teaser vhb-teaser-last  vhb-type-video" data-vr-contentbox=""><a data-param="/ajaxentry/cache/videolightbox?videoId=13522204" class="vhb-teaser-link ajaxify" data-track-param="Videos_11252008" data-track="lc_video" data-command="openVideoLightbox track" href="/video/unternehmen/sandra-navidi-im-interview-wenn-es-kein-bargeld-gibt-ist-man-den-finanzinstituten-regelrecht-ausgeliefert/13522204.html?nlayer=Videos_11252008"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/wenn-es-kein-bargeld-gibt-ist-man-den-finanzinstituten-regelrecht-ausgeliefert/13522202/4-format2006.jpg" alt="Wenn es kein Bargeld gibt, „ist man den Finanzinstituten regelrecht ausgeliefert“" itemprop="url"/><meta content="480" itemprop="width"/><meta content="269" itemprop="height"/><span class="vhb-media"></span></div><div class="vhb-link"><em class="vhb-overline">Sandra Navidi im Interview</em><span class="vhb-colon">: </span><span class="vhb-headline">Ohne Bargeld „ist man den Finanzinstituten ausgeliefert“</span></div></a></li></ul><a href="/video/unternehmen/" title="Weitere Videos" class="vhb-teaser-list-small-load-more" target="_self">Weitere Videos</a></div></div></div></section><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-6330312" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=6330292&#38;view=show_content_nLayer&#38;odId=&#38;externalURLs=" data-partner-class='null' href='#' >Partner-Datenbank</a></li></ul></nav></header><div id="vhb-tab-6330312"><div class="vhb-tab-1"><div class="vhb-box-content">
+
+<ul class="vhb-teaser-list-small">
+
+ <li class="vhb-teaser">
+
+ <a class="vhb-teaser-link" href="http://www.bestlawyers.com" target="_blank">
+
+ <div class="vhb-media-wrapper"></div>
+
+ <h3>
+
+ <em class="vhb-overline">„Best Lawyers“</em>
+
+ <span class="vhb-headline">Die Top-Wirtschaftsanwälte weltweit</span>
+ </h3>
+ <p class="vhb-teaser-content">Methode „Anwalt empfiehlt Anwalt“: Welche Kanzleien für welches Fachgebiet bei der eigenen Profession hoch im Kurs stehen.</p>
+ </a>
+
+ </li>
+
+</ul>
+
+<iframe height="215" width="300" style="margin-left:-20px;" frameborder="0" src="http://www.bestlawyers.com/Search/Partner/Default.aspx?partner=handelsblatt2"> </iframe></div></div></div></section></aside></div><div class="vhb-flex-item"><aside></aside></div></div><script>
+                if (document.getElementById('vhb-article-area').style.removeProperty) {
+                    document.getElementById('vhb-article-area').style.removeProperty('display');
+                } else {
+                    document.getElementById('vhb-article-area').style.removeAttribute('display');
+                }
+            </script></div><div class="row"><div class="col-md-12"><div class="vhb-article-functions"><div class="row"><div class="col-md-8"><div class="row"><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=facebook" title="Auf Facebook teilen" data-track="asf_facebook" class="vhb-share-socialmedia-facebook ajaxify">Facebook</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-share-text="#Schluss mit #Bio : #McDonald&#39;s schmeißt #McB aus dem #Sortiment" data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=twitter" title="Auf Twitter teilen" data-track="asf_twitter" class="vhb-share-socialmedia-twitter ajaxify">Twitter</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=googleplus" title="Auf Google+ teilen" data-track="asf_googleplus" class="vhb-share-socialmedia-googleplus ajaxify">Google+</a></div><div class="col-md-3 vhb-share-social-media-button"><a data-command="track" data-share-url="http://www.handelsblatt.com/12936600.html" data-count="/ajaxentry/nocache/social?elementId=12936600&action=inc&service=xing" title="Auf Xing teilen" data-track="asf_xing" class="vhb-share-socialmedia-xing ajaxify">Xing</a></div></div></div><div class="col-md-4"><a href="/nutzungsrechte/">Sie wollen unsere Inhalte verwenden? Erwerben Sie hier die Rechte</a></div></div></div></div></div><div class="row"><div class="col-md-8"><section class="vhb-teaser-homepage"><div class="vhb-teaser"><div class="vhb-type-full"><div class="vhb-teaser-overlay"><a class="vhb-link-home" href="/">Startseite</a><a class="vhb-teaser-link" href="/?home_teaser_ds=13518922"><em class="vhb-overline">Hauptversammlung von Berkshire Hathaway</em><span class="vhb-colon">: </span><span class="vhb-headline">Warren Buffett lädt zur Party ein</span></a></div><a class="vhb-teaser-link" href="/?home_teaser_ds=13518922"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/aktionaerstreffen-2015/13519302/3-format2005.jpg" alt="Warren Buffett (l.) und Vertrauter Bill Gates beim Zeitungswerfen in Omaha. Quelle: dpa" itemprop="url"/><meta content="2207" itemprop="width"/><meta content="1469" itemprop="height"/><span class="vhb-media">image</span></div></a></div></div></section></div><aside class="col-md-4"><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x100") -->
+<div id="iqadtile10" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile10", "iqadtile10");
+		}
+	</script>
+</div>
+
+</div></aside></div>
+
+<div class="clearfix"></div>
+
+ <div class="OUTBRAIN ajaxify" data-src="DROP_PERMALINK_HERE" data-widget-id="VR_2"
+ data-ob-template="DE_handelsblatt.com" data-command="setOutbrainUrl" data-param="http://widgets.outbrain.com/outbrain.js"></div>
+
+<div class="OUTBRAIN ajaxify" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2"
+ data-ob-template="DE_handelsblatt.com" data-command="setOutbrainUrl" data-param="http://widgets.outbrain.com/outbrain.js"></div><div class="row"><aside class="col-md-4"><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-12555186" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11468494&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Statistiken zum Thema Unternehmen</a></li></ul></nav></header><div id="vhb-tab-12555186"><div class="vhb-tab-1"><div class="vhb-box-content"><ul class="vhb-teaser-list-small"><li class="vhb-teaser"><a href="http://de.statista.com/statistik/daten/studie/315175/umfrage/ergebnis-von-linkedin-quartalszahken/" title="Gewinn von LinkedIn weltweit bis zum 1. Quartal 2016" class="vhb-teaser-link" target="_blank"><div class="vhb-link"><em class="vhb-overline">Statista</em><span class="vhb-colon">: </span><span class="vhb-headline">Gewinn von LinkedIn weltweit bis zum 1. Quartal 2016</span></div></a></li><li class="vhb-teaser"><a href="http://de.statista.com/statistik/daten/studie/198009/umfrage/umsatz-von-linkedin-quartalszahken/" title="Umsatz von LinkedIn weltweit bis zum 1. Quartal 2016" class="vhb-teaser-link" target="_blank"><div class="vhb-link"><em class="vhb-overline">Statista</em><span class="vhb-colon">: </span><span class="vhb-headline">Umsatz von LinkedIn weltweit bis zum 1. Quartal 2016</span></div></a></li><li class="vhb-teaser"><a href="http://de.statista.com/statistik/daten/studie/70327/umfrage/kredithuerde-fuer-die-gewerbliche-wirtschaft/" title="Kredithürde für die gewerbliche Wirtschaft 2015/2016" class="vhb-teaser-link" target="_blank"><div class="vhb-link"><em class="vhb-overline">Statista</em><span class="vhb-colon">: </span><span class="vhb-headline">Kredithürde für die gewerbliche Wirtschaft 2015/2016</span></div></a></li></ul></div></div></div></section></aside><aside class="col-md-4"><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-12555278" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=12650752&#38;view=show_content_nLayer&#38;odId=&#38;externalURLs=" data-partner-class='null' href='#' >STELLENMARKT</a></li></ul></nav></header><div id="vhb-tab-12555278"><div class="vhb-tab-1"><div class="vhb-box-content">
+
+<div style="max-width: 330px">
+ <div style="background: url('/images/handelsblatt300/8245988/1-formatOriginal.png') 190px 10px no-repeat scroll #fff;">
+ <div style="font-size:13px; max-width: 200px">Mit dem <a style="color: #ee7000;" href="http://jobs.handelsblatt.com"
+ target="_blank">Jobturbo</a> durch-<br/>suchen Sie mehr als 215.000 Stellenanzeigen&nbsp;in 36 deutschen Stellenbörsen. </div>
+ <div>
+ <script type="text/javascript">
+ function j_submit(what) {
+ var input = document.getElementById("beruf");
+ input.value = what;
+ document.forms["jt4_search"].submit();
+ }
+ function j_check() {
+ var input = document.getElementById("beruf");
+ var b = input.value;
+ if (input.value == input.defaultValue) {
+ input.value = '';
+ }
+ }
+ </script>
+ <form action="http://jobs.handelsblatt.com/suchergebnis.aspx" method="get" target="_blank"
+ onsubmit="j_check();" id="jt4_search" class="vhb-form" style="margin: 10px 0 0 0">
+ <input type="hidden" name="idc" value="202"/>
+ <input type="hidden" name="ts" value="false"/>
+ <input type="hidden" name="sm" value="and"/>
+ <input type="hidden" name="ps" value="0"/>
+ <input type="text" style="height: auto; float: left; width: 160px; max-width: 160px; margin: 0; padding: 5px"
+ name="beruf" id="beruf" value="Beruf eingeben"
+ onfocus="if (this.defaultValue == this.value) {this.value = ''}"
+ onblur="if ('' == this.value) {this.value = this.defaultValue}"/>
+ <button type="submit" class="vhb-button vhb-button-white" style="height: 26px; float:right; min-width: 0; width: 88px;">Suchen</button>
+ <div class="clearfix"></div>
+ </form>
+ </div>
+ <table style="width: 100%; font-size: 12px;">
+ <tr>
+ <td colspan="3" style="padding: 10px 0 5px 0; text-transform: uppercase; color: #ee7000; font-size: 12px; border-bottom: 2px solid #ccc;">
+ Diese Jobs suchen die Handelsblatt-Leser:
+ </td>
+ </tr>
+ <tr>
+ <td style="width: 45%; border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Ingenieur');">1. Ingenieur</a>
+ </td>
+ <td style="width: 10%">
+ &nbsp;
+ </td>
+ <td style="width: 45%; border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Bauingenieur');">6. Bauingenieur</a>
+ </td>
+ </tr>
+ <tr>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Geschäftsführer');">2. Geschäftsführer</a>
+ </td>
+ <td>
+ &nbsp;
+ </td>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Marketing');">7. Marketing</a>
+ </td>
+ </tr>
+ <tr>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Financial Analyst');">3. Financial Analyst</a>
+ </td>
+ <td>
+ &nbsp;
+ </td>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Jurist');">8. Jurist</a>
+ </td>
+ </tr>
+ <tr>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Controller');">4. Controller</a>
+ </td>
+ <td>
+ &nbsp;
+ </td>
+ <td style="border-bottom: 1px solid #ccc; padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Volkswirt');">9. Volkswirt</a>
+ </td>
+ </tr>
+ <tr>
+ <td style="padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Steuerberater');">5. Steuerberater</a>
+ </td>
+ <td class="middle v1">
+ &nbsp;
+ </td>
+ <td style="padding: 2px 0;">
+ <a style="cursor: pointer;" onclick="javascript:j_submit('Designer');">10. Designer</a>
+ </td>
+ </tr>
+ </table>
+ </div>
+</div></div></div></div></section></aside><aside class="col-md-4"><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-12659060" ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=12659200&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Partnerangebote</a></li></ul></nav></header><div id="vhb-tab-12659060"><div class="vhb-tab-1"><div class="vhb-box-content"><ul class="vhb-teaser-list-small"><li class="vhb-teaser vhb-teaser-last  vhb-type-teaser" data-vr-contentbox=""><a href="http://www.dub.de/" class="vhb-teaser-link" target="_blank"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/dub-screenshot/3868952/4-format2006.png" alt="Deutsche Unternehmerbörse - Das Fach- und Anzeigenportal für Firmenverkäufe." itemprop="url"/><meta content="982" itemprop="width"/><meta content="754" itemprop="height"/><span class="vhb-media"></span></div><div class="vhb-link"><em class="vhb-overline">Firmenverkauf und -nachfolge</em><span class="vhb-colon">: </span><span class="vhb-headline">Deutsche Unternehmerbörse</span></div></a></li></ul></div></div></div></section></aside></div><div class="row">
+
+<div class="vhb-html-box-wrapper col-md-12">
+
+<script src="/downloads/8050152/1/jquery-cycle-all.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+ $(".slideshow_2050 img").css("display","block");
+ $('.slideshow_2050').cycle({
+ fx: 'fade' 
+ });
+});
+</script>
+
+<style type="text/css">
+
+ .slideshow_2050 img:hover {
+
+ opacity: 0.5;
+
+ transition: opacity 500ms ease-out 0s;
+
+}
+
+.slideshow_2050 img{
+
+display:none;
+
+}
+
+
+
+</style>
+
+ <div class="slideshow_2050" style="width: 930px; margin: 0 auto">
+ <a href="http://tool.handelsblatt.com/infografik/energiewende/" title="Interaktiver Report. Wie eine Katastrophe die Welt verbessert"><img src="/images/slider1/9596510/5-formatOriginal.jpg" width="930" height="200" /></a>
+ <a href="http://tool.handelsblatt.com/infografik/energiewende/" title="Interaktiver Report. Wie eine Katastrophe die Welt verbessert"><img src="/images/slider2/9596512/1-formatOriginal.jpg" width="930" height="200" /></a>
+ <a href="http://tool.handelsblatt.com/infografik/energiewende/" title="Interaktiver Report. Wie eine Katastrophe die Welt verbessert"><img src="/images/slider3/9596514/1-formatOriginal.jpg" width="930" height="200" /></a>
+ <a href="http://tool.handelsblatt.com/infografik/energiewende/" title="Interaktiver Report. Wie eine Katastrophe die Welt verbessert"><img src="/images/slider4/9596506/1-formatOriginal.jpg" width="930" height="200" /></a>
+ <a href="http://tool.handelsblatt.com/infografik/energiewende/" title="Interaktiver Report. Wie eine Katastrophe die Welt verbessert"><img src="/images/slider5/9596508/3-formatOriginal.jpg" width="930" height="200" /></a>
+ </div>
+
+
+
+
+
+
+</div><section data-vr-zone="Highlights-Bühne Homepage" class="vhb-serviceoffer vhb-section-stage col-md-12"><header class="vhb-stage-header vhb-section-stage-header"><span class="vhb-headline"><span>Serviceangebote</span></span></header><ul class="vhb-serviceoffer-list row"><li class="vhb-serviceoffer-list-item col-md-2" data-vr-contentbox=""><a href="http://handelsblatt-onlineservices.de/finance_today/nl/subscribe.php" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/financetoday/3713312/8-format8.png" alt="Handelsblatt: Finance Today Newsletter" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Finance Today Newsletter</div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-vr-contentbox=""><a href="http://www.nl-services.com/subscribe/handelsblatt/hbo/subscribe.php" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/nl_0011_energie/10002878/3-format8.png" alt="Kostenloser Newsletter: Handelsblatt Energie Briefing" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Handelsblatt Energie Briefing</div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-vr-contentbox=""><a href="http://www.handelsblatt.com/finanzen/finanzfuehrerschein/" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/finanzfuehrerschein/3742680/1-format8.gif" alt="Financial Education: Finanzwissen testen und erweitern" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Finanzwissen testen und erweitern</div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2"><!-- size = "150x150") -->
+<div id="iqadtile14" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile14", "iqadtile14");
+		}
+	</script>
+</div>
+
+</li><li class="vhb-serviceoffer-list-item col-md-2" data-vr-contentbox=""><a href="http://www.handelsblattmachtschule.de" class="vhb-serviceoffer-list-item-link" target="_blank"><img src="/images/handelsblatt-macht-schule/4023434/2-format8.jpg" alt="Handelsblatt macht Schule: Wirtschaftsunterricht lebendig und praxisnah." class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Handelsblatt macht Schule </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-vr-contentbox=""><a href="http://karriere.handelsblatt.com/default.aspx?init=HBFinance" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/jobletter-banking-und-finance/6525782/10-format8.png" alt="Newsletter: Jobangebote aus der Finanzbranche" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Jobangebote aus der Finanzbranche</div><p class="vhb-serviceoffer-list-item-text"></p></a></li></ul></section></div><div class="row"><div class="col-md-12"><div class="hcf-sponsoring"><!--size = "930x200")-->
+<div class="vhb-center-iq">
+	<div id="iqadtile15" class="vhb-indicator">
+		<script>
+			if(typeof AdController!=='undefined'){
+				AdController.render("iqadtile15", "iqadtile15");
+			}
+		</script>
+	</div>
+</div></div></div><div class="clearfix"></div></div></div></div><footer class="vhb-page-footer"><div class="col-md-12 vhb-page-footer-navigation-wrapper"><section class="col-md-3 vhb-page-footer-section-overview"><div class="vhb-page-footer-headline">Übersicht</div><ul class="vhb-page-footer-list"><li class="vhb-page-footer-list-item"><a href="http://exklusiv.vhb.de/handelsblatt/digitalpass/" target="_blank">Digitalpass</a></li><li class="vhb-page-footer-list-item"><a href="/finanzen/" target="_self">Finanzen</a></li><li class="vhb-page-footer-list-item"><a href="/unternehmen/" target="_self">Unternehmen</a></li><li class="vhb-page-footer-list-item"><a href="/politik/" target="_self">Politik</a></li><li class="vhb-page-footer-list-item"><a href="/technik/" target="_self">Technik</a></li><li class="vhb-page-footer-list-item"><a href="/auto/" target="_self">Auto</a></li><li class="vhb-page-footer-list-item"><a href="/sport/" target="_self">Sport</a></li><li class="vhb-page-footer-list-item"><a href="/panorama/" target="_self">Panorama</a></li><li class="vhb-page-footer-list-item"><a href="/social-media/" target="_self">Social Media</a></li><li class="vhb-page-footer-list-item"><a href="/video/" target="_self">Video</a></li><li class="vhb-page-footer-list-item"><a href="/service-angebote/" target="_self">Service</a></li></ul></section>
+
+<section class="col-md-3 vhb-page-footer-section-contact">
+
+ <div class="vhb-page-footer-headline">Service</div>
+
+ <ul class="vhb-page-footer-list">
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://redner.handelsblatt.com/" target="_blank">Redner Agentur</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-facebook"><a href="http://www.facebook.com/handelsblatt" target="_blank">Facebook</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-twitter" target="_blank"><a href="http://twitter.com/handelsblatt">Twitter</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-googleplus" target="_blank"><a href="https://plus.google.com/110845203466448026254">Google+</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-email"><a href="/service-angebote/kontakt-hilfe/">Kontakt/Hilfe</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/archiv/" target="_blank">Online-Archiv</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/netiquette/" target="_blank">Netiquette</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/sitemap/" target="_blank">Sitemap</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/nutzungshinweise/" target="_blank">Nutzungshinweise</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-imprint"><a href="/impressum/">Impressum</a></li>
+
+ </ul>
+
+</section>
+
+
+
+<section class="col-md-6 vhb-page-footer-section-links">
+
+ <div class="vhb-page-footer-headline">Links</div>
+
+ <ul class="vhb-page-footer-list col-md-12">
+
+
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://orange.handelsblatt.com/" target="_blank">Orange by Handelsblatt</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://global.handelsblatt.com/" target="_blank">Handelsblatt Global Edition</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.handelsblatt-magazin.com/" target="_blank">Handelsblatt Magazin</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.iqdigital.de/" target="_blank">iqdigital.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://morningbriefing.handelsblatt.com/" target="_blank">Morning Briefing </a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://mittelstand.vhb.de/" target="_blank">Mittelstandsportal</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.handelsblatt.com/archiv/">Online-Archiv</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.vwd.com/" target="_blank">vwd Vereinigte Wirtschaftsdienste</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.datenschutz-berater.de/" target="_blank">Datenschutz-Berater</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.wiwo.de/" target="_blank">WirtschaftsWoche</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.karriere.de/" target="_blank">karriere.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.absatzwirtschaft.de/" target="_blank">Absatzwirtschaft</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.der-betrieb.de/" target="_blank">Der Betrieb</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.zoe-online.org/" target="_blank">OrganisationsEntwicklung</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.iqm.de/Nutzungsbasierte-Onlinewerbung" target="_blank">Nutzungsbasierte Onlinewerbung</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.creditreform-magazin.de/" target="_blank">Creditreform</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.bellevue-ferienhaus.de/" target="_blank">bellevue-ferienhaus.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.boatoon.com/" target="_blank">boatoon.com</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.koffer.de/" target="_blank">koffer.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://veranstaltungen.handelsblatt.com/" target="_blank">Veranstaltungen</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.dub.de/" target="_blank">DUB Unternehmensnachfolge</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.bellevue-kreuzfahrten.de/" target="_blank">bellevue-kreuzfahrten.de</a></li>
+
+ </ul>
+
+</section></div><div class="clearfix"></div><div class="vhb-page-footer-copyright">
+
+<div class="vhb-page-footer-copyright" id="PublisherRef" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+
+<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><a href="/"><img itemprop="url" src="/images/logo_handelsblatt/11002806/7-formatOriginal.png" class="vhb-page-footer-copyright-logo" title="Zurück zur Startseite" alt="Handelsblatt-Logo" /></a><meta itemprop="width" content="274"><meta itemprop="height" content="40"></div><meta itemprop="name" content="Handelsblatt">
+
+<div>© 2016 Handelsblatt GmbH - ein Unternehmen der <a target="_blank" title="Verlagsgruppe Handelsblatt" href="http://www.vhb.de">Verlagsgruppe Handelsblatt GmbH & Co. KG</a></div>
+
+<div>Verlags-Services für Werbung: <a href="http://www.iqdigital.de/" target="_blank">iqdigital.de</a> (<a href="http://www.iqm.de/digital/marken/handelsblatt-online/" target="_blank">Mediadaten</a>) | Verlags-Services für Content: <a href="https://angebot.handelsblatt.com/abo-exklusiv-uebergangsseite.html" target="_blank">Digitale Unternehmens-Lösungen</a></div>
+<div>Realisierung und Hosting der Finanzmarktinformationen: <a href="http://www.vwd.com/" target="_blank">vwd Vereinigte Wirtschaftsdienste GmbH</a></div>
+<div>Verzögerung der Kursdaten: Deutsche Börse 15 Min., Nasdaq und NYSE 20 Min.</div>
+<div>Keine Gewähr für die Richtigkeit der Angaben. Bitte beachten Sie auch: <a href="http://www.iqm.de/digital/nutzungsbasierte_Onlinewerbung/" target="_blank">Nutzungsbasierte Onlinewerbung</a></div>
+</div></div></footer></div><div data-param="http://www.handelsblatt.com?footerhp=scroll" data-command="overscroller" class="vhb-overscroller ajaxify"><a class="vhb-overscroller-link" href="http://www.handelsblatt.com?footerhp=click"></a><div class="vhb-overscroller-overlay"></div><div class="vhb-stage"><div data-progress="0" class="vhb-radial-progress"><div class="vhb-circle"><div class="vhb-mask vhb-full"><div class="vhb-fill"></div></div><div class="vhb-mask vhb-half"><div class="vhb-fill"></div><div class="vhb-fill vhb-fix"></div></div><div class="vhb-shadow"></div></div><div class="vhb-inset"><div class="vhb-caption"><span>Zur Startseite</span></div><div class="vhb-percentage"><div class="vhb-numbers"><span>-</span><span>0%</span><span>1%</span><span>2%</span><span>3%</span><span>4%</span><span>5%</span><span>6%</span><span>7%</span><span>8%</span><span>9%</span><span>10%</span><span>11%</span><span>12%</span><span>13%</span><span>14%</span><span>15%</span><span>16%</span><span>17%</span><span>18%</span><span>19%</span><span>20%</span><span>21%</span><span>22%</span><span>23%</span><span>24%</span><span>25%</span><span>26%</span><span>27%</span><span>28%</span><span>29%</span><span>30%</span><span>31%</span><span>32%</span><span>33%</span><span>34%</span><span>35%</span><span>36%</span><span>37%</span><span>38%</span><span>39%</span><span>40%</span><span>41%</span><span>42%</span><span>43%</span><span>44%</span><span>45%</span><span>46%</span><span>47%</span><span>48%</span><span>49%</span><span>50%</span><span>51%</span><span>52%</span><span>53%</span><span>54%</span><span>55%</span><span>56%</span><span>57%</span><span>58%</span><span>59%</span><span>60%</span><span>61%</span><span>62%</span><span>63%</span><span>64%</span><span>65%</span><span>66%</span><span>67%</span><span>68%</span><span>69%</span><span>70%</span><span>71%</span><span>72%</span><span>73%</span><span>74%</span><span>75%</span><span>76%</span><span>77%</span><span>78%</span><span>79%</span><span>80%</span><span>81%</span><span>82%</span><span>83%</span><span>84%</span><span>85%</span><span>86%</span><span>87%</span><span>88%</span><span>89%</span><span>90%</span><span>91%</span><span>92%</span><span>93%</span><span>94%</span><span>95%</span><span>96%</span><span>97%</span><span>98%</span><span>99%</span><span>100%</span></div></div></div></div><img src="http://www.handelsblatt.com/contentexport/static/images/hp.png"/></div></div><script defer="defer" src="/js/12535788/65/experiments.js" type="text/javascript"></script><script src="/js/11002860/343/base.js" type="text/javascript"></script><script src="/js/10749200/7/bc_it.js" type="text/javascript"></script><script src="/js/3857630/14/BrightcoveExperiences.js" type="text/javascript"></script><script src="/js/13360408/6/iqipadfix.js" type="text/javascript"></script><script src="/js/9816410/1/z_iq-end-of-page-signal.js" type="text/javascript"></script><!-- end adcontroller initializierung -->
+<script type = "text/javascript">
+	if (typeof AdController !== 'undefined') {
+		AdController.finalize();
+	}
+</script></body><!-- ======= This site is powered by: HCF (Holtzbrinck Content Framework), build:6.101.49, h:degtlun5506.server.arvato-systems.de, t:20160501002448 in 108,27ms ======= -->
+   </html>

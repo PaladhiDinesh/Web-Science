@@ -1,0 +1,4 @@
+http://unix.stackexchange.com/questions/1386/comparing-two-files-in-vim
+https://github.com/uolter/PCI/blob/master/chapter8/numpredict.py
+http://stackoverflow.com/questions/6591931/getting-file-size-in-python
+http://stackoverflow.com/questions/18424228/cosine-similarity-between-2-number-lists

@@ -1,0 +1,1442 @@
+ 
+     
+    
+<!DOCTYPE HTML>
+ <html xmlns="http://www.w3.org/1999/xhtml"> 
+     
+<head>
+<meta charset="utf-8"> 
+<title>Donald Trump Sparks Boos at GOP Debate : Related Articles | OOYUZ </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="static/Themes/css/forall.css" rel="stylesheet">
+  <link href="static/Themes/css/newpublisherpage.css" rel="stylesheet">
+<!-- <link href="static/Themes/css/forall.css" rel="stylesheet"> -->
+
+     <link rel="shortcut icon ooyuz" href="static/Themes/image/favicon.ico" > 
+
+    <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+   <link href='http://fonts.googleapis.com/css?family=Coda|Quattrocento+Sans' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+
+  <script src="static/Themes/js/modernizr.js"></script>
+
+      <script src="static/Themes/js/d3.min.js"></script>
+     
+
+    <script>
+$(document).ready(function() {
+    $(".searchtopbutton").click(function () {
+        $(".topbar").slideToggle('slow');
+    
+        if( $(this).text() =='Close'){
+   
+           $(this).text('Search');
+         } else {
+           $(this).text('Close');        
+        }
+    });
+    
+    $(":button").click(function() {
+         
+          var buttvalue = $(this).val();
+      
+          $("#myform").attr("action", buttvalue);
+          });
+})
+
+</script>
+      <script>
+function validateForm() {
+
+    var x = document.forms["myform"]["term"].value;
+    if (x == null || x == ""|| x.length<3) {
+  
+        $('.emm').css("display" ,"block" );
+        return false;
+       
+    }
+}
+     </script>
+ 
+
+</head>
+<body>
+ 
+    <div id="wrapper">
+        
+<div class="searchtop">
+            
+    <div class="logo"><a href="http://www.ooyuz.com">OOYUZ</a><span style="font-size:9px;">beta</span></div>        
+               
+     <div class="tagline">News Search & Analytics</div>  
+
+   <!-- <div class="searchbutt"><button class="searchtopbutton">Close</button> </div> -->       
+
+   <div class="searchbutt"> US Edition</div>      
+
+
+          </div>   
+ <div class="topbar">
+<form id="myform" name="myform" action="" method="get" style="text-align:center;" onsubmit="return validateForm();">
+<input type="text" class= "textar" name="term" size="50" style="margin:auto;" value="" column="80">
+<div class="emm" > Minimum 3 characters required!!</div>
+     
+
+             <button type="submit" value="/newsanalysis">Search</button> 
+                        
+     </form></div>
+        
+  
+
+    <div class="container">
+
+
+ 
+ <div class="content">
+ 
+   <div class="articlewrap">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4422284115"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+   <div class="urlimg"> 
+<img src="http://www.ooyuz.com/images/2016/1/7/1454854163329.jpg" />
+
+   </div>
+
+
+
+
+    <div class="urlcontent">
+     <div class="titleurl"><h1>Donald Trump Sparks Boos at GOP Debate</h1></div>
+          <div class="datesite">Sun Feb 07 04:04:04 EST 2016 | ABC-13   </div>
+
+
+Republican presidential candidate Donald Trump's comments about the audience at the Republican debate prompted a surprising response: a chorus of boos. "That's all of his donors and special interests out there," Trump said when the crowd responded to a jab from Jeb Bush on eminent domain. "Donors, special interests -- the people that are putting up the money," Trump said. "The reason they're not loving me is I don't want their money." Recent federal filings show that Trump has been funding a sub..
+    </br>
+ 
+ <div class="urltags">
+
+ 
+
+<a href="http://www.ooyuz.com/newsarticles?term=new hampshire" target="_blank" >  new hampshire </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=trump" target="_blank" >  trump </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=android" target="_blank" >  android </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=download abc news" target="_blank" >  download abc news </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=abc news" target="_blank" >  abc news </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=donald trump" target="_blank" >  donald trump </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=jeb bush" target="_blank" >  jeb bush </a>
+
+
+
+
+
+</div>
+ <div class="readarticle"><a target="_blank" href='http://abc13.com/news/donald-trump-sparks-boos-at-gop-debate/1190309/' rel="nofollow"> Read Article </a>  </div>
+      
+      
+      </div>
+     <div class="advert" style="margin-bottom:20px;">
+        
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuzvertical responsive ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="8852483711"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        
+    </div>  
+<div class="popularitywrap">
+      <div class="sharing">Popularity on Social media</div>
+
+<div class="urlsocialcount">
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/facebook.png">
+</div>
+<div class="facebookcc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/twitter.png">
+</div>
+<div class="twittercc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/linkedin.png">
+</div>
+<div class="linkedincc innersocialcount">NA</div>
+</div>
+<div class="f"></div>
+</div>
+          </div>   </div>
+        
+ 
+        
+        
+<div class="sidebarurl">
+
+
+    <div class="keywordrelated">Related Keywords</div>
+<div class="relatedkeyword">
+
+ 
+
+<a href="/newsanalysis?term=new hampshire" target="_blank" >  new hampshire </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=donald trump" target="_blank" >  donald trump </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=saturday" target="_blank" >  saturday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=iowa" target="_blank" >  iowa </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=gop" target="_blank" >  gop </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=tuesday" target="_blank" >  tuesday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=marco rubio" target="_blank" >  marco rubio </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=ted cruz" target="_blank" >  ted cruz </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=atlantic city" target="_blank" >  atlantic city </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=monday" target="_blank" >  monday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=florida gov. jeb bush" target="_blank" >  florida gov. jeb bush </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=feb." target="_blank" >  feb. </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=ben carson" target="_blank" >  ben carson </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=john kasich" target="_blank" >  john kasich </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=barbara bush" target="_blank" >  barbara bush </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=hillary clinton" target="_blank" >  hillary clinton </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=manchester" target="_blank" >  manchester </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=david muir" target="_blank" >  david muir </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=hanover inn" target="_blank" >  hanover inn </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=martha raddatz" target="_blank" >  martha raddatz </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=texas" target="_blank" >  texas </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=republican national committee" target="_blank" >  republican national committee </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=chris christie" target="_blank" >  chris christie </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=et" target="_blank" >  et </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=president george w. bush" target="_blank" >  president george w. bush </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=android" target="_blank" >  android </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=new york" target="_blank" >  new york </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=download abc news" target="_blank" >  download abc news </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=sunday" target="_blank" >  sunday </a>
+ 
+ 
+
+
+
+
+</div> </div>
+   
+		<div class="fullcoverage">
+       
+         
+        
+		</div>
+
+  <div class="urlarticlecluster">
+
+  <div class="advert" style="margin-bottom:20px;">
+        
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuzresponsive urlpage vertical -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4235860510"
+     data-ad-format="vertical"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        
+    </div>
+
+
+ 
+    
+        <div class="urlarticleparent" id="10292496" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454825396425.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10292496">Trump booed for saying audience full of &#039;donors and special interests&#039;</a>  <div class="sourcename">-The Hill </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump was booed loudly during the Republican debate when he claimed the audience was stacked with Jeb Bush's donors and special interests. "That's all of his donors and spec..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10292496"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291635" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454822435426.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291635">Jeb Bush, Debate Audience Destroy Donald Trump for Loving Eminent Domain</a>  <div class="sourcename">-Reason </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump still supports eminent domain—the government-backed confiscation of private property—but his stance earned a harsh rebuke from Jeb Bush and a round of boos from the au..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291635"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10292201" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454824557308.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10292201">Donald Trump, Jeb Bush spar on eminent domain - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+Real-estate mogul Donald Trump confronted a Republican debate audience that repeatedly booed him during an exchange with former Florida Gov. Jeb Bush (R). Their sparring come over ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10292201"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10290954" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454813104901.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10290954">Debate Crowd Boos Trump, He Slaps Back: That’s All of (Jeb’s) Donors and Special Interests’</a>  <div class="sourcename">-Mediaite </div>
+				</div>
+				<div class="urlarticlechild">
+Saturday night’s Mortal Kombat at the Republican presidential debate extended beyond the candidates, and into the debate audience. During a question about the use of eminent domain..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10290954"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291191" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454814107110.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291191">Donald Trump Sparks Boos at GOP Debate - ABC News</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+"That's all of his donors and special interests out there," Trump said when the crowd responded to a jab from Jeb Bush on eminent domain. "Donors, special interests -- the people t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291191"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291067" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454813492398.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291067">GOP Debate: Donald Trump Booed After Insulting Jeb Bush (Live Updates)</a>  <div class="sourcename">-The Hollywood Reporter </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump got a lot of boos Saturday night during the GOP primary presidential debate when he told fellow candidate Jeb Bush to be quiet, and then said those in the crowd who di..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291067"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291202" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454814205453.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291202">Donald Trump Gets Booed, Then Attacks Debate Crowd for Being Filled With ‘Donors and Special Interests’</a>  <div class="sourcename">-The Blaze </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump got booed three times in rapid succession during an exchange with Jeb Bush over eminent domain — a wildly unpopular process in New Hampshire. When asked to explain his..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291202"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10294286" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454854163329.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10294286">Donald Trump Sparks Boos at GOP Debate</a>  <div class="sourcename">-ABC-13 </div>
+				</div>
+				<div class="urlarticlechild">
+Republican presidential candidate Donald Trump's comments about the audience at the Republican debate prompted a surprising response: a chorus of boos. "That's all of his donors an..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10294286"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10294350" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454854320091.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10294350">Donald Trump Sparks Boos at GOP Debate | abc7news.com</a>  <div class="sourcename">-ABC7 News </div>
+				</div>
+				<div class="urlarticlechild">
+Republican presidential candidate Donald Trump's comments about the audience at the Republican debate prompted a surprising response: a chorus of boos. "That's all of his donors an..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10294350"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10276471" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454705022300.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10276471">Jeb Bush trolls Donald Trump on Twitter for canceling campaign event due to New Hampshire snow</a>  <div class="sourcename">-Miami Herald </div>
+				</div>
+				<div class="urlarticlechild">
+@PatriciaMazzei Donald Trump took a snow day from the presidential campaign trail in New Hampshire, calling off an event because he couldn't fly into the state. (Trump likes to fly..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10276471"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10318584" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/9/1455017438163.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10318584">New Hampshire primary: Donald Trump and Bernie Sanders aiming for first state victories in presidential campai..</a>  <div class="sourcename">-The Independent </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump and Bernie Sanders were expected to win the&nbsp;New Hampshire&nbsp;primary today as the presidential nomination race continues. Here are the latest updates: &nbsp; &n..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10318584"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10296163" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454868075487.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10296163">Eminent Domain: Donald Trump and Jeb Bush Argue</a>  <div class="sourcename">-Inquisitr </div>
+				</div>
+				<div class="urlarticlechild">
+The question of eminent domain came up during last night’s Republican debate, held in New Hampshire. To the amusement and dismay of the audience, Trump and Cruz went at it, arguing..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10296163"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10265169" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454643590061.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10265169">ABC News Announces New Hampshire Republican Debate Candidate Lineup - ABC News</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+ABC News is unveiling its candidate lineup for Saturday night's Republican presidential debate in Manchester, New Hampshire. The debate is slated for Saturday, Feb. 6, and coverage..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10265169"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10268747" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10268747">ABC News Hosts “New Hampshire: The Republicans Debate” in Partnership with WMUR, Independent Journal Review, R..</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+Primetime Coverage Starts Saturday,&nbsp;February 6, 2016&nbsp;at 8:00 p.m., ET in Manchester, New Hampshire &nbsp;ABC News is partnering with ABC affiliate&nbsp;WMUR, Independent ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10268747"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10316828" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/9/1454998285231.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10316828">Donald Trump attacks Jeb Bush before New Hampshire primary - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+Real-estate magnate Donald Trump has been firing attacks at former Florida Gov. Jeb Bush (R) throughout the day Monday, a day before the all-important New Hampshire presidential pr..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10316828"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10316610" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/9/1454998045737.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10316610">Donald Trump goes off on Jeb Bush in New Hampshire - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+REUTERS/Jim BourgDonald Trump.Real-estate mogul Donald Trump had former Gov. Jeb Bush of Florida on his mind at a Monday-morning campaign event. "He's a total stiff, Jeb Bush," Tru..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10316610"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10238704" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454525703656.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10238704">Jeb Bush to unimpressed New Hampshire crowd: ‘Please clap’</a>  <div class="sourcename">-Boston.com </div>
+				</div>
+				<div class="urlarticlechild">
+Jeb Bush is going to need more than an exclamation point at the end of his name to generate excitement in New Hampshire. During a speech at the Hanover Inn on Tuesday, Bush’s “fier..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10238704"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10260975" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454628382459.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10260975">Jeb Bush to New Hampshire crowd: 'Please clap'</a>  <div class="sourcename">-Chron </div>
+				</div>
+				<div class="urlarticlechild">
+Former Florida governor Jeb Bush did not walk away from the Iowa caucus a winner, and it doesn't look like he's winning with New Hampshire crowds either. As seen in video from a sp..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10260975"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10331996" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/9/1455073798182.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10331996">Donald Trump, Bernie Sanders take New Hampshire, with Jeb Bush fighting for third</a>  <div class="sourcename">-Tampa Bay Times </div>
+				</div>
+				<div class="urlarticlechild">
+MANCHESTER, N.H. Donald Trump stormed back into the national spotlight by winning the New Hampshire primary Tuesday, while Democrat Bernie Sanders avenged his narrow Iowa loss to H..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10331996"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10310218" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/8/1454967418243.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10310218">How Jeb Bush Finally Landed a Punch on Donald Trump</a>  <div class="sourcename">-TIME </div>
+				</div>
+				<div class="urlarticlechild">
++ READ ARTICLE After failing for months to land a punch against Donald Trump, former Florida Governor Jeb Bush appears at last to have discovered the real estate mogul’s Kryptonite..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10310218"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10246470" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454552472209.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10246470">Jeb Bush to New Hampshire audience: 'Please clap'</a>  <div class="sourcename">-Chicago Tribune </div>
+				</div>
+				<div class="urlarticlechild">
+Jeb Bush has now asked an audience to applaud for him. Bush delivered a speech in Hanover, N.H., in which he said the next president "needs to be a lot quieter, but send a signal t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10246470"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10241922" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454536436152.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10241922">Crunch Time: What GOP Candidates Need to Prove at the New Hampshire Debate - ABC News</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+Iowa has sent New Hampshire voters a gift, of sorts: a slightly winnowed field. Rand Paul’s departure this morning marked the third campaign to call it quits since the caucuses. Bu..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10241922"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10314536" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/8/1454985147039.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10314536">Donald Trump throws Jeb Bush a curve on eminent domain</a>  <div class="sourcename">-Miami Herald </div>
+				</div>
+				<div class="urlarticlechild">
+The presidential campaign has taken an unlikely turn in a dispute between Republican rivals Donald Trump and Jeb Bush that now reaches into Texas. In Saturday night’s GOP debate, B..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10314536"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10298037" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454887549731.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10298037">Donald Trump, Jeb Bush, Eminent Domain, and the Keystone XL Pipeline,</a>  <div class="sourcename">-Reason </div>
+				</div>
+				<div class="urlarticlechild">
+There's no question that one of the most memorable exchanges in last night's GOP debate in New Hampshire came over the question of eminent domain, the constitutionally sanctioned t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10298037"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10280219" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454718980632.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10280219">Barbara Bush Brings Her Flair to Jeb's New Hampshire Campaign - ABC News</a>  <div class="sourcename">-ABC News </div>
+				</div>
+				<div class="urlarticlechild">
+As Barbara Bush hits the trail for her son, Jeb, the former First Lady is campaigning for the first time in almost a decade. With her visit comes a new jolt of life into her son’s ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10280219"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10284290" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454746861408.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10284290">Jeb Bush brings Barbara Bush out on trail - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+MANCHESTER, N.H. (Reuters) - Jeb Bush brought out his famous family four days before the crucial U.S. presidential primary in New Hampshire, tapping his mother on Friday to scold R..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10284290"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291935" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454823572488.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291935">GOP Debate: Donald Trump Takes Shots at Jeb Bush, Picks Panthers to Win Super Bowl</a>  <div class="sourcename">-The Hollywood Reporter </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump got boos Saturday night during the GOP primary presidential debate when he told fellow candidate Jeb Bush to be quiet, and then said those in the crowd who did not lik..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291935"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10291491" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/7/1454822034350.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10291491">Donald Trump shushes Jeb Bush, gets booed at GOP debate</a>  <div class="sourcename">-Boston.com </div>
+				</div>
+				<div class="urlarticlechild">
+Donald Trump took the rare step of criticizing the audience at hand at the Republican debate in New Hampshire on Saturday night. The billionaire businessman had just said he approv..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10291491"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10240262" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454531303518.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10240262">Jeb Bush Asks N.H. Audience to 'Please Clap'</a>  <div class="sourcename">-NBC Bay Area </div>
+				</div>
+				<div class="urlarticlechild">
+Speaking about how he'd lead the United States military as president, Jeb Bush put his leadership skills to the test, imploring an audience in New Hampshire for a round of applause..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10240262"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10278585" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454714490350.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10278585">Donald Trump Actually Learned A Lesson — Find Out Why The Presidential Candidate Says He'll Attend The Next GO..</a>  <div class="sourcename">-Perez Hilton </div>
+				</div>
+				<div class="urlarticlechild">
+What a difference a caucus makes! After coming in second in the Iowa caucus earlier this week, it appears Donald Trump is starting to realize it's important not to shoot the messen..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10278585"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10236995" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454521380050.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10236995">Jeb Bush Has to Tell New Hampshire Crowd ‘Please Clap’</a>  <div class="sourcename">-Mediaite </div>
+				</div>
+				<div class="urlarticlechild">
+Poor&nbsp;Jeb Bush; the Republican presidential contender had to tell the audience of a New Hampshire event&nbsp;when they were supposed to clap during his speech Tuesday. Speaking..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10236995"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10237788" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10237788">Jeb Bush to New Hampshire crowd: Message: Please Care.</a>  <div class="sourcename">-Red  State </div>
+				</div>
+				<div class="urlarticlechild">
+When George H. W. Bush feeling the pressure in New Hampshire in 1992, his campaign decided that he wasn’t giving the impression that he cared about ordinary folks. He had the probl..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10237788"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10290432" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/6/1454811460940.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10290432">Live Blog: GOP New Hampshire Debate | Variety</a>  <div class="sourcename">-Variety </div>
+				</div>
+				<div class="urlarticlechild">
+Perhaps no other GOP debate this cycle has higher stakes than the New Hampshire debate on Saturday, sponsored by ABC News. It is one of their last big chances for the candidates to..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10290432"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10265825" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454649935196.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10265825">Barbara Bush Campaigns for Jeb in New Hampshire</a>  <div class="sourcename">-TIME </div>
+				</div>
+				<div class="urlarticlechild">
+In the toughest fight he’s ever faced, former Florida Gov. Jeb Bush summoned reinforcements to his side in ground-zero New Hampshire on Thursday: his mom. Former First Lady Barbara..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10265825"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10267510" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454654275553.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10267510">Jeb Bush Campaigns With Mom in New Hampshire</a>  <div class="sourcename">-NBC Bay Area </div>
+				</div>
+				<div class="urlarticlechild">
+Barbara Bush, right, mother of Republican presidential candidate, former Florida Gov. Jeb Bush, left, introduces her son at a town hall meeting at West Running Brook Middle School ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10267510"> More </a> </div>
+
+	    </div>
+	       
+</div>
+
+
+
+ </div> <!--content -->
+
+
+<script type="text/javascript">
+function CommaSeperatedCount(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+  
+ $(document).ready(function () {
+
+
+    var loadurl = "http://abc13.com/news/donald-trump-sparks-boos-at-gop-debate/1190309/" ;
+
+
+  $.getJSON('http://cdn.api.twitter.com/1/urls/count.json?url=' + loadurl  + '&callback=?', function (twitdata) {
+    }).done(function(twitdata){
+        if(typeof(twitdata.count) != "undefined")
+        {
+          twitcount = CommaSeperatedCount(twitdata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+          $(".twittercc").html(twitcount);
+           // this.find(".twittercc").html(twitcount);
+         }else{
+//                     this.find(".twittercc").html("0");
+          $(".twittercc").html("0");
+         }
+
+    });
+
+
+
+         $.getJSON( 'http://www.linkedin.com/countserv/count/share?url=' + loadurl + '&callback=?', function( linkdindata ) {
+      }).done(function(linkdindata){
+ if(typeof(linkdindata.count) != "undefined")
+        {
+          linkedincount = CommaSeperatedCount(linkdindata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+           $(".linkedincc").html(linkedincount);
+         }else{
+           $(".linkedincc").html("0");
+
+         }
+    });
+
+
+  $.getJSON('http://graph.facebook.com/?id=' + loadurl, function (fbdata) {
+    }).done(function(fbdata){
+         if(typeof(fbdata.shares) != "undefined")
+        {
+          fbcount = CommaSeperatedCount(fbdata.shares);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+           $(".facebookcc").html(fbcount);
+         }else{
+
+  $(".facebookcc").html("0");
+         }
+
+    });
+
+ 
+});
+
+</script>
+
+
+
+
+ </div>
+    
+
+<div class="sharingbuttons">
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-3d619562-d93f-f384-64f7-67d3c848bd2", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
+<span class='st_sharethis_large' displayText='ShareThis'></span>
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' st_via="OOYUZ" displayText='Tweet'></span>
+<span class='st__large' displayText=''></span>
+<span class='st_reddit_large' displayText='Reddit'></span>
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+<span class='st_email_large' displayText='Email'></span>
+
+
+</div>
+
+
+<footer>
+<div class="foot">  
+ <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55076069-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+     OOyuz :
+<a href="privacy-policy">Privacy Policy </a> 
+<a href="terms-and-conditions">Terms & Conditions</a>
+<a href="http://tech.ooyuz.com/about-ooyuz/">About</a>
+<a href="http://tech.ooyuz.com/contact-us/">Contact</a>
+
+
+
+
+</div>
+
+<div class="foot">
+    Learn More :
+<a href="http://tech.ooyuz.com/articles-by-publisher/">Publisher Analysis</a> 
+<a href="http://tech.ooyuz.com/timeline-analysis-for-an-article/">Timeline Analysis</a>
+<a href="http://tech.ooyuz.com/social-media-analysis-of-news-articles/">Social Media Analysis</a>
+<a href="http://tech.ooyuz.com/effective-news-reading-with-ooyuz-clustering-algorithm/">Cluster Analysis</a>
+
+</div>
+    
+<div class="foot">
+    Copyright @ooyuz.com 
+
+</div>
+
+</footer>
+       
+       <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script> 
+       </div>
+</body>
+</html>

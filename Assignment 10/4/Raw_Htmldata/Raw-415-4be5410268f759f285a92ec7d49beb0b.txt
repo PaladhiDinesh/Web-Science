@@ -1,0 +1,1134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>		
+	<title>Walmart Opens OneOps Cloud Management to the Masses | Software | TechNewsWorld</title>
+	<meta name="title" content="Walmart Opens OneOps Cloud Management to the Masses" />
+	<meta name="description" content="Walmart on Tuesday announced that it has posted the code for its OneOps cloud application life cycle management platform on GitHub. The company developed OneOps for building and launching cloud applications across frequently changing storage environments. It lets e-commerce vendors deploy apps on platforms from Microsoft, Rackspace and CenturyLink to OpenStack private or hybrid environments." />
+	<meta name="keywords" content="e-commerce" />
+	<link rel="shortcut icon" href="/images/tnw_favicon.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/perl/syndication/rssfull.pl" />
+	<link rel="alternate" type="application/rss+xml" title="Podcasts" href="http://www.ectnews.com/data/podcast.xml" />
+	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1;" />
+	<meta name="viewport" content="width=device-width, maximum-scale=1" />
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="/shared/general.css" />
+	<link rel="stylesheet" type="text/css" media="screen"  title="screensheet" href="/shared/tnwscreen.css" />
+	<link rel="stylesheet" type="text/css" href="/shared/mobilescreen.css" media="only screen and (max-width:480px)" />
+
+	<link rel="alternate stylesheet" type="text/css" media="screen" title="printsheet" href="/shared/print.css" />
+	<link rel="stylesheet" type="text/css" media="print"  href="/shared/general.css" />
+	<link rel="stylesheet" type="text/css" media="print"  href="/shared/print.css" />
+	<link rel="stylesheet" href="/shared/ajax/colorbox/colorbox.css" type="text/css" />
+	<link rel="stylesheet" href="/shared/ajax/ui-lightness/jquery-ui-1.10.3.custom.min.css" type="text/css" />
+	<link rel="image_src" href="http://www.linuxinsider.com/ai/470100/walmart.jpg" />
+
+	<script type="text/javascript" src="http://www.ectnews.com/shared/ajax/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="http://www.ectnews.com/shared/ajax/jquery-ui-1.10.3.custom.min.js"></script>
+	<script type="text/javascript" src="http://www.ectnews.com/shared/ajax/colorbox/jquery.colorbox-min.js"></script>
+	<script type="text/javascript" src="http://www.ectnews.com/shared/general-jquery.js"></script>
+	<script>window.twoOhSixId = 'technewsworld.com';</script>
+	<script src='//s.206ads.com/init.js'></script>
+		<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-9357282-1');
+	ga('send', 'pageview');
+	</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript"><!--//<![CDATA[
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=502379303161829";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));//]]>//--></script>
+
+
+
+
+	<!--ps: 200 crid: 8729:1-instaleads-tnw-topnav-1 cc:us s_c:-->
+	<style type="text/css">
+div#tnavad a, div#tnavad a:visited, div#tnavad a:hover { color: #0000ff !important; }
+</style>
+<div id="tnavad" style="background-color:#f3f3f3;font-size:14px;"><a href="" onclick=" { ENN_ad_wo(8729,'14620543983942','http://www.technewsworld.com/'); return false; }" onmouseover="status='/perl/ratecard.pl?lead_gen=1'; return true;" onmouseout="status=''; return true;"   >Attention B2B Marketers: Access 30 Million IT Decision Makers with a Custom Lead Generation Program · Click to Learn More!</a></div>
+	<img class="ct-8729-1-instaleads-tnw-topnav-1" src="/adsys/count/8729/?nm=1-instaleads-tnw-topnav-1&amp;ENN_rnd=14620543983942&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 200 crid: 8729:1-instaleads-tnw-topnav-1 cc:us-->
+	
+	<span class="pid" id="pid200" title="1:24"></span>
+<div id="tnav">
+
+	<div id="top-sitelinks" style="float:right">
+	<a href="http://www.ecommercetimes.com/">E-BUSINESS</a> | <a href="http://www.technewsworld.com/">TECHNOLOGY</a> |  <a href="http://www.crmbuyer.com/">CRM</a> | <a href="http://www.linuxinsider.com/">LINUX</a> | <a href="http://www.ectnews.com/" id="toprow-ennlink">ECTNEWS.COM</a>
+	</div>
+	Welcome Guest | <a href='/perl/User.pl'>Sign In</a>
+</div>
+<div id="container-outer">
+<div id="container">
+<script type="text/javascript" language="JavaScript"><!--//<![CDATA[
+ENN_site = 'tnw';
+//]]>//--></script>
+
+<div id="toprow">
+
+	<a href="/"><img src="/images/2014/tnw-logo.png"  border="0" align="left" alt="TechNewsWorld.com" /></a>
+
+	<div id="adtitle" class="adtitle" style="padding-top:13px">
+	
+	<!--ps: 65 crid: 9646:a-stamps_endicia_am_728-1 cc:us s_c:8729-->
+	<a href="" onclick=" { ENN_ad_wo(9646,'14620543987120','http://www.ectnews.com/'); return false; }" onmouseover="status='http://www.endicia.com/landing-pages/avoid-hidden-fees?referredby=va27&amp;utm_source=ectnews&amp;utm_medium=display&amp;utm_content=free%20white%20paper%20avoid%20hidden%20fees&amp;utm_campaign=728x90'; return true;" onmouseout="status=''; return true;"   ><img src="/images/sda/endicia_728x90_wp1.jpg" width="728" height="90" border="0" alt="Endicia White Paper: Avoid Hidden Fees" /></a>
+	<img class="ct-9646-a-stamps_endicia_am_728-1" src="/adsys/count/9646/?nm=a-stamps_endicia_am_728-1&amp;ENN_rnd=14620543987120&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 65 crid: 9646:a-stamps_endicia_am_728-1 cc:us-->
+	
+	</div>
+	
+</div>		
+<div class="printlogo"><a href="/"><img id="printlogo" src="/images/2014/tnw-logo.png" border="0" alt="" /></a></div>
+
+<div id="topwrapper">
+<div id="infospace">
+	<div class="shim">
+	<div id="infoslogo" style="display:none;float:left;">
+	<a href="/"><img src="/images/2014/260x40-tnw.gif" width="260" height="40" border="0" /></a>
+	</div>
+	<form class="searchspace" method="get" action="/perl/search.pl" >
+	<input type="image" class="searchbutton" src="/images/2014/magnifying-glass_23x19.png" alt="Search" /> <input type="text" id="sitesearch" name="query" class="searchbox" />
+	<div class="auto_complete" id="sitesearch_auto_complete"></div>
+	</form>
+	<a class="infospace-link" href="/perl/section/open-source-software/">Software</a>
+	</div>
+</div>
+
+	<div id="topmenubar">
+	<div id="topmenubar-shim" class="shim">
+	<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/computing/">Computing</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/software/">Applications</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/data-management/">Data Management</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/hardware/">Hardware</a>
+			<ul>
+			<li><a href="http://www.technewsworld.com/perl/section/chips/">Chips</a></li>
+			<li><a href="http://www.technewsworld.com/perl/section/personal-computers/">Personal Computers</a></li>
+			<li><a href="http://www.technewsworld.com/perl/section/servers/">Servers</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.technewsworld.com/perl/section/operating-systems/">Operating Systems</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/internet/">Internet</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/internet-of-things/">Internet of Things</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/online-entertainment/">Online Entertainment</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/search-tech/">Search Tech</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/social-networking/">Social Networking</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/web-apps/">Web Apps</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/IT/">IT</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/developers/">Developers</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/it-leadership/">IT Leadership</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/network-management/">Network Management</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/mobile-tech/">Mobile Tech</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/mobile-apps/">Mobile Apps</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/smartphones/">Smartphones</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/tablets/">Tablets</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/wearable-tech/">Wearable Tech</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/wireless-networking/">Wireless Networking</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/reviews/">Reviews</a></li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/tech-security/">Security</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/cyber-security/">Cybersecurity</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/hacking/">Hacking</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/viruses-malware/">Malware</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/privacy/">Privacy</a></li>
+		</ul>
+	</li>
+
+	<li><a href="http://www.technewsworld.com/perl/section/technology/">Technology</a>
+		<ul>
+		<li><a href="http://www.technewsworld.com/perl/section/audio-video/">Audio/Video</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/emerging-tech/">Emerging Tech</a>
+			<ul>
+			<li><a href="http://www.technewsworld.com/perl/section/virtual-reality/">Virtual Reality</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.technewsworld.com/perl/section/gaming/">Gaming</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/home-tech/">Home Tech</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/how-to/">How-To</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/photography/">Photography</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/science/">Science</a>
+			<ul>
+			<li><a href="http://www.technewsworld.com/perl/section/med-tech/">Health</a></li>
+			<li><a href="http://www.technewsworld.com/perl/section/space/">Space</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.technewsworld.com/perl/section/tech-buzz/">Tech Buzz</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/law/">Tech Law</a></li>
+		<li><a href="http://www.technewsworld.com/perl/section/transportation/">Transportation</a></li>
+		</ul>
+	</li>
+	<li><a href="/perl/section/tech-blog/">Tech Blog</a></li>
+	<li style="float: right; width: auto;">&nbsp;Reader Services&nbsp;
+	<ul>
+	<li><a href="http://www.ectnews.com/perl/User.pl">Account Management</a></li>
+	<li><a href="http://www.ectnews.com/perl/board/mboard.pl">Discussion</a></li>
+	
+	<li><a href="http://www.ectnews.com/about/newsalerts/">News Alerts</a></li>
+	<li><a href="http://www.ectnews.com/perl/newsletter_registration.pl">Newsletters</a></li>
+	<li><a href="/perl/surveys">Reader Surveys</a></li>
+	<li><a href="http://www.ectnews.com/about/link-to-us.xhtml#rss">RSS / <img style="vertical-align:middle" src="/images/2004/xml_36x14.gif" border="0" alt='XML' /> Headline Feeds</a></li>
+	
+	
+	
+	<li><a href="http://www.ectnews.com/perl/search.pl">Search ECT News Network</a></li>
+	<li class="hrule"></li>
+	<li><a href="http://www.ectnews.com/about/network_map.xhtml">ECT News Network Map</a>
+		<ul>
+		<li><a href="http://www.crmbuyer.com/site_map/">CRM Buyer Site Map</a></li>
+		<li><a href="http://www.ecommercetimes.com/site_map/">E-Commerce Times Site Map</a></li>
+		<li><a href="http://www.linuxinsider.com/site_map/">LinuxInsider Site Map</a></li>
+		<li><a href="http://www.technewsworld.com/site_map/">TechNewsWorld Site Map</a></li>
+		</ul>
+	</li>
+	</ul>
+</li>
+
+
+	<li style="float: right;">|</li>
+	<li style="float: right;"><a href="/buyers_guide.xhtml">Software Buyers Guide</a></li>
+	</ul>
+	</div>
+	</div>
+	<script type="text/javascript" language="JavaScript"><!--//<![CDATA[
+	new ENN_menu(document.getElementById("topmenubar-shim"));
+	//]]>//--></script>
+</div>
+
+
+<div id="middlewrapper">
+<div id="breadcrumb">
+<!--<div id="snav" style=""><a href="/perl/board/mboard.pl/">DISCUSSION</a> | <a href="/perl/newsletter_registration.pl/">NEWSLETTERS</a> | <a href="http://www.ectnews.com/perl/User.pl/">ACCOUNT MGMT</a></div>-->
+<div id="snav" style="">April 30, 2016 03:13:18 PM PDT</div>
+
+
+	<!-- bc -->
+	<span id="bcdata">
+	<a href="/">TechNewsWorld</a> &gt; <a href="/perl/section/open-source-software/">Software <!--lin--></a>
+	| <strong><a href="/story/open-source-software/83031.html">Next Article in Software</a></strong>
+	</span>
+	<!-- /bc -->
+	
+</div>
+<!-- [% IF !NO_PRINTER_COPYRIGHT %] -->
+<script type="text/javascript"><!--//<![CDATA[
+document.write('<div class="printer-copyright">');
+document.write('Please note that this material is copyright protected. It is illegal to display or reproduce this article without permission for any commercial purpose, including use as marketing or public relations literature. ');
+document.write('To obtain reprints of this article for authorized use, please call a sales representative at (818) 461-9700 or visit <a href="http://www.ectnews.com/about/reprints/">http://www.ectnews.com/about/reprints/</a>.');
+document.write('</div>');
+//]]>//--></script>
+<!-- [% END %] -->
+
+
+
+<div id="content-main">
+	<div class="content-block">
+		<!-- content-main -->
+	<div id="story">
+
+<h1 class="title">Walmart Opens OneOps Cloud Management to the Masses</h1>
+ 
+<div id="story-byline">
+	<!--byline-->By Jack M. Germain <span class="byline-sep">&bull;</span> <a href="http://www.linuxinsider.com">LinuxInsider</a>  <span class="byline-sep">&bull;</span> <a href="http://www.ectnews.com/">ECT News Network</a><!--/byline-->
+	<br />
+	<!--date-->Jan 28, 2016 1:19 PM PT<!--/date-->
+	</div>
+<script type="text/javascript"><!--//<![CDATA[
+	var ENN_sc_u = 'http://www.technewsworld.com/story/83046.html';
+	var ENN_sc_t = 'Walmart%20Opens%20OneOps%20Cloud%20Management%20to%20the%20Masses';
+	var ENN_sc_b = 'Walmart%20on%20Tuesday%20announced%20that%20it%20has%20posted%20the%20code%20for%20its%20OneOps%20cloud%20application%20life%20cycle%20management%20platform%20on%20GitHub.%20The%20company%20developed%20OneOps%20for%20building%20and%20launching%20cloud%20applications%20across%20frequently%20changing%20storage%20environments.%20It%20lets%20e-commerce%20vendors%20deploy%20apps%20on%20platforms%20from%20Microsoft,%20Rackspace%20and%20CenturyLink%20to%20OpenStack%20private%20or%20hybrid%20environments.';
+	ENN_a_sview('jack_m_germain',83046);
+	//]]>//--></script>
+
+
+<div id="story-body"><p class="story-body"><a href="http://www.walmart.com" target="_blank">Walmart</a> on Tuesday announced that it has posted the code for its
+
+<a href="http://oneops.com/" target="_blank">OneOps</a> cloud application life cycle management platform on GitHub.</p>
+<img src="/ai/470100/walmart.jpg" alt="Walmart Opens OneOps Cloud Management to the Masses" class="story-image" width='200' height='200' />
+
+
+<p>The company developed the OneOps platform for building and launching cloud-based applications across varied storage environments that change frequently. It lets e-commerce vendors deploy apps on platforms from Microsoft Azure, Rackspace and CenturyLink public clouds to private or hybrid environments built with OpenStack.</p>
+<p>One of its chief features is letting organizations switch between providers to take advantage of changes in pricing, features and scalability, Walmart said. Developers can more easily build and deploy cloud apps as a vendor-agnostic technology.</p>
+<p>Open sourcing OneOps could be a gift that keeps on giving for Walmart. If OneOps develops a significant user and contributor base, the company can shed at least part of its reputation as an old-school retail colossus, according to Charles King, principal analyst at <a class="story-keyword-offsite" href="http://www.pund-it.com/" onclick="window.open('http://www.pund-it.com/'); return false;">Pund-IT</a>.</p>
+<p>"This latest move is the result of an IT modernization effort that the company began in 2011. Yet it hasn't received much credit for being forward thinking," he told LinuxInsider.</p>
+<p>"Success should polish Walmart's reputation, which could deflect some of the recent challenges and criticism the company has suffered. It wouldn't hurt for the company to be seen as a vanguard of retail innovation," King added.
+
+
+</p>
+<h2 class="subhead">
+
+What It Does
+
+</h2>
+<p>
+
+
+OneOps lets developers build and launch products faster and more easily maintain them throughout their entire product life, Walmart said.</p>
+<p>It enables developers to code their products in a hybrid, multicloud environment, giving them the ability to test and switch between cloud providers, according to the company.</p>
+<p>Couchbase has integrated its NoSQL technology into the OneOps platform. OneOps also supports Node.js, ElasticSearch, Docker and others.</p>
+<p>One benefit is the ability to automatically manage the application when unforeseen changes occur in the cloud, scaling or repairing it as needed, Walmart said. Software engineers can quickly spin up virtual machines and begin coding without having to spend hours specifying the intricacies of a specific cloud environment, as OneOps models that for them.
+
+
+</p>
+<h2 class="subhead">
+
+Supply Chain
+
+</h2>
+<p>
+
+
+Walmart purchased the initial OneOps platform in 2013 from a startup company founded two years earlier. That purchase fueled the conversion of its own e-commerce software from a cumbersome monolithic application into a global e-commerce platform.</p>
+<p>Since then, Walmart has grown the platform on which its 3,000 engineers build and manage new products. Walmart manages its e-commerce sites with OneOps. Its engineers use the platform to commit more than 30,000 changes per month, it said.</p>
+<p>Other features include monitoring tools, self-fixing capabilities and auto-scaling tools to manage the size of a given cluster. For admins, the platform offers integration with enterprise identity services, quota management and a configuration management system.
+
+
+</p>
+<h2 class="subhead">
+
+No-Compete Plan
+
+</h2>
+<p>
+
+
+OneOps poses no direct competitive threat to
+
+<a href="http://www.amazon.com" target="_blank">Amazon's</a> cloud business --at least not overtly, Pund-IT's King said.</p>
+<p>It's compatible with all the major public cloud services, including Amazon Web Services, so broad use of the platform could lead to additional business for Amazon. However, freely giving OneOps to other businesses may have an impact, he noted.</p>
+<p>"Walmart is providing them powerful options that lie well beyond Amazon's sphere of influence. Some may consider that to be a thumb in Amazon's eye, but I think it's a bit subtler than that," said King.</p>
+<p>Open sourcing its cloud management platform is not an attempt to compete with Amazon, according to Walmart. It's merely a way to extend the usefulness of OneOps.</p>
+<p>"We have no interest in competing with cloud providers or becoming one. Our focus has always been on the millions of customers who shop Walmart globally each week," Walmart spokesperson Bao Nguyen said.</p>
+<p>What it gains is more powerful technology and new ways for OneOps to adapt to existing and new technology, he told LinuxInsider.
+
+
+</p>
+<h2 class="subhead">
+
+Couchbase Kudos for OneOps
+
+</h2>
+<p>
+
+
+<a href="http://www.couchbase.com/" target="_blank">Couchbase</a> developers were among the first to voice support for the Walmart announcement this week. Couchbase is a distributed NoSQL database engineered for performance, scalability and availability offered via OneOps as a NoSQL database option.</p>
+<p>Walmart is the model of a company smartly adapting to the digital economy, according to Ravi Mayuram, senior vice president of products and engineering at Couchbase.</p>
+<p>It built its retail leadership on brick and mortar but became a technology and e-commerce innovator, "establishing itself as an influential Silicon Valley leader," he told LinuxInsider.</p>
+<p>Walmart's move will help further the adoption of Couchbase database technology. It is one of the primary databases used with OneOps, Mayuram said.</p>
+<p>"This will go a long way to making OneOps a world-class operation," he added.
+
+
+</p>
+<h2 class="subhead">
+
+Competitive Edge
+
+</h2>
+<p>
+
+
+Walmart should gain cost savings for development and faster time to production. If competing with Amazon is has any part in the picture, it will be through cost savings, according to Rob Enderle, principal analyst at the <a class="story-keyword-offsite" href="http://www.enderlegroup.com/" onclick="window.open('http://www.enderlegroup.com/'); return false;">Enderle Group</a>.</p>
+<p>"This is new to them, so there will likely be a learning curve, and this curve may have them run into problems like security risk they are not yet equipped to handle," he told LinuxInsider.</p>
+<p>The benefits are the same that any active open source participant gains: capturing improvements to the platform that are developed by the larger community and enhancing the momentum and longer-term health and vitality of their OneOps investment, noted King.</p>
+<p>"The risks seem relatively minimal as the company's investments in OneOps have already paid back considerably," he concluded.
+<img src="http://www.ectnews.com/images/end-enn.gif" width="21" height="10" border="0" />
+
+
+</p>
+<hr noshade="noshade" size="1" /><p id="story-authorbio">
+<strong>Jack M. Germain</strong> has been writing about computer technology since the early days of the <!--keyword:auto:432-->Apple<!--/keyword:auto:432--> II and the PC. He still has his original <!--keyword:auto:3157-->IBM<!--/keyword:auto:3157--> PC-Jr and a few other legacy DOS and Windows boxes. He left shareware programs behind for the open source world of the Linux desktop. He runs several versions of Windows and Linux OSes and often cannot decide whether to grab his tablet, netbook or <!--keyword:auto:7806-->Android<!--/keyword:auto:7806--> smartphone instead of using his desktop or laptop gear. You can connect with him on
+<a href="https://plus.google.com/116242401898170634809?rel=author" target="_blank">Google+</a>.<br clear="all" />
+</p></div>
+
+</div>
+
+<hr noshade="noshade" size="1" />
+
+
+		<style>
+		#shareleft { display: absolute; position: fixed; top: 250px; margin-left: -125px; }
+		.st_twitter_hcount, .st_facebook_hcount, .st_linkedin_hcount, .st_plusone_hcount,.st_sharethis_hcount, .st_pinterest_hcount, .st_stumbleupon_hcount {
+			display: block;
+			margin-bottom: 15px;
+		}
+		.st_plusone_hcount { margin-left: 3px }
+		</style>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher:'aa1224c6-b198-4ba7-8912-a0e9e2e5e489', mobileWidget: "true", doNotCopy: "true"});</script>
+
+		<div id="shareleft" style="margin-bottom: 10px">
+		<span class="st_plusone_hcount" displayText="+1" st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses"></span>
+		<span class="st_twitter_hcount" displayText="Tweet" st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses" st_via="technewsworld"></span>
+		<span class="st_facebook_hcount" displayText="Share" st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses"></span>
+		<span class="st_linkedin_hcount"  st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses"></span>
+		<span class="st_stumbleupon_hcount" displayText="Share" st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses"></span>
+		<span class="st_sharethis_hcount" displayText="Share" st_url="http://www.linuxinsider.com/story/83046.html" st_title="Walmart Opens OneOps Cloud Management to the Masses"></span>
+		</div>	
+		<!--<div style="position:absolute;right:0px;bottom:100px" class="fb-like" data-href="http://www.linuxinsider.com/story/83046.html" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="verdana"></div>-->
+		
+		<p id="story-toolbox2">
+		
+		<div id="cccperms">
+		<div style="margin-bottom: 10px;height:18px; line-height:18px;">
+		<a target="_blank" href="http://www.copyright.com/OpenURL/?sid=Pub_LinuxInsider&servicename=all&issn=4780030&date=2007&WT.mc_id=Pub_LinuxInsider"><img style="vertical-align:middle; margin-right: 5px;" width="16" height="18" border="0" src="/images/2013/ccc-button.png" />Get Permission to License or Reproduce this Article</a>
+		</div>
+		<span style="white-space: nowrap;"><img src="/images/work/icon_print_20x14.gif" alt="" width="20" height="14" border="0" /><a href="#" class="printtext tool-print" title="Print" onclick="ENN_print_toggle(this);return false;">Print</a></span>
+<span style="white-space: nowrap;"><img src="/images/work/icon_send_20x14.gif" alt="" width="20" height="14" border="0" /><a class="tool-email" href="/perl/mailit/?id=83046">Email</a></span>
+<span style="white-space: nowrap;"><img src="/images/2006/icon_reprint_20x14.gif" alt="" width="20" height="14" border="0" /><a href="http://www.ectnews.com/about/reprints.xhtml">Reprints</a></span>
+<span style="white-space: nowrap;"><img src="/images/work/icon_search_20x14.gif" alt="" width="20" height="14" border="0" /><a href="#searchbyline">More by Jack M. Germain</a></span></div></p>
+ 
+ 
+<div class="story-advertisement-2">
+	<!--ps: 122 crid: 9092:a-ilin_300-1 cc:us s_c:9646,8729-->
+	<div class="bbframe">
+<script type="text/javascript"><!--//<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+     })();
+//]]>//--></script>
+
+
+<div id="div-gpt-ad-4136884190725-0">
+    <script type='text/javascript'><!--//<![CDATA[
+       googletag.cmd.push(function() {
+         googletag.defineSlot('/8456/IDG.LinuxInsider.com_Homepage', [300,250],'div-gpt-ad-4136884190725-0')
+           .addService(googletag.pubads())
+           .setTargeting("pos", "ATF");
+         googletag.enableServices();
+         googletag.display('div-gpt-ad-4136884190725-0');
+       });
+    //]]>//--></script>
+</div>
+</div>
+	<img class="ct-9092-a-ilin_300-1" src="/adsys/count/9092/?nm=a-ilin_300-1&amp;ENN_rnd=14620543986355&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 122 crid: 9092:a-ilin_300-1 cc:us-->
+	</div>
+ 
+ 
+ 
+ 	<!--/content-block-->
+	</div>
+<!--/content-main-->
+</div>
+
+<div id="content-nav">
+	<div id="share">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+		<td align="center" valign="top"><a href="https://www.facebook.com/ectnews" target="_blank"><img src="/images/2015/navicon-facebook_32x32.png" width="32 height="32" border="0" alt="Facebook" /></a></td>
+		<td align="center" valign="top"><a href="https://www.twitter.com/technewsworld" target="_blank"><img src="/images/2015/navicon-twitter_32x32.png" width="32 height="32" border="0" alt="Twitter" /></a></td>
+		<td align="center" valign="top"><a href="http://www.linkedin.com/company/ect-news-network" target="_blank"><img src="/images/2015/navicon-linkedin_32x32.png" width="32 height="32" border="0" alt="LinkedIn" /></a></td>
+		<td align="center" valign="top"><a href="https://plus.google.com/108979104378490788701/posts" target="_blank"><img src="/images/2015/navicon-googleplus_32x32.png" width="32 height="32" border="0" alt="Google+" /></a></td>
+		<td align="center" valign="top"><a href="http://www.stumbleupon.com/submit" onclick="ENN_wo('http://www.stumbleupon.com/submit?url=' + (typeof ENN_sc_u != 'undefined' ? ENN_sc_u : document.location.href)); return false;" target="_blank"><img src="/images/2015/navicon-stumbleupon_32x32.png" width="32 height="32" border="0" /></a></td>
+		<td align="center" valign="top"><a href="http://www.ectnews.com/about/link-to-us.xhtml#rss" target="_blank"><img src="/images/2015/navicon-rss_32x32.png" width="32 height="32" border="0" alt="RSS" /></a></td>
+		</tr></table>
+	</div>
+	<div id="shortcuts" class="content-block">
+		<div class="headline-item">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" height="14"><tr><td align="left"><img src="http://www.ectnews.com/images/2015/icon_mostpop_14x14roundcorner.png" width="14" height="14" border="0" /> <a class="headline" href="/perl/mostpop/">Most Popular</a></td><td align="center"><img src="http://www.ectnews.com/images/2012/icon_newsletter_16x12.png" width="16" height="12" border="0" /> <a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl">Newsletters</a></td><td align="right"><img src="http://www.ectnews.com/images/2012/icon_alert_14x14.png" width="14" height="14" border="0" /> <a class="headline" href="http://www.ectnews.com/about/newsalerts/">News Alerts</a></td></tr></table>
+		</div>
+		<!--
+		<div class="headline-item">
+		<a class="headline" href="/perl/mostpop/">Most Popular</a> <span style="font-size:10px;">|</span> <a class="headline" href="http://www.ectnews.com/oneweek/network.xhtml" >This Week on ECT News Network</a>
+		</div>
+		-->	
+	</div>
+	
+
+			
+			<div class="survey" style="border: solid 1px #cbcbcb">
+			<div class="survey-description" style="background-color:#eeeeee;font-weight:bold">What best reflects your opinion on online privacy?</div>
+			<div class="survey-body" style="padding:5px">
+			<form>
+			<input type="hidden" name="survey_id" value="62" />
+			<table>
+			
+				<tr class="survey-opt" style="">
+				<td valign="top"><input type="radio" name="opt_id" value="324" /></td><td>We need new laws to curb government spying.</td>
+				</tr>
+		
+				<tr class="survey-opt" style="">
+				<td valign="top"><input type="radio" name="opt_id" value="325" /></td><td>It's dead -- Google, Facebook and others killed it.</td>
+				</tr>
+		
+				<tr class="survey-opt" style="">
+				<td valign="top"><input type="radio" name="opt_id" value="326" /></td><td>Personalized advertising is the worst -- it's creepy.</td>
+				</tr>
+		
+				<tr class="survey-opt" style="">
+				<td valign="top"><input type="radio" name="opt_id" value="327" /></td><td>It's achievable through encryption and other tech.</td>
+				</tr>
+		
+				<tr class="survey-opt" style="">
+				<td valign="top"><input type="radio" name="opt_id" value="328" /></td><td>It's an overblown issue -- I have nothing to hide.</td>
+				</tr>
+		
+			</table>
+			<div class="survey-vote"><button onclick="return ENN_vote(this.form)">Vote to See Results</button></div>
+			</form>
+			</div>
+			</div>
+			
+	
+	
+
+	<div class="right-bb">
+	
+	<!--ps: 107 crid: 9565:pd_t300-a-1 cc:us s_c:9646,9092,8729-->
+	<div class="bbframe"><div class="tpd-box" data-tpd-id="dsk-box-ad-a"></div></div>
+	<img class="ct-9565-pd_t300-a-1" src="/adsys/count/9565/?nm=pd_t300-a-1&amp;ENN_rnd=14620543983962&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 107 crid: 9565:pd_t300-a-1 cc:us-->
+	
+	</div>
+
+
+
+	<div class="content-tab border-ect"><a class="content-block-intro" href="http://www.ecommercetimes.com/">E-Commerce Times</a></div>
+	<div class="content-block">
+	
+			<div class="headline-item" id="rhd-83442">
+			<a href="http://www.ecommercetimes.com/story/83442.html" >New Facebook Stock Class to Keep Zuckerberg in Driver's Seat</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83437">
+			<a href="http://www.ecommercetimes.com/story/83437.html" >Get Ready for the Mobile Pay Explosion</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83435">
+			<a href="http://www.ecommercetimes.com/story/83435.html" >Yahoo Expands Board to Appease Contentious Investor</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83433">
+			<a href="http://www.ecommercetimes.com/story/83433.html" >Wall Street Pummels Apple After Weak Q2 Earnings Report</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83432">
+			<a href="http://www.ecommercetimes.com/story/83432.html" >FBI Says Its Hands Are Tied on Revealing iPhone Crack Details</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83431">
+			<a href="http://www.ecommercetimes.com/story/83431.html" >Nokia Buys Into Digital Health</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83430">
+			<a href="http://www.ecommercetimes.com/story/83430.html" >IT Execs Join Federal Cybersecurity Panel</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83426">
+			<a href="http://www.ecommercetimes.com/story/83426.html" >Regulators Impose Caveats on Charter TWC Merger Approval</a>
+			</div>
+			
+	</div>
+
+	<div class="right-bb">
+	
+	<!--ps: 71 crid: 9566:pd_t300-b-1 cc:us s_c:9646,9092,9565,8729-->
+	<div class="bbframe"><div class="tpd-box" data-tpd-id="dsk-box-ad-b"></div></div>
+	<img class="ct-9566-pd_t300-b-1" src="/adsys/count/9566/?nm=pd_t300-b-1&amp;ENN_rnd=14620543986509&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 71 crid: 9566:pd_t300-b-1 cc:us-->
+	
+	</div>
+	
+	<div class="content-tab border-cad"><a class="content-block-intro" href="http://www.crmbuyer.com/">CRM Buyer</a></div>
+	<div class="content-block">
+	
+			<div class="headline-item" id="rhd-83443">
+			<a href="http://www.crmbuyer.com/story/83443.html" >Salesforce Brings Lightning to Government Cloud</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83427">
+			<a href="http://www.crmbuyer.com/story/83427.html" >App Dev Today</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83417">
+			<a href="http://www.crmbuyer.com/story/83417.html" >The Successful B2B Relationship: It's About Time</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83411">
+			<a href="http://www.crmbuyer.com/story/83411.html" >Hospitalized Stossel Bemoans Sorry State of Healthcare Customer Service</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83398">
+			<a href="http://www.crmbuyer.com/story/83398.html" >Fusion Launches Enterprise Cloud Contact Center Solution</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83392">
+			<a href="http://www.crmbuyer.com/story/83392.html" >Zuora Moves to the Center</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83373">
+			<a href="http://www.crmbuyer.com/story/83373.html" >Chatbots Drive Shopify's Kit CRM Deal</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83363">
+			<a href="http://www.crmbuyer.com/story/83363.html" >Fake Loyalty</a>
+			</div>
+			
+	</div>
+
+	<div class="right-bb">
+	
+	<!--ps: 108 crid: 9090:a-iect_300-1 cc:us s_c:9646,9092,9565,9566,8729-->
+	<div class="bbframe">
+<script type="text/javascript"><!--//<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+     })();
+//]]>//--></script>
+
+
+<div id="div-gpt-ad-2030049413380-0">
+    <script type='text/javascript'><!--//<![CDATA[
+       googletag.cmd.push(function() {
+         googletag.defineSlot('/8456/IDG.Ecommercetimes.com_Homepage/IDG.Ecommercetimes.com_Article', [300,250],'div-gpt-ad-2030049413380-0')
+           .addService(googletag.pubads())
+           .setTargeting("pos", "ATF");
+         googletag.enableServices();
+         googletag.display('div-gpt-ad-2030049413380-0');
+       });
+    //]]>//--></script>
+</div>
+</div>
+	<img class="ct-9090-a-iect_300-1" src="/adsys/count/9090/?nm=a-iect_300-1&amp;ENN_rnd=14620543982432&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 108 crid: 9090:a-iect_300-1 cc:us-->
+	
+	</div>
+
+	<div class="content-tab border-lni"><a class="content-block-intro" href="http://www.linuxinsider.com/">LinuxInsider</a></div>
+	<div class="content-block">
+	
+			<div class="headline-item" id="rhd-83439">
+			<a href="http://www.linuxinsider.com/story/83439.html" >Codenvy, Samsung Team to Power IoT Development</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83415">
+			<a href="http://www.linuxinsider.com/story/83415.html" >Bodhi Linux 3.2 Promises Clearer Path to Enlightenment</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83406">
+			<a href="http://www.linuxinsider.com/story/83406.html" >Red Hat Goes All-In on OpenStack</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83395">
+			<a href="http://www.linuxinsider.com/story/83395.html" >Ubuntu 16.04 LTS Xenial Xerus Makes Its Debut</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83374">
+			<a href="http://www.linuxinsider.com/story/83374.html" >LXLE Gives Aging Hardware a New Lease on Life</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83367">
+			<a href="http://www.linuxinsider.com/story/83367.html" >Hortonworks Ramps Up Hadoop Security</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83349">
+			<a href="http://www.linuxinsider.com/story/83349.html" >Robust New FreeOffice Suite Proves Free Can Be Just as Good</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83337">
+			<a href="http://www.linuxinsider.com/story/83337.html" >Volkswagen Picks Mirantis to Build Massive OpenStack Cloud</a>
+			</div>
+			
+	</div>
+	
+	
+	<!--ps: 172 crid: 3217:a_sponsored_links cc:us s_c:9646,9092,9565,9090,9566,8729-->
+	
+<!-- slinks -->
+	<div class="content-tab-slinks">SPONSOR SHOWCASE</div>
+	<div class="content-block-slinks">
+
+				<div class="slink-title">Network Monitoring Software</div>
+				<div class="slink-text"><a href="" onclick=" { ENN_ad_wo(9638,'14620543983946'); return false; }" onmouseover="status='http://ad.doubleclick.net/ddm/clk/278024356;105286912;g?http://www.manageengine.com/network-monitoring/?utm_source=%s&amp;utm_medium=website-cpm&amp;utm_campaign=105286912&amp;utm_content=278024356&amp;utm_term=%ecid!'; return true;" onmouseout="status=''; return true;"  ><img src="/images/sda/manage-engine_60x60.jpg" width="60" height="60" border="0" align="right" />
+OpManager: Monitors network & servers from a single console. Try it for free!</a><img class="ct-9638-a-me_apr_stl-1" src="/adsys/count/9638/?nm=a-me_apr_stl-1&amp;ENN_rnd=14620543983946&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" /></div>
+				
+
+				<div class="slink-title">Marketers - Fill Your Sales Funnel Instantly</div>
+				<div class="slink-text"><a href="" onclick=" { ENN_ad_wo(8781,'14620543983946'); return false; }" onmouseover="status='/shared/sales/ECTNEWS-INSTA-LEADS-DECK.pdf'; return true;" onmouseout="status=''; return true;"  ><img src="/images/sda/sales-funnel_60x60.jpg" width="60" height="60" border="0" align="right" />
+Access millions of  IT and business decision makers. Our full-service global marketing program delivers sales-ready leads. Learn more.</a><img class="ct-8781-1-instaleads-stl-1" src="/adsys/count/8781/?nm=1-instaleads-stl-1&amp;ENN_rnd=14620543983946&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" /></div>
+				
+
+				<div class="slink-title">CRM Software Buyer's Guide</div>
+				<div class="slink-text"><a href="" onclick=" { ENN_ad_wo(9213,'14620543983946'); return false; }" onmouseover="status='http://www.crmbuyer.com/buyers_guide/customer-relationship-management.xhtml'; return true;" onmouseout="status=''; return true;"  >This free buyer's guide compares the best CRM software systems and allows you to request a price or demo for the system that best fits your needs.</a></div>
+				
+	</div>
+<!-- /slinks -->
+
+	<img class="ct-3217-a_sponsored_links" src="/adsys/count/3217/?nm=a_sponsored_links&amp;ENN_rnd=14620543983946&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 172 crid: 3217:a_sponsored_links cc:us-->
+	
+
+	<div class="right-bb">
+	
+	<!--ps: 126 crid: 8719:1-twitterwidget-1 cc:us s_c:9646,9092,9565,3217,9090,9566,8729-->
+	<style type="text/css">
+.twitter_m_header, .twitter_m_footer {background: #e8e8e8;border-radius: 10px 10px 0px 0px;padding: 10px;}
+.twitter_m_header a {color: black; font-weight: bold;font-size: 15px; text-decoration:none;}
+.twitter_m {border: solid 1px #e8e8e8; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; }
+</style>
+
+<div class="twitter_m_header"><a href="https://twitter.com/search/?q=TechNewsWorld" target="_blank">ECT News Network on Twitter</a></div>
+<div class="twitter_m">
+<a class="twitter-timeline" data-chrome="noheader nofooter noborders" href="https://twitter.com/search?q=TechNewsWorld" data-widget-id="421402327640068096">Tweets about "TechNewsWorld"</a>
+<script type="text/javascript"><!--//<![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//]]>//--></script>
+</div>
+	<img class="ct-8719-1-twitterwidget-1" src="/adsys/count/8719/?nm=1-twitterwidget-1&amp;ENN_rnd=14620543981960&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 126 crid: 8719:1-twitterwidget-1 cc:us-->
+	
+	</div>
+	
+	<div class="hslice" id="tnwheadlines"><a rel="feedurl" href="/shared_cs/navsliceupdate.xhtml" style="display:none;"></a><div class="entry-title" style="display:none">TechNewsWorld Headlines</div>
+
+	<div class="content-tab border-tnw"><a class="content-block-intro" href="http://www.technewsworld.com/">TechNewsWorld</a></div>
+	<div class="content-block">
+	
+			<div class="headline-item" id="rhd-83445">
+			<a href="http://www.technewsworld.com/story/83445.html" >Microsoft Curbs Cortana in Windows 10</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83440">
+			<a href="http://www.technewsworld.com/story/83440.html" >Apple Drops CareKit on GitHub</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83441">
+			<a href="http://www.technewsworld.com/story/83441.html" >TiVo's New Roamio for Cord Cutters Cuts the Subscription Fee</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83438">
+			<a href="http://www.technewsworld.com/story/83438.html" >Getty Images Takes Google Grievances to EU</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83436">
+			<a href="http://www.technewsworld.com/story/83436.html" >BlockIQ Escalates War on Ad Blockers</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83434">
+			<a href="http://www.technewsworld.com/story/83434.html" >Alexa Takes Up Residence in a Really Smart Fridge Magnet</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83422">
+			<a href="http://www.technewsworld.com/story/83422.html" >Gadget Ogling: Electric Nightmares, Cold Coffee, and a Smart Clothespin</a>
+			</div>
+			
+
+			<div class="headline-item" id="rhd-83429">
+			<a href="http://www.technewsworld.com/story/83429.html" >Pentagon to Open New Cyberfront in War Against ISIS</a>
+			</div>
+			
+	</div>
+
+	</div>
+
+ 
+	<div class="right-bb">
+	
+	</div>
+
+
+</div>
+
+</div>
+
+
+
+<div id="content-bottom">
+
+<a name="inside-site"></a>
+
+	
+	<div id="lb2">
+	
+	<!--ps: 18 crid: 9563:pd_t728-b-1 cc:us s_c:9092,8719,3217,9566,9646,9565,9090,8729-->
+	<div class="tpd-box" data-tpd-id="dsk-banner-ad-b"></div>
+	<img class="ct-9563-pd_t728-b-1" src="/adsys/count/9563/?nm=pd_t728-b-1&amp;ENN_rnd=14620543982944&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 18 crid: 9563:pd_t728-b-1 cc:us-->
+	
+	</div>
+	
+
+
+
+
+
+<!-- elapsed: 0  -->
+<div class="headlines-section-intro">Inside TechNewsWorld</div>
+<table class="headlines-section" id="headlines-section" cellspacing="0">
+	<!--cached:-->
+		<tr>
+							
+	<td valign="top"><div><a href="/perl/section/software/">Applications <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/software/83370.html">E2E Encryption Could Make WhatsApp a Spam Magnet</a></li>
+								<li><a class="headline" href="/story/software/83341.html">Disrupting Software Development in an On-Demand World</a></li>
+								<li><a class="headline" href="/story/software/83281.html">Commoditizing Software</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/computing/">Computing <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/computing/83423.html">White Hat Finds Security Threats on Facebook's Corporate Net</a></li>
+								<li><a class="headline" href="/story/computing/83391.html">EU Levels Antitrust Charges Against Abusive Android</a></li>
+								<li><a class="headline" href="/story/computing/83348.html">Adobe Issues Emergency Patch to Head Off Flash Ransomware Attacks</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/data-management/">Data Management <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/data-management/83278.html">White House Puts Clamps on Data Center Development</a></li>
+								<li><a class="headline" href="/story/data-management/83213.html">SQL Server on Linux Shows Microsoft's More Flexible Side</a></li>
+								<li><a class="headline" href="/story/data-management/83187.html">German Authorities to Examine Facebook's Data Practices</a></li>
+							
+	</ul>
+			
+				</td>
+			
+	</tr>
+
+
+		
+		<tr>
+							
+	<td valign="top"><div><a href="/perl/section/emerging-tech/">Emerging Tech <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/emerging-tech/83428.html">Tech, Auto Honchos Join Forces to Push Self-Driving Cars</a></li>
+								<li><a class="headline" href="/story/emerging-tech/83418.html">Taking DIY to the Next Level</a></li>
+								<li><a class="headline" href="/story/emerging-tech/83416.html">BMW, Daimler Steer Clear of Apple Car Project</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/exclusives/">Exclusives</a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/exclusives/81732.html">HP's Marten Mickos: Open Source Is Not a Business Model</a></li>
+								<li><a class="headline" href="/story/exclusives/81093.html">Dan Allen and Sarah White: Documentation Dearth Dooms Open Source Projects</a></li>
+								<li><a class="headline" href="/story/exclusives/81054.html">PredictionIO's Simon Chan on Machine Learning by Devs for Devs</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/hardware/">Hardware <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/hardware/83408.html">Why Is the PC Industry Trying to Kill the PC?</a></li>
+								<li><a class="headline" href="/story/hardware/83407.html">Intel Pivots From PCs to Cloud</a></li>
+								<li><a class="headline" href="/story/hardware/83388.html">Apple's MacBook Refresh Draws Tepid Response</a></li>
+							
+	</ul>
+			
+				</td>
+			
+	</tr>
+
+
+		
+		<tr>
+							
+	<td valign="top"><div><a href="/perl/section/internet-of-things/">Internet of Things <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/internet-of-things/83356.html">Marketers Poised to Run the Customer Experience Show, Survey Says</a></li>
+								<li><a class="headline" href="/story/internet-of-things/83334.html">Apple, FBI Tussle Puts Bull's-Eye on iPhone</a></li>
+								<li><a class="headline" href="/story/internet-of-things/83318.html">Microsoft Guns for Cloud Devs at Build 2016</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/it-leadership/">IT Leadership <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/it-leadership/83282.html">A Dramatic 16 Years for 4 Tech Titans</a></li>
+								<li><a class="headline" href="/story/it-leadership/83182.html">Cryptography Pioneers Win Million-Dollar Turing Award</a></li>
+								<li><a class="headline" href="/story/it-leadership/83167.html">Chicago School Board Elevates Computer Science to Graduation Requirement</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/mobile-tech/">Mobile Tech <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/mobile-tech/83400.html">Facebook Messenger Lets 50 Friends Get In on a Call</a></li>
+								<li><a class="headline" href="/story/mobile-tech/83402.html">Google Fattens Up Entertainment Programming Search Results</a></li>
+								<li><a class="headline" href="/story/mobile-tech/83399.html">Viber Goes the Encryption Route</a></li>
+							
+	</ul>
+			
+				</td>
+			
+	</tr>
+
+
+		
+		<tr>
+							
+	<td valign="top"><div><a href="/perl/section/science/">Science <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/science/83364.html">Tiny Nanocraft May Sail to Neighboring Star System</a></li>
+								<li><a class="headline" href="/story/science/83360.html">Next Apple Watch Will Be More 'S' Than 2</a></li>
+								<li><a class="headline" href="/story/science/83354.html">Samsung's AR Vision Includes Smart Contact Lenses</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/features/">Spotlight Features</a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/features/83424.html">Crafting an Online Strategy, Part 4: Homegrown Marketing</a></li>
+								<li><a class="headline" href="/story/features/83405.html">Sports Fans and Social Media, Part 2: Perils, Pitfalls and Best Practices</a></li>
+								<li><a class="headline" href="/story/features/83401.html">Crafting an Online Strategy, Part 3: How to Get Paid for Your Wares</a></li>
+							
+	</ul>
+			
+				</td>
+		
+							
+	<td valign="top"><div><a href="/perl/section/tech-buzz/">Tech Buzz <!--tnw--></a></div>
+	<ul>
+			
+								<li><a class="headline" href="/story/tech-buzz/83421.html">Google's 'Area 120' Incubator Aims to Keep Innovation In-House</a></li>
+								<li><a class="headline" href="/story/tech-buzz/83420.html">Chromebooks May Get Avalanche of Android Apps</a></li>
+								<li><a class="headline" href="/story/tech-buzz/83419.html">Apple's Q2 Report Expected to Be Light on Good News</a></li>
+							
+	</ul>
+			
+				</td>
+			
+	</tr>
+
+
+	</table>
+
+
+
+
+	
+	<div id="lb3" class="lb2">
+	
+	<!--ps: 164 crid: 9095:a-itnw_728-1 cc:us s_c:9092,8719,3217,9566,9646,9565,9090,8729,9563-->
+	<script type="text/javascript"><!--//<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+     })();
+//]]>//--></script>
+
+
+<div id="div-gpt-ad-7249935892499-0">
+    <script type='text/javascript'><!--//<![CDATA[
+       googletag.cmd.push(function() {
+         googletag.defineSlot('/8456/IDG.Technewsworld.com_Homepage', [728,90],'div-gpt-ad-7249935892499-0')
+           .addService(googletag.pubads())
+           .setTargeting("pos", "ATF");
+         googletag.enableServices();
+         googletag.display('div-gpt-ad-7249935892499-0');
+       });
+    //]]>//--></script>
+</div>
+	<img class="ct-9095-a-itnw_728-1" src="/adsys/count/9095/?nm=a-itnw_728-1&amp;ENN_rnd=14620543995928&amp;ign=0/ign.gif" width="0" height="0" alt="" style="position:absolute; left:0px; top:0px" />
+	<!--/ps: 164 crid: 9095:a-itnw_728-1 cc:us-->
+	
+	</div>
+	
+
+
+</div>
+</div>
+</div>
+
+<div id="footer-container">
+<div id="footer">
+
+	<table class="headlines-section publication-info">
+	<tr>
+	<td valign="top"><div><a href="http://www.ectnews.com/about/advertising/#publications">Publications</a></div>
+	<ul>
+	<li><a class="headline" href="http://www.ecommercetimes.com/">E-Commerce Times</a></li>
+	<li><a class="headline" href="http://www.technewsworld.com/">TechNewsWorld</a></li>
+	<li><a class="headline" href="http://www.linuxinsider.com/">LinuxInsider</a></li>
+	<li><a class="headline" href="http://www.crmbuyer.com/">CRM Buyer</a></li>
+	</ul>
+	<div id="bottom-logo" style="position: absolute;width:455px; height:125px; margin-top:10px"><a href="http://www.ectnews.com/"><img src="/images/2013/enn-logo-bottom.png" align="left" width="455" height="125" border="0" style="margin-left: -5px;" alt="ECT News Network" /></a></div>
+
+	</td>
+	<td valign="top" style="padding-left:50px"><div><a href="http://www.ectnews.com/perl/newsletter_registration.pl">Newsletters</a></div>
+	<ul>
+	<li><a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl" onclick='window.open("http://www.ecommercetimes.com/perl/nwsltrdisp.pl?n=ect_daily","_blank","resizable=yes,menubar=yes,location=no,toolbar=no,scrollbars=yes,status=no,directories=no,width=650,height=400"); return false;'>E-Commerce Minute</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl" onclick='window.open("http://www.technewsworld.com/perl/nwsltrdisp.pl?n=tnw_daily","_blank","resizable=yes,menubar=yes,location=no,toolbar=no,scrollbars=yes,status=no,directories=no,width=650,height=400"); return false;'>Tech News Flash</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl" onclick='window.open("http://www.ectnews.com/perl/nwsltrdisp.pl?n=enn_weekly","_blank","resizable=yes,menubar=yes,location=no,toolbar=no,scrollbars=yes,status=no,directories=no,width=650,height=400"); return false;'>ECT News Network Weekly</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl" onclick='window.open("http://www.ectnews.com/perl/nwsltrdisp.pl?n=edpick_alert","_blank","resizable=yes,menubar=yes,location=no,toolbar=no,scrollbars=yes,status=no,directories=no,width=650,height=400"); return false;'>Editor's Pick</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/newsletter_registration.pl">Subscribe</a></li>
+	</ul>
+	</td>
+
+	<td valign="top">
+	<div>Reader Services</div>
+	<ul>
+	<li><a class="headline" href="http://www.ectnews.com/perl/User.pl">Account Management</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/board/mboard.pl">Discussion</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/link-to-us.xhtml">Linking Policy</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/network_map.xhtml">Network Map</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/newsalerts/">News Alerts</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/link-to-us.xhtml#rss">RSS / XML Feeds</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/perl/search.pl">Search ECT News Network</a></li>
+	</ul>
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tr>
+		<td><a href="https://www.facebook.com/ectnews" target="_blank"><img src="/images/2013/navicon-facebook_20x20-gray.png" width="20" height="20" border="0" alt="Facebook" /></a></td>
+		<td><a href="https://www.twitter.com/technewsworld" target="_blank"><img src="/images/2013/navicon-twitter_20x20-gray.png" width="20" height="20" border="0" alt="Twitter" /></a></td>
+		<td><a href="http://www.linkedin.com/company/ect-news-network" target="_blank"><img src="/images/2013/navicon-linkedin_20x20-gray.png" width="20" height="20" border="0" alt="LinkedIn" /></a></td>
+		<td><a href="https://plus.google.com/108979104378490788701/posts" target="_blank"><img src="/images/2013/navicon-googleplus_20x20-gray.png" width="20" height="20" border="0" alt="Google+" /></a></td>
+		<td><a href="http://www.stumbleupon.com/submit" onclick="ENN_wo('http://www.stumbleupon.com/submit?url=' + (typeof ENN_sc_u != 'undefined' ? ENN_sc_u : document.location.href)); return false;" target="_blank"><img src="/images/2013/navicon-stumbleupon_20x20-gray.png" width="20" height="20" border="0" /></a></td>
+		<td><a href="http://www.ectnews.com/about/link-to-us.xhtml#rss" target="_blank"><img src="/images/2013/navicon-rss_20x20-gray.png" width="20" height="20" border="0" alt="RSS" /></a></td>
+		</tr>
+	</table>
+	</td>
+	<td valign="top" style="padding-left:10px"><div>Company Info</div>
+	<ul>
+	<li><a class="headline" href="http://www.ectnews.com/about/">About</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/advertising/">Advertising</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/bizdev.xhtml">Business Development</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/careers.xhtml">Careers</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/#contact">Contact</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/permissions.xhtml">Permissions</a></li>
+	<li><a class="headline" href="http://www.ectnews.com/about/reprints/">Reprint Information</a></li>
+	</ul>
+	</td>
+	</tr>
+	</table>
+	<div id="bottom-copyright">
+		<div style="float:right;">
+		<a class="bottom-copyright" href="http://www.ectnews.com/about/terms-of-service.xhtml">Terms of Service</a> | <a class="bottom-copyright" href="http://www.ectnews.com/about/privacy.xhtml">Privacy Policy</a> | <a class="bottom-copyright" href="http://www.ectnews.com/about/advertising/">How To Advertise</a>
+		</div>
+		Copyright 1998-2016 ECT News Network, Inc. All Rights Reserved.
+
+	</div>
+</div>
+</div>
+
+<script type="text/javascript"><!--//<![CDATA[
+_qoptions={
+qacct:"p-185fl65Dy6rX2"
+};
+//]]>//--></script>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-185fl65Dy6rX2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+
+
+<script type="text/javascript"><!--//<![CDATA[
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    gaTrack: true,
+    gaId: 'UA-9357282-1'
+  });
+}
+//]]>//--></script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- <div class="fb-recommendations-bar" data-read-time="10" data-trigger="10%" data-read-time="10" ref="facebook_recommendations"></div> -->
+
+		
+
+
+</body>
+</html>

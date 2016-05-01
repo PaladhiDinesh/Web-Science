@@ -1,0 +1,2763 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { (function(){function c(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var h=a?new c(a.responseStart):new c;window.jstiming={Timer:c,load:h};if(a){var b=a.navigationStart,e=a.responseStart;0<b&&e>=b&&(window.jstiming.srt=e-b)}if(a){var d=window.jstiming.load;0<b&&e>=b&&(d.tick("_wtsrt",void 0,b),d.tick("wtsrt_",
+"_wtsrt",e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),d&&0<b&&(d.tick("_tbnd",void 0,window.chrome.csi().startE),d.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,d&&0<b&&(d.tick("_tbnd",void 0,window.external.startE),d.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(k){}})();window.tickAboveFold=function(c){var a=0;if(c.offsetParent){do a+=c.offsetTop;while(c=c.offsetParent)}c=a;750>=c&&window.jstiming.load.tick("aft")};var f=!1;function g(){f||(f=!0,window.jstiming.load.tick("firstScrollTime"))}window.addEventListener?window.addEventListener("scroll",g,!1):window.attachEvent("onscroll",g);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://www.grocerants.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Foodservice Solutions - Atom" href="http://grocerants.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Foodservice Solutions - RSS" href="http://grocerants.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Foodservice Solutions - Atom" href="https://www.blogger.com/feeds/8720274509033422956/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Foodservice Solutions - Atom" href="http://grocerants.blogspot.com/feeds/9129437656386958474/comments/default" />
+<link href='https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s400/BK.png' rel='image_src'/>
+<link href='https://plus.google.com/111377870527725404137' rel='publisher'/>
+<meta content='http://grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html' property='og:url'/>
+<meta content='https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/w1200-h630-p-nu/BK.png' property='og:image'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Foodservice Solutions: Subway, Pizza Hut, Dunkin Donuts Re-evaluate Pricing</title>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3645911276-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8720274509033422956&zx=038c54cd-5bca-42c8-b626-763234a530e9' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Rounders 2
+Date:     27 Feb 2004
+Updated by: Blogger Team
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="mainBgColor" description="Main Background Color"
+type="color" default="#fff">
+<Variable name="mainTextColor" description="Text Color" type="color"
+default="#000">
+<Variable name="postTitleColor" description="Post Title Color" type="color"
+default="#333">
+<Variable name="dateHeaderColor" description="Date Header Color"
+type="color" default="#810">
+<Variable name="borderColor" description="Post Border Color" type="color"
+default="#bbb">
+<Variable name="mainLinkColor" description="Link Color" type="color"
+default="#b30">
+<Variable name="mainVisitedLinkColor" description="Visited Link Color"
+type="color" default="#c63">
+<Variable name="titleBgColor" description="Page Header Background Color"
+type="color" default="#710">
+<Variable name="titleTextColor" description="Blog Title Color"
+type="color" default="#fff">
+<Variable name="topSidebarHeaderColor"
+description="Top Sidebar Title Color"
+type="color" default="#fff">
+<Variable name="topSidebarBgColor"
+description="Top Sidebar Background Color"
+type="color" default="#999">
+<Variable name="topSidebarTextColor" description="Top Sidebar Text Color"
+type="color" default="#fff">
+<Variable name="topSidebarLinkColor" description="Top Sidebar Link Color"
+type="color" default="#fff">
+<Variable name="topSidebarVisitedLinkColor"
+description="Top Sidebar Visited Link Color"
+type="color" default="#ddd">
+<Variable name="bodyFont" description="Text Font" type="font"
+default="normal normal 100% 'Trebuchet MS',Verdana,Arial,Sans-serif">
+<Variable name="pageTitleFont" description="Blog Title Font" type="font"
+default="normal bold 200% 'Trebuchet MS',Verdana,Arial,Sans-serif">
+<Variable name="descriptionFont" description="Blog Description Font" type="font"
+default="normal normal 100% 'Trebuchet MS',Verdana,Arial,Sans-serif">
+<Variable name="headerFont" description="Sidebar Title Font" type="font"
+default="normal bold 100% 'Trebuchet MS',Verdana,Arial,Sans-serif">
+<Variable name="postTitleFont" description="Post Title Font" type="font"
+default="normal bold 135% 'Trebuchet MS',Verdana,Arial,Sans-serif">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+body {
+background:#ccc;
+margin:0;
+text-align:center;
+line-height: 1.5em;
+font:x-small Trebuchet MS, Verdana, Arial, Sans-serif;
+color:#000000;
+font-size/* */:/**/small;
+font-size: /**/small;
+}
+/* Page Structure
+----------------------------------------------- */
+/* The images which help create rounded corners depend on the
+following widths and measurements. If you want to change
+these measurements, the images will also need to change.
+*/
+#outer-wrapper {
+width:740px;
+margin:0 auto;
+text-align:left;
+font: normal normal 100% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+#main-wrap1 {
+width:485px;
+float:left;
+background:#ffffff url("http://www1.blogblog.com/rounders2/corners_main_bot.gif") no-repeat left bottom;
+margin:15px 0 0;
+padding:0 0 10px;
+color:#000000;
+font-size:97%;
+line-height:1.5em;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#main-wrap2 {
+float:left;
+width:100%;
+background:url("http://www1.blogblog.com/rounders2/corners_main_top.gif") no-repeat left top;
+padding:10px 0 0;
+}
+#main {
+background:url("http://www.blogblog.com/rounders2/rails_main.gif") repeat-y left;
+padding:0;
+width:485px;
+}
+#sidebar-wrap {
+width:240px;
+float:right;
+margin:15px 0 0;
+font-size:97%;
+line-height:1.5em;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+.main .widget {
+margin-top: 4px;
+width: 468px;
+padding: 0 13px;
+}
+.main .Blog {
+margin: 0;
+padding: 0;
+width: 484px;
+}
+/* Links
+----------------------------------------------- */
+a:link {
+color: #bb3300;
+}
+a:visited {
+color: #cc6633;
+}
+a:hover {
+color: #cc6633;
+}
+a img {
+border-width:0;
+}
+/* Blog Header
+----------------------------------------------- */
+#header-wrapper {
+background:#771100 url("http://www2.blogblog.com/rounders2/corners_cap_top.gif") no-repeat left top;
+margin-top:22px;
+margin-right:0;
+margin-bottom:0;
+margin-left:0;
+padding-top:8px;
+padding-right:0;
+padding-bottom:0;
+padding-left:0;
+color:#ffffff;
+}
+#header {
+background:url("http://www.blogblog.com/rounders2/corners_cap_bot.gif") no-repeat left bottom;
+padding:0 15px 8px;
+}
+#header h1 {
+margin:0;
+padding:10px 30px 5px;
+line-height:1.2em;
+font: normal bold 200% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+#header a,
+#header a:visited {
+text-decoration:none;
+color: #ffffff;
+}
+#header .description {
+margin:0;
+padding:5px 30px 10px;
+line-height:1.5em;
+font: normal normal 100% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+margin-top:0;
+margin-right:28px;
+margin-bottom:0;
+margin-left:43px;
+font-size:85%;
+line-height:2em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color:#881100;
+}
+.post {
+margin:.3em 0 25px;
+padding:0 13px;
+border:1px dotted #bbbbbb;
+border-width:1px 0;
+}
+.post h3 {
+margin:0;
+line-height:1.5em;
+background:url("http://www2.blogblog.com/rounders2/icon_arrow.gif") no-repeat 10px .5em;
+display:block;
+border:1px dotted #bbbbbb;
+border-width:0 1px 1px;
+padding-top:2px;
+padding-right:14px;
+padding-bottom:2px;
+padding-left:29px;
+color: #333333;
+font: normal bold 135% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+.post h3 a, .post h3 a:visited {
+text-decoration:none;
+color: #333333;
+}
+a.title-link:hover {
+background-color: #bbbbbb;
+color: #000000;
+}
+.post-body {
+border:1px dotted #bbbbbb;
+border-width:0 1px 1px;
+border-bottom-color:#ffffff;
+padding-top:10px;
+padding-right:14px;
+padding-bottom:1px;
+padding-left:29px;
+}
+html>body .post-body {
+border-bottom-width:0;
+}
+.post-body {
+margin:0 0 .75em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+background: #eee;
+margin:0;
+padding-top:2px;
+padding-right:14px;
+padding-bottom:2px;
+padding-left:29px;
+border:1px dotted #bbbbbb;
+border-width:1px;
+font-size:100%;
+line-height:1.5em;
+color: #666;
+}
+/*
+The first line of the post footer might only have floated text, so we need to give it a height.
+The height comes from the post-footer line-height
+*/
+.post-footer-line-1 {
+min-height:1.5em;
+_height:1.5em;
+}
+.post-footer p {
+margin: 0;
+}
+html>body .post-footer {
+border-bottom-color:transparent;
+}
+.uncustomized-post-template .post-footer {
+text-align: right;
+}
+.uncustomized-post-template .post-author,
+.uncustomized-post-template .post-timestamp {
+display: block;
+float: left;
+text-align:left;
+margin-right: 4px;
+}
+.post-footer a {
+color: #bb3300;
+}
+.post-footer a:hover {
+color: #cc6633;
+}
+a.comment-link {
+/* IE5.0/Win doesn't apply padding to inline elements,
+so we hide these two declarations from it */
+background/* */:/**/url("http://www.blogblog.com/rounders/icon_comment_left.gif") no-repeat left 45%;
+padding-left:14px;
+}
+html>body a.comment-link {
+/* Respecified, for IE5/Mac's benefit */
+background:url("http://www.blogblog.com/rounders2/icon_comment_left.gif") no-repeat left 45%;
+padding-left:14px;
+}
+.post img, table.tr-caption-container {
+margin-top:0;
+margin-right:0;
+margin-bottom:5px;
+margin-left:0;
+padding:4px;
+border:1px solid #bbbbbb;
+}
+.tr-caption-container img {
+border: none;
+margin: 0;
+padding: 0;
+}
+blockquote {
+margin:.75em 0;
+border:1px dotted #bbbbbb;
+border-width:1px 0;
+padding:5px 15px;
+color: #881100;
+}
+.post blockquote p {
+margin:.5em 0;
+}
+#blog-pager-newer-link {
+float: left;
+margin-left: 13px;
+}
+#blog-pager-older-link {
+float: right;
+margin-right: 13px;
+}
+#blog-pager {
+text-align: center;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+margin-left: 13px;
+}
+/* Comments
+----------------------------------------------- */
+#comments {
+margin:-25px 13px 0;
+border:1px dotted #bbbbbb;
+border-width:0 1px 1px;
+padding-top:20px;
+padding-right:0;
+padding-bottom:15px;
+padding-left:0;
+}
+#comments h4 {
+margin:0 0 10px;
+padding-top:0;
+padding-right:14px;
+padding-bottom:2px;
+padding-left:29px;
+border-bottom:1px dotted #bbbbbb;
+font-size:120%;
+line-height:1.4em;
+color:#333333;
+}
+#comments-block {
+margin-top:0;
+margin-right:15px;
+margin-bottom:0;
+margin-left:9px;
+}
+.comment-author {
+background:url("http://www.blogblog.com/rounders2/icon_comment_left.gif") no-repeat 2px .3em;
+margin:.5em 0;
+padding-top:0;
+padding-right:0;
+padding-bottom:0;
+padding-left:20px;
+font-weight:bold;
+}
+.comment-body {
+margin:0 0 1.25em;
+padding-top:0;
+padding-right:0;
+padding-bottom:0;
+padding-left:20px;
+}
+.comment-body p {
+margin:0 0 .5em;
+}
+.comment-footer {
+margin:0 0 .5em;
+padding-top:0;
+padding-right:0;
+padding-bottom:.75em;
+padding-left:20px;
+}
+.comment-footer a:link {
+color: #000000;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.comment-form {
+padding-left:20px;
+padding-right:5px;
+}
+#comments .comment-form h4 {
+padding-left:0px;
+}
+/* Profile
+----------------------------------------------- */
+.profile-img {
+float: left;
+margin-top: 5px;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+border: 4px solid #ffffff;
+}
+.profile-datablock {
+margin-top:0;
+margin-right:15px;
+margin-bottom:.5em;
+margin-left:0;
+padding-top:8px;
+}
+.profile-link {
+background:url("http://www.blogblog.com/rounders2/icon_profile_left.gif") no-repeat left .1em;
+padding-left:15px;
+font-weight:bold;
+}
+.profile-textblock {
+clear: both;
+margin: 0;
+}
+.sidebar .clear, .main .widget .clear {
+clear: both;
+}
+#sidebartop-wrap {
+background:#999999 url("http://www.blogblog.com/rounders2/corners_prof_bot.gif") no-repeat left bottom;
+margin:0px 0px 15px;
+padding:0px 0px 10px;
+color:#ffffff;
+}
+#sidebartop-wrap2 {
+background:url("http://www2.blogblog.com/rounders2/corners_prof_top.gif") no-repeat left top;
+padding: 10px 0 0;
+margin:0;
+border-width:0;
+}
+#sidebartop h2 {
+line-height:1.5em;
+color:#ffffff;
+border-bottom: 1px dotted #ffffff;
+margin-bottom: 0.5em;
+font: normal bold 100% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+#sidebartop a {
+color: #ffffff;
+}
+#sidebartop a:hover {
+color: #dddddd;
+}
+#sidebartop a:visited {
+color: #dddddd;
+}
+/* Sidebar Boxes
+----------------------------------------------- */
+.sidebar .widget {
+margin:.5em 13px 1.25em;
+padding:0 0px;
+}
+.widget-content {
+margin-top: 0.5em;
+}
+#sidebarbottom-wrap1 {
+background:#ffffff url("http://www.blogblog.com/rounders2/corners_side_top.gif") no-repeat left top;
+margin:0 0 15px;
+padding:10px 0 0;
+color: #000000;
+}
+#sidebarbottom-wrap2 {
+background:url("http://www1.blogblog.com/rounders2/corners_side_bot.gif") no-repeat left bottom;
+padding:0 0 8px;
+}
+.sidebar h2 {
+margin:0;
+padding:0 0 .2em;
+line-height:1.5em;
+font:normal bold 100% 'Trebuchet MS',Verdana,Arial,Sans-serif;
+}
+.sidebar ul {
+list-style:none;
+margin:0 0 1.25em;
+padding:0;
+}
+.sidebar ul li {
+background:url("http://www2.blogblog.com/rounders2/icon_arrow_sm.gif") no-repeat 2px .25em;
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:3px;
+padding-left:16px;
+margin-bottom:3px;
+border-bottom:1px dotted #bbbbbb;
+line-height:1.4em;
+}
+.sidebar p {
+margin:0 0 .6em;
+}
+#sidebar h2 {
+color: #333333;
+border-bottom: 1px dotted #333333;
+}
+/* Footer
+----------------------------------------------- */
+#footer-wrap1 {
+clear:both;
+margin:0 0 10px;
+padding:15px 0 0;
+}
+#footer-wrap2 {
+background:#771100 url("http://www2.blogblog.com/rounders2/corners_cap_top.gif") no-repeat left top;
+color:#ffffff;
+}
+#footer {
+background:url("http://www.blogblog.com/rounders2/corners_cap_bot.gif") no-repeat left bottom;
+padding:8px 15px;
+}
+#footer hr {display:none;}
+#footer p {margin:0;}
+#footer a {color:#ffffff;}
+#footer .widget-content {
+margin:0;
+}
+/** Page structure tweaks for layout editor wireframe */
+body#layout #main-wrap1,
+body#layout #sidebar-wrap,
+body#layout #header-wrapper {
+margin-top: 0;
+}
+body#layout #header, body#layout #header-wrapper,
+body#layout #outer-wrapper {
+margin-left:0,
+margin-right: 0;
+padding: 0;
+}
+body#layout #outer-wrapper {
+width: 730px;
+}
+body#layout #footer-wrap1 {
+padding-top: 0;
+}
+
+--></style>
+<script type="text/javascript">var a="&m=1",d="(^|&)m=",e="?",f="?m=1";function g(){var b=window.location.href,c=b.split(e);switch(c.length){case 1:return b+f;case 2:return 0<=c[1].search(d)?null:b+a;default:return null}}var h=navigator.userAgent;if(-1!=h.indexOf("Mobile")&&-1!=h.indexOf("WebKit")&&-1==h.indexOf("iPad")||-1!=h.indexOf("Opera Mini")||-1!=h.indexOf("IEMobile")){var k=g();k&&window.location.replace(k)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d8720274509033422956\x26blogName\x3dFoodservice+Solutions\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://grocerants.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://grocerants.blogspot.com/\x26targetPostID\x3d9129437656386958474\x26blogPostOrPageUrl\x3dhttp://grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html\x26vt\x3d7045261209298256487',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://www.grocerants.blogspot.com/' style='display: block'>
+<img alt='Foodservice Solutions' height='144px; ' id='Header1_headerimg' src='http://1.bp.blogspot.com/-mPQodNssTI0/Ui4xsd0TntI/AAAAAAAAFQM/ekxh9PP4ruA/s730/blogheader1.jpg' style='display: block' width='720px; '/>
+</a>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'></div>
+</div>
+<div id='main-wrap1'><div id='main-wrap2'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, February 6, 2016</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s400/BK.png' itemprop='image_url'/>
+<meta content='8720274509033422956' itemprop='blogId'/>
+<meta content='9129437656386958474' itemprop='postId'/>
+<a name='9129437656386958474'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+Subway, Pizza Hut, Dunkin Donuts Re-evaluate Pricing
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9129437656386958474' itemprop='description articleBody'>
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><br />
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:DoNotShowRevisions/>
+  <w:DoNotPrintRevisions/>
+  <w:DoNotShowMarkup/>
+  <w:DoNotShowComments/>
+  <w:DoNotShowInsertionsAndDeletions/>
+  <w:DoNotShowPropertyChanges/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+ {mso-style-name:"Table Normal";
+ mso-tstyle-rowband-size:0;
+ mso-tstyle-colband-size:0;
+ mso-style-noshow:yes;
+ mso-style-priority:99;
+ mso-style-parent:"";
+ mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-para-margin-top:0in;
+ mso-para-margin-right:0in;
+ mso-para-margin-bottom:10.0pt;
+ mso-para-margin-left:0in;
+ line-height:115%;
+ mso-pagination:widow-orphan;
+ font-size:11.0pt;
+ font-family:"Calibri","sans-serif";
+ mso-ascii-font-family:Calibri;
+ mso-ascii-theme-font:minor-latin;
+ mso-hansi-font-family:Calibri;
+ mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]-->
+
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s1600/BK.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="235" src="https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s400/BK.png" width="400" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: 0.0001pt; text-align: center;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Success does
+leave clues and when customer counts decline, sales become stagnant, and
+competitors are garnering market share it&#8217;s time to reevaluate just what you
+are doing according to </span><a href="http://www.foodservicesolutions.us/"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Foodservice Solutions&#174;,</span></a><span style="color: #2a4a7c; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"> </span><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Grocerant Guru&#174;. Regular readers of
+this blog know that </span><a href="http://www.slideshare.net/grocerant/grocerant-guru-speaking-at-the-food-summit?qid=f62242a8-c59e-46d2-aaa9-9e68ce0692c1&amp;v=qf1&amp;b=&amp;from_search=1"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">companies place limits on success,
+customers</span></a><span style="color: #2a4a7c; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"> <b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;">do
+not.<span style="mso-spacerun: yes;">&nbsp; </span></i></b></span><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"><span style="mso-spacerun: yes;">&nbsp;</span>Our own Grocerant Guru&#174; went on to say more
+often than not competition drives change. <span style="color: #2a4a7c;"></span></span></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Acclaimed Harvard
+Professor Michael Porter when speaking on </span><a href="https://cb.hbsp.harvard.edu/cbmp/product/2696-HBK-ENG"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">competition</span></a><span style="color: #2a4a7c; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"> </span><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">stated that &#8220;Industry boundaries are
+expanding, and they can expand even more.<span style="mso-spacerun: yes;">&nbsp;
+</span>We&#8217;re going to see a combination of barriers to entry going up and the
+opportunity for disruption going up simultaneously.&#8221;<span style="mso-spacerun: yes;">&nbsp; </span>If restaurants are careful that may end up
+looking like </span><a href="http://grocerants.blogspot.com/2012/07/food-retailers-are-you-burger-chef.html"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Burger Chef or Kodak</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">. </span></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">In 2016 Price has
+become a barrier in retail foodservice according to Foodservice Solutions&#174;
+team.<span style="mso-spacerun: yes;">&nbsp; </span>Consumers have established new a <b style="mso-bidi-font-weight: normal;">price, value, service equilibrium</b> which
+our team unveiled in late 2015 after following the </span><a href="http://www.slideshare.net/grocerant/grocerant-guru-speaking-at-the-food-summit?qid=f62242a8-c59e-46d2-aaa9-9e68ce0692c1&amp;v=qf1&amp;b=&amp;from_search=1"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">undercurrents of consumer consumption
+patterns</span></a><span style="color: #2a4a7c; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">
+evolving. </span></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="color: #c00000; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Here
+is Foodservice Solutions&#174; New Price, Value, Service Equilibrium Formula:</span></i></b></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="color: #c00000; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">(Mobile
+Access + Digital Payment +Delivery) X (Price + Food Quality + Speed) = Value </span></i></b></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt; margin-bottom: 0in;">
+<b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="color: #c00000; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"><span style="mso-spacerun: yes;">&nbsp;</span>Incremental Value:<span style="mso-spacerun: yes;">&nbsp; </span>Constantly Changing Menu (Seasonally /
+Sustainability with Creditability).</span></i></b><b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;"><span style="color: #c00000; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"></span></i></b></div>
+<div class="MsoNormal" style="line-height: normal;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Subway&#8217;s customers are pushing back on
+social media after they announced that they were now selling the selling the
+Subway </span><a href="http://www.restaurantbusinessonline.com/news/subway-fans-cry-out-return-5-footlong"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">footlong
+submarine for $6.00</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">.<span style="mso-spacerun: yes;">&nbsp; </span>They were not happy about </span><a href="http://www.restaurantbusinessonline.com/news/subway-scraps-5-footlong"><span style="color: blue; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">the
+loss of Subway&#8217;s $5 Footlong</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">, and they&#8217;re </span><a href="http://www.seattletimes.com/business/dunkins-customer-visits-slip-amid-fast-food-deal-fight/"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt; text-decoration: none;">speaking out</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"> via social
+media posts.<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp; </span>Does your company
+understand how to integrate a </span><a href="http://grocerants.blogspot.com/2015/11/foodservice-two-tier-pricing-does-it.html"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">two tiered
+pricing</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">
+plan? Are you utilizing the Price, Value, Service Equilibrium?</span></div>
+<div class="MsoNormal" style="line-height: normal;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Competitive forces have driven Dunkin
+Brands to </span><a href="http://nrn.com/finance/dunkin-donuts-pushes-value-after-4q-same-store-sales-fall"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">miss top line
+sales</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">
+goals and bottom line profits.<span style="mso-spacerun: yes;">&nbsp; </span>Now
+Dunkin is </span><a href="http://www.seattletimes.com/business/dunkins-customer-visits-slip-amid-fast-food-deal-fight/"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">revaluating
+pricing and product</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">
+mix.<span style="mso-spacerun: yes;">&nbsp; </span>Yum Brands, Pizza Hut unit gained
+traction with $5 pizza mix and match; yes grocerant niche mix and match
+works.<span style="mso-spacerun: yes;">&nbsp; </span>After they </span><a href="http://nrn.com/finance/yum-fueled-brand-turnarounds"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">repositioned
+product pricing</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">
+to drive customer counts, sales and profits they regained sales momentum.<span style="mso-spacerun: yes;">&nbsp;&nbsp;</span></span></div>
+<div class="MsoNormal" style="line-height: normal;">
+<br /></div>
+<div class="MsoNormal" style="line-height: normal;">
+<span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">For international corporate
+presentations, educational forums, or keynotes speeches contact: </span><a href="mailto:Steve@FoodserviceSolutions.us"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">Steve@FoodserviceSolutions.us</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"><span style="mso-spacerun: yes;">&nbsp; </span>Our Grocerant Guru&#174; has extensive experience
+as a multi-unit restaurant operator, consultant, brand / product positioning
+expert, and public speaking he will provide success clues for all.<span style="mso-spacerun: yes;">&nbsp; </span></span><a href="http://www.foodservicesolutions.us/"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">www.FoodserviceSolutions.us</span></a><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"> or </span><a href="http://www.grocerantguru.com/"><span style="font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;">www.GrocerantGuru.com</span></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-JpNBKWNPGLw/VrXjkJP_4CI/AAAAAAAAObM/8-dm7BaBbDA/s1600/taco-bell-1-dollar-breakfast-value-menu-test.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="208" src="https://3.bp.blogspot.com/-JpNBKWNPGLw/VrXjkJP_4CI/AAAAAAAAObM/8-dm7BaBbDA/s400/taco-bell-1-dollar-breakfast-value-menu-test.jpg" width="400" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-Tr2mTmbEVBo/VrXjVU7Pc0I/AAAAAAAAObI/uGBalkDLxqE/s1600/subway.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="147" src="https://4.bp.blogspot.com/-Tr2mTmbEVBo/VrXjVU7Pc0I/AAAAAAAAObI/uGBalkDLxqE/s400/subway.jpg" width="400" /></a></div>
+<div class="MsoNormal" style="line-height: normal; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-Op1ySuWCv48/VrXjvA9MZHI/AAAAAAAAObU/9H5AUaIvw_w/s1600/Grocerant.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="80" src="https://2.bp.blogspot.com/-Op1ySuWCv48/VrXjvA9MZHI/AAAAAAAAObU/9H5AUaIvw_w/s400/Grocerant.jpg" width="400" /></a></div>
+<u><span style="color: blue; font-family: &quot;arial narrow&quot; , &quot;sans-serif&quot;; font-size: 12.0pt;"></span></u><br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/111377870527725404137' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/111377870527725404137' rel='author' title='author profile'>
+<span itemprop='name'>Steven Johnson</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html' itemprop='url'/>
+<a class='timestamp-link' href='http://www.grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2016-02-06T04:15:00-08:00'>4:15 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=8720274509033422956&postID=9129437656386958474' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='//img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-762975531'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8720274509033422956&postID=9129437656386958474&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='//img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>No comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<p>
+</p>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=8720274509033422956&postID=9129437656386958474' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410px' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1869355291-comment_from_post_iframe.js"></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+<a name='links'></a><h4>
+</h4>
+<p class='comment-footer'>
+<a class='comment-link' href='' id='Blog1_backlinks-create-link' target='_blank'>
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://www.grocerants.blogspot.com/2016/02/winn-dixies-new-concept-store-is-winner.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://www.grocerants.blogspot.com/2016/02/the-market-pinkies-is-perfect-super.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://www.grocerants.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://grocerants.blogspot.com/feeds/9129437656386958474/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div></div>
+<div id='sidebar-wrap'>
+<div id='sidebartop-wrap'><div id='sidebartop-wrap2'>
+<div class='sidebar section' id='sidebartop'><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>Grocerant Consultant Food Industry Guru</h2>
+<div class='widget-content'>
+<a href='https://plus.google.com/111377870527725404137'><img alt='My Photo' class='profile-img' height='80' src='//lh3.googleusercontent.com/-K6rMGR5SDZQ/AAAAAAAAAAI/AAAAAAAAD2A/D4E4rej9vgA/s80-c/photo.jpg' width='80'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://plus.google.com/111377870527725404137' rel='author' style='background-image: url(//www.google.com/images/icons/ui/gprofile_button-16.png);'>
+</a>
+<br/>
+<div class='g-follow' data-annotation='bubble' data-height='20' data-href='https://plus.google.com/111377870527725404137'></div>
+</dt>
+</dl>
+<a class='profile-link' href='https://plus.google.com/111377870527725404137' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8720274509033422956&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebartop' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div></div>
+<div id='sidebarbottom-wrap1'><div id='sidebarbottom-wrap2'>
+<div class='sidebar section' id='sidebar'><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "https://www.blogger.com/feeds/8720274509033422956/posts/default/9129437656386958474";
+            
+            
+            
+              holder.currentComments = "https://www.blogger.com/feeds/8720274509033422956/9129437656386958474/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 9129437656386958474
+          
+          
+          
+            holder.postFeed = "https://www.blogger.com/feeds/8720274509033422956/posts/default";
+          
+          
+          
+            holder.commentFeed = "https://www.blogger.com/feeds/8720274509033422956/comments/default";
+          
+          holder.currentBlogUrl = "http://grocerants.blogspot.com/";
+          holder.currentBlogId = "8720274509033422956";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-1f4vhed6syos2" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#000000";
+    skin['ENDCAP_LINK_COLOR'] = "#000000";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#000000";
+    skin['CONTENT_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#FFFFFF";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#000000";
+    skin['CONTENT_HEADLINE_COLOR'] = "#000000";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-1f4vhed6syos2",
+     height: 260,
+     
+     
+     
+     site: "14669510393265170629",
+     locale: 'en' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8720274509033422956&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2016-01-01T00:00:00-08:00&amp;updated-max=2017-01-01T00:00:00-08:00&amp;max-results=50'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(120)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2016_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2016_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2016_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+<ul class='posts'>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/foodservice-solutions-grocerant-guru.html'>Foodservice Solutions&#174; Grocerant Guru&#174; the Grocera...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/thorntons-food-quality-ready-2-eat.html'>Thorntons Food Quality Ready-2-Eat Fresh Food</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/grocery-stores-diminishing-customer.html'>Grocery Stores Diminishing Customer Value</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/7-eleven-foodservice-day-part-expansion.html'>7-Eleven Foodservice Day-part Expansion</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/another-convenience-store-drive-thru.html'>Another Convenience Store Drive-Thru Draw&#8217;s Custom...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/question-whats-for-dinner-answer.html'>Question: What&#8217;s for Dinner? Answer: Grocerant Fre...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/eating-out-while-eating-in-is-new-normal.html'>Eating-Out While Eating-In Is The New Normal</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/grocerant-bundled-meal-components-drive.html'>Grocerant Bundled Meal Components Drive Sales Succ...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/union-square-hospitality-group-is.html'>Union Square Hospitality Group is  &#8216;Better Than a ...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/food-delivery-services-platform-for.html'>Food Delivery Services a Platform for Eating-Out w...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/qsrs-utilizing-two-tier-pricing-find.html'>QSR&#8217;s Utilizing Two Tier Pricing Find Success</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/fuddruckers-hits-road-with-travelcenters.html'>Fuddruckers Hits the Road with TravelCenters</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/for-grocerant-success-think-time-trumps.html'>For Grocerant Success Think Time Trumps Price</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/whole-foods-understands-when-customer.html'>Whole Foods Understands When the Customer Moves th...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/on-border-mexican-grill-cantina-targets.html'>On The Border Mexican Grill &amp; Cantina Targets Pric...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/grocerants-continue-garnering.html'>Grocerants Continue Garnering Restaurant Customers...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/are-meal-kits-new-food-marketing-tool.html'>Are Meal Kit&#8217;s the New Food Marketing Tool?</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/eatzis-whole-foods-evolving-growing.html'>Eatzi&#8217;s Whole Foods Evolving Growing Grocerant Suc...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/arbys-price-value-drives-success.html'>Arby&#8217;s Price Value Drives Success</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/can-you-hear-dominos-pizza-now-its.html'>Can you Hear Domino&#8217;s Pizza Now? It&#8217;s Echoing Succ...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/ikeas-evolves-from-fit-furniture-to.html'>Ikea&#8217;s Evolution from Fit Furniture to Fine Food F...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/winn-dixies-new-concept-store-is-winner.html'>Winn Dixie&#8217;s New Concept Store Is A Winner</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html'>Subway, Pizza Hut, Dunkin Donuts Re-evaluate Prici...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/the-market-pinkies-is-perfect-super.html'>The Market @Pinkie&#39;s is Perfect Super Bowl Party F...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/krogers-new-concept-store-main-vine.html'>Kroger&#8217;s &#8216;New Concept Store&#8217; Main &amp; Vine</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/at-newks-eatery-eat-in-or-eat-out-your.html'>At Newk&#8217;s Eatery Eat-In or Eat-Out your Eating Wel...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/muscle-maker-grill-better-for-you-meal.html'>Muscle Maker Grill &#8216;Better for You&#8217; Meal Starter K...</a></li>
+<li><a href='http://www.grocerants.blogspot.com/2016/02/handheld-food-for-immediate-consumption.html'>Handheld Food for Immediate Consumption Is Driving...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2016_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2015-01-01T00:00:00-08:00&amp;updated-max=2016-01-01T00:00:00-08:00&amp;max-results=50'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(362)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2015_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2014-01-01T00:00:00-08:00&amp;updated-max=2015-01-01T00:00:00-08:00&amp;max-results=50'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(359)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2014_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&amp;updated-max=2014-01-01T00:00:00-08:00&amp;max-results=50'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(358)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2013_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&amp;updated-max=2013-01-01T00:00:00-08:00&amp;max-results=50'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(358)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2012_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&amp;updated-max=2012-01-01T00:00:00-08:00&amp;max-results=50'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(292)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2011_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2010-01-01T00:00:00-08:00&amp;updated-max=2011-01-01T00:00:00-08:00&amp;max-results=50'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(300)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2010_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&amp;updated-max=2010-01-01T00:00:00-08:00&amp;max-results=50'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(228)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://www.grocerants.blogspot.com/2009_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=8720274509033422956&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div></div>
+</div>
+<div id='footer-wrap1'><div id='footer-wrap2'>
+<div class='footer section' id='footer'></div>
+</div></div>
+</div>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2129857996-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '8720274509033422956';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8720274509033422956','//www.grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html','8720274509033422956');
+_WidgetManager._SetDataContext([{'name': 'options', 'data': {}}, {'name': 'blog', 'data': {'blogId': '8720274509033422956', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Foodservice Solutions', 'pageType': 'item', 'postId': '9129437656386958474', 'url': 'http://www.grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html', 'canonicalUrl': 'http://grocerants.blogspot.com/2016/02/subway-pizza-hut-dunkin-donuts.html', 'homepageUrl': 'http://www.grocerants.blogspot.com/', 'canonicalHomepageUrl': 'http://grocerants.blogspot.com/', 'blogspotFaviconUrl': 'http://www.grocerants.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': 'Subway, Pizza Hut, Dunkin Donuts Re-evaluate Pricing', 'pageTitle': 'Foodservice Solutions: Subway, Pizza Hut, Dunkin Donuts Re-evaluate Pricing', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foodservice Solutions - Atom\x22 href\x3d\x22http://grocerants.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Foodservice Solutions - RSS\x22 href\x3d\x22http://grocerants.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foodservice Solutions - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8720274509033422956/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Foodservice Solutions - Atom\x22 href\x3d\x22http://grocerants.blogspot.com/feeds/9129437656386958474/comments/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'googleProfileUrl': 'https://plus.google.com/111377870527725404137', 'postImageThumbnailUrl': 'https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s72-c/BK.png', 'postImageUrl': 'https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s400/BK.png', 'latencyHeadScript': '\x3cscript type\x3d\x22text/javascript\x22\x3e(function() { (function(){function c(a){this.t\x3d{};this.tick\x3dfunction(a,c,b){var d\x3dvoid 0!\x3db?b:(new Date).getTime();this.t[a]\x3d[d,c];if(void 0\x3d\x3db)try{window.console.timeStamp(\x22CSI/\x22+a)}catch(e){}};this.tick(\x22start\x22,null,a)}var a;window.performance\x26\x26(a\x3dwindow.performance.timing);var h\x3da?new c(a.responseStart):new c;window.jstiming\x3d{Timer:c,load:h};if(a){var b\x3da.navigationStart,e\x3da.responseStart;0\x3cb\x26\x26e\x3e\x3db\x26\x26(window.jstiming.srt\x3de-b)}if(a){var d\x3dwindow.jstiming.load;0\x3cb\x26\x26e\x3e\x3db\x26\x26(d.tick(\x22_wtsrt\x22,void 0,b),d.tick(\x22wtsrt_\x22,\n\x22_wtsrt\x22,e),d.tick(\x22tbsd_\x22,\x22wtsrt_\x22))}try{a\x3dnull,window.chrome\x26\x26window.chrome.csi\x26\x26(a\x3dMath.floor(window.chrome.csi().pageT),d\x26\x260\x3cb\x26\x26(d.tick(\x22_tbnd\x22,void 0,window.chrome.csi().startE),d.tick(\x22tbnd_\x22,\x22_tbnd\x22,b))),null\x3d\x3da\x26\x26window.gtbExternal\x26\x26(a\x3dwindow.gtbExternal.pageT()),null\x3d\x3da\x26\x26window.external\x26\x26(a\x3dwindow.external.pageT,d\x26\x260\x3cb\x26\x26(d.tick(\x22_tbnd\x22,void 0,window.external.startE),d.tick(\x22tbnd_\x22,\x22_tbnd\x22,b))),a\x26\x26(window.jstiming.pt\x3da)}catch(k){}})();window.tickAboveFold\x3dfunction(c){var a\x3d0;if(c.offsetParent){do a+\x3dc.offsetTop;while(c\x3dc.offsetParent)}c\x3da;750\x3e\x3dc\x26\x26window.jstiming.load.tick(\x22aft\x22)};var f\x3d!1;function g(){f||(f\x3d!0,window.jstiming.load.tick(\x22firstScrollTime\x22))}window.addEventListener?window.addEventListener(\x22scroll\x22,g,!1):window.attachEvent(\x22onscroll\x22,g);\n })();\x3c/script\x3e', 'mobileHeadScript': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7f2e3ee2033f134d', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'features', 'data': {'openGraphMetadata': true, 'widgetVisibility': true}}, {'name': 'messages', 'data': {'adsGoHere': 'Ads go here', 'archive': 'Archive', 'authorSaid': '%1 said...', 'authorSaidWithLink': '\x3ca href\x3d\x22%2\x22 rel\x3d\x22nofollow\x22\x3e%1\x3c/a\x3e said...', 'blogArchive': 'Blog Archive', 'by': 'By', 'byAuthor': 'By %1', 'byAuthorLink': 'By \x3ca href\x3d\x22%2\x22\x3e%1\x3c/a\x3e', 'configurationRequired': 'Configuration required', 'deleteBacklink': 'Delete Backlink', 'deleteComment': 'Delete Comment', 'edit': 'Edit', 'emailAddress': 'Email Address', 'getEmailNotifications': 'Get email notifications', 'hidden': 'Hidden', 'keepReading': 'Keep reading', 'labels': 'Labels', 'loadMorePosts': 'Load more posts', 'loading': 'Loading...', 'myBlogList': 'My Blog List', 'myFavoriteSites': 'My favorite sites', 'newer': 'Newer', 'newerPosts': 'Newer Posts', 'newest': 'Newest', 'noResultsFound': 'No results found', 'noTitle': 'No title', 'numberOfComments': '{numComments, plural, \x3d0 {No comments} \x3d1 {1 comment} other {# comments}}', 'older': 'Older', 'olderPosts': 'Older Posts', 'oldest': 'Oldest', 'onlyTeamMembersCanComment': 'Note: Only a member of this blog may post a comment.', 'popularPosts': 'Popular Posts', 'popularPostsFromThisBlog': 'Popular posts from this blog', 'postAComment': 'Post a Comment', 'postedBy': 'Posted by', 'postedByAuthor': 'Posted by %1', 'postedByAuthorLink': 'Posted by \x3ca href\x3d\x22%2\x22\x3e%1\x3c/a\x3e', 'readMore': 'Read more', 'reportAbuse': 'Report Abuse', 'search': 'Search', 'searchBlog': 'Search blog', 'share': 'Share', 'showAll': 'Show all', 'showLess': 'Show less', 'showMore': 'Show more', 'someOfMyFavoriteSites': 'Some of my favorite sites', 'subscribe': 'Subscribe', 'subscribeTo': 'Subscribe to:', 'subscribeToThisBlog': 'Subscribe to this blog', 'theresNothingHere': 'There\x27s nothing here!', 'viewAll': 'View all', 'visible': 'Visible', 'visitProfile': 'Visit profile', 'widgetNotAvailableInPreview': 'This content is not available in blog preview.', 'widgetNotAvailableOnHttps': 'This content is not yet available over encrypted connections.'}}, {'name': 'skin', 'data': {'vars': {'titleTextColor': '#ffffff', 'topSidebarTextColor': '#ffffff', 'endSide': 'right', 'borderColor': '#bbbbbb', 'topSidebarVisitedLinkColor': '#dddddd', 'headerFont': 'normal bold 100% \x27Trebuchet MS\x27,Verdana,Arial,Sans-serif', 'pageTitleFont': 'normal bold 200% \x27Trebuchet MS\x27,Verdana,Arial,Sans-serif', 'bodyFont': 'normal normal 100% \x27Trebuchet MS\x27,Verdana,Arial,Sans-serif', 'mainBgColor': '#ffffff', 'topSidebarHeaderColor': '#ffffff', 'startSide': 'left', 'dateHeaderColor': '#881100', 'titleBgColor': '#771100', 'postTitleColor': '#333333', 'topSidebarLinkColor': '#ffffff', 'descriptionFont': 'normal normal 100% \x27Trebuchet MS\x27,Verdana,Arial,Sans-serif', 'topSidebarBgColor': '#999999', 'mainLinkColor': '#bb3300', 'postTitleFont': 'normal bold 135% \x27Trebuchet MS\x27,Verdana,Arial,Sans-serif', 'mainTextColor': '#000000', 'mainVisitedLinkColor': '#cc6633'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'title': 'Subway, Pizza Hut, Dunkin Donuts Re-evaluate Pricing', 'description': '            Success does leave clues and when customer counts decline, sales become stagnant, and competitors are garnering market share it&#8217;...', 'featuredImage': 'https://3.bp.blogspot.com/-uKhFMDZqq1I/VrXjETtmI9I/AAAAAAAAObE/BRoYxlBKj64/s400/BK.png'}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'showBacklinks': true, 'postId': '9129437656386958474', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2863887394-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/306752634-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebartop', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading...'}, 'displayModeFull'));
+</script>
+</body>
+</html>

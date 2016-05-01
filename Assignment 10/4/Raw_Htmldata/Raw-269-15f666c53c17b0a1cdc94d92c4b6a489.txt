@@ -1,0 +1,1169 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="Windows-1252">
+  <meta http-equiv="Content-Language" content="en" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--meta http-equiv="X-UA-Compatible" content="IE=edge" /-->
+  <title>BINGBING Blog </title>
+  
+    <meta name="keywords" content="BINGBING, Blog, Celeb, Cocktail, Delight, Fashion, Fortune, Luxury, Play, Exciting BINGBING World, Everything You Want To Know, app, game, video, google, apple, app, amazon, youtube, twitter, facebook, googleplus, yahoo, bing, baidu, free, ipad, iphone, android, app, magazine, winter 2012, diet, exercise, calorie, app store, apple, pdf"/>
+ <meta name="description" content="BINGBING, Blog, Celeb, Cocktail, Delight, Fashion, Fortune, Luxury, Play, Read, Exciting BINGBING World"/>
+ <meta http-equiv="Content-Language" content="en" /> 
+ <link rel="shortcut icon" href="/images/favicon.ico"/>
+ <link rel="icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico"/>
+ <link rel="icon" type="image/png" href="/images/favicon.png?version=1"/>
+
+ <!-- facebook image -->
+  <meta property="og:url" content='http://www.thebingbing.com/blog/1602403'>
+ <meta property="og:image" content='http://www.mensfitness.com/sites/mensfitness.com/files/large-sub-sandwich-main.jpg'>
+ <meta property="og:title" content='Fit Fix People Are Pretty Pissed About Subway&#039;s New  '>
+
+
+ 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="/jquery.min.js?version=1"></script>
+<!-- image crop support -->
+<link rel="stylesheet" href="/jquery.Jcrop.css?version=1" type="text/css" />
+<script src="/jquery.Jcrop.js?version=1"></script>
+
+<!-- filehandling -->
+<script src="/filehandler.js?version=5"></script>
+<link href="/main.css?version=1" rel="stylesheet"/>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<link href="/bootstrap.css?version=1" rel="stylesheet" />
+<script src="/bootstrap.min.js?version=1"></script>
+
+
+<!-- additional fonts -->
+<link rel="stylesheet" href="/themify-icons.css?version=1">
+
+<!-- Custom styles for this template -->
+
+<link href="/sticky-footer.css?version=1" rel="stylesheet"/>
+<link href="/styles.css?version=4" rel="stylesheet"/>
+<link href="/slidemenu.css?version=2" rel="stylesheet"/>
+
+<!-- helper scripts -->
+<script src="/classie.js?version=1"></script>
+<script src="/megapix-images.js?version=1"></script>
+
+<!-- my scripts -->
+<script src="/scripts.js?version=39"></script>
+
+
+<!-- small scrollbars -->	
+<script src="/enscroll-0.6.1.min.js?version=1"></script>
+
+<script src="/jquery.slimscroll.js?version=1"></script>
+
+<!-- visibility -->
+<script src="/visibility.fallback.js?version=1"></script>
+<script src="/visibility.core.js?version=1"></script>
+<script src="/visibility.timers.js?version=1"></script>
+
+<!-- notifications -->
+<link href="/bootstrap-notify.css?version=1" rel="stylesheet">
+
+<!-- Custom notifications Styles -->
+<script src="/bootstrap-notify.js?version=2"></script>
+
+
+<script >
+$(function() {
+			$('.collapse.show-footer').on('show.bs.collapse', 
+				function () 
+				{
+					$("html, body").animate({ scrollTop: $(document).height() }, "slow");
+				});
+			});
+</script>
+<style type="text/css">
+
+	/* Apply these styles only when #preview-pane has
+	   been placed within the Jcrop widget */
+	.jcrop-holder #preview-pane {
+	  display: block;
+	  position: absolute;
+	  z-index: 2000;
+	  top: 10px;
+	  right: -180px;
+	  padding: 6px;
+	  border: 1px rgba(0,0,0,.4) solid;
+	  background-color: white;
+
+	  -webkit-border-radius: 6px;
+	  -moz-border-radius: 6px;
+	  border-radius: 6px;
+
+	  -webkit-box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+	  -moz-box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+	  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+	}
+
+	/* The Javascript code will set the aspect ratio of the crop
+	   area based on the size of the thumbnail preview,
+	   specified here */
+	#preview-pane .preview-container {
+	  width: 64px;
+	  height: 64px;
+	  overflow: hidden;
+	}
+
+	</style>
+	
+
+
+  
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-546dd3650a014459">
+</script>
+  
+	<!-- run script that will populate the buzz -->
+	<script type="text/javascript">
+		
+		$(document).ready(function() {
+			BlogSetup("blog","bingbingblog",'','1602403');
+
+		});
+		
+	</script>
+	
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38335489-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+
+
+
+<body class="cbp-spmenu-push">
+
+<!--?php include("header_links_blog.php"); ?-->
+
+
+<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s2" data-spy="affix" data-offset-top="150">
+
+    <a class="h3link"  href="/" >Home</a>
+	<a class="h3link"  href="/celeb" >Celeb</a>
+	<a class="h3link"  href="/delight" >Delight</a>
+	<a class="h3link"  href="/fashion" >Fashion</a>
+	<a class="h3link"  href="/fortune" >Fortune</a>
+	<a class="h3link"  href="/luxury" >Luxury</a>
+	<a class="h3link"  href="/play" >Play</a>
+	<a class="h3link"  href="/read" >Read</a>
+    
+</nav>
+
+
+    <nav class="navbar  headerBlog ">
+        <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2">
+            <button type="button" class="menu_button " onclick="showMenu(); return false;" id="showBtn">
+                <!--span class="ti-menu show_button"></span-->
+                <span class="glyphicon glyphicon-icon-bar show_button"></span>
+                <span class="glyphicon glyphicon-icon-bar show_button"></span>
+                <span class="glyphicon glyphicon-icon-bar show_button"></span>
+            </button>
+            
+            <button type="button" class="menu_close_button hidden" onclick="showMenu(); return false;" id="closeBtn">
+                X
+            </button>
+        </div>
+
+		<div class="col-lg-6 col-xs-8 headerWhite">
+			<div class="row fixWhiteSpace">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 vcenter">
+					<img src="http://www.thebingbing.com/images/bingbingblog.png?version=1" class="img-responsive logoPadding  bb_pad_bottom center-block" alt="BINGBING Blog">
+				</div> 
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 vcenter">
+					<img src="http://www.thebingbing.com/images/about.png?version=1" class="img-responsive logoPadding  bb_pad_bottom center-block" alt="Everything on Health, Fitness, Beauty & Style">
+				</div> 
+			</div>  		
+		</div>   
+		
+        
+        <div class="col-lg-3 col-md-2 col-sm-2 col-xs-2">
+
+        </div>
+    
+	</nav>
+    
+	
+
+<div class="container-fluid" id="indexContainer">
+
+	 <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12 col-lg-push-2 col-md-push-3 col-sm-push-3 ">
+			<div class="row" name="ArticlesGroup">
+
+	<div name="ArticlesListGroup">
+		<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ArticlesListGroup" name="ArticlesListGroup">
+
+		</div>
+		<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ArticlesListGroup2" name="ArticlesListGroup2">
+
+		</div>
+		<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 ArticlesListGroup3" name="ArticlesListGroup3">
+
+		</div>
+	</div>	
+</div>
+<div class="row">
+
+    <div class="loadMore" id="loadMoreAccArticles" >
+    </div>
+    <!--h2 class="hidden loadMoreText" id="loadMoreAccArticlesText"> Loading More </h2-->
+    <span class="glyphicon glyphicon-refresh glyphicon-spin loadspinner" id="AccArticlesSpinner"></span>
+    
+</div>
+
+
+	</div>
+
+	<div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 col-sm-push-3 col-lg-push-2 ">
+		<div class="row" id="sticker" data-spy="affix" data-offset-top="150" >
+				<div class="well panel_trans">
+	<form role="form" action="" method="post" id="loginform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control" name="username" id="username">
+		</div>
+		<div class="form-group">
+			<input type="password" placeholder="Password" class="form-control" name="password" id="password">
+		</div>
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="Login(this.form);return false;">Login</button>
+	</form>
+	<button type="submit" class="btn btn-bbwhite buttonBB" onClick="GotoForgotPassword();return false;">Forgot Password ?</button>
+	</form>
+</div>
+<div class="well panel_trans signup_front center-block roundbb">
+	<form role="form" action="" method="post" id="signupform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control noroundbb" name="username" id="username">
+		</div>
+		<div class="form-groupbb">
+			<input type="password" placeholder="Password" class="form-control noroundbb" name="password" id="password">
+		</div>
+		<div class="form-group">
+				<input type="email" placeholder="Email" class="form-control noroundbb" name="email" id="email">
+		</div>
+		<!--
+		<div class="checkbox">
+			<label><input type="checkbox"> Remember me</label>
+		</div>
+		-->
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="presignup(this.form); return false;">Sign Up</button>
+	</form>
+</div>
+	
+
+			<div class="hidden-xs">
+				
+<div class="">
+	
+		<div class="center-block adPadding amazon_ad180150 visible-sm visible-md">
+			<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "tb00d-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_linkid = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_emphasize_categories = "51569011, 3760911, 16310101, 3760901, 3375251";
+  amzn_assoc_fallback_products = "B002CVU2HG,B00NBOKTJO, 7245456313, B00N2BW2PK";
+  amzn_assoc_width = "180";
+  amzn_assoc_height = "150";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>		</div>
+		
+		<div class="center-block adPadding amazon_ad180150 visible-sm visible-md">
+			<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "tb00d-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_linkid = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_emphasize_categories = "51569011, 3760911, 16310101, 3760901, 3375251";
+  amzn_assoc_fallback_products = "B000YJ2SLG,B000I5MJ8S,B00DPE9EQO,B0014P8L9W";
+  amzn_assoc_width = "180";
+  amzn_assoc_height = "150";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>		</div>
+		
+		<div class="center-block adPadding amazon_ad180150 visible-sm visible-md">
+			<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "tb00d-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_linkid = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_emphasize_categories = "51569011, 3760911, 16310101, 3760901, 3375251";
+  amzn_assoc_fallback_products = "1607747065,1451699379,1401946194,0446581356";
+  amzn_assoc_width = "180";
+  amzn_assoc_height = "150";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>		</div>
+		
+		<div class="center-block adPadding amazon_ad300250 hidden-xs hidden-sm hidden-md">
+			<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "tb00d-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_linkid = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_emphasize_categories = "51569011, 3760911, 16310101, 3760901, 3375251";
+  amzn_assoc_fallback_products = "B002CVU2HG,B00NBOKTJO, 7245456313, B00N2BW2PK";
+  amzn_assoc_width = "300";
+  amzn_assoc_height = "250";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>		</div>
+		
+		<div class="center-block adPadding amazon_ad300250 hidden-xs hidden-sm hidden-md">
+			<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "tb00d-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_linkid = "MWV7KEJEZY7DNMU6";
+  amzn_assoc_emphasize_categories = "51569011, 3760911, 16310101, 3760901, 3375251";
+  amzn_assoc_fallback_products = "B000YJ2SLG,B000I5MJ8S,B00DPE9EQO,B0014P8L9W";
+  amzn_assoc_width = "300";
+  amzn_assoc_height = "250";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>		</div>
+
+</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 col-sm-pull-9 col-lg-pull-10 col-md-pull-9 ">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-10">
+			<!--?php include("bb_connection_panel_blog.php"); ?-->
+			<div class="well panel_trans">
+	
+	<h4 class="bbTextColor"> BINGBING Buzz </h4>
+
+		<!--div class="list-group scrollbox3" name="TopBuzzListGroup"-->
+		<div class="list-group scrollbox3" name="FrontPageBuzzListGroup">
+		
+		</div>
+		<div class="loadMore" id="loadMoreFrontPageBuzz" > 
+		</div>
+		<!--h2 class="hidden loadMoreText" id="loadMoreFrontPageBuzzText"> Loading More </h2-->
+        <span class="glyphicon glyphicon-refresh hidden" id="FrontPageSpinner"></span>
+</div>
+
+
+
+ 
+			<div class="visible-xs-block">
+				
+<div class="well panel_trans">
+	<div class="col">
+		<H4 class="text-center bbTextColor"> Get Your Weekend App </H4>
+
+
+		<img src="http://www.thebingbing.com/images/app_icon.png?version=1" class="img-responsive center-block bb_pad_bottom" alt="Weekend App">
+		
+		<a href="https://itunes.apple.com/us/app/bingbing-weekend-hd/id949879371?ls=1&mt=8" target="_blank">
+			<img src="http://www.thebingbing.com/images/appstore.png?version=1" class="img-responsive center-block bb_pad_bottom" alt="App Store">
+		</a>	
+		
+
+		<img src="http://www.thebingbing.com/images/googleplay.png?version=1" class="img-responsive center-block" alt="Google Play">
+	</div>
+</div>
+				
+<div class="well panel_trans">
+	<div class="col">
+		<H4 class="text-center bbTextColor"> Play BINGBING Games </H4>
+
+		<div class="c-wrapper">
+			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+			  <!-- Indicators -->
+			  <ol class="carousel-indicators">
+				<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+			  </ol>
+
+			  <!-- Wrapper for slides -->
+			  <div class="carousel-inner" role="listbox">
+				<div class="item active ">
+					<a href="http://www.thebingbing.com/games" target="_blank">
+						<img src="/images/games/veggie_match.jpg?version=1" alt="Veggie Match">
+					</a>	
+				</div>
+				<div class="item">
+					<a href="http://www.thebingbing.com/games" target="_blank">
+						<img src="/images/games/calorie_attacker.jpg?version=1" alt="Calorie Attacker">
+					</a>	
+				</div>
+				<div class="item">
+					<a href="http://www.thebingbing.com/games" target="_blank">	
+						<img src="/images/games/food_jack.jpg?version=1" alt="Food Jack">
+					</a> 
+				</div>
+				<div class="item">
+					<a href="http://www.thebingbing.com/games" target="_blank">
+						<img src="/images/games/diet_match.jpg?version=1" alt="Diet Match">
+					</a>	
+				</div>
+				<div class="item">
+					<a href="http://www.thebingbing.com/games" target="_blank">
+						<img src="/images/games/calorie_killer.jpg?version=1" alt="Calorie Killer">
+					</a>	
+				</div>
+
+			  </div>
+
+			  <!-- Controls -->
+			  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			  </a>
+			  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			  </a>
+			</div>
+		</div>
+	</div>	
+</div>
+				<div class="well panel_trans">
+<a href="http://www.accuweather.com/en/gb/london/ec4a-2/weather-forecast/328328" class="aw-widget-legal">
+<!--
+By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at http://www.accuweather.com/en/privacy.
+-->
+</a><div id="awcc1410130215274" class="aw-widget-current"  data-locationkey="" data-unit="c" data-language="en-us" data-useip="true" data-uid="awcc1410130215274"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
+</div>				<div class="well panel_trans social_panel">
+	<div class="row">
+		
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.twitter.com" target="_blank">
+			<img src="/images/twitter_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.facebook.com/" target="_blank">
+				<img src="/images/fb_icon.png?version=1" class="img-responsive bb_pad_bottom" > </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.pinterest.com/" target="_blank">
+			
+			<img src="/images/pinterest_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.instagram.com/" target="_blank">	
+				<img src="/images/instagram_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+	</div>	
+	<div class="row">
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.tumblr.com/" target="_blank">
+				<img src="/images/tumblr_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://plus.google.com/" target="_blank">
+			
+				<img src="/images/googleplus_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://mail.google.com/" target="_blank">
+			
+				<img src="/images/gmail_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.youtube.com/" target="_blank">
+			
+				<img src="/images/youtube_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+	</div>		
+	<div class="row">	
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.linkedin.com/" target="_blank">
+			
+				<img src="/images/linkedin_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.amazon.com/" target="_blank">
+			
+				<img src="/images/amazon_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.weibo.com/" target="_blank">
+			
+				<img src="/images/weibo_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.wechat.com/" target="_blank">
+			
+				<img src="/images/wechat_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+	</div>	
+	<div class="row">	
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.baidu.com/" target="_blank">
+			
+				<img src="/images/baidu_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.imqq.com/" target="_blank">
+			
+				<img src="/images/imqq_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.taobao.com/" target="_blank">
+			
+				<img src="/images/taobao_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="http://www.hao123.cn/" target="_blank">
+			
+				<img src="/images/hao123_icon.png?version=1" class="img-responsive bb_pad_bottom"> </img>
+			</a>
+		</div>
+	</div>		
+</div>
+			</div>
+		</div>
+		<div class="col-xs-3">
+		</div>
+	 </div>
+
+ </div>
+ 
+ <!-- Modal for sign up error etc -->
+<div class="container modal fade " id="myModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+	  <div class="modal-dialog">
+		<div class="modal-content panel_trans_popup">
+		  <div class="modal-header ">
+			<button type="button" class="popupCloseBtn" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			<h3 class="modal-title text-center bbTextColorWhite modalTitleAttr" id="myModalLabel">
+			Sign Up Error
+			</h3>
+		  </div>
+		  <div class="modal-body">
+			<h4 id="myModalMessage" class="text-center bbTextColorWhite modalMsgAttr" >
+			
+			</h4>
+		  </div>
+		  <!--div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		  </div-->
+		</div>
+	  </div>
+	</div> 
+	
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+</div>
+
+<div class="container modal fade" id="Modal1" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+	  <div class="modal-dialog">
+		<div class="modal-content panel_trans_popup">
+		  <div class="modal-header">
+			<!--button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button-->
+			<h3 class="modal-title text-center bbTextColorWhite modalTitleAttr" id="ModalLabel1">
+			Sign Up In progress
+			</h3>
+            <div class="text-center">
+                <span class="glyphicon glyphicon-refresh hidden" id="popupSpinner"></span>
+            </div>
+		  </div>
+		  <div class="modal-body">
+			<h4 id="ModalMessage1" class="text-center bbTextColorWhite modalMsgAttr">
+			</h4>
+		  </div>
+		</div>
+	  </div>
+	 </div> 
+	
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div> 
+</div>
+
+<div class="container modal fade" id="ModalSignup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalSignup" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+	  <div class="modal-dialog dialogOffset">
+		<div class="modal-content panel_trans_popup">
+		  <div class="modal-header">
+			<!--button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button-->
+			<h3 class="modal-title text-center bbTextColorWhite modalTitleAttr" id="ModalSignupLabel">
+			Please Sign Up
+			</h3>
+		  </div>
+		  <div class="modal-body">
+			<h4 id="ModalSignupMessage" class="text-center bbTextColorWhite modalMsgAttr">
+			</h4>
+			<div class="well panel_trans signup_front center-block roundbb">
+	<form role="form" action="" method="post" id="signupform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control noroundbb" name="username" id="username">
+		</div>
+		<div class="form-groupbb">
+			<input type="password" placeholder="Password" class="form-control noroundbb" name="password" id="password">
+		</div>
+		<div class="form-group">
+				<input type="email" placeholder="Email" class="form-control noroundbb" name="email" id="email">
+		</div>
+		<!--
+		<div class="checkbox">
+			<label><input type="checkbox"> Remember me</label>
+		</div>
+		-->
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="presignup(this.form); return false;">Sign Up</button>
+	</form>
+</div>
+			
+			<h4 class="text-center bbTextColorWhite">
+			Or Login with your existing account.
+			</h4>
+			<div class="well panel_trans">
+	<form role="form" action="" method="post" id="loginform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control" name="username" id="username">
+		</div>
+		<div class="form-group">
+			<input type="password" placeholder="Password" class="form-control" name="password" id="password">
+		</div>
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="Login(this.form);return false;">Login</button>
+	</form>
+	<button type="submit" class="btn btn-bbwhite buttonBB" onClick="GotoForgotPassword();return false;">Forgot Password ?</button>
+	</form>
+</div>
+		  </div>
+		</div>
+	  </div>
+	 </div> 
+	
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div> 
+</div>
+
+<div class="container modal fade" id="ModalAccLogin" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalAccLogin" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+	  <div class="modal-dialog">
+		<div class="modal-content panel_trans_popup">
+		  <div class="modal-header">
+			<button type="button" class="popupCloseBtn" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			<h3 class="modal-title text-center bbTextColorWhite modalTitleAttr" id="ModalAccLoginLabel">
+			Please Sign Up
+			</h3>
+		  </div>
+		  <div class="modal-body">
+			<h4 id="ModalAccLoginMessage" class="text-center bbTextColorWhite modalMsgAttr">
+			</h4>
+			<div class="well panel_trans">
+	<form role="form" action="" method="post" id="loginform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control" name="username" id="username">
+		</div>
+		<div class="form-group">
+			<input type="password" placeholder="Password" class="form-control" name="password" id="password">
+		</div>
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="Login(this.form);return false;">Login</button>
+	</form>
+	<button type="submit" class="btn btn-bbwhite buttonBB" onClick="GotoForgotPassword();return false;">Forgot Password ?</button>
+	</form>
+</div>
+		  </div>
+		</div>
+	  </div>
+	 </div> 
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div> 
+</div>
+
+<div class="container modal fade" id="ModalAccSignup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalAccSignup" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+	  <div class="modal-dialog">
+		<div class="modal-content panel_trans_popup">
+		  <div class="modal-header">
+			<button type="button" class="popupCloseBtn" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			<h3 class="modal-title text-center bbTextColorWhite modalTitleAttr" id="ModalAccSignupLabel">
+			Please Sign Up
+			</h3>
+		  </div>
+		  <div class="modal-body">
+			<h4 id="ModalAccSignupMessage" class="text-center bbTextColorWhite modalMsgAttr">
+			</h4>
+			<div class="well panel_trans signup_front center-block roundbb">
+	<form role="form" action="" method="post" id="signupform">
+		<div class="form-groupbb">
+			<input type="text" placeholder="Username" class="form-control noroundbb" name="username" id="username">
+		</div>
+		<div class="form-groupbb">
+			<input type="password" placeholder="Password" class="form-control noroundbb" name="password" id="password">
+		</div>
+		<div class="form-group">
+				<input type="email" placeholder="Email" class="form-control noroundbb" name="email" id="email">
+		</div>
+		<!--
+		<div class="checkbox">
+			<label><input type="checkbox"> Remember me</label>
+		</div>
+		-->
+	<button type="submit" class="btn btn-bbgold buttonBB center-block" onClick="presignup(this.form); return false;">Sign Up</button>
+	</form>
+</div>
+		  </div>
+		</div>
+	  </div>
+	 </div> 
+	<div class="col-lg-3 col-md-3 col-sm-3">
+	</div> 
+</div>
+
+<div class="container modal fade" id="MessagePopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="MessagePopup" aria-hidden="true">
+
+	<div class="modal-dialog dialogOffset">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			<div class="well panel_trans_white_modal">
+
+	<h4 class="bbTextColor" id="accBuzzTitle"> Message </h4>
+
+		<div class="list-group modalscroll" name="AccBuzzPopupListGroup">
+		<div class="reverse"> </div>
+		<!--No messages have been sent yet!-->
+		</div>
+
+</div>
+
+ 
+
+		</div> 
+	 </div> 
+
+</div>
+
+<div class="container modal fade" id="MoodPopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="MoodPopup" aria-hidden="true">
+	<div class="modal-dialog dialogOffset">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			
+<div class="well panel_trans_white_modal well_no_mb">
+	<h3 class="text-center moodQuestion"> What mood are you in ? Choose one !</h3>
+	<div class="hidden-xs">
+		<h5 class="text-center"> Share with BINGBING users</h5>
+	</div>
+
+		<form role="form" action="" method="post" id="moodSelectForm">
+			<div class="row">
+				<div class="col-lg-1 col-md-2 col-sm-2 col-xs-12">
+					<a href="address" class="sendPictureLink" target = "" id="sendPictureLink">
+						<img src="/images/user_picture.png?version=1" class="img-responsive form_solid center-block sendPicture" alt="user picture" name="picture" id="sendPicture">
+					</a>
+					<p class="textCenter pictureUsernameText userNameFull" id="userNameFull">  </p>
+					<div class="visible-xs-block">
+						<h5 class="text-center"> Share with BINGBING users</h5>
+					</div>
+				</div>	
+				<div class="col-lg-11 col-md-10 col-sm-10 col-xs-12">
+				<div class="row">
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Annoyed');return false;">
+							<img src="/images/smilies/1.png?version=1" class="img-responsive form_solid center-block smiley" alt="Annoyed" name="Annoyed" id="Annoyed" >
+							<p class="textCenter pictureUsernameText">Annoyed</p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Baby');return false;">
+							<img src="/images/smilies/2.png?version=1" class="img-responsive form_solid center-block smiley" alt="Baby" name="Baby" id="Baby" >
+							<p class="textCenter pictureUsernameText">Baby  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Loved');return false;">
+							<img src="/images/smilies/3.png?version=1" class="img-responsive form_solid center-block smiley" alt="Loved" name="Loved" id="Loved" >
+							<p class="textCenter pictureUsernameText">Loved </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Blushing');return false;">
+							<img src="/images/smilies/4.png?version=1" class="img-responsive form_solid center-block smiley" alt="Blushing" name="Blushing" id="Blushing" >
+							<p class="textCenter pictureUsernameText">Blushing  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Silly');return false;">
+							<img src="/images/smilies/5.png?version=1" class="img-responsive form_solid center-block smiley" alt="Silly" name="Silly" id="Silly" >
+							<p class="textCenter pictureUsernameText">Silly  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Pleased');return false;">
+							<img src="/images/smilies/6.png?version=1" class="img-responsive form_solid center-block smiley" alt="Pleased" name="Pleased" id="Pleased" >
+							<p class="textCenter pictureUsernameText">Pleased  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Irritated');return false;">
+							<img src="/images/smilies/7.png?version=1" class="img-responsive form_solid center-block smiley" alt="Irritated" name="Irritated" id="Irritated" >
+							<p class="textCenter pictureUsernameText">Irritated  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Crying');return false;">
+							<img src="/images/smilies/8.png?version=1" class="img-responsive form_solid center-block smiley" alt="Crying" name="Crying" id="Crying" >
+							<p class="textCenter pictureUsernameText">Crying  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Angry');return false;">
+							<img src="/images/smilies/9.png?version=1" class="img-responsive form_solid center-block smiley" alt="Angry" name="Angry" id="Angry" >
+							<p class="textCenter pictureUsernameText">Angry  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Cheery');return false;">
+							<img src="/images/smilies/10.png?version=1" class="img-responsive form_solid center-block smiley" alt="Cheery" name="Cheery" id="Cheery" >
+							<p class="textCenter pictureUsernameText">Cheery  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Sad');return false;">
+							<img src="/images/smilies/11.png?version=1" class="img-responsive form_solid center-block smiley" alt="Sad" name="Sad" id="Sad" >
+							<p class="textCenter pictureUsernameText">Sad  </p>
+						</button>
+					</div>	
+					
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Excited');return false;">
+							<img src="/images/smilies/12.png?version=1" class="img-responsive form_solid center-block smiley" alt="Excited" name="Excited" id="Excited" >
+							<p class="textCenter pictureUsernameText">Excited  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Shocked');return false;">
+							<img src="/images/smilies/13.png?version=1" class="img-responsive form_solid center-block smiley" alt="Shocked" name="Shocked" id="Shocked" >
+							<p class="textCenter pictureUsernameText">Shocked  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Joy');return false;">
+							<img src="/images/smilies/14.png?version=1" class="img-responsive form_solid center-block smiley" alt="Joy" name="Joy" id="Joy" >
+							<p class="textCenter pictureUsernameText">Joy  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Fuming');return false;">
+							<img src="/images/smilies/15.png?version=1" class="img-responsive form_solid center-block smiley" alt="Fuming" name="Fuming" id="Fuming" >
+							<p class="textCenter pictureUsernameText">Fuming  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Surprised');return false;">
+							<img src="/images/smilies/16.png?version=1" class="img-responsive form_solid center-block smiley" alt="Surprised" name="Surprised" id="Surprised" >
+							<p class="textCenter pictureUsernameText">Surprised  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Pretty');return false;">
+							<img src="/images/smilies/17.png?version=1" class="img-responsive form_solid center-block smiley" alt="Pretty" name="Pretty" id="Pretty" >
+							<p class="textCenter pictureUsernameText">Pretty  </p>
+						</button>
+					</div>	
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<button class="moodBtn center-block" onClick="ChooseMood('Happy');return false;">
+							<img src="/images/smilies/18.png?version=1" class="img-responsive form_solid center-block smiley" alt="Happy" name="Happy" id="Happy">
+							<p class="textCenter pictureUsernameText">Happy  </p>
+						</button>
+					</div>	
+				
+				</div>
+											
+				</div>
+			</div>	
+		</form>
+
+</div>
+
+
+		</div> 
+	 </div> 
+</div>
+
+<div class="container modal fade" id="InviteFriendPopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="InviteFriendPopup" aria-hidden="true">
+	<div class="modal-dialog dialogOffset">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			
+<div class="well panel_trans_white_modal well_no_mb">
+	<h4 class="text-center"> Invite Your Friends For More Fun </h4>
+
+		<form role="form" action="" method="post" id="inviteFriendForm">
+			<div class="row">
+				<div class="col-lg-1 col-md-2 col-sm-2 col-xs-4">
+					<a href="address" class="sendPictureLink" target = "" id="sendPictureLink">
+						<img src="/images/user_picture.png?version=1" class="img-responsive form_solid center-block sendPicture" alt="user picture" name="picture" id="sendPicture">
+					</a>
+					<p class="textCenter pictureUsernameText userNameFull" id="userNameFull">  </p>
+				</div>	
+				<div class="col-lg-11 col-md-10 col-sm-10 col-xs-8">
+					<textarea placeholder="Join me on The BINGBING to Showcase your Content, Catch the Trend, Connect to Friends ! www.thebingbing.com/" class="form-control sendMessage" rows="5" id="sendMessage" name="sendMessage" onInput="OnInviteFriendMessage(this.form);return false;">Join me on The BINGBING to Showcase your Content, Catch the Trend, Connect to Friends ! www.thebingbing.com/</textarea>
+											
+				</div>
+			</div>
+			<div class="row inviteFriendButtons">
+				<div class="col-lg-1 col-md-2 col-sm-2 col-xs-4">
+				</div>	
+				
+				<div class="col-lg-11 col-md-10 col-sm-10 col-xs-8">
+					<!-- Go to www.addthis.com/dashboard to customize your tools -->
+					<div id="addThisInviteFriend" class="addthis_sharing_toolbox" data-url="http://www.thebingbing.com"   data-title=""></div>
+					
+				</div>	
+				
+			</div>		
+		</form>
+
+</div>
+
+
+		</div> 
+	 </div> 
+</div>
+
+<div class="container modal fade" id="GamesPopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="GamesPopup" aria-hidden="true">
+	<div class="modal-dialog dialogOffset modal_game">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			
+<div class="well panel_trans_white_modal well_no_mb">
+	<h3 class="text-center moodQuestion"> Play a BINGBING Game ?</h3>
+
+	<div class="row">
+
+		<a href="/foodjack" target="_blank">
+			<!--div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"-->
+				<div class="well panel_games">
+					<h2 class="text-center bbTextBlackColor title h2game"> Food Jack </h2>
+					<p class="text-center bbTextBlackColor" >Show off your card Skill
+					</p>
+					<p class="text-center bbTextBlackColor marginbottom" > Beat the BINGBING Dealer. </p>
+					
+				
+					<img src="http://www.thebingbing.com/images/games/food_jack.jpg?version=1" class="img-thumbnail center-block bb_pad_bottom gamesImage marginbottom" alt="Food Jack">
+
+					<div class="center-block">
+							<div class="well  textCenter bbTextBox">
+								<h3 class="bbTextGoldRed bbTextBtn"> PLAY </h3>
+							</div>
+					</div>
+				</div>	
+			<!--/div-->
+		</a>	
+
+	</div>
+
+</div>
+
+
+		</div> 
+	 </div> 
+</div>
+
+
+<div class="container modal fade" id="NewFriendsPopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="NewFriendsPopup" aria-hidden="true">
+	<div class="modal-dialog dialogOffset modal_newfriend">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			
+<div class="well panel_trans_white_modal well_no_mb">
+	<h3 class="text-center moodQuestion choiceTitle"> Meet New Friends !</h3>
+	
+	<h4 class="text-center moodQuestion"> </h4>
+
+	<div class="row">
+		<div class="newfriends" name="NewFriendsGroup"></div>
+	</div>
+	<h4 class="text-center sendabuzz"> Send them a Buzz !</h4>
+	<div class="well  nowellborder">
+	<form role="form" action="" method="post" id="sendMessageForm">
+		<div class="row">
+			<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+				<a href="address" class="sendPictureLink" target = "" id="sendPictureLink">
+					<img src="/images/user_picture.png?version=1" class="img-responsive form_solid center-block sendPicture" alt="user picture" name="picture" id="sendPicture">
+				</a>
+				<p class="textCenter  pictureUsernameText userNameFull" id="userNameFull">  </p>
+			</div>	
+			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">
+				<div class="row">
+					<textarea placeholder="What do you want to share ?" class="form-control  sendMessage" rows="5" id="sendMessage" name="sendMessage" onInput="OnChangeMessage(this.form);return false;"></textarea>
+					
+					<textarea class="hidden" id="recipients" name="recipients" ></textarea>
+				</div>	
+				<div class="list-group friendscroll center-block MentionListGroup" name="MentionListGroup" id="MentionListGroup">
+				</div>
+				<div id="preview-pane" class="row hidden" >
+					<img src="" class="photoPreview" alt="Preview" id="smallpreview_new"/>
+					<button class="btn trashcanBtn" onClick="RemovePhoto(this.form);return false;">
+					<span class="glyphicon glyphicon-trash bbTextColor"> </span
+					</button>
+				</div>
+				<div class="row">
+					<div class="col-lg-10 col-md-10 col-sm-10 col-xs-8 sendMsgCols">
+						<div id="upload-file-container" class="sendMsgBtns hidden">
+							<input type="file" name="image_file_new" id="image_file_new" onchange="AddPhoto(this.form)"/>
+						</div>
+						<!--button type="submit" class="btn btn-bbgold sendMsgBtns"  id="submit" name="submit" onClick="SendMessage(this.form);return false;" >
+						<span class="glyphicon glyphicon-camera"></span>
+						Add Photo
+						</button-->
+						<button type="submit" class="btn btn-bbgold sendMsgBtns" disabled="disabled" id="submit" name="submit" onClick="SendMessage(this.form);return false;" >Send
+						<span class="glyphicon glyphicon-refresh hidden" id="messageSpinner"></span>
+						</button>
+						</button>
+						<button type="submit" class="btn btn-bbred hidden" disabled="disabled" id="sharePrivately" name="sharePrivately" onClick="PreparePrivateMessage(this.form);return false;" >Share Privately</button>
+				
+						<span id="charCountTextInfo" name="charCountTextInfo" class="hidden  charCountTextInfo"> Maximum 200 characters per message </span>
+					</div>	
+			
+					<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+						<p class="text-right  charCount" id="charCount" > 200</p>
+					</div>	
+				</div>	
+			</div>
+		</div>	
+	</form>
+</div>
+
+</div>
+
+
+		</div> 
+	 </div> 
+</div>
+
+<div class="container modal fade" id="SnapbookPopup" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="SnapbookPopup" aria-hidden="true">
+	<div class="modal-dialog dialogOffset modal_newfriend">
+	  
+		<div class="modal-content panel_trans_white_modal">
+			<button type="button" class="popupCloseBtnBlack" data-dismiss="modal" onclick="stopVideo(this);"><span aria-hidden="true">X</span><span class="sr-only">Close</span></button>
+			
+<div class="well panel_trans_white_modal well_no_mb" id="popupVid">
+	<h3 class="text-center moodQuestion choiceTitle"> Send a <a target="_blank" class="underline" href="/snapbook"><b>Snapbook</b> </a> to Friends & Family</h3>
+	
+	<div class="flex-video widescreen"> <iframe  src="//www.youtube.com/embed/jcCKRDkwlrg?enablejsapi=1" frameborder="0" allowfullscreen=""></iframe> </div>
+
+    
+    </div>
+
+
+		</div> 
+	 </div> 
+</div>
+
+
+<!--
+<div class="container modal fade" id="ModalFriendList" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="col-lg-3 col-md-3 col-sm-2">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-8">
+
+			<div class="modal-content panel_trans">
+				<div class="panel-heading">
+					<h3 class="bbTextColor text-center"> Choose Friends </h3>
+				</div>
+				<button type="submit" class="btn btn-bbgold btnSharePrivate center-block" disabled="disabled" id="submit" name="send" onClick="SendMessagePrivately();return false;" >Share Privately</button>
+				<div class="panel-body">
+					<div class="list-group center-block" name="ModalAllFriendsListGroup">
+						<div class="bb_list_item">
+							<div class="row">
+								<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+									<p class="textCenter bbTextColor pBB">
+										ALL FRIENDS
+									</p>
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+									<input id="allFriendChkBox" class="bbCheckBox" type="checkbox" disabled="disabled" onclick="OnSelectAllFriend(this);" >
+									</input>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="list-group modalscroll center-block" name="ModalFriendsListGroup">
+					</div>
+				</div>
+				
+			</div>
+
+	 </div> 
+	
+	<div class="col-lg-3 col-md-3 col-sm-2">
+	</div> 
+</div>
+-->
+
+
+
+	
+	<nav class="navbar navbar-fixed-bottom header navbar-inverse fp_row_footer">
+
+				<ul class="nav navbar-nav navbar-left">
+
+				 <li class="bbTextColor">Copyright &#169; BINGBING<sup>&#174;</sup> 2016</li>
+				</ul>
+
+				  <ul class="nav navbar-nav navbar-right hidden-xs">
+                  <li><a href="/about">About</a></li>
+				  <li><a href="/terms">Terms of Use</a></li>
+				   <li><a href="/privacy">Privacy</a></li>
+					<li><a href="mailto:info@thebingbing.com"> Contact Us</a></li>
+				   </ul>
+
+		</nav>
+
+
+
+
+</body>
+</html>

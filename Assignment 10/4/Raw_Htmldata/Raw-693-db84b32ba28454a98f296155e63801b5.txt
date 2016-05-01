@@ -1,0 +1,2177 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>How conservative elites disdain working-class Republicans</title>
+	<link rel="P3Pv1" href="/w3c/p3p.xml"/>
+	<link rel="shortcut icon" href="https://theweek.com/favicon.ico">
+	<link href="http://theweek.com/rss.xml" type="application/rss+xml" rel="alternate" title="theweek.com" />
+
+			<!-- Head Top -->
+
+<!-- Start Chartbeat (tag 1 of 2) -->
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- End Chartbeat -->
+
+<!-- Start Typekit -->
+	<script type="text/javascript" src="//use.typekit.net/xia0rvc.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!-- End Typekit -->
+
+<!-- Start Pingdom RUM (real user monitoring) -->
+<script>
+	var _prum = [['id', '5525801dabe53de1552ae8ba'],
+	             ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+	    var s = document.getElementsByTagName('script')[0]
+	      , p = document.createElement('script');
+	    p.async = 'async';
+	    p.src = '//rum-static.pingdom.net/prum.min.js';
+	    s.parentNode.insertBefore(p, s);
+	})();
+</script>
+<!-- End Pingdom RUM (real user monitoring) -->
+
+<!-- Start Google Analytics -->
+
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	     ga('create', 'UA-54145327-1', 'auto');
+	     		  		  var dimensionValue = '[feature,Politics,conservative,opinion]';
+		  ga('set', 'dimension1', dimensionValue);
+	  
+	  	    	       ga('send', 'pageview' );
+	    	  </script>
+<!-- End Google Analytics -->
+
+<!-- Sonobi -->
+<script type="text/javascript" src="http://mtrx.go.sonobi.com/morpheus.theweek.2716.js"></script>
+<!-- End Sonobi -->
+	
+	<meta property="fb:pages" content="10716057521" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<meta content="Official site of The Week Magazine, offering commentary and analysis of the day's breaking news and current events as well as arts, entertainment, people and gossip, and political cartoons." name="description">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+		   
+
+                                                     
+                          
+       <link rel="canonical" href="http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans" >
+       <meta name="keywords" content="feature, Politics, conservative, opinion">
+	   <meta property="og:url" content="http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans"/>
+	   <meta property="og:title" content="How conservative elites disdain working-class Republicans"/>
+	   <meta property="og:type" content="article"/>
+	    <meta property="og:description" content="Why do conservative elites harbor such condescension for working-class Trump voters?"/>
+	   	   <meta property="article:published_time" content="2016-02-08T05:52:02-05:00"/>
+	   	   	   <meta property="og:image" content="http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/TrumpVoter_2_5.jpg?itok=Iu9Edpl-"/>
+	   
+        		
+        			
+	   		  	   	           	
+     
+
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@theweek">
+            <meta name="twitter:title" content="How conservative elites disdain working-class Republicans"/>
+                        <meta name="twitter:creator" content="@michaelbd">
+                        <meta name='twitter:image:src' content="http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/TrumpVoter_2_5.jpg?itok=Iu9Edpl-" />
+            <meta name='twitter:description' content="Why do conservative elites harbor such condescension for working-class Trump voters?
+" />
+        
+    
+	        <link rel="stylesheet" href="/css/fda1945.css" />
+    
+        <!--[if IE 7]><style>
+    .header-wrapper{position:relative;}
+    .border-header{margin-top:70px;}
+    div.module-330 .speed-reads-logo { clear: both; }
+    .most-popular .mp-element {float:left;}
+    </style><![endif]-->
+    <!--[if lte IE 6]><style>
+    .header-wrapper{position:relative;}
+    .border-header{margin-top:70px;}
+     div.module-330 .speed-reads-logo { clear: both; }
+     .most-popular .mp-element {float:left;}
+    <![endif]-->
+    
+    		<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+	    <script src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    
+    		<!-- ***** Head Bottom ***** -->
+
+<!-- Start SimpleReach -->
+							<script>
+			__reach_config = {
+			  pid: "5417363a97b0c9fcbd0000a5",
+			  title: "How conservative elites disdain working-class Republicans",
+			  url: "http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans",
+			  date: "2016-02-08 05:52:02",
+			  authors: ["Michael Brendan Dougherty"],
+			  tags: ['feature','Politics','conservative','opinion'],
+			  landing_url: "http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans",
+			  iframe: true,
+			  ignore_errors: false,
+			};
+			(function(){
+			  var s = document.createElement('script');
+			  s.async = true;
+			  s.type = 'text/javascript';
+			  s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+			  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+			})();
+		</script> 
+	<!-- End SimpleReach -->
+
+
+<!-- Start AgilOne tag -->
+	<script type='text/javascript'>
+		var _a1as = _a1as || [];
+		_a1as.push(["init","72625"]); 
+		_a1as.push(["setvar","onsitesearch",document.URL]);
+		_a1as.push(["track"]);
+		(function()
+		{ var a1s = document.createElement('script'); a1s.type = 'text/javascript'; a1s.async = true; a1s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tr-1.agilone.com/tr-as.js'; var a1ss = document.getElementsByTagName('script')[0]; a1ss.parentNode.insertBefore(a1s, a1ss); }
+		)(); 
+	</script>
+<!-- End AgilOne tag -->
+
+<!-- Start Taboola -->
+			<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({article:'auto'});
+		  !function (e, f, u) {
+		    e.async = 1;
+		    e.src = u;
+		    f.parentNode.insertBefore(e, f);
+		  }(document.createElement('script'),
+		  document.getElementsByTagName('script')[0],
+		  'http://cdn.taboola.com/libtrc/dennisus-theweek/loader.js');
+		</script>
+	<!-- End Taboola -->
+
+<!-- Start Sharethrough -->
+	<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+<!-- End Sharethrough -->
+
+
+
+	</head>
+
+<body class="append-mat" >
+			<!-- Body Top -->
+
+<!-- Begin Facebook Tag -->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=462337980564780&version=v2.4";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+<!-- End Facebook Tag -->
+
+<!-- Begin comScore Tag -->
+	<script>
+		var _comscore = _comscore || [];
+		_comscore.push(
+			{ c1: "2", c2: "13765220" }
+		);
+		(function()
+			{ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
+		)();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=13765220&cv=2.0&cj=1" />
+	</noscript>
+<!-- End comScore Tag -->
+
+	<div id="cssjsconfig"></div>
+
+<div id="head-wrap">
+<div class="container">
+	<div class="section-content">
+	<div class="section">
+
+	
+    <div id="slide">
+<div id="sliding-menu">
+<a class="boxclose" id="boxclose" onClick="ga('send', 'event', 'Header', 'Animation', 'Close');"><img src="/bundles/twsite/images/close_header.svg" /></a>
+	<div id="five-categories-desktop">
+		<div id="in-five-categories">
+			<ul>
+			        <li><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Opinion');" href="/section/opinion">Opinion</a></li>
+					<li><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Features');" href="/section/feature">Features</a></li>
+					<li><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Speed Reads');" href="/speedreads">Speed Reads</a></li>
+					<li><a onClick="ga('send', 'event', 'Header', '5 Categories', '5 Need-to-knows');" href="/5things">5 THINGS TO KNOW</a></li>
+					<li><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Popular');" href="/mostpopular">Popular</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="five-categories">
+		<div id="in-five-categories">
+					<div class="five-categories-item"><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Opinion');" href="/section/opinion">Opinion</a></div>
+					<div class="five-categories-item"><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Features');" href="/section/feature">Features</a></div>
+					<div class="five-categories-item"><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Speed Reads');" href="/speedreads">Speed Reads</a></div>
+					<div class="five-categories-item"><a onClick="ga('send', 'event', 'Header', '5 Categories', '5 Need-to-knows');" href="/5things">5 THINGS TO KNOW</a></div>
+					<div class="five-categories-item"><a onClick="ga('send', 'event', 'Header', '5 Categories', 'Popular');" href="/mostpopular">Popular</a></div>
+		</div>
+	</div>
+	<div id="HPMenuBar-desktop">
+		<div id="in-HPMenuBar">
+			<ul>
+				<li class="world"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'World');" href="/section/world">World</a></li>
+				<li class="us"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'U.S.');" href="/section/U.S.">U.S.</a></li>
+				<li class="politics"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Politics');" href="/section/politics">Politics</a></li>
+				<li class="business"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Business');" href="/section/business">Business</a></li>
+				<li class="tech"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Tech');" href="/section/tech">Tech</a></li>
+				<li class="science"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Science');" href="/section/science">Science</a></li>
+				<li class="entertainment"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Entertainment');" href="/section/entertainment">Arts</a></li>
+				<li class="lifestyle"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Lifestyle');" href="/section/lifestyle">Life</a></li>
+				<li class="photos"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Photos');" href="/captured">Photos</a></li>
+				<li class="audio"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Audio');" href="/audio">Audio</a></li>
+				<li class="video"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Video');" href="/video">Video</a></li>
+				<li class="cartoons"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Cartoons');"  href="/cartoons">Cartoons</a></li>
+				<li class="puzzles"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Puzzles');" href="/puzzles">Puzzles</a></li>
+				<li class="newslettersss"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Newsletters');" href="/newsletters">Newsletters</a></li>
+				<li class="magazines2"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Magazine');" href="/covergallery">Magazine</a></li>
+				<li class="authors"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Authors');" href="/authors">Authors</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+		<div id="HPMenuBar">
+		<div id="in-HPMenuBar">
+						<div class="HPMenuItem world" id="hp_1"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'World');" href="/section/world">World</a></div>
+						<div class="HPMenuItem us" id="hp_2"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'U.S.');" href="/section/U.S.">U.S.</a></div>
+							<div class="mob-break"></div>
+						<div class="HPMenuItem politics" id="hp_3"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Politics');" href="/section/politics">Politics</a></div>
+						<div class="HPMenuItem business" id="hp_4"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Business');" href="/section/business">Business</a></div>
+							<div class="tablet-break"></div>
+						<div class="HPMenuItem tech" id="hp_5"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Tech');" href="/section/tech">Tech</a></div>
+						<div class="HPMenuItem science" id="hp_6"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Science');" href="/section/science">Science</a></div>
+							<div class="mob-break"></div>
+						<div class="HPMenuItem entertainment" id="hp_7"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Entertainment');" href="/section/entertainment">Arts</a></div>
+						<div class="HPMenuItem lifestyle" id="hp_8"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Lifestyle');" href="/section/lifestyle">Life</a></div>
+							<div class="tablet-break"></div>
+						<div class="HPMenuItem photos" id="hp_9"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Photos');" href="/captured">Photos</a></div>
+						<div class="HPMenuItem audio" id="hp_10"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Audio');" href="/audio">Audio</a></div>
+							<div class="mob-break"></div>
+						<div class="HPMenuItem video" id="hp_11"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Video');" href="/video">Video</a></div>
+						<div class="HPMenuItem cartoons" id="hp_12"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Cartoons');"  href="/cartoons">Cartoons</a></div>
+							<div class="tablet-break"></div>
+					   <div class="HPMenuItem puzzles" id="hp_14"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Puzzles');" href="/puzzles">Puzzles</a></div>
+					   <div class="HPMenuItem newslettersss" id="hp_15"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Newsletters');" href="/newsletters">Newsletters</a></div>
+							<div class="mob-break"></div>
+						<div class="HPMenuItem magazines2" id="hp_16"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Magazine');" href="/covergallery">Magazine</a></div>
+						<div class="HPMenuItem author" id="hp_13"><a onClick="ga('send', 'event', 'Header', 'HPMenu', 'Authors');" href="/authors">Authors</a></div>
+
+			</div>
+		</div>
+		<div class="special-reports-inside-header">Special Reports:
+		  <span class="black-text">
+		      <span class="additional-links"><a href="/section/theideafactory"> &nbsp;The Idea Factory</a> </span>
+		       <span class="additional-links"><a href="/section/thefuturewelivein"> &nbsp;The Future We Live In</a> </span>
+		  </span>
+	   </div>
+</div>
+</div>
+
+<div class="header-wrapper">
+<div id="header" class="menu-close">
+	<div id="sandwich-search" class="mag-glass-off">
+		<div id="sandwich-outer">
+			<div id="sandwich">Menu</div>
+		</div>
+		<div id="magnify-click"></div>
+ 		<div id="search-line"></div>
+ 		<div id="button-close"></div>
+			<div id="search">
+			<form method="post"  id="Search">
+	  				<input name="term" type="search" size="40" placeholder="search" class="search_input" id="search_input"  ">
+		    </form>
+			</div>
+	</div>
+	<div id="logo-wrapper"><div id="logo"><a href="/" onClick="ga('send', 'event', 'Header', 'Animation', 'Logo');"><div id='tw-logo'></div></a></div></div>
+
+			<div class="subscribe-unit-header">
+			     <div class="cover"><img style="width:63px;" src="http://cdn.app.theweek.com/editions/com.dennis.theweek.issue.issue769/assets/styles/cover/public/iPad-cover-769_SMALL.jpg?resize=180x174"/>
+			     </div>
+			     <div class="links">
+			         <ul>
+					 	 <li><a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKALL43015&MAGCODE=WK&MSCCMPLX=601WKSA01" target="_blank" class="header-subscribe">Subscribe</a></li>
+						 <li><a href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order.jsp&MSRSMAG=WK&MSCEKX=WKTALNX&MSCCMPLX=601WKGA01" target="_blank" id="header-gift">Give a gift</a></li>
+						 <li><a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKALL43015&MAGCODE=WK&MSCCMPLX=603WKSA03" target="_blank" id="subscribe">Digital subscription</a></li>
+				    </ul>
+			     </div>
+			</div>
+			 <div id="try-subs-mob">
+		      <div id="try-mob">Try the Week Magazine</div>
+			     <a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=MobileTHDT&MAGCODE=WK&MSCCMPLX=506WKSA21" target="_blank">
+			     <input id="subscribe-btn-mob" onClick="ga('send', 'event', 'Header', 'Animation', 'Subscribe Button'); ga('send', 'event', 'Testing', 'Mobile Subscribe', 'PC-MDD');" class="subscribe-btn" type="submit" name="subscribe" value="Subscribe">
+		          </a>
+		    </div>
+	<div class ="border-header"></div>
+</div>
+</div>
+	<script>
+		// search submit
+		function searchSubmit() {
+			var term = document.getElementById("search_input").value;
+			// term = term.replace(' ', '+');
+			if(term!=""){
+				document.location.href = "/search/"+term;
+			}
+			else{
+				document.location.href = "/search";
+			}
+			return false;
+		}
+		jQuery("#search_input").keyup(function (e) {
+			if (e.keyCode == 13) {
+				e.preventDefault();
+				searchSubmit();
+			}
+		});
+	</script>
+
+
+
+
+    	
+								<script type="text/javascript" src="//xcp.go.sonobi.com/px.js?3de6e0be4832b89829a6"></script>
+																											    <div id="top_sticky_helper">
+    <div class="bottom-Ad top-leaderboard-ad desktop-ad managed-ad pushdown-ad"
+	data-ad-id="article_top_leaderboard",
+	data-device="desktop",
+	sonobi="d38ac7b91894aea263dc",
+	data-targets="breakpoint:desktop;inventory:atf;position:1;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"></div>
+
+<div class="bottom-Ad top-leaderboard-ad tablet-ad managed-ad pushdown-ad"
+	data-ad-id="article_top_leaderboard",
+	data-device="tablet",
+	sonobi="febb15dc8c080104397a",
+	data-targets="breakpoint:tablet;inventory:atf;position:1;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"></div>
+
+<div class="mobile-top-ad top-leaderboard-ad mobile-ad managed-ad pushdown-ad"
+	data-ad-id="article_top_leaderboard"
+	data-targets="breakpoint:mobile;inventory:atf;position:1;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"
+	sonobi="",
+	data-device="mobile"></div>
+     </div>
+    <div class='fb-content top-section'>
+		<div class="fb-med">
+			<div class='fb-bar-inner'>
+				<div class='fb-follow'></div><span>FOLLOW </span><span class='tw-fb'>THE WEEK</span><span> ON FACEBOOK</span></div>
+				<div class="fb-like" data-href="https://www.facebook.com/theweek" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+			</div>
+		</div>
+	</div>
+	<script>
+var lock =false;
+    function topStickyAd(){
+		if(makeTopAdSticky == true && jQuery('.top-image img').length!= 0){
+			 if((jQuery(window).scrollTop() + 200) >= (jQuery('.top-image').offset().top + jQuery('.top-image').height() -50)){
+				 if(lock == false){
+					 lock = true;
+					 jQuery('.desktop-ad.pushdown-ad').slideUp( "fast", function() {
+					   jQuery(this).removeClass('topStickyad');
+					 });
+				 }
+			 }else{
+				 if(lock == false){
+					  jQuery('#top_sticky_helper').addClass('topHelpAd');
+					  jQuery('.desktop-ad.pushdown-ad').removeClass('top-leaderboard-ad bottom-Ad').addClass('topStickyad');
+					  jQuery('.desktop-ad.pushdown-ad').css('max-width', jQuery('#top_sticky_helper').width());
+				 }else{
+					 if (jQuery(window).scrollTop() < 90) {
+						 jQuery('.desktop-ad.pushdown-ad').attr("style", "display: block !important");
+						 jQuery('.desktop-ad.pushdown-ad').addClass('top-leaderboard-ad bottom-Ad');
+						 lock =false;
+					  }
+			     }
+		     }
+		}
+	  }
+var test ="";
+var adsWithSizes ={};
+    googletag.cmd.push(function() {
+
+		    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			   var key = event.slot.getSlotElementId();
+			   var val = event.size[0] + 'x' + event.size[1];
+			   adsWithSizes[key] = val;
+			   if( TheWeek.getCurrentDevice() == 'desktop'){
+				   jQuery.each(adsWithSizes, function(k, v) {
+					  if (k.indexOf("article_top_leaderboard") != -1){
+						   test = k;
+							 if(v=='728x90' || v=='970x90' ){
+								 makeTopAdSticky = true;
+								 topStickyAd();
+								 //alert(v);
+							 }
+						 }
+				   });
+			   }
+			   //hide in-text ads if 1x1 is displaying
+			   if( TheWeek.getCurrentDevice() == 'desktop' || TheWeek.getCurrentDevice() == 'tablet'){
+				   jQuery.each(adsWithSizes, function(k, v) {
+					   setTimeout(function(){
+						   if(v=="1x1"){
+						   jQuery("#"+k).parent('.mobads').hide();
+						    }
+						}, 5000);
+				   });
+			   }
+			});
+
+	});
+/**** refersh ads *****/
+var timer ={}
+var lockAds ={};
+var lockAdsSlots =[];
+var testLock = false;
+var s;
+function isDefined(func){
+    if(func !== undefined) return true;
+}
+function refreshAds30(){
+	if(isDefined(AdManager) == false) return;
+	for(s=0;s<AdManager.getSlots().length;s++){
+		slotName = AdManager.getSlots()[s].getSlotElementId();
+	    if( jQuery.inArray('#'+slotName, lockAdsSlots ) == -1 ){
+	    	lockAdsSlots.push('#'+slotName);
+	    	lockAds['#'+slotName] = 0;
+	    	timer[s] = new Timer();
+	    }
+	}
+	jQuery( lockAdsSlots).each(function(k,v) {
+		//console.log(v);
+		if(v != '#div-gpt-ad-1422997770191-0-oop' && (v.indexOf('#article_first_intext_ad') == -1) ){
+			if(jQuery('body').hasClass('visible')){
+	 		    if( jQuery(v).visible50() == true){
+	 		    	if(lockAds[v] <= 3 ){
+			 		   if(timer[k].timerState != 'running'){
+			 			   timer[k] = new Timer(30000, function() {
+				 				  console.log('K  = '+k);
+				 				  console.log('Visible ad is '+v);
+								  console.log('how many times '+ v +'refreshed ' + lockAds[v]);
+				 				  AdManager.refreshAd(k);
+					 			  lockAds[v]++;
+					 			  });
+						   timer[k].start();
+		 				}
+
+					 }else{
+						 timer[k].cancel();
+				     }
+				}else{
+					timer[k].cancel();
+
+				}
+			}
+		}
+	});
+
+ }
+function adjustcaptionCredit(){
+
+	$pTags = jQuery(".text").find("p");
+	$cTags = jQuery(".text").find("center");
+	$pTags.each(function(i) {
+		if (jQuery(this).find("img").length > 0)
+		{
+			jQuery(this).addClass('captured-caption');
+			if ( (TheWeek.getCurrentDevice() == 'desktop') || (TheWeek.getCurrentDevice() == 'tablet') ) {
+				jQuery(this).css('text-align','center');
+			}
+		} });
+	$cTags.each(function(i) {
+		if (jQuery(this).find("img").length > 0)
+		{
+			jQuery(this).addClass('captured-caption');
+			if ( (TheWeek.getCurrentDevice() == 'desktop') || (TheWeek.getCurrentDevice() == 'tablet') ) {
+				jQuery(this).css('text-align','center');
+			}
+		} });
+}
+
+
+	jQuery( window ).scroll(function() {
+		if( TheWeek.getCurrentDevice() == 'desktop'){
+				refreshAds30();
+				topStickyAd();
+		}else if(TheWeek.getCurrentDevice() == 'mobile' ){
+			loadAdsOnScroll();
+		}
+	});
+
+	jQuery(function() {
+		adjustcaptionCredit();
+		if( TheWeek.getCurrentDevice() == 'desktop'){
+			 refreshAds30();		}
+	});
+
+</script>
+
+                  		        			   		    <script>
+    var textBody = jQuery('article-body .text');
+	var k=1;
+	var setMobAds;
+	var showDesktopIntext = true;
+
+	 var arrayOfIntextStickyAds =
+	   {"mobile":["article_first_mobile", "article_second_mobile","article_third_mobile", "article_fourth_mobile", "article_fifth_mobile","article_sixth_mobile"],
+		"tablet":["article_first_tablet"],
+	    "desktop":["article_first_desktop"]};
+</script>
+
+<script>
+    arrayOfIntextStickyAds = {"mobile":["article_first_mobile", "article_second_mobile","article_third_mobile", "article_fourth_mobile", "article_fifth_mobile","article_sixth_mobile"],
+		"tablet":["article_first_tablet"]};
+		showDesktopIntext = false;
+</script>
+
+<script>
+	jQuery(document).ready(function(){
+		  //if text starts with image on tablet don't show first ad
+		   if( TheWeek.getCurrentDevice() == 'tablet'){
+				if(jQuery('.text p:first-of-type img').length ==1){
+					jQuery('.appendedAds').hide();
+				}
+			}
+		    //set intagram iframes to be longer
+		     if( jQuery( ".text iframe").length > 0){
+				 jQuery( ".text iframe" ).each(function() {
+					    if(jQuery(this).attr('src').substr(0,21) == 'http://instagram.com/'){
+						    jQuery(this).attr('style','height:350px!important' );
+						}
+				 });
+		      }
+		setTimeout(function(){
+			if(jQuery('.article-body .text:has(.mobads)').length >0){
+			   jQuery( ".mobads" ).each(function() {
+				   if(TheWeek.getCurrentDevice() == 'desktop' || TheWeek.getCurrentDevice() == 'tablet'){
+			    		  if(k>1) return;
+			    	}else{
+			    		 if(k>6) return;
+			    	}
+		     	   jQuery(this).attr('id', 'mob-ads-'+k);
+		     	   k++;
+		 	   });
+
+			}else{
+				 if(jQuery( ".article-body .text").children("p").length > 8){
+					    //first count each 8th paragraph and add a count nr to it
+					 counter= 1;
+					 jQuery( ".article-body .text").children("p").each(function() {
+						  if (counter%8 == 0) {
+					        jQuery(this).attr('id', counter);
+						  }
+						  counter++;
+					 });
+
+					 jQuery( ".article-body").find('p').each(function() {
+						    if ( (jQuery(this).attr('id'))%8==0) {
+					        	 //jQuery(this).attr('id', jQuery(this).index()-1);
+						    	if(TheWeek.getCurrentDevice() == 'desktop' || TheWeek.getCurrentDevice() == 'tablet'){
+						    		  if(k>1) return;
+						    	}else{
+						    		 if(k>6) return;
+						    	}
+ 					        	 if(jQuery( ".article-body .text .related-articles").length > 0){
+						          //if the 9th p tag contains related, or img or video go to the 10th
+						        	 if(jQuery(this).hasClass('blockquote')){
+						        		 if( (jQuery(this).nextAll("p").not(".blockquote").first()).nextAll("p").length >= 3 ){
+						        			jQuery('<div class="mobads" id="mob-ads-'+k+'"></div>').insertAfter(jQuery(this).nextAll("p").not(".blockquote").first());
+						        		 }
+							         }else{
+							        	 if(jQuery(this).next().find(".related-articles").length > 0){
+							        		 if( (jQuery(this).next().next()).nextAll("p").length >= 3 ){
+							        			    jQuery('<div class="mobads" id="mob-ads-'+k+'"></div>').insertAfter(jQuery(this).next().next());
+							        		 }
+							        	 }else{
+							        		 if( (jQuery(this)).nextAll("p").length >= 3 ){
+							        			   jQuery('<div class="mobads" id="mob-ads-'+k+'"></div>').insertAfter(jQuery(this));
+							        		 }
+							             }
+							         }
+						         }
+					        	 else{
+					        		 if(jQuery(this).hasClass('blockquote')){
+					        			 if( (jQuery(this).nextAll("p").not(".blockquote").first()).nextAll("p").length >= 3 ){
+						        			jQuery('<div class="mobads" id="mob-ads-'+k+'"></div>').insertAfter(jQuery(this).nextAll("p").not(".blockquote").first());
+					        			 }
+							         }else{
+							        	 if( (jQuery(this)).nextAll("p").length >= 3 ){
+							        	    jQuery('<div class="mobads" id="mob-ads-'+k+'"></div>').insertAfter(jQuery(this));
+							        	 }
+							         }
+					             }
+								 k++;
+ 					        };
+					    });
+				 }
+			}
+			setMobAds = 1;
+						loadAdsOnScroll();
+						}, 500);
+
+	});
+
+	function loadAdsOnScroll() {
+
+	if(setMobAds == 1){
+	      if(jQuery('.article-body .text:has(.mobads)').length >0){
+	          for(m=0; m<jQuery('.mobads').length; m++){
+	          	//console.log(arrayOfStickyAds[i]);
+		            if(TheWeek.getCurrentDevice() == 'desktop' || TheWeek.getCurrentDevice() == 'tablet'){
+			    		  if(m>1) return;
+			    	}else{
+			    		 if(m>6) return;
+			    	}
+	              if( jQuery('#mob-ads-'+(m+1) +' iframe').length == 0){
+	          	        if(jQuery('#mob-ads-'+(m+1)+' .onScrollAds').length == 0 ){
+	          	           if(TheWeek.getCurrentDevice() == 'tablet'){
+		          	    	   jQuery('#mob-ads-'+(m+1)).append(jQuery('#'+arrayOfIntextStickyAds[device][m]) );
+		          	    	   //console.log( 'test' + arrayOfIntextStickyAds[device][i]);
+			          	       AdManager.writeSingleAd(document.getElementById(arrayOfIntextStickyAds[device][m]), device, AdManager.getTargetingForSingleEl(document.getElementById(arrayOfIntextStickyAds[device][m])));
+		          	       }else if(TheWeek.getCurrentDevice() == 'mobile'){
+			          	       if( (jQuery(window).scrollTop() + jQuery(window).height() ) >= jQuery('#mob-ads-'+(m+1)).offset().top - 500){
+			          	    		    jQuery('#mob-ads-'+(m+1)).append(jQuery('#'+arrayOfIntextStickyAds[device][m]) );
+			          	    		    AdManager.writeSingleAd(document.getElementById(arrayOfIntextStickyAds[device][m]), device, AdManager.getTargetingForSingleEl(document.getElementById(arrayOfIntextStickyAds[device][m])));
+			          	       }
+		          	       }else{
+		          	    	    if(showDesktopIntext){
+		          	    	    	 jQuery('#mob-ads-'+(m+1)).append(jQuery('#'+arrayOfIntextStickyAds[device][m]) );
+				          	    	   //console.log( 'test' + arrayOfIntextStickyAds[device][i]);
+					          	       AdManager.writeSingleAd(document.getElementById(arrayOfIntextStickyAds[device][m]), device, AdManager.getTargetingForSingleEl(document.getElementById(arrayOfIntextStickyAds[device][m])));
+			          	    	}
+			          	   }
+	          	        }
+		          	  if(TheWeek.getCurrentDevice() == 'mobile'){
+	          	        googletag.cmd.push(function() {
+	       	        	   googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+	        	        		 //.console.log('check if empty '+ event.isEmpty);
+	           	        	   if(event.isEmpty == false){
+		           	        	   //don't duplicate the label at the bottom
+		           	        	 if(jQuery('#'+event.slot.getSlotElementId()).parent(".mobads").length){
+		           	        	    if(jQuery('#'+event.slot.getSlotElementId() +' .advertisement').length == 0){
+	              	        		    jQuery('#'+event.slot.getSlotElementId()).prepend('<div class="advertisement">Advertisement</div>');
+	              	        		    lock= false;
+	               	        	   }
+		           	        	 }
+	               	           }
+	           	        	});
+	       	        	});
+		          	  }
+	      	    }
+	          }
+	      }
+
+	      }
+	}
+
+	</script>
+	<div id="fb-root"></div>
+<script type="text/javascript">
+	var currentTitle='How\x20conservative\x20elites\x20disdain\x20working\x2Dclass\x20Republicans',
+		currentUrl=document.location.href;
+	var pagesLoaded = 1, nextArticle;
+	var currentArticleIndex = 0;
+	var lock = false;
+	var window_top = jQuery(window).scrollTop()+1;
+	var window_bottom =(jQuery(window).scrollTop() + jQuery(window).height());
+	var nextId = '604080';
+	var articleId = '603701';
+	var referrer = 'default';
+	var scrolledOntoNextPage =0;
+	var page_counter =0;
+    var textHeight = 0;
+    var numberOfStickyAds =1;
+    var device = "";
+    var previousAdsHeight = 0;
+    var bluebarExists = false;
+    var makeTopAdSticky = false;
+    var distanceFromTop = 0;
+    var blockTabletBottomAd = false;
+
+    if(document.referrer){
+		var reffArray= document.referrer.split('/')[2].split('.');
+		if (reffArray.indexOf('t') > -1){
+			referrer = 'twitter';
+		} else {
+			 referrer = 'default';
+		}
+	}
+
+	var startArticlePageLoad = function() {
+			    secondAdShow();
+	    		console.log("Starting article page load "+pagesLoaded);
+		pagesLoaded++;
+	}
+
+	window.onpopstate = function(event) {
+		console.log(event);
+	}
+	var finishArticlePageLoad = function() {
+		//scrolledOntoNextPage++;
+		if(TheWeek.getCurrentDevice() != 'desktop'){
+			  jQuery('#second-half-body-ad-' + articleId ).show();
+		}
+		console.log("Finished article page load");
+		jQuery('img.lazy').lazyload();
+		jQuery('img.small-author').corner();
+
+	}
+	jQuery(function(){
+		startArticlePageLoad(function(){
+			finishArticlePageLoad();
+		});
+	});
+</script>
+<script>
+
+var articleId = window.location.pathname.split( '/' )[2];
+function preventSocialBtnsOnTopImage(){
+	if( (jQuery(window).scrollTop()+ 90) > (jQuery('#top-image-'+ articleId).offset().top+jQuery('#top-image-'+ articleId).height() ) ){
+		jQuery('.sticky-social-article-only').show();
+    } else {
+        jQuery('.sticky-social-article-only').hide();
+	}
+}
+
+jQuery(document).ready(function(){
+	if( (TheWeek.getCurrentDevice() == 'desktop') || (TheWeek.getCurrentDevice() == 'tablet') ){
+		setTimeout(function(){
+			preventSocialBtnsOnTopImage();
+		}, 1000);
+		
+	}
+
+	setTimeout(function () {
+		// if the page is too small, hide the ad
+		if (jQuery('.text').height() < 1600) {
+			jQuery('#subscribe-container').hide();
+		}
+	}, 2000);
+});
+
+	//Small plugin to left any element.
+	function isScrolledIntoView(elem)
+	{
+	  var docViewTop = jQuery(window).scrollTop();
+	  var docViewBottom = docViewTop + jQuery(window).height();
+      var elemTop = jQuery(elem).offset().top;
+	  var elemBottom = elemTop + jQuery(elem).height();
+
+	  if (((elemBottom >= docViewTop) && (elemTop <= docViewBottom))) {
+		  return true;
+	  } else {
+	      return false;
+	  }
+	}
+
+	///create the social buttons on scroll
+	function stickySocial(referrer){
+		//make sure social sticky don't appear on the image
+		//preventSocialBtnsOnTopImage();
+
+		if( isScrolledIntoView(jQuery('.full-article .article-body')) ){
+			    if(jQuery('.subscribe-unit').length){
+				    if( ((jQuery('.subscribe-unit').offset().top) >= (jQuery(window).scrollTop() + 250)) &&  (jQuery(window).scrollTop()+ 90) > (jQuery('#top-image-'+ articleId).offset().top+jQuery('#top-image-'+ articleId).height() ) ) {
+				    	if(jQuery('.sticky-social-article-only span').css('display') == 'none'){
+				    	    jQuery('.sticky-social-article-only span').show('scale', 300);
+				    	    jQuery('.sticky-social-article-only').show();
+				    	}
+					} else {
+						jQuery('.sticky-social-article-only span').css('postion','relative');
+						if(jQuery('.sticky-social-article-only span').css('display') == 'block'){
+							jQuery('.sticky-social-article-only span').hide();
+							jQuery('.sticky-social-article-only').hide();
+						}
+					}
+			    }
+		}else{
+			jQuery('.sticky-social-article-only span').hide();
+			jQuery('.sticky-social-article-only').hide();
+		}
+
+	}
+
+	function secondAdShow(){
+		if(	jQuery('.full-article .text p').length > 8) {
+			if(TheWeek.getCurrentDevice() == 'tablet'){
+				    if(blockTabletBottomAd == false){
+					i=-1;
+					while(i > -7){
+						//don't append the ad to p tag that's inside a blockquote, related module, in-text ad or
+						//that contains an image or a video
+						if(jQuery('.full-article .text p:not(:empty)').eq(i).parents('blockquote').length == 0 
+						&& jQuery('.full-article .text p:not(:empty)').eq(i).parents('.blockquote').length == 0 
+						&& jQuery('.full-article .text p:not(:empty)').eq(i).parents('.related-tag').length == 0
+						&& jQuery('.full-article .text p:not(:empty)').eq(i).parents('.mobads').length == 0 
+						&& jQuery('.full-article .text p:not(:empty)').eq(i).find('img').length == 0
+						&& jQuery('.full-article .text p:not(:empty)').eq(i).find('iframe').length == 0
+						) {
+								if(jQuery('.full-article .text p:not(:empty)').eq( i).height() > 220){
+									if(jQuery('.full-article .text p:not(:empty)').eq( i).height() > 500){
+										jQuery('.full-article .text p:not(:empty)').eq( i).prepend(jQuery('.second-half-body-ad'));
+										jQuery('.second-half-body-ad').show();
+										break;
+									}else{
+										jQuery('.full-article .text p:not(:empty)').eq( i).prepend(jQuery('.second-half-body-ad-short'));
+										jQuery('.second-half-body-ad-short').show();
+										break;
+									}
+									
+							    }
+							    else{
+							    	var totalHeight = jQuery('.full-article .text p:not(:empty)').eq(i).height();
+							    	jQuery( jQuery('.full-article .text p:not(:empty)').eq(i).nextAll('p') ).each(function(){
+							    		totalHeight += jQuery(this).height();
+							    	});
+							        if(totalHeight >= 500){
+										jQuery('.full-article .text p:not(:empty)').eq( i).prepend(jQuery('.second-half-body-ad'));
+										jQuery('.second-half-body-ad').show();
+										break;
+									}else if(totalHeight > 220){
+										jQuery('.full-article .text p:not(:empty)').eq( i).prepend(jQuery('.second-half-body-ad-short'));
+										jQuery('.second-half-body-ad-short').show();
+										break;
+									}
+							    }
+					    }
+					    i--;
+					}
+				}
+			}else if((TheWeek.getCurrentDevice() == 'mobile')) {
+				jQuery('.full-article .text .ad-wrap').eq(-1).append(jQuery('.second-half-body-ad'));
+				jQuery('.second-half-body-ad').show();
+			}
+		}else {
+			jQuery('.second-half-body-ad').hide();
+		}
+	};
+
+	var arrayOfStickyAds = ["article_first_square", "article_second_square", "article_third_square", "article_fourth_square", "article_fifth_square","article_sixth_square" ];
+	var arrayOfStickyShortAds = ["article_first_short_square","article_second_short_square", "article_third_short_square", "article_fourth_short_square", "article_fifth_short_square","article_sixth_short_square" ];
+
+
+	function shortTextAd(){
+		 if(document.readyState !== "complete") return;
+
+		 if(jQuery(".article_short_text iframe").length == 0){
+				if((jQuery(window).scrollTop() + jQuery(window).height()) >= (jQuery('.body-ad-1').offset().top)){
+				    AdManager.writeSingleAd(document.getElementById('article_short_text'), device, AdManager.getTargetingForSingleEl(document.getElementById('article_short_text')));
+				}
+		   }
+    }
+
+    function stickyScrollAds(){
+   	  if(document.readyState !== "complete") return;
+
+    	for(countAds=0;countAds < numberOfStickyAds; countAds++){
+    		if(countAds>5) return;
+  		           if(jQuery(".inside-body-ad-"+(countAds+1)+" iframe").length == 0 ){
+						if((jQuery(window).scrollTop() + jQuery(window).height()) >= (jQuery('.body-ad-'+(countAds+1)).offset().top)){
+						    if(jQuery('.body-ad-'+(countAds+1)).height() < 1200  && jQuery('.text').height() - (1200 * countAds + 1) > 100 ){
+								AdManager.writeSingleAd(document.getElementById(arrayOfStickyShortAds[countAds]), device, AdManager.getTargetingForSingleEl(document.getElementById(arrayOfStickyShortAds[countAds])));
+								jQuery('.'+ arrayOfStickyShortAds[countAds]).removeClass('makeAdTopStatic makeAdSticky makeAdStickySponsored').addClass('makeAdBottomStatic');
+//								jQuery('.inside-body-ad-'+(countAds+1)).height(jQuery('.text').height() - (countAds * 1230) + 'px');
+							}else if(jQuery('.body-ad-'+(countAds+1)).height() >= 1200){
+								AdManager.writeSingleAd(document.getElementById(arrayOfStickyAds[countAds]), device, AdManager.getTargetingForSingleEl(document.getElementById(arrayOfStickyAds[countAds])));
+							}
+						}
+				   }
+
+
+    		       if(jQuery("."+ arrayOfStickyAds[countAds] +" iframe").length != 0){
+					  if((jQuery(window).scrollTop() + 90) < jQuery('.body-ad-'+(countAds+1)).offset().top){
+						  if(jQuery('.body-ad-'+(countAds+1) ).height() > jQuery('.'+arrayOfStickyAds[countAds]).height() ){
+							  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdBottomStatic makeAdSticky makeAdStickySponsored').addClass('makeAdTopStatic');
+						  }
+						  else{
+							  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdTopStatic makeAdSticky makeAdStickySponsored').addClass('makeAdBottomStatic');
+						  }
+
+					  }
+					  else if( (jQuery(window).scrollTop() + 90) >= jQuery('.inside-body-ad-'+(countAds+1)).offset().top + jQuery('.inside-body-ad-'+(countAds+1)).height() -jQuery('.'+arrayOfStickyAds[countAds]).height()){
+						  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdTopStatic makeAdSticky makeAdStickySponsored').addClass('makeAdBottomStatic');
+					  }
+					  else{
+						  if(jQuery('.body-ad-'+(countAds+1) ).height() > jQuery('.'+arrayOfStickyAds[countAds]).height() ){
+							  if( bluebarExists == true){
+							  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdTopStatic makeAdBottomStatic makeAdSticky').addClass('makeAdStickySponsored');
+							  }else{
+								  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdTopStatic makeAdBottomStatic makeAdStickySponsored').addClass('makeAdSticky');
+							  }
+
+						  }else{
+							  jQuery('.'+ arrayOfStickyAds[countAds]).removeClass('makeAdTopStatic makeAdSticky makeAdStickySponsored').addClass('makeAdBottomStatic');
+							 }
+
+					  }
+				   }
+			if(countAds == 0) {
+				jQuery(document).ready(function () {
+					if (!jQuery('.body-ad-1').hasClass('hasSubscribeBox')) {
+						// add the hasSubscribeBox class to prevent additional js from generating from the scroll event
+						jQuery('.body-ad-1').addClass('hasSubscribeBox');
+						setTimeout(function () {
+							if(jQuery('.body-ad-1 .desktop-ad iframe').length > 0) {
+								// move the subscribe container into the first ad container so that it moves with it
+								jQuery('#subscribe-container').insertAfter('.body-ad-1 .desktop-ad > iframe:last-child');
+								// if there's a 1050 ad, hide the subscribe module
+								if (jQuery('.inside-body-ad-1 .desktop-ad').height() == 1050) {
+									jQuery('#subscribe-container').hide();
+								}
+								if(jQuery('.text').height() < 1500){
+									jQuery('#subscribe-container').hide();
+								}
+							}
+						}, 3000);
+					}
+				});
+
+			}
+        }
+
+     }
+
+	jQuery(function(){
+		if( (TheWeek.getCurrentDevice() == 'desktop') || (TheWeek.getCurrentDevice() == 'tablet') ){
+			document.addEventListener("touchmove", stickySocial(referrer), false);
+		    jQuery( window ).scroll(function() {stickySocial(referrer);});
+		}
+
+		if( TheWeek.getCurrentDevice() == 'desktop'){
+
+			 distanceFromTop = 90 + jQuery('.border-header').height();
+			    if(distanceFromTop > 100){
+				    bluebarExists = true;
+				 }
+							jQuery( window ).scroll(function() {
+				    if(short_text==true){
+				    	shortTextAd();
+					}else{
+					    stickyScrollAds();
+	
+				    }    
+				});
+			
+		}
+	});
+
+
+	function recircLazyLoadAd(){
+	   	  if(document.readyState !== "complete") return;
+
+	       if((jQuery(window).scrollTop() + jQuery(window).height()) >= (jQuery('.recirc-ad').offset().top - 150)){
+		       if(jQuery('.recirc-ad iframe').length == 0){
+		    	   AdManager.writeSingleAd(document.getElementById('article_recirc_ad'), device, AdManager.getTargetingForSingleEl(document.getElementById('article_recirc_ad')));
+		       }
+	       }
+	}
+</script>
+	
+              	<script>var threeLinksSubscribe = true;</script>
+    	
+			    	<script type="text/javascript" src="/js/60d13ef.js"></script>
+			
+		    <script> var colorHeader ='white';</script>
+	    	    <script type="text/javascript" src="/js/eb08862.js"></script>
+	    	
+        <div id="content">
+			<div class="content-inside">
+				<div id="article-wrapper">
+		
+<script>
+var articleList = [];
+currentTitle = 'How\x20conservative\x20elites\x20disdain\x20working\x2Dclass\x20Republicans';
+currentUrl = '/articles/603701/how-conservative-elites-disdain-workingclass-republicans';
+articleList.push('603701');
+nextId = '604080';
+articleId = '603701';
+</script>
+        <div class="full-article full-article-603701" data-article-url="/articles/603701/how-conservative-elites-disdain-workingclass-republicans" >
+	<div id="sub-header" >
+	   		 <div class="article-subtype">
+			 <span>Opinion</span>
+	      </div>
+	   		<div class="article-headline">
+			<div class="edit-link">
+	<a href="http://cms.theweek.com/admin/tw-admin/edit/603701">Edit</a>
+</div>			<p>How conservative elites disdain working-class Republicans</p>
+		</div>
+
+	               		  									
+					    					       							<a href="/authors/michael-brendan-dougherty" onClick="ga('send', 'event', 'Page Tracking', 'Article-Author', 'Michael Brendan Dougherty');" >
+						    					   
+						<div class="author">
+															<div class="img">
+									<img class="small-author" data-corner="110px" src="http://api.theweek.com/sites/default/files/author-images/FINAL_michaelbd_bw_circle_308.png?resize=100x100" />
+								</div>
+														<div class="name">
+								<span class="first-name">Michael Brendan</span>
+								<span class="last-name">Dougherty</span>
+							</div>
+						</div>
+												  							</a>
+						  						
+									     	</div>
+
+	<div class="top-image" id="top-image-603701">
+					<img class="lazy"
+				data-original-desktop="http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/TrumpVoter_2_5.jpg?itok=Iu9Edpl-&resize=1260x560"
+				data-original-tablet="http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/TrumpVoter_2_5.jpg?itok=Iu9Edpl-&resize=1260x560"
+				data-original-mobile="http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/TrumpVoter_2_5.jpg?itok=Iu9Edpl-&resize=450x200"/>
+									<div class="img-credit" alt=""> REUTERS/Scott Morgan</div>
+			</div>
+	<div class="article-body underline">
+		<div class="article-date">February 8, 2016</div>
+
+				<div class="text underline drop_caps">
+		<div class="appendedAds">
+		  <div class="body-ad-1" id="body-ad-1-603701">
+		    <div class="inside-body-ad-1">
+			    <span class="advertisement">ADVERTISEMENT</span>
+			    			        		               <div class="mp-ad tablet-ad managed-ad" data-ad-id="article_body_top_square"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:6;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_body_top_square">
+	</div>
+<div class="mp-ad mobile-ad managed-ad" data-ad-id="article_body_top_square"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:6;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_body_top_square">
+	</div>
+		            	            	            <div class="desktop-ad managed-ad article_first_square"
+    id="article_first_square"
+    data-ad-id="article_first_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:11;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_first_square">
+	</div>
+	            <div class="desktop-ad managed-ad article_short_text"
+    id="article_short_text"
+    data-ad-id="article_short_text"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:77;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_short_text">
+	</div>
+
+            </div>
+            <div id="subscribe-container">
+                <div id="subscribe-line"></div>
+                <div class="subscribe-module">
+                    <div class="sign-up">Sign Up for</div>
+                    <div class="title">Our free email newsletters</div>
+                    <form action="" id="newsletter-form" novalidate="novalidate">
+                        <input type="text" name="email" id="email" class="email-field" placeholder="Enter email">
+                        <div class="newsletters">
+                            <div class="checkboxFour" id="first">
+                                <input type="checkbox" value="1" id="ten_things" name="" checked="checked">10 things you need to know today <label for="ten_things"></label>
+                            </div>
+                            <div class="checkboxFour" id="third">
+                                <input type="checkbox" value="3" id="best_articles" name="" checked="checked">Today's best articles <label for="best_articles"></label>
+                            </div>
+                            <div class="checkboxFour" id="fourth">
+                                <input type="checkbox" value="4" id="best_photos" name="" checked="checked">The week's best photojournalism <label for="best_photos"></label>
+                            </div>
+                            <div class="checkboxFour" id="second">
+                                <input type="checkbox" value="2" id="best_cartoons" name="" checked="checked">Today's top cartoons <label for="best_cartoons"></label>
+                            </div>
+                            <div class="checkboxFour" id="fourth">
+                                <input type="checkbox" value="5" id="business_briefing" name="" checked="checked">Daily business briefing<label for="business_briefing"></label>
+                            </div>
+                        </div>
+                        <input type="submit" class="all-SR opacity-rollover" id="desktop-signup" value="Sign up now">
+                        <div class="error" style="color:black;width:100%;text-align:center;" id="newsletter-error"></div>
+                    </form>
+                </div>
+            </div>
+          </div>
+
+		</div>
+
+        <span id='right-ad-container'>
+          <div class="body-ad-2" id="body-ad-2-603701">
+		    <div class="inside-body-ad-2">
+	            <div class="desktop-ad managed-ad article_second_square"
+    id="article_second_square"
+    data-ad-id="article_second_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:22;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_square">
+	</div>
+
+                <div class="desktop-ad managed-ad article_second_short_square"
+    id="article_second_short_square"
+    data-ad-id="article_second_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:22;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_short_square">
+	</div>
+            </div>
+          </div>
+
+          <div class="body-ad-3" id="body-ad-3-603701">
+		    <div class="inside-body-ad-3">
+	            <div class="desktop-ad managed-ad article_third_square"
+    id="article_third_square"
+    data-ad-id="article_third_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:33;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_third_square">
+</div>
+
+	            <div class="desktop-ad managed-ad article_third_short_square"
+    id="article_third_short_square"
+    data-ad-id="article_third_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:33;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_third_short_square">
+	</div>
+            </div>
+          </div>
+
+          <div class="body-ad-4" id="body-ad-4-603701">
+		    <div class="inside-body-ad-4">
+	            <div class="desktop-ad managed-ad article_fourth_square"
+    id="article_fourth_square"
+    data-ad-id="article_fourth_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:44;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fourth_square">
+</div>
+
+	             <div class="desktop-ad managed-ad article_fourth_short_square"
+    id="article_fourth_short_square"
+    data-ad-id="article_fourth_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:44;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fourth_short_square">
+	</div>
+            </div>
+          </div>
+
+          <div class="body-ad-5" id="body-ad-5-603701">
+		    <div class="inside-body-ad-5">
+	            <div class="desktop-ad managed-ad article_fifth_square"
+    id="article_fifth_square"
+    data-ad-id="article_fifth_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:55;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fifth_square">
+</div>
+
+	            <div class="desktop-ad managed-ad article_fifth_short_square"
+    id="article_fifth_short_square"
+    data-ad-id="article_fifth_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:55;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fifth_short_square">
+	</div>
+            </div>
+          </div>
+
+          <div class="body-ad-6" id="body-ad-6-603701">
+		    <div class="inside-body-ad-6">
+	            <div class="desktop-ad managed-ad article_sixth_square"
+    id="article_sixth_square"
+    data-ad-id="article_sixth_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:66;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_sixth_square">
+</div>
+	            <div class="desktop-ad managed-ad article_sixth_short_square"
+    id="article_sixth_short_square"
+    data-ad-id="article_sixth_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:66;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_sixth_short_square">
+</div>
+            </div>
+          </div>
+
+        </span>
+
+
+
+		   <p class="p1">The conservative movement has a lot of ideas for improving the life of a typical coke-sniffer in Westport, Connecticut. Let's call that man Jeffrey.</p>
+<p class="p1">The movement wants to lower Jeffrey's capital gains taxes. It also wants to lower corporate taxation, which intersects with his interests at several points. It wants to free up dollars marked for Social Security so they can be handed, temporarily, to Jeffrey's fund-manager in-law, who works in nearby Darien. The movement has sometimes proposed giving Jeffrey a voucher to offset some of the cost of sending his daughter to school at Simon's Rock. If his household income falls below $400,000, Marco Rubio would give him a generous tax credit for each of his offspring. The movement also constantly hectors universities and media outlets to consider ideological diversity. Jeffrey reads these agitations and thinks of his libertarian-leaning daughter.</p>
+<p class="p2">And, if Jeffrey gives some money to conservative causes, figures in the movement will at least pretend to cheerfully listen to him as he says that the problem with Republicans is all these religious wackos and their pro-life nonsense. That stuff bothers his daughter. Privately, many of them would like to take Jeffrey's advice.</p>
+<p class="p2">The conservative movement has next to zero ideas for improving the life of the typical opioid dependent who lives in Garbutt, New York, outside of Rochester. Let's call him Mike.</p>
+<p class="p2">Maybe they will make a child tax credit refundable against payroll taxes for Mike. He could get a voucher for a private school, but there aren't many around and he can't make up the difference in tuition costs anyway. In truth, the conservative movement has more ideas for making Mike's life more desperate, like cutting off the Social Security Disability check he's been shamefacedly receiving. It's fibromyalgia fraud, probably. Movement spokesmen might consent to a relaxation of laws against gambling near Mike's congressional district, so that Mike can get a job dealing at a blackjack table. More likely Mike ends up on the wrong side of the table, losing a portion of the SSD check to Sheldon Adelson. Finally, the movement's favorite presidential candidate would like to put American armed forces ahead of a Sunni army outside of Homs, Syria, to fight Bashar al-Assad, ISIS, and al Nusra simultaneously. <a href="http://www.msnbc.com/rachel-maddow-show/republican-candidates-eye-dangerous-russian-confrontation">Russia too</a>, if they don't respect a no-fly zone. Mike's daughter will be among the first round of American women <a href="https://www.washingtonpost.com/news/checkpoint/wp/2016/02/02/army-and-marine-corps-chiefs-its-time-for-women-to-register-for-the-draft/">to get a draft card</a>. Mike reads this news and thinks, "Your momma wears combat boots" used to be an insult.</p>
+<div class="mobads"></div>
+<p class="p2">If the conservative movement has any advice for Mike, it's to move out of Garbutt and maybe "learn computers." Any investments he made in himself previously are for naught. People rooted in their hometowns? That sentimentalism is for effete readers of Edmund Burke. Join the hyper-mobile world.</p>
+<p class="p2">And if Mike runs into a conservative reporter outside a Donald Trump rally, that reporter will then take to the pages of his conservative news outlet and talk about Mike the way a family talks about a distant dementia-afflicted uncle on his deathbed in a jurisdiction where assisted suicide is legal. Officially there's some concern expressed for the poor man's sanity. But the undertone of the remarks comes across as "Couldn't he just die already? We've got important things to attend to (in Syria, of course)." Who has time for trade protectionism?</p>
+<p class="p2">A recent example of the official right's <a href="http://www.nationalreview.com/article/430769/donald-trump-pat-buchanan">condescension</a> toward the suckers in Garbutt or Chicopee appeared in <em>National Review Online</em> last week, written by the whip-smart Kevin Williamson. For Williamson, the Donald Trump phenomenon is just one of these periodic rebellions of Buchananites in the party. Poor fellows, they need to be put down, without concessions.</p>
+<blockquote><p class="p2">The Buchanan boys are economically and socially frustrated white men who wish to be economically supported by the federal government without enduring the stigma of welfare dependency. [<a href="http://www.nationalreview.com/article/430769/donald-trump-pat-buchanan?target=author&amp;tid=903320"><i>National Review</i></a>]</p>
+</blockquote>
+<p class="p2">Brave. Change the words "federal government" to "conservative billionaires" and "direct mail marks" and he could be describing the conservative movement itself. Like <a href="http://www.ucc.ie/celt/published/E500000-001/">Sir Edmund Spenser</a> writing on the wild Gaels of Ireland, Williamson accuses the poor savages of confusing benevolent administration with a conspiracy to humiliate and dispossess them. Where would they even find evidence that <a href="http://www.slate.com/articles/news_and_politics/politics/2016/01/donald_trump_s_insurgent_candidacy_has_been_fueled_by_chinese_driven_job.html">free trade has hammered their life prospects</a> even as it granted them cheap plastic containers at Walmart? Or that immigration might be <a href="http://www.hks.harvard.edu/fs/gborjas/publications/working%20papers/Mariel2015a.pdf">depressing their wages</a>?</p>
+<p class="p2">After excoriating these working-class Mikes — who may make up perhaps one fifth of the Republican Party — for playing patty-cake with white nationalists, Williamson offers some advice to the movement:</p>
+<blockquote><p class="p2">Conservatives should continue to appeal to these voters, addressing the better angels of their nature with policy solutions to their problems, which are not imaginary. Confronting the stupidity and snobbery that holds in contempt those Americans who do work that does not require a university degree would be welcome, too, and Marco Rubio was well-advised to do so in his disquisition on welders and philosophers.</p>
+<p class="p2">But it is unlikely that such voters can ever be entirely assimilated into the mainstream of American conservatism, the universalism of which provides them no Them — and they want a Them, badly. [<a href="http://www.nationalreview.com/article/430769/donald-trump-pat-buchanan?target=author&amp;tid=903320"><i>National Review</i></a>]</p>
+</blockquote>
+<p class="p2">You see, they suffer from Them and Us thinking, unlike us. The jerks.</p>
+<div class="related-tag"></div>
+<p class="p2">I agree that Trump's policies are insufficient, and <a href="http://theweek.com/articles/601299/trumpism-against-donald-trump" target="_blank">I doubt</a> Trump would be loyal to them anyway. But Williamson offers no suggestions either. He knows there are none that fit into the straightjacket orthodoxy of conservatism any more. All we can offer Mike is a gesture at Marco Rubio's kind words for people like him. Let Mike eat tax credits. And after we call him a crypto-Nazi, he should come out and do the right thing: Turn out and help Marco Rubio ease the great burdens on the Jeffreys of the world.</p>
+<p class="p2">Time to think harder.</p>
+ 
+		   
+           
+
+		  <div class="subscribe-unit-mobile underline">
+		    <a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/wk/nb/riskFreeSubscription.jsp&MSCEKX=WKTCX20&MSCCMPLX=602WKRM02" target="_blank">Try 4 Risk-Free Issues</a> of <em>The Week</em> magazine.</div>
+		  <div class="ad_wrap">
+ 		     <div class="second-half-body-ad" id="second-half-body-ad-603701" style="display: none;">
+ 		        <span class="advertisement">ADVERTISEMENT</span>
+ 		                            
+<div class="mp-ad tablet-ad managed-ad" data-ad-id="article_body_bottom_square"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:3;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans">
+	</div>
+                                    
+<div class="mp-ad mobile-ad managed-ad" data-ad-id="article_body_bottom_square"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:3;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans">
+	</div>
+             </div>
+                          <div class="second-half-body-ad-short" id="second-half-body-ad-short-603701" style="display: none;">
+ 		        <span>ADVERTISEMENT</span>
+                
+<div class="mp-ad tablet-ad managed-ad" data-ad-id="article_body_bottom_square_short"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:3;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans">
+</div>
+             </div>
+                       </div>
+	   </div>
+	</div>
+</div>
+
+
+		<span class="related-articles horizontal-layout" id="related-articles-603701" >
+						<span class="wrap-related">
+						    <span class="related">More Perspectives</span>
+						 </span>
+							<span class="related-content">
+							
+																							<a href="/articles/621230/why-america-needs-bernie-sanders-antipoverty-spokesman"
+								 onClick="ga('send', 'event', 'Article', 'Related Side Module', 'click more perspective ');" >
+								   <span class="related-row">
+								        									        									        <span class="related-img image-rollover">
+											 <img src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/AP_16114661939777.jpg?itok=AkgO7iTL&resize=180x120"/>
+											</span>
+																															<span class="related-title">
+																																    												     <span class="name-of-author">
+												        <span class="first-name">Peter</span>
+												        <span class="last-name">Weber</span>
+												    </span>
+																							 									     									     										<span class="title"><p>Bernie Sanders: America's anti-poverty spokesman</p></span>
+																			</span>
+								</span>
+								</a>
+																																							<a href="/articles/621255/why-drill-baby-drill-always-bound-fail"
+								 onClick="ga('send', 'event', 'Article', 'Related Side Module', 'click more perspective ');" >
+								   <span class="related-row">
+								        									        									        <span class="related-img image-rollover">
+											 <img src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/42-17229883.jpg?itok=TBaqZDHR&resize=180x120"/>
+											</span>
+																															<span class="related-title">
+																																    												     <span class="name-of-author">
+												        <span class="first-name">Ryan</span>
+												        <span class="last-name">Cooper</span>
+												    </span>
+																							 									     									     										<span class="title"><p>Why 'drill, baby, drill' was always bound to fail</p></span>
+																			</span>
+								</span>
+								</a>
+																													</span>
+					</span>
+	 </div>
+<script>
+var pTag =jQuery('.full-article-' + articleId + ' .text').children('p').length;
+function appendRelatedModule(){
+	if(jQuery('.related-tag').length) {
+        if(jQuery('.related-articles').length){
+        	if(jQuery('.full-article-' + articleId + ' .text .related-articles').length == 0 ){
+        	    jQuery('.full-article-' + articleId + ' .related-tag').prepend(jQuery('#related-articles-' + articleId));
+        	}
+        }
+	}
+	else{
+	    if(jQuery('.related-articles').length){
+	    	if(pTag > 6){
+	    		if(TheWeek.getCurrentDevice() == 'desktop') {
+		    		addHeight = jQuery('.related-articles').height() + 60;
+	    			jQuery('.full-article-' + articleId + ' .text').children('p').eq(5).css('position', 'relative');
+	    			jQuery('.full-article-' + articleId + ' .text').children('p').eq(5).css( 'padding-bottom', addHeight + 'px');
+
+	    		}
+	    		if(jQuery('.full-article-' + articleId + ' .text .related-articles').length == 0 ){
+	    		    jQuery('.full-article-' + articleId + ' .text').children('p').eq(5).prepend(jQuery('#related-articles-' + articleId));
+	    		}
+		    }else{
+		        if(TheWeek.getCurrentDevice() == 'desktop') {
+		        	addHeight = jQuery('.related-articles').height() + 60;
+		        	jQuery('.full-article-' + articleId + ' .text').children('p').eq(pTag-1).css('position', 'relative');
+		        	jQuery('.full-article-' + articleId + ' .text').children('p').eq(pTag-1).css( 'padding-bottom', addHeight + 'px');
+
+	    		}
+	    		if(jQuery('.full-article-' + articleId + ' .text .related-articles').length == 0 ){
+	    			  jQuery('.full-article-' + articleId + ' .text').children('p').eq(pTag-1).prepend(jQuery('#related-articles-' + articleId));
+	    		}
+		    }
+	     }
+	 }
+    if(jQuery('.related-tag').html()== ""){
+    	jQuery('.related-tag').css('height', 'auto');
+     }
+    jQuery('.related-articles').css('display','block');
+}
+
+jQuery(function(){
+	appendRelatedModule(); 
+});
+jQuery( window ).resize(function() {
+	appendRelatedModule(); 
+});
+</script>
+
+<script>
+var short_text = false;
+var estimateHeight = 0;
+jQuery( document ).ready(function() { setAdsPlacement(); });
+jQuery(window).focus(function() {setAdsPlacement(); });
+
+function setAdsPlacement(){
+    if(jQuery('.full-article-' + articleId).css('display') == 'block') {
+        if(TheWeek.getCurrentDevice() == 'mobile'){
+		   	jQuery('.full-article-' + articleId + ' .text p').eq( 4).prepend(jQuery('#body-ad-1-' + articleId));
+		    //this will stay hidden for a while, and we will make it voisible soon
+		   	jQuery('#body-ad-1-' + articleId).hide();
+		}
+        textHeight = jQuery('.text').height();
+		if(textHeight < 1200){
+			short_text=true;
+		 }
+		adsScrollableSpace = 1200;
+		numberOfStickyAds = Math.ceil(textHeight/adsScrollableSpace);
+	    device = TheWeek.getCurrentDevice();
+	    if(TheWeek.getCurrentDevice() == 'desktop'){
+
+		    if(short_text == false) {
+
+			    for(i=1; i<= numberOfStickyAds; i++){
+			    	    if(i>6) return;
+					    if(i>1){
+					         jQuery('#body-ad-'+ i +'-' + articleId).insertAfter(jQuery('#body-ad-'+ (i-1) +'-' + articleId));
+					    }
+					    jQuery('.body-ad-'+ i).show();
+
+						if(textHeight > (adsScrollableSpace * i) ){
+							jQuery('.body-ad-'+ i).css( "height", "1200px" );
+							jQuery('.inside-body-ad-'+ i).css( "height", "800px" );
+							if( i == 1){
+							    // for the first ad with the subscribe unit, extra room
+							    jQuery('.body-ad-'+ i).css( "height", "1400px" );
+							    jQuery('.inside-body-ad-'+ i).css( "width", "300px" );
+							}
+						}else{
+							previousAdsHeight = 0;
+						    for(j=(i-1);j>=1;j--){
+						    	previousAdsHeight =previousAdsHeight +jQuery('.body-ad-'+j).height();
+							}
+
+							estimateHeight = jQuery('.text').height() - previousAdsHeight;
+
+							jQuery('.body-ad-'+ i).css( "height", estimateHeight + "px" );
+
+							if( (jQuery('.body-ad-'+ i).offset().top + jQuery('.body-ad-'+ i).height()) >= textHeight){
+								jQuery('.inside-body-ad-'+ i).css( "height", (estimateHeight) + "px" );
+
+							}else{
+								jQuery('.inside-body-ad-'+ i).css( "height", (estimateHeight/2) + "px" );
+
+							}
+						}
+				}
+		    }else{
+		    	jQuery('.body-ad-1 ').height('1');
+
+			}
+	    }
+
+	}
+}
+	
+	jQuery( window ).resize(function() {
+		jQuery(function(){
+			if(TheWeek.getCurrentDevice() == 'mobile'){
+			   	jQuery('.full-article-' + articleId + ' .text p').eq( 4).prepend(jQuery('#body-ad-1-' + articleId));
+			}
+		});
+	});
+	</script>
+</div>
+			<div class="sticky-social-article-only" style="display:none;" id="sticky-social_603701">
+	<div class="sticky-social-inside">
+	<div class="social-call-to-action">SHARE!</div>
+			<div class="social-sticky-buttons">
+				<div class="first-sticky-button">
+					<span class="fb" style="display: block" data-url="http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans" data-text="How conservative elites disdain working-class Republicans"></span>
+				</div>
+				<div class="second-sticky-button">
+					<span class="twitter" style="display: block" data-url="http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans" data-text="How conservative elites disdain working-class Republicans"></span>
+				</div>
+				<div class="third-sticky-button">
+					<span style="display: block" class="email">
+					<a HREF="mailto:?subject=How conservative elites disdain working-class Republicans&amp;body=:http://theweek.com/articles/603701/how-conservative-elites-disdain-workingclass-republicans" target="_blank" title="Share by Email" style="width:40px;height:40px;float:left;"><div class="test">&nbsp;</div></a>
+					</span>
+				</div>
+			</div>
+	</div>
+
+</div>
+<script>
+jQuery(function(){
+    	jQuery('.twitter').sharrre({
+			  share: {
+			    twitter: true
+			  },
+			  enableHover: false,
+			  enableTracking: true,
+			  enableCounter: false,
+			  click: function(api, options){
+			    api.simulateClick();
+			    api.openPopup('twitter');
+			  }
+			});
+
+		jQuery('.fb').sharrre({
+			  share: {
+			    facebook: true
+			  },
+			  enableHover: false,
+			  enableTracking: true,
+			  enableCounter: false,
+			  click: function(api, options){
+			    api.simulateClick();
+			    api.openPopup('facebook');
+			  }
+			});
+
+    });
+</script>
+
+	
+	 
+
+	<div class="subscribe-unit underline"  id="art-subscribe-unit-outer">
+	   <div class="in-subs" id="art-subscribe-unit">
+	   <a href=https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKBundRsk&MAGCODE=WK&MSCCMPLX=602WKRA01" target="_blank" onclick="ga('send', 'event', 'Recirculation', 'TheWeek.com desktop - The Week End of Article', 'Try 4 Risk-Free Issues - Clicked');">
+	   Try 4 Risk-Free Issues
+	   </a></div>
+	   <span>of <em>The Week</em> magazine.</span>
+	</div>
+
+
+        	<div class="promo-links">
+		<div id="taboola-below-article-thumbnails"></div>
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({
+		    mode: 'thumbnails-a1',
+		    container: 'taboola-below-article-thumbnails',
+		    placement: 'Below Article Thumbnails',
+		    target_type: 'mix'
+		  });
+		</script>
+		<div id="taboola-below-article-thumbnails-2nd"></div>
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({
+		    mode: 'organic-thumbnails-a',
+		    container: 'taboola-below-article-thumbnails-2nd',
+		    placement: 'Below Article Thumbnails 2nd',
+		    target_type: 'mix'
+		  });
+		</script>
+	</div>
+		
+        <div class="more-from-the-author">
+                              <div id="module-recirculation">
+	<div class="left_recirc">
+		<div class="modules-headline">
+			More from Michael Brendan Dougherty<br>
+							<div class="see-all"><a href="/authors/michael-brendan-dougherty">See All</a></div>
+					</div>
+		<div id="module-recirculation-feature" class="image-rollover">
+						        <div class="author-art">
+					<a href="/articles/620971/why-ted-cruz-failed-carry-nevertrump-banner" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-1');">
+					<div><img class="mrf-image image-rollover" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/GettyImages-522835742.jpg?itok=ocO4FbLW&resize=400x267"></div>
+					<div class="mrf-headline gray-rollover"><p>Why Ted Cruz failed to carry the #NeverTrump banner</p>
+					   							       						<span class="author-name"
+								>Michael Brendan Dougherty
+							</span>
+																		</div>
+					</a>
+			     </div>
+						        <div class="author-art">
+					<a href="/articles/620349/no-political-makeover-save-donald-trump" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-2');">
+					<div><img class="mrf-image image-rollover" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/AP703506869343.jpg?itok=t6fGnfaz&resize=400x267"></div>
+					<div class="mrf-headline gray-rollover"><p>No political makeover can save Donald Trump</p>
+					   							       						<span class="author-name"
+								>Michael Brendan Dougherty
+							</span>
+																		</div>
+					</a>
+			     </div>
+						        <div class="author-art">
+					<a href="/articles/619582/donald-trump-dominated-new-york-changes-nothing" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-3');">
+					<div><img class="mrf-image image-rollover" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/TRUMP_RTX2AKCF.jpg?itok=TvxKSNMR&resize=400x267"></div>
+					<div class="mrf-headline gray-rollover"><p>Donald Trump dominated New York. This changes nothing.</p>
+					   							       						<span class="author-name"
+								>Michael Brendan Dougherty
+							</span>
+																		</div>
+					</a>
+			     </div>
+				
+		</div>
+	</div>
+
+	<div class="most-popular">
+		<div class="mp-wrapper">
+			<div class="mp-headline">
+				<a href="/mostpopular">Most popular</a>
+			     <br />   <div class="see-all"><a href="/mostpopular">See All</a></div>
+			</div>
+														<div class="mp-element">
+				     <a href="/articles/621249/defense-byus-honor-code" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-1');">
+						<div class="left-part image-rollover">
+						   <div class="mp-number">1</div>
+							<img class="mp-img" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/iStock_000075736197_Large.jpg?itok=5qpRclKQ&resize=400x267" />
+						</div>
+						<div class="headline"><p>In defense of BYU's honor code</p>
+																       						<span class="author-name"
+									>Damon Linker
+								</span>
+																					</div>
+					</a>
+				</div>
+	            								<div class="mp-element">
+				     <a href="/articles/593093/66-tv-shows-watch-2016" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-2');">
+						<div class="left-part image-rollover">
+						   <div class="mp-number">2</div>
+							<img class="mp-img" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/6852c6d9f98d6e67b02df050ec71f2b44513c8068a75270bca515673d806800f.jpeg?itok=kqJwiDwv&resize=400x267" />
+						</div>
+						<div class="headline"><p>66 TV shows to watch in 2016</p>
+																       						<span class="author-name"
+									>Scott Meslow
+								</span>
+																					</div>
+					</a>
+				</div>
+	            								<div class="mp-element">
+				     <a href="/articles/480961/15-urban-outfitters-controversies" onClick="ga('send', 'event', 'Article', 'Recirculation', 'more-from-3');">
+						<div class="left-part image-rollover">
+						   <div class="mp-number">3</div>
+							<img class="mp-img" src="http://api.theweek.com/sites/default/files/styles/tw_image_6_4/public/UrbanOutfitters_contro.jpg?itok=rWmAKbTz&resize=400x267" />
+						</div>
+						<div class="headline"><p>15 Urban Outfitters controversies</p>
+														    <span class="author-name">The Week Staff</span>
+													</div>
+					</a>
+				</div>
+	            							
+		</div>
+	</div>
+
+<div class="zerg-colm" >
+	<div style="font-family:Minion-pro; color:#000000; font-size:26px; font-weight:600; padding-top: 9px; margin-bottom:10px;">Around the web</div>
+
+	<div style="font-family:proxima-nova; font-size: 12px; color: #f43736; text-align: left; text-transform:uppercase; margin-bottom:23px; font-weight:600;">Powered By ZergNet</div>
+
+	<div id="zergnet-widget-29360"></div>
+</div>
+
+ <script language="javascript" type="text/javascript">
+(function() {
+var zergnet = document.createElement('script');
+zergnet.type = 'text/javascript'; zergnet.async = true;
+zergnet.src = 'http://www.zergnet.com/zerg.js?id=29360';
+var znscr = document.getElementsByTagName('script')[0];
+znscr.parentNode.insertBefore(zergnet, znscr);
+})();
+</script>
+
+</div>
+
+
+
+                
+	</div>
+	
+
+
+
+    <div class="desktop-ad managed-ad article_second_short_square"
+    id="article_second_short_square"
+    data-ad-id="article_second_short_square"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:22;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_short_square">
+	</div>
+
+	
+<div id="sharethrough-ad">
+    <div class="desktop-ad managed-ad" 
+		data-ad-id="div-gpt-ad-1411048401652-0"
+		data-targets="inventory:btf;aid:603701;position:101;tags:feature,Politics,conservative,opinion;strnativekey:7b87e58b;" 
+		data-device="desktop"></div>
+	 <div class="tablet-ad managed-ad" 
+		data-ad-id="div-gpt-ad-1411048401652-0"
+		data-targets="inventory:btf;aid:603701;position:101;tags:feature,Politics,conservative,opinion;strnativekey:7b87e58b;" 
+		data-device="tablet"></div>
+	<div class="mobile-ad managed-ad" 
+		data-ad-id="div-gpt-ad-1411048401652-0"
+		data-targets="inventory:btf;aid:603701;position:101;tags:feature,Politics,conservative,opinion;strnativekey:7b87e58b;" 
+		data-device="mobile"></div>
+</div>
+	<div class="bottom-Ad bottom-leaderboard-ad desktop-ad managed-ad"
+	data-ad-id="article_bottom_leaderboard",
+	data-device="desktop",
+	data-targets="breakpoint:desktop;inventory:btf;position:4;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"></div>
+
+<div class="bottom-Ad bottom-leaderboard-ad tablet-ad managed-ad"
+	data-ad-id="article_bottom_leaderboard",
+	data-device="tablet",
+	data-targets="breakpoint:tablet;inventory:btf;position:4;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"></div>
+
+<div class="mobile-bottom-ad bottom-leaderboard-ad mobile-ad managed-ad bottom-Ad"
+	data-ad-id="article_bottom_leaderboard"
+	data-targets="breakpoint:mobile;inventory:btf;position:4;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans"
+	data-device="mobile"></div>
+	
+    <div class="hidden-mobile-ads">
+	<div class="desktop-ad managed-ad article_first_intext_ad onScrollAds"
+    id="article_first_desktop"
+    data-ad-id="article_first_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:111;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_first_intext_ad">
+</div>
+<div class="tablet-ad managed-ad article_first_intext_ad onScrollAds"
+    id="article_first_tablet"
+    data-ad-id="article_first_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:111;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_first_intext_ad">
+</div>
+<div class="mobile-ad managed-ad article_first_intext_ad onScrollAds"
+    id="article_first_mobile"
+    data-ad-id="article_first_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:111;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_first_intext_ad">
+</div>
+	<div class="desktop-ad managed-ad article_second_intext_ad onScrollAds"
+    id="article_second_desktop"
+    data-ad-id="article_second_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:222;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_intext_ad">
+</div>
+
+<div class="tablet-ad managed-ad article_second_intext_ad onScrollAds"
+    id="article_second_tablet"
+    data-ad-id="article_second_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:222;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_intext_ad">
+</div>
+
+<div class="mobile-ad managed-ad article_second_intext_ad onScrollAds"
+    id="article_second_mobile"
+    data-ad-id="article_second_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:222;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_second_intext_ad">
+</div>
+	<div class="desktop-ad managed-ad article_third_intext_ad onScrollAds"
+    id="article_third_desktop"
+    data-ad-id="article_third_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:333;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_third_intext_ad">
+</div>
+<div class="tablet-ad managed-ad article_third_intext_ad onScrollAds"
+    id="article_third_tablet"
+    data-ad-id="article_third_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:333;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_third_intext_ad">
+</div>
+<div class="mobile-ad managed-ad article_third_intext_ad onScrollAds"
+    id="article_third_mobile"
+    data-ad-id="article_third_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:333;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_third_intext_ad">
+	</div>
+	
+<div class="desktop-ad managed-ad article_fourth_intext_ad onScrollAds"
+    id="article_fourth_desktop"
+    data-ad-id="article_fourth_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:444;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fourth_intext_ad">
+</div>
+<div class="tablet-ad managed-ad article_fourth_intext_ad onScrollAds"
+    id="article_fourth_tablet"
+    data-ad-id="article_fourth_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:444;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fourth_intext_ad">
+</div>
+<div class="mobile-ad managed-ad article_fourth_intext_ad onScrollAds"
+    id="article_fourth_mobile"
+    data-ad-id="article_fourth_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:444;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fourth_intext_ad">
+</div>
+	<div class="desktop-ad managed-ad article_fifth_intext_ad onScrollAds"
+    id="article_fifth_desktop"
+    data-ad-id="article_fifth_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:555;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fifth_intext_ad">
+	</div>
+
+<div class="tablet-ad managed-ad article_fifth_intext_ad onScrollAds"
+    id="article_fifth_tablet"
+    data-ad-id="article_fifth_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:555;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fifth_intext_ad">
+	</div>
+
+<div class="mobile-ad managed-ad article_fifth_intext_ad onScrollAds"
+    id="article_fifth_mobile"
+    data-ad-id="article_fifth_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:555;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_fifth_intext_ad">
+</div>
+
+	 <div class="desktop-ad managed-ad article_sixth_intext_ad onScrollAds"
+    id="article_sixth_desktop"
+    data-ad-id="article_sixth_intext_ad"
+	data-device="desktop"
+	data-targets="breakpoint:desktop;inventory:btf;position:666;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_sixth_intext_ad">
+</div>
+
+ <div class="tablet-ad managed-ad article_sixth_intext_ad onScrollAds"
+    id="article_sixth_tablet"
+    data-ad-id="article_sixth_intext_ad"
+	data-device="tablet"
+	data-targets="breakpoint:tablet;inventory:btf;position:666;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_sixth_intext_ad">
+</div>
+<div class="mobile-ad managed-ad article_sixth_intext_ad onScrollAds"
+    id="article_sixth_mobile"
+    data-ad-id="article_sixth_intext_ad"
+	data-device="mobile"
+	data-targets="breakpoint:mobile;inventory:btf;position:666;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans;name:article_sixth_intext_ad">
+</div>
+	</div>
+</div>
+
+
+
+<script>
+    // move the sign up container to correct place
+//    jQuery( document ).ready(function() {
+//        if(TheWeek.getCurrentDevice() == 'desktop'){
+//            jQuery('#subscribe-container').insertAfter(jQuery('.inside-body-ad-1'));
+//         }
+//    });
+
+    jQuery(document).ready(function() {
+        articleId = window.location.pathname.split( '/' )[2];
+        jQuery("#newsletter-form").validate({
+            rules: {
+                email: {
+                    required: true
+                   ,email: true
+                }
+            },
+            errorPlacement: function(error, element) {
+                error.appendTo( "#newsletter-error-mobile" );
+            },
+            submitHandler: function(form) {
+                jQuery("#desktop-signup").attr('disabled', 'disabled').css('opacity','.4');
+                jQuery.ajax({
+                    url: '/signup?',
+                    data: {email: jQuery("#email").val(), briefing: jQuery("#ten_things").is(':checked'), top_opinions: jQuery("#best_articles").is(':checked'), captured: jQuery("#best_photos").is(':checked'), cartoons: jQuery("#best_cartoons").is(':checked'), business: jQuery("#business_briefing").is(':checked') },
+                    dataType: 'json',
+                    jsonp: false,
+                    success: function(data) {
+                        if(data.success) {
+                            parent.formSubmitted = true;
+                            alert("Your free email newsletter subscription is confirmed. Thank you for subscribing!");
+                        }
+                        else {
+                            jQuery("#desktop-signup").attr('disabled', false).css('opacity', '1');
+                            alert(data.message);
+                        }
+                    }
+                });
+            }
+        });
+    });
+</script>
+
+<!--  Next Article -->
+	<div class="next-article next-article_604080">
+
+	   <div class="inner-n-a">
+	        <a href="/articles/604080/how-chris-christie-exposed-marco-rubio-untrustworthy-pretender" onClick="ga('send', 'event', 'Article', 'Recirculation', 'next-up');";>
+				<div class="coming-up">Read the next article</div>
+				<span class="next-article-vertical-gray"></span>
+				<div id="show_next-article">
+				    <span class="next-article-title"><p>How Chris Christie exposed Marco Rubio as an untrustworthy pretender</p></span>
+				    <div class="r-arrow-container"></div>
+				</div>
+				<div class="next-article-author">
+																	<span class="first-name">James</span>
+						<span class="last-name">Poulos</span>
+															</div>
+			</a>
+	   </div>
+		</div>
+	</div>
+
+
+		<script>(function(d, s, id) {
+	  // fb like code
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	</script>
+
+			</div>
+
+			<div id="footer">
+	<div id="left-footer">
+		<div class="logo"></div>
+		<div class="social">
+			<div class="footer_btns">
+				<div class="fb-like" style="float:left;" data-href="http://facebook.com/theweek" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			    <div class='twitter-follow'>
+				<a href="https://twitter.com/theweek" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-dnt="true"></a>
+			   </div>
+		   </div>
+		</div>
+		<div class="dropdown-footer">
+			<select id="dropdown-select" onChange="document.location = this.value">
+				<option value="" selected="selected">More about The Week</option>
+
+				<option
+					value="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKALL43015&MAGCODE=WK&MSCCMPLX=506WKSA03" target="_blank">Subscribe</option>
+				<option value="/tools/proxies/authorization.php">Subscriber login</option>
+				<option
+					value="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order.jsp&MSRSMAG=WK&MSCEKX=WKTALNX &MSCCMPLX=506WKGA02" target="_blank">Give
+					a gift</option>
+				<option value="https://secure.customersvc.com/servlet/Show?WESPAGE=csp-dp/contact_us.jsp&MSRSMAG=WK" target="_blank">Back
+					issues</option>
+				<option value="https://subscribe.theweek.com/servlet/Show?WESPAGE=csp/wk/edu/educator.jsp&MSCEKX=WKTAK45">Classroom subscriptions</option>
+				<option value="/newsletters">Newsletters</option>
+				<option value="/rss.xml">RSS</option>
+				<option value="/privacy">Privacy policy</option>
+				<option value="/terms">Terms & conditions</option>
+				<option value="http://www.theweek.co.uk/">The Week UK</option>
+				<option
+					value="https://service.theweek.com">Customer
+					service</option>
+				<option value="/contact">Contact us</option>
+			</select>
+		</div>
+
+
+		<div class="circulation-part">
+			 <a href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKBundRsk&MAGCODE=WK&MSCCMPLX=506WKRA03" target="_blank">
+			     <div class="magazine-img image-rollover"><img src="http://cdn.app.theweek.com/editions/com.dennis.theweek.issue.issue769/assets/styles/cover/public/iPad-cover-769_SMALL.jpg"/></div>
+
+			     <div class="circulation">
+				    <div id="get-four-footer">
+				        <div id="get-four-text">Get 4<br />Risk-Free
+				      <br /><span>issues of The Week</span>
+					   </div>
+					   <div id="get-four-btn" class="black-rollover">TRY IT OUT </div>
+				    </div>
+			     </div>
+			</a>
+		</div>
+	</div>
+<script>
+	jQuery(document).ready(function(){
+        if(TheWeek.getCurrentDevice() == 'mobile'){
+			jQuery(".circulation-part > a").attr('href', 'https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKBundRsk&MAGCODE=WK&MSCCMPLX=506WKRA02');
+		}
+	});
+
+</script>
+	<div id="right-footer">
+		<div class="right-footer-left red-rollover">
+			<ul>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Subscribe');"
+					href="https://subscribe.theweek.com/servlet/Show?WESPAGE=pm/Pages/load_order.jsp&WESACTIVESESSION=TRUE&PAGE_ID=WKALL43015&MAGCODE=WK&MSCCMPLX=506WKSA03" target="_blank">Subscribe</a></li>
+
+				<li><a id="login-footer"
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Subscriber login');"
+					href="/login">Subscriber login</a></li>
+
+				<li><a 
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Current issue');"
+									<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Give a gift');"
+					href="https://subscribe.theweek.com/wes/servlet/Show?WESPAGE=csp/wk/dgord/Gift_Order.jsp&MSRSMAG=WK&MSCEKX=WKTALNX%20&MSCCMPLX=506WKGA02" target="_blank">Give
+						a gift</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Back issue');"
+					href="https://secure.customersvc.com/servlet/Show?WESPAGE=csp-dp/contact_us.jsp&MSRSMAG=WK" target="_blank">Back
+						issues</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Classroom subscriptions');"
+					href="https://subscribe.theweek.com/servlet/Show?WESPAGE=csp/wk/edu/educator.jsp&MSCEKX=WKTAK45" target="_blank">Classroom subscriptions</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Newsletters');"
+					href="/newsletters">Newsletters</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'RSS');"
+					href="/rss.xml">RSS</a></li>
+			</ul>
+
+		</div>
+		<div class="right-footer-right red-rollover">
+			<ul>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Privacy policy');"
+					href="/privacy">Privacy policy</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Terms & conditions');"
+					href="/terms">Terms & conditions</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'The Week UK');"
+					href="http://www.theweek.co.uk" target="_blank">The Week UK</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Customer service');"
+					href="https://service.theweek.com" target="_blank">Customer
+						service</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Contact us');"
+					href="/contact">Contact us</a></li>
+				<li><a
+					onClick="ga('send', 'event', 'Page Tracking', 'Footer-Right Part', 'Ad info');"
+					href="http://ads.theweek.com" target="_blank">Ad info</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script>
+   if ($.cookie('LoggedIn') == "True") {
+	    jQuery("#login-footer").text("Subscriber logout");
+  	  	jQuery("#login-footer").attr("href","/");
+  	  	jQuery("#login-footer").click( function(){
+    	  	  document.cookie = 'LoggedIn=; expires=Thu, 01 Jan 1970 00:00:00 UTC';
+  	  	  	  $.cookie('LoggedIn', null); setTimeout(function(){location.reload();}, 2000);
+ 	    });
+   }
+</script>
+
+<script type="text/javascript" charset="utf-8">var ju_num="50557691-0AC5-4166-86BA-29E0621DE832";var asset_host=(("https:"==document.location.protocol)?"https":"http")+'://d2j3qa5nc37287.cloudfront.net/';(function()
+{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=asset_host+'coupon_code1.js';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}
+)();</script>
+
+		</div>
+
+				
+
+	</div>
+	</div>
+</div>
+
+<script>
+function isDefined(func){
+    if(func !== undefined) return true;
+}
+
+if(jQuery('img.lazy').length){
+    jQuery('img.lazy').lazyload();
+}
+jQuery(window).smartresize(function() {
+	if(jQuery('img.lazy').length){
+		jQuery('img.lazy').lazyload();
+		}
+	});
+
+	/**
+ * AdManager allows for global targeting parameters
+ * that will be applied to all Ads written
+ */
+jQuery(function(){
+	AdManager
+			.setGlobalTarget('dev', '0')
+			.setGlobalTarget('sponsored', '0')
+			.setGlobalTarget('preview', '0;')
+																		AdManager.writeAllAds();
+									
+			});
+</script>
+			<!-- Body Bottom -->
+
+<!-- Start Crazy Egg -->
+<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/8334.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- End Crazy Egg -->
+
+<!--  Start ChartBeat (tag 2 of 2) -->
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    var _sf_async_config={};
+
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 8273;
+	_sf_async_config.domain = "theweek.com";
+	_sf_async_config.useCanonical = true;
+	/** CONFIGURATION END **/
+	(function() {
+	       function loadChartbeat() {
+	           window._sf_endpt = (new Date()).getTime();
+	           var e = document.createElement('script');
+	           e.setAttribute('language', 'javascript');
+	           e.setAttribute('type', 'text/javascript');
+	           e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	           document.body.appendChild(e);
+	       }
+	       var oldonload = document.ready;
+	       document.ready = (typeof document.ready != 'function') ? loadChartbeat : function() {
+	           oldonload();
+	           loadChartbeat();
+	       };
+	   })();
+</script>
+<!-- End ChartBeat -->
+
+<!-- Start Embeds -->
+<script src="//platform.tumblr.com/v1/share.js"></script>
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<script>window.twttr = (function (d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src= "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+}(document, "script", "twitter-wjs"));</script>
+<!-- End Embeds -->
+
+<!-- Start AdRoll -->
+<script type="text/javascript">
+adroll_adv_id = "L6DN3AVYT5FYTKMGN7J7JQ";
+adroll_pix_id = "STYRNL3RLNB3JAXDKX6T3D";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- End AdRoll -->
+
+<!-- Start Taboola -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!-- End Taboola -->
+
+
+
+<!--Adblock Check-->
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+	checkAds();
+});
+
+function checkAds(){
+	setTimeout(function(){
+		if(TheWeek.getCurrentDevice() == 'desktop'){
+			if (jQuery(".managed-ad.desktop-ad").height() > 0) {
+				ga('send', 'event', 'Adblock', 'Unblocked','Unblocked-Desktop-Ads', 0, {nonInteraction: true});
+			} else {
+				ga('send', 'event', 'Adblock', 'Blocked','Blocked-Desktop-Ads', 1, {nonInteraction: true});
+			}
+		}else if(TheWeek.getCurrentDevice() == 'tablet'){
+			if (jQuery(".managed-ad.tablet-ad").height() > 0) {
+				ga('send', 'event', 'Adblock', 'Unblocked','Unblocked-Tablet-Ads', 0, {nonInteraction: true});
+			} else {
+				ga('send', 'event', 'Adblock', 'Blocked','Blocked-Tablet-Ads', 1, {nonInteraction: true});
+			}
+		}else if(TheWeek.getCurrentDevice() == 'mobile'){
+			if (jQuery(".managed-ad.mobile-ad").height() > 0) {
+				ga('send', 'event', 'Adblock', 'Unblocked','Unblocked-Mobile-Ads', 0, {nonInteraction: true});
+			} else {
+				ga('send', 'event', 'Adblock', 'Blocked','Blocked-Mobile-Ads', 1, {nonInteraction: true});
+			}
+		}
+	}, 7000);
+}
+</script>
+<!--End Adblock Check-->
+<!-- Start FAB Adblock Check -->
+<script type="text/javascript">
+	var arrDevices = [ 'desktop', 'tablet', 'mobile'];
+function adBlockNotDetected() {
+	device =  TheWeek.getCurrentDevice();
+	if(jQuery.inArray( device, arrDevices ) != -1){
+		ga('send', 'event', 'Adblock FAB New ', 'Unblocked','Unblocked-'+device+'-Ads', 0, {nonInteraction: true});
+		console.log('Ad Block is not detected');
+	}
+}
+// Function called if AdBlock is detected
+function adBlockDetected() {
+	device =  TheWeek.getCurrentDevice();
+	if(jQuery.inArray( device, arrDevices ) != -1){
+		ga('send', 'event', 'Adblock FAB New ', 'Blocked','Blocked-'+device+'-Ads', 0, {nonInteraction: true});
+		console.log('Ad Block is detected');
+	}
+}
+
+if(typeof fAB === 'undefined') {
+    adBlockDetected();
+} else {
+    fAB.onDetected(adBlockDetected);
+    fAB.onNotDetected(adBlockNotDetected);
+}
+</script>
+<!--End FAB Adblock Check -->
+<!-- [if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+			
+						<div class="managed-ad "
+		  data-ad-id="div-gpt-ad-1422997770192-0-oop"
+		  data-device="desktop"
+		  data-targets="breakpoint:desktop;inventory:btf;position:999;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans">
+</div>
+<div class="managed-ad"
+		  data-ad-id="div-gpt-ad-1422997770192-0-oop"
+		  data-device="tablet"
+		  data-targets="breakpoint:tablet;inventory:btf;position:999;aid:603701;tags:feature,Politics,conservative,opinion;url:/articles/603701/how-conservative-elites-disdain-workingclass-republicans">
+</div>
+			</body>
+</html>

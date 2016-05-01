@@ -1,0 +1,54 @@
+\documentclass[letterpaper]{report}
+
+% packages to include additional functionality
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage{wrapfig} % for wrapping images with text
+\usepackage{color} % for coloring links
+\usepackage{fancyvrb}
+\usepackage{listings}
+\usepackage{verbatim}
+\usepackage{alltt}
+\usepackage{hyperref}%for including URL
+%Start Margins
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+\addtolength{\topmargin}{-.885in}
+\addtolength{\textheight}{1.95in}
+%End Margins
+
+\begin{document}
+\newpage
+\renewcommand{\thesection}{\arabic{section}}
+
+\author{Dinesh Kumar Paladhi}
+\title{CS 532: Assignment 10}
+
+\date{Spring 2016}
+% note that this special command is part of the document class
+% and, in addition to creating the title page, also inserts the 
+% current date on the page
+\maketitle
+
+\tableofcontents
+\newpage
+
+% include other tex files so we don't have one huge document to scroll through
+
+\include{part1} 
+\include{part2}
+\include{part3}
+\include{part4}
+
+
+
+
+\bibliographystyle{plain}
+\bibliography{references}
+\nocite {*} 
+\end{document}
+

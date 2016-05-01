@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>LA VISTA DE WALMART | muddlaw</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://johnmuddlaw.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+		<script src="https://s0.wp.com/wp-content/themes/pub/suits/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Merriweather+Sans:r:latin,latin-ext","Merriweather+Sans:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active button, .wf-active html, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Merriweather Sans",sans-serif}.wf-active body{font-size:16.9px;font-family:"Merriweather Sans",sans-serif}.wf-active .site-description{font-family:"Merriweather Sans",sans-serif;font-size:18.2px}.wf-active .widget .widget-title{font-family:"Merriweather Sans",sans-serif;font-size:26px}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Merriweather Sans",sans-serif;font-weight:400;font-style:normal}.wf-active .site-title{font-family:"Merriweather Sans",sans-serif;font-size:128px;font-weight:400;font-style:normal}.wf-active .entry-title{font-family:"Merriweather Sans",sans-serif;font-size:48px;font-weight:400;font-style:normal}.wf-active .widget .widget-title{font-family:"Merriweather Sans",sans-serif;font-size:32px;font-weight:400;font-style:normal}.wf-active .nav-menu li a{font-family:"Merriweather Sans",sans-serif;font-size:17.6px;font-weight:400;font-style:normal}@media only screen and (min-width: 768px) and (max-width: 959px){.wf-active .menu-toggle{font-family:"Merriweather Sans",sans-serif;font-size:17.6px;font-weight:400;font-style:normal}}@media only screen and (max-width: 868px){.wf-active .site-title{font-size:64px;font-style:normal;font-weight:400}}</style>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=johnmuddlaw.com&amp;id=63209231&amp;t=1462054539&amp;back=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="muddlaw &raquo; Feed" href="https://johnmuddlaw.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="muddlaw &raquo; Comments Feed" href="https://johnmuddlaw.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="muddlaw &raquo; LA VISTA DE&nbsp;WALMART Comments Feed" href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/_static/??-eJyFkNEOgjAMRX/IuaBo5MH4LTDqGKx0oSWLf++QqBENviy93T25bXUMylAv0IvGUQU/WtezjsEQKkbn4bZQW8O80b8x7zpg3YKE0nTqob7slSf7BshaqGkUdSXvKeroaguyljGALwVqFYhlodYwQwOkPoZSJgdC7UrwgMm2hmE4PqmpbNJeqzHzqaoqDMCs0otuRCVNCvozHk6jzDfTyfjZmVGnexKXaH4V08cFz1l+KHZ5VuxP7R3KAK8y' type='text/css' media='all' />
+<link rel='stylesheet' id='suits-font-css'  href='https://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%26subset%3Dlatin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s1.wp.com/_static/??-eJx9i0EKgzAQRS/UdBBS1IV4Fg1jOjLJBGdC6e1rcaMbN5//4D34FBckG2YDe2NChVJn0EqmoPZlfAbVB5y0VF3hGikrYJKVjr3TIopjCZOR5Au4hSfa7tINZ5a43wi7dcJ/NKah8a/e+65t/PoDkSxLJA==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3' href='https://s1.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1444132114h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4' href='https://s1.wp.com/_static/??-eJxti0EKgCAQRS+UTYXUKjqLiakxOuIoXb9atIhaPD4P/oMjCU2xmFggVJGwWh8ZEnERGyqfgZ3KPtpnW83cwH/FpL1CgWTpLZ+oOBMMg5NgkVaF92EJcy/H7mKYhv0EZOQ3yA==' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj+sKwjAMhV/Irk50+Ed8lrlmJbVtatNa9OntQAXnUAjk9p1DIksQ6AebFbA0NS4Z4u2ZGsMr+QsQDnXsEzQO/QseyCfwaWIdndCCyAyx13VWjUZa4AJxcsBcoYXt50norwjlL2YghX44iwiM9y/XkyUtgs0aPctaa1CUkxjJWiqyoNKQ5hqX34oItj6txHT3rKuqozu0265d79tNtzMPcaOEUA=='></script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://muddlaw.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='PREPA DEAL GONE&nbsp;WRONG' href='https://johnmuddlaw.com/2016/01/23/prepa-deal-gone-wrong/' />
+<link rel='next' title='Las Universidades y el&nbsp;Mercado' href='https://johnmuddlaw.com/2016/02/09/las-universidades-y-el-mercado/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" />
+<link rel='shortlink' href='http://wp.me/p4hdBJ-fg' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="LA VISTA DE WALMART" />
+<meta property="og:url" content="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" />
+<meta property="og:description" content="LA VISTA DE WAL-MART &nbsp; Las vistas del caso de Wal-Mart sobre un impuesto conocido como el Alternate Minimum Tax (AMT), culminaron el viernes. Durante tres de los cuatro días estuve sentado vie…" />
+<meta property="article:published_time" content="2016-02-08T10:50:25+00:00" />
+<meta property="article:modified_time" content="2016-03-23T23:53:25+00:00" />
+<meta property="og:site_name" content="muddlaw" />
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/0e902b85f40b199a2248179540ee350e?s=200&amp;ts=1462054539" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@MUDDLAW" />
+<meta name="twitter:image" content="https://secure.gravatar.com/blavatar/0e902b85f40b199a2248179540ee350e?s=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@MUDDLAW" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f7be3ff886d5a6a269fdb932624a2ec5?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/f7be3ff886d5a6a269fdb932624a2ec5?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/0e902b85f40b199a2248179540ee350e?s=114" />
+<link rel='openid.server' href='https://muddlaw.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://muddlaw.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://johnmuddlaw.com/osd.xml" title="muddlaw" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="muddlaw" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="LAW•HISTORY•CURRENT EVENTS•ECONOMICS•BREAD" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://johnmuddlaw.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/f7be3ff886d5a6a269fdb932624a2ec5?s=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="LA VISTA DE&nbsp;WALMART | muddlaw on WordPress.com" />
+<meta name="description" content="LA VISTA DE WAL-MART &nbsp; Las vistas del caso de Wal-Mart sobre un impuesto conocido como el Alternate Minimum Tax (AMT), culminaron el viernes. Durante tres de los cuatro días estuve sentado viendo la vista. Estos son algunos de los hechos importantes que salieron a relucir. **ESTOS NO SON OPINIONES MIAS, SON TESTIMONIO PRESENTADO EN&hellip;" />
+<link rel="amphtml" href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=4hdBJ&#038;cscache=6&#038;csrev=6" />
+		</head>
+
+<body class="single single-post postid-946 single-format-standard custom-background mp6 customizer-styles-applied single-author full-width one-footer-sidebar highlander-enabled highlander-light">
+	<div id="page" class="hfeed site">
+
+		<header id="masthead" class="site-header" role="banner">
+
+			<a class="home-link" href="https://johnmuddlaw.com/" title="muddlaw" rel="home">
+				<h1 class="site-title">muddlaw</h1>
+				<h2 class="site-description">LAW•HISTORY•CURRENT EVENTS•ECONOMICS•BREAD</h2>
+			</a><!-- #navbar .header-navigation -->
+
+			<div id="navbar" class="header-navigation">
+
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<h3 class="menu-toggle">Menu</h3>
+					<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-menu"><li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://johnmuddlaw.com/">Home</a></li>
+<li id="menu-item-1012" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1012"><a href="https://johnmuddlaw.com/category/blog/">Blog</a></li>
+<li id="menu-item-970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-970"><a href="https://johnmuddlaw.com/category/podcast/">Veritas Podcast</a></li>
+<li id="menu-item-1028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1028"><a href="https://johnmuddlaw.com/category/media/">Media</a></li>
+<li id="menu-item-1039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1039"><a href="https://johnmuddlaw.com/category/recipes/">Recipes</a></li>
+</ul></div>					<form role="search" method="get" class="search-form" action="https://johnmuddlaw.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</nav><!-- #site-navigation .navigation .main-navigation -->
+
+			</div><!-- #navbar .header-navigation -->
+
+		</header><!-- #masthead .site-header -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+
+		<div id="content" class="site-content" role="main">
+
+			
+<article id="post-946" class="post-946 post type-post status-publish format-standard hentry category-abogados category-blog category-corte-federal category-federal-cases category-federal-law category-judge-fuste category-walmart">
+
+	
+			<header class="entry-header">
+
+				
+				<h1 class="entry-title">LA VISTA DE&nbsp;WALMART</h1>
+			</header><!-- .entry-header -->
+
+											<div class="entry-content">
+					<p>LA VISTA DE WAL-MART</p>
+<p>&nbsp;</p>
+<p>Las vistas del caso de Wal-Mart sobre un impuesto conocido como el Alternate Minimum Tax (AMT), culminaron el viernes. Durante tres de los cuatro días estuve sentado viendo la vista. Estos son algunos de los hechos importantes que salieron a relucir.</p>
+<p><strong>**ESTOS NO SON OPINIONES MIAS, SON TESTIMONIO PRESENTADO EN LA VISTA:</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>Wal-Mart ha reportado ganancias desde 1996 y pagado impuestos sobre estas ganancias.</li>
+<li>Emplea 14,000 personas directamente y tiene ventas de $3 billones.</li>
+<li>Compra más de $400 millones en PR, tenia 55 tiendas, incluyendo Supermercados Amigo y SuperAhorros y cerró 7 (3 SuperAhorros y 4 Amigo).</li>
+<li>Wal-Mart le vende a su subsidiaria en PR al precio que compra los productos más 2% por ganancia; 2.54% por costo de distribución; más 6.7% por transportación. Los primeros dos cargos Wal-Mart los reporta como ganancias en USA y Arkansas (35% y 4% respectivamente) y el último costo es un reembolso que hace Wal-Mart PR a su vendedora. En otras palabras, el costo de un producto que Wal-Mart USA compró a $100 es de $111.24 a Wal-Mart PR.</li>
+<li>Wal-Mart indica que el tax de PR le cuesta el $114% de su ganancia</li>
+<li>Ventas del año que acabó en enero 2016 fueron solo el 70% de lo proyectado.</li>
+<li>Aunque en el pasado Wal-Mart había tomado créditos por sobre pagar impuestos, bajo el impuesto sobre ingreso, no lo había hecho sobre el AMT ya que hasta este año no lo tenía que pagar. El AMT solo permite tomar crédito hasta el 25% del valor del sobrepago si un Tribunal determinará que es inconstitucional.</li>
+<li>Melba Acosta admitió que la primera vez que PR se sentó con sus bonistas fue el pasado 29 de enero.</li>
+<li>La crisis fiscal de PR ha pasado el tipping point, o sea, vamos de mal en peor.</li>
+<li>Esta de acuerdo con Sec. del Tesoro Lew de que la situación económica de PR empeora.</li>
+<li>La cuenta con que paga Hacienda sus deudas, TSA, estaba en diciembre en -$263 millones del punto de vista contable.</li>
+<li>El Comisionado de Instituciones Financieras, Rafael Blanco hizo un Targeted Liquidity Review de el BGF y dijo que los niveles de liquidez estaban “critically deficient”. Dijo también “the continued viability of the GBD is questionable”. Melba Acosta dice que el informe esta incorrecto, que le mando sus comentarios a Zaragoza quien se los mandó a Blanco, quien se sostuvo en sus aseveraciones. Sin embargo, Martha Kopecz, perito de restructuración de Wal-Mart, coincide con Melba que le falta información al Targeted Liquidity Review pero luego de mirar los números, ella indicó que la situación es aún peor y PR y el BGF están insolventes</li>
+<li>Mientras fue Secretaria de Hacienda, nadie le dijo que el pago de impuestos de Wal-Mart era abusivo.</li>
+<li>Nadie le dijo que el transfer pricing de Wal-Mart era impropio.</li>
+<li>Melba carece de información que el transfer pricing de Wal-Mart sea impropio.</li>
+<li>Wal-Mart espera un aumento de ventas de solo 1% para el próximo año.</li>
+<li>El profesor de derecho Richard Pomp, quien cobra $695 la hora, nos dice que examinó el sistema de transfer pricing de Wal-Mart y no encontró discrimen alguno contra PR.</li>
+<li>Encuentra el AMT claramente discriminatorio.</li>
+<li>PR puede ajustar lo que los contribuyentes hacen con el transfer pricing para acomodarlo a la realidad; PR le puede pedir ayuda al IRS incluyendo entrenamiento (Zaragoza admitió se hizo en enero); PR puede poner el peso de la prueba en el contribuyente para demostrar que el transfer pricing cumple con los reglamentos de PR sobre el tema; PR podría hacer como algunos estados que contratan compañías que a base de contingencia investigan si hay violaciones de transfer pricing y cobran un % de lo recobran; PR puede unirse al Multistate Tax Commission y el programa que tiene de transfer pricing; PR puede hacer como la mitad estados que combinan los ingresos de matriz y subsidiaria para llegar al transfer pricing y el Tribunal Supremo ha dicho que no hay problema.</li>
+<li>Wal-Mart tiene $482 billones en transacciones a la semana mundialmente.</li>
+<li>Ventas de PR son solo 6/10 del 1%</li>
+<li>Ejecutivo de Wal-Mart vino a PR a discutir el impuesto, se reunió con Bathia, Perelló, Nadal Power, Angel Rosa, Tatio Hernández, Vega Ramos.</li>
+<li>Los antes mencionados se referían al impuesto como el &#8220;Wal-Mart Tax&#8221;, insistían las compañías manipulaban el Transfer Pricing.</li>
+<li>Wal-Mart tiene un Advance Pricing Agreement con el IRS respecto a varios países y tiene uno sobre PR en cuanto a los regalías para el uso de las marcas pero PR nunca ha tenido que pagar ya que no llega a los parámetros necesarios.</li>
+<li>Wal-Mart no podría operar con el AMT como está ahora.</li>
+<li>Las acciones de Wal-Mart PR están con una entidad de Wal-Mart en Bélgica pero no hace transacciones con esta entidad.</li>
+<li>Wal-Mart USA no puede tomar un foreign tax credit por lo que paga aquí por el AMT por que no es un tax sobre ingreso.</li>
+<li>Los casos en el Tribunal estatal de reembolsos de impuestos tardan un promedió de 3.6 años en decidirse. Juez Fusté entiende esto es bien conservador.</li>
+<li>Kopacz dice que sin medidas extraordinarias de restructuración PR va al impago en julio y el BGF no es una fuente de liquidez.</li>
+<li>La orden ejecutiva del Gobernador en diciembre le indica a ella que PR esta insolvente y la restructuración es inevitable.</li>
+<li>Zaragoza recomendó eliminar o bajar el AMT, la legislatura lo aumentó.</li>
+<li>Wal-Mart no estaba en la lista de compañías se sospechaba traqueteaban con el transfer pricing.</li>
+<li>Zaragoza admitió que el AMT en su máximo renglón solo aplica a Wal-Mart.</li>
+<li>Algunos periodistas reportaron que Zaragoza admitió que este era el &#8220;Impuesto Wal-Mart&#8221;.</li>
+<li>Zaragoza admitió que no tiene sentido el quedarse en PR si Wal-Mart experimenta pérdidas</li>
+<li>Hacienda sabía que Wal-Mart excedía los $2.75 billones en ventas.</li>
+<li>Antes el AMT permitía que el contribuyente presentara un estudio para justificar su transfer pricing y solicitar un waiver del tax. A veces Hacienda lo concedía, a veces no.</li>
+<li>Hacienda recomendó la eliminación del waiver para poder tener más ingresos.</li>
+<li>Hacienda podía hacer auditorías de los transfer pricing.</li>
+<li>Zaragoza admitió que el AMT no era una herramienta para manejar abusos del transfer pricing .</li>
+<li>Zaragoza no conoce de evidencia alguna de abusos de Wal-Mart en el transfer pricing.</li>
+<li>En junio 2016, PR no va a tener un balance positivo si no hay restructuración.</li>
+<li>Wal-Mart proyecta pagar $130 millones en 4 años del AMT y bajo la Ley 66 solo puede recobrar en sentencia $3 millones por año y tardaría 43.3 años en pagarse esa sentencia.</li>
+<li>KPMG testificó que PR no le ha dado a los auditores un “Assessment of Going Concern” que es decir si PR tiene $$ para poder operar.</li>
+<li>Que faltan otros múltiples documentos y que muchos de los que se han dado son borradores.</li>
+<li>Cuando le entreguen todos los documentos a los auditores, se tardarán de 8-9 semanas en entregar su análisis a PR.</li>
+<li>Zaragoza indicó que hizo en enero un borrador del “Assessment of Going Concern” que indica que hay 4 asuntos que podrían hacer ese “assessment” uno negativo y admitió que sin esa carta KPMG no puede emitir su opinión.</li>
+<li>Zaragoza indicó junto con su subsecretario, que el 70% de sus auditores son Auditor I y que no tienen el entrenamiento o capacidad necesaria para una auditoria del transfer pricing.</li>
+<li>El viernes, el día que no pude ir, PR trajo un perito sobre transfer pricing que trató de insinuar que había traqueteos de Wal-Mart, <strong><a href="http://www.noticel.com/noticia/186361/en-manos-de-fuste-decision-en-caso-walmart-contra-hacienda.html">pero el reportaje de Noticel del viernes después de la vista indica</a></strong> que fue impugnado con éxito por el demandante</li>
+</ul>
+<p>&nbsp;</p>
+<p>¿Que quiere decir todo esto? Que PR sabía que Wal-Mart no estaba traqueteando con los transfer pricing pero no les importaba por que lo que quiere el Gobierno es que se vayan para que los pymes y la competencia tome esas ventas, cueste los empleos que cueste. Al Gobierno actual lo único que le interesa es sacar a los gringos, uno por uno no importa a cuantas familias puertorriqueñas se lleve por el medio. Y siempre hay la displicente posibilidad de que puedan salirse con la suya.</p>
+<p>**<strong>Aclaración:</strong>  WalMart <strong>(sin &#8220;-&#8220;)</strong> es el nombre que ellos usan comercialmente.  Wal-Mart <strong>(con &#8220;-&#8220;)</strong> es el nombre que ellos usan oficialmente en sus corporaciones.</p>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" data-text="LA VISTA DE WALMART" data-via="MUDDLAW" data-related="wordpressdotcom">Tweet</a></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" data-counter="right"></script></div></li><li class="share-facebook"><div class="fb-share-button" data-href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" data-layout="button_count"></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-size="medium" data-annotation="bubble" data-href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/"></div></div></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button" href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?share=email" target="_blank" title="Click to email"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button" href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-pinterest"><div class="pinterest_button"><a href="//www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F&#038;media=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2F0e902b85f40b199a2248179540ee350e%3Fs%3D96&#038;description=LA%20VISTA%20DE%20WALMART" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a></div></li><li class="share-tumblr"><a target="_blank" href="http://www.tumblr.com/share/link/?url=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F&name=LA%20VISTA%20DE%20WALMART" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:62px; height:20px; background:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;">Share on Tumblr</a></li><li class="share-pocket"><div class="pocket_button"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" data-pocket-count="horizontal" >Pocket</a></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?width=120&amp;url=https%3A%2F%2Fjohnmuddlaw.com%2F2016%2F02%2F08%2Fla-vista-de-walmart%2F&amp;title=LA%20VISTA%20DE%20WALMART" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-63209231-946-57252e8b742ac' data-src='//widgets.wp.com/likes/#blog_id=63209231&amp;post_id=946&amp;origin=muddlaw.wordpress.com&amp;obj_id=63209231-946-57252e8b742ac' data-name='like-post-frame-63209231-946-57252e8b742ac'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>									</div><!-- .entry-content -->
+			
+			<footer class="entry-meta">
+				Posted in <a href="https://johnmuddlaw.com/category/abogados/" rel="category tag">abogados</a>, <a href="https://johnmuddlaw.com/category/blog/" rel="category tag">Blog</a>, <a href="https://johnmuddlaw.com/category/corte-federal/" rel="category tag">Corte Federal</a>, <a href="https://johnmuddlaw.com/category/federal-cases/" rel="category tag">Federal Cases</a>, <a href="https://johnmuddlaw.com/category/federal-law/" rel="category tag">Federal Law</a>, <a href="https://johnmuddlaw.com/category/judge-fuste/" rel="category tag">Judge Fusté</a>, <a href="https://johnmuddlaw.com/category/walmart/" rel="category tag">Walmart</a> <span class="on-date"> on <a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/" title="6:50 am" rel="bookmark"><time class="entry-date" datetime="2016-02-08T06:50:25+00:00">February 8, 2016</time></a></span><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="https://johnmuddlaw.com/author/muddlaw/" title="View all posts by muddlaw" rel="author">muddlaw</a></span></span>.
+									<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comments">17 Comments</a>				
+							</footer><!-- .entry-meta -->
+
+
+</article><!-- #post-# .#post-class-# -->
+
+	<nav role="navigation" id="nav-below" class="post-navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+
+	
+		<div class="nav-previous"><a href="https://johnmuddlaw.com/2016/01/23/prepa-deal-gone-wrong/" rel="prev"><span class="meta-nav">&larr;</span> PREPA DEAL GONE&nbsp;WRONG</a></div>		<div class="nav-next"><a href="https://johnmuddlaw.com/2016/02/09/las-universidades-y-el-mercado/" rel="next">Las Universidades y el&nbsp;Mercado <span class="meta-nav">&rarr;</span></a></div>
+	
+	</nav><!-- #nav-below -->
+
+	
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			17 comments		</h2>
+
+		<ol class="comment-list">
+					<li id="comment-3339" class="comment even thread-even depth-1 parent highlander-comment">
+			<article id="div-comment-3339" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/b28511fc7ddaeeb7d30e16018445077e?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">Alfonso Serrano MD</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3339">
+							<time datetime="2016-02-08T07:53:21+00:00">
+								February 8, 2016 at 7:53 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Gracias por el insumo. No tuve tiempo la semana pasada de seguir este juicio. Solo sé que el juez se reservó el fallo. ¿Cual cree usted será el fallo? Gracias!</p>
+<p id="comment-like-3339" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3339&#038;_wpnonce=8cd1b0af8a" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3339" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3339#respond' onclick='return addComment.moveForm( "div-comment-3339", "3339", "respond", "946" )' aria-label='Reply to Alfonso Serrano MD'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3340" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3340" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3340">
+							<time datetime="2016-02-08T07:54:12+00:00">
+								February 8, 2016 at 7:54 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Probablemente a favor de Wal-Mart </p>
+<p id="comment-like-3340" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3340&#038;_wpnonce=b88e70e287" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3340" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3340#respond' onclick='return addComment.moveForm( "div-comment-3340", "3340", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3342" class="comment even thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-3342" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://1.gravatar.com/avatar/d5721cc2885943eb8acd617e64c4e240?s=40&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">Tito Stevens</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3342">
+							<time datetime="2016-02-08T12:31:59+00:00">
+								February 8, 2016 at 12:31 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>John, I am certain and willing to bet a dinner that Judge Fusté rules in favor of Wal-Mart. And I thank you for an excellent report on the case.</p>
+<p id="comment-like-3342" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3342&#038;_wpnonce=4d47d2712f" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3342" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3342#respond' onclick='return addComment.moveForm( "div-comment-3342", "3342", "respond", "946" )' aria-label='Reply to Tito Stevens'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3343" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3343" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3343">
+							<time datetime="2016-02-08T12:35:02+00:00">
+								February 8, 2016 at 12:35 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>You ate welcome. And I agree on what Fusté will decide</p>
+<p id="comment-like-3343" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3343&#038;_wpnonce=47b6e0f198" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3343" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3343#respond' onclick='return addComment.moveForm( "div-comment-3343", "3343", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3345" class="comment even thread-even depth-1 parent highlander-comment">
+			<article id="div-comment-3345" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/2da901738d5c1a9d77478d1a5172b1ad?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">Lcda. Maria T. Barrera-Rosario</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3345">
+							<time datetime="2016-02-08T15:33:29+00:00">
+								February 8, 2016 at 3:33 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Muchas gracias. Me interesana conocer tus comentarios y posición al respecto, la cual comparto.</p>
+<p id="comment-like-3345" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3345&#038;_wpnonce=0560e85762" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3345" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3345#respond' onclick='return addComment.moveForm( "div-comment-3345", "3345", "respond", "946" )' aria-label='Reply to Lcda. Maria T. Barrera-Rosario'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3346" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3346" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3346">
+							<time datetime="2016-02-08T15:37:24+00:00">
+								February 8, 2016 at 3:37 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Ty</p>
+<p id="comment-like-3346" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3346&#038;_wpnonce=25ed0fd7f9" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3346" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3346#respond' onclick='return addComment.moveForm( "div-comment-3346", "3346", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3347" class="comment even thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-3347" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/b412562e2e9fa7f9c14f157b72846a03?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">Braulio Ramirez-Cruz</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3347">
+							<time datetime="2016-02-08T21:31:53+00:00">
+								February 8, 2016 at 9:31 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>&#8220;There is only one good, knowledge, and one evil, ignorance&#8221; Socrates&#8217;.  Thanks for caring and many blessing to you&#8230; Continue your battle against ignorance&#8230; I will continue following</p>
+<p id="comment-like-3347" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3347&#038;_wpnonce=e112ee08d5" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3347" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3347#respond' onclick='return addComment.moveForm( "div-comment-3347", "3347", "respond", "946" )' aria-label='Reply to Braulio Ramirez-Cruz'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3350" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3350" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3350">
+							<time datetime="2016-02-09T06:51:06+00:00">
+								February 9, 2016 at 6:51 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>TY</p>
+<p id="comment-like-3350" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3350&#038;_wpnonce=17e62cd3dd" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3350" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3350#respond' onclick='return addComment.moveForm( "div-comment-3350", "3350", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3348" class="comment even thread-even depth-1 parent highlander-comment">
+			<article id="div-comment-3348" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/056d655e076eb4d4797c86e0f26025f6?s=40&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">Evaristo gonzalez aponte</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3348">
+							<time datetime="2016-02-08T22:48:27+00:00">
+								February 8, 2016 at 10:48 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>J. thank you very much for the valúable info !</p>
+<p id="comment-like-3348" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3348&#038;_wpnonce=8d9b0593f0" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3348" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3348#respond' onclick='return addComment.moveForm( "div-comment-3348", "3348", "respond", "946" )' aria-label='Reply to Evaristo gonzalez aponte'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3351" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3351" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3351">
+							<time datetime="2016-02-09T06:51:18+00:00">
+								February 9, 2016 at 6:51 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>You are welcome </p>
+<p id="comment-like-3351" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3351&#038;_wpnonce=ce7102edfe" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3351" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3351#respond' onclick='return addComment.moveForm( "div-comment-3351", "3351", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3349" class="comment even thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-3349" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://i2.wp.com/graph.facebook.com/v2.2/10207387732385839/picture?q=type%3Dlarge%26_md5%3D28c0ece4e1e1f7adf28f9a8b8db17e9e&#038;resize=40%2C40' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://www.facebook.com/app_scoped_user_id/10207387732385839/' rel='external nofollow' class='url'>Miguel A Morales</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3349">
+							<time datetime="2016-02-09T01:32:04+00:00">
+								February 9, 2016 at 1:32 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Gracias por la informacion, asi mismo es este gobierno si se le puede llamar de esa manera lo unico que quiere es alejarnos de una manera o otra de los Estados Unidos, pero estamos en el 2016 donde saldran del poder&#8230;. y se acabaran los abusos de este pueblo, esa es mi esperanza aunque falta mucho camino por delante.</p>
+<p id="comment-like-3349" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3349&#038;_wpnonce=3f64cfb4c4" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3349" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3349#respond' onclick='return addComment.moveForm( "div-comment-3349", "3349", "respond", "946" )' aria-label='Reply to Miguel A Morales'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3352" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3352" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3352">
+							<time datetime="2016-02-09T06:51:34+00:00">
+								February 9, 2016 at 6:51 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Yep</p>
+<p id="comment-like-3352" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3352&#038;_wpnonce=4e31916472" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3352" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3352#respond' onclick='return addComment.moveForm( "div-comment-3352", "3352", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3355" class="comment even thread-even depth-1 parent highlander-comment">
+			<article id="div-comment-3355" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://i1.wp.com/graph.facebook.com/v2.2/10153330868383192/picture?q=type%3Dlarge%26_md5%3D79234b2db8e743f17ca3c870935a544a&#038;resize=40%2C40' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://www.facebook.com/app_scoped_user_id/10153330868383192/' rel='external nofollow' class='url'>Carlos Amador Almeida</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3355">
+							<time datetime="2016-02-09T13:00:23+00:00">
+								February 9, 2016 at 1:00 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>John, muchas gracias por ese resumen, ya lo compartí en mi facebook para ver si la gente se informa y no hable tanta baboseria sin saber. Aunque Jay Fonseca continue con su campañita contra Walmart y el pago de la deuda y criticando a los analistas que difieren de el. No logro entender a ese tipo.</p>
+<p id="comment-like-3355" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3355&#038;_wpnonce=d5d3d4552c" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3355" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3355#respond' onclick='return addComment.moveForm( "div-comment-3355", "3355", "respond", "946" )' aria-label='Reply to Carlos Amador Almeida'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3356" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3356" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3356">
+							<time datetime="2016-02-09T13:14:19+00:00">
+								February 9, 2016 at 1:14 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Money talks and bullshit walks</p>
+<p id="comment-like-3356" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3356&#038;_wpnonce=5d0c921e8e" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3356" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3356#respond' onclick='return addComment.moveForm( "div-comment-3356", "3356", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3364" class="comment even thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-3364" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/0d94f2f38d0df20e026a805f2d03447f?s=40&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn">soco.sola</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3364">
+							<time datetime="2016-02-10T20:49:42+00:00">
+								February 10, 2016 at 8:49 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Gracias John, excelente articulo donde resumes todo lo que nos interesaba saber sobre este caso de Walmart y la verdad sobre este gobierno. Menos mal que somos territorio Americano. No me imagino si no lo fueramos. Pone de manifiesto la verdadera intencion y mala fe de Agapito y su gente.<br />
+Lo comparti en Azotando.</p>
+<p id="comment-like-3364" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3364&#038;_wpnonce=2aa769934c" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3364" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3364#respond' onclick='return addComment.moveForm( "div-comment-3364", "3364", "respond", "946" )' aria-label='Reply to soco.sola'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-3367" class="comment byuser comment-author-muddlaw bypostauthor odd alt depth-2 highlander-comment">
+			<article id="div-comment-3367" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/835e16d434a6d0d1e01c617c5997352a?s=40&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&#038;r=G' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://muddlaw.wordpress.com' rel='external nofollow' class='url'>muddlaw</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3367">
+							<time datetime="2016-02-10T21:20:59+00:00">
+								February 10, 2016 at 9:20 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Ok Ty</p>
+<p id="comment-like-3367" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3367&#038;_wpnonce=3a11e71f90" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3367" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3367#respond' onclick='return addComment.moveForm( "div-comment-3367", "3367", "respond", "946" )' aria-label='Reply to muddlaw'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-3365" class="comment even thread-even depth-1 highlander-comment">
+			<article id="div-comment-3365" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://i0.wp.com/graph.facebook.com/v2.2/536187541/picture?q=type%3Dlarge%26_md5%3Dd44355380eaf944c1701aa7282e8d062&#038;resize=40%2C40' class='avatar avatar-40' height='40' width='40' />						<b class="fn"><a href='https://www.facebook.com/app_scoped_user_id/536187541/' rel='external nofollow' class='url'>Soco Soco</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/#comment-3365">
+							<time datetime="2016-02-10T20:54:00+00:00">
+								February 10, 2016 at 8:54 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Gracias John,&#8230;.excelente articulo el cual comparti&#8217; en la pagina de Azotando part 2.<br />
+El resumen y el comentario final&#8230;&#8230;.y la intencion de todo esto. Que barbaridad!&#8230;.<br />
+Gracias nuevamente.</p>
+<p id="comment-like-3365" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?like_comment=3365&#038;_wpnonce=ea9e05f859" class="comment-like-link needs-login" rel="nofollow" data-blog="63209231"><span>Like</span></a><span id="comment-like-count-3365" class="comment-like-feedback">Like</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/?replytocom=3365#respond' onclick='return addComment.moveForm( "div-comment-3365", "3365", "respond", "946" )' aria-label='Reply to Soco Soco'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+		
+	
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/08/la-vista-de-walmart/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="https://johnmuddlaw.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="42151f2c13" /><input type="hidden" name="_wp_http_referer" value="/2016/02/08/la-vista-de-walmart/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;" tabindex="7"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='946' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9b1dbbc934" /></p>
+<input type="hidden" name="genseq" value="1462054539" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="246"/></p>				</form>
+					</div><!-- #respond -->
+		<div style="clear: both"></div>
+</div><!-- #comments .comments-area -->
+		</div><!-- #content .site-content -->
+
+	</div><!-- #primary .content-area -->
+
+
+		</div><!-- #main .site-main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+<div id="tertiary" class="sidebar-container" role="complementary">
+
+	<div class="sidebar-inner">
+
+				<div class="widget-area">
+			<aside id="widget_contact_info-3" class="widget widget_contact_info"><h3 class="widget-title">Law Offices of John E. Mudd</h3>				<div class="contact-map">
+				<input type="hidden" class="contact-info-map-lat" value="18.42" />
+				<input type="hidden" class="contact-info-map-lon" value="-66.06" />
+				<div class="contact-info-map-canvas"></div></div><div class="confit-address"><a href="http://maps.google.com/maps?z=16&#038;q=po+box+194134+san+juan,+pr+00919" target="_blank">PO BOX 194134<br/>SAN JUAN, PR  00919</a></div><div class="confit-phone">787-413-1673</div></aside><aside id="blog-stats-5" class="widget widget_blog-stats"><h3 class="widget-title">Blog Stats</h3>		<ul>
+			<li>137,097 hits</li>
+		</ul>
+		</aside><aside id="follow_button_widget-4" class="widget widget_follow_button_widget">
+		<a class="wordpress-follow-button" href="https://johnmuddlaw.com" data-blog="https://johnmuddlaw.com" data-lang="en" data-show-follower-count="true">Follow muddlaw on WordPress.com</a>
+		<script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+
+		</aside><aside id="blog_subscription-4" class="widget widget_blog_subscription"><h3 class="widget-title"><label for="subscribe-field">Follow Blog via Email</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+<p>Join 8,977 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="63209231"/>
+						<input type="hidden" name="source" value="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-4" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="800d5bbd84" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</aside><aside id="twitter_timeline-4" class="widget widget_twitter_timeline"><h3 class="widget-title">Follow me on Twitter @muddlaw</h3><a class="twitter-timeline" data-widget-id="725149044222361601" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="4" height="400" lang="EN">My Tweets</a></aside><aside id="tag_cloud-5" class="widget widget_tag_cloud"><h3 class="widget-title">Category Cloud</h3><div style="overflow: hidden;"><a href="https://johnmuddlaw.com/category/aee/" style="font-size: 113.28125%; padding: 1px; margin: 1px;"  title="AEE (25)">AEE</a> <a href="https://johnmuddlaw.com/category/agp/" style="font-size: 102.34375%; padding: 1px; margin: 1px;"  title="AGP (11)">AGP</a> <a href="https://johnmuddlaw.com/category/alejandro-garcia-padilla/" style="font-size: 114.0625%; padding: 1px; margin: 1px;"  title="Alejandro García Padilla (26)">Alejandro García Padilla</a> <a href="https://johnmuddlaw.com/category/blog/" style="font-size: 200%; padding: 1px; margin: 1px;"  title="Blog (136)">Blog</a> <a href="https://johnmuddlaw.com/category/bonds/" style="font-size: 115.625%; padding: 1px; margin: 1px;"  title="Bonds (28)">Bonds</a> <a href="https://johnmuddlaw.com/category/caso-doral/" style="font-size: 101.5625%; padding: 1px; margin: 1px;"  title="caso doral (10)">caso doral</a> <a href="https://johnmuddlaw.com/category/constitucion-de-puerto-rico/" style="font-size: 110.9375%; padding: 1px; margin: 1px;"  title="Constitución de Puerto Rico (22)">Constitución de Puerto Rico</a> <a href="https://johnmuddlaw.com/category/degradacion/" style="font-size: 107.03125%; padding: 1px; margin: 1px;"  title="Degradación (17)">Degradación</a> <a href="https://johnmuddlaw.com/category/doral/" style="font-size: 103.125%; padding: 1px; margin: 1px;"  title="Doral (12)">Doral</a> <a href="https://johnmuddlaw.com/category/doral-bank/" style="font-size: 114.0625%; padding: 1px; margin: 1px;"  title="Doral Bank (26)">Doral Bank</a> <a href="https://johnmuddlaw.com/category/ela/" style="font-size: 107.03125%; padding: 1px; margin: 1px;"  title="ELA (17)">ELA</a> <a href="https://johnmuddlaw.com/category/estadidad/" style="font-size: 101.5625%; padding: 1px; margin: 1px;"  title="Estadidad (10)">Estadidad</a> <a href="https://johnmuddlaw.com/category/federal-law/" style="font-size: 105.46875%; padding: 1px; margin: 1px;"  title="Federal Law (15)">Federal Law</a> <a href="https://johnmuddlaw.com/category/financial-control-board/" style="font-size: 100.78125%; padding: 1px; margin: 1px;"  title="Financial Control Board (9)">Financial Control Board</a> <a href="https://johnmuddlaw.com/category/junta-de-control-financiero/" style="font-size: 103.125%; padding: 1px; margin: 1px;"  title="Junta de Control Financiero (12)">Junta de Control Financiero</a> <a href="https://johnmuddlaw.com/category/ley-de-quiebras-de-pr/" style="font-size: 105.46875%; padding: 1px; margin: 1px;"  title="Ley de Quiebras de PR (15)">Ley de Quiebras de PR</a> <a href="https://johnmuddlaw.com/category/media/" style="font-size: 103.90625%; padding: 1px; margin: 1px;"  title="Media (13)">Media</a> <a href="https://johnmuddlaw.com/category/munis/" style="font-size: 112.5%; padding: 1px; margin: 1px;"  title="Munis (24)">Munis</a> <a href="https://johnmuddlaw.com/category/pr-bankruptcy/" style="font-size: 101.5625%; padding: 1px; margin: 1px;"  title="PR Bankruptcy (10)">PR Bankruptcy</a> <a href="https://johnmuddlaw.com/category/pr-chapter-9/" style="font-size: 111.71875%; padding: 1px; margin: 1px;"  title="PR Chapter 9 (23)">PR Chapter 9</a> <a href="https://johnmuddlaw.com/category/prepa/" style="font-size: 113.28125%; padding: 1px; margin: 1px;"  title="PREPA (25)">PREPA</a> <a href="https://johnmuddlaw.com/category/puerto-rico/" style="font-size: 150%; padding: 1px; margin: 1px;"  title="Puerto Rico (72)">Puerto Rico</a> <a href="https://johnmuddlaw.com/category/puerto-rico-law/" style="font-size: 110.9375%; padding: 1px; margin: 1px;"  title="Puerto Rico Law (22)">Puerto Rico Law</a> <a href="https://johnmuddlaw.com/category/quiebra-criolla/" style="font-size: 114.84375%; padding: 1px; margin: 1px;"  title="Quiebra Criolla (27)">Quiebra Criolla</a> <a href="https://johnmuddlaw.com/category/quiebra-pr/" style="font-size: 127.34375%; padding: 1px; margin: 1px;"  title="Quiebra PR (43)">Quiebra PR</a> <a href="https://johnmuddlaw.com/category/scotus/" style="font-size: 110.15625%; padding: 1px; margin: 1px;"  title="SCOTUS (21)">SCOTUS</a> <a href="https://johnmuddlaw.com/category/statehood/" style="font-size: 105.46875%; padding: 1px; margin: 1px;"  title="Statehood (15)">Statehood</a> <a href="https://johnmuddlaw.com/category/supremo/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Supremo (8)">Supremo</a> <a href="https://johnmuddlaw.com/category/tribunal-supremo/" style="font-size: 106.25%; padding: 1px; margin: 1px;"  title="Tribunal Supremo (16)">Tribunal Supremo</a> <a href="https://johnmuddlaw.com/category/tspr/" style="font-size: 101.5625%; padding: 1px; margin: 1px;"  title="TSPR (10)">TSPR</a> </div></aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="https://johnmuddlaw.com/2016/04/25/the-road-to-hell-is-paved-with-good-intentions/">The Road to Hell is Paved with Good&nbsp;Intentions</a>
+						</li>
+					<li>
+				<a href="https://johnmuddlaw.com/2016/04/13/el-pique-de-falu-tivatv-4-12-16-2/">El Pique de Falú TivaTV 4 12 16 &#8211;&nbsp;2</a>
+						</li>
+					<li>
+				<a href="https://johnmuddlaw.com/2016/04/13/el-pique-de-falu-tivatv-4-12-16-1/">El Pique de Falú TivaTV 4 12 16 &#8211;&nbsp;1</a>
+						</li>
+					<li>
+				<a href="https://johnmuddlaw.com/2016/04/12/veritas-4-12-16-hr-4900-promesa/">Veritas 4 12 16 HR 4900&nbsp;PROMESA</a>
+						</li>
+					<li>
+				<a href="https://johnmuddlaw.com/2016/04/11/the-869-million-millstein-question/">The $869 Million Millstein&nbsp;Question</a>
+						</li>
+				</ul>
+		</aside>				</div><!-- .widget-area -->
+		
+		
+		
+	</div><!-- .sidebar-inner -->
+
+</div><!-- #tertiary .sidebar-container -->
+			<div class="site-info-container">
+
+				<div class="site-info">
+										<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+					<a href="https://wordpress.com/themes/suits/" title="Learn more about this theme">The Suits Theme</a>.				</div><!-- .site-info -->
+
+			</div><!-- .site-info-container -->
+
+		</footer><!-- #colophon .site-footer -->
+
+	</div><!-- #page -->
+
+<!-- wpcom_wp_footer -->
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201617y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-b28511fc7ddaeeb7d30e16018445077e">
+	</div>
+	<div class="grofile-hash-map-835e16d434a6d0d1e01c617c5997352a">
+	</div>
+	<div class="grofile-hash-map-d5721cc2885943eb8acd617e64c4e240">
+	</div>
+	<div class="grofile-hash-map-2da901738d5c1a9d77478d1a5172b1ad">
+	</div>
+	<div class="grofile-hash-map-b412562e2e9fa7f9c14f157b72846a03">
+	</div>
+	<div class="grofile-hash-map-056d655e076eb4d4797c86e0f26025f6">
+	</div>
+	<div class="grofile-hash-map-4bfec1d9e991e75ba3322269a2495fe1">
+	</div>
+	<div class="grofile-hash-map-79fe02f034f2f616fc9b62707845729c">
+	</div>
+	<div class="grofile-hash-map-0d94f2f38d0df20e026a805f2d03447f">
+	</div>
+	<div class="grofile-hash-map-82f754172c2e794e7382a500ff2948d7">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/muddlaw.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/muddlaw.wordpress.com\/wp-login.php?action=logout&_wpnonce=da84cb159e","homeURL":"https:\/\/johnmuddlaw.com\/","postID":"946","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;muddlaw&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 8,977 other followers</p>
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="63209231"/>
+			<input type="hidden" name="source" value="https://johnmuddlaw.com/2016/02/08/la-vista-de-walmart/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="800d5bbd84" /><input type="hidden" name="_wp_http_referer" value="/2016/02/08/la-vista-de-walmart/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/johnmuddlaw.com\/2016\/02\/08\/la-vista-de-walmart\/":946};
+	</script>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+					<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>
+			function renderGooglePlus1() {
+				if ( 'undefined' === typeof gapi ) {
+					return;
+				}
+
+				jQuery( '.g-plus' ).each(function() {
+					var $button = jQuery( this );
+
+					if ( ! $button.data( 'gplus-rendered' ) ) {
+						gapi.plusone.render( this, {
+							href: $button.attr( 'data-href' ),
+							size: $button.attr( 'data-size' ),
+							annotation: $button.attr( 'data-annotation' )
+						});
+
+						$button.data( 'gplus-rendered', true );
+					}
+				});
+			}
+
+			(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';
+				po.innerHTML = '{"parsetags": "explicit"}';
+				po.onload = renderGooglePlus1;
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			})();
+
+			jQuery( document.body ).on( 'post-load', renderGooglePlus1 );
+			</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/2016/02/08/la-vista-de-walmart/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+					<script type="text/javascript">
+				// Pinterest shared resources
+				var s = document.createElement("script");
+				s.type = "text/javascript";
+				s.async = true;
+				s.setAttribute('data-pin-hover', true);				s.src = window.location.protocol + "//assets.pinterest.com/js/pinit.js";
+				var x = document.getElementsByTagName("script")[0];
+				x.parentNode.insertBefore(s, x);
+				// if 'Pin it' button has 'counts' make container wider
+				jQuery(window).load( function(){ jQuery( 'li.share-pinterest a span:visible' ).closest( '.share-pinterest' ).width( '80px' ); } );
+			</script>
+		<script type="text/javascript" src="//platform.tumblr.com/v1/share.js"></script>		<script>
+		// Don't use Pocket's default JS as it we need to force init new Pocket share buttons loaded via JS.
+		function jetpack_sharing_pocket_init() {
+			jQuery.getScript( 'https://widgets.getpocket.com/v1/j/btn.js?v=1' );
+		}
+		jQuery( document ).on( 'ready', jetpack_sharing_pocket_init );
+		jQuery( document.body ).on( 'post-load', jetpack_sharing_pocket_init );
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<link rel='stylesheet' id='all-css-0' href='https://s0.wp.com/wp-content/mu-plugins/widgets/contact-info/contact-info-map.css?m=1422407963h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVjtEOgjAMRX/I2WgI4cX4LTiqdGzdZK3o34saEvEB9anJ7TnthSEZG1mQBVyGBi9kMV3XLq/gbRXUJK8n4gyeOsxwVlRsa2489guwjSGMkXlJ7mEfIA+U8B9pFkwisfXazIEek7+tA/HndWkxjGjS8buSPKWjshWKnBeqYIiOQIbZ/Mo7lFTbzvxGT9Q+7DZFURVlWVVbdweatpij'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;ver=4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJxti8sOQDAQAH/IWqSCg/iWxqNW2m1jV/w+Dg4Sp8lkMngmGCPrzIrhgOQPRyx40uRmFXySHRWIl/gRCDblm2T4/6coCou3tKOsdid2L+9pCH1p6qopW1N02wWULC96'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20160429#ver=20160429' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'63209231','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'63209231','v':'wpcom','tz':'-4','user_id':'0','post':'946','subd':'muddlaw'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlRyYrL1lLWVZvM0swNF11U0VzfFVyTE9vNCwrejcvQlUvQlhyQ1Q4REdkT0NuUVR1JTZyOG9OeDlIUVVkeUZoQjdmS1Y4dmZvMnVPSldzJWNuYUZIaUYsd3krVEM2RD9lWixPTjViS0tOT043aEROSSZwTixKfkhCL2ZiPSVvZ0ktXThObXBiamE3bS5BPVdKQ1Z2U3Fral1kP3NDYS9WM19bJi5iS094NnpEa0V+U08saUtoWCxmTj0tP2IvK2ZQV2hDNHQsQVUudkk3bFZ1eEFXSS5OWjNrMVBmfDhSfnVDWHdNczlneWJFbW5+K2s/NjVkTFFxVVNfZzdPYTk2OHBQJj91dWhpRG9XQWI4L04mbnpoeg=='}]);
+_stq.push([ 'clickTrackerInit', '63209231', '946' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

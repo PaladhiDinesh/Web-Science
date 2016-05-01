@@ -1,0 +1,242 @@
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width"><script>window.ndm      = window.ndm        || {};
+window.ndm.page = window.ndm.page   || {};
+utag_data       = window.utag_data  || {};
+</script><title>McDonald’s Happy Meal left untouched for six years looks the same | Photos</title><meta name="generator" content="tcog"><meta itemprop="identifier" name="articleid" content="08d435d9cbe841c768c03f13c4a7b671"><meta property="article:published_time" itemprop="datePublished" content="2016-02-08T13:34:00.000Z"><meta property="article:modified_time" itemprop="dateModified" content="2016-02-08T14:04:27.000Z"><link rel="canonical" href="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671"><meta name="description" content="IF there was ever an image to get parents thinking twice before feeding their kids fast food, this is it."><meta name="keywords" content="fast food,six-year-old nuggets look,Custom HTML,fast food items,real food,real fast food,United States of America,Alaska,McDonald's Corporation,Facebook, Inc.,Jennifer Lovdahl,Charlotte Willis"><meta property="og:image" content="http://cdn.newsapi.com.au/image/v1/74eb97d96aaddfd07b8e3d962d281d62"><meta property="og:title" content="What a six-year-old Happy Meal looks like"><meta property="og:type" content="article"><meta property="og:url" content="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671"><meta property="og:site_name" content="NewsComAu"><meta property="og:description" content="IF there was ever an image to get parents thinking twice before feeding their kids fast food, this is it."><meta property="fb:app_id" content="113758722003364"><meta property="fb:admins" content="1533025129,653135158,737988273"><meta name="article:publisher" content="News Limited"><meta name="article:author" content="Charlotte Willis"><meta name="article:publicationdate" content="09/02/2016"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@newscomauHQ"><meta name="twitter:title" content="What a six-year-old Happy Meal looks like"><link rel="publisher" href="https://plus.google.com/+newscomauHQ"><meta name="google-site-verification" content="GWTbDFKaKnGKyk3q0Na5jIbWHZ4qXn-ibcfMayjSQA0"><link rel="stylesheet" type="text/css" media="screen" href="http://resources.newscdn.com.au/cs/nca/latest/public/css/vertical/shared/base-tcog.css"><link rel="stylesheet" type="text/css" media="screen" href="http://resources.newscdn.com.au/cs/nca/latest/public/css/vertical/story/story-tcog.css"><link rel="stylesheet" type="text/css" media="print" href="http://resources.newscdn.com.au/cs/nca/latest/public/css/vertical/print/print.css"><link rel="stylesheet" media="screen" type="text/css" href="http://resources.newscdn.com.au/cs/video/vjs/stable/build/player.css"/><script src="http://resources.newscdn.com.au/cs/nca/latest/public/js/desktop/shared/base-top-concat-min.js"></script><link rel="icon" href="http://resources.newscdn.com.au/cs/nca/latest/public/img/favicons/favicon.ico"><link rel="apple-touch-icon" href="http://resources.newscdn.com.au/cs/nca/latest/public/img/favicons/apple-touch-icon-260x260.png"><meta name="apple-mobile-web-app-title" content="news.com.au"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="http://resources.newscdn.com.au/cs/nca/latest/public/img/favicons/mstile-144x144.png"><meta name="msapplication-config" content="http://resources.newscdn.com.au/cs/nca/latest/public/img/favicons/browserconfig.xml"><meta name="application-name" content="news.com.au"><!-- all.esi prod 2015-11-25T22:05:39.609Z b6e0f7a542459bc24cec7d486a148e3059cf0f0b --> <!--    url empty ?: 0   --> <!--    ID:  08d435d9cbe841c768c03f13c4a7b671 --> <!--    ID_Type:  CAPIID --> <!--    Is mobile: false --><!-- 2015-12-07T21:04:40.418Z b57dd501ee2a056ae7dec9d52fc77ebd7c2b0ad2
+ -->
+<script type="text/javascript" src="//tags.news.com.au/prod/adblock/adblock.js"></script>
+<script type="text/javascript">
+    !function(){function n(n){var o=window.googletag&&"object"==typeof window.googletag&&window.googletag.apiReady&&"boolean"==typeof window.googletag.apiReady?!0:!1;return n?n(o):o}function o(n){window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){window.googletag.pubads().addEventListener("slotRenderEnded",function(o){n(!0)})})}function t(n){var o=window.utag_data&&window.utag_data.no_adblocker&&"boolean"==typeof window.utag_data.no_adblocker?!0:!1;return n?n(o):o}function e(n){var o=window.s?!0:!1;return n?n(o):o}function a(n){var o=window.nb?!0:!1;o?(window.nb.push(["pixel:loaded",function(o){n(!0)},!0]),window.nb.push(["pixel:notloaded",function(o){n(!1)},!0])):n(!1)}function i(n,o,t,e,a){setTimeout(function(){var o=setTimeout(function(){t(a)},e);n(function(n){clearTimeout(o),t(n)})},o)}function c(n,o){for(var t=n.length,e=function(n){return function(e){n(e),t--,0===t&&o()}},a=0;a<n.length;a++){var c=n[a];i(c.func,c.wait,e(c.callback),c.timeout,c.def)}}function d(n,o){var t,e;if(e=escape(o)+"; path=/",o===!1)t=new Date(0),e+="; expires="+t.toUTCString();else{var a=6048e5;t=new Date((new Date).getTime()+a),e+="; expires="+t.toUTCString()}document.cookie=n+"="+e}function u(n){var o=new RegExp("(?:^"+n+"|; *"+n+")=(.*?)(?:;|$)","g"),t=o.exec(document.cookie);return null===t?null:t[1]}var w=[],g=[0,0,0,0,0],l=function(n){return function(o){g[n]=o?0:1}};w.push({func:n,callback:l(0),wait:8e3,timeout:1e3,def:!1}),w.push({func:o,callback:l(1),wait:0,timeout:9e3,def:!1}),w.push({func:t,callback:l(2),wait:8e3,timeout:1e3,def:!1}),w.push({func:e,callback:l(3),wait:8e3,timeout:1e3,def:!1}),w.push({func:a,callback:l(4),wait:8e3,timeout:5e3,def:!1});try{window.utag_data=window.utag_data||{};var f=u("cbd");f&&(window.utag_data.cbd=f),c(w,function(){var n=g.join("");parseInt(n,10)>0?(window.utag_data.cbd=n,d("cbd",n)):d("cbd",!1),window.location.href.indexOf("debug=1")>=0&&console.log("cbd: ",n)})}catch(r){window.location.href.indexOf("debug=1")>=0&&console.error(r)}}();
+</script>
+
+    
+        
+    
+    
+        
+    
+    
+        <!-- px2 not fired   -->
+    <script type="text/javascript">
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var cb = (new Date()).getTime().toString() + Math.random();
+    var src = (useSSL ? 'https:' : 'http:') + '//tags.news.com.au/prod/utrack/utrack.js?cb='+ cb;
+    window.utag_data = window.utag_data || {};
+    window.utag_data.backend_mobile_detect = false;
+    window.utag_data.utrack_cb = cb;
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script type="text/javascript">
+                utag_data = window.utag_data || {}; utag_data.md_categories = [];
+
+    
+    
+  
+                </script><script>bruce_rtget={"tmstamp": "2016-02-16 16:30:03.132397"};</script><script type="text/javascript">
+                // news.com.au
+                /* trending.esi prod 2015-11-22T23:33:42.049Z 91a8dc34e11c9303ac5e44deb84a0074ee67bbb2 */ (function() { var checkTrending = function() { var sections = [], tts = 'n'; for (var i=0; i<sections.length; i++) {/* Note: window.ndm is now deprecated */if (window.utag_data) { if(window.utag_data.net_sec1 && window.utag_data.net_sec1==sections[i]){ tts="y"; } else if(window.utag_data.net_sec2 && window.utag_data.net_sec2==sections[i]){ tts="y"; } else if(window.utag_data.net_sec3 && window.utag_data.net_sec3==sections[i]){ tts="y"; } else if(window.utag_data.net_sec4 && window.utag_data.net_sec4==sections[i]){ tts="y"; } } else { tts="err"; } } window.ads_extra=window.ads_extra || {}; window.ads_extra.tts=tts;/* Trending */window.ads_extra.ttm='n';/* Trending in top10 */ }; window.ads_core = window.ads_core || []; window.ads_core.push(checkTrending); })();
+                </script> <!-- end of all.esi --><script>var overrideNdmPageSite = "LIFESTYLE";
+ndm.page.section        = "LIFESTYLE.FOOD.EAT";
+ndm.page.site           = overrideNdmPageSite || "NEWS";
+ndm.page.us             = "ndmnews";
+ndm.page.runads         = true;
+ndm.page.adstyles       = "auto";
+ndm.page.type           = "story";
+ndm.page.storyid        = "08d435d9cbe841c768c03f13c4a7b671";
+ndm.page.premiumstate   = 'NON_PREMIUM';
+ndm.page.custom         = "";
+utag_data.ad_pagetype               = "story";
+utag_data.adsense_client            = "ca-nd-news_js";
+utag_data.adsense_client_intl       = "ca-nd-news-st-intl_js";
+utag_data.adsense_channel           = "lifestyle";
+utag_data.net_article_date          = "2016-02-08 23:34:00";
+utag_data.net_article_updated_time  = "2016-02-09 00:04:27";
+</script><meta name="robots" content="noarchive"></head><body class="story newscomau lifestyle lifestyle-food lifestyle-food-eat  source-newscomau tcog desktop id08d435d9cbe841c768c03f13c4a7b671">
+				
+<!-- [Group:1227734415639] on [fwprodcontent05.ni.news.com.au] @ [February 16, 2016 4:26PM] -->
+<div class="group group-hotfix group-hotfix-top   text-g-nca-web-group-integrated-sales-hotfix-top item-count-1  group-id-1227734415639">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			
+<img src="http://pixel.tcog.cp1.news.com.au/track/fatwire/?t_product=newscomau&domain=news.com.au&cid=1227734415639" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
+<div id="page"><div id="skip-links"><dl class="skip"><dt>Skip to:</dt><dd class="first"><a href="#content">Main Content</a></dd><dd><a href="#nav">Site Navigation</a></dd><dd><a href="#footer">Site footer</a></dd><dd><a href="#site-search">Site site-search</a></dd><dd><a href="/help/sitemap">Site Map</a></dd><dd><a href="#network-bar">Network Navigation (other sites)</a></dd></dl></div><div id="network-bar"><dl class="network-bar-links nin-level-1"><dt class="nav-network-bar-holder first last"></dt><dd class="first nav-network-bar nav-make-homepage"><a href="http://www.news.com.au/more-information/make-home#from=ninbar" rel="track-nin-news">Make news.com.au your homepage</a></dd><dd class="nav-network-bar nav-foxsports"><a href="http://www.foxsports.com.au/" rel="track-nin-news">Fox Sports</a></dd><dd class="nav-network-bar nav-careerone"><a href="http://www.careerone.com.au/#from=ninbar" rel="track-nin-news">CareerOne</a></dd><dd class="nav-network-bar nav-carsguide"><a href="http://www.carsguide.com.au/#from=ninbar" rel="track-nin-news">Carsguide</a></dd><dd class="nav-network-bar nav-realestate"><a href="http://www.realestate.com.au/buy#from=ninbar" rel="track-nin-news">RealEstate</a></dd><dd class="last news-network nav-network-bar nav-network-links"><a href="http://www.news.com.au/more-information/network">News Network</a></dd></dl></div><div id="header"><div id="header-logo"><strong><a href="http://www.news.com.au">News.com.au</a></strong></div><div id="header-ads"><div class="ad ad-leaderboard"><div id="ad-leader" class="ad-block ad-leader"></div></div></div></div><div id="nav"><ul id="nav-wrap"><li id="nav-level1"><ul class="nav-list tier-1"><li class="nav-primary-nca-logo first"><a href="/" class="homepage">News.com.au</a></li><li class="nav-item nav-national "><a href="/national" class="national">National</a></li><li class="nav-item nav-world "><a href="/world" class="world">World</a></li><li class="nav-item nav-lifestyle active"><a href="/lifestyle" class="lifestyle">Lifestyle</a></li><li class="nav-item nav-travel "><a href="/travel" class="travel">Travel</a></li><li class="nav-item nav-entertainment "><a href="/entertainment" class="entertainment">Entertainment</a></li><li class="nav-item nav-technology "><a href="/technology" class="technology">Technology</a></li><li class="nav-item nav-finance "><a href="/finance" class="finance">Finance</a></li><li class="nav-item nav-sport "><a href="/sport" class="sport">Sport</a></li><li class="nav-item nav-video"><a href="/video" class="video video-index">Video</a></li><li class="nav-social nav-social-facebook"><a href="http://www.facebook.com/news.com.au">Facebook</a></li><li class="nav-social nav-social-twitter"><a href="http://twitter.com/newscomauHQ">Twitter</a></li><li class="nav-social nav-social-instagram"><a href="http://instagram.com/newscomauHQ">Instagram</a></li><li class="nav-social nav-social-googleplus"><a href="https://plus.google.com/+newscomauHQ/posts">GooglePlus</a></li><li class="nav-header-search last"><a href="#">Search</a></li></ul></li></ul></div><div id="info-bar"></div><div id="content"><div id="content-1" class="content-1"><div class="group group-billboard-970x250"><div class="group-content"><div class="item"><div class="ad-block ad-billboard"></div></div></div></div><div class="group group-carousel-latest-in-v2 section-lifestyle"><div class="group-content"><div class="item ipos-1 irpos-1"><div class="module section-lifestyle"><div class="module-header"><h2 class="heading">Latest In lifestyle</h2></div><div class="module-content"><div class="content-item cipos-0 cirpos-8"><div id="a09032468bf5d8026965881abe97e667" class="story-block sbpos-0 sbrpos-8"><h4 class="heading"><a href="http://www.news.com.au/lifestyle/parenting/having-it-all-kinda-sucks-only-women-would-sign-up-for-this-much-crap/story-fnet08xa-1227750459593?sv=efdb580561d0bdf32a97a1be7125977c">‘Having it all kinda sucks’</a></h4><a href="http://www.news.com.au/lifestyle/parenting/having-it-all-kinda-sucks-only-women-would-sign-up-for-this-much-crap/story-fnet08xa-1227750459593?sv=efdb580561d0bdf32a97a1be7125977c" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/eb9bbe3e82328637cbe6b935d7426caf" alt="30 ROCK -- &quot;A Goon's Deed in a Weary World&quot; Episode 711 -- Pictured: (l-r) Tracy Morgan as Tracy Jordan, Jane Kr..." width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T04:59:00.000Z">15:59 PM</time></span><em class="byline">Amy Westervelt </em></span><span>ONLY women would sign up for this much crap, says Amy Westervelt. Here’s what “having it all” really looks like.</span></p></div></div><div class="content-item cipos-1 cirpos-7"><div id="769bd82112cb299a32f0ef2479f61828" class="story-block sbpos-1 sbrpos-7"><h4 class="heading"><a href="http://www.news.com.au/national/nsw-act/sepia-to-bennelong-the-10-sydney-desserts-you-must-try/story-fnii5s3x-1227750155393?sv=6dd23ae5bdbc1a4f4bf3a2255160a2fc">The 10 Sydney desserts you must try</a></h4><a href="http://www.news.com.au/national/nsw-act/sepia-to-bennelong-the-10-sydney-desserts-you-must-try/story-fnii5s3x-1227750155393?sv=6dd23ae5bdbc1a4f4bf3a2255160a2fc" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/e34ec69e2bc1ba3ca6447239b1e9c4fe" alt="Strawberry dessert at Ormeggio" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span>FROM Bennelong’s ultra luxe lamington to Textures Of Strawberry at Ormeggio, pictured, these are quite simply the best desserts our city has to offer.</span></p></div></div><div class="content-item cipos-2 cirpos-6"><div id="e764a7e2c9767563447f72bb93c9abc7" class="story-block sbpos-2 sbrpos-6"><h4 class="heading"><a href="http://www.news.com.au/lifestyle/real-life/conservative-political-commentator-tomi-lahren-launches-attack-on-millenials/story-fnu2q5nu-1227750081032?sv=a2068f8fcb614a0ca8d24e445904b58a">US TV host’s scathing rant</a></h4><a href="http://www.news.com.au/lifestyle/real-life/conservative-political-commentator-tomi-lahren-launches-attack-on-millenials/story-fnu2q5nu-1227750081032?sv=a2068f8fcb614a0ca8d24e445904b58a" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/d9fec5db433e14d14b3ebee4ce2b7c78" alt="US TV host’s scathing rant" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T04:29:00.000Z">15:29 PM</time></span><em class="byline">Rebecca Sullivan </em></span><span>A 23-YEAR-OLD American television host has launched a scathing attack on millenials and their parents.</span></p></div></div><div class="content-item cipos-3 cirpos-5"><div id="fe19331220ece07082bdc3b5edaffe01" class="story-block sbpos-3 sbrpos-5"><h4 class="heading"><a href="http://www.news.com.au/lifestyle/real-life/reformed-addict-dedicated-to-helping-end-australias-ice-epidemic/story-fnq2o7dd-1227750372854?sv=cda9651274ac4327f9c8bfc5176803d4">‘I’ve done things I’m not proud of’</a></h4><a href="http://www.news.com.au/lifestyle/real-life/reformed-addict-dedicated-to-helping-end-australias-ice-epidemic/story-fnq2o7dd-1227750372854?sv=cda9651274ac4327f9c8bfc5176803d4" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/d94fb0791223848b5945700cfbce0b05" alt="‘I’ve done things I’m not proud of’" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T04:24:00.000Z">15:24 PM</time></span><em class="byline">Lauren McMah </em></span><span>ANDREA Simmons had two sons, a high-flying career and an enviable lifestyle. Then she was trapped in a living nightmare.</span></p></div></div><div class="content-item cipos-4 cirpos-4"><div id="0328990b14a8943138e11cfb12b47a35" class="story-block sbpos-4 sbrpos-4"><h4 class="heading"><a href="http://www.news.com.au/national/tasmania/nude-bathing-not-on-at-seven-mile-beach-police-say/story-fnn32rbc-1227750398266?sv=5faf6eec9709809adcdecbdf86be0532">Nudism not on at Seven Mile Beach</a></h4><a href="http://www.news.com.au/national/tasmania/nude-bathing-not-on-at-seven-mile-beach-police-say/story-fnn32rbc-1227750398266?sv=5faf6eec9709809adcdecbdf86be0532" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/daddeedbd8808240c043b3029ec68ca4" alt="Dark Mofo Nude Solstice Swim" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T03:38:00.000Z">14:38 PM</time></span><em class="byline">HELEN KEMPTON </em></span><span>TASMANIANS and tourists have been warned to keep their togs at beaches across the state as police investigate several complaints about nudists at Seven Mile Beach.</span></p></div></div><div class="content-item cipos-5 cirpos-3"><div id="80adc0c1281a35ec4cc1af3fba811cca" class="story-block sbpos-5 sbrpos-3"><h4 class="heading"><a href="http://www.news.com.au/finance/work/education-experts-warn-vocational-students-to-suffer-unless-industry-tightened-up/story-fnkgbb3b-1227750276257?sv=fb898ffd2959ef5c6dd3463637fb45d">A ‘race to the bottom’ for Aussie students</a></h4><a href="http://www.news.com.au/finance/work/education-experts-warn-vocational-students-to-suffer-unless-industry-tightened-up/story-fnkgbb3b-1227750276257?sv=fb898ffd2959ef5c6dd3463637fb45d" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/c29bd0db83ad7f3651e0b6be479dfd48" alt="University graduate job search" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T03:31:00.000Z">14:31 PM</time></span><em class="byline">Benedict Brook </em></span><span>THEY were supposed to be the alternatives to an expensive uni education. But it’s starting to cost a lot more and mean a lot less.</span></p></div></div><div class="content-item cipos-6 cirpos-2"><div id="e2e9e6606f18e19e8b3f4fcbe711f177" class="story-block sbpos-6 sbrpos-2"><h4 class="heading"><a href="http://www.news.com.au/national/queensland/catholic-teachers-set-to-strike/story-fnii5v6w-1227750087771?sv=6f181a33e40a73e6979d12bbd13ee615">Thousands of teachers set to strike</a></h4><a href="http://www.news.com.au/national/queensland/catholic-teachers-set-to-strike/story-fnii5v6w-1227750087771?sv=6f181a33e40a73e6979d12bbd13ee615" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/fe32a7c1097f15346702ff738cbe465c" alt="Hand Rasied in Classroom" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span>UPDATE: TEACHERS at most Queensland Catholic schools are set to hold full-day strikes, as a 10-month-long wage dispute continues.</span></p></div></div><div class="content-item cipos-7 cirpos-1"><div id="7c105891b342e60cfbc2517d2a212230" class="story-block sbpos-7 sbrpos-1"><h4 class="heading"><a href="http://www.news.com.au/lifestyle/health/wa-man-matthew-whitby-nearly-died-after-taking-two-popular-dietary-supplements/story-fneuzkvr-1227749280700?sv=71f97fdb9b337c9d38e03f8456384ddb">‘Wouldn’t wish this on anyone’</a></h4><a href="http://www.news.com.au/lifestyle/health/wa-man-matthew-whitby-nearly-died-after-taking-two-popular-dietary-supplements/story-fneuzkvr-1227749280700?sv=71f97fdb9b337c9d38e03f8456384ddb" class="thumb-link"><img src="http://cdn.newsapi.com.au/image/v1/3ede0c36e6d0b94fc9fba689841dd267" alt="‘Wouldn’t wish this on anyone’" width="100" height="75" class="thumbnail"/></a><p class="standfirst"><span class="article-info"><span class="timestamp"><time datetime="2016-02-16T03:04:00.000Z">14:04 PM</time></span><em class="byline">Rebecca Sullivan </em></span><span>A 27-YEAR-OLD WA man who nearly died after consuming two weight loss products has warned others about the dangers of some popular dietary supplements.</span></p></div></div></div></div>
+<img src="http://pixel.tcog.cp1.news.com.au/track/news/content/v1/?format=json&type=news_story&paidStatus=NON_PREMIUM&category=lifestyle&includeRelated=false&includeBodies=false&includeFutureDated=false&pageSize=8&offset=0&maxRelatedLevel=0&t_product=newscomau&td_module_header=Latest%2520In%2520lifestyle&td_kicker=false&domain=news.com.au&td_module-classes=section-lifestyle" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
+</div></div></div><div id="section-header"><dl id="section-header-nav"><dt class="first"><a href="/lifestyle/food">food</a></dt></dl><div id="section-header-logo"><h2><a href="/lifestyle/food/eat">eat</a></h2></div></div><div id="story-headline" class="story-headline"><h1 class="heading">This is what an untouched McDonald’s Happy Meal looks like after six years</h1></div></div><div id="story"><div class="story-header"><div class="story-date"><div title="2016-02-08T13:34:00.000Z" class="date-and-time"><span class="timeago-icon"></span><span class="timeago"></span><span class="datestamp">February 9, 2016<span class="time">12:04am</span></span></div></div></div><div class="story-body"><div class="article-media article-media-large article-media-main media-count-1 first-image-650w366h"><div class="image"><div class="image-frame image-650w366h"><img width="650" height="366" src="http://cdn.newsapi.com.au/image/v1/74eb97d96aaddfd07b8e3d962d281d62"></div><p class="caption">These six-year-old nuggets look like they haven’t aged a day. Picture: Jennifer Lovdahl/Facebook</p></div></div><div class="story-extra"><div class="author-block"><span class="author-name">Charlotte Willis</span><span class="author-source"><a href="http://www.news.com.au/">news.com.au</a></span></div><div class="story-footer-tools static"><ul class="story-tools"><li class="share-tools-heading">Share</li><li class="share-tools-facebook share-tools"><a href="#">Share on Facebook</a></li><li class="share-tools-twitter share-tools"><a href="#">Share on Twitter</a></li><li class="share-tools-google-plus share-tools"><a href="#">Share on Google+</a></li><li class="share-tools-reddit share-tools"><a href="#">Share on Reddit</a></li><li class="share-tools-email share-tools"><a href="mailto:?subject=news.com.au%20-%20What a six-year-old Happy Meal looks like&amp;body=Hi%2C%0A%0AI%20found%20this%20article%20from%20news.com.au%20that%20you%20might%20be%20interested%20in%3A%20%0A%0Ahttp%3A%2F%2Fwww.news.com.au%2Flifestyle%2Ffood%2Feat%2Fthis-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years%2Fnews-story%2F08d435d9cbe841c768c03f13c4a7b671%0A%0AVisit%20news.com.au%20for%20all%20the%20latest%20breaking%20news%2C%20sport%2C%20lifestyle%2C%20and%20entertainment%20updates.">Email a friend</a></li></ul></div></div><div class="story-intro"><p><strong>IF there was ever an image to get parents thinking twice before feeding their kids fast food, this is it.</strong></p></div><p>A woman who claims she left a McDonald&#x2019;s Happy Meal untouched for six years as an experiment has shared the nasty outcome on social media, accompanied with a receipt dating back to January 8, 2010.</p><p>Jennifer Lovdahl, a chiropractor from Alaska in the US, posted the photos to <a href="https://www.facebook.com/balancedhealthchiropracticalaska?fref=ts">Facebook</a>, saying she initially conducted the experiment to prove to her patients how many chemicals are in fast food items.</p><p>&#x201C;It&#x2019;s been 6 years since I bought this &#x2018;Happy Meal&#x2019; at McDonald&#x2019;s,&#x201D; she wrote.</p><p>&#x201C;It&#x2019;s been sitting at our office this whole time and has not rotted, molded, or decomposed at all!!! It smells only of cardboard.&#x201D;</p><p>The nuggets and fries, which Ms Lovedahl says were left out of the fridge the whole time, appear to be in pristine condition.</p><p>One Facebook user observed, &#x201C;The receipt has disintegrated more than the food.&#x201D;</p><div class="article-media article-media-inline article-media-inline-embedded"><div class="module"><div class="module-content"><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/balancedhealthchiropracticalaska/posts/10153433398490669" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/balancedhealthchiropracticalaska/posts/10153433398490669"><p>It's been 6 years since I bought this "Happy Meal" at McDonald's. It's been sitting at our office this whole time and...</p>Posted by <a href="https://www.facebook.com/balancedhealthchiropracticalaska">Jennifer Lovdahl</a> on <a href="https://www.facebook.com/balancedhealthchiropracticalaska/posts/10153433398490669">Wednesday, February 3, 2016</a></blockquote></div></div></div></div></div><p>&#x201C;We did this experiment to show our patients how unhealthy this &#x201C;food&#x201D; is. Especially for our growing children!! There are so many chemicals in this food! Choose real food! Apples, bananas, carrots, celery ... those are real fast food,&#x201D; Ms Lovdahl wrote.</p><p>Anyone in a rush to get to the Golden Arches after seeing these photos?</p><div class="module image-module module-image-650w488h"><div class="module-content"><div class="image-block image-650w488h"><div class="image-frame"><img alt="Mmm, tastes like cardboard. Picture: Jennifer Lovdahl/Facebook" src="http://cdn.newsapi.com.au/image/v1/f67a25e426d6677454727868ff0e5f69" width="650" height="488"></div><p class="caption"><span class="caption-text">Mmm, tastes like cardboard. Picture: Jennifer Lovdahl/Facebook</span><span class="image-source"><em>Source:</em>Supplied</span></p></div></div></div><script>function fixEmbeddedImages(els) {
+
+    if (!els.length) {
+        return;
+    }
+
+    [].slice.call(els).forEach(function (el) {
+        var fwId = el.id.match(/cid_=(\d+)&/)[1],
+            match = el.innerHTML.match(/News_Image_File: (.+)/),
+            caption = match && match[1];
+
+        if (!fwId || !caption) {
+            return;
+        }
+
+        el.innerHTML = '<div class="module image-module module-image-650w366h">' +
+                           '<div class="module-content">' +
+                                '<div class="image-block">' +
+                                    '<div class="image-frame">' +
+                                        '<img src="http://cdn.newsapi.com.au/image/v1/origin:fatwire.'+ fwId +'" alt="'+ caption +'" />' +
+                                    '</div>' +
+                                    '<p class="caption">' +
+                                        '<span class="caption-text">' +
+                                            caption +
+                                        '</span>' +
+                                    '</p>' +
+                                '</div>' +
+                            '</div>' +
+                       '</div>';
+
+    });
+}
+
+function onLoad () {
+    // after dom load completed
+    fixEmbeddedImages(document.querySelectorAll('.asset-embed-summary'));
+}
+
+document.addEventListener('DOMContentLoaded', onLoad);</script></div><div class="group-story-footer"><div class="module-see-also"></div><div id="news-outbrain-widget" class="news-outbrain-widget"><div data-widget-id="AR_1" data-ob-template="Newsltd" async="async" data-src="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671" class="OUTBRAIN outbrain-ar-1"></div><div data-widget-id="AR_2" data-ob-template="Newsltd" async="async" data-src="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671" class="OUTBRAIN outbrain-ar-2"></div><div data-widget-id="AR_3" data-ob-template="Newsltd" async="async" data-src="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671" class="OUTBRAIN outbrain-ar-3"></div><script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js" async></script></div><div id="ad-adsenselarge" class="ad ad-adsenselarge"><div class="ad-block ad-adsense-large"></div></div><div class="story-footer-more"><p class="story-footer-top-link"><a href="#page">Jump back to top</a></p></div></div></div><div id="content-3" class="content-3"><div data-ad-size="3x3" class="ad-block ad-custom ad-polar ad-polar-1"></div><div data-ad-size="3x3" class="ad-block ad-custom ad-polar ad-polar-2"></div><div id="ad-halfpage" class="ad ad-halfpage"></div><div id="plmnt-trending" class="module module-head-basic plmnt-trending trending-lifestyle"></div><div data-src="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671" data-widget-id="SB_1" data-ob-template="Newsltd" class="OUTBRAIN"></div><div data-src="http://www.news.com.au/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671" data-widget-id="SB_2" data-ob-template="Newsltd" class="OUTBRAIN"></div><div id="connectWidget"></div><div class="module module-promo-image-01 promo-class-marketing-feature mpos-1 mrpos-4 id1226494532946 text-m-news-home-newsletter-marketing-promo"><div class="module-content"><div class="promo-block promo-image-01 marketing-feature"><div class="promo-image"><a href="http://pages.e.newsdigitalmedia.com.au/GPC?a=News"><img src="http://resources3.news.com.au/images/2013/01/11/1226552/240863-newsletter-marketing-promo.jpg" alt="Newsletter marketing promo" width="300" height="139"></a></div></div></div></div><div id="ad-island-2" class="ad adisland"><div id="ad-mrec-2" class="ad-block ad-mrec"></div></div><div class="ad ad-text"><div id="ad-text-link-vertical-1" data-ad-num="2" class="ad-block ad-vtext-link"></div></div></div><div id="content-5" class="content-5"><!-- [Group:1226687959183] on [fwprodcontent07.ni.news.com.au] @ [February 16, 2016 4:30PM] -->
+<div class="group group-affiliates group-affiliates-footer   text-g-nc-all-group-affiliates-footer-daily-deals item-count-1  group-id-1226687959183">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="module affiliate-module affiliate-footer">
+			<div class="module-header">
+				<h3 class="heading">Daily Deals</h3>
+			</div>
+			<div class="module-content">
+				  	    <div class="content-item cipos-1 cirpos-6">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_generic" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/HL-generic-399.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_generic" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Super Low Rate Loans<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_generic" target="_blank">Compare variable loan rates as low as 3.99% p.a. now</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-2 cirpos-5">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Best_PrePaid_Mobile" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/bestPlan_149x86_0315_left_a.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Best_PrePaid_Mobile" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Best PrePaid Mobile<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Best_PrePaid_Mobile" target="_blank">If you want control, pre-paid mobile is for you</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-3 cirpos-4">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Plans_Right_Now" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/bestPlan_149x86_0315_right_a.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Plans_Right_Now" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Plans Right Now<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/Guides/Best-prepaid-plan?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Plans_Right_Now" target="_blank">Here are some of the best prepaid plans right now</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-4 cirpos-3">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/large_image_sa_green-piggy.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">3.60% Special Rate<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" target="_blank">Plus $0 Account Fees with ME Online Savings Account. T&amp;Cs apply </a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-5 cirpos-2">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin&amp;mz_source=NewsTravel__footer" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/news-footer-virgin-high-flyer-20000.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin&amp;mz_source=NewsTravel__footer" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Top Travel Credit Card<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin&amp;mz_source=NewsTravel__footer" target="_blank">Earn up to 20,000 Velocity Points with Virgin High Flyer card</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-6 cirpos-1">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/BT-donut-large.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Balance Transfer Deals<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" target="_blank">Compare and save on 0% p.a. balance transfer credit cards now </a>
+								</div>
+							</div>
+						</div>
+			</div>
+	</div>
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+</div></div></div><div id="footer"><div class="footer-statements"><p>A NOTE ABOUT RELEVANT ADVERTISING: We collect information about the content (including ads) you use across this site and use it to make both advertising and content more relevant to you on our network and other sites.<a href="http://www.newscorpaustraliaprivacy.com/index.html#collect">&nbsp;Find out more about our policy and your choices, including how to opt-out.</a></p></div><div id="footer-ads"><div class="ad ad-leaderboard"><div id="ad-leader" class="ad-block ad-leader"></div></div></div><div class="footer-content"><div class="content-item cipos-1 cirpos-3"><ul class="footer-links"><li class="nav-footer-logo"><a href="http://www.news.com.au" class="homepage">News.com.au</a></li><li class="nav-tool nav-newsletters"><a href="http://pages.e.newsdigitalmedia.com.au/GPC?a=News">Newsletter</a></li><li class="nav-tool nav-rss"><a href="http://www.news.com.au/more-information/rss-feeds">RSS</a></li><li class="nav-tool nav-advertise"><a href="http://www.newscorpaustralia.com/brand/newscomau">Advertise</a></li><li class="nav-tool nav-about-us"><a href="http://www.news.com.au/more-information">About Us</a></li></ul></div><div class="footer-divider"></div><div class="content-item cipos-2 cirpos-2"><ul class="footer-legals"><li class="label-text">Legal:</li><li class="nav-privacy-policy nav-legals first"><a href="http://www.newscorpaustraliaprivacy.com/">Privacy Policy</a></li><li class="nav-ads-opt-out nav-legals"><a href="http://www.newscorpaustraliaprivacy.com/index.html#optout">Relevant Ads Opt-Out</a></li><li class="nav-cookie-policy nav-legals"><a href="http://www.newscorpaustraliaprivacy.com/index.html#collect">Cookie Policy</a></li><li class="nav-terms-and-conditions nav-legals last"><a href="http://www.news.com.au/more-information/terms-conditions">Terms &amp; Conditions</a></li></ul></div><div class="content-item cipos-3 cirpos-1"><div class="footer-copyright"><p>News Limited Copyright &copy; . All times on this site are AEDT (GMT +11).</p></div></div></div></div><div id="resources"><script src="http://resources.newscdn.com.au/cs/nca/latest/public/js/desktop/lifestyle/base-bottom-tcog-concat-min.js"> </script><script src="http://resources.newscdn.com.au/cs/nca/latest/public/js/desktop/shared/story-bottom-tcog-concat-min.js"></script><script src="http://resources.newscdn.com.au/cs/video/vjs/stable/build/player.js"></script><script src="http://cdn.mediavoice.com/nativeads/script/newscorpaustralianewsdigital/nca-polar-article.js" async="true"></script></div><div id="stats"><script>utag_data = window.utag_data || {};
+utag_data.pn                        = "newscomau | lifestyle | story | What a six-year-old Happy Meal looks like";
+utag_data.net_content_type          = "story";
+utag_data.net_sec1                  = "lifestyle";
+utag_data.net_sec2                  = "food";
+utag_data.net_sec3                  = "eat";
+utag_data.net_sec4                  = "";
+utag_data.net_sec5                  = "";
+utag_data.net_sec6                  = "";
+utag_data.responsive_platform       = "web";
+utag_data.net_article_id            = "08d435d9cbe841c768c03f13c4a7b671";
+utag_data.net_article_headline      = "What a six-year-old Happy Meal looks like";
+utag_data.net_article_byline        = "Charlotte Willis";
+utag_data.net_article_source        = "news.com.au";
+utag_data.net_article_standfirst    = "&lt;p&gt;ONE woman decided to leave a Happy Meal from McDonald’s untouched for six years as an experiment. This is what it looks like now.&lt;/p&gt;";
+utag_data.net_article_thumbnail     = "http://cdn.newsapi.com.au/image/v1/thumbnail/07110c2c9689608eb14fe81ab48e2780";
+utag_data.net_template              = "tcog.desktop.0.1";
+utag_data.mp_story_id               = "08d435d9cbe841c768c03f13c4a7b671";
+utag_data.mp_section_id             = "";
+utag_data.mp_mlc_path               = "/lifestyle/food/eat/story"; 
+utag_data.net_platform              = "web";
+utag_data.net_content_type          = "story";
+</script><script src="//tags.tiqcdn.com/utag/newsltd/news.fw/prod/utag.js"></script></div>
+				
+<!-- [Group:1227734415662] on [fwprodcontent05.ni.news.com.au] @ [February 16, 2016 4:22PM] -->
+<div class="group group-hotfix group-hotfix-bottom   text-g-nca-web-group-integrated-sales-hotfix-bottom item-count-1  group-id-1227734415662">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			
+<img src="http://pixel.tcog.cp1.news.com.au/track/fatwire/?t_product=newscomau&domain=news.com.au&cid=1227734415662" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
+</body></html>
+<img src="http://pixel.tcog.cp1.news.com.au/track/component/article/news/desktop/lifestyle/food/eat/this-is-what-an-untouched-mcdonalds-happy-meal-looks-like-after-six-years/news-story/08d435d9cbe841c768c03f13c4a7b671?t_product=newscomau&t_template=s3/ncatemp/desktop/index" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />

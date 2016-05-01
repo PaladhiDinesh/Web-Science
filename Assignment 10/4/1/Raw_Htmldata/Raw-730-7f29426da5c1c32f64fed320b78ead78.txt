@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset=utf-8>
+<meta name="viewport" width="device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="p:domain_verify" content="1ad56a35f3043ea1dc69d45aa04705b4"/>
+	<meta name="twitter:site" content="@Snapzu" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://snapzu.com/cone/reminder-donald-trump-is-a-cowardly-draft-dodger" />
+<meta name="twitter:title" content="Reminder: Donald Trump is a cowardly draft dodger" />
+<meta name="twitter:description" content="He’s leading the Republican pack and loves to talk tough about ISIS, but it’s worth remembering that Donald Trump dodged the draft on five separate occasions and avoided military service at every opportunity. While the Vietnam War that would claim the lives of some 58,000 of his countrymen raged, Trump received a series of deferments so that he could attend college at Fordham University and the University of Pennsylvania’s Wharton School of Business." />
+<meta name="twitter:image" content="http://s2.storage.snapzu.com/28/99/14/77/cone/snaps/e8/0f/136975/thumbs/15087b47477f0fd9_fpi_small.jpg" />
+<title>Reminder: Donald Trump is a cowardly draft dodger - Snapzu.com</title>
+
+
+<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap.css?807" >
+<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap-theme.css?807" >
+
+<link rel="stylesheet" media="screen" href="/public/css/default/style_general.css?807" >
+<link rel="stylesheet" media="screen" href="/public/css/default/style.css?807" >
+<link rel="stylesheet" media="screen" href="/public/css/default/style_popup.css?807" >
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+<script src="/public/jsmin/plugins/jquery-1.8.3.min.js?804"></script>
+<script src="/public/jsmin/default/script.js?804"></script>
+<script type="text/javascript" language="javascript">
+	var no_profile_context = new Array('t','admin','bookmarklet','bugtracking','checkpoint','maintenance','main','notification','s','error','find','search','template','test','tst','token','user','peeper','webhook','webserver','rss');
+</script>
+<script src="/public/jsmin/default/script_async.js?804" async></script>
+
+
+<script> 
+		var profile = 'cone';
+			
+	var layoutWidth;
+	var ie = false; 
+</script>
+
+<script> 
+
+	if(Function('/*@cc_on return document.documentMode===10@*/')()){
+	  ie = 10;
+	}
+	
+</script>
+
+<!--[if IE 9]>
+<link type="text/css" href="/public/css/default/ie9Fix.css?807" rel="stylesheet" media="all" />
+<script>
+    ie = 9;
+</script>
+<![endif]-->
+
+<!--[if lte IE 8]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="/public/jsmin/plugins/ie6/warning.js?804"></script>
+<script>window.onload=function(){e("/public/jsmin/plugins/ie6/")}</script>
+<link href="/public/css/default/ieWarning.css" rel="stylesheet" />
+<![endif]-->
+
+<script src="/public/jsmin/plugins/matchMedia.js?804"></script>
+<script src="/public/jsmin/plugins/enquire.min.js?804"></script>
+<script>
+
+	enquire.register("screen and (max-width: 720px)", {	
+		match : function() { layoutCallback(0) }, 		
+	}).listen(1);
+	enquire.register("screen and (min-width: 721px) and (max-width: 980px)", {	
+		match : function() { layoutCallback(1)},     		
+	}).listen(1);
+	enquire.register("screen and (min-width: 981px) and (max-width: 1240px)", {	
+		match : function() { layoutCallback(2)},     		
+	}).listen(1);
+	enquire.register("screen and (min-width: 1241px) and (max-width: 1480px)", {	
+		match : function() { layoutCallback(3)},     		
+	}).listen(1);
+	enquire.register("screen and (min-width: 1481px)", {	
+		match : function() { layoutCallback(4)},		
+	}).listen(1);
+
+</script>
+
+</head>
+	<body class="absolutheader scrollHit">
+
+		<header class="headerContainer">
+		
+			<div class="headerTribeBar">
+	<a href="/t/lounge/posts/newest" class="lounge"><span class="icon-bubble"></span> &nbsp;LOUNGE</a>
+	<a href="/list/trending">all</a>
+	<a href="/list/new">new</a>
+	<a href="/t/asksnapzu">asksnapzu</a>
+	<a href="/t/ideasforsnapzu">ideasforsnapzu</a>
+	<a href="/t/newtribes">newtribes</a>
+	<a href="/t/interesting">interesting</a>
+	<a href="/t/pics">pics</a>
+	<a href="/t/videos">videos</a>
+	<a href="/t/funny">funny</a>
+	<a href="/t/technology">technology</a>
+	<a href="/t/science">science</a>
+	<a href="/t/technews">technews</a>
+	<a href="/t/gaming">gaming</a>
+	<a href="/t/health">health</a>
+	<a href="/t/history">history</a>
+	<a href="/t/worldnews">worldnews</a>
+	<a href="/t/business">business</a>
+	<a href="/t/web">web</a>
+	<a href="/t/research">research</a>
+	<a href="/t/entertainment">entertainment</a>
+	<a href="/t/food">food</a>
+	<a href="/t/living">living</a>
+	<a href="/t/internet">internet</a>
+	<a href="/t/socialmedia">socialmedia</a>
+	<a href="/t/mobile">mobile</a>
+	<a href="/t/space">space</a>
+	<a href="/t/sports">sports</a>
+	<a href="/t/photography">photography</a>
+	<a href="/t/nature">nature</a>
+	<a href="/t/animals">animals</a>
+	<a href="/t/movies">movies</a>
+	<a href="/t/culture">culture</a>
+	<a href="/t/travel">travel</a>
+	<a href="/t/television">television</a>
+	<a href="/t/finance">finance</a>
+	<a href="/t/music">music</a>
+	<a href="/t/celebrities">celebrities</a>
+	<a href="/t/gadgets">gadgets</a>
+	<a href="/t/environment">environment</a>
+	<a href="/t/usa">usa</a>
+	<a href="/t/crime">crime</a>
+	<a href="/t/politics">politics</a>
+	<a href="/t/law">law</a>
+	<a href="/t/money">money</a>
+	<a href="/t/justice">justice</a>
+	<a href="/t/psychology">psychology</a>
+	<a href="/t/security">security</a>
+	<a href="/t/cars">cars</a>
+	<a href="/t/wtf">wtf</a>
+	<a href="/t/art">art</a>
+	<a href="/t/google">google</a>
+	<a href="/t/books">books</a>
+	<a href="/t/lifetips">lifetips</a>
+	<a href="/t/bigbrother">bigbrother</a>
+	<a href="/t/women">women</a>
+	<a href="/t/apple">apple</a>
+	<a href="/t/kids">kids</a>
+	<a href="/t/recipes">recipes</a>
+	<a href="/t/whoa">whoa</a>
+	<a href="/t/military">military</a>
+	<a href="/t/privacy">privacy</a>
+	<a href="/t/education">education</a>
+	<a href="/t/facebook">facebook</a>
+	<a href="/t/medicine">medicine</a>
+	<a href="/t/computing">computing</a>
+	<a href="/t/wildlife">wildlife</a>
+	<a href="/t/design">design</a>
+	<a href="/t/war">war</a>
+	<a href="/t/drugs">drugs</a>
+	<a href="/t/middleeast">middleeast</a>
+	<a href="/t/diet">diet</a>
+	<a href="/t/toplists">toplists</a>
+	<a href="/t/economy">economy</a>
+	<a href="/t/fail">fail</a>
+	<a href="/t/violence">violence</a>
+	<a href="/t/humor">humor</a>
+	<a href="/t/africa">africa</a>
+	<a href="/t/microsoft">microsoft</a>
+	<a href="/t/parenting">parenting</a>
+	<a href="/t/dogs">dogs</a>
+	<a href="/t/canada">canada</a>
+	<a href="/t/neuroscience">neuroscience</a>
+	<a href="/t/architecture">architecture</a>
+	<a href="/t/religion">religion</a>
+	<a href="/t/advertising">advertising</a>
+	<a href="/t/infographics">infographics</a>
+	<a href="/t/sex">sex</a>
+	<a href="/t/journalism">journalism</a>
+	<a href="/t/disaster">disaster</a>
+	<a href="/t/software">software</a>
+	<a href="/t/aviation">aviation</a>
+	<a href="/t/relationships">relationships</a>
+	<a href="/t/energy">energy</a>
+	<a href="/t/booze">booze</a>
+	<a href="/t/life">life</a>
+	<a href="/t/japan">japan</a>
+	<a href="/t/ukraine">ukraine</a>
+	<a href="/t/newmovies">newmovies</a>
+	<a href="/t/nsa">nsa</a>
+	<a href="/t/cannabis">cannabis</a>
+	<a href="/t/name Name of the tribe">name Name of the tribe</a>
+	<a href="/t/humanrights">humanrights</a>
+	<a href="/t/nasa">nasa</a>
+	<a href="/t/cute">cute</a>
+	<a href="/t/weather">weather</a>
+	<a href="/t/gifs">gifs</a>
+	<a href="/t/discoveries">discoveries</a>
+	<a href="/t/cops">cops</a>
+	<a href="/t/futurism">futurism</a>
+	<a href="/t/football">football</a>
+	<a href="/t/earth">earth</a>
+	<a href="/t/dataviz">dataviz</a>
+	<a href="/t/pets">pets</a>
+	<a href="/t/guns">guns</a>
+	<a href="/t/entrepreneurship">entrepreneurship</a>
+	<a href="/t/fitness">fitness</a>
+	<a href="/t/android">android</a>
+	<a href="/t/extremeweather">extremeweather</a>
+	<a href="/t/fashion">fashion</a>
+	<a href="/t/insects">insects</a>
+	<a href="/t/india">india</a>
+	<a href="/t/northamerica">northamerica</a>	
+</div>
+
+<div class="headerTopBar">
+
+	<div class="container">
+	
+		<div class="logo" id="snapzu_logo">
+			<h1><a href="/"><img src="/public/gfx/default/snapzu-logo.png" width="53" height="44" alt="Snapzu" /></a></h1>
+		</div>
+		
+		<div class="userMenu">	
+		
+							<ul class="menuItems">
+
+	<li class="searchPanel">
+    	<span class="toggleBtn" onclick="showLogin();"><span class="icon-search"></span></span>
+	</li>
+	<li class="login">
+		<a href="/login" class="user">Log In</a>
+	</li>	
+		<li class="register">
+        <a href="/register" class="account"><span class="title">Join</span> <span class="icon-plus"></span> <span class="icon-user"></span></a>
+	</li>	
+
+</ul>
+
+
+<script type="text/javascript">
+	$(document).ready( function() {
+
+		$('.banerContainer, .siteContainer, .footerContainer').mouseenter(function() { hideLogotypeDropdown(); });
+	
+	});
+</script>
+
+						
+			
+		</div>
+		
+	</div>
+    
+</div>	
+                      
+		</header>
+
+			<div id="profile-background-top" class="banerContainer pattern" style="background-image:url(http://s2.storage.snapzu.com/28/99/14/77/cone/banner/9b17e8db1ac8db01_top.jpg)">
+				<div class="duplicateBG"></div>
+<nav class="menuBar">
+	<div class="container">		
+        
+		<div class="userExtras">
+			
+				
+					
+						
+		</div>
+		<script src="/public/jsmin/default/follow.js?804"></script>	
+        	       
+		<div class="userProfile">
+
+	<div class="profilePhotoContainer" id="profile_photo">
+		<a href="/cone/overview" class="profilePhoto">
+			<img id="rank-icon" src="http://s2.storage.snapzu.com/28/99/14/77/cone/profile/006397c55b8789cf.jpg"  alt=""/>
+		</a>
+	</div>        
+	
+		
+
+</div>
+        
+		<ul class="menuItems">
+							<li class="btnItem userHome">
+                	<a href="/cone/home" class="transition">
+                	cone
+                	<span class="rank">LEVEL <span>34</span></span>
+					<span class="xp">REP <span>97</span></span>
+                    </a>
+                </li>
+				<li class="btnItem"><a href="/cone/schest" class="transition"> Posts <span class="count">668</span></a></li>
+				<li class="btnItem"><a href="/cone/following" class="transition">Following <span class="count">245</span></a></li>
+				<li class="btnItem"><a href="/cone/followers" class="transition">Followers <span class="count">318</span></a></li>
+				<li class="btnItem"><a href="/cone/tribes/" class="transition">Tribes <span class="count">123</span></a></li>
+            
+							<li class="btnItem"><a href="/cone/snapzine" class="btn btn-primary btn-xs transition">Saved<br><span class="count">1</span></a></li>
+					</ul>
+        
+        <div class="pull-right" id="template_right_on_menu">
+                      <aside class="snapBar">
+		        
+        <a href="javascript:void(0)" onclick="gotoFrontpageListWithAutoFilter('13')" class="marker snap_type_13">Expression</a>
+        
+		<section class="popularityScale" id="popularity-scale">
+
+			<strong>Published into:</strong>
+	
+	<div class="tribePopularList">
+		<ul class="list">
+					
+									<li>
+						<a href="/" class="voteBar highlight">
+							<span class="progress" style="width: 29%"></span>
+							<span class="sourceName">Front Page</span>
+							<span class="points">+20</span>
+						</a>
+					</li>
+							
+									<li>
+						<a href="/cone/" class="voteBar">
+							<span class="progress" style="width: 28%"></span>
+							<span class="sourceName">Local Feed</span>
+							<span class="points">+19</span>
+						</a>
+					</li>
+							
+									<li>
+						<a href="/t/politics/" class="voteBar">
+							<span class="progress" style="width: 26%" id="tribe-share-2"></span>
+							<span class="tribeName">politics</span>
+							<span class="points">+18</span>
+						</a>
+					</li>
+							
+									<li>
+						<a href="/t/usa/" class="voteBar">
+							<span class="progress" style="width: 14%" id="tribe-share-4"></span>
+							<span class="tribeName">usa</span>
+							<span class="points">+10</span>
+						</a>
+					</li>
+							
+									<li>
+						<a href="/t/elections/" class="voteBar">
+							<span class="progress" style="width: 1%" id="tribe-share-5"></span>
+							<span class="tribeName">elections</span>
+							<span class="points">+1</span>
+						</a>
+					</li>
+							
+									<li>
+						<a href="/t/donaldtrump/" class="voteBar">
+							<span class="progress" style="width: 1%" id="tribe-share-3"></span>
+							<span class="tribeName">donaldtrump</span>
+							<span class="points">+1</span>
+						</a>
+					</li>
+											</ul>
+	</div>
+
+</section>
+	
+			
+			<h3 class="socialHeader">Share with friends!</h3>
+						
+			<div class="socialListButtons">
+		
+				<a href="javascript:void(0)" class="socialBtn F" onclick="windowPopup('fb-share', 'https://www.facebook.com/dialog/feed?app_id=447277392027809&display=popup&link=http%3A%2F%2Fsnapzu.com%2Fcone%2Freminder-donald-trump-is-a-cowardly-draft-dodger&picture=http%3A%2F%2Fs2.storage.snapzu.com%2F28%2F99%2F14%2F77%2Fcone%2Fsnaps%2Fe8%2F0f%2F136975%2Fthumbs%2F15087b47477f0fd9_thumb_100.jpg&name=Reminder%3A+Donald+Trump+is+a+cowardly+draft+dodger&description=He%E2%80%99s+leading+the+Republican+pack+and+loves+to+talk+tough+about+ISIS%2C+but+it%E2%80%99s+worth+remembering+that+Donald+Trump+dodged+the+draft+on+five+separate+occasions+and+avoided+military+service+at+every+opportunity.+While+the+Vietnam+War+that+would+claim+the+lives+of+some+58%2C000+of+his+countrymen+raged%2C+Trump+received+a+series+of+deferments+so+that+he+could+attend+college+at+Fordham+University+and+the+University+of+Pennsylvania%E2%80%99s+Wharton+School+of+Business.&redirect_uri=http://snapzu.com/cone', 600, 500); return false;"><span class="icon-facebook"></span></a>
+				<a href="javascript:void(0)" class="socialBtn T" onclick="windowPopup('twitter-share', 'http://twitter.com/intent/tweet?url=http%3A%2F%2Fsnapzu.com%2Fs%2FRP4V29D1&text=Reminder%3A+Donald+Trump+is+a+cowardly+draft+dodger&via=Snapzu', 600, 400); return false;"><span class="icon-twitter"></span></a>
+				<a href="javascript:void(0)" class="socialBtn G" onclick="windowPopup('google-share', 'https://plus.google.com/share?url=http%3A%2F%2Fsnapzu.com%2Fcone%2Freminder-donald-trump-is-a-cowardly-draft-dodger', 600, 400); return false;"><span class="icon-googleplus"></span></a>
+			
+			</div>
+			
+
+	</aside>
+	<div class="snapBarHelper"></div>
+	
+	<script>
+		
+		$(document).ready(function(e) {								
+
+			$('.snapBarHelper').css('height', $('#template_right_on_menu .snapBar').outerHeight());			
+						
+			handleSnapBar();
+			
+			setInterval(function(){ handleSnapBar()	}, 1);
+		});
+
+		function gotoFrontpageListWithAutoFilter(snap_type_id) {
+
+			if (snap_type_id) {
+
+				var url = '/main/setFrontpageListFilters/default';
+				$.post(
+					url,
+					{ frontpage_filters_form: { 'order_by': 0, 'snap_type': snap_type_id, tribes: 0 }},
+					function (data) {
+
+						if (data.validated) {
+
+							document.location = data.url;
+						}
+					},
+					'json'
+				);
+			}
+		}
+
+	</script>
+                </div>
+        
+	</div>
+</nav>
+		
+		</div>
+		
+		<div class="siteContainer sd">
+	        <div class="container">
+			
+				
+				<aside class="sideBar" id="section_right">
+                	<!-- right.tpl -->
+				</aside>
+				<div class="content" id="section_middle">
+					<header class="site">
+
+	<script src="/public/jslang/modules/dictionary_en.js?804"></script>
+<script src="/public/jsmin/default/snap.js?804"></script>
+	
+	
+		
+</header>
+
+		
+						<div id="snap-display-hook" style="display:none">
+			<div class="inviteHook">
+
+				<h1>Snapzu is a new and exciting invite-only link, image, and video sharing community!</h1>
+
+				<div class="formBox">
+					<form id="invite_form" onsubmit="sendInviteRequestHook(); return false;">
+
+						<input type="hidden" name="invite_form[ctoken]" value="858126fb6a94e262b3937b962a45d1f2" />
+						<input type="hidden" name="invite_form[from]" value="snap" />
+
+							<p>
+								We are always on the lookout for early adopters that enjoy interacting and collaborating with other like-minded people on popular topics such as:  
+								
+																
+									<br/>
+								
+																		
+																		
+									<a href="/t/politics/">politics</a>
+									
+																		
+																		, 
+																		
+									<a href="/t/usa/">usa</a>
+									
+																		
+																		, 
+																		
+									<a href="/t/donaldtrump/">donaldtrump</a>
+									
+																		
+																		or
+																		
+									<a href="/t/elections/">elections</a>
+									
+																		
+															</p>
+
+							<ul class="formList">
+								<li><input type="text" data-valid="email_check" id="invite" name="invite_form[email]" placeholder="your e-mail here"></li>
+							</ul>
+
+							<div class="errorInfo">
+								<ul></ul>
+							</div>
+
+							<div id="btn_user_register" class="btn btn-info btn-xlg"><input type="submit" value="request invite">Request Invite</div>
+
+						<div class="bottomLinks">
+							<a href="javascript:;" onclick="setSnapHookCookie();closePopup()">No thanks</a>, I'll jump on board when the bandwagon is full.
+						</div>
+
+					</form>					
+                    
+                    <div id="invite_success" style="display:none;">
+                   		<h1>Thank you</h1>                    
+                    	<p class="lead">Your email has been added to our waiting list and we will send an invite to you as soon as possible. Thank you for your patience.</p>                    
+                    	<h4>Help spread the word about Snapzu:</h4>                    
+                    	<p class="tiny">Let others know about Snapzu by tweeting about us. We appreciate every mention!</p>
+                    	<a href="javascript:void(0)" class="btn btn-info btn-xlg socialBtn T" onclick="windowPopup('twitter-share', 'https://twitter.com/intent/tweet?url=http%3A%2F%2Fsnapzu.com%2Fteamsnapzu%2Fwhat-is-snapzu&via=Snapzu&text=First%20came%20%22Digg%22,%20then%20came%20%22Reddit%22,%20now%20check%20out%20%22Snapzu%22%20...%20You%20won\'t%20regret%20it.', 600, 400); return false;"><span class="icon-twitter"></span> Tweet it!</a>
+        			</div>
+                                                
+				</div>
+
+				<script type="text/javascript" language="javascript" src="/public/js/default/account.js?804"></script>
+				<script type="text/javascript">
+					// <![CDATA[
+					$(document).ready(function(){
+						showHook = setTimeout(function(){ SnapDisplayHook(); clearTimeout(showHook); }, 10000);
+					});
+					// ]]>
+				</script>
+				
+			</div>
+		</div>
+	
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+			
+	
+    
+    <div class="snapVoteBar">
+       	<script type="text/javascript" language="javascript">
+			var snap_url = '/cone/reminder-donald-trump-is-a-cowardly-draft-dodger';
+		</script>
+        <div class="snapVote" id="score-bar">
+    		            <span class="voteUp" onclick="showLogin();"></span>
+        <span class="voteDown" onclick="showLogin();"></span>
+        
+     
+           
+    <div class="voteCount">
+        <span id="snap_fps">+59</span>
+        <span class="details" style="cursor: pointer" onclick="showDownVotesSummary('136975')">
+            <span class="green">59</span>
+            <span class="red">0</span>
+        </span>
+    </div>
+   
+        </div>
+    
+                
+                    <span>Published 7 days ago  with <a href="#snap-comments">3 Comments</a></span>
+                
+        <div class="pull-right">
+    
+                    
+            <div class="pinSnapzine" id="pinup-container">
+        
+                                    	<a href="javascript:void(0)" class="btn btn-default btn-sm pinBtn" onclick="showLogin()"><span class="icon-star-empty"></span> Save</a>
+
+	<span class="count" onclick="showPinupStats('136975', 1, 0)">1 saves</span>
+	
+
+                            
+            </div>
+        
+                        
+       </div> 
+        
+    </div>        
+
+	<header itemscope itemtype="http://schema.org/CreativeWork" class="snapTitle link">
+
+				<div class="cover">
+                        <img width="125" height="125" src="http://s2.storage.snapzu.com/28/99/14/77/cone/snaps/e8/0f/136975/thumbs/15087b47477f0fd9_fpi_small.jpg" itemprop="image">	
+            		</div>
+				
+		<div class="description">
+
+			<h1 class="title" itemprop="name">Reminder: Donald Trump is a cowardly draft dodger</h1>
+			<p class="lead" itemprop="description">He’s leading the Republican pack and loves to talk tough about ISIS, but it’s worth remembering that Donald Trump dodged the draft on five separate occasions and avoided military service at every opportunity. While the Vietnam War that would claim the lives of some 58,000 of his countrymen raged, Trump received a series of deferments so that he could attend college at Fordham University and the University of Pennsylvania’s Wharton School of Business.</p>		
+
+		        
+			<a href="http://www.deathandtaxesmag.com/271429/donald-trump-draft-dodger/" class="btn btn-primary visitLink" target="_blank" >Continue Reading</a>
+			<a target="_blank" href="http://www.deathandtaxesmag.com/271429/donald-trump-draft-dodger/" class="mainlink-url" >
+				<img class="favico" src="http://s0.storage.snapzu.com/favicons/d/e/a/t/www.deathandtaxesmag.com.png" alt=""/>
+				http://www.deathandtaxesmag.com
+			</a>
+            
+		        
+		</div>
+        
+	</header>
+
+
+			
+	
+	<div id="snap-extras" class="snapExtras">
+		        <div id="related_links_hub">
+
+	<ul class="addedLinks" id="related_links_items" style="display:none">
+		
+			
+	</ul>
+	<div class="text-right">
+    
+            		
+        <spna class="lightGrey pull-left margin-top-5">No related links added yet. Be the first!</spna>		<div class="manage" id="related_links_manage_outer">
+				<span class="btn btn-default btn-sm" onclick="showLogin()">Add Related Link</span>
+	</div>
+        
+	</div>
+
+	
+</div>
+		
+	</div>
+	<script src="/public/jsmin/plugins/jquery.ba-resize.min.js?804"></script>
+<form id="comments-filters-form">
+	
+	<input type="hidden" name="comments_filters[ctoken]" value="858126fb6a94e262b3937b962a45d1f2" />
+	<input type="hidden" name="comments_filters[snap_id]" id="comments-filter-snap_id" value="136975" />
+	<input type="hidden" name="comments_filters[sort_by]" id="comments-filter-sort_by" value="best" />
+	<input type="hidden" name="comments_filters[tier]" id="comments-filter-tier" value="auto" />
+</form>
+
+<div id="snap-comments">
+
+	<div id="comments-section">
+
+		<div id="comments-filters">
+			<div class="commentsFilter">
+	<h3 class="title">Join the Discussion</h3>
+	<ul class="list">
+		<li><span class="btn btn-default btn-sm active" onclick="showCommentsTier(this, 'auto'); return false;">Auto Tier</span></li>
+		<li><span class="btn btn-link btn-sm" onclick="showCommentsTier(this, 5); return false;">All</span></li>
+		<li><span class="btn btn-link btn-sm" onclick="showCommentsTier(this, 1); return false;">1</span></li>
+		<li><span class="btn btn-link btn-sm" onclick="showCommentsTier(this, 2); return false;">2</span></li>
+		<li><span class="btn btn-link btn-sm" onclick="showCommentsTier(this, 3); return false;">3</span></li>
+	</ul>
+    
+    <div class="btn-group pull-right">				
+    	<button type="button" class="btn btn-sm btn-default" onclick="setSortBy(this,this.value);" value="best">Best</button>
+    	<div class="sep"></div>					
+    	<button type="button" class="btn btn-sm btn-link" onclick="setSortBy(this,this.value);" value="oldest">Oldest First</button>
+    	<div class="sep"></div>	
+        <button type="button" class="btn btn-sm btn-link" onclick="setSortBy(this,this.value);" value="newest">Newest First</button>
+    </div>
+
+</div>
+<div class="clearfix"></div>
+		</div>
+		<div class="leaveComment">					                   
+			                    
+			<div class="commentText">
+				<textarea placeholder="Leave a comment..." onclick="showLogin();"></textarea>
+				<div class="author">
+					<div class="btn btn-default btn-sm pull-right" onclick="showLogin();">Post Comment</div>
+				</div>
+			</div>
+					</div>
+
+		<div class="snapComments" id="comments-list">
+											
+
+    <ul class="comments">
+        <li>
+            <div class="comment" id="comment-81852">
+
+				<a class="user" href="/sgfc">
+			<span class="photo">
+									<img src="/public/img/default/profile/default_male_small.jpg" alt=""/>
+							</span>
+			sgfc
+		</a>
+		
+	<span class="editDate">(edited 7 days ago)</span>
+
+        
+        <div class="vote"  id="comment-rate-81852">	
+        
+
+			
+        <span class="voteUp" onclick="showLogin();"></span>
+		<span class="voteDown" onclick="showLogin();"></span>
+
+	
+
+<span class="voteCount">
++6
+</span> 
+
+
+	               
+    </div>
+    	
+    
+                                    <div class="desc" id="comment-body-81852" ><p>That reminds me that we have not heard from Ted Nugent this election cycle.  He is another pro-war draft dodger who literally pissed and shit himself to avoid service.  </p>
+</div>
+            
+	
+
+<div class="bottom " id="links-81852">
+		
+			<div class="replyBox" onclick="showLogin();">Reply</div>
+	
+	<a href="/cone/reminder-donald-trump-is-a-cowardly-draft-dodger/comments/81852" class="permaLink">Link</a>
+
+	
+			<span id="comment-pin-81852">
+								<span class="pinSnapizne" onclick="showLogin();">Save</span>
+
+	
+					</span>
+	
+	<div class="date">
+		7 days ago
+	</div>
+
+</div>
+
+
+
+</div>
+
+	
+	<ul id="replies-comment-81852" style="display:none;" class="replies-tier-1"></ul>
+		
+		</li>		
+	
+</ul>
+
+
+	
+	
+				
+
+    <ul class="comments">
+        <li>
+            <div class="comment" id="comment-81824">
+
+				<a class="user" href="/NoOneAttAll">
+			<span class="photo">
+									<img src="/public/img/default/profile/default_male_small.jpg" alt=""/>
+							</span>
+			NoOneAttAll
+		</a>
+		
+	
+
+        
+        <div class="vote"  id="comment-rate-81824">	
+        
+
+			
+        <span class="voteUp" onclick="showLogin();"></span>
+		<span class="voteDown" onclick="showLogin();"></span>
+
+	
+
+<span class="voteCount">
++4
+</span> 
+
+
+	               
+    </div>
+    	
+    
+                                    <div class="desc" id="comment-body-81824" ><p>Just like to point out. hillary never served and has failed when called to (Benghazi), sanders was a secular objector (socialists don't shoot their cousins, communists) and trump got scholastic and medical deferments.</p>
+</div>
+            
+	
+
+<div class="bottom " id="links-81824">
+		
+			<div class="replyBox" onclick="showLogin();">Reply</div>
+	
+	<a href="/cone/reminder-donald-trump-is-a-cowardly-draft-dodger/comments/81824" class="permaLink">Link</a>
+
+	
+			<span id="comment-pin-81824">
+								<span class="pinSnapizne" onclick="showLogin();">Save</span>
+
+	
+					</span>
+	
+	<div class="date">
+		7 days ago
+	</div>
+
+</div>
+
+
+
+</div>
+
+	
+	<ul id="replies-comment-81824" style="display:none;" class="replies-tier-1"></ul>
+		
+		</li>		
+	
+</ul>
+
+
+	
+	
+				
+
+    <ul class="comments">
+        <li>
+            <div class="comment" id="comment-81835">
+
+				<a class="user" href="/QuietKerfuffle">
+			<span class="photo">
+									<img src="http://s2.storage.snapzu.com/80/a5/e1/79/QuietKerfuffle/profile/c4bea88bd8ac58f9_small.jpg" alt=""/>
+							</span>
+			QuietKerfuffle
+		</a>
+		
+	
+
+        
+        <div class="vote"  id="comment-rate-81835">	
+        
+
+			
+        <span class="voteUp" onclick="showLogin();"></span>
+		<span class="voteDown" onclick="showLogin();"></span>
+
+	
+
+<span class="voteCount">
++4
+</span> 
+
+
+	               
+    </div>
+    	
+    
+                                    <div class="desc" id="comment-body-81835" ><p>Considering how I feel about the draft, I can't really fault him for his past dodging, but his war mongering today is reprehensible.</p>
+</div>
+            
+	
+
+<div class="bottom " id="links-81835">
+		
+			<div class="replyBox" onclick="showLogin();">Reply</div>
+	
+	<a href="/cone/reminder-donald-trump-is-a-cowardly-draft-dodger/comments/81835" class="permaLink">Link</a>
+
+	
+			<span id="comment-pin-81835">
+								<span class="pinSnapizne" onclick="showLogin();">Save</span>
+
+	
+					</span>
+	
+	<div class="date">
+		7 days ago
+	</div>
+
+</div>
+
+
+
+</div>
+
+	
+	<ul id="replies-comment-81835" style="display:none;" class="replies-tier-1"></ul>
+		
+		</li>		
+	
+</ul>
+
+
+	
+	
+		
+	
+
+					</div>
+
+	</div>
+</div>
+
+
+<script type="text/javascript" src="/public/jsmin/plugins/markitup/jquery.markitup.js?804"></script>
+<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/skins/markitup/snapzu_style.css?807" />
+<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/sets/markdown/style.css?807" />
+
+<script type="text/javascript">
+// <![CDATA[	
+		var snap_url = "/cone/reminder-donald-trump-is-a-cowardly-draft-dodger#comments";
+		
+		function urlHasHash(r) {
+
+			  var hash = document.location.hash;
+			  hash = hash.replace('#','');
+
+			  if (hash != '') {
+
+				var p = 0;
+				var a = hash.split(':');
+
+				for (k in a) {
+
+				  p=a[k].indexOf(r);
+
+				  if (p !== -1) {
+
+					return true;
+				  }
+				}
+			  }
+			  return false;
+		}
+
+		if ( urlHasHash('comments') ) {
+
+			snapFilterDisplay('comments');
+		}
+		
+		// mIu nameSpace to avoid conflict.
+		miu = {
+			markdownTitle: function(markItUp, char) {
+				heading = '';
+				n = $.trim(markItUp.selection||markItUp.placeHolder).length;
+				for(i = 0; i < n; i++) {
+					heading += char;
+				}
+				return '\n'+heading+'\n';
+			}
+		}
+		
+		myMarkdownSettings = { 
+			nameSpace:          'markdown', // Useful to prevent multi-instances CSS conflict
+			onShiftEnter:       {keepDefault:false, openWith:'\n\n'},
+			markupSet: []
+		}
+		
+		$(document).ready( function() {
+			
+			$("#markdown-0")
+				.markItUp(myMarkdownSettings)
+				.autosize()
+				.sTextAreaCounter({counterId:"#chartCounter_for_markdown", dataFormat: "max"});
+				
+			parseCommentMedia('#comments-list');
+			
+		})
+		
+		
+// ]]>
+</script>
+	
+				</div>	
+				
+	        </div>				
+	    </div>
+		
+						<div class="snapsHook ">
+
+		<div class="container">
+			<header class="site">
+				<h2>Here are some other snaps you may like...</h2>
+			</header>
+			<ul class="relatedSnaps row">
+								<li class="brickBox photo postStory">					
+					<a class="brickLink" href="/"><span class="discover">discover your<br> <strong>interests.</strong></span></a>
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="/public/gfx/default/discoverYourInterest.jpg" alt="" >
+						</div>
+												
+						<header>
+							<h2><a href="/">Check out our front page for a lot more stuff!</a></h2>
+						</header>									
+
+					</div><!--brickContent-->
+				</li>
+												<li class="brickBox photo">
+					<a class="brickLink" href="/Chubros/the-invincible-trump"></a>
+
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="http://s2.storage.snapzu.com/e8/48/58/6f/Chubros/snaps/30/25/113940/thumbs/6549379eae56b595_fpi_small.jpg" alt="" id="image_113940">
+						</div>
+												
+						<header>
+							<h2><a href="/Chubros/the-invincible-trump">The Invincible Trump</a></h2>
+						</header>									
+
+					</div><!--brickContent-->	
+				</li><!--brickBox-->
+								<li class="brickBox photo">
+					<a class="brickLink" href="/AdelleChattre/private-memo-lays-out-how-the-gop-would-deal-with-trump-as-its-nominee"></a>
+
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/37/40/128340/thumbs/a779a141825bd734_fpi_small.jpg" alt="" id="image_128340">
+						</div>
+												
+						<header>
+							<h2><a href="/AdelleChattre/private-memo-lays-out-how-the-gop-would-deal-with-trump-as-its-nominee">Private memo lays out how the GOP would deal with Trump as its nominee</a></h2>
+						</header>									
+
+					</div><!--brickContent-->	
+				</li><!--brickBox-->
+								<li class="brickBox photo">
+					<a class="brickLink" href="/wildcard/planned-parenthood-funding-trump-says-hed-defund"></a>
+
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="http://s2.storage.snapzu.com/3c/a7/fa/01/wildcard/snaps/b1/17/108220/thumbs/b743c2fc9cc0da33_fpi_small.jpg" alt="" id="image_108220">
+						</div>
+												
+						<header>
+							<h2><a href="/wildcard/planned-parenthood-funding-trump-says-hed-defund">Planned Parenthood funding: Trump says he&#039;d defund</a></h2>
+						</header>									
+
+					</div><!--brickContent-->	
+				</li><!--brickBox-->
+								<li class="brickBox photo">
+					<a class="brickLink" href="/AdelleChattre/winning-isnt-everything"></a>
+
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/d0/1c/124225/thumbs/e351f110929ccd6c_fpi_small.jpg" alt="" id="image_124225">
+						</div>
+												
+						<header>
+							<h2><a href="/AdelleChattre/winning-isnt-everything">Winning Isn’t Everything</a></h2>
+						</header>									
+
+					</div><!--brickContent-->	
+				</li><!--brickBox-->
+								<li class="brickBox photo">
+					<a class="brickLink" href="/Cobbydaler/a-republican-party-split-in-two"></a>
+
+					<div class="brickContent">
+
+						<div class="photo">
+							<img src="http://s2.storage.snapzu.com/71/f2/4c/7d/Cobbydaler/snaps/f4/9a/124037/thumbs/b0da11541dd70f44_fpi_small.jpg" alt="" id="image_124037">
+						</div>
+												
+						<header>
+							<h2><a href="/Cobbydaler/a-republican-party-split-in-two">A Republican party split in two</a></h2>
+						</header>									
+
+					</div><!--brickContent-->	
+				</li><!--brickBox-->
+									
+			</ul>
+			
+		</div>
+
+	</div>
+
+				
+		<footer class="footerContainer">
+    <div class="container">
+				
+        <h6>
+			<a href="/" class="logo"><img src="/public/gfx/default/snapzu-logo-footer.png" width="53" height="44" alt="Snapzu" /></a> <br />Snapzu.com
+			<small>Snapzu is a community of web communities. Discover yours today!</small> 
+		</h6>
+
+		<div class="extras"><a href="/teamsnapzu/prologue">Prologue</a><a href="/teamsnapzu/what-is-snapzu">What is Snapzu?</a><a href="/teamsnapzu/frequently-asked-questions">FAQ</a><a href="/t/blog">Blog</a><a href="/teamsnapzu/snapzu-privacy-policy">Privacy Policy</a><a href="/teamsnapzu/snapzu-terms-of-use">Terms of Use</a></div><div class="extras"><font color="#92b546">Referral Program:</font><a href="/referralprogram/" ><font color="#858585">Introduction</font></a><a href="/teamsnapzu/referral-program-terms-of-service-agreement"><font color="#858585">Terms of Service</font></a><a href="/teamsnapzu/referral-program-frequently-asked-questions"><font color="#858585">Partnership FAQ</font></a><a href="/teamsnapzu/snapzu-release-51"><font color="#858585">Release 5.1</font></a></div><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="YKDSVEL4QZ5U4"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>
+
+		<div class="socialBox">
+			<strong>&nbsp;</strong>
+			<div class="socialListButtons">		
+				<a href="https://plus.google.com/+Snapzu/" class="socialBtn G" target="_blank"><span class="icon-googleplus"></span></a>
+				<a href="https://www.twitter.com/snapzu" class="socialBtn T" target="_blank"><span class="icon-twitter"></span></a>
+				<a href="https://www.facebook.com/snapzu" class="socialBtn F" target="_blank"><span class="icon-facebook"></span></a>
+				<a href="http://snapzu.com/rss/Main" class="socialBtn R"><span class="icon-feed"></span></a>
+			</div>
+		</div>
+		
+	</div>
+</footer>
+
+<script src="/public/jslang/dictionary_en.js?804"></script>
+<script src="/public/jsmin/plugins/jquery-ui-1.10.2.custom.min.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.ui.nestedSortable.js?804"></script>
+<script src="/public/jsmin/plugins/swfobject.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.tools.min.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.masonry.min.js?804"></script>
+<script src="/public/jsmin/plugins/autosize.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.visited.js?804"></script> 
+<script src="/public/jsmin/plugins/jquery.fullscreenslides.js?804"></script> 
+<script src="/public/jsmin/plugins/jquery.simplemodal-1.4.3.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.mousewheel.min.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.backgroundpos.min.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.iframe-transport.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.fileupload.js?804"></script>
+
+<!--[if IE 9]>
+<script src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?804"></script>
+<script src="/public/jsmin/default/ie9Fix.js?804"></script>
+<![endif]-->
+
+<!--[if IE 8]>
+<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?804"></script>
+<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery-extra-selectors.js?804"></script>
+<script type="text/javascript" language="javascript" src="/public/jsmin/default/ie8Fix.js?804"></script>
+<![endif]-->
+
+<script>
+   	
+	if($.cookie('time-zone')==null) document.write('<script type="text/javascript" language="javascript" src="/public/jsmin/default/timezone.js?804" />');
+	
+	$(document).ready(function(){
+		
+				
+		onDOMReadyInit();
+		
+		if (9 === ie || 10 === ie) {		
+					
+			$('.footerContainer ul.info').masonry({
+				itemSelector: 'li',
+				columnWidth: 260,
+				gutterWidth: 20
+			});
+
+		}	
+
+	});	
+	
+</script>
+		<script>
+			$(document).ready(function(e) { fixedHeader();	});
+
+			var profile_banner = '2';
+			var profile_background_top  = "http://s2.storage.snapzu.com/28/99/14/77/cone/banner/9b17e8db1ac8db01_top.jpg";
+
+			var profile_default_top = "/public/img/default/banner/0_top.jpg";
+
+			function updateProfileBackground() {
+			
+				$('#profile-background-top').attr('style','background-image:url('+ profile_background_top +')');
+				if (profile_banner == "1") {
+					$('#profile-background-top').removeClass('pattern');
+				}
+				else {
+					$('#profile-background-top').addClass('pattern');
+				}
+			}
+		</script>
+				
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36217250-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+			</body>    
+</html>

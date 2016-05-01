@@ -1,0 +1,988 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+<head>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes">
+  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7790492/668686/css/fonts.css" />
+  <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="/Styles/responsive/ac-style.css?v=2.1" />
+  <link rel="stylesheet" type="text/css" href="/Styles/responsive/ac-menu.css" />
+  <link rel="stylesheet" type="text/css" href="/Styles/responsive/magnific.css" />
+  
+  <link rel="stylesheet" type="text/css" href="/Styles/responsive/article.css?v=1.2" />
+  
+  <link rel="stylesheet" type="text/css" href="/Styles/responsive/fluid.css" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png?v=2">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png?v=2">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png?v=2">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png?v=2">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png?v=2">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png?v=2">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png?v=2">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png?v=2">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png?v=2">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png?v=2">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png?v=2">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
+  <link rel="shortcut icon" href="/favicon.ico?v=2">
+  
+  
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  
+  
+  <script src="/Scripts/responsive/ac-custom.js" type="text/javascript"></script>
+  <script src="/Scripts/responsive/jquery.mmenu.min.js" type="text/javascript"></script>
+  <script src="/Scripts/responsive/jquery.autoellipsis-1.0.10.min.js" type="text/javascript"></script>
+  <script src="/Scripts/responsive/magnific.min.js" type="text/javascript"></script>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <link rel="stylesheet" type="text/css" href="/Styles/Object.css">
+  
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
+    function adslots() {
+      var retailSlots = $("body").find(".adslot").filter(":visible"), i = 0, slotR = new Array();
+      var houseSlots = $("body").find(".adslot").filter(":hidden"), j = 0, slotH = new Array();
+      if (retailSlots.length || houseSlots.length) {
+        googletag.cmd.push(function() {
+          $(retailSlots).each(function(){
+            var adUnit = $(this).attr('data-section') + $(this).attr('data-ad-unit');
+            
+            slotR[i] = googletag.defineSlot('/1017433/'+adUnit, [$(this).width(), $(this).height()], $(this).attr('id')).addService(googletag.pubads());
+            i++
+          });
+          $(houseSlots).each(function(){
+            var adUnit = 'House' + $(this).attr('data-ad-unit');
+            
+            slotH[j] = googletag.defineSlot('/1017433/'+adUnit, [$(this).width(), $(this).height()], $(this).attr('id')).addService(googletag.pubads());
+            j++
+          });
+          googletag.pubads().collapseEmptyDivs(true);
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+          $(retailSlots).each(function(){
+            googletag.display($(this).attr('id'));
+          });
+          $(houseSlots).each(function(){
+            googletag.display($(this).attr('id'));
+          });
+        });
+      } else {
+//        console.log('huh, both empty');
+      }
+    }
+    $(document).ready(function(){
+      setTimeout(adslots, 200)
+    });
+    </script>
+  
+  <title>Officer-Involved Shooting in Northeast Austin: 18-year-old black man dies at hospital following gunshot wound - News - The Austin Chronicle</title>
+  <meta name="description" content="18-year-old black man dies at hospital following gunshot wound">
+  
+    
+    <meta name="keywords" content="Austin Police Department, Brian Manley, Officer-Involved Shooting">
+    <meta name="news_keywords" content="Austin Police Department, Brian Manley, Officer-Involved Shooting">
+  
+  <meta name="google-site-verification" content="qnrKtufqpmTjGUn37hMteGd7m_7o98t42RcbtZJAXRs">
+  <link href="https://plus.google.com/+austinchronicle" rel="publisher" />
+  
+    <link rel="canonical" href="http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/">
+  
+  
+  
+    <meta property="og:title" content="Officer-Involved Shooting in Northeast Austin">
+  
+  
+    
+      <meta property="og:image" content="http://www.austinchronicle.com/imager/b/original/1816921/54d2/Austin_Police.jpg"/>
+    
+  
+  
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-397617-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- End Google Analytics -->
+  <!--blockmetrics.com tag-->
+  <script type="text/javascript">
+  (function() {
+    function async_load(){
+      var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+      var s = document.createElement('script');
+      s.src = protocol + 'blockmetrics.com/static/adblock_detection/js/d.min.js';
+      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    }
+    bm_website_code = '34B9577ACDE949E9';
+    jQuery(document).ready(async_load);
+  })();
+  </script>
+</head>
+<body>
+  
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  
+  
+  
+    <div class="wrapper" id="mclose">
+      <!---BEGIN HEADER--->
+      <div class="header">
+        <!-- NewsLeaderboard -->
+        <div class="top-ad-desktop"><div class="adslot" id="div-gpt-ad-1354205884549-1" style="width:728px;height:90px;" data-ad-unit="Leaderboard" data-section="News"></div></div>
+        <!--BEGIN DESKTOP SEARCH AND PLUS MENU-->
+        <div class="search-signin">
+          <div class="search">
+            <form name="searching" action="/gyrobase/Archive/search">
+              <label for="Search"></label>
+              <input name="Search" class="d-searchinput" type="text" id="textfield" value="" placeholder="SEARCH">
+              <input class="d-searchbutton" type="submit" value="Go">
+            </form>
+          </div>
+          <div class="plus"><a href="/elections" onClick="ga('send', 'event', 'Top Navigation', 'Elections', 'Daily');">Elections</a> &bull; <a href="/levitation/" onClick="ga('send', 'event', 'Top Navigation', 'Levitation 2016', 'Daily');">Levitation 2016</a> &bull; <a href="/calendar/summer-camps/" onClick="ga('send', 'event', 'Top Navigation', 'Summer Camps', 'Daily');">Summer Camps</a> &bull; <a href="/e-edition/" onClick="ga('send', 'event', 'Top Navigation', 'E-Edition', 'Daily');">E-Edition</a> &bull; <a href="/newsletters/" onClick="ga('send', 'event', 'Top Navigation', 'Newsletters', 'Daily');">Newsletters</a> &bull; <a href="/events-and-promotions/contests/" onClick="ga('send', 'event', 'Top Navigation', 'Contests', 'Daily');">Contests</a> <a href="/advertise-with-us/" style="float:right;color:#444444;">ADVERTISE</a></div>
+          <a href="/site-map/" onClick="ga('send', 'event', 'Top Navigation', 'Site Map Button', 'Daily');" style="color:#FFFFFF;font-weight:700;letter-spacing:1px;">
+            <div class="signin">
+              SITE MAP
+            </div>
+          </a>
+        </div>
+        <!--END DESKTOP SEARCH AND PLUS MENU-->
+        <!--BEGIN MOBILE HEADER CODE-->
+        <div class="menu-300">
+          <div class="menuwrapper">
+            <div id="m-header" class="m-header">
+              <div class="m-logo"><a href="/"><img src="/mobile/images/jqm/logo.png" width="160"></a></div>
+              <nav id="menu">
+              <ul>
+                <li>
+                  <a href="/featured/">Featured</a>
+                  <ul>
+                    <li><a href="/elections" onClick="ga('send', 'event', 'Top Navigation', 'Elections', 'Daily');">Elections</a></li>
+                    <li><a href="/levitation/" onClick="ga('send', 'event', 'Top Navigation', 'Levitation 2016', 'Daily');">Levitation 2016</a></li>
+                    <li><a href="/calendar/summer-camps/" onClick="ga('send', 'event', 'Top Navigation', 'Summer Camps', 'Daily');">Summer Camps</a></li>
+                    <li><a href="/e-edition/" onClick="ga('send', 'event', 'Top Navigation', 'E-Edition', 'Daily');">E-Edition</a></li>
+                    <li><a href="/newsletters/" onClick="ga('send', 'event', 'Top Navigation', 'Newsletters', 'Daily');">Newsletters</a></li>
+                    <li><a href="/events-and-promotions/contests/" onClick="ga('send', 'event', 'Top Navigation', 'Contests', 'Daily');">Contests</a></li>
+                  </ul>
+                </li>
+                <li><a href="/news/" onClick="ga('send', 'event', 'Top Navigation', 'News', 'Daily');">News</a>
+                  <ul>
+                    <li><a href="/news/" onClick="ga('send', 'event', 'Top Navigation', 'News Home', 'Daily');">News Home</a></li>
+                    <li><a href="/daily/news/" onClick="ga('send', 'event', 'Top Navigation', 'Daily News', 'Daily');">Daily News</a></li>
+                    <li><a href="/latest/news/point-austin/" onClick="ga('send', 'event', 'Top Navigation', 'Point Austin', 'Daily');">Point Austin</a></li>
+                    <li><a href="/latest/news/public-notice/" onClick="ga('send', 'event', 'Top Navigation', 'Public Notice', 'Daily');">Public Notice</a></li>
+                    <li><a href="/latest/news/notes-on-kamp/" onClick="ga('send', 'event', 'Top Navigation', 'Notes on Kamp', 'Daily');">Notes on Kamp</a></li>
+                    <li><a href="/latest/news/civics-101/" onClick="ga('send', 'event', 'Top Navigation', 'Civic Events', 'Daily');">Civic Events</a></li>
+                    <li><a href="/elections" onClick="ga('send', 'event', 'Top Navigation', 'Elections', 'Daily');">Elections</a></li>
+                    <li><a href="/news/archives/" onClick="ga('send', 'event', 'Top Navigation', 'News Archives', 'Daily');">News Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/food/" onClick="ga('send', 'event', 'Top Navigation', 'Food', 'Daily');">Food</a>
+                  <ul>
+                    <li><a href="/food/" onClick="ga('send', 'event', 'Top Navigation', 'Food Home', 'Daily');">Food Home</a></li>
+                    <li><a href="/daily/food/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Food', 'Daily');">Daily Food</a></li>
+                    <li><a href="/latest/food/food-events/" onClick="ga('send', 'event', 'Top Navigation', 'Food Events', 'Daily');">Food Events</a></li>
+                    <li><a href="/latest/food/the-take-out/" onClick="ga('send', 'event', 'Top Navigation', 'The Take-Out', 'Daily');">The Take-Out</a></li>
+                    <li><a href="/latest/food/food-fight/" onClick="ga('send', 'event', 'Top Navigation', 'Food Fight', 'Daily');">Food Fight</a></li>
+                    <li><a href="/food/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/gyrobase/Guides/restaurant" onClick="ga('send', 'event', 'Top Navigation', 'Restaurant Guide', 'Daily');">Restaurant Guide</a></li>
+                    <li><a href="/food/first-plates/" onClick="ga('send', 'event', 'Top Navigation', 'First Plates', 'Daily');">First Plates</a></li>
+                    <li><a href="/hot-sauce/" onClick="ga('send', 'event', 'Top Navigation', 'Hot Sauce Festival', 'Daily');">Hot Sauce Festival</a></li>
+                    <li><a href="/food/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Food Archives', 'Daily');">Food Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music', 'Daily');">Music</a>
+                  <ul>
+                    <li><a href="/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Home', 'Daily');">Music Home</a></li>
+                    <li><a href="/daily/music/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Music', 'Daily');">Daily Music</a></li>
+                    <li><a href="/latest/music/playback" onClick="ga('send', 'event', 'Top Navigation', 'Playback', 'Daily');">Playback</a></li>
+                    <li><a href="/music/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/calendar/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Listings', 'Daily');">Music Listings</a></li>
+                    <li><a href="/austin-music-awards/year:2015/category:best-of-the-year/" onClick="ga('send', 'event', 'Top Navigation', 'Austin Music Awards', 'Daily');">Austin Music Awards</a></li>
+                    <li><a href="/ama/" onClick="ga('send', 'event', 'Top Navigation', 'Austin Music Awards Show', 'Daily');">Austin Music Awards Show</a></li>
+                    <li><a href="/music/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Music Archives', 'Daily');">Music Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Screens', 'Daily');">Screens</a>
+                  <ul>
+                    <li><a href="/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Screens Home', 'Daily');">Screens Home</a></li>
+                    <li><a href="/daily/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Screens', 'Daily');">Daily Screens</a></li>
+                    <li><a href="/screens/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/calendar/film/" onClick="ga('send', 'event', 'Top Navigation', 'Film Listings', 'Daily');">Film Listings</a></li>
+                    <li><a href="/latest/screens/i-like-to-watch/" onClick="ga('send', 'event', 'Top Navigation', 'I Like to Watch', 'Daily');">I Like to Watch</a></li>
+                    <li><a href="/screens/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Screens Archives', 'Daily');">Screens Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts & Culture', 'Daily');">Arts & Culture</a>
+                  <ul>
+                    <li><a href="/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Home', 'Daily');">Arts Home</a></li>
+                    <li><a href="/daily/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Arts', 'Daily');">Daily Arts</a></li>
+                    <li><a href="/calendar/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Listings', 'Daily');">Arts Listings</a></li>
+                    <li><a href="/arts/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Reviews', 'Daily');">Arts Reviews</a></li>
+                    <li><a href="/books/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Book Reviews', 'Daily');">Book Reviews</a></li>
+                    <li><a href="/gay-place/" onClick="ga('send', 'event', 'Top Navigation', 'Gay Place', 'Daily');">Gay Place</a></li>
+                    <li><a href="/short-story-contest/" onClick="ga('send', 'event', 'Top Navigation', 'Short Story Contest', 'Daily');">Short Story Contest</a></li>
+                    <li><a href="/arts/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Archives', 'Daily');">Arts Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/calendar/" onClick="ga('send', 'event', 'Top Navigation', 'Calendar', 'Daily');">Calendar</a>
+                  <ul>
+                    <li><a href="/calendar/" onClick="ga('send', 'event', 'Top Navigation', 'Recommended Events', 'Daily');">Recommended Events</a></li>
+                    <li><a href="/calendar/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Listings', 'Daily');">Music Listings</a></li>
+                    <li><a href="/calendar/film/" onClick="ga('send', 'event', 'Top Navigation', 'Film Listings', 'Daily');">Film Listings</a></li>
+                    <li><a href="/calendar/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Listings', 'Daily');">Arts Listings</a></li>
+                    <li><a href="/calendar/community/" onClick="ga('send', 'event', 'Top Navigation', 'Community Listings', 'Daily');">Community Listings</a></li>
+                    <li><a href="/latest/food/food-events/" onClick="ga('send', 'event', 'Top Navigation', 'Food Events', 'Daily');">Food Events</a></li>
+                    <li><a href="/gyrobase/EventSubmission" onClick="ga('send', 'event', 'Top Navigation', 'Submit an Event', 'Daily');">Submit an Event</a></li>
+                    <li><a href="/app/" onClick="ga('send', 'event', 'Top Navigation', 'AC Calendar App', 'Daily');">AC Calendar App</a></li>
+                  </ul>
+                </li>
+                <li><a href="/events-and-promotions/" onClick="ga('send', 'event', 'Top Navigation', 'Promo', 'Daily');">Promo</a>
+                  <ul>
+                    <li><a href="/events-and-promotions/" onClick="ga('send', 'event', 'Top Navigation', 'Promotions Home', 'Daily');">Promotions Home</a></li>
+                    <li><a href="/events-and-promotions/events/" onClick="ga('send', 'event', 'Top Navigation', 'Featured Events', 'Daily');">Featured Events</a></li>
+                    <li><a href="/events-and-promotions/contests/" onClick="ga('send', 'event', 'Top Navigation', 'Online Contests', 'Daily');">Online Contests</a></li>
+                    <li><a href="/daily/chrontourage/" onClick="ga('send', 'event', 'Top Navigation', 'Events Blog', 'Daily');">Events Blog</a></li>
+                  </ul>
+                </li>
+                <li><a href="http://www.austinchronicleclassifieds.com/" onClick="ga('send', 'event', 'Top Navigation', 'Classifieds', 'Daily');" target="_blank">Classifieds</a>
+                  <ul>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/jobs/search" onClick="ga('send', 'event', 'Top Navigation', 'Jobs', 'Daily');" target="_blank">Jobs</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/real-estate/search" onClick="ga('send', 'event', 'Top Navigation', 'Real Estate', 'Daily');" target="_blank">Real Estate</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/services/search" onClick="ga('send', 'event', 'Top Navigation', 'Services', 'Daily');" target="_blank">Services</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/marketplace/search" onClick="ga('send', 'event', 'Top Navigation', 'Marketplace', 'Daily');" target="_blank">Marketplace</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/body-mind-soul/search" onClick="ga('send', 'event', 'Top Navigation', 'Body, Mind & Soul', 'Daily');" target="_blank">Body, Mind & Soul</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/music/search" onClick="ga('send', 'event', 'Top Navigation', 'Music', 'Daily');" target="_blank">Music</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/back-page/search" onClick="ga('send', 'event', 'Top Navigation', 'Back Page', 'Daily');" target="_blank">Back Page</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/adult/search" onClick="ga('send', 'event', 'Top Navigation', 'Adult', 'Daily');" target="_blank">Adult</a></li>
+                    <li><a href="http://austinchronicle.adperfect.com/" onClick="ga('send', 'event', 'Top Navigation', 'Place an Ad', 'Daily');" target="_blank">Place an Ad</a></li>
+                  </ul>
+                </li>
+                <li><a href="/site-map/" onClick="ga('send', 'event', 'Top Navigation', 'More', 'Daily');">MORE</a>
+                  <ul>
+                    <li><a href="/best-of-austin/" onClick="ga('send', 'event', 'Top Navigation', 'Best of Austin', 'Daily');">Best of Austin</a></li>
+                    <li><a href="/columns/" onClick="ga('send', 'event', 'Top Navigation', 'Columns', 'Daily');">Columns</a></li>
+                    <li><a href="/comics/" onClick="ga('send', 'event', 'Top Navigation', 'Comics', 'Daily');">Comics</a></li>
+                    <li><a href="/comments/" onClick="ga('send', 'event', 'Top Navigation', 'Comments', 'Daily');">Comments</a></li>
+                    <li><a href="/crossword/" onClick="ga('send', 'event', 'Top Navigation', 'Crossword', 'Daily');">Crossword</a></li>
+                    <li><a href="/feedback/" onClick="ga('send', 'event', 'Top Navigation', 'Letters', 'Daily');">Letters</a></li>
+                    <li><a href="/newsletters/" onClick="ga('send', 'event', 'Top Navigation', 'Newsletters', 'Daily');">Newsletters</a></li>
+                    <li><a href="/columns/oops/" onClick="ga('send', 'event', 'Top Navigation', 'Oops!', 'Daily');">Oops!</a></li>
+                    <li><a href="/photos/" onClick="ga('send', 'event', 'Top Navigation', 'Photos', 'Daily');">Photos</a></li>
+                    <li><a href="/welcome/" onClick="ga('send', 'event', 'Top Navigation', 'Welcome to Austin', 'Daily');">Welcome to Austin</a></li>
+                    <li><a href="/issues/" onClick="ga('send', 'event', 'Top Navigation', 'Archives', 'Daily');">Archives</a></li>
+                    <li><a href="/site-map/" onClick="ga('send', 'event', 'Top Navigation', 'Site Map', 'Daily');">Site Map</a>
+                  </ul>
+                </li>
+                <li><a href="/gyrobase/Archive/search" onClick="ga('send', 'event', 'Top Navigation', 'Search', 'Daily');">SEARCH</a></li>
+                <li><a href="/site-map/" onClick="ga('send', 'event', 'Top Navigation', 'Site Map', 'Daily');">SITE MAP</a></li>
+                <li><a href="/contact/" onClick="ga('send', 'event', 'Top Navigation', 'Contact Us', 'Daily');">Contact</a></li>
+                <li><a href="/privacy-policy/" onClick="ga('send', 'event', 'Top Navigation', '', 'Daily');">Privacy Policy</a></li>
+                <li><a href="/advertise-with-us/" onClick="ga('send', 'event', 'Top Navigation', 'Advertise With Us', 'Daily');">Advertise With Us</a></li>
+                <li><a href="/jobs/" onClick="ga('send', 'event', 'Top Navigation', '', 'Daily');">Internships & Jobs</a></li>
+              </ul>
+              </nav>
+              <div class="m-search">
+                <div class="msmenu"><a id="mmbutton" href="#menu"></a></div>
+                <div id="mmicon-hide" style="display:none"></div>
+              </div>
+            </div>
+          </div>
+          <div class="top-ad"><div class="adslot" id="div-gpt-ad-1354205884549-2" style="width:320px;height:50px;" data-ad-unit="Littleboard" data-section="News"></div></div>
+        </div>
+        <!--END MOBILE HEADER CODE-->
+        <!--BEGIN DESKTOP MENU AND LOGO-->
+        <div class="logo-nav">
+        <div class="inner-logo-nav">
+          <div class="logo"><a href="/">
+            <img class="logo-image" src="/Images/logo2.png">
+          </a></div>
+          <div class="menu">
+            <div id="nav">  
+              <ul>
+                <li><a href="/news/" onClick="ga('send', 'event', 'Top Navigation', 'News', 'Daily');">News</a>
+                  <ul>
+                    <li><a href="/news/" onClick="ga('send', 'event', 'Top Navigation', 'News Home', 'Daily');">News Home</a></li>
+                    <li><a href="/daily/news/" onClick="ga('send', 'event', 'Top Navigation', 'Daily News', 'Daily');">Daily News</a></li>
+                    <li><a href="/latest/news/point-austin/" onClick="ga('send', 'event', 'Top Navigation', 'Point Austin', 'Daily');">Point Austin</a></li>
+                    <li><a href="/latest/news/public-notice/" onClick="ga('send', 'event', 'Top Navigation', 'Public Notice', 'Daily');">Public Notice</a></li>
+                    <li><a href="/latest/news/notes-on-kamp/" onClick="ga('send', 'event', 'Top Navigation', 'Notes on Kamp', 'Daily');">Notes on Kamp</a></li>
+                    <li><a href="/latest/news/civics-101/" onClick="ga('send', 'event', 'Top Navigation', 'Civic Events', 'Daily');">Civic Events</a></li>
+                    <li><a href="/elections" onClick="ga('send', 'event', 'Top Navigation', 'Elections', 'Daily');">Elections</a></li>
+                    <li><a href="/news/archives/" onClick="ga('send', 'event', 'Top Navigation', 'News Archives', 'Daily');">News Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/food/" onClick="ga('send', 'event', 'Top Navigation', 'Food', 'Daily');">Food</a>
+                  <ul>
+                    <li><a href="/food/" onClick="ga('send', 'event', 'Top Navigation', 'Food Home', 'Daily');">Food Home</a></li>
+                    <li><a href="/daily/food/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Food', 'Daily');">Daily Food</a></li>
+                    <li><a href="/latest/food/food-events/" onClick="ga('send', 'event', 'Top Navigation', 'Food Events', 'Daily');">Food Events</a></li>
+                    <li><a href="/latest/food/the-take-out/" onClick="ga('send', 'event', 'Top Navigation', 'The Take-Out', 'Daily');">The Take-Out</a></li>
+                    <li><a href="/latest/food/food-fight/" onClick="ga('send', 'event', 'Top Navigation', 'Food Fight', 'Daily');">Food Fight</a></li>
+                    <li><a href="/food/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/gyrobase/Guides/restaurant" onClick="ga('send', 'event', 'Top Navigation', 'Restaurant Guide', 'Daily');">Restaurant Guide</a></li>
+                    <li><a href="/food/first-plates/" onClick="ga('send', 'event', 'Top Navigation', 'First Plates', 'Daily');">First Plates</a></li>
+                    <li><a href="/hot-sauce/" onClick="ga('send', 'event', 'Top Navigation', 'Hot Sauce Festival', 'Daily');">Hot Sauce Festival</a></li>
+                    <li><a href="/food/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Food Archives', 'Daily');">Food Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music', 'Daily');">Music</a>
+                  <ul>
+                    <li><a href="/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Home', 'Daily');">Music Home</a></li>
+                    <li><a href="/daily/music/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Music', 'Daily');">Daily Music</a></li>
+                    <li><a href="/latest/music/playback" onClick="ga('send', 'event', 'Top Navigation', 'Playback', 'Daily');">Playback</a></li>
+                    <li><a href="/music/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/calendar/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Listings', 'Daily');">Music Listings</a></li>
+                    <li><a href="/austin-music-awards/year:2015/category:best-of-the-year/" onClick="ga('send', 'event', 'Top Navigation', 'Austin Music Awards', 'Daily');">Austin Music Awards</a></li>
+                    <li><a href="/ama/" onClick="ga('send', 'event', 'Top Navigation', 'Austin Music Awards Show', 'Daily');">Austin Music Awards Show</a></li>
+                    <li><a href="/music/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Music Archives', 'Daily');">Music Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Screens', 'Daily');">Screens</a>
+                  <ul>
+                    <li><a href="/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Screens Home', 'Daily');">Screens Home</a></li>
+                    <li><a href="/daily/screens/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Screens', 'Daily');">Daily Screens</a></li>
+                    <li><a href="/screens/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Reviews', 'Daily');">Reviews</a></li>
+                    <li><a href="/calendar/film/" onClick="ga('send', 'event', 'Top Navigation', 'Film Listings', 'Daily');">Film Listings</a></li>
+                    <li><a href="/latest/screens/i-like-to-watch/" onClick="ga('send', 'event', 'Top Navigation', 'I Like to Watch', 'Daily');">I Like to Watch</a></li>
+                    <li><a href="/screens/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Screens Archives', 'Daily');">Screens Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts & Culture', 'Daily');">Arts</a>
+                  <ul>
+                    <li><a href="/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Home', 'Daily');">Arts Home</a></li>
+                    <li><a href="/daily/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Daily Arts', 'Daily');">Daily Arts</a></li>
+                    <li><a href="/calendar/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Listings', 'Daily');">Arts Listings</a></li>
+                    <li><a href="/arts/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Reviews', 'Daily');">Arts Reviews</a></li>
+                    <li><a href="/books/reviews/" onClick="ga('send', 'event', 'Top Navigation', 'Book Reviews', 'Daily');">Book Reviews</a></li>
+                    <li><a href="/gay-place/" onClick="ga('send', 'event', 'Top Navigation', 'Gay Place', 'Daily');">Gay Place</a></li>
+                    <li><a href="/short-story-contest/" onClick="ga('send', 'event', 'Top Navigation', 'Short Story Contest', 'Daily');">Short Story Contest</a></li>
+                    <li><a href="/arts/archives/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Archives', 'Daily');">Arts Archives</a></li>
+                  </ul>
+                </li>
+                <li><a href="/calendar/" onClick="ga('send', 'event', 'Top Navigation', 'Calendar', 'Daily');">Calendar</a>
+                  <ul>
+                    <li><a href="/calendar/" onClick="ga('send', 'event', 'Top Navigation', 'Recommended Events', 'Daily');">Recommended Events</a></li>
+                    <li><a href="/calendar/music/" onClick="ga('send', 'event', 'Top Navigation', 'Music Listings', 'Daily');">Music Listings</a></li>
+                    <li><a href="/calendar/film/" onClick="ga('send', 'event', 'Top Navigation', 'Film Listings', 'Daily');">Film Listings</a></li>
+                    <li><a href="/calendar/arts/" onClick="ga('send', 'event', 'Top Navigation', 'Arts Listings', 'Daily');">Arts Listings</a></li>
+                    <li><a href="/calendar/community/" onClick="ga('send', 'event', 'Top Navigation', 'Community Listings', 'Daily');">Community Listings</a></li>
+                    <li><a href="/latest/food/food-events/" onClick="ga('send', 'event', 'Top Navigation', 'Food Events', 'Daily');">Food Events</a></li>
+                    <li><a href="/gyrobase/EventSubmission" onClick="ga('send', 'event', 'Top Navigation', 'Submit an Event', 'Daily');">Submit an Event</a></li>
+                    <li><a href="/app/" onClick="ga('send', 'event', 'Top Navigation', 'AC Calendar App', 'Daily');">AC Calendar App</a></li>
+                  </ul>
+                </li>
+                <li><a href="/events-and-promotions/" onClick="ga('send', 'event', 'Top Navigation', 'Promo', 'Daily');">Promo</a>
+                  <ul>
+                    <li><a href="/events-and-promotions/" onClick="ga('send', 'event', 'Top Navigation', 'Promotions Home', 'Daily');">Promotions Home</a></li>
+                    <li><a href="/events-and-promotions/events/" onClick="ga('send', 'event', 'Top Navigation', 'Featured Events', 'Daily');">Featured Events</a></li>
+                    <li><a href="/events-and-promotions/contests/" onClick="ga('send', 'event', 'Top Navigation', 'Online Contests', 'Daily');">Online Contests</a></li>
+                    <li><a href="/daily/chrontourage/" onClick="ga('send', 'event', 'Top Navigation', 'Events Blog', 'Daily');">Events Blog</a></li>
+                  </ul>
+                </li>
+                <li><a href="http://www.austinchronicleclassifieds.com/" onClick="ga('send', 'event', 'Top Navigation', 'Classifieds', 'Daily');" target="_blank">Classifieds</a>
+                  <ul>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/jobs/search" onClick="ga('send', 'event', 'Top Navigation', 'Jobs', 'Daily');" target="_blank">Jobs</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/real-estate/search" onClick="ga('send', 'event', 'Top Navigation', 'Real Estate', 'Daily');" target="_blank">Real Estate</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/services/search" onClick="ga('send', 'event', 'Top Navigation', 'Services', 'Daily');" target="_blank">Services</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/marketplace/search" onClick="ga('send', 'event', 'Top Navigation', 'Marketplace', 'Daily');" target="_blank">Marketplace</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/body-mind-soul/search" onClick="ga('send', 'event', 'Top Navigation', 'Body, Mind & Soul', 'Daily');" target="_blank">Body, Mind & Soul</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/music/search" onClick="ga('send', 'event', 'Top Navigation', 'Music', 'Daily');" target="_blank">Music</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/back-page/search" onClick="ga('send', 'event', 'Top Navigation', 'Back Page', 'Daily');" target="_blank">Back Page</a></li>
+                    <li><a href="http://www.austinchronicleclassifieds.com/austin/adult/search" onClick="ga('send', 'event', 'Top Navigation', 'Adult', 'Daily');" target="_blank">Adult</a></li>
+                    <li><a href="http://austinchronicle.adperfect.com/" onClick="ga('send', 'event', 'Top Navigation', 'Place an Ad', 'Daily');" target="_blank">Place an Ad</a></li>
+                  </ul>
+                </li>
+                <li><a href="/site-map/" onClick="ga('send', 'event', 'Top Navigation', 'More', 'Daily');">MORE</a>
+                  <ul>
+                    <li><a href="/best-of-austin/" onClick="ga('send', 'event', 'Top Navigation', 'Best of Austin', 'Daily');">Best of Austin</a></li>
+                    <li><a href="/columns/" onClick="ga('send', 'event', 'Top Navigation', 'Columns', 'Daily');">Columns</a></li>
+                    <li><a href="/comics/" onClick="ga('send', 'event', 'Top Navigation', 'Comics', 'Daily');">Comics</a></li>
+                    <li><a href="/comments/" onClick="ga('send', 'event', 'Top Navigation', 'Comments', 'Daily');">Comments</a></li>
+                    <li><a href="/crossword/" onClick="ga('send', 'event', 'Top Navigation', 'Crossword', 'Daily');">Crossword</a></li>
+                    <li><a href="/feedback/" onClick="ga('send', 'event', 'Top Navigation', 'Letters', 'Daily');">Letters</a></li>
+                    <li><a href="/newsletters/" onClick="ga('send', 'event', 'Top Navigation', 'Newsletters', 'Daily');">Newsletters</a></li>
+                    <li><a href="/columns/oops/" onClick="ga('send', 'event', 'Top Navigation', 'Oops!', 'Daily');">Oops!</a></li>
+                    <li><a href="/photos/" onClick="ga('send', 'event', 'Top Navigation', 'Photos', 'Daily');">Photos</a></li>
+                    <li><a href="/welcome/" onClick="ga('send', 'event', 'Top Navigation', 'Welcome to Austin', 'Daily');">Welcome to Austin</a></li>
+                    <li><a href="/issues/" onClick="ga('send', 'event', 'Top Navigation', 'Archives', 'Daily');">Archives</a></li>
+                    <li><a href="/site-map/" and onClick="ga('send', 'event', 'Top Navigation', 'Site Map', 'Daily');">Site Map</a>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+        <!--END DESKTOP MENU AND LOGO-->
+      </div>
+      <!---END HEADER--->
+      <!---BEGIN PAGE BODY--->
+      <div class="middle headroom--unpinned">
+        
+          <!-- DesktopPushdown -->
+          <div class="adslot desktop-pushdown" id="div-gpt-ad-1354205884549-9" style="width:970px;height:30px;" data-ad-unit="DesktopPushdown" data-section=""></div>
+        
+        
+        <!-- Included Templates: /Templates/Object/BlogEntry.html /Helpers/Object.html, /Helpers/Object/BlogEntry.html -->
+        
+
+    <div class="section-title title-v-space"><a href="/daily/news/">Daily News</a></div>
+    <div class="section">
+      <div class="left">
+        <div class="article-content" id="article-content">
+          <article>
+  
+  
+  
+  
+    <h1>Officer-Involved Shooting in Northeast Austin</h1>
+  
+  <h2>18-year-old black man dies at hospital following gunshot wound</h2>
+  
+  
+  <h4 class="byline">By <a href="/authors/chase-hoffberger/" title="more by Chase Hoffberger">Chase Hoffberger</a>, <nobr> 2:30PM, Mon. Feb.  8, 2016</nobr></h4>
+  
+  <!-- /daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/??? -->
+  <div class="share-icons">
+  <div class="share-m">
+    <div class="socialicons">
+      <div class="sicon">
+        <a href="http://www.facebook.com/sharer/sharer.php?u=http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/" target="_blank" title="share on Facebook"><img src="/Images/social/fb.png" width="50" height="50"></a>
+      </div>
+      <div class="sicon">
+        <a href="http://twitter.com/share?url=http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/&text=Officer-Involved+Shooting+in+Northeast+Austin%3A+18-year-old+black+man+dies+at+hospital+following+gunshot+wound" target="_blank" title="share on Twitter"><img src="/Images/social/twitter.png" width="50" height="50"></a>
+      </div>
+      <div class="sicon">
+        <a href="https://plus.google.com/share?url=http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/" target="_blank" title="share on Google+"><img src="/Images/social/gplus.png" width="50" height="50"></a>
+      </div>
+      <div class="sicon">
+        <a href="http://www.stumbleupon.com/submit?url=http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/" target="_blank" title="share on StumbleUpon"><img src="/Images/social/stumble.png" width="50" height="50"></a>
+      </div>
+      <div class="sicon">
+        <a href="print/" title="print-friendly version"><img src="/Images/social/print.png" width="50" height="50"></a>
+      </div>
+      <div class="sicon">
+        <a href="/gyrobase/Postmark" title="write a letter to the editor"><img src="/Images/social/write.png" width="50" height="50"></a>
+      </div>
+    </div>
+  </div>
+  <div class="shareFieldsetWrapper">
+    <div id="share-facebook"><div class="fb-share-button" data-href="http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div></div>
+
+    <div id="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/">Tweet</a></div>
+    <div><span id="shareGoogle" class="shareItem" rel="oid:1816921" data-cn="0" data-service="google"><g:plusone size="medium"></g:plusone><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script></span></div>
+    <div id="share-stumble"><span id="shareStumbleUpon" class="shareItem" rel="oid:1816921" data-service="stumbleupon"><su:badge layout="1"></su:badge></span></div>
+    <script type="text/javascript">
+    (function() {
+      var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+      li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+    })();
+    </script>
+    <div id="share-print"><span id="printArticle" class="shareItem" rel="oid:1532530" data-cn="0" data-service="printArticle" name="printArticle"><a href="print/" class="print" id="printLink" name="printLink" align="left" title="print article" style="color:#258DB1;"><span class="shareIcon" style="background-image:url('/Images/printer.gif');background-position:0 0;width:20px;height:20px;"></span> <b>print</b></a></span></div>
+    <div id="share-letter"><span id="editorLetter" class="shareItem" rel="oid:1532530" data-cn="0" data-service="editorLetter" name="editorLetter"><a href="http://www.austinchronicle.com/gyrobase/Postmark" class="print" id="letterLink" name="letterLink" align="left" title="letter to the editor" style="color:#258DB1;"><span class="shareIcon" style="background-image:url('/Images/letter.gif');background-position:0 0;width:20px;height:20px;"></span> <b>write a letter</b></a></span></div>
+    </div>
+  </div>
+  <div class="copy">
+    
+    
+    
+    
+      
+         <div class="imageRight">
+          
+            <a href="/binary/54d2/Austin_Police.jpg" class="lightbox"><img src="/imager/b/newfeature/1816921/54d2/Austin_Police.jpg" alt="Officer-Involved Shooting in Northeast Austin"></a>
+          
+          
+          
+        </div>
+      
+      <p><b>Update</b>: APD has identified the involved officer, as well as the victim in yesterday’s shooting. For an update on the story, <a href="http://www.austinchronicle.com/daily/news/2016-02-09/apd-releases-name-of-officer-involved-in-shooting/">go here</a>.</p>
+    
+    
+    
+    
+      <p><b>Original Story</b>: An <b>18-year-old black man</b> was shot and killed by an Austin Police officer this morning in Northeast Austin, shortly after 10:30am.</p>
+
+<p>The 18-year-old, who has not yet been identified by police, was shot by a 10-year veteran of APD who was immediately placed on administrative leave, as is customary with officer involved shootings. A spokesperson for the department declined to identify the officer.</p>
+
+<p>According to <b>APD Chief of Staff Brian Manley</b>, who held a press conference shortly after the shooting, police were called to the 12000 block of <b>Nature’s Bend</b> in Northeast Austin – just south of Parmer Lane – at 9:57am after receiving a number of calls about a “suspicious man” acting “erratically” around the neighborhood.</p>
+
+<p>Police reported that the 18-year-old was <b>naked</b> when they found him in the neighborhood. He was issued directives from responding officers but did not to follow them. Manley said the 18-year-old began charging at the officer, at which point the officer fired his gun. <b>Austin-Travis County medics</b> responded to the scene at 10:26am and took the body to <b>St. David’s Round Rock Medical Center</b>, where he died.</p>
+
+<p>Department Public Information Officials have not commented on whether the 18-year-old was armed when he was shot, but his lack of clothing suggests that any potential weapon he possessed would have been held in one of his hands and in full sight. Police said <b>dashboard camera footage</b> from APD vehicles captured video of some of the incident but did not catch the shooting – although it did pick up audio, Manley said, of the officer ordering the 18-year-old to stay back. Police did not comment on whether or not the 18-year-old was captured on the dashboard camera footage at any point, and did not say whether APD found a gun that didn’t belong to the department anywhere in the vicinity.</p>
+
+<p>Check back with the <i>Chronicle</i> for further updates.</p>
+    
+  </div>
+  
+  
+
+  
+  </article>
+  <a name="comments"></a>
+  
+    <script type="text/javascript">
+  var userInfo;
+  $.ajax({
+    url: "/gyrobase/Registration/DisqusInfo",
+    async: false,
+    success: function(data){
+      userInfo = data;  
+    }
+  });
+  var disqus_config = function () {
+    userInfo = $.trim(userInfo);
+    userInfo = userInfo.replace(/\n/g, " ");
+    this.page.remote_auth_s3 = userInfo;
+    console.log(userInfo);
+    this.page.api_key = '1gc0ZHJNguTcMkx5oVhws7FRVzXKu5ayX29w9DuqqYkXuytfjczl2xZPhv7nFaiU';
+    this.sso = {
+      name:   "Chronicle",
+      icon:   "http://www.austinchronicle.com/favicon.ico",
+      url:    "http://www.austinchronicle.com/gyrobase/Registration/DisqusLogin",
+      logout: "http://www.austinchronicle.com/gyrobase/Registration/DisqusLogin?signout=true",
+      width:  "400",
+      height: "350"
+    };
+  };
+  </script>
+  <div class="clear top-line"></div>
+  <a name="post" id="post"></a>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+  var disqus_shortname = 'theaustinchronicle';
+//  var disqus_developer = 1;
+  
+  var disqus_title = 'Officer-Involved Shooting in Northeast Austin';
+  var disqus_identifier = '1816921';
+  var disqus_url = 'http://www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/';
+  (function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view comments.</noscript>
+  
+  
+    
+    
+      <div id="read-more-box">
+        <div id="read-more-head" class="section-title">READ MORE</div>
+        <div class="more-head First">
+More <strong>Officer-Involved Shooting</strong>
+</div>
+<div class="article-container first">
+<div class="article-image">
+<a href="/daily/news/2016-04-25/fifth-officer-involved-shooting-of-2016-reported-friday-night/" title="Fifth Officer-Involved Shooting of 2016 Reported Friday Night">
+<img class="tall" src="/imager/b/blogindex/1842021/a519/APD_Badge.jpg" alt="Fifth Officer-Involved Shooting of 2016 Reported Friday Night" style="width:100px;height:100px;">
+</a>
+</div>
+<div class="article-text">
+<div class="article-headline dotdotdot">
+<a class="article-headline-a" href="/daily/news/2016-04-25/fifth-officer-involved-shooting-of-2016-reported-friday-night/">Fifth Officer-Involved Shooting of 2016 Reported Friday Night</a>
+</div>
+<div class="article-description">Subject shot dead after charging at officer with knives</div>
+</div>
+<h4 class="article-writer">Chase Hoffberger, April 25, 2016</h4>
+</div>
+<div class="article-container second">
+<div class="article-image">
+<a href="/daily/news/2016-04-14/apd-officer-shot-in-thursday-morning-swat-standoff/" title="APD Officer Shot in Thursday Morning SWAT Standoff">
+<img class="tall" src="/imager/b/blogindex/1839719/b50f/APD_Badge.jpg" alt="APD Officer Shot in Thursday Morning SWAT Standoff" style="width:100px;height:100px;">
+</a>
+</div>
+<div class="article-text">
+<div class="article-headline dotdotdot">
+<a class="article-headline-a" href="/daily/news/2016-04-14/apd-officer-shot-in-thursday-morning-swat-standoff/">APD Officer Shot in Thursday Morning SWAT Standoff</a>
+</div>
+<div class="article-description">Officer currently being treated for non-life threatening injuries</div>
+</div>
+<h4 class="article-writer">Chase Hoffberger, April 14, 2016</h4>
+</div>
+<a href="/authors/chase-hoffberger/" title="all stories by Chase Hoffberger">
+<div class="more-head ">
+More by <strong>Chase Hoffberger</strong>
+</div>
+</a>
+<div class="article-container first">
+<div class="article-image">
+<a href="/news/2016-04-29/reasonable-doubt/" title="Reasonable Doubt">
+<img class="tall" src="/imager/b/blogindex/1843147/9236/pols_feature1-1.jpg" alt="Reasonable Doubt" style="position:relative;width:100px;height:150px;top:0%;">
+</a>
+</div>
+<div class="article-text">
+<div class="article-headline dotdotdot">
+<a class="article-headline-a" href="/news/2016-04-29/reasonable-doubt/">Reasonable Doubt</a>
+</div>
+<div class="article-description">Louis Perez has spent nearly two decades on death row. Does he deserve to be there?</div>
+</div>
+<h4 class="article-writer">April 29, 2016</h4>
+</div>
+<div class="article-container second">
+<div class="article-image">
+<a href="/news/2016-04-29/death-watch-longtime-death-row-inmate-dies/" title="Death Watch: Longtime Death Row Inmate Dies">
+<img class="tall" src="/imager/b/blogindex/1843297/4d42/pols_feature23.jpg" alt="Death Watch: Longtime Death Row Inmate Dies" style="position:relative;height:100px;width:200px;left:-50%;">
+</a>
+</div>
+<div class="article-text">
+<div class="article-headline dotdotdot">
+<a class="article-headline-a" href="/news/2016-04-29/death-watch-longtime-death-row-inmate-dies/">Death Watch: Longtime Death Row Inmate Dies</a>
+</div>
+<div class="article-description">Max Soffar has died of liver cancer</div>
+</div>
+<h4 class="article-writer">April 29, 2016</h4>
+</div>
+<div class="more-head"><strong>KEYWORDS</strong> FOR THIS POST</div>
+<p style="margin:0;line-height:18px;"><a class="nobr" href="/gyrobase/Archive/search?Search=Officer-Involved Shooting" title="search for 'Officer-Involved Shooting'" onClick="ga('send', 'event', 'Read More Box', 'Keywords', 'Daily');">Officer-Involved Shooting</a>, <a class="nobr" href="/gyrobase/Archive/search?Search=Brian Manley" title="search for 'Brian Manley'" onClick="ga('send', 'event', 'Read More Box', 'Keywords', 'Daily');">Brian Manley</a>, <a class="nobr" href="/gyrobase/Archive/search?Search=Austin Police Department" title="search for 'Austin Police Department'" onClick="ga('send', 'event', 'Read More Box', 'Keywords', 'Daily');">Austin Police Department</a></p>
+        <div class="more-head" style="padding-top:5px;margin:6px 0 0;border-bottom:none;"></div>
+        <a href="/issues/"><div id="read-more-foot" class="section-title">MORE IN THE ARCHIVES</div></a>
+      </div>
+    
+  
+  
+
+        </div>
+      </div>
+      <div class="right-col-article">
+      
+        <div class="module event-module m-right-pad">
+      
+        <div class="section-title"><a href="/calendar/2016-04-30/">TODAY'S EVENTS</a></div>
+      
+      
+        
+          <div class="article-snip-right no-top-border">
+          
+            
+            <div class="article-image-section">
+              <a href="/calendar/music/geno-delafose-and-the-french-rockin-boogie-1840271/" title="Geno Delafose & French Rockin’ Boogie"><img src="/imager/b/blogindex/1840271/168c/10402854_687076387994198_4133657032072297716_n.jpg" border="0" alt="" title="" style="position:absolute; top:0px; width:100px;" /></a>
+            </div>
+          
+          <div class="article-text-section">
+            <div class="article-headline-section deep dotdotdot">
+              <a class="article-headline-link" href="/calendar/music/geno-delafose-and-the-french-rockin-boogie-1840271/" title="Geno Delafose & French Rockin’ Boogie">
+                Geno Delafose & French Rockin’ Boogie
+              </a>
+              <div class="corner"></div>
+            </div>
+            
+              <div class="article-description-section">
+                C-Boy's Heart & Soul
+              </div>
+            
+          </div>
+        </div>
+        
+      
+        
+      
+        
+      
+        
+      
+      
+        
+      
+        
+          
+        
+      
+        
+          <div class="article-headline-bullet">
+          <a class="article-headline-bullet-link" href="/calendar/film/special-screenings/1842408/">
+            <span class="bullet-head">Purple Rain</span><br><span class="bullet-desc"><span>at iPic Theaters Austin</span></span>
+          </a>
+        </div>
+        
+      
+        
+          <div class="article-headline-bullet">
+    <a class="article-headline-bullet-link" href="/calendar/events/eeyores-birthday-1842417/">
+      <span class="bullet-head">Eeyore's Birthday</span> <br><span class="bullet-desc">at Pease Park</span>
+    </a>
+  </div>
+        
+      
+      <div class="event-cat-container">
+        <a class="event-cat" href="/calendar/music/">MUSIC</a> | <a class="event-cat" href="/calendar/film/">FILM</a> | <a class="event-cat" href="/calendar/arts/">ARTS</a> | <a class="event-cat" href="/calendar/community/">COMMUNITY</a>
+      </div>
+    </div>
+      
+      <div class="module ad-right"><div class="adslot" id="div-gpt-ad-1354205884549-3" style="width:300px;height:250px;" data-ad-unit="Rectangle" data-section="News"></div></div>
+      <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
+  <div id="newsletter-box" class="module m-right-pad">
+    <div class="chron-module">
+      <div class="cm-header">NEWSLETTERS</div>
+      <div class="cm-body-cast">
+        <div class="event-details">
+          <div class="form-container" style="padding:0;">  
+            <div class="theform" id="theform">
+              <div style="display: none;" class="results" id="results"></div>
+              <div class="form2" id="form2">
+                <form id="myform" name="myform" method="POST" action="">
+                  <div class="top">
+                    
+                      <input name="email" type="text" id="email" class="nl-imput" onfocus="if (this.value == 'Your Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your Email Address';}" value="Your Email Address">
+                    
+                  </div>
+                  <div id="error-note"></div>
+                  <div class="bot">
+                    <input type="checkbox" onClick="toggle(this)" name="ckbxall" id="ckbxall" class="ckbxall" />
+                    <label class="css-label" id="sub-to-all" for="ckbxall"><span></span>Subscribe to All</label>
+                    <div class="desc">AC Daily, Events and Promotions, Luvdoc Answers</div>
+                    
+                      
+                      <input type="checkbox" class="selectedId" name="list[16]" value="signup" id="daily"/>
+                      <label class="css-label" for="daily"><span></span>Chronicle Daily</label><br />
+                      <div class="desc">Breaking news, recommended events, and more</div>
+                    
+                      
+                      <input type="checkbox" class="selectedId" name="list[3]" value="signup" id="events"/>
+                      <label class="css-label" for="events"><span></span>Events and Promotions</label><br />
+                      <div class="desc">Official Chronicle events, promotions, and giveaways</div>
+                    
+                      
+                      <input type="checkbox" class="selectedId" name="list[5]" value="signup" id="luvdoc"/>
+                      <label class="css-label" for="luvdoc"><span></span>Luv Doc Answers</label><br />
+                      <div class="desc">All questions answered (satisfaction not guaranteed)</div>
+                    
+                    <input name="subscribe" value="1" type="hidden">
+                    <input name="htmlemail" value="1" type="hidden">
+                    <div class="sub">
+                      <input disabled="disabled" name="Subscribe" id="Subscribe" value="Subscribe" onclick="ga('send', 'event', 'Newsletter Signup', 'subscribe', 'Home');" type="submit">
+                    </div>
+                  </div>
+                </form>
+              </div>
+              <div class="preferences" style="text-align:center; float: left">
+                <a href="/newsletters/unsubscribe/" onclick="ga('send', 'event', 'Newsletter Signup', 'unsubscribe', 'Home');">unsubscribe</a>
+              </div>
+              <div class="preferences" style="text-align:center; float: right">
+                <a href="/newsletters/preferences/" onclick="ga('send', 'event', 'Newsletter Signup', 'preferences', 'Home');">preferences</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script>
+function toggle(source) {
+  var checkboxes = $('.selectedId');
+  for(var i=0, n=checkboxes.length;i<n;i++) {
+    checkboxes[i].checked = source.checked;
+  }
+}
+$(document).ready(function(){
+  $('#results').hide();
+  var checkboxes = $("#newsletter-box input[type='checkbox']"),
+  submitButt = $("#newsletter-box input[type='submit']");
+  checkboxes.click(function() {
+    submitButt.attr("disabled", !checkboxes.is(":checked"));
+  });
+  $('.selectedId').click(function() {
+    if ($('.selectedId:checked').length < 3) {
+      $('#ckbxall').prop('checked', false);
+    } else {
+      $('#ckbxall').prop('checked', true);
+    }
+  });
+  $("#myform").validate({
+    errorLabelContainer: "#error-note",
+    errorElement: "span",
+    debug: false,
+    rules: {
+      email: {
+        required: true,
+        email: true
+      }
+    },
+    messages: {
+      email: "Please use a valid-looking email address"
+    },
+    submitHandler: function(form) {
+      // do other stuff for a valid form
+      $.ajax({
+        type: 'POST',
+        data: $('#myform').serialize(),
+        url: 'http://newsletters.austinchronicle.com/lists/?p=subscribe&id=1',
+        success: function(response) {
+          var pattern = /Thank you for subscribing/,
+          pattern2 = /A subscriber with that address already exists/,
+          verdict;
+          if (pattern.test(response)) {
+            verdict = "Thank you for subscribing. You should receive an email asking you to confirm your subscription.";
+          } else if (pattern2.test(response)) {
+            verdict = "A subscriber with that address already exists.<br><a href='/newsletters/preferences/' style='text-decoration:underline;'>Update your preferences.</a>";
+          } else {
+            verdict = "There was a problem signing you up, please try again later.";
+          }
+          $('#results').html(verdict);
+          $('#results').slideDown().delay(5000).slideUp();
+          $('#myform')[0].reset();
+        }
+      });
+    }
+  });
+});
+</script>
+      <div class="module ad-right"><div class="adslot" id="div-gpt-ad-1354205884549-5" style="width:300px;height:250px;" data-ad-unit="Rectangle2" data-section="News"></div></div>
+      </div>
+    </div>
+  
+
+<script src="/Scripts/responsive/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    $(".article-content").fitVids();
+    $('.article-content p a').text(function(index, longURL) {
+      if (longURL.length > 50) {
+        return longURL.replace(/([^\/])\/.+/, '$1');
+      }
+      return longURL;
+    });
+  });
+
+</script>
+
+
+      </div>
+      <!---END PAGE BODY--->
+      <!---BEGIN FOOTER--->
+      <!-- BottomLeaderboard -->
+      
+      <div class="bottom-ad-desktop"><div class="adslot" id="div-gpt-ad-1354205884549-7" style="width:728px;height:90px;" data-ad-unit="BottomLB" data-section="News"></div></div>
+      <div class="bottom-ad"><div class="adslot" id="div-gpt-ad-1354205884549-8" style="width:320px;height:50px;" data-ad-unit="BottomLittle" data-section="News"></div></div>
+      
+      <div class="footer">
+        <div class="footer-mobile">
+          Copyright © 1981-2016 Austin Chronicle Corp. All rights reserved.
+          <div class="footer-links"><a href="/contact/" onClick="ga('send', 'event', 'Bottom Links', 'Contact', 'Daily');">CONTACT</a> &bull; <a href="/privacy-policy/" onClick="ga('send', 'event', 'Bottom Links', 'Privacy Policy', 'Daily');">PRIVACY POLICY</a> &bull; <a href="/advertise-with-us/" onClick="ga('send', 'event', 'Bottom Links', 'Advertise With Us', 'Daily');">ADVERTISE WITH US</a> &bull; <a href="/jobs/" onClick="ga('send', 'event', 'Bottom Links', 'Internships & Jobs', 'Daily');">INTERNSHIPS & JOBS</a> &bull; <a href="/site-map/">SITE MAP</a></div>
+        </div>
+      </div>
+      <!---END FOOTER--->
+    </div>
+  
+</body>
+
+<script src="/Scripts/modernizr.custom.91323.js"></script>
+<script>
+function dotDot() {
+  $('.dotdotdot').ellipsis('a', { live: false });
+  $('.archive-description.dotdotdot').ellipsis('', { live: false });
+  $('.module .dsq-widget-thread').ellipsis('', { live: false });
+  $('.intro-blog.contest').ellipsis('', { live: false });
+  $('.intro-blog.event').ellipsis('', { live: false });
+}
+$(document).ready(function() {
+  dotDot();
+});
+$(window).resize(function() {
+  setTimeout(dotDot, 200)
+});
+$(document).ready(function() {
+  $('.lightbox').magnificPopup({
+    type: 'image',
+    closeOnContentClick: true,
+    mainClass: 'mfp-img-mobile',
+    image: {
+      verticalFit: false
+    }
+  });
+  $('.popup-gallery').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    tLoading: 'Loading image #%curr%...',
+    mainClass: 'mfp-img-mobile',
+    gallery: {
+      enabled: true,
+      navigateByImgClick: true,
+      preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+    },
+    image: {
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+      titleSrc: function(item) {
+        return item.el.attr('title');
+      }
+    }
+  });
+  $('.wordbox').magnificPopup({
+    closeBtnInside: true
+  });
+  $('.simple-ajax-popup').magnificPopup({
+    type: 'ajax',
+    closeOnContentClick: false,
+    closeOnBgClick: false
+  });
+  $('.candidate-pop-link').magnificPopup({
+    type: 'inline',
+    midClick: true
+  });
+});
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-7apeS9pNVYMQo"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-7apeS9pNVYMQo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
++ ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+COMSCORE.beacon({
+  c1:2,
+  c2:"6035631",
+  c3:"",
+  c4:"www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/",
+  c5:"",
+  c6:"",
+  c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035631&c3=&c4=www.austinchronicle.com/daily/news/2016-02-08/officer-involved-shooting-in-northeast-austin/&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+</html>

@@ -1,0 +1,17 @@
+[1]@ABC
+
+   IFRAME:
+   [2]https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=h
+   ttps%3A%2F%2Famp.twimg.com%2Fprod%2Fmultibr_v_1%2Fvmap%2F2016%2F02%2F08
+   %2F16%2Fdc142306-0a47-4895-b822-9220cc904b30%2Fa2e2b7cb-ab0e-4369-8e27-
+   b6f11acb2721.vmap&duration=76.476%E2%84%91_src=https%3A%2F%2Famp.twimg.
+   com%2Fprod%2Fdefault%2F2016%2F02%2F08%2F16%2F77ad4375-120c-4f3b-b147-3a
+   4acf8cab3d_poster-1000.jpg&content_id=dc142306-0a47-4895-b822-9220cc904
+   b30&page=amplify_card
+
+   [twitter_logo.png] [twitter_logo_white.png]
+
+References
+
+   1. https://twitter.com/ABC
+   2. https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=https://amp.twimg.com/prod/multibr_v_1/vmap/2016/02/08/16/dc142306-0a47-4895-b822-9220cc904b30/a2e2b7cb-ab0e-4369-8e27-b6f11acb2721.vmap&duration=76.476ℑ_src=https://amp.twimg.com/prod/default/2016/02/08/16/77ad4375-120c-4f3b-b147-3a4acf8cab3d_poster-1000.jpg&content_id=dc142306-0a47-4895-b822-9220cc904b30&page=amplify_card

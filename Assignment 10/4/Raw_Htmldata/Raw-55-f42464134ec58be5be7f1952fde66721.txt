@@ -1,0 +1,421 @@
+<!-- bp2個別記事ページサンプル -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" href="http://parts.blog.livedoor.jp/css/template.css?v=20130404" type="text/css" />
+<link rel="stylesheet" href="http://blog.livedoor.jp/newsbox_newsbox/site.css?_=20150309112056" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://blog.livedoor.jp/newsbox_newsbox/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://blog.livedoor.jp/newsbox_newsbox/atom.xml" /><link rel="canonical" href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/newsbox_newsbox/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/newsbox_newsbox/article/1051686560" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" />
+
+	<meta name="description" content="
+Track Your Internet Connection in the New York Subway With This App - Gizmodo" />
+	<meta property="og:type" content="article" />
+<meta property="og:title" content="Tech. - Track Your Internet Connection in the New York Subway With This App : NewsBox" />
+<meta property="og:description" content="Track Your Internet Connection in the New York Subway With This App - Gizmodo" />
+<meta property="og:url" content="http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" />
+<meta property="og:image" content="http://livedoor.blogimg.jp/newsbox_newsbox/imgs/0/f/0f4862f9.jpg" />
+<meta property="og:site_name" content="NewsBox" />
+<meta property="og:locale" content="ja_JP" />
+<meta name="twitter:site" content="@newsbox_newsbox" />
+<meta name="twitter:title" content="Tech. - Track Your Internet Connection in the New York Subway With This App : NewsBox" />
+<meta name="twitter:description" content="Track Your Internet Connection in the New York Subway With This App - Gizmodo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="http://livedoor.blogimg.jp/newsbox_newsbox/imgs/0/f/0f4862f9.jpg" />
+	<!-- jqueryは必須 -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	
+	<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/newsbox_newsbox/" />
+	
+	<title>Tech. - Track Your Internet Connection in the New York Subway With This App : NewsBox</title>
+</head>
+<!-- 高さ合わせ -->
+<script type="text/javascript">
+jQuery(function(){msHeight();$(window).scroll(function(){msHeight()});function msHeight(){$("#main, #sub").attr("style",'');var min_hei=$(window).height();var m_hei=$("#main").height();var s_hei=$("#sub").height();if(m_hei<min_hei&&s_hei<min_hei){$("#main, #sub").height(min_hei)}else if(m_hei>s_hei){$("#sub").height(m_hei)}else{$("#main").height(s_hei)}}});
+</script>
+
+<!-- body -->
+<body id="PcBodyArticle" class="main_bg"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '6481753',
+  name : 'newsbox_newsbox',
+  charset : 'utf8',
+  url : 'http://blog.livedoor.jp/newsbox_newsbox/',
+  title : 'NewsBox',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '2',
+    permalink: 'http://blog.livedoor.com/category/2/',
+    name: '日記(総合) > 日記',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '1', name: '日記(総合)', permalink: 'http://blog.livedoor.com/category/1/' },{ id: '2', name: '日記', permalink: 'http://blog.livedoor.com/category/2/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '1051686560',
+       permalink : 'http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html',
+       title : 'Tech. - Track Your Internet Connection in the New York Subway With This App',
+       categories : [ { id:'', name:'', permalink:'' }, { id:'', name:'', permalink:'' } ],
+       date : '2016-02-09 04:36:16'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/js/c2.js"></script>
+<script type="text/javascript">blog_counter('newsbox_newsbox', 6481753, 'http://blog.livedoor.jp/newsbox_newsbox/')</script>
+</div><script type="text/javascript" src="http://parts.blog.livedoor.jp/js/smartphone.js?v=20131007"></script>
+<script type="text/javascript" src="http://blog.livedoor.jp/newsbox_newsbox/settings/header.js"></script><script type="text/javascript" src="http://blog.livedoor.jp/newsbox_newsbox/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'http://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+
+<div id="wrapper" class="af">
+	<div id="contents" class="af">
+
+		<!-- メイン -->
+		<div id="main" class="contents_left af">
+			<div id="main_inner">
+
+				<!-- 相互ツール画像付きRSS逆アクセス順 -->
+				<div id="rss_tool_top" class="main_contents af">
+					<div>
+						<h2 class="sub_bg ms">人気記事新着</h2>
+
+						<!-- jsファイル -->
+
+<!-- ※ツール　相互RSS（画像付き）を設置するとサンプル通りに並びます -->
+
+						<!-- スクロールscript -->
+						<p id="rss_scroller"><span><i>→</i></span></p>
+						<script type="text/javascript">
+							jQuery(function(){if($("#rss_tool_top li.Bp2FeedListLi").size()!=0){$("#rss_scroller").bind('click',function(){var t=$("#rss_tool_top li.Bp2FeedListLi").eq(0);t.hide(250,function(){$("#rss_tool_top ul.Bp2FeedListUl").append(t);t.show()})})}else{$("#rss_scroller").hide()}});
+						</script>
+
+					</div>
+				</div>
+
+				<!-- 記事部分 -->
+				<div id="Article" class="main_contents af">
+					<div>
+						<!-- 記事タイトル -->
+						<div id="article_subject" class="sub_bg ms">
+							<p class="min_date">2016年02月09日 04:36</p>
+							<h1>
+								<a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" title="Tech. - Track Your Internet Connection in the New York Subway With This App">Tech. - Track Your Internet Connection in the New York Subway With This App</a>
+							</h1>
+						</div>
+
+						<!-- ソーシャルボタン -->
+						<div class="article_social af">
+							<ul>
+								<!-- はてなブックマーク -->
+								<li>
+									<a href="http://b.hatena.ne.jp/entry/http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" class="hatena-bookmark-button" data-hatena-bookmark-title="Tech. - Track Your Internet Connection in the New York Subway With This App : NewsBox" data-hatena-bookmark-layout="vertical-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+								</li>
+								<!-- twitter -->
+								<li>
+									<iframe frameborder="0" scrolling="no" allowtransparency="true" src="http://platform.twitter.com/widgets/tweet_button.1363148939.html#_=1365056181257&count=vertical&id=twitter-widget-1&lang=ja&original_referer=http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html&size=m&text=Tech. - Track Your Internet Connection in the New York Subway With This App : NewsBox&url=http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html" class="twitter-share-button twitter-count-vertical" style="width: 62px; height: 62px;" title="Twitter Tweet Button" data-twttr-rendered="true"></iframe>
+								</li>
+								<!-- facebook -->
+								<li>
+									<iframe src="//www.facebook.com/plugins/like.php?href=http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html&send=false&layout=box_count&width=70&show_faces=false&font&colorscheme=light&action=like&height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:73px; height:63px;" allowTransparency="true"></iframe>
+								</li>
+								<!-- Google+ -->
+								<li>
+									<div  class="g-plusone" data-size="tall" data-count="true" size="tall" count="true" data-href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051686560.html"></div>
+									<script type="text/javascript">
+									  window.___gcfg = {lang: 'ja'};
+
+									  (function() {
+									    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+									    po.src = 'https://apis.google.com/js/plusone.js';
+									    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+									  })();
+									</script>
+								</li>
+							</ul>
+						</div>
+						
+						<!-- 記事本文 -->
+						<div id="article_body" class="ms">
+							<div id="ad_rs" class="ad_rs_c"></div><span id="Bp2ArchiveAdr18" class="Bp2ArchiveThumb" style="display: none;"><img src="http://livedoor.blogimg.jp/newsbox_newsbox/imgs/0/f/0f4862f9.jpg" alt="Track Your Internet Connection in the New York Subway With This App" /></span>
+<span class="Bp2ArchiveTitleText" style="display: none;">Track Your Internet Connection in the New York Subway With This App - Gizmodo</span><script type="text/javascript" src="http://bp2-antena.com/js/parts/bp2_archive_top.js?uid=986&na=&t=1454960176"></script>
+<link rel="stylesheet" type="text/css" href="http://bp2-antena.com/css/parts/archive.css?uid=986&na=&t=1454960176" />
+<script type="text/javascript" src="http://bp2-antena.com/js/parts/bp2_archive_top2.js?uid=986&na=&t=1454960176"></script>
+<div id="Bp2I2iSpTag"><script type="text/javascript" src="http://rc7.i2i.jp/bin/get.x?00618262&&1"></script></div>
+<a href="http://www.justjared.com/2016/02/08/hugh-jackman-urges-fans-to-wear-sunscreen-after-new-skin-cancer-scare/" class="Bp2ArchiveOne Bp2AR13" style="background-image: url('data:image/png;base64,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');" title="Hugh Jackman Urges Fans to Wear Sunscreen After New Skin Cancer Scare" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Hugh Jackman Urges Fans to Wear Sunscreen After New Skin Cancer Scare</i></span>
+<span class="Bp2ABlogTitle"><i>Just Jared</i></span>
+</a>
+<a href="http://www.slashgear.com/tvos-9-2-will-fix-the-new-apple-tvs-big-frustration-08425978/" class="Bp2ArchiveOne Bp2AR28" style="background-image: url('data:image/png;base64,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');" title="tvOS 9.2 will fix the new Apple TV’s big frustration" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>tvOS 9.2 will fix the new Apple TV’s big frustration</i></span>
+<span class="Bp2ABlogTitle"><i>SlashGear</i></span>
+</a>
+<a href="http://feeds.reuters.com/~r/Reuters/PoliticsNews/~3/WKIpGzk72j0/story01.htm" class="Bp2ArchiveOne Bp2AR11" style="background-image: url('data:image/png;base64,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');" title="House committee to hold Puerto Rico hearing Feb. 25" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>House committee to hold Puerto Rico hearing Feb. 25</i></span>
+<span class="Bp2ABlogTitle"><i>reuters.com</i></span>
+</a>
+<a href="http://www.engadget.com/2016/02/08/hacker-leaks-justice-department-staff-info/" class="Bp2ArchiveOne Bp2AR8" style="background-image: url('data:image/png;base64,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');" title="Hacker posts info on thousands of Homeland Security employees" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Hacker posts info on thousands of Homeland Security employees</i></span>
+<span class="Bp2ABlogTitle"><i>http://www.engadget.com/</i></span>
+</a>
+<a href="http://abcnews.go.com/Politics/hillary-clinton-campaign-leans-heavily-feminism-make-case/story?id=36787152" class="Bp2ArchiveOne Bp2AR30" style="background-image: url('data:image/png;base64,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');" title="Clinton Campaign Using Feminism to Make Case Against Sanders" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Clinton Campaign Using Feminism to Make Case Against Sanders</i></span>
+<span class="Bp2ABlogTitle"><i>ABC News: Top Stories</i></span>
+</a>
+<script type="text/javascript" src="http://bp2-antena.com/js/parts/bp2_archive_middle.js?uid=986&na=&t=1454960176"></script>
+<a href="http://feeds.gawker.com/~r/gizmodo/full/~3/-mwpSM0_r3I/track-your-internet-connection-in-the-new-york-subway-w-1757843603" class="Bp2ArchiveOne Bp2AR9 Bp2ATitleKiji" style="background-image: url('data:image/png;base64,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');" title="Track Your Internet Connection in the New York Subway With This App" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Track Your Internet Connection in the New York Subway With This App</i></span>
+<span class="Bp2ABlogTitle"><i>Gizmodo</i></span>
+</a>
+<a href="http://feeds.huffingtonpost.com/c/35496/f/677086/s/4d721209/sc/7/l/0L0Shuffingtonpost0N0Cmichael0Eb0Ekeegan0Cdont0Ebe0Efooled0Emarco0Erubi0Ib0I9189180A0Bhtml0Dutm0Ihp0Iref0Fpolitics0Gir0FPolitics/stor" class="Bp2ArchiveOne Bp2AR29" style="background-image: url('data:image/png;base64,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');" title="Don't Be Fooled: Marco Rubio And Rick Santorum Are Two Of A Kind" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Don't Be Fooled: Marco Rubio And Rick Santorum Are Two Of A Kind</i></span>
+<span class="Bp2ABlogTitle"><i>Huffington Post</i></span>
+</a>
+<a href="http://www.music-news.com/news/UK/95276/The-most-played-love-songs-of-the-21st-century-revealed" class="Bp2ArchiveOne Bp2AR4" style="background-image: url('data:image/png;base64,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');" title="The most played love songs of the 21st century revealed" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>The most played love songs of the 21st century revealed</i></span>
+<span class="Bp2ABlogTitle"><i>Music-News.com RSS feed</i></span>
+</a>
+<a href="http://www.dailymail.co.uk/tvshowbiz/article-3437223/Sam-Faiers-hits-boyfriend-Paul-criticised-awkward-TV-kiss-mother.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490" class="Bp2ArchiveOne Bp2AR1" style="background-image: url('data:image/png;base64,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');" title="Sam Faiers hits out after boyfriend Paul is criticised for awkward TV kiss with mother" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Sam Faiers hits out after boyfriend Paul is criticised for awkward TV kiss with mother</i></span>
+<span class="Bp2ABlogTitle"><i>Tvshowbiz | Mail Online</i></span>
+</a>
+<a href="http://feedproxy.google.com/~r/NDTV-Tech/~3/r8cQJzVVVwY/story01.htm" class="Bp2ArchiveOne Bp2AR10" style="background-image: url('data:image/png;base64,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');" title="Firewatch Review" target="_blank" rel="nofollow">
+<span class="Bp2ATitle"><i>Firewatch Review</i></span>
+<span class="Bp2ABlogTitle"><i>NDTV News - Technology</i></span>
+</a>
+<p id="ArchivePowerdByBottom">powerd by<a href="http://bp2-antena.com/" title="Bp2アンテナサイト風ブログ作成 無料投稿ツール［記事紹介］" target="_blank">Bp2アンテナ自動投稿ツール</a></p>
+<script type="text/javascript" src="http://bp2-antena.com/js/parts/bp2_archive_bottom.js?uid=986&na=&t=1454960176"></script>
+
+
+							<!--ad-->
+							<div id="ad2w"><div id="ad2"></div></div>
+						</div>
+						
+					</div>
+
+					<!-- pager -->
+					<div class="article_page_contents af">
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a rel="prev" href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051680683.html" title="Entmnt - Kate Middleton Reveals Prince George Can’t Wait To Fly a Plane at Royal Air Force Cadets 75th Anniversary Event">&lt; 前の記事</a></li><li class="next both"><a rel="next" href="http://blog.livedoor.jp/newsbox_newsbox/archives/1051692706.html" title="Fahion - The Spring Trend You Can Wear Now: Romantic Ruffle Dresses Just in Time for Valentine’s Day">次の記事 &gt;</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+					</div>
+
+				</div>
+
+				<!-- 相互ツール新着順 -->
+				<div id="feed_list" class="main_contents af">
+					<h2 class="sub_bg ms">相互RSS新着</h2>
+
+					<div class="ms">
+
+<!-- ※ツール　相互RSSを設置するとサンプル通りに並びます -->
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<!-- サブカラム -->
+		<div id="sub" class="contents_right sub_bg af">
+			<div id="sub_inner">
+
+				<!--タイトル-->
+				<div id="blog_title" class="sub_contents">
+					<header>
+						<h1><a href="http://blog.livedoor.jp/newsbox_newsbox/"><span>NewsBox</span></a></h1>
+						<h2></h2>
+					</header>
+				</div>
+
+				<!--ブログパーツ-->
+				
+
+
+
+<div class="plugin-recent_images sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">ギャラリー</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<ul class="galleryThumbnail">
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056583106.html"><img src="http://resize.blogsys.jp/b4160848278c8f52dd92e609c1a2757b7f648ed6/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/3/9/397d24a4.jpg" width="60" height="60" alt="Tech. - The North American Bison Will Soon Be the US National Mammal"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056544428.html"><img src="http://resize.blogsys.jp/ffa8e2597de856d5b2ac4a2f0bcac88311a29438/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/a/1/a1fe94f2.jpg" width="60" height="60" alt="Entmnt - Fights, Threats &amp; a Whole Lot of Drama: Watch the Explosive WAGS Season 2 Promo!"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056533282.html"><img src="http://resize.blogsys.jp/1ddfc50d374a8994f71bc553fe4065ec2254da58/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/8/d/8dc4d571.jpg" width="60" height="60" alt="Tech. - 20th Century Fox will skip Comic-Con to avoid trailer leaks"></a><br /></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056527170.html"><img src="http://resize.blogsys.jp/35717ca742d00bd449d22bdd0a1147fe97833e77/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/2/a/2a1b0781.jpg" width="60" height="60" alt="Entmnt - Do You Remember These Classic Met Gala Looks? Guess the Dress!"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056512787.html"><img src="http://resize.blogsys.jp/354818c815f2979440a9e3ec24b68ce10727c694/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/8/c/8c0271ec.jpg" width="60" height="60" alt="Tech. - BT is raising prices for (almost) everyone in July"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056499721.html"><img src="http://resize.blogsys.jp/7761534642ce2ce98179f575ec428d0d755e83e5/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/1/b/1b792e7a.jpg" width="60" height="60" alt="Tech. - Argentinean football club to offer dermal implants to its fans"></a><br /></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056492324.html"><img src="http://resize.blogsys.jp/8012f3dbd7947e52d6cfe5430e45df41d63a9302/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/9/a/9a7f2f09.jpg" width="60" height="60" alt="Tech. - Bacteria Evade White Blood Cells Like Antelope Evade Hungry Tigers"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056485461.html"><img src="http://resize.blogsys.jp/97679f7f04ef2366edd8b2b5533975bacc8491c4/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/c/5/c5dd0368.jpg" width="60" height="60" alt="Tech. - Meizu PRO 6 Review Part I: The Galaxy iPhone missing link"></a></li>
+<li><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056480921.html"><img src="http://resize.blogsys.jp/60b361d2d5380fbd6fbc277756bd63f0001a7dd8/crop1/60x60_ffffff/http://livedoor.blogimg.jp/newsbox_newsbox/imgs/4/e/4e154216.jpg" width="60" height="60" alt="Tech. - Vudu's latest iPad app finally has picture-in-picture"></a><br /></li>
+</ul>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_images -->
+
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/plugin/ldblog_calendar_plugin.js"></script>
+<script type="text/javascript">var calendar_url_pattern_hash_2016734='3367761713'</script>
+<script type="text/html" id="ldblog_calendar_default_template-2016734">
+<% month_names = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月']; %>
+<% month_names_long = ['','一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月']; %>
+<% wdays = ['日','月','火','水','木','金','土']; %>
+<% month_format = function(year, month){ return(year.toString() + "年" + month.toString() + "月"); }; %>
+<div class="calendarheadbody"><div class="calendarhead" id="calendarhead-2016734">
+  &nbsp;&nbsp;<%= month_format(year, month) %>&nbsp;&nbsp;
+</div></div>
+<div class="caltop"></div>
+<div class="calbody">
+<table cellpadding="0" cellspacing="0" border="0" class="caltbl calendartable">
+<tr> 
+  <td width="100%" class="caltblwkbg calendarwd">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblwk">
+      <tr>
+      <% for ( var i = 0; i < 7; i++ ) { %>
+        <td width="14%" align="center" class="<% if (i == 0) { %>sun<% } else if (i == 6) { %>sat<% } else { %>weekday<% } %>"><span class="calendarweek"><%= wdays[i] %><span></td>
+      <% } %>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td width="100%" class="caltbldaybg">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblday">
+      <% for ( var i = 0; i < cal.length; i++ ) { %>
+      <tr class="<% if (i % 2) { %>even<% } else { %>odd<% } %>">
+        <% for ( var j = 0; j < cal[i].length; j++) { %>
+        <td width="14%" align="center" class="caloff calendard"><span class="calendar"<% if (cal[i][j] > 0) { %> id="calendar-2016734-day-<%= cal[i][j]%>"<% } %>><%= cal[i][j] %></span></td>
+        <% } %>
+      </tr>
+    <% } %>
+  </table></td>
+</tr>
+</table>
+</div>
+<div class="calbottom"></div>
+</script>
+
+<div class="plugin-calendar_default sidewrapper" id="calendarplugin-2016734">
+<script type="text/javascript">(function () { var ldcal = new ldBlogCalendarPlugin(2016734); ldcal.init(); })();</script>
+</div><!-- // plugin-calendar_default -->
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056595393.html">Politics - Satanists Snub Comparison of Cruz to Lucifer</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056590187.html">Fahion - AlunaGeorge on Their Sophomore Album, Festival Style and Glitter</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056583106.html">Tech. - The North American Bison Will Soon Be the US National Mammal</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056574854.html">Music - Could Taylor Swift have a cameo as disco mutant Dazzler in X-Men: Apocalypse?</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056567001.html">Movie - Why Good Wife Fans May Not Like The Series Finale, According To Julianna Margulies</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056559962.html">Politics - A Look Back at Bernie Sanders' Campaign One Year Later</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056553009.html">Entmnt - Rosie Huntington-Whiteley flashes black bra under mesh top and leather jacket</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056544428.html">Entmnt - Fights, Threats &amp; a Whole Lot of Drama: Watch the Explosive WAGS Season 2 Promo!</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056538252.html">Music - James Blake teases possible album artwork created by Roald Dahl illustrator Sir Quentin Blake</a></div>
+
+<div class="sidebody"><a href="http://blog.livedoor.jp/newsbox_newsbox/archives/1056533282.html">Tech. - 20th Century Fox will skip Comic-Con to avoid trailer leaks</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+
+
+
+
+				
+
+<ul id="ld-services">
+<li id="blog-powered"><a href="http://blog.livedoor.com/"><img src="http://parts.blog.livedoor.jp/img/usr/cmn/logo_blog_premium.png" width="114" height="24" alt="ライブドアブログ" /></a></li>
+</ul>
+
+
+				<!--追従 ※下記スプリプトを設置していたら、id="subFixの中の要素が追従。admaxはサンプルなので変更してください"-->
+				<script type="text/javascript">
+					jQuery(function(){if($("#subFix").attr("id")!=null){var obj=$("#subFix");var offset=obj.offset();$(window).scroll(function(){if($(this).scrollTop()>offset.top){obj.css("position","fixed").css("top",0)}else{obj.css("position","static")}})}});
+				</script>
+				<div id="subFix" class="sub_contents">
+
+					<!-- admax -->
+					<script type="text/javascript" src="http://adm.shinobi.jp/s/911ad57cc8a6e98cafaeccd96773d295"></script>
+					<!-- admax -->
+
+				</div>
+				
+			</div>
+		</div>
+		
+	</div>
+
+	<!-- footer -->
+	<div id="foot" class="sub_bg af">
+		<div>
+			<address>© <span>NewsBox</span></address>
+
+			<!-- i2iランキングタグ設置 -->
+			<div id="foot_i2i">
+				<script type="text/javascript" src="http://rc7.i2i.jp/bin/get.x?00618262&&1"></script>
+			</div>
+
+		</div>
+	</div>
+
+</div>
+
+<!-- pageトップへ -->
+<div id="backtotop">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMzgwMTE3NDA3MjA2ODExODhDNkMxNTA3MkQ4QkY2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowNkFFMjVFMDZFNzkxMUUxQjdFREY5MjNCOEQ3MEU3OCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowNkFFMjVERjZFNzkxMUUxQjdFREY5MjNCOEQ3MEU3OCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjE1MkY2NkQzMDkyMDY4MTE5MkIwOEI1MEZEMjcyNkQ4IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjAzODAxMTc0MDcyMDY4MTE4OEM2QzE1MDcyRDhCRjY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SDlTEAAAA8hJREFUeNrsnM1OGlEUx+fODCCj2GhXbtuVjSEpcdGF6Su44S18hq6a+Bx9ALsyaqJxQ9S4KUE0uGglbgyJCkKoUD5mpuevM0oHBmgDbblzTnLgMvfOZf6/ud/DRdi2rbB1m8oIfIxLTG/Tgw5WCPFHYMSfZjwhtcX+3RIjbm5uFubn5z+qqvqOPi9IVlMKlmUd397efkAYjLoAAJrnrotKpfJ6dnb2M4VnyO/J2+SWRB0OCsQ0tFWr1SRp/eqFo/aoOsIwjDV6D5OXyZsSQVEcLU1HWygaja45HMQgMKqmaQnnZJm7LGhr6rr+1i0QfmDcSJWq1rRTfWQ3aDQ6SozoN8BTO4hKP4zz49CzjQngeE4MamOUAIPhuRJPIhkMg2EwDIbBMBgGw2AYDJtr+ri/4ODgIJpOp41R5plIJGorKyv1iQaTy+WioVDIHtWiOZZikefEg1leXo5ls9nKKPOMx+Mv6K001ul2x2I4XjTyMB1LjfA75shf9UtwdnZWJHh3jui5paWllwPyzJPfjQyCEO+Vx6VcU3EWr8ZeYhwBX/wiz8/PI5lMZsqtahS+0zStsLi42Ahsr5TP58OHh4dGu91+aoAQxjHEBRJMoVDQ9/b2ph8uQn2+DDeMOKQJFJhyuaxub2/HAAE9FlWdh14LjjCOIQ5pKK0WCDD1el1sbm7OWpb1AEXX9V+6coRxDHFIs7OzE2s0GkJqMGg/AAVwINxvfINjbny1WhVbW1sx0zTlBEN3X9DdnymVSlo/KL3gXF9f67u7uzNSgkmlUsbV1VUoEolYw46EXTg45/LyMkzTC0MqMCcnJ1MYr4TD4aeGdegLpLTUICs49/T0dAp5SQHm4uIifHR0ZECYt6Ed1tyeCnkgL+Q57uv+G1MC3OE3iudp38bGRr7ZbPb9eQmBUJPJpHc6gSF7jvzHpE8JICDdY5Y8N8xMut90QsqRL3W/YhRppAODwdso0kg5ifyfjcEwGAbDYCZ9gOdncfLQgDQt8uzYIfyjAZ6fZbkqcRvDYBgMg2FjMAyGwTAYBsNgGIwEYGh2fR8UAKS1PiwYu1arZYIChrTi0Y49CAwS2Pv7+59M0/wuOxRohFZX96ASY62urn5bX19fKxaLx61WqyIbEGiCNmiEVqXHhnvvXxiojmNlLaI8Pl7Fc2IsaMmyiRQlA/utsWKHp6T4EWTLgfMESO9VlZTnzeimc6KmyLH12NVnOhpd76pKvcBYngxailz7se0OnZZHry8YpSOB1QFHtr3YtgdSV6+kD6Aq++Z0379p+CnAAAIPobSttRWQAAAAAElFTkSuQmCC" alt="backtotop" width="70" height="70" />
+</div>
+<script type="text/javascript">
+jQuery(function(){var a=$("#backtotop");a.hide();$(window).scroll(function(){if($(this).scrollTop()>100){a.fadeIn()}else{a.fadeOut()}});a.bind("click",function(){$("body,html").animate({scrollTop:0},500);return false})});
+</script>
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'http://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="http://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+</body>
+</html>
+

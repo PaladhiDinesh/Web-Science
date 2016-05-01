@@ -1,0 +1,640 @@
+<!doctype html>
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="/assets/3913346f/css/site.css" />
+<script type="text/javascript" src="/assets/3913346f/js/modernizr.custom.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-9473132-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        
+/*]]>*/
+</script>
+<title>McDonald's - McDonald's Magyarország</title>
+
+    <meta property="og:title" content="McDonald's - McDonald's Magyarország">
+    <meta property="og:description" content="">
+    <meta property="og:site_name" content="McDonalds.hu">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://m.mcdonalds.hu/aktualis-ajanlatok/kupon-februar" />
+    <meta property="og:image" content="http://m.mcdonalds.hu/share-img.png" />
+
+    <link rel="shortcut icon" href="http://m.mcdonalds.hu/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    </head>
+
+<body><script type="text/javascript">
+/*<![CDATA[*/
+vars={'baseUrl':'http://m.mcdonalds.hu','assetsUrl':'/assets/3913346f','googleApiKeyParam':''}
+/*]]>*/
+</script>
+
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1&appId=";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <header id="main-header">
+		<nav class="main-navigation" role="navigation">
+        <ul>
+                <li class="home"><a href="http://m.mcdonalds.hu" title="Nyitóoldal">Nyitóoldal</a></li>
+
+                <li><a href="/aktualis-ajanlatok" title="Aktuális ajánlatok" class="">Aktuális ajánlatok</a>
+                    <div class="dropdown current-offerings">
+        <div>
+                <ul class="list">
+                    <li>
+                        <a href="/aktualis-ajanlatok/mcdrive" title="McDrive hűségprogram">
+                            <span><img src="/assets/3913346f/img/dropdown/dd-offer-mcdrive.jpg" alt="McDrive hűségprogram" class="border"></span>
+                            <b>M<small>c</small>Drive hűségprogram</b>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/clubsmart-program" title="A CLUBSMART program">
+                            <span><img src="/assets/3913346f/img/dropdown/dd-offer-clubsmart.jpg" alt="A CLUBSMART program" class="border"></span>
+                            <b>A CLUBSMART program</b>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/aktualis-ajanlatok/nyari-desszert" title="Nyári desszert">
+                            <span><img src="/assets/3913346f/img/offers/nyari-desszert/dd.png" alt="Nyári desszert" class="border"></span>
+                            <b>Nyári desszert</b>
+                        </a>
+                    </li>
+                </ul>
+
+                <ul class="highlight">
+
+                    <li>
+                        <a href="/aktualis-ajanlatok/nyari-desszert" title="Nyári Desszert">
+                            <img src="/assets/3913346f/img/offers/nyari-desszert/ajanlat-lista.png" alt="Nyári Desszert" />
+                            <h4>Újra itt a Pöttyös McFlurry!</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://clubroyal.mcdonalds.hu" title="Club ajánló">
+                            <img src="/assets/3913346f/img/dropdown/clubroyal-dropdown.png" alt="Klub Ajánló" />
+                            <h4>Club ajánló</h4>
+                        </a>
+                    </li>
+                    <!--
+                    <li>
+                        <a href="/aktualis-ajanlatok/kupon-februar" title="Kupon február">
+                            <img src="/assets/3913346f/img/dropdown/NAT_221_kupon_februar_megadropdown_v02.png" alt="Kupon február" />
+                            <h4>Februári Kupon</h4>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/sajtburgervariaciok" title="Sajtburger variációk">
+                            <img src="/assets/3913346f/img/game/cheesburger_megadropdown.png" alt="Sajtburger variációk" />
+                            <h4>Sajtburger variációk</h4>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/aktualis-ajanlatok/clubhouse" title="Clubhouse">
+                            <img src="/assets/3913346f/img/dropdown/dd-clubhouse.png" alt="Clubhouse" />
+                            <h4>ClubHouse szendvics</h4>
+                        </a>
+                    </li>
+                    -->
+                    <!--
+                    <li>
+                        <a href="/frontend/static/offersMagyarhetek" title="Magyar Hetek">
+                            <img src="/assets/3913346f/img/dropdown/dd-magyarhetek.jpg" alt="Magyar Hetek" />
+                            <h4>MAGYAR HETEK<br/>
+                            <span>Marhaburger sült</span>libamájjal<br/>
+                            <span>Libaburger</span>lilakáposztával<br/></h4>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/aktualis-ajanlatok/oszi-desszert" title="Őszi Desszert">
+                            <img src="/assets/3913346f/img/dropdown/dd-oszidesszert.jpg" alt="Őszi Desszert" />
+                            <h4><span>narancs ízű</span>forró csokoládé<br/>
+                            <span>csokoládé ízű narancsos</span>McFreeze<small>®</small><br/>
+                            <span>csokoládés-narancsos</span>pite<br/></h4>
+                        </a>
+                    </li>
+                    -->
+                    <!--
+                    <li>
+                        <a href="/frontend/static/offersKuponRedirect" title="Szeptemberi Kuponok">
+                            <img src="/assets/3913346f/img/dropdown/szptemberi-kuponok.jpg" alt="Szeptemberi Kuponok" />
+                            <h4>Szeptemberi Kuponok</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/frontend/static/offersCocacola" title="Ajándék CocaCola Palack">
+                            <img src="/assets/3913346f/img/dropdown/cocacola-dropdown.jpg" alt="Ajándék CocaCola Palack" />
+                            <h4>Ajándék CocaCola Palack</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/frontend/static/offersLipton" title="Ajándék 0,25l Lipton">
+                            <img src="/assets/3913346f/img/dropdown/lipton-dropdown.png" alt="Ajándék 0,25l Lipton" />
+                            <h4>Ajándék 0,25l Lipton</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/frontend/static/offersAmerikaiHetek" title="Amerikai Hetek">
+                            <img src="/assets/3913346f/img/dropdown/dd-amerikaihetek.jpg" alt="Amerikai Hetek" />
+                            <h4>Amerikai Hetek</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/aktualis-ajanlatok/glutenmentes-termekek" title="Gluténmentes Dupla-Sajtburger">
+                            <img src="/assets/3913346f/img/dropdown/dd-glutenmentes.jpg" alt="Gluténmentes Dupla-Sajtburger" />
+                            <h4>Gluténmentes Dupla-Sajtburger</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/aktualis-ajanlatok/nyari-desszert" title="Nyári Desszert">
+                            <img src="/assets/3913346f/img/dropdown/dd-nyaridesszert.jpg" alt="Nyari desszert" />
+                            <h4>Pöttyös® McFlurry®</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/aktualis-ajanlatok/jeges-frissitok" title="Nyári Desszert">
+                            <img src="/assets/3913346f/img/dropdown/dd-jeges-frissitok.jpg" alt="Jeges frisstiok" />
+                            <h4>Jeges frissítők</h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/ebedmenu" title="Ebedmenu">
+                            <img src="/assets/3913346f/img/dropdown/dd-ebedmenu.jpg" alt="Ebedmenu" />
+                            <h4>Ebédmenü</h4>
+                        </a>
+                    </li>
+                    -->
+                </ul>
+        </div>
+        <a href="/aktualis-ajanlatok" title="Összes ajánlatunk" class="more">Összes ajánlatunk »</a>
+</div>
+                </li>
+                <li><a href="/termekek" title="Termékek" class="">Termékek</a>
+                    <div class="dropdown products">
+        <div>
+            <ul class="list products">
+                <li>
+                    <a href="/termekek/ujdonsagaink" title="Újdonságok">
+                        <span><img src="/assets/3913346f/img/offers/nyari-desszert/dd.png" alt="Újdonságok"></span>
+                        <b>Újdonságok</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/termekek/szendvicsek-es-wrapek" title="Szendvicsek és wrapek">
+                        <span><img src="/assets/3913346f/img/product/sandwich-small.png" alt="Szendvicsek és wrapek"></span>
+                        <b>Szendvicsek és wrapek</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/termekek/harapnivalok" title="Harapnivalók">
+                        <span><img src="/assets/3913346f/img/product/snacks-small.png" alt="Harapnivalók"></span>
+                        <b>Harapnivalók</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/termekek/salatak-koretek-szoszok" title="Saláták, köretek, szószok">
+                        <span><img src="/assets/3913346f/img/product/salad-small.png" alt="Saláták, köretek, szószok"></span>
+                        <b>Saláták, köretek, szószok</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/termekek/italok" title="Italok">
+                        <span><img src="/assets/3913346f/img/product/drink-small.png" alt="Italok"></span>
+                        <b>Italok</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/termekek/desszertek" title="Desszertek">
+                        <span><img src="/assets/3913346f/img/product/dessert-small.png" alt="Desszertek"></span>
+                        <b>Desszertek</b>
+                    </a>
+                </li>
+            </ul>
+            <ul class="highlight">
+
+                <li>
+                    <a href="/aktualis-ajanlatok/nyari-desszert" title="Nyári Desszert">
+                        <img src="/assets/3913346f/img/offers/nyari-desszert/ajanlat-lista.png" alt="Nyári Desszert" />
+                        <h4>Újra itt a Pöttyös McFlurry!</h4>
+                    </a>
+                </li>
+                <!--
+                <li>
+                    <a href="/aktualis-ajanlatok/clubroyal" title="Club ajánló">
+                        <img src="/assets/3913346f/img/dropdown/clubroyal-dropdown.png" alt="Klub Ajánló" />
+                        <h4>Club ajánló</h4>
+                    </a>
+                </li>-->
+                <!--
+                <li>
+                    <a href="/sajtburgervariaciok" title="Sajtburger variációk">
+                        <img src="/assets/3913346f/img/game/cheesburger_megadropdown.png" alt="Sajtburger variációk" />
+                        <h4>Sajtburger variációk</h4>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/aktualis-ajanlatok/clubhouse" title="Clubhouse">
+                        <img src="/assets/3913346f/img/dropdown/dd-clubhouse.png" alt="Clubhouse" />
+                        <h4>ClubHouse szendvics</h4>
+                    </a>
+                </li>
+                -->
+                <li>
+                    <a href="http://clubroyal.mcdonalds.hu" title="ClubRoyal">
+                        <img src="/assets/3913346f/img/dropdown/clubroyal-dropdown.png" alt="ClubRoyal" />
+                        <h4>Club ajánló</h4>
+                    </a>
+                </li>
+                <!--
+                <li>
+                    <a href="/frontend/static/offersMagyarhetek" title="Magyar Hetek">
+                        <img src="/assets/3913346f/img/dropdown/dd-magyarhetek.jpg" alt="Magyar Hetek" />
+                        <h4>MAGYAR HETEK<br/>
+                        <span>Marhaburger sült</span>libamájjal<br/>
+                        <span>Libaburger</span>lilakáposztával<br/></h4>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="/aktualis-ajanlatok/oszi-desszert" title="Őszi Desszert">
+                        <img src="/assets/3913346f/img/dropdown/dd-oszidesszert.jpg" alt="Őszi Desszert" />
+                        <h4><span>narancs ízű</span>forró csokoládé<br/>
+                        <span>csokoládé ízű narancsos</span>McFreeze<small>®</small><br/>
+                        <span>csokoládés-narancsos</span>pite<br/></h4>
+                    </a>
+                </li>
+                -->
+                <!--
+                <li>
+                    <a href="http://www.mcdonalds.hu/termekek/mcreggeli" title="Reggeli ajánlataink">
+                            <img src="/assets/3913346f/img/dropdown/dd-reggeli.jpg" alt="Reggeli ajánlataink">
+                            <h4>Reggeli ajánlataink</h4>
+                    </a>
+                </li>
+                -->
+            </ul>
+        </div>
+        <a href="/termekek/osszes" title="Összes termékkategória" class="more">Összes termékkategória »</a>
+</div>
+                </li>
+
+                <li><a href="/mccafe" title="McCafé" class="">McCafé</a>
+                    <div class="dropdown mccafe">
+        <div>
+                <ul class="list products">
+                        <li>
+                            <a href="/mccafe/kavek" title="Kávék">
+                                <span><img src="/assets/3913346f/img/dropdown/dd-mccafe-coffee.jpg" alt="Kávék"></span>
+                                <b>Kávék</b>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/mccafe/forro-italok" title="Forró italok">
+                                <span><img src="/assets/3913346f/img/dropdown/dd-mccafe-hot.jpg" alt="Forró italok"></span>
+                                <b>Forró italok</b>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/mccafe/frappek-es-jeges-italok" title="Frappék és jeges italok">
+                                <span><img src="/assets/3913346f/img/dropdown/dd-mccafe-frappe.jpg" alt="Frappék és jeges italok"></span>
+                                <b>Frappék és jeges italok</b>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/mccafe/sutemenyek" title="Sütemények">
+                                <span><img src="/assets/3913346f/img/dropdown/dd-mccafe-cake.jpg" alt="Sütemények"></span>
+                                <b>Sütemények</b>
+                            </a>
+                        </li>
+                </ul>
+                <ul class="highlight">
+                        <!--
+                        <li>
+                            <a href="http://www.mcdonalds.hu/mccafe/frappek-es-jeges-italok/citrusos-limonade-granatalmaval" title="Gyümölcsös frissítők">
+                                <img src="/assets/3913346f/img/dropdown/dd-limonade.png" alt="Gyümölcsös frissítők" />
+                                <h4>Gyümölcsös frissítők</h4>
+                            </a>
+                        </li>
+                        -->
+                        <li>
+                            <a href="/mccafe/sos-karamellas-kulonlegessegek" title="Sós karamellás különlegességek">
+                                <img src="/assets/3913346f/img/dropdown/dd-sos-karamellas-kulonlegessegek.png" alt="Sós karamellás különlegességek" />
+                                <h4>Sós karamellás különlegességek</h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/mccaffe/malnas-csokoladetorta" title="Málnás Csokoládétorta">
+                                <img src="/assets/3913346f/img/dropdown/dd-chocolatecake.jpg" alt="Málnás Csokoládétorta" />
+                                <h4>Málnás Csokoládétorta</h4>
+                            </a>
+                        </li>
+                        <li>
+                                <a href="/mccafe/ujdonsagaink" title="Újdonságaink">
+                                        <img src="/assets/3913346f/img/dropdown/dd-mccafe-new.jpg" alt="Újdonságaink">
+                                        <h4>Újdonságaink</h4>
+                                </a>
+                        </li>
+                        <li>
+                                <a href="/mccafe/tortenet" title="Ismerd meg">
+                                        <img src="/assets/3913346f/img/dropdown/dd-mccafe-about.jpg" alt="Ismerd meg">
+                                        <h4>Ismerd meg a McCafét</h4>
+                                </a>
+                        </li>
+                </ul>
+        </div>
+        <a href="/mccafe/termekek" title="Összes termékkategória" class="more">Összes termékkategória »</a>
+</div>
+                </li>
+                <li><a href="/csaladoknak" title="Családoknak" class="">Családoknak</a>
+                    <div class="dropdown for-families">
+    <div>
+        <ul class="list">
+                <li>
+                    <a href="/termekek/menuk/happymeal" title="Happy Meal">
+                        <span><img src="/assets/3913346f/img/dropdown/dd-family-happymeal.jpg" alt="Happy Meal"></span>
+                        <b>Happy Meal</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/csaladoknak/sport-es-testmozgas" title="Sport és testmozgás">
+                        <span><img src="/assets/3913346f/img/dropdown/dd-family-sport.jpg" alt="Sport és testmozgás" class="border"></span>
+                        <b>Sport és testmozgás</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/csaladoknak/taplalkozas" title="Kiegyensúlyozott táplálkozás gyerekeknek">
+                        <span><img src="/assets/3913346f/img/dropdown/dd-family-nutrition.jpg" alt="Kiegyensúlyozott táplálkozás gyerekeknek" class="border"></span>
+                        <b class="two-line">Kiegyensúlyozott táplálkozás gyerekeknek</b>
+                    </a>
+                </li>
+                <li>
+                    <a href="/csaladoknak/mit-teszunk-a-csaladokert" title="Mit teszünk a családokért?">
+                        <span><img src="/assets/3913346f/img/dropdown/dd-family-whatwedo.jpg" alt="Mit teszünk a családokért?" class="border"></span>
+                        <b class="two-line">Mit teszünk a családokért?</b>
+                    </a>
+                </li>
+        </ul>
+        <ul class="highlight">
+                <li class="big">
+                        <a href="/csaladoknak/szulinap" title="Szülinap a mcdonald’s-ban">
+                                <img src="/assets/3913346f/img/dropdown/dd-family-birthday.jpg" alt="Szülinap a mcdonald’s-ban">
+                                <h4>Szülinap a McDonald’s-ban</h4>
+                        </a>
+                </li>
+                <li class="big mt">
+                        <a href="/csaladoknak/happystudio" title="Happy stúdió">
+                                <img src="/assets/3913346f/img/dropdown/dd-happystudio.jpg" alt="Happy stúdió">
+                                <h4>Happy stúdió</h4>
+                        </a>
+                </li>
+        </ul>        
+    </div>
+    <a href="/csaladoknak" title="Összes családi tartalom" class="more">Összes családi tartalom »</a>
+</div>                </li>
+
+                <li><a href="/rolunk" title="A McDonald'sról" class="">A McDonald'sról</a>
+                    <div class="dropdown about-mcd">
+    <div>
+        <ul class="list list-left">
+            <li>
+                <a href="/eletmod-es-taplalkozas" title="Életmód és táplálkozás">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-lifestyle.png" alt="Életmód és táplálkozás" class="border"></span>
+                    <b>Életmód és táplálkozás</b>
+                </a>
+            </li>
+            <li>
+                <a href="/eletmod-es-taplalkozas/minoseg" title="Minőség">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-quality.jpg" alt="Minőség" class="border"></span>
+                    <b>Minőség</b>
+                </a>
+            </li>
+            <li>
+                <a href="/karrier" title="Dolgozz velünk">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-carreer.png" alt="Dolgozz velünk" class="border"></span>
+                    <b>Dolgozz velünk</b>
+                </a>
+            </li>
+            <li>
+                <a href="/sajto" title="Sajtószoba">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-news.jpg" alt="Sajtószoba" class="border"></span>
+                    <b>Sajtószoba</b>
+                </a>
+            </li>
+        </ul>
+
+
+
+        <ul class="list list-right">
+            <li>
+                <a href="/tarsadalmi-felelossegvallalas/hazai-gazdasagert" title="Hazai gazdaságért">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-economy.jpg" alt="Hazai gazdaságért" class="border"></span>
+                    <b>Hazai gazdaságért</b>
+                </a>
+            </li>
+            <li>
+                <a href="/tarsadalmi-felelossegvallalas/tamogatas" title="Közösségért">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-social.jpg" alt="Közösségért" class="border"></span>
+                    <b>Közösségért</b>
+                </a>
+            </li>
+            <li>
+                <a href="/tarsadalmi-felelossegvallalas/fenntarthatosag" title="Környezetünkért">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-environment.png" alt="Környezetünkért" class="border"></span>
+                    <b>Környezetünkért</b>
+                </a>
+            </li>
+            <li>
+                <a href="/files/uzletviteli_szabalyzat.pdf" title="Etikus működésért" target="_blank">
+                    <span><img src="/assets/3913346f/img/dropdown/dd-about-ethics.png" alt="Etikus működésért" class="border"></span>
+                    <b>Etikus működésért</b>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <a href="/rolunk" title="Összes vállalati tartalom" class="more">Összes vállalati tartalom »</a>
+</div>
+                </li>
+
+                <!--
+                <li class="igymekiztekti">
+                    <a href="http://igymekiztekti.hu" target="_blank" title="Így mekiztek Ti" class="">
+                        Így mekiztek Ti
+                    </a>
+                </li>
+                -->
+                <li>
+                    <a href="/ettermeink" title="Éttermeink" class="">Éttermeink</a>
+                </li>
+
+                <li class="last">
+                    <a href="/karrier" title="Karrier" >Karrier</a>
+                </li>
+
+            <!--
+                <li class="last">
+                    <a href="/frontend/static/aboutUsErzsebet" title="Erzsébet utalvány" ></a>
+                </li>
+            	<li class="last">
+            	    <a href="/munkaruha-palyazat" title="Munkaruha-pályázat" ></a>
+            	</li>
+            -->
+        </ul>
+</nav>
+    </header>
+    <main role="main">
+            <article class="page404">
+        <div class="container">
+            <h1>A keresett oldal nem található</h1>
+            <p>
+                Elképzelhető, hogy a tartalom már megszűnt vagy hibás linkre kattintottál.<br>
+                Ellenőrizd a linket, indulj újra a nyitóoldalról, vagy használd az alábbi ajánlókat!
+            </p>
+        </div>
+    </article>
+    
+    <section class="widget-restaurant-search green ">
+        <div class="container">
+                <span class="pin"></span>
+                                    <h4>Keress egy McDonald'sot a közeledben!</h4>
+                                <form role="form" action="/ettermeink">
+                                            
+                        <input type="text" placeholder="Keresés településre, irányítószámra vagy utcára..." class="input" name="search" />
+                        <button class="btn btn-green">Keresés</button>
+                </form>
+        </div>
+</section>    
+    <section class="widget-article-list">
+        <div class="container">
+            <article>
+    <h3>Termékeink</h3>
+    <a href="/termekek" title="Termékeink"><img src="/assets/3913346f/img/widget-products.jpg" alt="Termékeink"></a>
+    <p>Édesszájú vagy, netán a sósat kedveled? Egész nap rohangálsz a suli körül, vagy csak ülsz a monitorod előtt? Találd meg a te ízlésedhez és életmódodhoz leginkább illő ételt széles kínálatunkból!</p>
+    <a href="/termekek" title="Termékeink"><span>Tovább a Termékekhez</span></a> » 
+</article>            <article>
+    <h3>A világ egy kávéban</h3>
+    <a href="/mccafe" title="McCafé"><img src="/assets/3913346f/img/widget-mccafe-products.jpg" alt="McCafé"></a>
+    <p>Kemény nap van előtted, vagy mögötted, esetleg beülnél valahova egy barátoddal beszélgetni? Mindig szívesen látunk bármelyik McCafénkban egy finom kávéra vagy sütire! Érezd jól magad nálunk!</p>
+    <a href="/mccafe" title="McCafé"><span>Tovább a McCafé-hoz</span></a> » 
+</article>            <article>
+        <h3>Karrier</h3>
+        <a href="/karrier" title="Karrier"><img src="/assets/3913346f/img/widget-career.jpg" alt="Karrier"></a>
+        <p>Mert 2011-ben minket választottak Magyarország legjobb munkahelyének. Mert támogatjuk a Mekisek szakmai fejlődését, hogy még előrébb juthassanak Mert több mint 550 munkatársunk már legalább 10 éve jól érzi magát nálunk. Még többet szeretnél tudni rólunk?</p>
+        <a href="/karrier" title="Karrier"><span>Tovább a Karrierhez</span></a> »
+</article>        </div>
+    </section>
+                    <section class="footer-links">
+    <div class="container">
+        <section class="fb-pages">
+            <h5>Kövess minket Facebookon:</h5>
+            <div class="pull-right">
+                <a href="https://www.facebook.com/mcdonaldshungary" title="McDonald's Magyarország a Facebookon" target="_blank">McDonald's</a>
+                <a href="https://www.facebook.com/mccafehungary" title="McCafé Magyarország a Facebookon" target="_blank">McCafé</a>
+                <a href="https://www.facebook.com/BringaMania" title="BringaMánia a Facebookon" target="_blank">BringaMánia</a>
+                <a href="https://www.facebook.com/ronaldhaz?ref=bookmarks" title="Ronald McDonald Gyermeksegély Alapítvány" target="_blank">Ronald McDonald Gyermeksegély Alapítvány</a>
+            </div>
+        </section>
+        <nav class="sitemap-links">
+            <ul>
+                <li><a href="/termekek" title="">Termékek</a></li>
+                                                            <li><a href="/termekek/szendvicsek-es-wrapek" title="">Szendvicsek és wrapek</a></li>
+                                            <li><a href="/termekek/harapnivalok" title="">Harapnivalók</a></li>
+                                            <li><a href="/termekek/salatak-koretek-szoszok" title="">Saláták, köretek, szószok</a></li>
+                                            <li><a href="/termekek/italok" title="">Italok</a></li>
+                                            <li><a href="/termekek/mcreggeli" title="">McReggeli®</a></li>
+                                            <li><a href="/termekek/desszertek" title="">Desszertek</a></li>
+                                                </ul>
+            <ul>
+                <li><a href="/aktualis-ajanlatok" title="Aktuális ajánlatok">Aktuális ajánlatok</a></li>
+                <!--
+                <li><a href="/nyaridesszertek" title="Nyári desszert">Nyári desszert</a></li>
+                -->
+                <!--
+                <li><a href="/frontend/static/offersBreakfast" title="Reggeli 1+1">Reggeli 1+1</a></li>
+                -->
+                <!--
+                <li><a href="/frontend/static/offersHundred" title="Párszázas">Párszázas</a></li>
+                -->
+                <li><a href="/clubsmart-program" title="Clubsmart program">Clubsmart program</a></li>
+
+                <li><a href="/unnepi-nyitvatartas" title="">Ünnepi nyitvatartás</a></li>
+                <!--
+                <li><a href="/frontend/static/aboutUsErzsebet" title="Clubsmart program">Erzsébet</a></li>
+                -->
+            </ul>
+            <ul>
+                <li><a href="/mccafe" title="McCafé">McCafé</a></li>
+                <li><a href="/mccafe/termekek" title="McCafé termékek">Termékek</a></li>
+                <li><a href="/mccafe/tortenet" title="A McCafé története">A McCafé története</a></li>
+                <li><a href="/mccafe/zold" title="Egy kávé is lehet zöld">Egy kávé is lehet zöld</a></li>
+            </ul>
+            <ul>
+                <li><a href="/csaladoknak" title="Családoknak">Családoknak</a></li>
+                <li><a href="/csaladoknak/szulinap" title="Születésnapi buli a McDonald'sban">Születésnapi buli a McDonald'sban</a></li>
+                <li><a href="/csaladoknak/happy-meal" title="Happy Meal menü">Happy Meal menü</a></li>
+                <li><a href="/csaladoknak/mokas-figurak" title="Mókás figurák">Mókás figurák</a></li>
+            </ul>
+            <ul>
+                <li><a href="/rolunk" title="A McDonald'sról">A McDonald'sról</a></li>
+                <li><a href="/karrier" title="Dolgozz velünk!">Dolgozz velünk!</a></li>
+                <li><a href="/tarsadalmi-felelossegvallalas/hazai-gazdasagert" title="">A hazai gazdaságért</a></li>
+                <li><a href="/rolunk/tortenet" title="">A McDonald's története</a></li>
+                <li><a href="/tarsadalmi-felelossegvallalas" title="">Társadalmi felelősségvállalás</a></li>
+                <li><a href="/rolunk/franchise-program" title="">Franchise partnereknek</a></li>
+                <li><a href="/sajto" title="">Sajtószoba</a></li>
+                <li><a href="/files/hazirend.pdf" title="">Házirend</a></li>
+                <li><a href="/files/uzletviteli_szabalyzat.pdf" title="">Üzletviteli szabályzat</a></li>
+            </ul>
+        </nav>
+    </div>
+</section>
+            
+        <footer class="main-footer" role="contentinfo">
+                <div class="container_12">
+                        <span>© 2016 McDonald’s Magyarország</span>
+                        <div>
+                                <a href="/jogi-nyilatkozat" title="Jogi nyilatkozat">Jogi nyilatkozat</a>|
+                                <a href="/kapcsolat" title="Kapcsolat">Kapcsolat</a>|
+                                <!-- <a href="http://www.mcdonaldsmenu.info/nutrition/home.jsp?loc=hu&lang=hu" title="McDonaldsMenu.info" target="_blank">McDonaldsMenu.info</a>| -->
+                                <a href="http://happystudio.com/" title="Happy Studio" target="_blank">HappyStudio.com</a>
+                                                        </div>
+                </div>
+        </footer>
+    </main>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+window.jQuery || document.write("<script type=\"text/javascript\" src=\"/assets/7fb94d94/jquery.min.js\"><\/script>");
+/*]]>*/
+</script>
+<script type="text/javascript" src="/assets/3913346f/js/combined.min.js"></script>
+<script type="text/javascript" src="/assets/3913346f/js/jquery.uniform.min.js"></script>
+<script type="text/javascript" src="/assets/3913346f/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/assets/3913346f/js/jquery.cookie.js"></script>
+</body>
+</html>

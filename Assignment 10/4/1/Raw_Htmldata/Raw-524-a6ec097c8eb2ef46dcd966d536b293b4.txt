@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head >
+<meta charset="UTF-8" />
+<title>No Bake Chocolate Coconut Protein Bars | Dallas Socials</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<style type="text/css">
+			.slide-excerpt { width: 50%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			.flexslider { max-width: 700px; max-height: 300px; }
+			.slide-image { max-height: 300px; }
+		</style>
+		<style type="text/css">
+			@media only screen
+			and (min-device-width : 320px)
+			and (max-device-width : 480px) {
+				.slide-excerpt { display: none !important; }
+			}
+		</style> 
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Dallas Socials is your site for all things to do in Dallas, TX. From the Dallas life to where to eat in DFW - we are your Big D resource."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="No Bake Chocolate Coconut Protein Bars | Dallas Socials" />
+<meta property="og:description" content="Dallas Socials is your site for all things to do in Dallas, TX. From the Dallas life to where to eat in DFW - we are your Big D resource." />
+<meta property="og:url" content="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/" />
+<meta property="og:site_name" content="The Dallas Socials" />
+<meta property="article:publisher" content="http://www.facebook.com/dallassocials" />
+<meta property="article:author" content="http://www.facebook.com/betsymitchell" />
+<meta property="article:section" content="Blog" />
+<meta property="article:published_time" content="2016-01-31T21:27:32+00:00" />
+<meta property="fb:app_id" content="221815591205865" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2015/10/SponsoredPostDisclaimer.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/NO-Bake-Chocolate-Coconut-Protein-Bars-673x1024.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480-1024x683.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484-1024x683.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486-1024x683.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487-1024x683.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8488-e1454295818299-683x1024.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489-1024x683.jpg" />
+<meta property="og:image" content="http://www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8499-e1454296440283-683x1024.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Dallas Socials &raquo; Feed" href="http://www.thedallassocials.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="The Dallas Socials &raquo; Comments Feed" href="http://www.thedallassocials.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="The Dallas Socials &raquo; iCal Feed" href="http://www.thedallassocials.com/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="The Dallas Socials &raquo; No Bake Chocolate Coconut Protein Bars Comments Feed" href="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thedallassocials.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fb_data_style-css'  href='http://www.thedallassocials.com/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foodie-theme-css'  href='http://www.thedallassocials.com/wp-content/themes/foodie/style.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ssbaFont-css'  href='//fonts.googleapis.com/css?family=Indie+Flower&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-full-calendar-style-css'  href='http://www.thedallassocials.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  href='http://www.thedallassocials.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-full-mobile-style-css'  href='http://www.thedallassocials.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css?ver=4.0.5' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='tribe-events-calendar-mobile-style-css'  href='http://www.thedallassocials.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=4.0.5' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='foodie-google-fonts-css'  href='//fonts.googleapis.com/css?family=Pontano+Sans%7COpen+Sans%3A300%2C400&#038;ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://www.thedallassocials.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.thedallassocials.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='http://www.thedallassocials.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://www.thedallassocials.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thedallassocials.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thedallassocials.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://www.thedallassocials.com/?p=22401' />
+<link rel="alternate" type="application/json+oembed" href="http://www.thedallassocials.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thedallassocials.com%2Fblog%2Fhomemade-chocolate-coconut-protein-bars%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.thedallassocials.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thedallassocials.com%2Fblog%2Fhomemade-chocolate-coconut-protein-bars%2F&#038;format=xml" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><style type="text/css">	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 35px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									font-family: Indie Flower;
+									font-size: 	20px;
+									
+									font-weight: normal;
+								}.ssba_sharecount:after, .ssba_sharecount:before {
+									right: 100%;
+									border: solid transparent;
+									content: " ";
+									height: 0;
+									width: 0;
+									position: absolute;
+									pointer-events: none;
+								}
+								.ssba_sharecount:after {
+									border-color: rgba(224, 221, 221, 0);
+									border-right-color: #f5f5f5;
+									border-width: 5px;
+									top: 50%;
+									margin-top: -5px;
+								}
+								.ssba_sharecount:before {
+									border-color: rgba(85, 94, 88, 0);
+									border-right-color: #e0dddd;
+									border-width: 6px;
+									top: 50%;
+									margin-top: -6px;
+								}
+								.ssba_sharecount {
+									font: 11px Arial, Helvetica, sans-serif;
+
+									padding: 5px;
+									-khtml-border-radius: 6px;
+									-o-border-radius: 6px;
+									-webkit-border-radius: 6px;
+									-moz-border-radius: 6px;
+									border-radius: 6px;
+									position: relative;
+									border: 1px solid #e0dddd;color: #555e58;
+										background: #f5f5f5;
+									}
+									.ssba_sharecount:after {
+										border-right-color: #f5f5f5;
+									}</style>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel="Shortcut Icon" href="http://www.thedallassocials.com/wp-content/themes/foodie/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.thedallassocials.com/xmlrpc.php" />
+<meta name="p:domain_verify" content="7e0a12c20269ac50bd6765bd535f1038"/>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15328170-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type='text/javascript'>
+(function(a,h,a_,l,o,g,y){ /* dev at 2014-01-20 21:31:00 +0000 */
+window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagName(h)[0];e.parentNode.insertBefore(s,e);
+})(document,'script','_ahalogy','//w.ahalogy.com/',{client:"67568843579-betsymitchell"});
+</script>
+
+<html>
+	<head>
+		<meta name="msvalidate.01" content="FE2AFAFA87EC0058D981D45185A0A304" />
+		<title>Your SEO optimized title</title>
+	</head>
+	<body>
+		page contents
+	</body>
+</html>
+
+
+    <style type="text/css">.site-header { background: url(http://www.thedallassocials.com/wp-content/uploads/2014/06/cropped-Untitled-design-21.png) no-repeat !important; }</style>
+<!--[if lt IE 9]><script src="http://www.thedallassocials.com/wp-content/themes/genesis/lib/js/html5shiv.min.js"></script><![endif]-->
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #eeeee8 !important; border-radius: 3px; color: #a5a5a3 !important; border: 0px #ffffff solid !important; font-size: 16px; padding: 8px; }  .simple-social-icons ul li a:hover { background-color: #a5a5a3 !important; border-color: #ffffff !important; color: #ffffff !important; }</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
+<body class="single single-post postid-22401 single-format-standard tribe-theme-parent-genesis tribe-theme-child-foodie custom-header header-image header-full-width content-sidebar foodie" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.thedallassocials.com/">The Dallas Socials</a></p><p class="site-description" itemprop="description">Dallas Lifestyle Blogger</p></div></div></header><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-navigation" class="menu genesis-nav-menu menu-primary"><li id="menu-item-5218" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5218"><a href="http://www.thedallassocials.com/category/blog/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-5222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5222"><a href="http://www.thedallassocials.com/category/entertainment/" itemprop="url"><span itemprop="name">Entertainment</span></a></li>
+<li id="menu-item-9756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9756"><a href="http://www.thedallassocials.com/events/" itemprop="url"><span itemprop="name">Calendar</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-9908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9908"><a href="http://www.thedallassocials.com/submit-events/" itemprop="url"><span itemprop="name">Submit Your Events</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5228"><a href="http://www.thedallassocials.com/category/events/" itemprop="url"><span itemprop="name">Events</span></a></li>
+<li id="menu-item-5231" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5231"><a href="http://www.thedallassocials.com/category/food-2/" itemprop="url"><span itemprop="name">Food and Drinks</span></a></li>
+<li id="menu-item-13050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13050"><a href="http://www.thedallassocials.com/category/travel-3/" itemprop="url"><span itemprop="name">Travel</span></a></li>
+<li class="right date">February 15, 2016</li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-22401 post type-post status-publish format-standard category-blog category-food-2 entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">No Bake Chocolate Coconut Protein Bars</h1> 
+<p class="entry-meta"><time class="entry-time" itemprop="datePublished" datetime="2016-01-31T21:27:32+00:00">January 31, 2016</time> by <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="http://www.thedallassocials.com/author/admin/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Betsy</span></a></span> <span class="entry-comments-link"><a href="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/#respond">Leave a Comment</a></span> </p></header><div class="entry-content" itemprop="text"><!-- Simple Share Buttons Adder (6.1.5) simplesharebuttons.com --><div class="ssba ssba-wrap"><div style="text-align:left"><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" data-recalc-dims="1" /></a><span class="ssba_sharecount">2</span><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/&amp;text=No+Bake+Chocolate+Coconut+Protein+Bars+"  target="_blank" ><img src="http://i0.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" data-recalc-dims="1" /></a><a data-site="" class="ssba_google_share" href="https://plus.google.com/share?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba ssba-img" alt="Share on Google+" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="stumbleupon" class="ssba_stumbleupon_share ssba_share_link" href="http://www.stumbleupon.com/submit?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/&amp;title=No Bake Chocolate Coconut Protein Bars"  target="_blank" ><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/stumbleupon.png" title="StumbleUpon" class="ssba ssba-img" alt="Share on StumbleUpon" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="email" class="ssba_email_share" href="mailto:?subject=No Bake Chocolate Coconut Protein Bars&amp;body=%20http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba ssba-img" alt="Email this to someone" data-recalc-dims="1" /></a></div></div><p><img class="aligncenter wp-image-21388" src="http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2015/10/SponsoredPostDisclaimer.jpg?resize=453%2C37" alt="SponsoredPostDisclaimer" srcset="http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2015/10/SponsoredPostDisclaimer.jpg?resize=300%2C25 300w, http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2015/10/SponsoredPostDisclaimer.jpg?w=612 612w" sizes="(max-width: 453px) 100vw, 453px" data-recalc-dims="1" />New year, new you &#8211; right?</p>
+<p>2016 has been off to a great start. I try to avoid new year&#8217;s resolutions but I always start the year with a fresh mind and new ideas. Those ideas are always packed full with ways I&#8217;m going to improve. Like many people, health was on the top of my list.  My husband and I work out weekly and eat fairly healthy. We aren&#8217;t on any crazy diets but we know our limits with sweets and fried food.</p>
+<p>Since we still want to enjoy food and not feel like we need to live at the gym, we&#8217;ve made a few tweaks to our diet. I already cook everyday, I&#8217;ve been putting an effort on cooking with more whole foods and making better decisions like swapping out the fried food for veggies.</p>
+<p>After evaluating my diet, I realized I was not getting enough protein. Protein is crucial for your body. A  few things protein does is reduce muscle loss, builds lean muscle, curbs hunger and helps you maintain a healthy weight.  My husband drinks protein shakes daily and I always figured I didn&#8217;t need it since he works out more than me. (I know that sounds crazy, but that&#8217;s that I thought.)</p>
+<p>My husband makes his shakes with <a href="http://www.walmart.com/ip/Purely-Inspired-French-Vanilla-Organic-Protein-Shake-Mix-1.50-lbs/47375942" target="_blank">Iovate Protein</a> and I thought I would give it a try after learning how much protein will help my body. He loves shakes but I wanted something that didn&#8217;t take a lot of effort and that I could take with me when I&#8217;m on the go. My solution? Protein Bars! So easy, so simple!</p>
+<p>I made a recipe that you don&#8217;t have to bake and that includes ingredients that are probably already sitting in your pantry!</p>
+<h2 style="text-align: center;">No Bake Chocolate Coconut Protein Bars<img class="aligncenter wp-image-22408" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/NO-Bake-Chocolate-Coconut-Protein-Bars.jpg?resize=601%2C913" alt="NO Bake Chocolate Coconut Protein Bars" data-recalc-dims="1" /></h2>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>1 cup oats, ground into a flour</li>
+<li class="ingredient">1/2 cup quick oats</li>
+<li class="ingredient">1/3 cup <a href="http://www.walmart.com/ip/Purely-Inspired-French-Vanilla-Organic-Protein-Shake-Mix-1.50-lbs/47375942#about" target="_blank">Purely Inspired French Vanilla Protein Powder</a></li>
+<li class="ingredient">1/2 cup cereal &#8211; anything that will give it a crunch</li>
+<li class="ingredient">3/4 cup peanut butter (or almond butter)</li>
+<li class="ingredient">1/3 cup honey</li>
+<li class="ingredient">1 tsp. vanilla extract</li>
+</ul>
+<p><strong>Directions:</strong></p>
+<p>Prepare a 2 Quart pan by laying down wax paper. Set aside. In a medium-sized mixing bowl, combine all dry ingredients (Oat flour, quick oats, protein powder, and cereal). Mix until well combined and set aside.<img class="aligncenter wp-image-22402" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480.jpg?resize=602%2C402" alt="Homemade Chocolate Coconut Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480.jpg?resize=300%2C200 300w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480.jpg?resize=768%2C512 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480.jpg?resize=1024%2C683 1024w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8480.jpg?resize=680%2C453 680w" sizes="(max-width: 602px) 100vw, 602px" data-recalc-dims="1" />In a small microwavable dish, add almond butter and honey, stirring until the peanut butter is melted and fully combined with the honey. Stir in vanilla extract. Mix the dry ingredients with the wet ingredients. Stir until everything is fully combined.<img class="aligncenter wp-image-22403" src="http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484.jpg?resize=626%2C417" alt="No Bake Protein Bars" srcset="http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484.jpg?resize=300%2C200 300w, http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484.jpg?resize=768%2C512 768w, http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484.jpg?resize=1024%2C683 1024w, http://i0.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8484.jpg?resize=680%2C453 680w" sizes="(max-width: 626px) 100vw, 626px" data-recalc-dims="1" />Pour all ingredients into the pan. Using a spatula, the back of a spoon or your hands, spread the mixture evenly in the pan, pressing down firmly<img class="aligncenter wp-image-22404" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486.jpg?resize=629%2C420" alt="No Bake Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486.jpg?resize=300%2C200 300w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486.jpg?resize=768%2C512 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486.jpg?resize=1024%2C683 1024w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8486.jpg?resize=680%2C453 680w" sizes="(max-width: 629px) 100vw, 629px" data-recalc-dims="1" /></p>
+<p>Place pan into fridge and allow to cool for approximately 30 minutes before cutting into bars. Once the bars have set, gently pull the wax paper up releasing the bars from the pan. <img class="aligncenter wp-image-22405" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487.jpg?resize=633%2C422" alt="No Bake Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487.jpg?resize=300%2C200 300w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487.jpg?resize=768%2C512 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487.jpg?resize=1024%2C683 1024w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8487.jpg?resize=680%2C453 680w" sizes="(max-width: 633px) 100vw, 633px" data-recalc-dims="1" />Cut the mixture into bars using a sharp knife. <img class="aligncenter wp-image-22406" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8488-e1454295818299-683x1024.jpg?resize=639%2C958" alt="No Bake Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8488-e1454295818299.jpg?resize=200%2C300 200w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8488-e1454295818299.jpg?resize=768%2C1152 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8488-e1454295818299.jpg?resize=683%2C1024 683w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1" />Top the protein bars with any ingredients you would like. I melted chocolate morsels and poured over each bar then sprinkled with coconut. <img class="aligncenter wp-image-22407" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489.jpg?resize=652%2C435" alt="No Bake Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489.jpg?resize=300%2C200 300w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489.jpg?resize=768%2C512 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489.jpg?resize=1024%2C683 1024w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8489.jpg?resize=680%2C453 680w" sizes="(max-width: 652px) 100vw, 652px" data-recalc-dims="1" /></p>
+<p>Once you&#8217;re finished topping your protein bars, you&#8217;re ready to eat them! If you&#8217;re like me, you snacked on them while you were making them. They are so good they&#8217;re hard to resist.<img class="aligncenter wp-image-22409" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8499-e1454296440283-683x1024.jpg?resize=528%2C792" alt="NO Bake Protein Bars" srcset="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8499-e1454296440283.jpg?resize=200%2C300 200w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8499-e1454296440283.jpg?resize=768%2C1152 768w, http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2016/01/IMG_8499-e1454296440283.jpg?resize=683%2C1024 683w" sizes="(max-width: 528px) 100vw, 528px" data-recalc-dims="1" /></p>
+<p>If you don&#8217;t have time to make these bars, you can always add the protein to many other recipes. Purely Inspired Protein is the only  truly organic USDA approved plant-based protein powder and it has no artificial coloring or flavors. I love that there is a vanilla and chocolate option. You can&#8217;t beat such an amazing protein for only $19.97 at Walmart.</p>
+<p>If you don&#8217;t want to make anything with your protein, you can always drink it with water. My husband does this often! If you would prefer to buy protein bars that are already made, check out <a href="http://www.mission1bar.com" target="_blank">Mission1™ bars</a>. These bars have no artificial ingredients and come in lots of great flavors (Cookies &amp; Cream, Chocolate Chip Cookie Dough, Chocolate Brownie). You can buy a box &#8211; 4 pack ($6.94) OR can buy an individual bar ($1.84).</p>
+<p><iframe src="https://vine.co/v/i5E72qDagmD/embed/simple?audio=1" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script><br />
+What do you do to ensure you are receiving enough protein in your diet?</p>
+<!-- Simple Share Buttons Adder (6.1.5) simplesharebuttons.com --><div class="ssba ssba-wrap"><div style="text-align:left"><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" data-recalc-dims="1" /></a><span class="ssba_sharecount">2</span><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/&amp;text=No+Bake+Chocolate+Coconut+Protein+Bars+"  target="_blank" ><img src="http://i0.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" data-recalc-dims="1" /></a><a data-site="" class="ssba_google_share" href="https://plus.google.com/share?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba ssba-img" alt="Share on Google+" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="stumbleupon" class="ssba_stumbleupon_share ssba_share_link" href="http://www.stumbleupon.com/submit?url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/&amp;title=No Bake Chocolate Coconut Protein Bars"  target="_blank" ><img src="http://i2.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/stumbleupon.png" title="StumbleUpon" class="ssba ssba-img" alt="Share on StumbleUpon" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"  target="_blank" ><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" data-recalc-dims="1" /></a><span class="ssba_sharecount">0</span><a data-site="email" class="ssba_email_share" href="mailto:?subject=No Bake Chocolate Coconut Protein Bars&amp;body=%20http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"><img src="http://i1.wp.com/www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba ssba-img" alt="Email this to someone" data-recalc-dims="1" /></a></div></div><!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"
+    dc:identifier="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/"
+    dc:title="No Bake Chocolate Coconut Protein Bars"
+    trackback:ping="http://www.thedallassocials.com/blog/homemade-chocolate-coconut-protein-bars/trackback/" />
+</rdf:RDF>-->
+</div><div class="adjacent-entry-pagination pagination"><div class="pagination-previous alignleft">&laquo; <a href="http://www.thedallassocials.com/events/best-buy-free-photography-workshop/" rel="prev">Attend a FREE Photography Workshop at Best Buy</a></div><div class="pagination-next alignright"><a href="http://www.thedallassocials.com/blog/places-to-get-a-blowout-in-dallas/" rel="next">Places to Get a Blowout in Dallas</a> &raquo;</div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-categories">Filed Under: <a href="http://www.thedallassocials.com/category/blog/" rel="category tag">Blog</a>, <a href="http://www.thedallassocials.com/category/food-2/" rel="category tag">Food and Drinks</a></span> </p></footer></article>		
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blog/homemade-chocolate-coconut-protein-bars/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=63408080&#038;postid=22401&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=0&#038;stb_enabled=0&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.9.1&#038;sig=ba2e3b0a562bea38cdf633fa36d89cd2289b5fc7#parent=http%3A%2F%2Fwww.thedallassocials.com%2Fblog%2Fhomemade-chocolate-coconut-protein-bars%2F" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Connect with me</h4>
+<ul class="aligncenter"><li class="social-facebook"><a href="http://www.facebook.com/dallassocials" target="_blank">&#xe606;</a></li><li class="social-gplus"><a href="https://plus.google.com/116986206053260565728/posts" target="_blank">&#xe60e;</a></li><li class="social-instagram"><a href="http://www.instagram.com/dallassocials" target="_blank">&#xe600;</a></li><li class="social-pinterest"><a href="http://www.pinterest.com/dallassocials" target="_blank">&#xe605;</a></li><li class="social-twitter"><a href="http://www.twitter.com/dallassocials" target="_blank">&#xe607;</a></li></ul></div></section>
+<section id="widget_sp_image-2" class="widget widget_sp_image"><div class="widget-wrap"><h4 class="widget-title widgettitle">Dallas Lifestyle Blogger</h4>
+<a href="http://www.thedallassocials.com/dallas-lifestyle-blogger/" id="" target="_blank" class="widget_sp_image-image-link" title="Dallas Lifestyle Blogger" rel=""><img width="200" height="244" alt="Dallas Lifestyle Blogger" class="attachment-full aligncenter" style="max-width: 100%;" src="http://i1.wp.com/www.thedallassocials.com/wp-content/uploads/2010/03/me1.jpg?fit=200%2C244" /></a><div class="widget_sp_image-description" ><p>Lifestyle Blog written by a 20 something year old living in the city.  You'll find a hodge podge of my life here - everything from food, things to do in Dallas, entertainment recaps, crafts and more on The Dallas Socials. </p>
+<p>Say Hello! Email me: Betsy@TheDallasSocials.com</p>
+</div></div></section>
+<section id="text-46" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Interested in Oils? Learn more here! </h4>
+			<div class="textwidget"><a href="http://lipglossandhighheels.com/young-living-essential-oils-starter-kit"><center><img src="http://lipglossandhighheels.com/wp-content/uploads/2015/06/Home-is-even-sweeter.jpg"></a></center>
+</div>
+		</div></section>
+<section id="search-3" class="widget widget_search"><div class="widget-wrap"><h4 class="widget-title widgettitle">Search:</h4>
+<form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://www.thedallassocials.com/" role="search"><meta itemprop="target" content="http://www.thedallassocials.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+<section id="text-42" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Posts:</h4>
+			<div class="textwidget"><a href="http://www.thedallassocials.com/blog/things-dallas-kids/"><center><img src="http://www.thedallassocials.com/wp-content/uploads/2014/12/The-Ultimate-List-of-THings-to-do-in-Dallas-with-Kids.jpg" height="300" width="300"></a></center><a href="http://www.thedallassocials.com/blog/fun-and-almost-free-date-ideas-around-dallas/"><center><img src="http://www.thedallassocials.com/wp-content/uploads/2013/09/fun-and-free-dates-night-ideas-in-dallas.jpg" height="300" width="300"></a></center><a href="http://www.thedallassocials.com/blog/starbucks-holiday-drink-recipes/"><center><img src="http://www.thedallassocials.com/wp-content/uploads/2012/12/starbucks-logo.jpg" height="300" width="300"></a></center><a href="http://www.thedallassocials.com/blog/100-things-to-do-in-10-minutes/"><center><img src="http://www.thedallassocials.com/wp-content/uploads/2015/05/100-Things-to-do-in-10-Minutes.jpg" height="300" width="300"></a>
+
+</div>
+		</div></section>
+<section id="text-31" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Twitter</h4>
+			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/DallasSocials" data-widget-id="332677060818518017">Tweets by @DallasSocials</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</div></section>
+<section id="enews-ext-3" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Subscribe:</h4>
+			<form id="subscribe-enews-ext-3" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open( 'http://feedburner.google.com/fb/a/mailverify?uri=thedallassocials', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" name="enews-ext-3">
+				<label for="subbox" class="screenread">Enter your email address...</label><input type="email" value="" id="subbox" placeholder="Enter your email address..." name="email" required="required" />
+				<input type="hidden" name="uri" value="thedallassocials" />
+				<input type="hidden" name="loc" value="en_US" />
+				<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="text-47" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=bB27FLam64A&offerid=358802.148&type=3&subid=0"><center><img src="http://www.thedallassocials.com/wp-content/uploads/2015/02/Best-Buy.jpg"></a></center></div>
+		</div></section>
+<section id="ws_widget__ad_codes-6" class="widget ad-codes"><div class="widget-wrap"><div style="margin: 0 auto 0 auto; text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LGHH -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="6166510506"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></section>
+</aside></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="pages-5" class="widget widget_pages"><div class="widget-wrap"><h4 class="widget-title widgettitle">Pages</h4>
+		<ul>
+			<li class="page_item page-item-5"><a href="http://www.thedallassocials.com/dallas-lifestyle-blogger/">About</a></li>
+<li class="page_item page-item-3450"><a href="http://www.thedallassocials.com/advertise/">Advertise</a></li>
+<li class="page_item page-item-40"><a href="http://www.thedallassocials.com/contact-2/">Contact</a></li>
+<li class="page_item page-item-8471"><a href="http://www.thedallassocials.com/dfw-bloggers/">DFW Bloggers</a></li>
+<li class="page_item page-item-950"><a href="http://www.thedallassocials.com/disclosures/">Disclosures</a></li>
+<li class="page_item page-item-4282"><a href="http://www.thedallassocials.com/press/">Press</a></li>
+<li class="page_item page-item-9904"><a href="http://www.thedallassocials.com/submit-events/">Submit Your Events</a></li>
+		</ul>
+		</div></section>
+<section id="text-45" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><embed src="http://www.carnival.com/~/media/CCLUS/my-cruise-countdown/countdown.ashx?dat=01%2F04%2F2015&dest=C&ship=CQ&js_config=http://www.carnival.com/~/media/CssAndJsFiles/my-cruise-countdown/js/quicksearch js.ashx" type="application/x-shockwave-flash" width="320" height="300" quality="high" bgcolor="#ffffff" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" /><p>Visit <a href="http://www.carnival.com?cid=So_FB_NA_O_CountdownWidget_24&DMP=5009,6059,7001,,8011">Carnival.com</a> to see our <a href="http://www.carnival.com/cruise-to/caribbean.aspx?cid=So_FB_NA_O_CountdownWidget_24&DMP=5009,6059,7001,,8011">Caribbean cruises</a>.</p></div>
+		</div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="tribe-events-list-widget-2" class="widget tribe-events-list-widget"><div class="widget-wrap"><h4 class="widget-title widgettitle">Upcoming Events</h4>
+
+	<ol class="tribe-list-widget">
+					<li class="tribe-events-list-widget-events type-tribe_events post-21989 tribe-clearfix tribe-events-category-art-2 tribe-events-category-calendar tribe-events-category-fashion-2 tribe-events-venue-9788">
+
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="http://www.thedallassocials.com/event/decadence-fashions-from-the-1920s/" rel="bookmark">Decadence: Fashions from the 1920s</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">January 22 @ 12:00 pm</span> - <span class="tribe-event-date-end">February 28 @ 6:00 pm</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-22243 tribe-clearfix tribe-events-category-calendar tribe-events-category-fashion-2 tribe-events-venue-9788">
+
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="http://www.thedallassocials.com/event/decadence-fashions-from-the-1920s-2/" rel="bookmark">Decadence: Fashions from the 1920s</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">January 22 @ 12:00 pm</span> - <span class="tribe-event-date-end">February 28 @ 6:00 pm</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-22436 tribe-clearfix tribe-events-venue-21245 tribe-events-organizer-21244">
+
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="http://www.thedallassocials.com/event/zingerz-clean-improv-comedy-show-family-friendly-2/" rel="bookmark">Zingerz&#8217; Clean Improv Comedy Show (Family Friendly)</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">February 19 @ 7:00 pm</span> - <span class="tribe-event-time">8:30 pm</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-22440 tribe-clearfix tribe-events-venue-21245 tribe-events-organizer-21244">
+
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="http://www.thedallassocials.com/event/zingerz-clean-improv-comedy-show-family-friendly-4/" rel="bookmark">Zingerz&#8217; Clean Improv Comedy Show (Family Friendly)</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">February 20 @ 5:30 pm</span> - <span class="tribe-event-time">7:00 pm</span>				</div>
+
+							</li>
+					<li class="tribe-events-list-widget-events type-tribe_events post-22507 tribe-clearfix tribe-events-venue-22509 tribe-events-organizer-22508">
+
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="http://www.thedallassocials.com/event/the-art-of-the-pop-portrait/" rel="bookmark">“The Art of the Pop Portrait”</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">February 20 @ 6:00 pm</span> - <span class="tribe-event-time">9:00 pm</span>				</div>
+
+							</li>
+			</ol><!-- .tribe-list-widget -->
+
+	<p class="tribe-events-widget-link">
+		<a href="http://www.thedallassocials.com/events/" rel="bookmark">View All Events</a>
+	</p>
+
+</div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="text-43" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- DS HEader -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="1713483301"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></section>
+<section id="text-44" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- DS HEader -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5457574646102591"
+     data-ad-slot="1713483301"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<img src='http://linqia.ooh.li/badge/a23bda2cab0c/linqia_1.png'><script type='text/javascript' src='http://linqia.ooh.li/a23bda2cab0c/linqia.js'></script></div>
+		</div></section>
+<section id="text-40" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- Your CGC Badge: Congratulations! --><script type='text/javascript' src='https://s3.amazonaws.com/cgc-badge-v2/load.min.js'></script><script type='text/javascript' src='https://s3.amazonaws.com/cgc-badge-v2/common.js'></script><script type='text/javascript' src='http://badge.clevergirlscollective.com/v2/YeT5tcxG8Jbq3N1TzC3E9wVuOM0yO066.js'></script><!-- END CGC Badge -->
+<script src="http://ads.blogherads.com/bh/42/422/422966/2109685/influencer.js" type="text/javascript"></script></div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2016 &middot; <a href="http://www.shaybocks.com/foodie/">Foodie Theme</a> by <a href="http://www.shaybocks.com/">Shay Bocks</a> &middot; Built on the  <a href="http://www.studiopress.com/">Genesis Framework</a> &middot;  Powered by <a href="http://wordpress.org/">WordPress</a></p></div></footer></div><!-- Start Influence Central Tag -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5SGGH8" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5SGGH8');</script>
+<!-- End Influence Central Tag --><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5457574646102591";
+/* DS Bottom */
+google_ad_slot = "7026011709";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 1000,slideshowSpeed: 4000    });  });</script><script type='text/javascript' src='http://www.thedallassocials.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-content/themes/foodie/lib/js/general.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='http://www.thedallassocials.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+<script src="//my.hellobar.com/1c83c21aac0095ac6df76344c2071ceab606b073.js" type="text/javascript" charset="utf-8" async="async"></script>
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=63408080&postid=22401&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.9.1&sig=ba2e3b0a562bea38cdf633fa36d89cd2289b5fc7#parent=http%3A%2F%2Fwww.thedallassocials.com%2Fblog%2Fhomemade-chocolate-coconut-protein-bars%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=63408080&postid=22401&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.9.1&sig=ba2e3b0a562bea38cdf633fa36d89cd2289b5fc7#parent=http%3A%2F%2Fwww.thedallassocials.com%2Fblog%2Fhomemade-chocolate-coconut-protein-bars%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'63408080',post:'22401',tz:'-6',srv:'www.thedallassocials.com'} ]);
+	_stq.push([ 'clickTrackerInit', '63408080', '22401' ]);
+</script>
+
+<script type='text/javascript'>
+    /*Google Tag Manager for Collective Bias*/
+
+    dataLayerCBias = [{
+        'trackingID': 'UA-50774561-32',
+        'javaScriptVersion': 'analytics.js',
+        'homePageURL': 'http://www.thedallassocials.com'
+    }];
+</script>
+<noscript>
+    <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PBN79J' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+</noscript>
+<script type='text/javascript'>
+    /*<![CDATA[*/
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.'+'js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayerCBias', 'GTM-PBN79J');
+    /*]]>*/
+
+    /*End Google Tag Manager for Collective Bias*/
+</script></body>
+</html>

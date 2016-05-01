@@ -1,0 +1,1513 @@
+ 
+     
+    
+<!DOCTYPE HTML>
+ <html xmlns="http://www.w3.org/1999/xhtml"> 
+     
+<head>
+<meta charset="utf-8"> 
+<title>Property owners of proposed Walmart development sue Edmond : Related Articles | OOYUZ </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="static/Themes/css/forall.css" rel="stylesheet">
+  <link href="static/Themes/css/newpublisherpage.css" rel="stylesheet">
+<!-- <link href="static/Themes/css/forall.css" rel="stylesheet"> -->
+
+     <link rel="shortcut icon ooyuz" href="static/Themes/image/favicon.ico" > 
+
+    <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+   <link href='http://fonts.googleapis.com/css?family=Coda|Quattrocento+Sans' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+
+  <script src="static/Themes/js/modernizr.js"></script>
+
+      <script src="static/Themes/js/d3.min.js"></script>
+    <style>
+    
+    .adsf{
+    display:block;
+    float:left;
+        max-width:430px;
+
+    }
+    </style>
+
+    <script>
+$(document).ready(function() {
+    $(".searchtopbutton").click(function () {
+        $(".topbar").slideToggle('slow');
+    
+        if( $(this).text() =='Close'){
+   
+           $(this).text('Search');
+         } else {
+           $(this).text('Close');        
+        }
+    });
+    
+    $(":button").click(function() {
+         
+          var buttvalue = $(this).val();
+      
+          $("#myform").attr("action", buttvalue);
+          });
+})
+
+</script>
+      <script>
+function validateForm() {
+
+    var x = document.forms["myform"]["term"].value;
+    if (x == null || x == ""|| x.length<3) {
+  
+        $('.emm').css("display" ,"block" );
+        return false;
+       
+    }
+}
+     </script>
+ 
+
+</head>
+<body>
+ 
+    <div id="wrapper">
+        
+<div class="searchtop">
+            
+    <div class="logo"><a href="http://www.ooyuz.com">OOYUZ</a><span style="font-size:9px;">beta</span></div>        
+               
+     <div class="tagline">News Search & Analytics</div>  
+
+   <!-- <div class="searchbutt"><button class="searchtopbutton">Close</button> </div> -->       
+
+   <div class="searchbutt"> US Edition</div>      
+
+
+          </div>   
+ <div class="topbar">
+<form id="myform" name="myform" action="" method="get" style="text-align:center;" onsubmit="return validateForm();">
+<input type="text" class= "textar" name="term" size="50" style="margin:auto;" value="" column="80">
+<div class="emm" > Minimum 3 characters required!!</div>
+     
+
+             <button type="submit" value="/newsanalysis">Search</button> 
+                        
+     </form></div>
+        
+  
+
+    <div class="container">
+
+
+
+ <div class="content">
+
+   <div class="articlewrap">
+ <div class="titleurl"><h1>Property owners of proposed Walmart development sue Edmond</h1></div>
+<div class="datesite">Wed Feb 03 07:26:39 EST 2016 | NewsOk   </div>
+    
+ 
+
+   <div class="urlimg"> 
+   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454520520053.jpg" />
+
+   </div>
+
+
+   <div class="advert" >
+    
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:350px;"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4422284115"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        
+       </div>
+
+    <div class="urlcontent">
+    
+ 
+
+EDMOND&nbsp;— Covell Creek LLC, the owner of property at Covell and Coltrane roads where Walmart proposed a Neighborhood Market, has filed a lawsuit against the city of Edmond. The petition, filed in Oklahoma County District Court on Tuesday, challenges the city council's&nbsp; decision on Jan. 11 to deny a&nbsp;Walmart site plan appeal to build the grocery store.&nbsp; The decision came after more than two hours of discussion with 17 homeowners speaking against the 41,952-square-foot business. ..
+    </br>
+       <div class="advert12">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive horizonal -->
+<ins class="adsbygoogle"
+     style="display:block;text-align:center;margin:auto;"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="2319722110"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+<div class="readarticle"><a target="_blank" href='http://newsok.com/property-owners-of-proposed-walmart-development-sue-edmond/article/5476550?custom_click=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newsok%2Fbusiness+%28NewsOK.com+RSS+-+business%29' rel="nofollow"> Read Article </a>  </div>
+</br>
+ <div class="urltags">
+
+ 
+
+<a href="http://www.ooyuz.com/newsarticles?term=asheforde oaks" target="_blank" >  asheforde oaks </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=coltrane" target="_blank" >  coltrane </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=neighborhood market" target="_blank" >  neighborhood market </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=tuesday" target="_blank" >  tuesday </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=jan." target="_blank" >  jan. </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=covell" target="_blank" >  covell </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=walmart" target="_blank" >  walmart </a>
+
+
+
+
+
+</div>
+      
+  
+      </div>
+        
+        
+<!--  
+<div class="popularitywrap">
+      <div class="sharing">Popularity on Social media</div>
+
+<div class="urlsocialcount">
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/facebook.png">
+</div>
+<div class="facebookcc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/twitter.png">
+</div>
+<div class="twittercc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/linkedin.png">
+</div>
+<div class="linkedincc innersocialcount">NA</div>
+</div>
+<div class="f"></div>
+</div>
+          </div>  -->
+  
+        <div class="sharingbox">
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "a90d3460-e618-4c8f-8644-9fba2dbccafa", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_googleplus_large' displayText='Google +'></span>
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+<span class='st_pinterest_large' displayText='Pinterest'></span>
+<span class='st_reddit_large' displayText='Reddit'></span>
+<span class='st_buffer_large' displayText='Buffer'></span>
+<span class='st_email_large' displayText='Email'></span>
+
+
+</div>
+      
+        
+        </div>
+        
+ 
+        
+        
+<div class="sidebarurl">
+
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive horizonal -->
+<ins class="adsbygoogle"
+     style="display:block;max-width:400px;margin-bottom:20px;"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="2319722110"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+         
+
+ 
+    <div class="keywordrelated">Related Keywords</div>
+<div class="relatedkeyword">
+
+ 
+
+<a href="/newsanalysis?term=tuesday" target="_blank" >  tuesday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=feb." target="_blank" >  feb. </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=monday" target="_blank" >  monday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=ap" target="_blank" >  ap </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=wednesday" target="_blank" >  wednesday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=jan." target="_blank" >  jan. </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=walmart" target="_blank" >  walmart </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=london" target="_blank" >  london </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=easyjet" target="_blank" >  easyjet </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=aldi" target="_blank" >  aldi </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=edmond" target="_blank" >  edmond </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=asheforde oaks" target="_blank" >  asheforde oaks </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=greece" target="_blank" >  greece </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=cyprus" target="_blank" >  cyprus </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=oklahoma county district court" target="_blank" >  oklahoma county district court </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=lidl" target="_blank" >  lidl </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=neighborhood market" target="_blank" >  neighborhood market </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=coltrane" target="_blank" >  coltrane </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=march" target="_blank" >  march </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=june" target="_blank" >  june </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=britain" target="_blank" >  britain </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=stelios haji-ioannou" target="_blank" >  stelios haji-ioannou </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=covell creek llc" target="_blank" >  covell creek llc </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=council president kim bradley" target="_blank" >  council president kim bradley </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=hotel" target="_blank" >  hotel </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=thursday" target="_blank" >  thursday </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=november" target="_blank" >  november </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=disco" target="_blank" >  disco </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=miss" target="_blank" >  miss </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=hattiesburg city council" target="_blank" >  hattiesburg city council </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=reporting" target="_blank" >  reporting </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=new york" target="_blank" >  new york </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=associated press" target="_blank" >  associated press </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=photo provided" target="_blank" >  photo provided </a>
+ 
+ 
+
+
+
+<a href="/newsanalysis?term=diana baldwin" target="_blank" >  diana baldwin </a>
+ 
+ 
+
+
+
+
+</div> 
+  
+        </div>
+   
+		<div class="fullcoverage">
+       
+         
+        
+		</div>
+
+  <div class="urlarticlecluster">
+
+ 
+
+
+ 
+    
+        <div class="urlarticleparent" id="10180279" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/0/30/1454154130322.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10180279">Fed extends comment period on capital buffer rule - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+Thomson ReutersThe Federal Reserve building in Washington WASHINGTON (Reuters) - The Federal Reserve has extended the comment period for its proposal on how much capital banks shou..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10180279"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10255107" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454607701153.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10255107">Real estate site predicts Houston's hottest neighborhoods of 2016</a>  <div class="sourcename">-Chron </div>
+				</div>
+				<div class="urlarticlechild">
+Popular real estate website Redfin has released its predictions for the Hottest Neighborhoods of this year.&nbsp; The study looked at public transit, affordability and "charm," or ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10255107"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10251924" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454587472356.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10251924">City eyes tree replacement on Broadway; Project to address concerns of diseased trees, safety hazards</a>  <div class="sourcename">-SM Daily Journal </div>
+				</div>
+				<div class="urlarticlechild">
+Austin Walsh/ Daily Journal Trees lining Broadway in Burlingame have been infected with a lethal disease, causing officials to consider replacing them. A new look may soon be bloom..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10251924"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10236857" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454521107884.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10236857">Buffalo mayor to announce who will build city grocery store</a>  <div class="sourcename">-The Buffalo News </div>
+				</div>
+				<div class="urlarticlechild">
+After months of anticipation, Buffalo Mayor Byron W. Brown on Friday will announce the identity of the firm selected to redevelop a city-owned parking lot on Ellicott Street into a..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10236857"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10258162" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454617880511.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10258162">Onion Creek owner buys Wabash property on Washington</a>  <div class="sourcename">-Chron </div>
+				</div>
+				<div class="urlarticlechild">
+Gary Mosley, owner of Onion Creek and several other bars and cafes in the Heights area, has purchased the Wabash Feed and Garden Store&nbsp;property at 5701 Washington Ave. After 2..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10258162"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10234072" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10234072">City response tepid to post office plans: Burlingame council unimpressed with housing, retail project design</a>  <div class="sourcename">-SM Daily Journal </div>
+				</div>
+				<div class="urlarticlechild">
+The design of a large housing and retail project which some hope will redevelop the former Burlingame post office into a landmark attraction drew criticism from city officials duri..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10234072"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10249715" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454567637023.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10249715">City of Edmond is sued over denial of Walmart appeal</a>  <div class="sourcename">-NewsOk </div>
+				</div>
+				<div class="urlarticlechild">
+EDMOND&nbsp;— Covell Creek, the owner of property at Covell and Coltrane roads where Walmart proposed a Neighborhood Market, has filed a lawsuit against the city of Edmond. The pet..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10249715"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10237853" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454523714957.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10237853">Property owners of proposed Walmart development sue Edmond</a>  <div class="sourcename">-NewsOk </div>
+				</div>
+				<div class="urlarticlechild">
+An aerial photograph of the work that has been done on the property at Coltrane and Covell roads where Walmart wants to build a Neighborhood Market. Edmond city officials stopped w..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10237853"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10236630" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454520520053.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10236630">Property owners of proposed Walmart development sue Edmond</a>  <div class="sourcename">-NewsOk </div>
+				</div>
+				<div class="urlarticlechild">
+EDMOND&nbsp;— Covell Creek LLC, the owner of property at Covell and Coltrane roads where Walmart proposed a Neighborhood Market, has filed a lawsuit against the city of Edmond. The..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10236630"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10203951" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/1/1454356945886.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10203951">Forest Edge housing plan draws Cranberry residents’ questions</a>  <div class="sourcename">-tribLive </div>
+				</div>
+				<div class="urlarticlechild">
+Updated 2 hours ago Some residents close to the proposed Forest Edge housing development have voiced concerns about it to Cranberry supervisors. Plans call for construction of 59 s..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10203951"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10216837" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454423747734.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10216837">Beachwood City Council holds off on approving development agreement at Cranberry Court site</a>  <div class="sourcename">-Cleveland.com </div>
+				</div>
+				<div class="urlarticlechild">
+BEACHWOOD, Ohio -- A townhouse development that has been in the works the past three years&nbsp;once again appeared on Beachwood City Council's agenda Monday night, but again, ther..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10216837"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10233350" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454500411987.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10233350">Lathrop Homes plan seeks to preserve history, riverfront and public housing</a>  <div class="sourcename">-Chicago Tribune </div>
+				</div>
+				<div class="urlarticlechild">
+Lathrop Homes, a historic but decaying public housing project on Chicago's North Side, would become a mixed-income riverfront community of more than 1,100 residences under a plan d..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10233350"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10226577" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454459135803.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10226577">City wants North Beach residents to help plan future of neighborhood</a>  <div class="sourcename">-Miami Herald </div>
+				</div>
+				<div class="urlarticlechild">
+The culturally and economically eclectic neighborhood in the northern section of Miami Beach is about to start a planning process to produce a road map for the area’s future. Polit..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10226577"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10212497" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454393254236.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10212497">New grocery store by Easy Jet founder - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+easyFoodstore The billionaire founder of the airline EasyJet is getting into the discount grocery business.&nbsp; Stelios Haji-Ioannou&nbsp;is launching a&nbsp;chain called easyFoo..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10212497"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10277431" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454707768784.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10277431">Review: Dancers as automatons in Ginger Krebs' brilliant 'Buffer Overrun'</a>  <div class="sourcename">-Chicago Tribune </div>
+				</div>
+				<div class="urlarticlechild">
+Data overflowing the banks of a storage site doesn't sound a promising premise for a dance. It becomes a suggestive metaphor, however, in Ginger Krebs' world premiere "Buffer Overr..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10277431"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10211688" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454391170869.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10211688">Mayor Stothert, city leaders outline plan for incoming snowstorm</a>  <div class="sourcename">-KETV Omaha </div>
+				</div>
+				<div class="urlarticlechild">
+Mayor Jean Stothert and other city leaders set expectations Monday afternoon for the upcoming snowstorm. The snow emergency goes into effect at midnight for Omaha residents, and St..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10211688"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10228835" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454467406521.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10228835">Common Council wants to crack down on activities at neighborhood stores</a>  <div class="sourcename">-The Buffalo News </div>
+				</div>
+				<div class="urlarticlechild">
+Frustrated over illegal activities at some neighborhood grocery and deli stores, the Common Council on Tuesday asked if the State of New York could help out. If a business violates..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10228835"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10202647" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/1/1454352153372.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10202647">The Golden State Warriors' Andre Iguodala lists his L.A.-area home for $1.75 million</a>  <div class="sourcename">-Los Angeles Times </div>
+				</div>
+				<div class="urlarticlechild">
+Looking to make an off-court pass of sorts, Golden State&nbsp;Warriors sixth man Andre Iguodala has put his&nbsp;home in Sherman Oaks area up for sale at&nbsp;$1.75 million. The fe..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10202647"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10234070" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10234070">City pulls plug on new garbage plan: San Mateo residents' confusion prompts council to cancel biweekly collect..</a>  <div class="sourcename">-SM Daily Journal </div>
+				</div>
+				<div class="urlarticlechild">
+Just as some San Mateo residents were about to begin a pilot program aimed at diverting waste from landfills, city officials pulled the plug on RethinkWaste’s three-month trial for..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10234070"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10239152" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454526765963.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10239152">Hattiesburg City Council approves new traffic impact study</a>  <div class="sourcename">-seattle pi </div>
+				</div>
+				<div class="urlarticlechild">
+HATTIESBURG, Miss. (AP) — The city of Hattiesburg is hoping a new traffic study will lead to improved parking and traffic flow downtown. Media outlets report that the Hattiesburg C..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10239152"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10275976" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454703830189.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10275976">White: Need to move on containR site for affordable housing</a>  <div class="sourcename">-Calgary Herald </div>
+				</div>
+				<div class="urlarticlechild">
+Coun. Evan Woolley was invited by CBC News to write a New Year’s message to Calgarians as part of its Calgary at a Crossroads series of guest editorials. Woolley’s piece, “Why we n..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10275976"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10232746" >
+
+
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10232746">EasyJet owner launches ultra-low budget grocery in UK</a>  <div class="sourcename">-U.S. News </div>
+				</div>
+				<div class="urlarticlechild">
+LONDON (AP) — The founder of budget airline EasyJet has stepped into Britain's grocery aisle. Stelios Haji-Ioannou has opened a discount grocery in northwest London, called EasyFoo..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10232746"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10248935" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/4/1454566386037.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10248935">EasyJet owner launches ultra-low budget grocery in UK - Business Insider</a>  <div class="sourcename">-Business Insider </div>
+				</div>
+				<div class="urlarticlechild">
+syndication.ap.orgPeople queue outside the EasyFood store in London, Wednesday, Feb. 3, 2016. The founder of budget airline EasyJet has stepped into Britain’s grocery aisle. Stelio..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10248935"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10196814" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/1/1454316355957.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10196814">In Our View / Housing market: 
+				
+
+People priced out of homes</a>  <div class="sourcename">-HeraldNet </div>
+				</div>
+				<div class="urlarticlechild">
+The housing market — particularly new construction — sadly reflects our country's economic reality: The rich get richer, and things just get tougher for everyone else.During the Gr..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10196814"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10245435" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454546440258.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10245435">Property owners of proposed Walmart development sue Edmond</a>  <div class="sourcename">-NewsOk </div>
+				</div>
+				<div class="urlarticlechild">
+An aerial photograph of the work that has been done on the property at Coltrane and Covell roads where Walmart wants to build a Neighborhood Market. Edmond city officials stopped w..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10245435"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10272294" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454692486613.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10272294">Store owner: Employee shot in stomach in Angleton meat market robbery</a>  <div class="sourcename">-ABC-13 </div>
+				</div>
+				<div class="urlarticlechild">
+A person was shot in the stomach during a robbery in Angleton this morning. The shooting happened around 6am at or near the General Teran Meat Market in the 500 block of South Ande..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10272294"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10246647" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454552996810.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10246647">Oklahoma group seeks state vote on wine and strong beer in grocery, convenience stores</a>  <div class="sourcename">-NewsOk </div>
+				</div>
+				<div class="urlarticlechild">
+Multiple efforts are underway to give Oklahomans a chance to vote in November on modernizing Oklahoma's alcohol laws.&nbsp; Oklahomans for Modern Laws filed its proposed&nbsp;state..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10246647"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10219303" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/2/1454436209691.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10219303">AG&#x2019;s office files lawsuit alleging snow-removal scam</a>  <div class="sourcename">-The Buffalo News </div>
+				</div>
+				<div class="urlarticlechild">
+State Attorney General Eric T. Schneiderman has sued a man authorities say is scamming customers in Western New York. Joseph Lloyd, 45, of Niagara Falls, is accused of defrauding c..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10219303"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10268454" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454661541496.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10268454">Swedish FSA proposes 2 pct countercyclical buffer from March 2017</a>  <div class="sourcename">-Reuters </div>
+				</div>
+				<div class="urlarticlechild">
+STOCKHOLM Feb 5 The Swedish Financial Supervisory Authority has proposed to raise the country's countercyclical buffer to 2 percent from March 2017. It had previously said it would..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10268454"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10198992" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/1/1454337476489.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10198992">Little Valley woman charged with Leandra&#x2019;s Law violation after traffic stop</a>  <div class="sourcename">-The Buffalo News </div>
+				</div>
+				<div class="urlarticlechild">
+MACHIAS – A Little Valley woman with a previous drunken driving conviction had a 9-month-old in the vehicle when he was charged last week with driving while intoxicated in Cattarau..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10198992"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10239515" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454527741069.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10239515">Hattiesburg City Council approves new traffic impact study - SFGate</a>  <div class="sourcename">-SFgate </div>
+				</div>
+				<div class="urlarticlechild">
+HATTIESBURG, Miss. (AP) — The city of Hattiesburg is hoping a new traffic study will lead to improved parking and traffic flow downtown. Media outlets report that the Hattiesburg C..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10239515"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10269867" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/5/1454674137853.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10269867">Missoni design home on the market for just under £2.3m</a>  <div class="sourcename">-The Independent </div>
+				</div>
+				<div class="urlarticlechild">
+£3,100 a nightWhile best actor Oscar nominee Leonardo DiCaprio travels the world promoting current movie The Revenant, his home in Palm Springs, California is available to rent . D..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10269867"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10237648" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454523044871.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10237648">Syracuse Inner Harbor developer asks court to toss city agency's lawsuit</a>  <div class="sourcename">-Syracuse </div>
+				</div>
+				<div class="urlarticlechild">
+Syracuse, N.Y. — The company that is redeveloping the Syracuse Inner Harbor, is asking a court to reject the Syracuse Industrial Development Agency's demand for a $3.24 million fee..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10237648"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10231498" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454480735323.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10231498">Washington Heights Residents, Soon to Lose Their Grocery Store to Walgreens, Clamor for Help At Community Boar..</a>  <div class="sourcename">-NY1 </div>
+				</div>
+				<div class="urlarticlechild">
+The Washington Heights community got a chance to sound off Tuesday night on a plan to close what many call their neighborhood's most accessible supermarket, as NY1's Michael Scotto..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10231498"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="10236080" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2016/1/3/1454514434115.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=10236080">EasyJet owner launches ultra-low budget grocery in UK</a>  <div class="sourcename">-The Brownsville Herald </div>
+				</div>
+				<div class="urlarticlechild">
+Posted: Wednesday, February 3, 2016 7:30 am | Updated: 9:01 am, Wed Feb 3, 2016. Associated Press | LONDON (AP) — The founder of budget airline EasyJet has stepped into Britain's g..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=10236080"> More </a> </div>
+
+	    </div>
+	       
+</div>
+
+
+
+ </div> <!--content -->
+
+
+<script type="text/javascript">
+function CommaSeperatedCount(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+  
+ $(document).ready(function () {
+
+
+    var loadurl = "http://newsok.com/property-owners-of-proposed-walmart-development-sue-edmond/article/5476550?custom_click=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newsok%2Fbusiness+%28NewsOK.com+RSS+-+business%29" ;
+
+
+  $.getJSON('http://cdn.api.twitter.com/1/urls/count.json?url=' + loadurl  + '&callback=?', function (twitdata) {
+    }).done(function(twitdata){
+        if(typeof(twitdata.count) != "undefined")
+        {
+          twitcount = CommaSeperatedCount(twitdata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+          $(".twittercc").html(twitcount);
+           // this.find(".twittercc").html(twitcount);
+         }else{
+//                     this.find(".twittercc").html("0");
+          $(".twittercc").html("0");
+         }
+
+    });
+
+
+
+         $.getJSON( 'http://www.linkedin.com/countserv/count/share?url=' + loadurl + '&callback=?', function( linkdindata ) {
+      }).done(function(linkdindata){
+ if(typeof(linkdindata.count) != "undefined")
+        {
+          linkedincount = CommaSeperatedCount(linkdindata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+           $(".linkedincc").html(linkedincount);
+         }else{
+           $(".linkedincc").html("0");
+
+         }
+    });
+
+
+  $.getJSON('http://graph.facebook.com/?id=' + loadurl, function (fbdata) {
+    }).done(function(fbdata){
+         if(typeof(fbdata.shares) != "undefined")
+        {
+          fbcount = CommaSeperatedCount(fbdata.shares);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+           $(".facebookcc").html(fbcount);
+         }else{
+
+  $(".facebookcc").html("0");
+         }
+
+    });
+
+ 
+});
+
+</script>
+
+
+
+
+ </div>
+    
+
+<div class="sharingbuttons">
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-3d619562-d93f-f384-64f7-67d3c848bd2", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+
+<span class='st_sharethis_large' displayText='ShareThis'></span>
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' st_via="OOYUZ" displayText='Tweet'></span>
+<span class='st__large' displayText=''></span>
+<span class='st_reddit_large' displayText='Reddit'></span>
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+<span class='st_email_large' displayText='Email'></span>
+
+
+</div>
+
+
+<footer>
+<div class="foot">  
+ <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55076069-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+     OOyuz :
+<a href="privacy-policy">Privacy Policy </a> 
+<a href="terms-and-conditions">Terms & Conditions</a>
+<a href="http://tech.ooyuz.com/about-ooyuz/">About</a>
+<a href="http://tech.ooyuz.com/contact-us/">Contact</a>
+
+
+
+
+</div>
+
+<div class="foot">
+    Learn More :
+<a href="http://tech.ooyuz.com/articles-by-publisher/">Publisher Analysis</a> 
+<a href="http://tech.ooyuz.com/timeline-analysis-for-an-article/">Timeline Analysis</a>
+<a href="http://tech.ooyuz.com/social-media-analysis-of-news-articles/">Social Media Analysis</a>
+<a href="http://tech.ooyuz.com/effective-news-reading-with-ooyuz-clustering-algorithm/">Cluster Analysis</a>
+
+</div>
+    
+<div class="foot">
+    Copyright @ooyuz.com 
+
+</div>
+
+</footer>
+       
+       <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script> 
+       </div>
+</body>
+</html>

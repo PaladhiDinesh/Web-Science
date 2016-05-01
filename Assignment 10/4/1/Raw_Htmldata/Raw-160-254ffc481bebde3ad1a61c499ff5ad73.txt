@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script>
+    <title>Suspect sought in Bathurst bus assault</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="http://www.citynews.ca/wp-content/themes/citynews/images/favicon.ico" />
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Toronto police are looking for a man who got into a fight with another man on board a TTC bus."/>
+<link rel="canonical" href="http://www.citynews.ca/2016/02/08/suspect-sought-in-bathurst-bus-assault/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suspect sought in Bathurst bus assault" />
+<meta property="og:description" content="Toronto police are looking for a man who got into a fight with another man on board a TTC bus." />
+<meta property="og:url" content="http://www.citynews.ca/2016/02/08/suspect-sought-in-bathurst-bus-assault/" />
+<meta property="og:site_name" content="CityNews" />
+<meta property="article:section" content="Local" />
+<meta property="article:published_time" content="2016-02-08T11:00:15+00:00" />
+<meta property="og:image" content="http://www.citynews.ca/wp-content/blogs.dir/sites/10/2016/02/08/aggravatedassault16x9.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Toronto police are looking for a man who got into a fight with another man on board a TTC bus."/>
+<meta name="twitter:title" content="Suspect sought in Bathurst bus assault"/>
+<meta name="twitter:site" content="@citynews"/>
+<meta name="twitter:domain" content="CityNews"/>
+<meta name="twitter:image:src" content="http://www.citynews.ca/wp-content/blogs.dir/sites/10/2016/02/08/aggravatedassault16x9.jpg"/>
+<meta name="twitter:creator" content="@citynews"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="CityNews &raquo; Suspect sought in Bathurst bus assault Comments Feed" href="http://www.citynews.ca/2016/02/08/suspect-sought-in-bathurst-bus-assault/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.citynews.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ump-group-css' href='http://www.citynews.ca/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/user_management_platform/css/ump.css,wp-content/themes/samuel/fontawesome/css/font-awesome.min.css,wp-content/themes/samuel/style-city.css&#038;ver=1446749767' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.citynews.ca/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.citynews.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rdm_analytics_post = {"name":"suspect sought in bathurst bus assault"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1455599668","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+				if ( ! window.janrain ) { window.janrain = {}; } janrain.settings = {"packages":["login","capture"],"language":"en-US","appUrl":"https:\/\/login.rogersmedia.com","tokenUrl":"http:\/\/www.citynews.ca","tokenAction":"event","backgroundColor":"transparent","borderColor":"transparent","fontFamily":"'Open Sans', sans-serif","width":"299","actionText":" ","capture":{"flowName":"standard_rmi","stylesheets":["http:\/\/www.citynews.ca\/wp-content\/plugins\/user_management_platform\/css\/janrain.css?ver=1427079271"],"mobileStylesheets":["http:\/\/www.citynews.ca\/wp-content\/plugins\/user_management_platform\/css\/janrain-mobile.css?ver=1427079271"],"thinRegistration":false,"appId":"xjwuuvc75rs76j73wqfq2zsh85","captureServer":"https:\/\/rogers.janraincapture.com","redirectUri":"http:\/\/www.citynews.ca","clientId":"6smm3xcx9knxa56gbma44f8t7bxgebgc","flowVersion":"HEAD","registerFlow":"socialRegistration","setProfileCookie":true,"keepProfileCookieAfterLogout":true,"modalCloseHtml":"Close","noModalBorderInlineCss":false,"modalBorderRadius":1,"modalBorderOpacity":1,"modalBorderWidth":"0","modalBorderColor":"transparent","responseType":"token","returnExperienceUserData":["uuid","displayName"],"screenToRender":null,"federate":true,"federateServer":"https:\/\/rogers.janrainsso.com","federateXdReceiver":"http:\/\/www.citynews.ca\/?ump_janrain_federate=xd_receiver","federateLogoutUri":"http:\/\/www.citynews.ca\/?ump_janrain_federate=logout&nonce=be2d94b76c","federateEnableSafari":true,"federateSegment":"News"}};
+				var UMP_exports = {"avatar_default":"http:\/\/cdn.quilt.janrain.com\/2.2.9\/profile_default.png","cookie_avatar_key":"_ump_profile_avatar","cookie_expiration":1455686068,"cookie_name_key":"_ump_profile_name","loading_entity_text":"Loading profile...","ajax_url":"http:\/\/www.citynews.ca\/wp-admin\/admin-ajax.php","is_edit_profile":false,"is_logout":false,"edit_profile_class":"edit-profile","get_entity_info_nonce":"54f413d48b","update_entity_info_nonce":"39c8fb9d26","httpsLoadUrl":"https:\/\/rpxnow.com\/load\/login.rogersmedia.com","httpLoadUrl":"http:\/\/widgets-cdn.rpxnow.com\/load\/login.rogersmedia.com","httpsShareLoadUrl":"https:\/\/rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","httpShareLoadUrl":"http:\/\/widget-cdn.rpxnow.com\/js\/lib\/login.rogersmedia.com\/share_beta.js","auth_redirect_url":null,"migratedM2OSignInScreenLabels":{"primaryHeader":"Sign In to New Club","secondaryHeader":"Sign In with your old credentials"}};
+			
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UMP_Commenting = {"uuid_field":"_janrain_uuid","access_token_field":"_janrain_access_token","id_form":"commentform","defaults":["comment-notes","comment-form-author","comment-form-email","comment-form-url"],"comment_notes_sign_in_id":"_ump_comment_note_sign_in","comment_notes_logout_id":"_ump_comment_note_logout","comment_notes_loading_id":"_ump_comment_note_loading","comment_notes_failed_login_id":"_ump_comment_note_failed_login","comment_notes_email_unverified_id":"_ump_comment_note_email_unverified","comment_class":"comment","comment_awaiting_moderation_class":"comment-awaiting-moderation","comment_notes_sign_in":"<a href=\"#\" class=\"capture_modal_open\">Sign in<\/a> to comment.","comment_notes_logged_in":"You're logged in as <img src=\"\" class=\"ump_profile_avatar avatar avatar-26 photo\" width=\"26\" height=\"26\"> <strong class=\"ump_profile_name\"><\/strong>. <a href=\"http:\/\/www.citynews.ca\/edit-profile\" class=\"capture_edit_profile\">Edit Profile<\/a> | <a href=\"#\" class=\"capture_end_session\">Logout<\/a>.","comment_notes_loading":"Loading profile...","cookie_expiration":1455686068};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var weather = {"templateUrl":"http:\/\/www.citynews.ca\/wp-content\/themes\/samuel","weatherURL":"http:\/\/weather.rogersradio.ca\/toronto\/report\/?format=xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var poll = {"pageID":"10"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.citynews.ca/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/samuel/javascripts/jquery.noconflict_disable.js,wp-content/plugins/rdm_wordpress_analytics/media/js/jquery.cookie.js,wp-content/plugins/rdm_wordpress_analytics/media/js/functions.js,wp-content/plugins/rdm_wordpress_analytics/media/js/functions-social-media.js,wp-content/plugins/rdm_wordpress_analytics/media/js/functions-video.js,wp-content/plugins/rdm_wordpress_analytics/media/js/mobile-detect.js,wp-content/plugins/user_management_platform/js/statelet.js,wp-content/plugins/user_management_platform/js/ump-bootstrap-modal.js,wp-includes/js/utils.min.js,wp-content/plugins/user_management_platform/js/janrain-init.js,wp-content/plugins/user_management_platform/js/ump-webfont.js,wp-content/plugins/ump-commenting-custom/js/ump-commenting.js,wp-content/themes/samuel/javascripts/jquery.lazyloadxt.min.js,wp-content/themes/samuel/javascripts/sass-bootstrap.js,wp-content/themes/samuel/javascripts/breakpoint_watcher.js,wp-content/themes/samuel/javascripts/common.js,wp-content/themes/samuel/javascripts/weather.js,wp-content/themes/samuel/javascripts/poll.js,wp-content/themes/samuel/javascripts/carhartl-jquery-cookie-92b7715/jquery.cookie.js&#038;ver=1446749767'></script>
+<script type='text/javascript' src='http://admin.brightcove.com/js/BrightcoveExperiences.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://admin.brightcove.com/js/APIModules_all.js?ver=4.2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.citynews.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.citynews.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='shortlink' href='http://www.citynews.ca/?p=1354461' />
+
+			<script type="text/javascript">
+				// Add ga.js to the page
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-13306057-2']);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+
+				<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+		
+<script src="http://utility.rogersmedia.com/rdm-ad-util.js?site=www.citynews.ca"></script>
+<script type='text/javascript'>
+	window.adUtility = new RDMAdUtility({
+		autoPlayingVideo: false,
+		site: 'rogers.broadcast/CityNews.Broadcast'
+	});
+</script>
+<script type="text/javascript">
+	window.adutil_target = ["content-type: post","author:  "];
+</script>
+		<script src="//fonts.rogersdigitalmedia.com/bbe4iqi.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<meta name="pubdate" content="20160208">
+	<meta name="last_updated" content="20160208 1100">
+	<!--
+	generated in 0.621 seconds
+	67558 bytes batcached for 300 seconds
+-->
+</head>
+
+<body>
+
+    <div class="quick-links-container hidden-xs">
+        <div class="quick-links container">
+            <div class="menu-header-quicklinks-menu-container"><ul id="menu-header-quicklinks-menu" class="quick-links"><li id="menu-item-1080651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1080651"><a href="http://www.citytv.com/">City</a></li>
+<li id="menu-item-1080657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1080657"><a href="http://www.cityline.ca">Cityline</a></li>
+<li id="menu-item-1080659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1080659"><a href="http://www.breakfasttelevision.ca/">Breakfast Television</a></li>
+</ul></div>            <!-- / quick-links -->
+        </div>
+    </div>
+
+<div id="ad_leaderboard_master" class="text-center top-ad hidden-xs">
+    <script type="text/javascript">
+        if ( window.snBreakpointWatcher.breakPoint() >= 768 ) {
+            adUtility.insertAd("ad_leaderboard_master", { type: adUtility._AD_LEADERBOARD_MASTER });
+        }
+    </script>
+</div>
+
+<div id="topnav-push">
+    <div class="navbar navbar-default" role="navigation">
+        <div id="container-topnav" class="container container-header">
+            <div id="nav-switch">
+                <div id="div-mobile-search">
+                    <form role="search" method="get" action="http://www.citynews.ca" onsubmit="return validateSearchForm('56c2b03518ab3');">
+                        <button type="submit"></button>
+                        <input type="text" name="s" placeholder="Search" autocomplete="off" data-rand-id="56c2b03518ab3">
+                        <button type="reset"></button>
+                    </form>
+                </div>
+                <div id="div-dropdown">
+                    <div class="menu-hamburger-menu-container"><ul id="menu-hamburger-menu" class="menu"><li id="menu-item-1079687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1079687"><a href="/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1272085" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1272085"><a href="http://www.citynews.ca/category/local/">Local</a></li>
+	<li id="menu-item-1351235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351235"><a href="http://www.citynews.ca/jian-ghomeshi-trial-live-coverage/">Jian Ghomeshi trial</a></li>
+	<li id="menu-item-1284155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1284155"><a href="/topic/trending-in-toronto">Trending in Toronto</a></li>
+	<li id="menu-item-877234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-877234"><a href="http://www.citynews.ca/category/national/">National</a></li>
+	<li id="menu-item-1078305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1078305"><a href="http://www.citynews.ca/category/local-sports/">GTA Sports</a></li>
+	<li id="menu-item-1078327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078327"><a href="http://www.sportsnet.ca">Sportsnet</a></li>
+	<li id="menu-item-877239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-877239"><a href="http://www.citynews.ca/category/entertainment/">Entertainment</a></li>
+	<li id="menu-item-877241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-877241"><a href="http://www.citynews.ca/category/life/">Life</a></li>
+</ul>
+</li>
+<li id="menu-item-1078321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078321"><a href="/video">Video</a></li>
+<li id="menu-item-1078317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078317"><a href="/weather">Weather</a></li>
+<li id="menu-item-877246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-877246"><a href="/extras">Extras</a></li>
+<li id="menu-item-1078313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078313"><a href="/submit">News Tips</a></li>
+<li id="menu-item-1078319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078319"><a href="/alerts">News Alerts</a></li>
+<li id="menu-item-1079691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1079691"><a href="/">Inside CityNews</a>
+<ul class="sub-menu">
+	<li id="menu-item-1078315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1078315"><a href="/about#newsteam">Our Team</a></li>
+	<li id="menu-item-1080343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1080343"><a href="/about">About Us</a></li>
+	<li id="menu-item-1079813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079813"><a href="http://www.citynews.ca/contact/">Contact Us</a></li>
+	<li id="menu-item-877245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-877245"><a href="/mobile">Apps</a></li>
+</ul>
+</li>
+</ul></div>                </div>
+            </div>
+            <div id="nav-close" class="hidden-lg"></div>
+
+            <a class="navbar-brand" href="http://www.citynews.ca" style="width:221px;">
+                <img src="http://www.citynews.ca/wp-content/themes/citynews/images/logo_white.png" style="width:221px;height:46px;">
+            </a>
+
+            <div id="navbar_speaker" >
+                <a href="http://player.680news.com/" target="_blank" title="Listen Live">
+                    <div id="speaker"></div>
+                    <div id="listen_live_label" class="hidden-xs">
+                        <div id="label">LISTEN LIVE</div>
+                    </div>
+                </a>
+            </div>
+        
+            <div id="navigator" class="hidden-header-xs hidden-xs">
+                <div id="navbar-collapse" class="collapse navbar-collapse"><ul id="menu-horizontal-navigation-bar" class="nav navbar-nav"><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a title="LOCAL" href="/category/local">LOCAL</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29 hidden-header-sm"><a title="VIDEO" href="/video/">VIDEO</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30 hidden-header-md hidden-header-sm hidden-header-sm"><a title="NEWS TIPS" href="/submit/">NEWS TIPS</a></li>
+</ul></div>            </div>
+
+            <div class="hidden-xs">
+                <div class="hidden-xs">
+                    <form id="test" role="search" method="get" class="searchform" action="http://www.citynews.ca" onsubmit="return validateSearchForm('56c2b03524595');">
+	<div class="search">
+		<input type="submit" value="Go" title="Search" class="buttonimg">
+		<input class="search-query text" type="text" name="s" size="18" autocomplete="off" value="" placeholder="Search" data-rand-id="56c2b03524595">
+	</div>	
+</form>
+<!-- / searchform -->                </div>
+
+                                    
+            </div>
+
+            <div id="weather"></div>
+
+            
+            </div>
+    </div>
+</div>
+
+<div class="container" id="bg-wrapper">
+
+<div id="sliver-ad">
+    <div id="sliver">
+        <script type="text/javascript">
+			if ( window.snBreakpointWatcher.breakPoint() >= 1320 ) {
+            	adUtility.insertAd("sliver", { type: adUtility._AD_SLIVER });
+			}/*else if(window.snBreakpointWatcher.breakPoint() <= 480) {
+                adUtility.insertAd("sliver", { type: adUtility._AD_MULTIAD_MOB });
+            }*/
+        </script>
+    </div>
+</div>
+
+    <div class="row" id="content_article" itemscope itemtype="http://schema.org/Article">
+        <div id="ajaxloading">
+            Loading articles...
+            <br>            
+            <img src="http://www.citynews.ca/wp-content/themes/citynews/images/loading-infinite.gif">
+        </div>
+
+        <div id="highlight-share">
+    <a onclick="highlight_pop('twitter');"><img src="http://www.citynews.ca/wp-content/themes/citynews/images/share-twitter.png"></a>
+    <a onclick="highlight_pop('facebook');"><img src="http://www.citynews.ca/wp-content/themes/citynews/images/share-facebook.png"></a>
+</div>
+    	<div class="articles-wrapper col-lg-11 col-md-10 col-sm-16" id="articles-wrapper">
+        	        <div class="single-post-wrapper">
+            <a name="post-1354461"></a>
+		
+            <div data-post-id="1354461" class="post-id">              
+                <h1 class="headline" itemprop="headline">Suspect sought in Bathurst bus assault</h1>
+
+<div id="article-meta">
+        <p class="author" itemprop="author"><span>by </span>News Staff</p>
+    <p class="posted" itemprop="datePublished">Posted Feb 8, 2016 11:00 am EST</p>
+    </div>
+
+<div id="meta-divider"></div>
+
+<div class="row no-gutter categories">
+    <div class="col-lg-16 col-md-10 col-sm-16">
+        <ul class="post-categories">
+	<li><a href="http://www.citynews.ca/category/local/" rel="category tag">Local</a></li></ul>    </div>
+</div> 
+            
+                <div itemprop="associatedMedia">
+    			                        <span itemscope itemtype="http://schema.org/ImageObject"> 
+        					<img itemprop="contentURL" src="http://www.citynews.ca/wp-content/blogs.dir/sites/10/2016/02/08/aggravatedassault16x9-878x494.jpg" class="article-image">
+
+                                    					<div class="row">
+        						<div class="col-lg-14 col-md-14 col-sm-14 col-xs-14">
+        							<div class="image-caption">Toronto police are looking for one man after a fight broke out on a TTC bus on Jan. 24, 2016. TORONTO POLICE SERVICE.</div> 
+        						</div>
+        						<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+        							<div class="close-caption"><a onClick="closeCaption('.image-caption', '.close-caption')">
+                                                                            <img title="Close caption" src="http://www.citynews.ca/wp-content/themes/citynews/images/caption-icon.png"></a></div>
+                                            						</div>
+        					</div>
+                                                    </span>
+                                        </div>
+
+                <div class="row" id="main-article">
+    <div class="col-lg-16 col-md-16 col-sm-16">
+	    
+    	<div id="big-box0-mobile" class="big-box-ad text-center">
+        	<script>
+				if ( window.snBreakpointWatcher.breakPoint() <= 768 ) {
+					adUtility.insertAd('big-box0-mobile', { type: adUtility._AD_BIGBOX});
+				}
+			</script>
+        </div>  
+
+        <div id="sharing-anchor"></div>
+<div id="sharing-options" class="sharing-open top city-share">
+    <a data-an-category="Sharing - Social Media" data-an-action="Article Buttons" data-an-opt-label="Twitter" onClick="article_share(this,'twitter');"><div class="twitter-box"></div></a>
+<a data-an-category="Sharing - Social Media" data-an-action="Article Buttons" data-an-opt-label="Facebook" data-fb-app-id="339525006252999" onClick="article_share(this,'facebook');"><div class="facebook-box"></div></a>
+<a data-an-category="Sharing - Social Media" data-an-action="Article Buttons" data-an-opt-label="Google Plus" onClick="article_share(this,'gplus');"><div class="gplus-box"></div></a></div>
+        <div id="article-body-content" itemprop="articleBody"> 
+        	<p>Toronto police are looking for a man who got into a fight with another man on board a TTC bus.</p>
+<p>The fight happened at Bathurst subway station around 6:15 a.m. on Jan. 24, police say.</p>
+<p>Both of the men then got off the bus. Police found one of the men a short distance away. He had serious injuries.</p>
+<p>They are now looking for the second man.</p>
+<p>He is six-feet-tall, 175 pounds, with a medium build and short black hair. Police say he was wearing a black, hooded, bomber jacket, black pants, black running shoes and was carrying a black backpack.</p>
+<p>Anyone with information is asked to contact police.</p>
+        </div>
+        
+		        
+		 
+        
+        	</div><!--/ 16 -->     
+</div> <!-- /main-article --> 
+            </div><!-- / .post-id -->
+
+                <div class="comments col-lg-16 col-md-16 col-sm-16">
+
+        <div class="comment-list">
+            <div class="starter-form">Join the conversation</div>
+            						<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/08/suspect-sought-in-bathurst-bus-assault/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.citynews.ca/wp-comments-post.php" method="post" id="commentform-1354461" class="comment-form">
+																			<p class="_ump_comment_note_sign_in"><a href="#" class="capture_modal_open">Sign in</a> to comment.</p><p class="_ump_comment_note_logout" style="display: none">You're logged in as <img src="" class="ump_profile_avatar avatar avatar-26 photo" width="26" height="26"> <strong class="ump_profile_name"></strong>. <a href="http://www.citynews.ca/edit-profile" class="capture_edit_profile">Edit Profile</a> | <a href="#" class="capture_end_session">Logout</a>.</p><p class="_ump_comment_note_loading" style="display: none">Loading profile...</p><p class="_ump_comment_note_failed_login" style="display: none">Unexpected error. Please try again.</p><p class="_ump_comment_note_email_unverified" style="display: none"><em><strong>Notice:</strong> Your email may not yet have been verified.</em> Please check your email, click the link to verify your address, and then submit your comment. If you can't find this email, access your <a href="http://www.citynews.ca/edit-profile/" target="_blank">profile editor</a> to re-send the confirmation email. You must have a verified email to submit a comment.</em> Once you have done so, <a href="#" class="refresh-user-data-to-check-email-verified">check again</a>.</p>							    	<a href="http://www.citynews.ca/comments-policy/" class="comment-guidelines">Please read our commenting policies</a>
+		<input type="hidden" name="_janrain_uuid" class="_janrain_uuid" value="">
+<input type="hidden" name="_janrain_access_token" class="_janrain_access_token" value="">
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-describedby="form-allowed-tags" aria-required="true" required="required"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='1354461' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cdc7887d95" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="84"/></p>					</form>
+							</div><!-- #respond -->
+			            <div class="scrollable-comment-list">
+                            </div>
+        </div><!-- /.comment-list -->
+        
+        <div class="comments-bottom">
+
+            
+        </div>
+        <div class="log"></div>
+
+    </div><!-- /#comments -->
+     
+
+            <div id="analytics-post-id-1354461-wrapper" data-post-id="1354461"></div>
+        </div><!-- / .single-post-wrapper -->
+                </div> <!--/articles-wrapper -->
+
+        <div class="col-lg-1 col-md-*"></div>
+        
+        <div class="col-lg-4 col-md-6 hidden-sm hidden-xs nocontent" id="sidebar">
+            
+<div id="live-listen">
+    <div class="right-headline">Listen Now</div>
+    <div class="right-subheadline">680 NEWS live</div>
+
+    <span id="div-on-air-data-now">--:--</span>
+
+    <div class="speaker-outer" style="">
+    	        <a class="speaker" target="_blank" href="http://player.680news.com/" data-an-category="Clicks - Article" data-an-action="On Air Right Now" data-an-opt-label="Speaker Icon"></a>
+    </div>
+</div>
+<div id="topstories-anchor"></div>
+<div id="topstories">
+    <div id="big-box0" class="big-box-ad">
+    <script>
+		if ( window.snBreakpointWatcher.breakPoint() >= 1024 ) {
+			adUtility.insertAd("big-box0", { type: adUtility._AD_BIGBOX});
+		}
+	</script>
+    </div>
+    
+    <div class="headline-title">Top Stories</div>
+    
+    <div class="progress-sidebar">
+        <script type="text/javascript">
+            var pausecontent = new Array();
+            var titlecontent = new Array();
+            var arr_post_analytics_fired = new Array();
+            
+            pausecontent.push('http://www.citynews.ca/2016/02/08/suspect-sought-in-bathurst-bus-assault/');
+            titlecontent.push('Suspect sought in Bathurst bus assault');
+            arr_post_analytics_fired.push(new Array('1354461', true));
+        </script>
+
+        <div class="wrapper city">
+        	<div class="bar">
+                <div class="top-story-roll">
+                    <div class="col-lg-16 col-md-16 col-sm-16">
+                        <a href="#post-1354461" title="Suspect sought in Bathurst bus assault"><img width="304" height="173" src="http://www.citynews.ca/wp-content/themes/samuel/images/transparent.png" data-src="http://www.citynews.ca/wp-content/blogs.dir/sites/10/2016/02/08/aggravatedassault16x9-310x174.jpg" class="img-responsive wp-post-image" alt="Toronto police are looking for one man after a fight broke out on a TTC bus on Jan. 24, 2016. TORONTO POLICE SERVICE."></a>
+                    </div>
+                    <div class="col-lg-16 col-md-16 col-sm-16">
+                                                <div class="top-story-title">
+                            <a href="#post-1354461" title="Suspect sought in Bathurst bus assault">
+                                Suspect sought in Bathurst bus assault                                <div class="posted">
+                                    Posted 1 week ago                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <span></span>
+            </div>
+                            <div class="bar">
+                    <div class="top-story-roll">
+                        <div class="col-lg-16 col-md-16 col-sm-16">
+                            <div class="top-story-title">
+                                <a href="#post-1358019" title="Doctors miss swallowed battery, diagnose two-year-old with flu">
+                                    Doctors miss swallowed battery, diagnose two-year-old with flu                                    <div class="posted">
+                                        Posted 8 hours ago                                    </div>
+                                </a>
+							</div>
+                        </div>
+                    </div>
+                    <span></span>
+                </div>
+
+                <script type="text/javascript" language="javascript">
+                    pausecontent.push('http://www.citynews.ca/2016/02/15/doctors-miss-swallowed-battery-diagnose-two-year-old-with-flu/');
+                    titlecontent.push('Doctors miss swallowed battery, diagnose two-year-old with flu');
+                    arr_post_analytics_fired.push(new Array('1358019', false));
+                </script>
+                                <div class="bar">
+                    <div class="top-story-roll">
+                        <div class="col-lg-16 col-md-16 col-sm-16">
+                            <div class="top-story-title">
+                                <a href="#post-1358097" title="SIU investigating Don Valley Suites shooting">
+                                    SIU investigating Don Valley Suites shooting                                    <div class="posted">
+                                        Posted 7 hours ago                                    </div>
+                                </a>
+							</div>
+                        </div>
+                    </div>
+                    <span></span>
+                </div>
+
+                <script type="text/javascript" language="javascript">
+                    pausecontent.push('http://www.citynews.ca/2016/02/15/siu-investigating-don-valley-suites-shooting/');
+                    titlecontent.push('SIU investigating Don Valley Suites shooting');
+                    arr_post_analytics_fired.push(new Array('1358097', false));
+                </script>
+                                <div class="bar">
+                    <div class="top-story-roll">
+                        <div class="col-lg-16 col-md-16 col-sm-16">
+                            <div class="top-story-title">
+                                <a href="#post-1358259" title="Brampton man, 18, killed in Countryside crash">
+                                    Brampton man, 18, killed in Countryside crash                                    <div class="posted">
+                                        Posted 51 minutes ago                                    </div>
+                                </a>
+							</div>
+                        </div>
+                    </div>
+                    <span></span>
+                </div>
+
+                <script type="text/javascript" language="javascript">
+                    pausecontent.push('http://www.citynews.ca/2016/02/15/brampton-man-18-killed-in-countryside-crash/');
+                    titlecontent.push('Brampton man, 18, killed in Countryside crash');
+                    arr_post_analytics_fired.push(new Array('1358259', false));
+                </script>
+                                <div class="bar">
+                    <div class="top-story-roll">
+                        <div class="col-lg-16 col-md-16 col-sm-16">
+                            <div class="top-story-title">
+                                <a href="#post-1358239" title="Video: More falling glass in downtown Toronto">
+                                    Video: More falling glass in downtown Toronto                                    <div class="posted">
+                                        Posted 3 hours ago                                    </div>
+                                </a>
+							</div>
+                        </div>
+                    </div>
+                    <span></span>
+                </div>
+
+                <script type="text/javascript" language="javascript">
+                    pausecontent.push('http://www.citynews.ca/2016/02/15/video-more-falling-glass-in-downtown-toronto/');
+                    titlecontent.push('Video: More falling glass in downtown Toronto');
+                    arr_post_analytics_fired.push(new Array('1358239', false));
+                </script>
+                      </div>
+    </div>
+</div>        </div>
+    </div>
+
+</div> <!-- /container -->
+
+<div id="div-tags" class="container hidden-xs">
+    <div class="row">
+        <div class="col-lg-16 col-md-16 col-sm-16">
+            <div class="tags-row col-lg-16 col-md-16 col-sm-16">
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="tags">
+                        <div class="tag">
+                            <a href="http://www.citynews.ca/category/local/">LOCAL</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="tags">
+                        <div class="tag">
+                            <a href="http://www.citynews.ca/category/national/">NATIONAL</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="col-lg-8 col-md-8 col-sm-8 nopad">
+    <a href="http://www.citynews.ca/2016/02/15/siu-investigating-don-valley-suites-shooting/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-1" data-an-opt-label="SIU investigating Don Valley Suites shooting">SIU investigating Don Valley Suites shooting</a>
+    <span class="info">Feb 15, 2016, 4:38 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/gta-southern-ontario-freezing-drizzle-advisory/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-2" data-an-opt-label="GTA, southern Ontario under freezing drizzle advisory">GTA, southern Ontario under freezing drizzle advisory</a>
+    <span class="info">Feb 15, 2016, 4:14 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/cold-enough-for-you-icy-plunge-raises-money-for-kids-with-cancer/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-3" data-an-opt-label="Cold enough for you? Icy plunge raises money for kids with cancer">Cold enough for you? Icy plunge raises money for kids with cancer</a>
+    <span class="info">Feb 15, 2016, 3:31 PM</span>
+    </div>
+
+<div class="col-lg-8 col-md-8 col-sm-8">
+    <a href="http://www.citynews.ca/2016/02/15/doctors-miss-swallowed-battery-diagnose-two-year-old-with-flu/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-4" data-an-opt-label="Doctors miss swallowed battery, diagnose two-year-old with flu">Doctors miss swallowed battery, diagnose two-year-old with flu</a>
+    <span class="info">Feb 15, 2016, 3:30 PM</span>
+        <a href="http://www.citynews.ca/2016/02/12/siu-reopens-closed-investigation-after-allegations-of-sexual-assault-surface/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-5" data-an-opt-label="SIU reopens investigation after sex assault allegations surface">SIU reopens investigation after sex assault allegations surface</a>
+    <span class="info">Feb 12, 2016, 4:04 PM</span>
+        <a href="http://www.citynews.ca/2016/02/12/ospca-seeks-to-euthanize-21-dogs-seized-in-alleged-dog-fighting-ring/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-local-pos-6" data-an-opt-label="OSPCA seeks to euthanize 21 dogs seized in alleged dog fighting ring">OSPCA seeks to euthanize 21 dogs seized in alleged dog fighting ring</a>
+    <span class="info">Feb 12, 2016, 2:36 PM</span>
+    </div>                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="col-lg-8 col-md-8 col-sm-8 nopad">
+    <a href="http://www.citynews.ca/2016/02/15/rebirth-of-razed-mikmaq-village-part-of-ambitious-plan-for-aboriginal-band/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-1" data-an-opt-label="Rebirth of razed Mi&#039;kmaq village part of ambitious plan for aboriginal band">Rebirth of razed Mi'kmaq village part of ambitious plan for aboriginal band</a>
+    <span class="info">Feb 15, 2016, 4:24 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/halifax-council-asked-to-look-into-pesky-pot-smell-from-licensed-grower/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-2" data-an-opt-label="Halifax council asked to look into pesky pot smell from licensed grower">Halifax council asked to look into pesky pot smell from licensed grower</a>
+    <span class="info">Feb 15, 2016, 3:04 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/b-c-set-to-deliver-fourth-straight-balanced-budget/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-3" data-an-opt-label="B.C. to help ease real estate costs for first-time buyers: finance minister">B.C. to help ease real estate costs for first-time buyers: finance minister</a>
+    <span class="info">Feb 15, 2016, 2:03 PM</span>
+    </div>
+
+<div class="col-lg-8 col-md-8 col-sm-8">
+    <a href="http://www.citynews.ca/2016/02/15/quebec-police-officer-killed-on-duty-remembered-as-a-stand-up-guy/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-4" data-an-opt-label="Quebec police officer killed on duty remembered as a stand-up guy">Quebec police officer killed on duty remembered as a stand-up guy</a>
+    <span class="info">Feb 15, 2016, 1:49 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/winnipeg-police-officer-who-suffered-frostbite-while-training-may-lose-fingers-2/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-5" data-an-opt-label="Winnipeg police officer who suffered frostbite while training may lose fingers">Winnipeg police officer who suffered frostbite while training may lose fingers</a>
+    <span class="info">Feb 15, 2016, 1:22 PM</span>
+        <a href="http://www.citynews.ca/2016/02/15/ubc-board-of-governors-votes-against-divestment-from-fossil-fuel-industry/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-national-pos-6" data-an-opt-label="UBC board of governors votes against divestment from fossil fuel industry">UBC board of governors votes against divestment from fossil fuel industry</a>
+    <span class="info">Feb 15, 2016, 12:51 PM</span>
+    </div>                </div>
+            </div>
+            <div class="tags-row col-lg-16 col-md-16 col-sm-16">
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="tags">
+                        <div class="tag">
+                            <a href="http://www.citynews.ca/category/life/">LIFE</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="tags">
+                        <div class="tag">
+                            <a href="http://www.sportsnet.ca">SPORTSNET</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="tags">
+                        <div class="tag">
+                            <a href="http://www.citynews.ca/category/entertainment/">ENTERTAINMENT</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div class="col-lg-8 col-md-8 col-sm-8 nopad">
+    <a href="http://www.citynews.ca/2016/02/12/would-you-change-your-planned-baby-name-if-it-became-too-popular/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-1" data-an-opt-label="Would you change your planned baby name if it became too popular?">Would you change your planned baby name if it became too popular?</a>
+    <span class="info">Feb 12, 2016, 12:34 PM</span>
+        <a href="http://www.citynews.ca/2016/02/12/melt-your-heart-new-polar-bear-cub-video-is-simply-adorable/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-2" data-an-opt-label="Melt your heart: New polar bear cub video is simply adorable">Melt your heart: New polar bear cub video is simply adorable</a>
+    <span class="info">Feb 12, 2016, 10:03 AM</span>
+        <a href="http://www.citynews.ca/2016/02/11/family-fun-valentines-day-and-nba-all-star-game-now-thats-a-weekend/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-3" data-an-opt-label="Family fun, Valentine&#039;s Day and NBA All-Star Game: now that&#039;s a weekend">Family fun, Valentine's Day and NBA All-Star Game: now that's a weekend</a>
+    <span class="info">Feb 11, 2016, 9:52 AM</span>
+    </div>
+
+<div class="col-lg-8 col-md-8 col-sm-8">
+    <a href="http://www.citynews.ca/2016/02/09/fire-emergency-alarms-cause-major-delays-on-morning-subway-commute/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-4" data-an-opt-label="Fire, emergency alarms cause major delays on morning subway commute">Fire, emergency alarms cause major delays on morning subway commute</a>
+    <span class="info">Feb 09, 2016, 12:01 PM</span>
+        <a href="http://www.citynews.ca/2016/02/08/americans-visiting-toronto-in-droves-tourism-board/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-5" data-an-opt-label="Americans visiting Toronto in droves: Tourism board">Americans visiting Toronto in droves: Tourism board</a>
+    <span class="info">Feb 08, 2016, 10:40 AM</span>
+        <a href="http://www.citynews.ca/2016/02/08/whats-in-a-name-choose-your-favourite-for-the-giant-panda-cubs/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-life-pos-6" data-an-opt-label="What&#039;s in a name? Choose your favourite for the giant panda cubs">What's in a name? Choose your favourite for the giant panda cubs</a>
+    <span class="info">Feb 08, 2016, 8:01 AM</span>
+    </div>                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    	<div class="col-lg-16 col-md-16 col-sm-16 nopad">
+		 			<a href="http://www.sportsnet.ca/hockey/nhl/nhl-trade-rumours-roundup-deadline-steven-stamkos-buffalo-sabres-john-tavares-toronto-mpale-leafs-islanders-frederik-andersen-jimmy-vesey/" class="link" target="_blank" data-an-category="Clicks - Footer (Content)" data-an-action="footer-sportsnet-pos-1" data-an-opt-label="NHL Rumours: Latest on Tavares, Burrows, Russell, Stamkos">NHL Rumours: Latest on Tavares, Burrows, Russell, Stamkos</a>
+		    <span class="info">Feb 15, 2016, 5:13 PM</span>
+						<a href="http://www.sportsnet.ca/hockey/nhl/leafs-will-be-busy-and-aggressive-before-trade-deadline/" class="link" target="_blank" data-an-category="Clicks - Footer (Content)" data-an-action="footer-sportsnet-pos-2" data-an-opt-label="Leafs will be busy and aggressive before trade deadline">Leafs will be busy and aggressive before trade deadline</a>
+		    <span class="info">Feb 15, 2016, 12:51 PM</span>
+						<a href="http://www.sportsnet.ca/basketball/nba/ts-sid-seixiero-has-a-message-for-nelly-furtado/" class="link" target="_blank" data-an-category="Clicks - Footer (Content)" data-an-action="footer-sportsnet-pos-3" data-an-opt-label="T&amp;S: Sid Seixeiro has a message for Nelly Furtado">T&amp;S: Sid Seixeiro has a message for Nelly Furtado</a>
+		    <span class="info">Feb 15, 2016, 8:04 PM</span>
+						<a href="http://www.sportsnet.ca/hockey/nhl/evander-kane-overslept-nba-all-star-game-toronto-buffalo-sabres-ottawa-senators-suspended/" class="link" target="_blank" data-an-category="Clicks - Footer (Content)" data-an-action="footer-sportsnet-pos-4" data-an-opt-label="Evander Kane sleeps in, gets punished by Sabres">Evander Kane sleeps in, gets punished by Sabres</a>
+		    <span class="info">Feb 15, 2016, 8:04 PM</span>
+						<a href="http://www.sportsnet.ca/hockey/nhl/lightning-gm-yzerman-stamkos-will-not-be-traded-before-deadline/" class="link" target="_blank" data-an-category="Clicks - Footer (Content)" data-an-action="footer-sportsnet-pos-5" data-an-opt-label="Lightning GM Yzerman: Stamkos will not be traded before deadline">Lightning GM Yzerman: Stamkos will not be traded before deadline</a>
+		    <span class="info">Feb 15, 2016, 2:06 PM</span>
+				</div>
+	                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="col-lg-16 col-md-16 col-sm-16 nopad">
+    <a href="http://www.citynews.ca/2016/02/15/toronto-based-pet-store-to-get-a-celebrity-boost-at-the-grammy-awards/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-entertainment-pos-1" data-an-opt-label="Toronto-based pet store to get a celebrity boost at the Grammy Awards">Toronto-based pet store to get a celebrity boost at the Grammy Awards</a>
+    <span class="info">Feb 15, 2016, 1:11 PM</span>
+        <a href="http://www.citynews.ca/2016/02/12/six-reasons-6-god-drake-deserves-the-6-key/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-entertainment-pos-2" data-an-opt-label="Six reasons 6 God Drake deserves the 6-key">Six reasons 6 God Drake deserves the 6-key</a>
+    <span class="info">Feb 12, 2016, 1:54 PM</span>
+        <a href="http://www.citynews.ca/2016/02/11/nelly-furtado-ne-yo-to-sing-anthems-at-nba-all-star-game-in-toronto/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-entertainment-pos-3" data-an-opt-label="Nelly Furtado, Ne-Yo to sing anthems at NBA All-Star Game in Toronto">Nelly Furtado, Ne-Yo to sing anthems at NBA All-Star Game in Toronto</a>
+    <span class="info">Feb 11, 2016, 8:00 AM</span>
+        <a href="http://www.citynews.ca/2016/02/10/trending-did-drake-just-announce-the-release-date-for-views-from-the-6/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-entertainment-pos-4" data-an-opt-label="Trending: Did Drake just announce the release date for &#039;Views from the 6&#039;?">Trending: Did Drake just announce the release date for 'Views from the 6'?</a>
+    <span class="info">Feb 10, 2016, 11:48 AM</span>
+        <a href="http://www.citynews.ca/2016/02/09/toronto-councillor-stops-short-of-calling-for-beyonce-ban-in-canada/" class="link" data-an-category="Clicks - Footer (Content)" data-an-action="home-page-tags-entertainment-pos-5" data-an-opt-label="Toronto councillor stops short of calling for Beyoncé ban in Canada">Toronto councillor stops short of calling for Beyoncé ban in Canada</a>
+    <span class="info">Feb 09, 2016, 10:54 AM</span>
+    </div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="div-botbar">
+  <div class="container">
+    <ul id="nav_ul">
+      <div id="toprow" class="column col-xs-8">
+          <a href="http://www.citynews.ca" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Home
+            </li>
+          </a>
+          <a href="http://www.citynews.ca/about/" class="nav_href">
+            <li class="nav_li col-xs-16">
+              About Us
+            </li>
+          </a>
+          <a href="http://www.citynews.ca/contact-us/" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Contact Us
+            </li>
+          </a>
+          <a href="http://www.citynews.ca/mobile/" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Download App
+            </li>
+          </a>
+          <a href="http://www.rogersmedia.com/contact-us/" class="nav_href hidden-sm hidden-md hidden-xs">
+            <li class="nav_li col-xs-16">
+              Advertise with us
+            </li>
+          </a>
+      </div>
+      <div id="bottomrow" class="column col-xs-8">
+          <a href="http://www.rogersmedia.com/contact-us/" class="nav_href hidden-lg">
+            <li class="nav_li col-xs-16">
+              Advertise with us
+            </li>
+          </a>
+          <a href="http://www.rogersmedia.com/privacy/" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Privacy Policy
+            </li>
+          </a>
+          <a href="http://www.rogersmedia.com/privacy/#section17" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Ad Choices
+            </li>
+          </a>
+          <a href="http://www.rogersmedia.com/terms-of-service" class="nav_href">
+            <li class="nav_li col-xs-16">
+              Terms of Service
+            </li>
+          </a>
+          <li id="social" class="nav_li hidden-xs">
+            <a href="https://twitter.com/citynews" target="_blank"><div id="twitter"></div></a>
+            <a href="https://www.facebook.com/citynewstoronto" target="_blank"><div id="facebook"></div></a>
+          </li>
+      </div>
+    </ul>
+    <div id="social-mobile" class="hidden-lg hidden-md hidden-sm">
+        <div class="row">
+            <a href="https://twitter.com/citynews" target="_blank"><div id="twitter"></div></a>
+            <a href="https://www.facebook.com/citynewstoronto" target="_blank"><div id="facebook"></div></a>
+        </div>
+    </div>
+  </div>
+</div>
+<div id="div-footer">
+  <div class="container">
+      <div id="logo" class="col-lg-8 col-md-8 col-sm-9">
+        <div id="logo_img"><img src="http://static.rogersdigitalmedia.com/web_footers/images/common_footers/comscore_logos/white_BG/comscoreCommunityTV.png"></div>
+      </div>
+      <div id="inner" class="col-lg-8 col-md-8 col-sm-7">
+        <span id="copyright">333 Bloor Street East, Toronto, Ontario M4W 1G9 &copy; 2002-2016 Rogers Media. All rights reserved.</span>
+      </div>
+  </div>
+</div>
+
+</div> <!-- /global-footer -->
+		<script type="text/javascript">
+			// SiteCatalyst Code
+			var analyticsProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+			var analyticsHostServer = 'analytics.rogersmedia.com';
+			var s_account = 'rogersrmitv, rogersrmiglobal'; // Report Suite ID
+			document.write(unescape("%3Cscript src='" + analyticsProtocol + analyticsHostServer + "/js/rdm_s_code.min.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+
+		<script type="text/javascript">
+		
+ 				 s.events='event1';
+ 				 s.pageName='citynews : 2016 : 02 : 08 : suspect sought in bathurst bus assault';
+ 				 s.hier1='2016|02|08';
+ 				 s.channel='english';
+ 				 s.server='www.citynews.ca';
+ 				 s.prop1='television';
+ 				 s.prop2='citynews';
+ 				 s.prop3=rdm_analytics_get_responsive_breakpoint();
+ 				 s.prop4=rdm_analytics_get_platform();
+ 				 s.prop6='citynews : 2016';
+ 				 s.prop7='citynews : 2016 : 02';
+ 				 s.prop8='citynews : 2016 : 02 : 08';
+ 				 s.prop10='suspect sought in bathurst bus assault';
+ 				 s.prop11='article';
+ 				 s.prop12='news staff';
+ 				 s.prop13='http://www.citynews.ca/2016/02/08/suspect-sought-in-bathurst-bus-assault/';
+ 				 s.prop15='local';
+ 				 s.prop16='1354461';
+ 				 s.prop18='oando';
+ 				 s.prop36=rdm_analytics_get_mobile_os();
+ 				 s.prop37=rdm_analytics_get_user_agent();
+ 				 s.prop39=rdm_analytics_get_device_type();
+ 				 s.prop41=rdm_analytics_get_hour();
+ 				 s.prop42=rdm_analytics_get_weekday();
+ 				 s.prop43=rdm_analytics_get_day_type();
+ 				 s.prop44='2.5';
+ 				 s.prop46='disabled';
+ 				 s.eVar53=rdm_analytics_get_uuid();
+
+		</script>
+
+				<script type="text/javascript">
+			// AudienceManager Code
+			document.write(unescape("%3Cscript src='" + analyticsProtocol + analyticsHostServer + "/js/rdm_dil_code.full.js?version=1.7' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+				<script type="text/javascript">
+			var s_code=s.t();
+			if(s_code) {
+				document.write(s_code);
+			}
+		</script>
+			<!-- Begin comScore Tag -->
+
+	<script>
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "3005682" });
+		(function() {
+			var s = document.createElement("script");
+			var el = document.getElementsByTagName("script")[0];
+			s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=3005682&cv=2.0&cj=1" />
+	</noscript>
+
+	<!-- End comScore Tag -->
+	
+		<!-- begin chartbeat analytics -->
+		<script type='text/javascript'>
+		    var _sf_async_config={};
+		    /** CONFIGURATION START **/
+		    _sf_async_config.uid = 55711;
+		    _sf_async_config.domain = "www.citynews.ca";
+		    _sf_async_config.useCanonical = true;
+		    _sf_async_config.sections = "2016|02|08";
+		    _sf_async_config.authors = "news staff";
+		    /** CONFIGURATION END **/
+		    (function(){
+		      function loadChartbeat() {
+		        window._sf_endpt=(new Date()).getTime();
+		        var e = document.createElement('script');
+		        e.setAttribute('language', 'javascript');
+		        e.setAttribute('type', 'text/javascript');
+		        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+		        document.body.appendChild(e);
+		      }
+		      var oldonload = window.onload;
+		      window.onload = (typeof window.onload != 'function') ?
+		         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		    })();
+		</script>
+		<!-- end chartbeat analytics -->
+
+		<div style="display:none;" id="forgotPasswordSuccess">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+		<p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="forgotPassword">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<h2>We'll send you a link to create a new password.</h2>
+	{* #forgotPasswordForm *}
+		{* traditionalSignIn_emailAddress *}
+
+		<div class="capture_smallPlusBig">
+			{* backButton *}
+			{* forgotPassword_sendButton *}
+		</div>
+	{* /forgotPasswordForm *}
+</div>
+<div style="display:none;" id="mergeAccounts">
+	{* mergeAccounts *}
+</div>
+<div style="display: none;" id="publicProfileModal">
+	<div class="capture_header">
+		<h1>My profile</h1>
+	</div>
+	<div class="capture_content">
+		<div class="capture_profile_pic">
+			<div id="profile_pic" class="capture_default">
+				{* profilePhotoCustom *}
+				<span class="mask"></span>
+			</div>
+		</div>
+		<div class="capture_profile_details">
+			<p>{* public_profileBlurb *}</p>
+			<div>
+				<label>Display Name:</label>
+				<div>{* public_displayName *}</div>
+			</div>
+			{* public_name *}
+			{* public_gender *}
+			{* public_birthdate *}
+			{* public_emailAddress *}
+			{* public_address *}
+			{* public_phoneNumber *}
+		</div>
+	</div>
+
+	<div class="capture_footer">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="registrationNewVerification">
+	<div class="capture_header">
+		<h1>Thank you<br />for signing up!</h1>
+	</div>
+	<p>We have sent a confirmation email to <strong>{* emailAddressData *}</strong>. Please check your email and click on the link to activate your account.</p>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div>
+<div style="display:none;" id="returnSocial">
+	<div class="capture_header">
+		<h1>Sign In</h1>
+	</div>
+	<div class="capture_signin">
+		<h2 class="contains-name">Welcome back, <strong>{* welcomeName *}</strong>!</h2>
+		{* loginWidget *}
+
+		<div class="capture_separator capture_separator_expandVertical">
+			<span class="capture_separator_text capture_separator_text_addCircle">Or</span>
+		</div>
+
+		<div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div>
+	</div>
+</div>
+<div style="display:none;" id="returnTraditional">
+	<div class="capture_header">
+		<h1>Sign In</h1>
+	</div>
+
+	<h2 class="contains-name">Welcome back, <span id="traditionalWelcomeName"></span>!</h2>
+
+	<div class="capture_backgroundColor">
+		{* #userInformationForm *}
+			{* traditionalSignIn_emailAddress *}
+			{* traditionalSignIn_password *}
+			<div class="capture_form_item">
+				<a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+			</div>
+			<div class="capture_form_item capture_btn_full">
+				{* traditionalSignIn_signInButton *}
+			</div>
+		{* /userInformationForm *}
+
+		<div class="capture_separator capture_separator_expandVertical">
+			<span class="capture_separator_text capture_separator_text_addCircle">Or</span>
+		</div>
+
+		<div class="capture_centerText switchLink">
+			<a href="#" data-cancelcapturereturnexperience="true">Use another account</a>
+		</div>
+	</div>
+</div>
+<div style="display:none;" id="signIn" class="">
+	<div class="capture_header">
+		<h1>Sign In / Sign Up</h1>
+	</div>
+	<div class="capture_signin">
+		<h2>With your existing account from</h2>
+		{* loginWidget *} <br />
+	</div>
+	<div class="capture_backgroundColor">
+		<div class="capture_signin">
+			<div class="capture_separator">
+				<span class="capture_separator_text">Or</span>
+			</div>
+			<h2>With an email account</h2>
+
+			
+			{* #userInformationForm *}
+				{* traditionalSignIn_emailAddress *}
+				{* traditionalSignIn_password *}
+				<div>
+					<a href="#" data-capturescreen="forgotPassword">Forgot your password?</a>
+				</div>
+				<div class="capture_orButtons">
+					{* traditionalSignIn_signInButton *}
+					<div class="or"></div>
+					{* traditionalSignIn_createButton *}
+
+									</div>
+			{* /userInformationForm *}
+		</div>
+
+	</div>
+</div>
+<div style="display:none;" id="socialRegistration">
+	<div class="capture_header">
+		<h1>Almost Done!</h1>
+	</div>
+	<h2>Please confirm the information below before signing up.</h2>
+	{* #socialRegistrationForm *}
+		{* socialRegistration_firstName *}
+		{* socialRegistration_lastName *}
+		{* socialRegistration_emailAddress *}
+		{* socialRegistration_displayName *}
+							By clicking "Create Account", I confirm that I have read and understood each of the <a href="http://www.rogersmedia.com/terms-of-service" target="_blank">website terms of service</a> and <a href="http://www.rogerspublishing.ca/privacy.shtml" target="_blank">privacy policy</a> and that I agree to be bound by them.
+				<div class="capture_smallPlusBig">
+			{* backButton *}
+						<input type="submit" name="socialRegistration_signInButton" class="capture_socialRegistration_signInButton capture_btn capture_primary" value="Create Account" data-capturefield="socialRegistration_signInButton" id="capture_socialRegistration_socialRegistration_signInButton">
+		</div>
+	{* /socialRegistrationForm *}
+</div>
+<div style="display:none;" id="traditionalAuthenticateMerge">
+	<div class="capture_header">
+		<h1>Sign in to complete account merge</h1>
+	</div>
+	<div class="capture_signin">
+		{* #tradAuthenticateMergeForm *}
+			{* traditionalSignIn_emailAddress *}
+			{* mergePassword *}
+			<div class="capture_smallPlusBig">
+				{* backButton *}
+				{* traditionalSignIn_signInButton *}
+			</div>
+		 {* /tradAuthenticateMergeForm *}
+	</div>
+</div>
+<div style="display:none;" id="traditionalRegistration">
+	<div class="capture_header">
+		<h1>Almost Done!</h1>
+	</div>
+	<p class="capture_emphasize">Please confirm the information below before signing up.</p>
+	{* #registrationForm *}
+		{* traditionalRegistration_firstName *}
+		{* traditionalRegistration_lastName *}
+		{* traditionalRegistration_emailAddress *}
+		{* traditionalRegistration_displayName *}
+		{* traditionalRegistration_password *}
+		{* traditionalRegistration_passwordConfirm *}
+									By clicking "Create Account", I confirm that I have read and understood each of the <a href="http://www.rogersmedia.com/terms-of-service" target="_blank">website terms of service</a> and <a href="http://www.rogerspublishing.ca/privacy.shtml" target="_blank">privacy policy</a> and that I agree to be bound by them.
+				<div class="capture_smallPlusBig">
+			{* backButton *}
+			{* createAccountButton *}
+		</div>
+	{* /registrationForm *}
+</div>
+<div style="display:none;" id="resendVerificationSuccess">
+	<div class="capture_header">
+		<h1>Your Verification Email Has Been Sent</h1>
+	</div>
+	<div class="hr"></div>
+	<h6>Check your email for a link to reset your password.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" data-capturescreen="signIn" class="capture_btn capture_primary">Sign in</a>
+	</div>
+</div><div style="display:none;" id="resetPasswordRequestCodeSuccess">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+		<h6>We've sent an email with instructions to create a new password. Your existing password has not been changed.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="#" class="ump_janrain_modal_close capture_btn capture_primary">Close</a>
+	</div>
+</div><div style="display:none;" id="resetPasswordRequestCode">
+	<div class="capture_header">
+		<h1>Create a new password</h1>
+	</div>
+	<p>We didn't recognize that password reset code. Enter your email address to get a new one.</p>
+	{* #resetPasswordForm *}
+		{* traditionalSignIn_emailAddress *}
+		<div class="capture_footer capture_btn_full">
+			{* forgotPassword_sendButton *}
+		</div>
+	{* /resetPasswordForm *}
+</div><div style="display:none;" id="resetPasswordSuccess">
+	<div class="capture_header">
+		<h1>Your password has been changed</h1>
+	</div>
+	<h6>Password has been successfully updated.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="http://www.citynews.ca" class="capture_btn capture_primary">OK</a>
+	</div>
+</div><div style="display:none;" id="resetPassword">
+	<div class="capture_header">
+		<h1>Change password</h1>
+	</div>
+	{* newPasswordForm *}
+		{* newpassword *}
+		{* newpasswordConfirm *}
+		<div class="capture_footer capture_btn_full">
+			{* submitButton *}
+		</div>
+	{* /newPasswordForm *}
+</div><div style="display:none;" id="verifyEmailSuccess">
+	<div class="capture_header">
+		<h1>You did it!</h1>
+	</div>
+	<h6>Thank you for verifiying your email address.</h6>
+	<div class="capture_footer capture_btn_full">
+		<a href="http://www.citynews.ca" class="capture_btn capture_primary">OK</a>
+	</div>
+</div><div style="display:none;" id="verifyEmail">
+	<div class="capture_header">
+		<h1>Resend Email Verification</h1>
+	</div>
+	<p>Sorry we could not verify that email address. Enter your email below and we'll send you another email.</p>
+	{* #resendVerificationForm *}
+		{* traditionalSignIn_emailAddress *}
+		<div class="capture_footer capture_btn_full">
+			{* submitButton *}
+		</div>
+	 {* /resendVerificationForm *}
+</div>	<div id="dhtml-ad-hook">
+	<script>
+		if(document.documentElement.clientWidth >= 1008){ adUtility.insertAd("dhtml-ad-hook", { type: adUtility._AD_DHTML }); }
+		else { adUtility.insertAd("dhtml-ad-hook", { type: adUtility._AD_DRAU }); }
+	</script>
+	</div>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var bottom_load_vars = {"fb_app_id":"339525006252999","twitter_username":"CityNews"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.citynews.ca/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/samuel/javascripts/analytics-events-tracking.js,wp-includes/js/comment-reply.min.js,wp-content/themes/samuel/javascripts/on-air.js,wp-content/themes/samuel/javascripts/soundmanager2-nodebug-jsmin.js,wp-content/themes/samuel/javascripts/inlineplayer.js,wp-content/themes/samuel/javascripts/breaking-news.js,wp-content/themes/samuel/javascripts/jquery.marquee.min.js,wp-content/themes/citynews/javascripts/topnav-scroll.js,wp-content/themes/citynews/javascripts/offcanvas-navbar.js,wp-content/themes/samuel/javascripts/watch-live.js,wp-content/themes/samuel/javascripts/bottom-load.js,wp-content/themes/samuel/javascripts/article-comments.js,wp-content/themes/citynews/javascripts/sharebar.js,wp-content/plugins/akismet/_inc/form.js&#038;ver=1446749767'></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"76ff1b0f22","applicationID":"6076080","transactionName":"ZFEHNxYHXUFQUBJeDV0bJAAQD1xcHkAPWQVfUQ==","queueTime":0,"applicationTime":623,"atts":"SBYEQV4dTk8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

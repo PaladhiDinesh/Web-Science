@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+            <html lang="es">
+              <head>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+                
+<title>Trump promete &lsquo;encarar&rsquo; a refugiados sirios, incluso ni&ntilde;os</title>
+<meta property="og:title" content="Trump promete &lsquo;encarar&rsquo; a refugiados sirios, incluso ni&ntilde;os">
+<meta name="description" content="El candidato dijo que de llegar a la presidencia no permitir&aacute; la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.">
+<meta property="og:description" content="El candidato dijo que de llegar a la presidencia no permitir&aacute; la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.">
+<meta name="keywords" content="aspirante,refugiados,ISIS,presidencia,sirios,Estados Unidos,donald trump">
+<meta property="section" content="economia">
+<meta property="og:url" content="http://expansion.mx/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump">
+<meta property="og:image" content="http://cdn.expansion.mx/media/2016/02/08/trump.jpg">
+<meta property="og:type" content="article">
+<meta property="article:author:first_name">
+<meta property="article:author:last_name">
+<meta property="article:author:username" content="Jeremy Diamond">
+<meta property="twitter:card" content="summary_large_image"><link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/PortalPage.ad43a2dc80ee6b36bd4958ffe6f61e4b.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/MenuWidget.37d4a98bb05e0da194fcc1e115c94b73.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/FooterWidget.812d2520f016e508fc64e655a2b7d215.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/ArticleWidget.f30b586e87a9703ce9d8328d67debd1f.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/container/TilesLayout.671937f813e0789206f812fa1fb55809.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/LatestBuilderWidget.ff7eebddb138b69feec4da4fe443757f.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/_formats/LatestBuilderWidget/PlayListItems.4b449e493af796a9c54dcd92d9364e3d.gz.css">
+                    <link rel="stylesheet" href="http://cdn.expansion.mx/resource/assets/css/sites/expansion/MostViewedContentWidget.5ee28f8eb593197a1095c3095b43c3d5.gz.css">
+                    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+                <meta name="cherry-site-name" content="expansion"/>
+                <meta name="cherry-site" content="00000150-d355-da48-a770-db5549610000"/>
+                <link rel="icon" href="/assets/img/sites/expansion/favicon.png"/>
+              </head>
+              <body class="no-theme">
+                <!-- Google Tag Manager -->
+                  <noscript>
+                    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-522J7L" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                  </noscript>
+                  <script>
+                    (function (w, d, s, l, i) {
+                      w[l] = w[l] || [];
+                      w[l].push({
+                        'gtm.start': new Date().getTime(), event: 'gtm.js'
+                      });
+                      var f = d.getElementsByTagName(s)[0];
+                      var j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                      j.async = true;
+                      j.src = '//www.googletagmanager.com/gtm.js?id='+i+dl;
+                      f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-522J7L');
+                    
+                    
+                    
+                  </script><!-- End Google Tag Manager -->
+                <div id="oop">
+                  <div data-dfp="{&quot;adUnit&quot;:&quot;/72776159/es.gex.cnnexpansion/economia&quot;,&quot;adType&quot;:&quot;floating&quot;,&quot;sizeMapping&quot;:{&quot;default&quot;:[{&quot;browser&quot;:{&quot;width&quot;:500,&quot;height&quot;:700},&quot;adSize&quot;:{&quot;width&quot;:970,&quot;height&quot;:90}},{&quot;browser&quot;:{&quot;width&quot;:0,&quot;height&quot;:0},&quot;adSize&quot;:{&quot;width&quot;:320,&quot;height&quot;:50}}]},&quot;categoryExclusions&quot;:[],&quot;targeting&quot;:{}}" class="is-dfp enhancement"></div>
+                </div><input id="page-wrapper-target" type="checkbox" style="display:none"/>
+                <div class="page-wrapper ">
+  <div class="">
+  <!-- BEGIN expansion MenuWidget Exp Global Header -->
+      <header id="exp-header" data-sticky='{"fixed":true,"fixed_height":42,"group":"page"}' class="is-sticky">
+  <div id="top-header">
+    <div class="container">
+      <div class="session"><a href="/suscribete" data-cms-ai="0">Suscripción</a></div>
+    </div>
+  </div>
+  <div id="expanded-header">
+    <div class="container">
+      <div class="logo">
+        <div class="hamburger">
+          <div class="item no-print"><i id="hamburguer" class="icon bars menu_index">
+              <div class="ui vertical menu"></div></i></div>
+        </div>
+        <div id="exp-logo"><a href="http://expansion.mx" data-cms-ai="0">
+            <figure><svg xmlns="http://www.w3.org/2000/svg" width="200" height="30" viewBox="0 0 315.312 70.829"><g fill="currentcolor"><path fill="currentcolor" d="M73.39 52.548l-.177-1.514h11.32v2.042h-9.06l.153 1.445v2.897h6.164v2.04h-6.164v4.913h9.016v2.018H73.39v-13.84zM87.94 66.39V52.527l-.174-1.493h2.194l8.578 11.298V51.035h2.214V66.39h-1.864l-8.73-11.274V66.39H87.94zM114.26 62.97l-1.47 3.422h-2.04v-.55l6.273-14.917h2.105l6.143 14.917v.55h-2.106l-1.404-3.423h-7.5zm6.67-2.02l-2.875-7.46-2.94 7.46h5.814zM128.378 51.035h2.26v13.293h7.347v2.064h-9.606V51.035zM140.736 51.035h2.26V66.39h-2.26V51.035zM149.625 62.97l-1.47 3.422h-2.04v-.55l6.273-14.917h2.106l6.142 14.917v.55h-2.104l-1.404-3.423h-7.503zm6.668-2.02l-2.873-7.46-2.94 7.46h5.813zM163.588 66.39V52.527l-.177-1.493h2.195l8.577 11.298V51.035h2.216V66.39h-1.865l-8.73-11.274V66.39h-2.215zM179.175 64.79l9.28-11.76h-9.105v-1.995h12.09v1.602l-9.72 11.76h10.155v1.994h-12.7v-1.6zM197.217 62.97l-1.47 3.422h-2.04v-.55l6.272-14.917h2.105l6.142 14.917v.55h-2.105l-1.405-3.423h-7.5zm6.668-2.02l-2.874-7.46-2.938 7.46h5.813zM230.094 52.328l-.22 1.887h-.724c-.944-.876-2.478-1.36-4.102-1.36-3.248 0-5.377 2.568-5.377 5.86 0 3.485 2.547 5.88 5.728 5.88 1.646 0 3.16-.814 4.014-1.604h.725l.218 1.647c-.855.79-2.875 2.02-5.265 2.02-4.563 0-7.787-3.49-7.787-7.943 0-4.342 3.093-7.94 7.764-7.94 2.26-.004 4.125.85 5.027 1.554zM248.42 58.71c0 4.5-3.183 7.943-7.876 7.943-4.738 0-7.92-3.444-7.92-7.942 0-4.474 3.27-7.918 7.94-7.918 4.673 0 7.856 3.4 7.856 7.92zm-13.426 0c0 3.532 2.26 5.88 5.572 5.88 3.137 0 5.506-2.105 5.506-5.88 0-3.53-2.323-5.833-5.616-5.833-3.18 0-5.462 2.282-5.462 5.834zM251.548 66.39V52.527l-.176-1.493h2.192l8.577 11.298V51.035h2.217V66.39h-1.865l-8.73-11.274V66.39h-2.214z"/></g><path fill="currentcolor" d="M1.425 42.66H30.6v-5.95H8.76V24.166H23.69v-6.005H8.76v-7.387l-.373-3.507h21.948V1.263H1l.425 3.667v37.73zm39.113-.053l11.16-16.633 10.947 16.633h6.643v-1.435L56.48 21.882 69.022 2.75V1.26h-6.058L52.6 17.26 42.29 1.263H35.65V2.75l12.01 18.388-13.39 20.034v1.435h6.27zm32.894.106h7.387v-12.38h8.13c8.024 0 15.305-4.625 15.305-14.668 0-9.193-6.06-14.295-14.56-14.295h-16.74l.477 4.092v37.25zM80.82 24.38V11.36l-.426-4.04h7.76c5.42 0 8.98 2.233 8.98 8.45 0 5.793-3.56 8.61-9.034 8.61h-7.28zm48.464 9.14l3.72 9.193h6.696v-1.436L123.332 1.103h-6.855L99.79 41.278v1.436h6.644l3.933-9.193h18.917zm-16.633-5.952l7.282-19.237 7.12 19.238h-14.4zm36.988 15.145v-28.91l23.275 28.91h6.378V1.37h-7.333v28.483L149.107 1.37h-7.335l.48 4.038v37.306h7.386zm67.808-.052h7.228V1.21h-7.228v41.45zM250.873.68c-12.436 0-22.054 9.3-22.054 21.31 0 12.063 9.352 21.363 22 21.363 12.488 0 22-9.3 22-21.36 0-12.172-9.51-21.312-21.947-21.312zm-.267 6.218c8.237 0 14.934 6.11 14.934 15.093 0 9.617-6.855 15.622-14.667 15.622-8.29 0-14.827-6.59-14.827-15.623 0-9.09 6.058-15.094 14.56-15.094zm33.8 35.817v-28.91l23.274 28.91h6.378V1.37h-7.334v28.483L283.874 1.37h-7.334l.48 4.038v37.306h7.385zm-86.09-42.3c-8.716 0-15.093 4.25-15.093 11.69 0 7.6 8.45 10.63 13.285 12.596 4.73 1.858 8.556 3.24 8.556 6.322 0 3.773-3.242 6.06-7.865 6.06-3.986 0-7.973-1.755-11-3.827h-2.233l-.743 5.208c3.4 2.71 8.928 4.73 13.976 4.73 8.557 0 15.252-4.784 15.252-12.49 0-6.96-6.855-9.512-11.638-11.425-5.208-2.072-10.416-3.773-10.416-7.546 0-3.188 2.976-4.995 7.812-4.995 3.083 0 6.696 1.116 8.45 2.498h2.338l.744-5.58c-2.232-1.542-6.43-3.242-11.427-3.242z"/><path fill="#000000" d="M266.102 1.253l-13.435 13.435h8.637l13.434-13.435"/><g fill="currentcolor"><path d="M273.51 58.28c.004 4.813 3.806 7.006 7.336 7.006h6.07c.397 0 .732-.332.732-.727V51.982c-.002-.626.315-1.117.828-1.28.494-.155 1.043.047 1.364.506 1.72 2.813 8.542 13.735 8.61 13.845.146.208.36.308.554.247.212-.068.34-.313.338-.658V51.987c-.003-.627.314-1.117.827-1.28.492-.156 1.04.047 1.36.505 1.72 2.814 8.54 13.735 8.61 13.846.145.207.373.308.57.245.22-.07.35-.314.35-.656v-16.69h-2.605V57.7s-1.56-2.644-4.216-7.208c-2.604-4.47-7.51-2.623-7.51 1.226v5.98s-1.524-2.645-4.182-7.21c-2.603-4.47-7.52-2.623-7.52 1.227v10.29c.002.373-.275.7-.678.702h-3.218c-6.96.008-6.34-8.9-.414-8.908 2.635-.005 3.557 0 3.557 0v-2.58h-3.685c-3.52.005-7.084 2.432-7.08 7.06z"/><path fill="currentcolor" d="M311.716 47.957v16.688c.003.757-.414 1.158-.806 1.283-.105.033-.214.05-.32.05-.377 0-.745-.2-.995-.56-.08-.123-6.9-11.048-8.612-13.848-.147-.21-.393-.31-.614-.238-.234.073-.372.317-.37.653V64.64c0 .76-.41 1.162-.796 1.285-.47.148-.98-.052-1.3-.51-.077-.125-6.9-11.05-8.61-13.85-.147-.208-.396-.31-.617-.237-.233.074-.372.317-.37.653v12.577c0 .763-.623 1.384-1.39 1.384h-6.07c-5.487 0-7.99-3.972-7.992-7.66-.003-3.83 2.654-7.71 7.738-7.72h3.686v-2.605h-3.23c-14.47-.002-14.332 20.614.195 20.622h5.678c2.442.003 4.013-1.446 4.01-4.116v-5.22s3.184 5.276 4.435 7.344c2.125 3.514 7.27 2.823 7.256-1.567v-5.773s3.184 5.276 4.435 7.345c2.124 3.51 7.268 2.82 7.255-1.568V47.957h-2.6z"/><path fill="currentColor" d="M284.277 50.563h.052v.656h-.053z"/></g></svg></figure></a></div>
+        <div class="search-content">
+          <button class="search-icon search-icon-search--xcross"><span class="search-icon-search__item"></span></button>
+        </div>
+        <div class="input-search-mobile">
+          <form action="/busqueda/" method="get">
+            <input type="text" name="q" placeholder="Buscar" class="inputQ"/>
+            <input type="hidden" name="sort" value="date:desc"/>
+          </form>
+        </div>
+      </div>
+      <div class="menuNav">
+        <div id="main-menu">
+          <ul id="navigation" class="main-menu">
+            <li>
+              <a href="/" data-cms-ai="0">Inicio</a></li>
+            <li>
+                <a href="/empresas" data-menu="mnu-0" data-section="Empresas" class="submenu" data-cms-ai="0">Empresas</a></li>
+            <li>
+                <a href="/economia" data-menu="mnu-1" data-section="Economía" class="submenu current" data-cms-ai="0">Economía</a></li>
+            <li>
+                <a href="/nacional" data-menu="mnu-2" data-section="Nacional" class="submenu" data-cms-ai="0">Nacional</a></li>
+            <li>
+                <a href="/mundo" data-menu="mnu-3" data-section="Mundo" class="submenu" data-cms-ai="0">Mundo</a></li>
+            <li>
+                <a href="/tecnologia" data-menu="mnu-4" data-section="Tecnología" class="submenu" data-cms-ai="0">Tecnología</a></li>
+            <li>
+                <a href="/estilo" data-menu="mnu-5" data-section="Estilo" class="submenu" data-cms-ai="0">Estilo</a></li>
+            <li><a href="#" data-menu="mnu" data-section="" class="submenu" data-cms-ai="0">Más</a></li>
+          </ul>
+        </div>
+        <div class="input-search">
+          <form action="/busqueda/" method="get">
+            <input type="text" name="q" placeholder="Buscar" class="inputQ"/>
+            <input type="hidden" name="sort" value="date:desc"/>
+          </form>
+        </div>
+        <div class="search-content">
+          <button class="search-icon search-icon-search--xcross"><span class="search-icon-search__item"></span></button>
+        </div>
+      </div>
+      <div class="row">
+          <div id="megamenu" data-id="00000150-da35-dcd4-aff1-dbb71dd00000">
+            <div class="megamenu-container">
+              <div data-menu="mnu" class="row megamenu-item">
+                <div class="ui stackable two column grid">
+                  <div class="column subsections-container">
+                    <div class="subsections">
+                      <ul id="liMega">
+                        <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                        <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                        <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                        <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                        <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                        <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                        <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                        <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                </ul>
+                    </div>
+                  </div>
+                  <div id="megaMenuTarget-mnu" class="column megamenu-target"></div>
+                </div>
+              </div>
+              <div data-menu="mnu-0" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-0" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              <div data-menu="mnu-1" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-1" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              <div data-menu="mnu-2" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-2" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              <div data-menu="mnu-3" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-3" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              <div data-menu="mnu-4" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-4" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              <div data-menu="mnu-5" class="row megamenu-item">
+                  <div class="ui stackable two column grid">
+                    <div class="column subsections-container">
+                      <!--use this to print subsections per menuItem instead of indexSections-->
+                      <!--+subsections-->
+                      <div class="subsections">
+                        <ul id="liMega">
+                          <li><a href="/" data-cms-ai="0">Inicio</a></li>
+                          <li><a href="/empresas" data-cms-ai="0">Empresas</a></li>
+                          <li><a href="/economia" data-cms-ai="0">Economía</a></li>
+                          <li><a href="/nacional" data-cms-ai="0">Nacional</a></li>
+                          <li><a href="/mundo" data-cms-ai="0">Mundo</a></li>
+                          <li><a href="/tecnologia" data-cms-ai="0">Tecnología</a></li>
+                          <li><a href="/estilo" data-cms-ai="0">Estilo</a></li>
+                          <li><a href="/mercados/home/" data-cms-ai="0">Mercados</a></li>
+                                  <li><a href="/finanzas-personales" data-cms-ai="0">Finanzas Personales</a></li>
+                                  <li><a href="/carrera" data-cms-ai="0">Carrera</a></li>
+                                  <li><a href="/especiales-expansion" data-cms-ai="0">Especiales</a></li>
+                                  <li><a href="/rankings-expansion" data-cms-ai="0">Rankings</a></li>
+                                  <li><a href="/adnpolitico" data-cms-ai="0">ADNPolítico</a></li>
+                                  <li><a href="/emprendedores" data-cms-ai="0">Emprendedores</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Revista</a></li>
+                                  <li><a href="/videos" data-cms-ai="0">Videos</a></li>
+                                  <li><a href="/suscribete" data-cms-ai="0">Newsletter</a></li>
+                                  <li class="ext"><a href="http://obrasweb.mx" data-cms-ai="0"><img src="http://cdn.expansion.mx/39/66/f8c133de414ba58901514cccc899/logo-obras.png" class="fill"/></a></li>
+                                  <li class="ext"><a href="http://www.manufactura.mx/" data-cms-ai="0"><img src="http://cdn.expansion.mx/e1/fe/a739bc354f43a3b5fa3df7cec5ee/manufactura-logo.png" class="fill"/></a></li>
+                                  </ul>
+                      </div>
+                    </div>
+                    <div id="megaMenuTarget-mnu-5" class="column megamenu-target"></div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</header>
+<div class="exp-margin"></div><!-- END expansion MenuWidget Exp Global Header -->
+    </div>
+<div class="content-wrapper special-background">
+  <div class="content-header-skin">
+  <!-- BEGIN expansion HeaderSectionWidget Exp Specials Header Space -->
+      <!-- END expansion HeaderSectionWidget Exp Specials Header Space -->
+    </div>
+<div class="container content-container">
+  <div class="ad-container">
+  <!-- BEGIN expansion AdDFPWidget Expansion Article Leaderboard -->
+      <div class="adunit billboard"><div class="is-dfp enhancement" data-dfp='{"adUnit":"/72776159/es.gex.cnnexpansion/economia","adType":"billboard","sizeMapping":{"default":[{"browser":{"width":640,"height":480},"adSize":{"width":970,"height":250}},{"browser":{"width":0,"height":0},"adSize":{"width":320,"height":100}}]},"categoryExclusions":[],"targeting":{"keywords":"donald trump,sirios,refugiados,ISIS,aspirante,presidencia,Estados Unidos","pos":"1","contentId":"00000152-fa48-df4f-a55f-ff4b26d20000"}}'></div>
+</div><!-- END expansion AdDFPWidget Expansion Article Leaderboard -->
+    </div>
+<div class="ui grid">
+  <div class="five wide column noprint page-sidebar">
+  <div class="content-playlist">
+  <!-- BEGIN expansion SectionedWidgetContainer Exp Article Playlist -->
+      <div data-target=".page-sidebar" data-locking="body" class="is-toggle"></div>
+<div data-sticky='{"parent":".page-sidebar","group":"page","fit":true}' class="related-content is-sticky">
+  <h3 class="section-tag"><a href="http://expansion.mx/economia" data-cms-ai="2">Economía</a></h3>
+  <div data-playlist='{"updatable":true}' class="list is-playlist">
+    <div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item active"><a href="http://expansion.mx/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" data-id="00000152-fa48-df4f-a55f-ff4b26d20000" class="getPage" data-cms-ai="2">
+        <div class="photo">
+          <img src="http://cdn.expansion.mx/dims4/default/bffce9f/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2016%2F02%2F08%2Ftrump.jpg" width="110" height="82" alt="Donald Trump indica que los refugiados sirios podr&iacute;an tener fotograf&iacute;as de ISIS o cosas peores en sus celulares. (Foto: Reuters)" class="small" data-size="wider"></div>
+        <div class="text"><span class="tag">Economía</span>
+          <div class="title">Trump promete ‘encarar’ a refugiados sirios, incluso niños</div>
+        </div></a></div>
+    <div class="box-banner">
+          <div class="adunit box_banner"><div class="is-dfp enhancement" data-dfp='{"adUnit":"/72776159/es.gex.cnnexpansion/economia","adType":"box_banner","sizeMapping":{"default":[{"browser":{"width":640,"height":480},"adSize":{"width":300,"height":250}},{"browser":{"width":0,"height":0},"adSize":{"width":300,"height":250}}]},"categoryExclusions":[],"targeting":{"keywords":"donald trump,sirios,refugiados,ISIS,aspirante,presidencia,Estados Unidos","pos":"2","contentId":"00000152-fa48-df4f-a55f-ff4b26d20000"}}'></div>
+</div></div>
+      <div class="hometops">
+          <div data-type="Article" data-loaded="false" data-section="Empresas" class="playlist-item item"><a href="http://expansion.mx/empresas/2016/04/29/los-autos-hecho-en-china-buscan-conquistar-el-mercado-occidental" data-id="00000154-5342-dfe5-ab77-5f42a6690000" class="getPage" data-cms-ai="1">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/0a2e218/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F9d%2F61%2F8518655e4062b5531287d38d18fa%2Fresizes%2F500%2Fgeneral-motors-se-vuelve-hecho-en-china.jpg" width="110" height="82" alt="La empresa se ali&oacute; con la automotriz china SAIC para hacer una fabrica de Cadillac en el pa&iacute;s asi&aacute;tico." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Empresas</span>
+        <div class="title">Los autos 'Hecho en China' buscan conquistar el mercado occidental</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/la-economia-de-la-eurozona-crece-mas-rapido-que-la-de-eu" data-id="00000154-6318-de4e-adf4-e33b15360000" class="getPage" data-cms-ai="1">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/6ef4817/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F4e%2F02%2F47f5cfdb47878c48e50bc8b4a65a%2Fresizes%2F500%2Fnuevo-impulso.jpg" width="110" height="82" alt="La llegada de un mill&oacute;n de migrantes ha estimulado el gasto europeo. " class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">La economía de la eurozona crece más rápido que la de EU</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Mundo" class="playlist-item item"><a href="http://expansion.mx/mundo/2016/04/29/de-las-10-ciudades-mas-peligrosas-del-mundo-9-son-latinoamericanas" data-id="00000154-4eff-d316-ab5e-5fff01c80000" class="getPage" data-cms-ai="1">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/77f8884/2147483647/thumbnail/441x331%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fa5%2F3c%2F97cb3d024854b314613298dd11b6%2Fresizes%2F500%2Fcaracas-en-la-cima.jpg" width="110" height="83" alt="La capital venezolana ocupa el primer lugar con 3,946 homicidios en 2015." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Mundo</span>
+        <div class="title">De las 10 ciudades más peligrosas del mundo, 9 son latinoamericanas</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Empresas" class="playlist-item item"><a href="http://expansion.mx/empresas/2016/04/29/las-empresas-apple-google-y-twitter-sufren-con-el-inicio-de-2016" data-id="00000154-5e0e-d39b-af74-fe0ef32b0000" class="getPage" data-cms-ai="1">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/072468c/2147483647/thumbnail/442x332%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F46%2Fc8%2F4955767a4cf0b6865ccb2afddcfe%2Fresizes%2F500%2Fnumeros-a-la-baja.jpg" width="110" height="83" alt="Las principales empresas no cumplieron las expectativas luego de entregar su primer reporte trimestral." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Empresas</span>
+        <div class="title">Las empresas Apple, Google y Twitter sufren con el inicio de 2016</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Tecnología" class="playlist-item item"><a href="http://expansion.mx/tecnologia/2016/04/30/enviaste-un-mensaje-por-error-esta-app-te-ayuda-a-borrarlo" data-id="00000154-59db-d39b-af74-fddf32090000" class="getPage" data-cms-ai="1">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/c962844/2147483647/thumbnail/440x330%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F30%2F91%2F736e580f4d429869ac7d9fc91cf4%2Fresizes%2F500%2Fmensajes-borrados-en-maximo-24-horas.jpg" width="110" height="83" alt="Privates encripta las conversaciones que tengas a trav&eacute;s de la plataforma y las limpia autom&aacute;ticamente." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Tecnología</span>
+        <div class="title">¿Enviaste un mensaje por error? Esta 'app' te ayuda a borrarlo </div>
+      </div></a></div>
+</div>
+      <div class="box-banner">
+          <div class="adunit box_banner"><div class="is-dfp enhancement" data-dfp='{"adUnit":"/72776159/es.gex.cnnexpansion/economia","adType":"box_banner","sizeMapping":{"default":[{"browser":{"width":640,"height":480},"adSize":{"width":300,"height":250}},{"browser":{"width":0,"height":0},"adSize":{"width":300,"height":250}}]},"categoryExclusions":[],"targeting":{"keywords":"donald trump,sirios,refugiados,ISIS,aspirante,presidencia,Estados Unidos","pos":"3","contentId":"00000152-fa48-df4f-a55f-ff4b26d20000"}}'></div>
+</div></div>
+      <div class="latest-section">
+          <div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/la-economia-de-la-eurozona-crece-mas-rapido-que-la-de-eu" data-id="00000154-6318-de4e-adf4-e33b15360000" class="getPage" data-cms-ai="2">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/6ef4817/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F4e%2F02%2F47f5cfdb47878c48e50bc8b4a65a%2Fresizes%2F500%2Fnuevo-impulso.jpg" width="110" height="82" alt="La llegada de un mill&oacute;n de migrantes ha estimulado el gasto europeo. " class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">La economía de la eurozona crece más rápido que la de EU</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/el-gobierno-federal-recorta-mas-de-6-000-plazas-en-el-primer-trimestre" data-id="00000154-64b0-d902-a35e-f7f934290000" class="getPage" data-cms-ai="2">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/808257c/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F45%2F1b%2F4f7f5e1d4a73af15b59bc9845973%2Fresizes%2F500%2Ftrabajo.jpg" width="110" height="82" alt="Al menos 21 mil familias se quedar&aacute;n sin ingresos por el recorte de Pemex anunciado este viernes." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">El gobierno federal recorta más de 6,000 plazas en el primer trimestre</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/wall-street-opera-a-la-baja-ante-la-valoracion-de-la-temporada-de-reportes" data-id="00000154-6254-db9a-a3de-ffd7d4f60000" class="getPage" data-cms-ai="2">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/7082a06/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fbb%2Fdc%2F7ef4849e424ab64b396b6c0f798d%2Fresizes%2F500%2Fwall-street.JPG" width="110" height="82" alt="El Dow Jones pierde 0.52% a 17,738 unidades." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">Wall Street cierra a la baja tras reportes trimestrales</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/brasil-se-hunde-y-mexico-emerge-que-pasa-con-sus-economias" data-id="00000154-635b-de4e-adf4-e37b64970000" class="getPage" data-cms-ai="2">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/a5fe820/2147483647/thumbnail/443x332%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Ffa%2F92%2F8118749148fcb3072d6e11410677%2Fresizes%2F500%2Fdiferencias.jpg" width="110" height="82" alt="Los expertos dicen que la divergencia entre ambos pa&iacute;ses es fruto de dos estrategias opuestas empleadas." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">Brasil se hunde y México emerge, ¿qué pasa con sus economías?</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Economía" class="playlist-item item"><a href="http://expansion.mx/economia/2016/04/29/el-dolar-pierde-terreno-ante-la-poca-posibilidad-de-que-la-fed-eleve-su-tasa" data-id="00000154-624f-db9a-a3de-ffcf7aba0000" class="getPage" data-cms-ai="2">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/4ef516c/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F78%2F19%2F9b1ec53044a0aeb5b3fc5cd57d34%2Fresizes%2F500%2Fvalor-a-la-baja.jpg" width="110" height="82" alt="En su nivel interbancario el d&oacute;lar cotiza en 17.07 pesos." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Economía</span>
+        <div class="title">El dólar termina la semana en 17.55 pesos en bancos</div>
+      </div></a></div>
+</div>
+      <div class="box-banner">
+          <div class="adunit box_banner"><div class="is-dfp enhancement" data-dfp='{"adUnit":"/72776159/es.gex.cnnexpansion/economia","adType":"box_banner","sizeMapping":{"default":[{"browser":{"width":640,"height":480},"adSize":{"width":300,"height":250}},{"browser":{"width":0,"height":0},"adSize":{"width":300,"height":250}}]},"categoryExclusions":[],"targeting":{"keywords":"donald trump,sirios,refugiados,ISIS,aspirante,presidencia,Estados Unidos","pos":"4","contentId":"00000152-fa48-df4f-a55f-ff4b26d20000"}}'></div>
+</div></div>
+      <div class="most-viewed">
+          <div data-type="Article" data-loaded="false" data-section="Mundo" class="playlist-item item"><a href="http://expansion.mx/mundo/2016/04/29/de-las-10-ciudades-mas-peligrosas-del-mundo-9-son-latinoamericanas" data-id="00000154-4eff-d316-ab5e-5fff01c80000" class="getPage" data-cms-ai="3">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/77f8884/2147483647/thumbnail/441x331%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fa5%2F3c%2F97cb3d024854b314613298dd11b6%2Fresizes%2F500%2Fcaracas-en-la-cima.jpg" width="110" height="83" alt="La capital venezolana ocupa el primer lugar con 3,946 homicidios en 2015." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Mundo</span>
+        <div class="title">De las 10 ciudades más peligrosas del mundo, 9 son latinoamericanas</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Empresas" class="playlist-item item"><a href="http://expansion.mx/empresas/2016/04/29/las-empresas-apple-google-y-twitter-sufren-con-el-inicio-de-2016" data-id="00000154-5e0e-d39b-af74-fe0ef32b0000" class="getPage" data-cms-ai="3">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/072468c/2147483647/thumbnail/442x332%5E/resize/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F46%2Fc8%2F4955767a4cf0b6865ccb2afddcfe%2Fresizes%2F500%2Fnumeros-a-la-baja.jpg" width="110" height="83" alt="Las principales empresas no cumplieron las expectativas luego de entregar su primer reporte trimestral." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Empresas</span>
+        <div class="title">Las empresas Apple, Google y Twitter sufren con el inicio de 2016</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Empresas" class="playlist-item item"><a href="http://expansion.mx/empresas/2016/04/29/el-salario-de-marissa-mayer-se-reduce-a-6-millones-de-dolares" data-id="00000154-6473-d902-a35e-f7fbef490000" class="getPage" data-cms-ai="3">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/969e34e/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fa8%2F97%2F9c4256ae4d40ad7a9a66b7eba398%2Fresizes%2F500%2Fmarissa-mayer.jpg" width="110" height="82" alt="directora ejecutiva de Yahoo." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Empresas</span>
+        <div class="title">El salario de Marissa Mayer se reduce a 6 millones de dólares</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Mundo" class="playlist-item item"><a href="http://expansion.mx/2016/04/29/ciudad-argentina-permite-las-drogas-sinteticas-para-reducir-danos-en-fiestas" data-id="00000154-6475-d902-a35e-f7fdb7080000" class="getPage" data-cms-ai="3">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/98bb62b/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F9f%2Fe8%2F0ad72c77492989378dfe97cbb16b%2Fresizes%2F500%2Fprevencion.jpg" width="110" height="82" alt="Entre otras acciones, se realizar&iacute;an pruebas a la droga para ver si contiene o no &eacute;xtasis." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Mundo</span>
+        <div class="title">Ciudad argentina permite las drogas sintéticas para reducir daños en fiestas</div>
+      </div></a></div>
+<div data-type="Article" data-loaded="false" data-section="Mundo" class="playlist-item item"><a href="http://expansion.mx/mundo/2016/04/29/rio-2016-corea-del-sur-vestira-uniforme-olimpico-para-repeler-el-zika" data-id="00000154-6418-d902-a35e-f7f9deeb0000" class="getPage" data-cms-ai="3">
+      <div class="photo">
+        <img src="http://cdn.expansion.mx/dims4/default/a149bf1/2147483647/thumbnail/110x82%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2F1b%2F32%2F9e31afa041cd94f57decc2939195%2Fresizes%2F500%2Fcontra-el-zika.jpg" width="110" height="82" alt="Los atletas usar&aacute;n pantalones y sacos durante la inauguraci&oacute;n y clausura de los Juegos." class="small" data-size="wider"></div>
+      <div class="text"><span class="tag">Mundo</span>
+        <div class="title">Río 2016: Corea del Sur vestirá uniforme olímpico para 'repeler' el zika</div>
+      </div></a></div>
+</div>
+      </div>
+</div><!-- END expansion SectionedWidgetContainer Exp Article Playlist -->
+    </div>
+</div>
+<div class="eleven wide column containerArticles main-content">
+  <div class="ui wide column Article is-playlist-target">
+  <!-- BEGIN expansion ArticleWidget Exp Article Null -->
+      <article id="article-00000152-fa48-df4f-a55f-ff4b26d20000" name="Article" class="article is-content no-theme">
+  <div class="head">
+    <div class="section-tag"><a href="http://expansion.mx/economia" itemprop="articleSection" data-cms-ai="4">Economía</a></div>
+    <h1 itemprop="name" class="headline is-content-title">Trump promete ‘encarar’ a refugiados sirios, incluso niños</h1>
+    <div itemprop="description" class="abstract">El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.</div>
+    <div class="date">
+        <time>
+              Lunes, 8 de febrero de 2016 a las 12:10 PM</time>
+          </div>
+    </div>
+  <div class="main-media">
+    <figure class="embedded media image">
+  <img src="http://cdn.expansion.mx/dims4/default/cf385f6/2147483647/thumbnail/800x450%5E/quality/75/?url=http%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2016%2F02%2F08%2Ftrump.jpg" width="800" height="450" alt="Donald Trump indica que los refugiados sirios podr&iacute;an tener fotograf&iacute;as de ISIS o cosas peores en sus celulares. (Foto: Reuters)" class="fill" data-size="widescreen"></figure>
+<figcaption class="caption">
+  <div class="headline"><strong>El aspirante a la presidencia de Estados Unidos dijo que los</strong></div>
+   <div class="description">Donald Trump indica que los refugiados sirios podrían tener fotografías de ISIS o cosas peores en sus celulares. &#47;</div>
+  <div class="credits">
+     (Foto: Reuters)
+      </div>
+</figcaption></div>
+  <div class="tools-bar no-print">
+    <div class="sharebar">
+      <div data-sharebar="data-sharebar" data-sharebar-id="00000152-fa48-df4f-a55f-ff4b26d20000" data-sharebar-url="http://expansion.mx/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" data-sharebar-title="Trump promete ‘encarar’ a refugiados sirios, incluso niños" data-sharebar-media="http://cdn.expansion.mx/media/2016/02/08/trump.jpg" class="is-sharebar enhancement"></div>
+    </div>
+    <div class="tools">
+      <ul>
+        <li>
+          <div data-print='{"target":".is-printable"}' class="print-button is-print enhancement"><i class="icon print"></i></div>
+        </li>
+        <li>
+          <div data-zoom='{"min":12,"max":24,"inc":".plus-size","dec":".petite-size","target":".is-zoomable"}' class="size is-zoom enhancement"><span class="plus-size">A+</span><span class="petite-size">A-</span></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="meta">
+    <div class="credits">
+      <div class="author">
+          <span>Por:</span> <span class="name">
+              Jeremy Diamond </span>
+            </div>
+      </div>
+  </div>
+  <div class="body is-zoomable">
+    <label itemprop="contentLocation" class="place">SALEM, New Hampshire (CNN) -
+      </label>
+    <style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}</style><p> Donald Trump aseguró este lunes que si llega a ser electo presidente de Estados Unidos, encarará a los <a href="http://www.cnnexpansion.com/economia/2016/02/02/mas-de-62000-inmigrantes-han-llegado-a-grecia-en-2016" target="_blank" data-cms-ai="4">refugiados de Siria</a>, incluyendo a niños, y les dirá que no pueden entrar al territorio estadounidense.
+</p><p> “Los puedo verlos a la cara y decirles, ‘Miren, ustedes no pueden entrar aquí’”, aseguró Trump durante una audiencia pública luego de que un hombre de Greenwich, Connecticut le preguntara al multimillonario si estaría dispuesto a prohibir que <a href="http://www.cnnexpansion.com/economia/2016/01/20/los-refugiados-una-oportunidad-economica-para-europa" data-cms-ai="4">los menores de edad de Siria se refugien en Estados Unidos.</a>
+</p><p> “Sus padres deberían de quedarse en otro lugar. Pero no sabemos de donde vienen sus padres. No tenemos documentos de ellos”, “No hay manera de poder revisar de donde vienen estas personas”, continuó Trump, quien tiene una casa en dicha localidad.
+</p><p> Esto sugiere que&nbsp;<a href="http://www.cnnexpansion.com/economia/2016/01/04/trump-lanza-su-primer-spot-centrado-en-isis-e-inmigracion" target="_blank" data-cms-ai="4">los refugiados sirios tienen fotografías de ISIS</a> y “cosas peores” en sus celulares, agregó el empresario.
+</p><p> <em><a href="http://www.cnnexpansion.com/economia/2016/02/03/donald-trump-nominado-al-premio-nobel-de-la-paz" data-cms-ai="4">Lee: Donald Trump, ¿nominado al premio Nobel de la Paz?</a></em>
+</p><p> Pero más allá de eso, Trump utilizó un tono diferente al que ha venido utilizando cuando dialoga con personas que lo cuestionan.
+</p><p> Trump no fustigó al hombre, sino que trató de obtener su simpatía.
+</p><p> “Sé lo que estás haciendo y lo entiendo por completo. Y todos tenemos corazón”, añadió Trump, “pero siempre hay un punto de vista opuesto”.
+</p><p> El aspirante republicano a la presidencia de EU argumentó que la creación de zonas seguras en Siria para&nbsp;<a href="http://www.cnnexpansion.com/economia/2016/01/20/los-refugiados-una-oportunidad-economica-para-europa" target="_blank" data-cms-ai="4">albergar a refugiados</a> sería una mejor solución para atender la crisis de refugiados provocada por la guerra civil de Siria.
+</p><p> “Uno lo ve y dice que ya tenemos nuestros propios problemas”, expresó Trump. “Tengo el corazón más grande de todas las personas que están en esta audiencia. Podemos tomar un área en Siria… y construir una zona segura”.
+</p></div>
+  <div class="tools-bar no-print">
+    <div class="sharebar">
+      <div data-sharebar="data-sharebar" data-sharebar-id="00000152-fa48-df4f-a55f-ff4b26d20000" data-sharebar-url="http://expansion.mx/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" data-sharebar-title="Trump promete ‘encarar’ a refugiados sirios, incluso niños" data-sharebar-media="http://cdn.expansion.mx/media/2016/02/08/trump.jpg" class="is-sharebar enhancement"></div>
+    </div>
+    <div class="tools">
+      <ul>
+        <li>
+          <div data-print='{"target":".is-printable"}' class="print-button is-print enhancement"><i class="icon print"></i></div>
+        </li>
+        <li>
+          <div data-zoom='{"min":12,"max":24,"inc":".plus-size","dec":".petite-size","target":".is-zoomable"}' class="size is-zoom enhancement"><span class="plus-size">A+</span><span class="petite-size">A-</span></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="extras">
+    <hr/>
+    <div class="extra comments">
+      <div class="title">Comenta este contenido</div>
+    </div>
+    <div class="comments-container">
+      <div id="comments-00000152-fa48-df4f-a55f-ff4b26d20000" data-comments='{"id":"00000152-fa48-df4f-a55f-ff4b26d20000","url":"http://expansion.mx/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump","title":"Trump promete ‘encarar’ a refugiados sirios, incluso niños"}' class="is-comments enhancement">
+      </div>
+    </div>
+    <button class="showCommentsGigya">Ver comentarios</button>
+  </div>
+</article><!-- END expansion ArticleWidget Exp Article Null -->
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="ui wide column footer">
+  <!-- BEGIN expansion FooterWidget Exp Global Footer -->
+      <footer>
+  <div class="container-footer">
+    <div class="row">
+      <div class="terminos">
+        <ul>
+          <li class="item"><a href="http://mediakit.grupoexpansion.mx/index.php?id=18" target="_blank" data-cms-ai="5">Publicidad</a></li>
+          <li class="item"><a href="/aviso-legal-y-de-privacidad" data-cms-ai="5">Aviso legal y de privacidad</a></li>
+          <li class="item"><a href="http://grupoexpansion.mx/empleos/" data-cms-ai="5">Empleos</a></li>
+          <li class="item"><a href="http://grupoexpansion.mx/contactenos/" data-cms-ai="5">Contáctanos</a></li>
+          <li class="item"><a href="/canales-rss" data-cms-ai="5">RSS</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="footer-column">
+        <div class="suscribete"><a href="/suscribete" data-cms-ai="5">Suscríbete a la revista y newsletters.</a>
+          <div class="followbar"></div>
+          <p>Síguenos en nuestras redes sociales</p>
+          <div class="contentFollowBar">
+            <div class="gig-followbar"><a href="https://www.facebook.com/ExpansionMex" title="" alt="Siguenos en Facebook" target="_blank" class="gig-followbar-providerButton" data-cms-ai="5"><img alt="" src="/assets/img/sites/expansion/shareFacebook.png" width="32" height="32" style="width:32px;height:32px;margin:1px;" class="gig-followbar-providerButton-img"/></a><a href="http://twitter.com/expansionmx" title="" alt="Siguenos en Twitter Twitter" rel="me" target="_blank" class="gig-followbar-providerButton" data-cms-ai="5"><img alt="" src="/assets/img/sites/expansion/shareTwitter.png" width="32" height="32" style="width:32px;height:32px;margin:1px;" class="gig-followbar-providerButton-img"/></a><a href="https://www.linkedin.com/company/expansion" title="Siguenos en Linkedin" alt="Siguenos en Linkedin" target="_blank" class="gig-followbar-providerButton" data-cms-ai="5"><img alt="Siguenos en linkedin" src="/assets/img/sites/expansion/shareLinkedin.png" width="32" height="32" style="width:32px;height:32px;margin:1px;" class="gig-followbar-providerButton-img"/></a><a href="https://plus.google.com/105148576356784727667" title="Siguenos en Google Plus" alt="Siguenos en Google Plus" target="_blank" rel="Publisher" class="gig-followbar-providerButton gig-followbar-providerButton-last" data-cms-ai="5"><img alt="" src="/assets/img/sites/expansion/shareGoogle.png" width="32" height="32" style="width:32px;height:32px;margin:1px;" class="gig-followbar-providerButton-img"/></a></div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-column">
+        <div class="otros">
+          <div class="grupo">
+            <p><strong>Otros sitios del Grupo:</strong></p>
+            <div class="ui divided horizontal list">
+              <div class="item"><a href="http://www.mediotiempo.com/" target="_blank" data-cms-ai="5">Mediotiempo</a></div>
+              <div class="item"><a href="http://www.quien.com/" target="_blank" data-cms-ai="5">Quién</a></div>
+              <div class="item"><a href="http://mexico.cnn.com/" target="_blank" data-cms-ai="5">CNNMéxico</a></div>
+              <div class="item"><a href="http://www.chilango.com/" target="_blank" data-cms-ai="5">Chilango</a></div>
+              <div class="item"><a href="http://www.elle.mx/" target="_blank" data-cms-ai="5">Elle</a></div>
+              <div class="item"><a href="http://www.lifeandstyle.la/" target="_blank" data-cms-ai="5">Life and Style</a></div>
+              <div class="item"><a href="http://www.obrasweb.mx/" target="_blank" data-cms-ai="5">Obras</a></div>
+              <div class="item"><a href="http://www.manufactura.mx/" target="_blank" data-cms-ai="5">Manufactura</a></div>
+              <div class="item"><a href="http://www.idconline.com.mx" target="_blank" data-cms-ai="5">IDC</a></div>
+              <div class="item"><a href="http://www.instyle.mx" target="_blank" data-cms-ai="5">InStyle</a></div>
+            </div>
+          </div>
+          <!--.ingles
+          p Otros sitios en inglés:
+          .ui.divided.horizontal.list
+            .item
+              a(href="http://fortune.com/") Fortune
+            .item
+              a(href="http://money.cnn.com/smallbusiness/") Small Business
+            .item
+              a(href="http://time.com/money/") Money
+          
+          -->
+        </div>
+      </div>
+      <div class="footer-column">
+        <div class="apps"><strong>Edición digital disponible en:</strong>
+          <div class="approw">
+            <ul>
+              <li class="appStore"><a href="https://itunes.apple.com/us/app/expansion-magazine/id900026725?mt=8" target="_blank" data-cms-ai="5"><img src="/assets/img/sites/expansion/applestore.png" alt=""/></a></li>
+              <li class="googlePlay"><a href="https://play.google.com/store/apps/details?id=com.magzter.expansion&amp;hl=es" target="_blank" data-cms-ai="5"><img src="/assets/img/sites/expansion/googleplay.png" alt=""/></a></li>
+              <!--li.amazon
+              a(href="http://www.amazon.com/Magzter-Inc-Expansi%C3%B3n/dp/B00NW7LRDC/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1442036147&sr=1-1&keywords=expansion" target="_blank")
+                //- i.sprite-amazon Amazon
+                img(src="/assets/img/sites/expansion/amazon.png", alt="")
+              -->
+            </ul>
+          </div>
+          <div class="approw">
+            <ul>
+              <li class="cluster"><i>Business/Finance</i></li>
+              <li class="comscore"><img src="/assets/img/sites/expansion/comscore.png" alt=""/>
+              </li>
+              <li class="iab"><img src="/assets/img/sites/expansion/iab.png" alt=""/>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="copyright">&copy; 2010 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. 2016 Derechos Reservados Expansión, S.A. de C.V.</div>
+    </div>
+  </div>
+</footer><!-- END expansion FooterWidget Exp Global Footer -->
+    </div>
+</div>
+<script src="//cdn.polyfill.io/v1/polyfill.min.js?features=es5,fetch,promise,Object.assign"></script>
+                <script src="//cdns.gigya.com/js/gigya.js?apiKey=3_b-bb7BkcbesQJHeAF-wW2in9rhhHF9-USAF09fb_lGU-9PH3WdSoGvIn5G2Li3oN" async="async">
+                  {
+                    siteName: 'expansion'
+                    ,enabledProviders: 'facebook,twitter,google,linkedin,yahoo,messenger,myspace,foursquare,orkut'
+                    ,connectWithoutLoginBehavior: 'alwaysLogin'
+                    ,shortURLs:'never'
+                    ,lang :'es'
+                  }
+                </script>
+                <script src="//static.apester.com/js/sdk/v1.1/apester-sdk.min.js" async="async"></script>
+                <!-- I know this sucks, but doesn't work other way-->
+                <!--[if IE 9]>
+                <script src="/vendor/jquery/dist/jquery.js"></script>
+                <script src="/vendor/ractive/ractive.js"></script>
+                <script src="/vendor/scroll-kit/scroll-kit.js"></script>
+                <script src="//widgets.outbrain.com/outbrain.js"></script>
+                <script src="//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.1/masonry.pkgd.min.js"></script>
+                <script src="/_vendor/foo-table/dist/js/footable.min.js"></script>
+                <script src="/_vendor/foo-table/dist/js/footable.sort.min.js"></script>
+                <script src="/_vendor/foo-table/dist/js/footable.filter.min.js"></script>
+                <script src="/_vendor/foo-table/dist/js/footable.paginate.min.js"></script>
+                <script src="https://www.youtube.com/iframe_api"></script><!--<![endif]-->
+                <script>
+                  (function() {
+                  var useSSL = 'https:' == document.location.protocol;
+                  var src = (useSSL ? 'https:' : 'http:') +
+                  '//www.googletagservices.com/tag/js/gpt.js';
+                  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+                  })();
+                  
+                </script>
+                <script src="http://cdn.expansion.mx/resource/vendor/oh-loader.b0238d02e3f86defea73eaad6e60c04c.gz.js"></script>
+                <script>
+                  oh.define('gigya', function() { /* TODO */ });
+                  
+                  // lazy dependencies
+                  oh.define('jquery', '/vendor/jquery/dist/jquery.js');
+                  
+                  //-oh.define('semantic-ui/semantic', '/vendor/semantic-ui/dist/semantic.js');
+                  oh.define('outbrain', '//widgets.outbrain.com/outbrain.js');
+                  
+                  //- TODO: reimplement using https://github.com/kamalkhan/awesome-grid
+                  oh.define('masonry/masonry.pkgd', '//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.1/masonry.pkgd.min.js');
+                  
+                  //- TODO: fork or wut?
+                  oh.define('footable', '/_vendor/foo-table/dist/js/footable.min.js')
+                  oh.define('footable-sort', '/_vendor/foo-table/dist/js/footable.sort.min.js')
+                  oh.define('footable-filter', '/_vendor/foo-table/dist/js/footable.filter.min.js')
+                  oh.define('footable-paginate', '/_vendor/foo-table/dist/js/footable.paginate.min.js')
+                  oh.define('footable-all', ['footable', 'footable-sort', 'footable-filter', 'footable-paginate']);
+                  
+                  //Youtube Video API
+                  oh.define('youtube-api', 'https://www.youtube.com/iframe_api');
+                </script>
+                <script src="http://cdn.expansion.mx/resource/vendor/_global.8ae5f20ad1032105f0092d143589ccb9.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/vendor/expansion.499460fa8563db941bc5277c11120a9e.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/assets/js/sites/expansion/PortalPage.954bcc35b57b5ba83ac00b779f667dff.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/assets/js/sites/expansion/MenuWidget.ab9213b3f47f03ffe2a8ed18a93bc847.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/assets/js/sites/_global/ArticleWidget.b3ec45ce1de5e27f0a241411b664cd20.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/assets/js/sites/expansion/single/ArticleWidget.79b189a0b84e76c56aabfcca97248119.gz.js"></script>
+                    <script src="http://cdn.expansion.mx/resource/assets/js/sites/_global/GexGigya.1200fa693230f50a11fde9b746db5020.gz.js"></script>
+              <script type="text/javascript" src="//expansion.mx/_resource/analytics.js" data-cms-main-id="00000150-d354-da48-a770-db545808000c,00000152-fa48-df4f-a55f-ff4b26d20000" data-cms-ids="[&quot;00000150-d354-da48-a770-db54580c003a,00000150-da35-dcd4-aff1-dbb725c30000&quot;,&quot;00000153-772b-de3b-af77-7fefa88f0000,00000153-9bee-d8c2-adfb-bfff450b0000&quot;,&quot;00000150-d354-da48-a770-db54580b0066,00000150-da34-dcd4-aff1-dbb6fd0a0000&quot;,&quot;00000150-d354-da48-a770-db54580b006c,00000150-da34-dcd4-aff1-dbb6fd430000&quot;,&quot;00000150-d354-da48-a770-db54580b0001,00000150-da34-dcd4-aff1-dbb6fd850000&quot;,&quot;00000150-d354-da48-a770-db54580b00a3,00000150-da34-dcd4-aff1-dbb6fa100000&quot;]"></script></body>
+            </html>
+          

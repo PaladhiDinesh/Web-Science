@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"d40529d1f2fee168c57e438d4ded8c7e",petok:"5bbc05d3b46cef5254feca19e74a5d19374e0acd-1462054094-1800",zone:"metroeasy.com",rocket:"0",apps:{"vig_key":{"sid":"6e1ebbaa492e7e9f8e76cdf875390230"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1599614883199821",
+    enable_page_level_ads: true
+  });
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '554196944693635']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=554196944693635&amp;ev=PixelInitialized"/></noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51331902-1', 'auto');
+ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+ 
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9LDNj1a8wt00oU", domain:"metroeasy.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9LDNj1a8wt00oU" style="display:none" height="1" width="1" alt=""/></noscript>
+ 
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width"/>
+<title>Guangzhou Metro — Map, Lines, Route, Hours, Tickets</title>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="pingback" href="http://www.metroeasy.com/xmlrpc.php"/>
+<!--[if lt IE 9]>
+<script src="http://www.metroeasy.com/wp-content/themes/iconic-one/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name="revised" content="Friday, October 30, 2015, 5:29 am"/>
+<script type="text/javascript">
+					var bhittani_plugin_kksr_js = {"nonce":"0070299109","grs":true,"ajaxurl":"http:\/\/www.metroeasy.com\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"","fuelspeed":400,"thankyou":" ","error_msg":" ","tooltip":"1","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};
+				</script>
+ 
+<meta name="description" content="Guangzhou Metro Map with information about its route lines, plan, hours, tickets, fares, stations and schedule. Download PDF."/>
+<link rel="canonical" href="http://www.metroeasy.com/guangzhou-metro.html"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Feed" href="http://www.metroeasy.com/feed"/>
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Comments Feed" href="http://www.metroeasy.com/comments/feed"/>
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Guangzhou Metro Comments Feed" href="http://www.metroeasy.com/guangzhou-metro.html/feed"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.metroeasy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='wiki-embed-style-css' href='http://www.metroeasy.com/wp-content/plugins/wiki-embed/resources/css/wiki-embed.css?ver=0.9' type='text/css' media='screen'/>
+<link rel='stylesheet' id='prettyPhoto.css-css' href='http://www.metroeasy.com/wp-content/plugins/wp-instagram-bank/assets/css/prettyPhoto.css?ver=4.5.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='bhittani_plugin_kksr-css' href='http://www.metroeasy.com/wp-content/plugins/kk-star-ratings/css.css?ver=2.4' type='text/css' media='all'/>
+<link rel='stylesheet' id='et_monarch-open-sans-css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all'/>
+<link rel='stylesheet' id='et_monarch-css-css' href='http://www.metroeasy.com/wp-content/plugins/monarch/css/style.css?ver=1.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='wprc-style-css' href='http://www.metroeasy.com/wp-content/plugins/report-content/static/css/styles.css?ver=4.5.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='themonic-fonts-css' href='http://fonts.googleapis.com/css?family=Ubuntu:400,700&#038;subset=latin,latin-ext' type='text/css' media='all'/>
+<link rel='stylesheet' id='themonic-style-css' href='http://www.metroeasy.com/wp-content/themes/iconic-one/style.css?ver=4.5.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='custom-style-css' href='http://www.metroeasy.com/wp-content/themes/iconic-one/custom.css?ver=4.5.1' type='text/css' media='all'/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='themonic-ie-css'  href='http://www.metroeasy.com/wp-content/themes/iconic-one/css/ie.css?ver=20130305' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-top-posts-widget-css' href='http://www.metroeasy.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://www.metroeasy.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wgmnp-style-css' href='http://www.metroeasy.com/wp-content/plugins/layero-google-map-neighbourhood-plugin/css/wgmnp_style.css?ver=4.5.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/wp-instagram-bank/assets/js/jquery.prettyPhoto.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/kk-star-ratings/js.min.js?ver=2.4'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3&#038;sensor=true&#038;libraries=places&#038;ver=4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprcajaxhandler = {"ajaxurl":"http:\/\/www.metroeasy.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/report-content/static/js/scripts.js?ver=4.5.1'></script>
+<link rel='https://api.w.org/' href='http://www.metroeasy.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.metroeasy.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.metroeasy.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.5.1"/>
+<link rel='shortlink' href='http://wp.me/p4oBx8-nk'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.metroeasy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.metroeasy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;format=xml"/>
+<script type="text/javascript">
+             jQuery(document).bind("keydown", function(e) {
+               if(e.ctrlKey && (e.which == 65 || e.which == 67 || e.which == 88 || e.which == 83 ||e.which == 85)) {
+                 e.preventDefault();
+                 return false;
+                 }
+             });
+
+         jQuery(document).on( "mousedown", function(event) {
+             if(event.which=="3")
+             {
+             document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
+
+             }
+             });
+            </script>
+<style type="text/css">body{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}</style><style>.kk-star-ratings{width:120px;}.kk-star-ratings .kksr-stars a{width:24px;}.kk-star-ratings .kksr-stars,.kk-star-ratings .kksr-stars .kksr-fuel,.kk-star-ratings .kksr-stars a{height:24px;}.kk-star-ratings .kksr-star.gray{background-image:url(http://www.metroeasy.com/wp-content/plugins/kk-star-ratings/gray.png);}.kk-star-ratings .kksr-star.yellow{background-image:url(http://www.metroeasy.com/wp-content/plugins/kk-star-ratings/yellow.png);}.kk-star-ratings .kksr-star.orange{background-image:url(http://www.metroeasy.com/wp-content/plugins/kk-star-ratings/orange.png);}</style><style type="text/css" id="et-social-custom-css"></style>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+ 
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Guangzhou Metro"/>
+<meta property="og:url" content="http://www.metroeasy.com/guangzhou-metro.html"/>
+<meta property="og:description" content="Guangzhou Metro Information Guangzhou Metro is a rapid transit system that serves Guangzhou in Guangdong province in China. The system began operations on 28th June 1997, and presently has 9 lines …"/>
+<meta property="article:published_time" content="2015-02-08T10:32:43+00:00"/>
+<meta property="article:modified_time" content="2015-10-30T05:29:16+00:00"/>
+<meta property="og:site_name" content="MetroEasy.com"/>
+<meta property="og:image" content="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg?resize=800%2C600"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="600"/>
+<meta property="og:locale" content="en_US"/>
+<meta name="twitter:image" content="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg?resize=800%2C600&#038;w=640"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<style id="custom-css-css">#page{width:80.5%}a:link{color:#EB652E}a:visited{color:#EB652E}a:hover{color:#EB652E}a:active{color:#EB652E}</style>
+</head>
+<body class="single single-post postid-1446 single-format-standard et_monarch custom-font-enabled"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.metroeasy.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+<div id="page" class="hfeed site">
+<header id="masthead" class="site-header" role="banner">
+<hgroup>
+<a href="http://www.metroeasy.com/" title="MetroEasy.com" rel="home">MetroEasy.com</a>
+<br .../> <a class="site-description">Public Transportation and Metro Rail Information</a>
+		</hgroup>
+			<div class="socialmedia">
+							<a href="https://twitter.com/MetroEasy" target="_blank"><img src="http://www.metroeasy.com/wp-content/themes/iconic-one/img/twitter.png" alt="Follow us on Twitter"/></a> 
+											<a href="http://facebook.com/metroeasyinformation" target="_blank"><img src="http://www.metroeasy.com/wp-content/themes/iconic-one/img/facebook.png" alt="Follow us on Facebook"/></a>
+											<a href="https://plus.google.com/+Metroeasy/posts" rel="author" target="_blank"><img src="http://www.metroeasy.com/wp-content/themes/iconic-one/img/gplus.png" alt="Follow us on Google Plus"/></a>
+									<a class="rss" href="http://www.metroeasy.com/feed" target="_blank"><img src="http://www.metroeasy.com/wp-content/themes/iconic-one/img/rss.png" alt="Follow us on rss"/></a>			
+					</div>
+		
+		
+		<nav id="site-navigation" class="themonic-nav" role="navigation">
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-menu-bar-container"><ul id="menu-top" class="nav-menu"><li id="menu-item-2995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2995"><a href="http://www.metroeasy.com">Metro Guides</a></li>
+<li id="menu-item-5456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5456"><a href="http://www.metroeasy.com/nearest-metro">Nearest Metro Stations</a></li>
+<li id="menu-item-5556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5556"><a href="http://routes.metroeasy.com">Metro Route Finder</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://www.metroeasy.com/contact-us">Contact</a></li>
+<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://www.metroeasy.com/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="http://www.metroeasy.com/terms-use">Terms</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+		<div class="clear"></div>
+	</header><!-- #masthead -->
+ 
+<div class="clear"></div>
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+
+	<article id="post-1446" class="post-1446 post type-post status-publish format-standard has-post-thumbnail hentry category-china tag-china tag-guangzhou">
+				<header class="entry-header">
+			 
+<p id="breadcrumbs">
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><a href="http://www.metroeasy.com" rel="v:url" property="v:title">Home</a></span> &gt; <span typeof="v:Breadcrumb"><a href="http://www.metroeasy.com" rel="v:url" property="v:title">Posts</a></span> &gt; <span typeof="v:Breadcrumb"><a href="http://www.metroeasy.com/china" rel="v:url" property="v:title">China</a></span> &gt; <span typeof="v:Breadcrumb"><strong class="breadcrumb_last" property="v:title">Guangzhou Metro</strong></span>
+		</span></p><hr>			<h1 class="entry-title">Guangzhou Metro</h1>
+			
+						
+	<div class="below-title-meta">
+		<div class="adt">
+		By        <span class="author">
+         <a href="http://www.metroeasy.com/author/jacob" title="Posts by Admin" rel="author">Admin</a>        </span>
+         <span class="meta-sep">|</span> 
+         February 8, 2015 
+         </div>
+		 <div class="adt-comment">
+		 <a class="link-comments" href="http://www.metroeasy.com/guangzhou-metro.html#respond">0 Comment</a> 
+         </div>       
+     </div><!-- below title meta end -->
+			
+						
+			</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div class="wprc-container red-colorscheme">
+	<button type="button" class="wprc-switch">Report an Error </button>
+	<div class="wprc-content">
+		<div class="wprc-message">
+		</div>
+		<div class="wprc-form">
+						<div class="left-section">
+				<li class="list-item-reason">
+					<label for="input-reason-1446">Issue: <span class="required-sign">*</span></label><br/>
+					<select id="input-reason-1446" class="input-reason">
+													<option>Timings are outdates</option>
+													<option>Map is Outdates</option>
+													<option>Route is Outdates</option>
+													<option>Hours are Outdates</option>
+													<option>Others</option>
+											</select>
+				</li>
+				<li class="list-item-name">
+										<label for="input-name-1446">
+						Your Name:
+						<span class="required-sign">*</span>					</label><br/>
+					<input type="text" id="input-name-1446" class="input-name wprc-input"/>
+									</li>
+				<li class="list-item-email">
+										<label for="input-email-1446">
+						Your Email:
+						<span class="required-sign">*</span>					</label><br/>
+					<input type="text" id="input-email-1446" class="input-email wprc-input"/>
+									</li>
+			</div>
+			<div class="right-section">
+				<li class="list-item-details">
+										<label for="input-details-1446">
+						Details:
+						<span class="required-sign">*</span>					</label><br/>
+					<textarea id="input-details-1446" class="input-details wprc-input"></textarea>
+									</li>
+			</div>
+			<div  class="clear"></div>
+			<input type="hidden" class="post-id" value="1446">
+			 <button type="button" class="wprc-submit">Submit Report</button>
+			<div class="et_social_media_wrapper"><img class="loading-img" style="display:none;" src="http://i2.wp.com/www.metroeasy.com/wp-content/plugins/report-content/static/img/loading.gif?w=665" title="loading" alt="loading Guangzhou Metro china " data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_off">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;media=http%3A%2F%2Fwww.metroeasy.com%2Fwp-content%2Fplugins%2Freport-content%2Fstatic%2Fimg%2Floading.gif&#038;description=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div>
+		</div>
+	</div>
+	</div><div class="kk-star-ratings  top-left lft" data-id="1446">
+			    <div class="kksr-stars kksr-star gray">
+			        <div class="kksr-fuel kksr-star yellow" style="width:0%;"></div>
+			        <!-- kksr-fuel --><a href="#1" target="_blank"  rel="nofollow" ></a><a href="#2" target="_blank"  rel="nofollow" ></a><a href="#3" target="_blank"  rel="nofollow" ></a><a href="#4" target="_blank"  rel="nofollow" ></a><a href="#5" target="_blank"  rel="nofollow" ></a>
+			    </div>
+			    <!-- kksr-stars -->
+			    <div class="kksr-legend"></div>
+			    <!-- kksr-legend -->
+			</div>
+			<!-- kk-star-ratings -->
+			<!--Ad Injection:top-->
+<div style='clear:both;'><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Resp MM 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="7855146557"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div><h2><span style="text-decoration: underline;">Guangzhou Metro Information</span></h2>
+<p class="western">Guangzhou Metro is a rapid transit system that serves Guangzhou in Guangdong province in China. The system began operations on 28<sup>th</sup> June 1997, and presently has 9 lines that serve 164 stations. The system has a total track length of 260.5 km (161.9 miles). The metro system is owned by the City of Guangzhou and is operated by <i>Guangzhou Metro Corporation. </i>As per statistics, the system had and average daily ridership of 8.61  million passengers in 2013 and an annual ridership of 2.054 billion passengers in 2013.</p>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Map</span></h2>
+<p>Map of Guangzhou Metro showing various lines and stations. Click on the map to enlarge it or view <a href="http://www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map-PDF.pdf" target="_blank">Guangzhou Metro Map in PDF</a>.</p>
+<p><a href="http://www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map.jpg"><div class="et_social_media_wrapper"><img class="aligncenter size-large wp-image-1448" src="http://i2.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map.jpg?resize=665%2C748" alt="Guangzhou Metro Map 910x1024 Guangzhou Metro china " srcset="http://i2.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map.jpg?resize=910%2C1024 910w, http://i2.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map.jpg?resize=266%2C300 266w, http://i2.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Map.jpg?resize=624%2C702 624w" sizes="(max-width: 910px) 100vw, 910px" title="Guangzhou Metro Map 910x1024" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_off">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;media=http%3A%2F%2Fwww.metroeasy.com%2Fwp-content%2Fuploads%2F2014%2F01%2FGuangzhou-Metro-Map-910x1024.jpg&#038;description=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div></a></p>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Hours</span></h2>
+<p class="western">The metro service starts operations around 6:00 am and runs until midnight. The metro runs all seven days of the week.</p>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Fares, Tickets and Cards </span></h2>
+<p class="western">The fares on Guangzhou metro are distance based and range from 2 Yuan to 14 Yuan. Riders can purchase <i>single journey ticket </i>which is valid for a single journey on the date of purchase. For a distance of 0-4 km, the standard fare is 2 Yuan. After 4 km, 1 Yuan is charged for every 4 km, for every 6 km after 12 km and for every 8 km after a distance of 24 km. The journey must be completed within four hours otherwise the passenger is charged the fare for the longest journey. The single journey tickets can be purchased from vending machines or kiosks located at every station. These are radio frequency plastic tokens that have to be tapped at the sensor on the ticket barriers during entry, and while exit, these tokens are retained at the slots. Group discounts of 10% are provided on these tickets, for a group of 30 and more people.</p>
+<p class="western">Riders can also make fare payments by using contactless smart card called Lingnan Pass: <i>Yang Cheng Tong. </i>This card can be used on the metro, buses and public transport. For each month, the <i>Yang Cheng Tong card </i>provides a discount of 5% for the first 15 journeys, and a discount of 40% for subsequent journeys.</p>
+<p class="western"><i>Senior citizen pass </i>provides a discount of 50% for seniors aged 60-64 years. A <i>Student pass </i>can be used by students of primary, secondary and vocational schools. This card entitles them to a discount of 50%.</p>
+<p class="western"><i>Day passes </i>are also available that provide unlimited rides on the metro system during the validity period of the pass. A <i>one day pass </i>can be purchased for 20 Yuan and is valid for duration of 24 hours. A <i>three day pass </i>costs 50 Yuan and is valid for 72 hours or three consecutive days.</p>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Parking</span></h2>
+<p>Guangzhou metro offers park and ride facilities at most metro station.</p><!--Ad Injection:random-->
+<div style='float:left;clear:both;'><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div><br clear='all' />
+<h2><span style="text-decoration: underline;">Guangzhou Metro Rules and Tips</span></h2>
+<p class="western">Smoking, drinking and eating is prohibited inside the metro system. Carrying of explosives and inflammable materials is prohibited. Guide dogs accompanying the visually impaired people are allowed on the metro. Some metro stations also provide park and ride facilities.</p>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Lines</span></h2>
+<p>Currently, Guangzhou metro has 9 lines serving 164 stations. A major part of the metro system serves urban areas. The metro network has planned three new lines line7, line9 and line13. The extension of line6 and line8 are under construction. All the metro lines are recognized by its color.</p>
+<ul>
+<li>Line 1 – Line1 was opened in 1997 and the metro runs between Xilang and Guangzhou east railway station. The length of the route is 18.5km serving 16 stations. All the stations are built underground.</li>
+<li>Line2 – Line2 was opened in 2002 and the metro runs between Jiahewanggang and Guangzhou south railway station. The length of this line is 31.4km serving 24 stations.</li>
+<li>Line3 – Line3 was opened in 2005 and the metro runs between Airport South and Tiyu Xilu. The Y shaped line has a length of 67.3km serving 28 stations.</li>
+<li>Line4 – Line4 was opened in 2005 and the metro runs between Huangcun and Jinzhou. The length of this line is 43.7km serving 16 stations.</li>
+<li>Line5 – Line5 was opened in 2009 and the metro runs between Jiaokou and Wenchong. The length of this line is 31.9km serving 24 stations.</li>
+<li>Line6 – Line6 was opened in 2013 and the metro runs between Xunfenggang and Changban. The length of this line is 24.5km serving 22 stations.</li>
+<li>Line8 – Line8 was opened in 2003 and the metro runs between Fenghuang Xincun and Wanshengwei. The line serves south bank of Pearl River from west to east. The length of this line is 14.8km serving 13 stations.</li>
+<li>Guangfo – Guangfo line is the first intercity railway underground line connecting Guangzhou City and Foshan City. Guangfo line was opened in 2010 and the metro runs between Kuiqi Lu and Xilang. The length of the route is 20.4km serving 14 stations.</li>
+<li>APM – APM is an underground light rail system which was opened in 2010. APM is the world’s first underground and unmanned rail. The metro offers service between Linhexi and Canton Tower. The length of the route is 3.9km serving 9 stations.</li>
+</ul>
+<h2><span style="text-decoration: underline;">Guangzhou Metro Pictures</span></h2>
+<div class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="665" data-carousel-extra='null' > <div class="gallery-row" style="width: 665px; height: 334px;" data-original-width="665" data-original-height="334" > <div class="gallery-group images-1" style="width: 444px; height: 334px;" data-original-width="444" data-original-height="334" > <div class="tiled-gallery-item tiled-gallery-item-large"> <a href="http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-station" border="0"> <div class="et_social_media_wrapper"><img data-attachment-id="1450" data-orig-file="http://www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="" description="" data-medium-file="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg?resize=300%2C225" data-large-file="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg?resize=800%2C600" src="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Station.jpg?resize=440%2C330" data-original-width="440" data-original-height="330" title="Guangzhou Metro Station" alt=" Guangzhou Metro china " style="width: 440px; height: 330px;" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_off">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;media=http%3A%2F%2Fwww.metroeasy.com%2Fwp-content%2Fuploads%2F2014%2F01%2FGuangzhou-Metro-Station.jpg%3Fw%3D440%26%23038%3Bh%3D330%26%23038%3Bcrop%3D1&#038;description=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div> </a> </div> </div> <!-- close group --> <div class="gallery-group images-2" style="width: 221px; height: 334px;" data-original-width="221" data-original-height="334" > <div class="tiled-gallery-item tiled-gallery-item-small"> <a href="http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-2" border="0"> <div class="et_social_media_wrapper"><img data-attachment-id="1451" data-orig-file="http://www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="" description="" data-medium-file="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro.jpg?resize=300%2C225" data-large-file="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro.jpg?resize=800%2C600" src="http://i1.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro.jpg?resize=217%2C163" data-original-width="217" data-original-height="163" title="Guangzhou Metro" alt=" Guangzhou Metro china " style="width: 217px; height: 163px;" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_off">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;media=http%3A%2F%2Fwww.metroeasy.com%2Fwp-content%2Fuploads%2F2014%2F01%2FGuangzhou-Metro.jpg%3Fw%3D217%26%23038%3Bh%3D163%26%23038%3Bcrop%3D1&#038;description=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div> </a> </div> <div class="tiled-gallery-item tiled-gallery-item-small"> <a href="http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-train" border="0"> <div class="et_social_media_wrapper"><img data-attachment-id="1452" data-orig-file="http://www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Train.jpg" data-orig-size="800,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="" description="" data-medium-file="http://i0.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Train.jpg?resize=300%2C225" data-large-file="http://i0.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Train.jpg?resize=800%2C600" src="http://i0.wp.com/www.metroeasy.com/wp-content/uploads/2014/01/Guangzhou-Metro-Train.jpg?resize=217%2C163" data-original-width="217" data-original-height="163" title="Guangzhou Metro Train" alt=" Guangzhou Metro china " style="width: 217px; height: 163px;" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_off">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;media=http%3A%2F%2Fwww.metroeasy.com%2Fwp-content%2Fuploads%2F2014%2F01%2FGuangzhou-Metro-Train.jpg%3Fw%3D217%26%23038%3Bh%3D163%26%23038%3Bcrop%3D1&#038;description=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="1446">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div> </a> </div> </div> <!-- close group --> </div> <!-- close row --> </div>
+<h3>Guangzhou Metro Resources</h3>
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Guangzhou_Metro" target="_blank" rel="nofollow" >Guangzhou Metro on Wikipedia</a></li>
+<li><a href="http://www.gzmtr.com/en/" target="_blank" rel="nofollow" >Official Website of Guangzhou Metro</a></li>
+</ol>
+<!--Ad Injection:bottom-->
+<div style='float:left;clear:both;'><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div><br clear='all' /><div class='a2k-container'><p class='a2k-sources'>Sources:</p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM Res 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="9331879750"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p><span class='a2k-title'><a href='http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-train'>Guangzhou Metro Train</a></span> <span class='a2k-copyright'>by</span> <span class='a2k-author'><a href='http://commons.wikimedia.org/w/index.php?title=User:Df112001&action=edit&redlink=1' title='Link to Df112001' target="_blank"  rel="nofollow" >Df112001</a></a><p><span class='a2k-title'><a href='http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-2'>Guangzhou Metro</a></span> <span class='a2k-copyright'>by</span> <span class='a2k-author'><a href='http://commons.wikimedia.org/w/index.php?title=User:Df112001&action=edit&redlink=1' title='Link to Df112001' target="_blank"  rel="nofollow" >Df112001</a></a><p><span class='a2k-title'><a href='http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-station'>Guangzhou Metro Station</a></span> <span class='a2k-copyright'>by</span> <span class='a2k-author'><a href='http://commons.wikimedia.org/w/index.php?title=User:Towermega&action=edit&redlink=1' title='Link to Tower Mega' target="_blank"  rel="nofollow" >Tower Mega</a></a><p><span class='a2k-title'><a href='http://www.metroeasy.com/guangzhou-metro.html/guangzhou-metro-map'>Guangzhou Metro Map</a></span> <span class='a2k-copyright'>by</span> <span class='a2k-author'><a href='http://commons.wikimedia.org/wiki/User:H2NCH2COOH' title='Link to H2NCH2COOH' target="_blank"  rel="nofollow" >H2NCH2COOH</a></a></div><div class="et_social_inline et_social_mobile_off et_social_inline_bottom">
+				<div class="et_social_networks et_social_4col et_social_simple et_social_circle et_social_left et_social_no_animation et_social_withcounts et_social_withnetworknames et_social_outer_dark">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a href="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_digg"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="digg" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_digg"></i><div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_pinterest"><a href="#" class="et_social_share_pinterest et_social_display_count" rel="nofollow" data-social_name="pinterest" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_pinterest"></i><div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_delicious"><a href="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="delicious" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_delicious"></i><div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_reddit"><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_reddit"></i><div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_stumbleupon"><a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="stumbleupon" data-post_id="1446" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_stumbleupon"></i><div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div><span class="et_social_overlay"></span></a></li></ul>
+				</div>
+			</div>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM Resp 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="1808612955"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><hr><h6><b><i> Tags :guangzhou metro, guangzhou metro map 2015 pdf, guangzhou metro map, guangzhou metro map 2015, guangzhou metro map pdf, guangzhou metro hours, guangzhou metro map 2014, metro guangzhou, Guangzhou Metro Fares, new map gz metro subway, metro map guangzhou, guangzhou metro operating hours, Guangzhou subway map pdf, guangzhou metro fare, guangzhou metro tourist pass 2015, guangzhou metro map 2014 pdf, guangzhou metro times, crawded hour guangzhou metro, GUANGZHOU SUBWAY, guanhzhou metro, gz metro map, guangzhou metro map pdf 2015, guangzhou metro system map, guangzhou subway fares, guangzhou metro tickets, metro one day pass guanzhou, Guangzhou meteo map pdf, guangzhou metro opening time, what time is the first metro train from guangzhou realway station, guangzhou subway map</i></b></h6><hr><div class="post-meta">Copyright © Metroeasy.com 30/10/15</div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><span class="et_social_bottom_trigger"></span>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+		<span>Category: <a href="http://www.metroeasy.com/china" rel="category tag">China</a></span> <span>Tags: <a href="http://www.metroeasy.com/tag/china" rel="tag">China</a>, <a href="http://www.metroeasy.com/tag/guangzhou" rel="tag">Guangzhou</a></span> 
+           						</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				<nav class="nav-single">
+					<div class="assistive-text">Post navigation</div>
+					<span class="nav-previous"><a href="http://www.metroeasy.com/public-transportation-frankfurt.html" rel="prev"><span class="meta-nav">&larr;</span> Public transportation in Frankfurt</a></span>
+					<span class="nav-next"><a href="http://www.metroeasy.com/yamanote-line.html" rel="next">Yamanote Line <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+			
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Have any questions? Let us know : <small><a rel="nofollow" id="cancel-comment-reply-link" href="/guangzhou-metro.html#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&#038;postid=1446&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=wavatar&#038;greeting=Have+any+questions%3F+Let+us+know+%3A&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.8.1&#038;sig=70ef31d142f85c1939e32d97db75193e423e2f7d#parent=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</div><!-- #comments .comments-area -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-37" class="widget widget_text"><p class="widget-title">Search</p>			<div class="textwidget">
+
+<form action="http://www.google.com" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1599614883199821:9657430159" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+		</aside><aside id="listcategorypostswidget-2" class="widget widget_listcategorypostswidget"><p class="widget-title">Related Metro Guides</p><ul><li><a href="http://www.metroeasy.com/nanjing-metro.html" title="Nanjing Metro">Nanjing Metro</a>  </li><li><a href="http://www.metroeasy.com/chongqing-rail-transit.html" title="Chongqing Rail Transit">Chongqing Rail Transit</a>  </li><li><a href="http://www.metroeasy.com/foshan-metro-fmetro.html" title="Foshan Metro">Foshan Metro</a>  </li><li><a href="http://www.metroeasy.com/wuhan-metro.html" title="Wuhan Metro">Wuhan Metro</a>  </li><li><a href="http://www.metroeasy.com/beijing-subway.html" title="Beijing Subway">Beijing Subway</a>  </li><li><a href="http://www.metroeasy.com/tianjin-metro.html" title="Tianjin Metro">Tianjin Metro</a>  </li><li><a href="http://www.metroeasy.com/suzhou-rail-transit.html" title="Suzhou Rail Transit">Suzhou Rail Transit</a>  </li><li><a href="http://www.metroeasy.com/hangzhou-metro.html" title="Hangzhou Metro">Hangzhou Metro</a>  </li><li><a href="http://www.metroeasy.com/ningbo-rail-transit.html" title="Ningbo Rail Transit">Ningbo Rail Transit</a>  </li><li><a href="http://www.metroeasy.com/shenyang-metro.html" title="Shenyang Metro">Shenyang Metro</a>  </li><li class = current ><a href="http://www.metroeasy.com/guangzhou-metro.html" title="Guangzhou Metro">Guangzhou Metro</a>  </li><li><a href="http://www.metroeasy.com/shenzhen-metro.html" title="Shenzhen Metro">Shenzhen Metro</a>  </li><li><a href="http://www.metroeasy.com/harbin-metro.html" title="Harbin Metro">Harbin Metro</a>  </li><li><a href="http://www.metroeasy.com/shanghai-metro.html" title="Shanghai Metro">Shanghai Metro</a>  </li><li><a href="http://www.metroeasy.com/kunming-rail-transit.html" title="Kunming Rail Transit">Kunming Rail Transit</a>  </li></ul><a href="http://www.metroeasy.com/china" > </a></aside><aside id="text-38" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+ var placement_id = "VZN997066VB0B682";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+<br>
+<script type="text/javascript">
+ var placement_id = "VZN997066VB0B682";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div>
+		</aside>		</div><!-- #secondary -->
+	
+ 
+	</div><!-- #main .wrapper -->
+<center>
+ </center>
+
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+		<div class="footercopy">Copyright MetroEasy.com 2015</div>
+		<div class="footercredit">All rights reserved</div>
+		<div class="clear"></div>
+		</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+		<div class="site-wordpress">
+				
+				</div><!-- .site-info -->
+				<div class="clear"></div>
+
+</div><!-- #page -->
+
+
+
+<!--Ad Injection:footer-->
+<div style='clear:both;padding-bottom:3px;'><center><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></center></div><div class="et_social_pin_images_outer">
+					<div class="et_social_pinterest_window">
+						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
+						<div class="et_social_pin_images" data-permalink="http://www.metroeasy.com/guangzhou-metro.html" data-title="Guangzhou Metro" data-post_id="1446"></div>
+					</div>
+				</div><div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_off">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_googleplus">
+									<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_digg">
+									<a href="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="digg" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_pinterest">
+									<a href="#" class="et_social_share_pinterest" rel="nofollow" data-social_name="pinterest" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_delicious">
+									<a href="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="delicious" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_reddit">
+									<a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_linkedin">
+									<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_stumbleupon">
+									<a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share" rel="nofollow" data-social_name="stumbleupon" data-post_id="1446" data-social_type="share">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li></ul>
+					<span class="et_social_hide_sidebar et_social_icon"></span>
+				</div><div class="et_social_popup et_social_mobile_off et_social_scroll" data-cookie_duration="1" data-scroll_pos="50">
+								<div class="et_social_popup_content et_social_resize et_social_tada">
+									<a href="#" class="et_social_icon et_social_icon_cancel"></a>
+									<div class="et_social_header">
+										<h3>Share This</h3>
+										<p>Share this post with your friends!</p>
+									</div>
+									<div class="et_social_networks et_social_3col et_social_slide et_social_rounded et_social_left et_social_withcounts et_social_withnetworknames">
+										
+										<ul class="et_social_icons_container"><li class="et_social_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a href="http://twitter.com/share?text=Guangzhou%20Metro&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;via=metroeasy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;t=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_digg"><a href="http://digg.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="digg" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_digg"></i><div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_pinterest"><a href="#" class="et_social_share_pinterest et_social_display_count" rel="nofollow" data-social_name="pinterest" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_pinterest"></i><div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_delicious"><a href="https://delicious.com/post?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="delicious" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_delicious"></i><div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_reddit"><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_reddit"></i><div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_stumbleupon"><a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html&#038;title=Guangzhou%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="stumbleupon" data-post_id="1446" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_stumbleupon"></i><div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div><span class="et_social_overlay"></span></a></li></ul>
+									</div>
+								</div>
+							</div><script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.10'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"http:\/\/www.metroeasy.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.metroeasy.com\/guangzhou-metro.html","stats_nonce":"3dc68e2b41","share_counts":"8dca07bd88","follow_counts":"e2b70f33f4","total_counts":"42ac9923da","media_single":"e347a8813e","media_total":"d2e917128c","generate_all_window_nonce":"fa5b927afd","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/monarch/js/custom.js?ver=1.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201617'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-includes/js/comment-reply.min.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/themes/iconic-one/js/selectnav.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-includes/js/wp-embed.min.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://www.metroeasy.com/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.js?ver=4.5.1'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&postid=1446&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=Have+any+questions%3F+Let+us+know+%3A&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.8.1&sig=70ef31d142f85c1939e32d97db75193e423e2f7d#parent=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&postid=1446&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=Have+any+questions%3F+Let+us+know+%3A&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.8.1&sig=70ef31d142f85c1939e32d97db75193e423e2f7d#parent=http%3A%2F%2Fwww.metroeasy.com%2Fguangzhou-metro.html";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201617.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.1',blog:'64969498',post:'1446',tz:'0',srv:'www.metroeasy.com'} ]);
+	_stq.push([ 'clickTrackerInit', '64969498', '1446' ]);
+</script>
+<script src="//my.hellobar.com/07194bf4deb5222823cdaea0ce86a7318321bcb5.js" type="text/javascript" charset="utf-8" async="async"></script>
+
+ 
+
+</body>
+</html>

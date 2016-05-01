@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+  <head prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml songkick-concerts: http://ogp.me/ns/fb/songkick-concerts#">
+    <link rel="stylesheet" type="text/css" href="//assets.sk-static.com/assets/concert-b3b8a62.css">
+    <script type="text/javascript">
+  SK = typeof(SK) == 'undefined' ? {} : SK;
+  SK_ASSET_HOST = "//assets.sk-static.com";
+  SK_DYNAMIC_ASSET_HOST = "https://images.sk-static.com";
+  CX_EXPERIMENT_ID = "";
+  CX_VARIATION_ID = -2;
+</script>
+
+    
+    <title>Midé London, St Pancras Old Church, 29 Feb 2016 – Songkick</title>
+    <link href="//images.sk-static.com/images/media/profile_images/artists/4825028/col3" rel="image_src">
+    <link rel="shortcut icon" type="image/x-icon" href="//assets.sk-static.com/images/favicon.ico" />
+    <link href="//assets.sk-static.com/images/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="//assets.sk-static.com/images/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+    <meta name="robots" content="noindex, nofollow">
+    <link href="http://www.songkick.com/concerts/25633044-mide-at-st-pancras-old-church" rel="canonical">
+        <meta property="al:ios:url" content="songkick://events/25633044-mide-at-st-pancras-old-church">
+    <meta property="al:ios:app_store_id" content="438690886">
+    <meta property="al:ios:app_name" content="Songkick Concerts">
+    <link rel="alternate" href="android-app://com.songkick/http/www.songkick.com/concerts/25633044-mide-at-st-pancras-old-church">
+    <meta name="description" content="Past concert. Midé concert at St Pancras Old Church in London on 29 Feb 2016.">
+    <meta property="fb:app_id" content="308540029359">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta property="og:site_name" content="Songkick">
+    <meta property="og:type" content="songkick-concerts:concert">
+    <meta property="og:title" content="Midé at St Pancras Old Church (29 Feb 16)">
+    <meta property="og:description" content="Past concert. Midé concert at St Pancras Old Church in London on 29 Feb 2016.">
+    <meta property="og:url" content="https://www.songkick.com/concerts/25633044-mide-at-st-pancras-old-church">
+    <meta property="og:image" content="http://images.sk-static.com/images/media/img/col6/20151211-021009-808494.jpg">
+    <meta property="og:locality" content="London">
+    <meta property="og:country-name" content="UK">
+    <meta property="og:street-address" content="Pancras Road">
+    <meta property="og:postal-code" content="NW1 1UL">
+    <meta property="og:latitude" content="51.5334728">
+    <meta property="og:longitude" content="-0.1286371">
+    <script type="text/javascript">
+      (function() {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+          var fbds = document.createElement('script');
+          fbds.async = true;
+          fbds.src = '//connect.facebook.net/en_US/fbds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(fbds, s);
+          _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '583609881778767']);
+      })();
+      window._fbq = window._fbq || [];
+      window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+  </head>
+  <body>
+    <div id="fb-root"></div>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=583609881778767&amp;ev=PixelInitialized" /></noscript>
+
+    
+    
+    <div class="track-alert js-track-alert ">
+  <div class="track-alert__inner">
+    This event has been added to your <a data-analytics-category="navigation_your_plans" data-analytics-label="feedback_your_plans" href="/calendar?filter=attendance">Plans</a>.
+    <a class="track-alert__dismiss js-track-alert-dismiss">Close</a>
+  </div>
+</div>
+
+
+    <div class="navigation">
+        <div class="navigation-large-screen">
+  <ul class="nav-bar">
+    <li class="sub-nav">
+      <ul>
+        <li class="logo"><a href="/" data-analytics-category="navigation" data-analytics-label="logo"><img src="//assets.sk-static.com/assets/nw/furniture/songkick-logo-ac43b7a.svg" height="26" width="90" alt="songkick"></a>
+        </li><li class="metro-area menu hover-for-touch">
+          <a href="/metro_areas/24426-uk-london" data-analytics-category="navigation" data-analytics-label="metro_area" title="London concerts">London concerts</a>
+          <div class="menu-content">
+            <a href="/metro_areas/24426-uk-london" data-analytics-category="navigation" data-analytics-label="popular_tickets"><span>Popular tickets in London</span></a>
+            <a class="repeat" href="/metro_areas/24426-uk-london" data-analytics-category="navigation" data-analytics-label="metro_area">London concerts</a>
+              <ul class="listing">
+                <li class="event">
+                  <a href="/festivals/121046-capital-fm-summertime-ball/id/26883119-capital-fm-summertime-ball-2016" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/events/26883119/avatar" width="35" height="35" class="artist-profile-image artist" alt="Capital FM Summertime Ball 2016">
+                  <span class="col"><span class="name">Flo Rida</span><br>
+                    <span class="venue">Wembley Stadium</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26816434-band-of-horses-at-o2-shepherds-bush-empire" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/354376/avatar" width="35" height="35" class="artist-profile-image artist" alt="Band of Horses live">
+                  <span class="col"><span class="name">Band of Horses</span><br>
+                    <span class="venue">O2 Shepherd&#39;s Bush Empire</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26885639-tegan-and-sara-at-koko" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/192555/avatar" width="35" height="35" class="artist-profile-image artist" alt="Tegan and Sara live">
+                  <span class="col"><span class="name">Tegan and Sara</span><br>
+                    <span class="venue">KOKO</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26905504-selena-gomez-at-o2-arena" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/1059348/avatar" width="35" height="35" class="artist-profile-image artist" alt="Selena Gomez live">
+                  <span class="col"><span class="name">Selena Gomez</span><br>
+                    <span class="venue">The O2 Arena</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26879844-travis-scott-at-o2-shepherds-bush-empire" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/6008144/avatar" width="35" height="35" class="artist-profile-image artist" alt="Travis Scott live">
+                  <span class="col"><span class="name">Travis Scott</span><br>
+                    <span class="venue">O2 Shepherd&#39;s Bush Empire</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26880849-pierce-the-veil-at-o2-academy-brixton" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/567232/avatar" width="35" height="35" class="artist-profile-image artist" alt="Pierce the Veil live">
+                  <span class="col"><span class="name">Pierce the Veil</span><br>
+                    <span class="venue">O2 Academy Brixton</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26819199-mac-demarco-at-electric-brixton" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/5105188/avatar" width="35" height="35" class="artist-profile-image artist" alt="Mac DeMarco live">
+                  <span class="col"><span class="name">Mac DeMarco</span><br>
+                    <span class="venue">Electric Brixton</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26822789-kelis-at-jazz-cafe" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/389964/avatar" width="35" height="35" class="artist-profile-image artist" alt="Kelis live">
+                  <span class="col"><span class="name">Kelis</span><br>
+                    <span class="venue">The Jazz Cafe</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26866029-broods-at-electrowerkz" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/7705744/avatar" width="35" height="35" class="artist-profile-image artist" alt="Broods live">
+                  <span class="col"><span class="name">Broods</span><br>
+                    <span class="venue">Electrowerkz</span>
+                </span></a></li>
+                <li class="event">
+                  <a href="/concerts/26788794-frank-turner-at-electric-brixton" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                  <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/529844/avatar" width="35" height="35" class="artist-profile-image artist" alt="Frank Turner live">
+                  <span class="col"><span class="name">Frank Turner</span><br>
+                    <span class="venue">Electric Brixton</span>
+                </span></a></li>
+              </ul>
+              <a href="/metro_areas/24426-uk-london" data-analytics-category="navigation" data-analytics-label="metro_area_see_all">See all London concerts</a> <a class="change-location" data-analytics-category="navigation" data-analytics-label="change_location" href="/session/filter_metro_area">(Change&nbsp;location)</a><br><br>
+              <a data-analytics-category="navigation" data-analytics-label="metro_area_today" href="/metro_areas/24426-uk-london?filters%5BmaxDate%5D=04%2F30%2F2016&amp;filters%5BminDate%5D=04%2F30%2F2016#date-filter-form">Today ·</a> <a data-analytics-category="navigation" data-analytics-label="metro_area_7days" href="/metro_areas/24426-uk-london?filters%5BmaxDate%5D=05%2F07%2F2016&amp;filters%5BminDate%5D=04%2F30%2F2016#date-filter-form">Next 7 days ·</a> <a data-analytics-category="navigation" data-analytics-label="metro_area_month" href="/metro_areas/24426-uk-london?filters%5BmaxDate%5D=05%2F30%2F2016&amp;filters%5BminDate%5D=04%2F30%2F2016#date-filter-form">Next 30 days</a>
+          </div>
+        </li>
+        <li class="artists menu hover-for-touch">
+            <a href="/metro_areas/24426-uk-london#popular-artists-in-metro-area" data-analytics-category="navigation" data-analytics-label="artists">Artists</a>
+          <div class="menu-content">
+                <ul class="artists-navigation">
+  <li class="col"><a href="/metro_areas/24426-uk-london#popular-artists-in-metro-area" data-analytics-category="navigation" data-analytics-label="popular_artists_metro_area">Popular artists in London</a></li>
+    <li class="col"><a href="/leaderboards/trending_artists" data-analytics-category="navigation" data-analytics-label="trending_artists">Trending artists worldwide</a></li>
+  </ul>
+  <div class="listing">
+      <ul class="col popular-artists">
+          <li>
+            <a href="/artists/1714170-giggs" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/1714170/avatar" width="35" height="35" class="artist-profile-image artist" alt="Giggs live">
+              <span class="name">Giggs</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/426367-jme" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/426367/avatar" width="35" height="35" class="artist-profile-image artist" alt="JME live">
+              <span class="name">JME</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/3933961-krept-and-konan" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/3933961/avatar" width="35" height="35" class="artist-profile-image artist" alt="Krept &amp; Konan live">
+              <span class="name">Krept &amp; Konan</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/277602-shola-ama" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/277602/avatar" width="35" height="35" class="artist-profile-image artist" alt="Shola Ama live">
+              <span class="name">Shola Ama</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/19637-lethal-bizzle" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/19637/avatar" width="35" height="35" class="artist-profile-image artist" alt="Lethal Bizzle live">
+              <span class="name">Lethal Bizzle</span>
+            </a>
+          </li>
+      </ul>
+      <ul class="col popular-artists">
+          <li>
+            <a href="/artists/8777299-preoccupations" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/8777299/avatar" width="35" height="35" class="artist-profile-image artist" alt="Preoccupations live">
+              <span class="name">Preoccupations</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/8635924-travis-mills" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/8635924/avatar" width="35" height="35" class="artist-profile-image artist" alt="Travis Mills live">
+              <span class="name">Travis Mills</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/5200703-zayn" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/5200703/avatar" width="35" height="35" class="artist-profile-image artist" alt="ZAYN live">
+              <span class="name">ZAYN</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/1403572-gnash" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/1403572/avatar" width="35" height="35" class="artist-profile-image artist" alt="gnash live">
+              <span class="name">gnash</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/8633874-dnce" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/assets/default_images/thumb/default-artist-ba18a04.png" data-src="//images.sk-static.com/images/media/profile_images/artists/8633874/avatar" width="35" height="35" class="artist-profile-image artist" alt="DNCE live">
+              <span class="name">DNCE</span>
+            </a>
+          </li>
+      </ul>
+  </div>
+
+            <div class="tourbox-cta">
+              Get your tour dates seen by one billion fans: <a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=visitor" class="sign-up-as-an-artist" data-analytics-category="navigation" data-analytics-label="sign_up_tourbox">Sign up as an artist</a>
+            </div>
+          </div>
+        </li>
+        <li class="location">
+          <a data-analytics-category="navigation" data-analytics-label="change_location" href="/session/filter_metro_area">Change&nbsp;location</a>
+        </li>
+      </ul>
+    <li class="sub-nav">
+      <ul>
+        <li class="search">
+          <form name="search" class="navigation-search-form" data-analytics-category="navigation" data-analytics-label="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+  <input type="hidden" name="type" value="initial">
+  <input name="query" type="search" value="" class="text navigation-search" placeholder="Enter artist / concert / venue"><button class="search-button" name="commit" type="submit"><img src="//assets.sk-static.com/assets/nw/components/navigation-large-screen/search-5510d8d.svg" height="15" width="14" alt="search" class="navigation-submit"></button>
+</form>
+        </li>
+        <li class="login-signup">
+          <a href="https://accounts.songkick.com/signup/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church&amp;signup_success_url=https%3A%2F%2Fwww.songkick.com%2Ftaste_imports%2Fnew" rel="nofollow" class="signup-link" data-signup-source="Everything else" data-analytics-category="navigation" data-analytics-label="sign_up">Sign up</a> <small>or</small> <a href="https://accounts.songkick.com/session/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church&amp;signup_success_url=https%3A%2F%2Fwww.songkick.com%2Ftaste_imports%2Fnew" rel="nofollow" data-analytics-category="navigation" data-analytics-label="log_in">Log in</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+        <div class="global-navigation">
+  <ul id='global-navigation-list'>
+    <li class="nav-icon"><a href="#nav-icon-toggle"><img src="//assets.sk-static.com/assets/nw/components/navigation/profile-menu-icon-b6e2b51.png" width="26" height="19" alt="Show navigation"></a></li>
+    <li id="nav-icon-toggle" class="nav"></li>
+    <li class="signup"><a href="https://accounts.songkick.com/signup/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church&amp;signup_success_url=https%3A%2F%2Fwww.songkick.com%2Ftaste_imports%2Fnew" rel="nofollow" class="signup-link" data-signup-source="Everything else" data-analytics-category="navigation" data-analytics-label="sign_up" data-auto-signup-redirect-url="https://itunes.apple.com/us/app/apple-store/id438690886?ct=%3A&amp;mt=8&amp;pt=307660">Sign up</a></li>
+    <li><a href="https://accounts.songkick.com/session/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church&amp;signup_success_url=https%3A%2F%2Fwww.songkick.com%2Ftaste_imports%2Fnew" rel="nofollow" data-analytics-category="navigation_small_screen" data-analytics-label="log_in">Log in</a></li>
+  </ul>
+  <a href="/" id="logo" data-analytics-category="navigation_small_screen" data-analytics-label="logo"><img src="//assets.sk-static.com/assets/nw/components/navigation/header-logo-ff8507a.png" alt="Songkick" width="124" height="32"></a>
+</div>
+<div class="local-navigation">
+  <ul>
+    <li class="nav-icon"><a href="#home"><img src="//assets.sk-static.com/assets/nw/components/navigation/local-navigation/navigation-icon-2eeeafe.png" width="22" height="15" alt="Show navigation"></a></li><li class="nav-icon search-nav"><label><a href="#search"><img src="//assets.sk-static.com/assets/nw/components/navigation/local-navigation/search-5cac59e.png" height="20" width="20" alt="search"></a></label></li>
+    <li class="site-search" id="search">
+      <form name="search" class="navigation-search-form" data-analytics-category="navigation" data-analytics-label="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+  <input type="hidden" name="type" value="initial">
+  <input name="query" type="search" value="" class="text navigation-search" placeholder="Enter artist / concert / venue"><button class="search-button" name="commit" type="submit"><img src="//assets.sk-static.com/assets/nw/components/navigation-large-screen/search-5510d8d.svg" height="15" width="14" alt="search" class="navigation-submit"></button>
+</form>
+    </li>
+    <li class="home nav" id="home">
+      <a data-analytics-category="navigation" data-analytics-label="home" href="/">Home</a>
+    </li><li class="nav">
+      <a data-analytics-category="navigation" data-analytics-label="metro_area" href="/metro_areas/24426-uk-london">London concerts</a>
+    </li><li class="nav">
+      <a data-analytics-category="navigation" data-analytics-label="change_location" href="/session/filter_metro_area">Change&nbsp;location</a>
+    </li><li>
+      <a href="/leaderboards/popular_artists" data-analytics-catigory="navigation" data-analytics-label="popular_artists">Popular artists</a>
+    </li>
+  </ul>
+</div>
+
+    </div>
+
+    
+
+<div>
+  <div class="event-header ">
+    
+    
+<div class="component brief past">
+  <div class="profile-picture-and-actions">
+
+    <div class="profile-picture-wrapper">
+      <img class="profile-picture event" src="//images.sk-static.com/images/media/profile_images/artists/4825028/card_avatar" alt="Midé live" title="Midé live" width="220" height="185">
+    </div>
+
+    <div class="event-moderation-actions">
+      <div class="flag-event">
+        <a href="http://flagproblem.songkick.com/customer/portal/emails/new"
+           target="_blank"
+           data-analytics-category="event_brief"
+           data-analytics-label="flag_event">
+          Flag a problem
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="date-and-name">
+    <strong class="item-state-tag past-concert">Past concert</strong>
+
+    <h5>
+      Monday 29 February 2016
+    </h5>
+  </div>
+
+  <h1 class="summary">
+    <span><a data-analytics-category="event_brief" data-analytics-label="headliners" href="/artists/4825028-mide">Midé</a></span>
+  </h1>
+
+  <div class="location">
+    <span class="name"><a data-analytics-category="event_brief" data-analytics-label="venue_name" href="/venues/563056-st-pancras-old-church">St Pancras Old Church</a>,</span>
+      <span>London, UK</span>
+
+      <span class="venue-info-link"><a href="/venues/563056-st-pancras-old-church" data-analytics-category="event_brief" data-analytics-label="venue_info">(map)</a></span>
+  </div>
+
+  <div class="line-up">
+    Line-up:
+      <span class="headliner">
+        <a data-analytics-category="event_brief" data-analytics-label="line_up_artist" href="/artists/4825028-mide">Midé</a></span>
+  </div>
+
+      <div class="join-cta"><a href="https://www.songkick.com/signup" data-analytics-category="event_brief" data-analytics-label="join_songkick">Join Songkick</a> to track concerts and get alerts when tickets go on sale.</div>
+
+    <div class="actions">
+      <div class="attendance was-there">
+  <form class="attendance app-store-redirect auto-signup" data-stop-tracking-text="&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;&lt;span class=&quot;button-text&quot;&gt;I was there&lt;/span&gt;" data-tracking-text="&lt;span class=&quot;icon&quot;&gt;&lt;/span&gt;&lt;span class=&quot;button-text&quot;&gt;I was there&lt;/span&gt;" action="/trackings" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="70C1Cl/8zj/YjpIKvyjCjKv4r4OK56II9cWP32pEs305mu0ipKllwmMqkv2SyjtnZhwGopeYc2oagf6VSW08hw==" />
+    <input type="hidden" name="relationship_type" value="im_going">
+    <input type="hidden" name="subject_id" value="25633044">
+    <input type="hidden" name="subject_type" value="Event">
+    <input type="hidden" name="success_url" value="/concerts/25633044-mide-at-st-pancras-old-church">
+    <input type="hidden" name="app_store_redirect_url" value="">
+    <button type="submit" class="im-going attendance-action" value="I was there"><span class="icon"></span><span class="button-text">I was there</span></button>
+</form></div>
+
+    </div>
+
+</div>
+
+  </div>
+
+  <div class="page">
+    <div class="primary col">
+      
+      
+      
+      
+      <div class="component venue-info">
+  <h2>Venue</h2>
+  <div class="venue-info-details">
+    <a class="url" href="/venues/563056-st-pancras-old-church">St Pancras Old Church</a>
+    <p class="venue-hcard">
+  <span>
+      <span>Pancras Road</span>
+      <span>NW1 1UL</span>
+    <span>London, UK</span>
+  </span>
+</p>
+
+    <a href="/venues/563056-st-pancras-old-church">19 upcoming concerts</a>
+    <span class="capacity">Capacity: 100</span>
+  </div>
+</div>
+
+      
+      <div class="component additional-details">
+  <h2>Additional details</h2>
+  <div class="additional-details-container">
+      <p>Doors open: 19:00</p>
+      <p>Tour name: Sooner Or Later EP Launch</p>
+      <p>Sons of OL Presents</p>
+  </div>
+</div>
+
+      <div class="component event-social">
+  <h2>Share this concert</h2>
+  <ul>
+    <li><a href="https://www.songkick.com/concerts/25633044-mide-at-st-pancras-old-church?utm_campaign=event-page&amp;utm_content=ZD0yNDU3NTA5&amp;utm_medium=shared&amp;utm_source=facebook" class="facebook-share button social-sharing facebook" data-analytics-category="social_share" data-analytics-label="facebook" title="Share on Facebook"><span class="icon"></span><span class="button-text">Share</span></a></li>
+    <li><a href="https://twitter.com/share?url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church%3Futm_campaign%3Devent-page%26utm_content%3DZD0yNDU3NTA5%26utm_medium%3Dshared%26utm_source%3Dtwitter&amp;via=songkick" class="tweet twitter button social-sharing" data-analytics-category="social_share" data-analytics-label="twitter"  title="Share on twiter"><span class="icon"></span><span class="button-text">Tweet</span></a></li>
+    <li><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.songkick.com%2Fconcerts%2F25633044-mide-at-st-pancras-old-church%3Futm_campaign%3Devent-page%26utm_content%3DZD0yNDU3NTA5%26utm_medium%3Dshared%26utm_source%3Dgoogleplus" class="googleplus button social-sharing googleplus" data-analytics-category="social_share" data-analytics-label="google" title="Share on Google+"><span class="icon"></span><span class="button-text">Share</span></a></li>
+  </ul>
+</div>
+
+      
+      
+      
+      
+      
+
+    </div><div class="secondary col">
+      
+      <div class="component related-events">
+  <div class="related-events-content">
+    <h5>Related upcoming events</h5>
+    <ol>
+        <li>
+          <a data-analytics-category="related_events" data-analytics-label="parent_event_id_25633044" href="/concerts/25948998-chad-valley-at-st-pancras-old-church">
+          <div class="date-wrap">
+            <span class="day">Fri</span>
+            <span class="date">06</span>
+            <span class="month">May</span>
+          </div>
+          <span class="event-title"><strong>Chad Valley</strong>
+          St Pancras Old Church, London</span>
+</a>        </li>
+        <li>
+          <a data-analytics-category="related_events" data-analytics-label="parent_event_id_25633044" href="/concerts/25630114-julien-baker-at-st-pancras-old-church">
+          <div class="date-wrap">
+            <span class="day">Wed</span>
+            <span class="date">25</span>
+            <span class="month">May</span>
+          </div>
+          <span class="event-title"><strong>Julien Baker</strong>
+          St Pancras Old Church, London</span>
+</a>        </li>
+        <li>
+          <a data-analytics-category="related_events" data-analytics-label="parent_event_id_25633044" href="/concerts/25983523-jess-morgan-at-st-pancras-old-church">
+          <div class="date-wrap">
+            <span class="day">Thu</span>
+            <span class="date">26</span>
+            <span class="month">May</span>
+          </div>
+          <span class="event-title"><strong>Jess Morgan</strong>
+          St Pancras Old Church, London</span>
+</a>        </li>
+        <li>
+          <a data-analytics-category="related_events" data-analytics-label="parent_event_id_25633044" href="/concerts/25803564-rebekah-delgado-at-st-pancras-old-church">
+          <div class="date-wrap">
+            <span class="day">Wed</span>
+            <span class="date">01</span>
+            <span class="month">Jun</span>
+          </div>
+          <span class="event-title"><strong>Rebekah Delgado</strong>
+          St Pancras Old Church, London</span>
+</a>        </li>
+        <li>
+          <a data-analytics-category="related_events" data-analytics-label="parent_event_id_25633044" href="/concerts/25983458-holly-macve-at-st-pancras-old-church">
+          <div class="date-wrap">
+            <span class="day">Thu</span>
+            <span class="date">09</span>
+            <span class="month">Jun</span>
+          </div>
+          <span class="event-title"><strong>Holly Macve</strong>
+          St Pancras Old Church, London</span>
+</a>        </li>
+    </ol>
+  </div>
+</div>
+
+      <div class="component attendance-listing im-going">
+  <h5>3 people were there</h5>
+  <ul>
+    <li>
+      <a href="/users/iain-harvey" title="iain-harvey" rel="nofollow">
+        <img class="profile-picture photo user" src="//images.sk-static.com/images/media/profile_images/users/4384676/medium_avatar" width="31" height="31" alt="iain-harvey’s profile image" title="iain-harvey’s profile image">
+        <span><strong>iain-harvey</strong></span>
+      </a>
+    </li>
+    <li>
+      <a href="/users/caspertheghost" title="caspertheghost" rel="nofollow">
+        <img class="profile-picture photo user" src="//images.sk-static.com/images/media/profile_images/users/47974488/medium_avatar" width="31" height="31" alt="caspertheghost’s profile image" title="caspertheghost’s profile image">
+        <span><strong>caspertheghost</strong></span>
+      </a>
+    </li>
+    <li>
+      <a href="/users/Edenu" title="Edenu" rel="nofollow">
+        <img class="profile-picture photo user" src="//images.sk-static.com/images/media/profile_images/users/60604358/medium_avatar" width="31" height="31" alt="Edenu’s profile image" title="Edenu’s profile image">
+        <span><strong>Edenu</strong></span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</div>
+<div class="microformat">
+  <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Midé","url":"http://www.songkick.com/concerts/25633044-mide-at-st-pancras-old-church?utm_medium=organic\u0026utm_source=microformat","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"London","addressCountry":"UK","streetAddress":"Pancras Road","postalCode":"NW1 1UL"},"name":"St Pancras Old Church","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":51.5334728,"longitude":-0.1286371}},"startDate":"2016-02-29T19:00:00+0000","performer":[{"@type":"MusicGroup","name":"Midé","sameAs":"http://www.songkick.com/artists/4825028-mide?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+</div>
+
+
+
+    <div class="footer-container">
+      <div id="footer" class="footer">
+  <ul>
+    <li><a href="/blog" rel="nofollow">Blog</a></li>
+    <li><a href="/info/about" rel="nofollow">About us</a></li>
+    <li><a href="/info/jobs" rel="nofollow">Jobs</a></li>
+    <li><a href="/developer"><abbr>API</abbr> &amp; Partners</a></li>
+    <li><a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=tourboxforartists">Tourbox for artists</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="http://support.songkick.com/">Help &amp; FAQ</a></li>
+    <li><a href="/info/guidelines" rel="nofollow">Community guidelines</a></li>
+    <li><a href="/info/terms" rel="nofollow">Terms of use</a></li>
+    <li><a href="/info/privacy" rel="nofollow">Privacy policy</a></li>
+    <li><a href="/info/security" rel="nofollow">Security</a></li>
+  </ul>
+  <div class="tourbox-cta">
+    <p>Get your tour dates seen by one billion fans:</p><a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=visitor" class="sign-up-as-an-artist" data-analytics-category="navigation" data-analytics-label="sign_up_tourbox">Sign up as an artist</a>
+  </div>
+
+
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/leaderboards/popular_artists">Most popular charts</a></li>
+  </ul>
+  <div class="social-container">
+    <ul class="social-icons">
+      <li>
+        <a href="https://twitter.com/songkick">
+          <img src="//assets.sk-static.com/assets/nw/furniture/icons/twitter-161f1e4.png" width="22" height="18" alt="Twitter">
+          &nbsp;<span>Follow us.</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="social-icons">
+      <li>
+        <a href="http://www.facebook.com/songkickconcerts">
+          <img src="//assets.sk-static.com/assets/nw/furniture/icons/facebook-08359b5.png" width="18" height="18" alt="Facebook">
+          &nbsp;<span>Like us.</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="social-icons">
+      <li>
+          &nbsp;<span>But we really hope you love us.</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    </div>
+    <script type="text/javascript" src="//assets.sk-static.com/assets/manifests-4d6c5b0.js"></script><script type="text/javascript" src="//assets.sk-static.com/assets/app-4137401.js"></script>
+
+  <script type="text/javascript" src="//assets.sk-static.com/assets/event_page-d99195f.js"></script>
+  <script type="text/javascript">
+    Songkick.EventBus.bind('app:initialize', function() {
+      Songkick.EventBus.trigger('ui:event_page_past:view', {});
+    });
+
+   Songkick.EventBus.bind('app:initialize', function() {
+     JS.require('jQuery', function() {
+       $(document).on('click', 'a.buy-ticket-row', function(e) {
+         Songkick.EventBus.trigger('ui:click', { category: 'tmp_growth_team_ticket_vendor',
+                                                 action: 'logged_out_click',
+                                                 label: '25633044',
+                                                 value: $(this).data('analytics-value')});
+         });
+     });
+   });
+
+  </script>
+
+
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 964669843;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964669843/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+
+<script type="text/javascript">
+  JS.require("twttr", function() {
+    twttr.conversion.trackPid('l6neh', { tw_sale_amount: 0, tw_order_quantity: 0 });
+  });
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6neh&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0" />
+  <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6neh&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0" />
+</noscript>
+
+<script type="text/javascript">
+  SK.logged_in_user = {
+    id:null,
+    analyticsUserType: 'visitor'
+  };
+
+  JS.require("FB", 'jQuery', function() {
+    Songkick.Facebook.init(
+      "308540029359",
+      ["email", "public_profile", "user_friends", "user_likes", "user_actions.music"],
+      ["email", "public_profile", "user_friends", "user_likes", "user_actions.music", "publish_actions"],
+      {events: Songkick.EventBus}
+    );
+  });
+  var features = {};
+  Songkick.EventBus.trigger('app:initialize', {
+    events: Songkick.EventBus,
+    features: features,
+    promoteNativeApp: false,
+    mobileSignupRedirectUrl: ''
+  });
+</script>
+
+    
+    <script type='text/javascript' src='https://qeryz.com/survey/js/qryz_v3.2.js'></script>
+<script type='text/javascript'>
+  var qRz = qRz || [];
+  (function() {         
+    setTimeout(function(){                                    
+      var qryz_plks = document.createElement('div');
+      qryz_plks.id = 'qryz_plks';
+      qryz_plks.className = 'qryz_plks';
+      document.body.appendChild(qryz_plks);
+      qryzInit2('1156');
+    },0);
+  })();
+</script>
+
+    
+  </body>
+</html>

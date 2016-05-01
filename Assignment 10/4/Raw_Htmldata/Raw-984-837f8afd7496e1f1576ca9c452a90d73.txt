@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="ie ie7 lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 lt-ie10 lt-ie9 " lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="sB+7U+7d35aCZ0KARrsisHLYa2XrFExGHANRuf3zJG4=" name="csrf-token" />
+
+  <meta name="theme-color" content="#d8352a">
+  <meta name="msapplication-navbutton-color" content="#d8352a">
+  <meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5b06465c9f","applicationID":"367227","transactionName":"el9cTBRXCl8EFk5QX1dEV1YSFxVbDhM=","queueTime":0,"applicationTime":131,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcEVlFACwUHVlNV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+  <meta property="fb:app_id" content="127105130696839">
+      <meta property="fb:pages" content="176084152419221" />
+      <meta property="fb:pages" content="1453112561595308" />
+      <meta property="fb:pages" content="755360694556328" />
+      <meta property="fb:pages" content="898911580155104" />
+      <meta property="fb:pages" content="148546898646992" />
+  <script>
+  if (/iPad/.test(navigator.userAgent)) {
+    // 972px layout + 20px gutter on left & right.
+    document.write('<meta name="viewport" content="width=1012">');
+  } else {
+    document.write('<meta name="viewport" content="width=device-width, initial-scale=1">');
+  }
+</script>
+
+  <meta content="It is 5 years since the potential of social media was considered limitless. Not only was social media revolutionary, but it was literally capable of bringing about revolutions such as the uprisings of…" name="description" />
+<meta content="20160208" name="pubdate" />
+<meta content="au" name="commissioning-region" />
+<meta content="post" name="searchtype" />
+<meta content="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" name="original-source" />
+
+
+  <meta content="David Glance" name="author" />
+
+  <meta content="University of Western Australia" name="institution" />
+
+  <meta content="The Conversation" property="og:site_name" />
+<meta content="Social media has lost its youthful promise and is looking old, tired and grumpy" property="og:title" />
+<meta content="It is 5 years since the potential of social media was considered limitless. Not only was social media revolutionary, but it was literally capable of bringing about revolutions such as the uprisings of…" property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="http://cdn.theconversation.com/files/110637/width1356x668/image-20160208-2605-1pb8dsv.jpg" property="og:image" />
+<meta content="2016-04-27T14:21:57Z" property="og:updated_time" />
+<meta content="http://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" property="og:url" />
+<meta content="https://facebook.com/ConversationEDU" property="article:publisher" />
+
+  <meta content="summary_large_image" name="twitter:card" />
+<meta content="@ConversationEDU" name="twitter:site" />
+<meta content="@david_glance" name="twitter:creator" />
+
+
+  <!-- refspec 6f9028f -->
+  <title>Social media has lost its youthful promise and is looking old, tired and grumpy</title>
+  <link href="/assets/core-857325dd0837c0da6e7ee3bd47ecd8f997dee28b8a278ae6348b5c88b3b1d33b.css" media="screen" rel="stylesheet" />
+
+
+
+
+<!--[if lt IE 9]><script src="/javascripts/vendor/shim.js"></script><![endif]-->
+
+<!--[if IE 7]><link href="/assets/ie/ie7-0fc337332de5d533c267fe52a041d9886005481cf87b66aa317634799ecd7238.css" media="screen" rel="stylesheet" /><![endif]-->
+<!--[if IE 8]><link href="/assets/ie/ie8-bf8035336f9cb9dae20d21c2a52cd81201596becac922a7786690f24d4a0fa4d.css" media="screen" rel="stylesheet" /><![endif]-->
+
+<link href="/assets/print-dc1bfcaf07e7c96bbfc327023762d30def79641c504ac08751ba2ee9ee6fb94b.css" media="print" rel="stylesheet" />
+
+  <link rel="apple-touch-icon-precomposed" href="/assets/ios-logo-6504967ffc88a183cd76b4fb13e9370e63323c618d468d76d7c162a28c95cd2d.png">
+<link rel="icon" sizes="192x192" href="/assets/white-logo-192x192-19b1cfeed5079b60ffb732b6d85c463bdf4f8124fd5f8ff2785871763898f67e.png">
+<link rel="shortcut icon" href="/favicon.ico">
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-21436757-1"]);
+    _gaq.push([ '_setCustomVar', 1, 'UserType', 'Reader', 2 ]);
+    _gaq.push([ '_setCustomVar', 5, 'RegionCode', 'us', 3 ]);
+    _gaq.push([ '_setCustomVar', 2, 'CommissioningRegion', 'au', 3 ]);
+    _gaq.push([ '_setCustomVar', 3, 'ContentType', 'post', 3 ]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+    
+    
+    <link href="http://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" rel="canonical" />
+
+</head>
+<body class="region_us content content-show  refresh-article">
+  <nav class="editorial-menu">
+  </nav>
+
+  
+  <span id="small-sidebar-open-button" class="icon-menu"></span>
+  <div id="small-sidebar">
+    <span id="small-sidebar-close-button" class="icon-delete"></span>
+    <nav class="small-sidebar-group small-sidebar-editions">
+      <h3>Editions</h3>
+      <fieldset class="region-select">
+        <select id="small-region-select-dropdown">
+            <option data-code="AFRICA" value="/africa">
+              Africa
+            </option>
+            <option data-code="AU" value="/au">
+              Australia
+            </option>
+            <option data-code="FR" value="/fr">
+              France
+            </option>
+            <option data-code="UK" value="/uk">
+              United Kingdom
+            </option>
+            <option data-code="US" value="/us" selected="selected">
+              United States
+            </option>
+        </select>
+      </fieldset>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Sections</h3>
+      <ul>
+          <li class="home-page ">
+            <a class="" href="/us">Home<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="arts ">
+            <a class="" href="/us/arts">Arts <span><span title="and">+</span> Culture</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="business ">
+            <a class="" href="/us/business">Economy <span><span title="and">+</span> Business</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="education ">
+            <a class="" href="/us/education">Education<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="environment ">
+            <a class="" href="/us/environment">Environment <span><span title="and">+</span> Energy</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="health ">
+            <a class="" href="/us/health">Health <span><span title="and">+</span> Medicine</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="politics ">
+            <a class="" href="/us/politics">Politics <span><span title="and">+</span> Society</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="technology ">
+            <a class="active" href="/us/technology">Science <span><span title="and">+</span> Technology</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="election-2016 last">
+            <a class="" href="/us/election-2016">Election 2016<span class="icon-chevron-right"></span></a>
+          </li>
+      </ul>
+    </nav>
+
+    <nav id="small-sidebar-search" class="small-sidebar-group">
+      <h3>Search</h3>
+      <form action="/search">
+        <input type="text" name="q" placeholder="Search analysis, academics…">
+        <button type="submit"><span class="icon-search"></span></button>
+      </form>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Services</h3>
+      <ul>
+        <li>
+          <a href="/us/newsletter">
+            Newsletter<span class="icon-chevron-right"></span>
+</a>        </li>
+        <li id="google-currents-link">
+          <a href="http://www.google.com/newsstand/s/editions/CAowro6aAg">Read on Google Play<span class="icon-chevron-right"></span></a>
+        </li>
+      </ul>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Information</h3>
+
+      <ul>
+        <li><a href="/us/who-we-are"><span>Who we are</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/charter"><span>Our charter</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/team"><span>Our team</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/partners"><span>Partners and funders</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/institutions"><span>Contributing institutions</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/contact-us"><span>Contact us</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/privacy-policy"><span>Privacy policy</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/terms-and-conditions"><span>Terms and conditions</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/corrections"><span>Corrections</span><span class="icon-chevron-right"></span></a></li>
+      </ul>
+    </nav>
+  </div>
+  <div id="small-sidebar-overlay"></div>
+
+
+  <div id="page-wrapper">
+    <section id="topbar" >
+  <div class="wrapper clearfix">
+
+    <a class="topbar-mobile-home-link" href="/us">
+      <img alt="The Conversation" src="/assets/carlton/logos/logo-4c65d93682925a65bb0bacf2f7085e9162dab46efbe3ef45244740a12a15ea35.svg" />
+</a>
+    <nav class="topbar-module">
+  <ul class="topbar-item-list">
+    <li class="topbar-home-link">
+      <a href="/us">
+        <i class="icon-home"></i>
+</a>    </li>
+    <li class="topbar-edition-selector-title topbar-label">Edition:</li>
+  </ul>
+</nav>
+
+<nav class="topbar-edition-selector topbar-dropdown topbar-module">
+  <a class="menu-button-open" href="/us"></a>
+  <div class="menu-button-contents">
+    <span class="menu-button-text">
+      <span class="current-region">United States</span>
+    </span>
+    <i class="icon-caret-down drop-down-caret"></i>
+  </div>
+
+  <ul class="menu">
+      <li class="region africa">
+        <a href="/africa" title="Africa edition">Africa</a>
+      </li>
+      <li class="region au">
+        <a href="/au" title="Australia edition">Australia</a>
+      </li>
+      <li class="region fr">
+        <a href="/fr" title="France edition">France</a>
+      </li>
+      <li class="region uk">
+        <a href="/uk" title="United Kingdom edition">United Kingdom</a>
+      </li>
+  </ul>
+</nav>
+
+
+    
+
+    <nav class="topbar-account-nav topbar-dropdown topbar-module">
+
+
+    <ul class="topbar-item-list auth">
+      <li class="author-signup">
+        <a href="/become-an-author">Become an author</a>
+      </li>
+      <li class="reader-signup">
+        <a href="https://theconversation.com/sign_up?return_to=%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363">Sign up as a reader</a>
+      </li>
+      <li class="reader-signin">
+        <a href="/sign_in?return_to=%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363">Sign in</a>
+      </li>
+    </ul>
+</nav>
+
+
+
+    <nav class="topbar-stay-informed topbar-module">
+  <ul class="topbar-button-list">
+    <li class="topbar-button with-label newsletter">
+      <a href="/us/newsletter" title="Sign up to receive our daily email newsletter">
+        <i class="icon-email"></i>
+        <span class="topbar-button-text">
+          Get newsletter
+        </span>
+</a>    </li>
+    <li class="topbar-button facebook">
+      <a href="https://facebook.com/theConversationUS" title="The Conversation on Facebook">
+        <i class="icon-facebook-simple"></i>
+</a>    </li>
+    <li class="topbar-button twitter">
+      <a href="https://twitter.com/ConversationUS" title="The Conversation on Twitter">
+        <i class="icon-twitter"></i>
+</a>    </li>
+    <li class="topbar-button rss">
+      <a href="/us/feeds" title="Feeds from The Conversation">
+        <i class="icon-rss"></i>
+</a>    </li>
+  </ul>
+</nav>
+
+
+  </div>
+</section>
+
+    
+  <section id="header">
+    <div class="wrapper nocontent">
+      <header id="masthead" class="clearfix">
+  <a class="masthead-home-link" href="/us">
+    <img alt="The Conversation" src="/assets/carlton/logos/logo-4c65d93682925a65bb0bacf2f7085e9162dab46efbe3ef45244740a12a15ea35.svg" />
+</a>
+  <form class="masthead-search" action="/search" method="get">
+    <fieldset>
+  <legend>Search</legend>
+  <div class="row">
+    <div class="input-wrapper">
+      <label for="q"><i class="icon-search"></i></label>
+      <input id="q" name="q" placeholder="Search analysis, research, academics…" type="text" value="" />
+    </div>
+    <button type="submit" class="button" value="Search"></button>
+  </div>
+</fieldset>
+
+  </form>
+
+  <div class="masthead-tagline">
+    Academic rigor, journalistic flair
+  </div>
+</header>
+
+      <nav id="primary-navigation" class=" nocontent">
+  <ol>
+      <li class="arts ">
+        <a class="" href="/us/arts" title="Arts + Culture">Arts <span><span title="and">+</span> Culture</span></a>
+      </li>
+      <li class="business ">
+        <a class="" href="/us/business" title="Economy + Business">Economy <span><span title="and">+</span> Business</span></a>
+      </li>
+      <li class="education ">
+        <a class="" href="/us/education" title="Education">Education</a>
+      </li>
+      <li class="environment ">
+        <a class="" href="/us/environment" title="Environment + Energy">Environment <span><span title="and">+</span> Energy</span></a>
+      </li>
+      <li class="health ">
+        <a class="" href="/us/health" title="Health + Medicine">Health <span><span title="and">+</span> Medicine</span></a>
+      </li>
+      <li class="politics ">
+        <a class="" href="/us/politics" title="Politics + Society">Politics <span><span title="and">+</span> Society</span></a>
+      </li>
+      <li class="technology ">
+        <a class="current" href="/us/technology" title="Science + Technology">Science <span><span title="and">+</span> Technology</span></a>
+      </li>
+      <li class="election-2016 last">
+        <a class="" href="/us/election-2016" title="Election 2016">Election 2016</a>
+      </li>
+  </ol>
+</nav>
+
+    </div>
+  </section>
+
+    
+
+    <section id="topics">
+      <div class="wrapper nocontent">
+          <section id="hot-topics" class=" clearfix nocontent">
+    <h3>
+      <a href="/us/topics">
+        <i class="icon-tag"></i> Follow Topics
+</a>    </h3>
+
+    <ol>
+        <li>
+          <a class="nocontent" data-id="8538" href="/us/topics/scientists-at-work">Scientists at work</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="1031" href="/us/topics/pluto">Pluto</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="6354" href="/us/topics/ebola">Ebola</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="16280" href="/us/topics/hubble-25">Hubble 25</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="21179" href="/us/topics/nobel-prize-2015">Nobel Prize 2015</a>
+        </li>
+    </ol>
+  </section>
+
+      </div>
+    </section>
+
+
+    <div id="outer">
+      
+
+      
+
+
+<article id="article" class="content-post clearfix" data-id="54363" itemscope itemtype="http://schema.org/Article">
+  <section class="content-column-header">
+  <div class="wrapper">
+    <a class="button subtle content-column-feed" href="https://theconversation.com/columns/david-glance-148.atom">
+      <i class="icon-rss"></i>
+      <span>Subscribe</span>
+</a>  </div>
+
+  <a class="column-header" href="/columns/david-glance-148">
+    <div class="wrapper">
+      <div class="content-column-image grid-two">
+          <img alt="Technophrenia" src="/assets/columnists/148-right-1b912ddc0ce5cc8d14843ca7cb9ba418a7860eb4100751ef9f7ed9abfca80475.png" />
+      </div>
+
+      <div class="content-column-title grid-fourteen grid-last">
+        <h3><span>Technophrenia</span></h3>
+        <p class="byline">On the interface between technology, people and&nbsp;society</p>
+      </div>
+    </div>
+</a></section>
+
+  <div class="wrapper">
+    <div class="content-header grid-twelve">
+      
+  <header class="grid-twelve large-grid-eleven">
+    <div>
+      <div class="content-header-block">
+        <h1 class="entry-title instapaper_title" itemprop="name">
+          <strong>
+            Social media has lost its youthful promise and is looking old, tired and&nbsp;grumpy
+          </strong>
+        </h1>
+      </div>
+    </div>
+    <time content="2016-02-08T14:52:14Z" datetime="2016-02-08T14:52:14Z" itemprop="datePublished" pubdate="pubdate">February 8, 2016 9.52am EST</time>
+  </header>
+
+    </div>
+
+    <div class="content-sidebar column-sidebar grid-four large-grid-four grid-last">
+      
+        <section class="content-authors">
+  <div class="content-authors-synopsis">
+    <a href="#" class="content-authors-toggle">
+      <i class="icon-caret-down"></i>
+      <i class="icon-caret-up"></i>
+      <span class="nobr">David Glance</span>
+    </a>
+  </div>
+
+  <div class="content-authors-group">
+    <h3 class="double-bordered">Author</h3>
+    <ol>
+      <li class="vcard" id="author-114700" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+    <a href="/profiles/david-glance-148" rel="author">
+      <img alt="" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/avatars/148/width170/RackMultipart20140215-9141-12okmbr.jpg" itemprop="image" src="/assets/author/width170_default-ebc9bd1c02d7cab70297cb90829456dfd9c1a78c4efbe5de78a07751da121491.jpg" />
+      <span class="fn author-name" itemprop="name">
+        David Glance
+      </span>
+      
+</a>    
+
+    <p class="role">
+      Director of UWA Centre for Software Practice, University of Western Australia
+    </p>
+
+</li>
+
+    </ol>
+  </div>
+</section>
+
+      
+    <section class="content-disclosure-statement">
+      <h3 class="double-bordered">Disclosure statement</h3>
+        <p><span>David Glance owns shares in Facebook</span></p>
+    </section>
+
+      
+  <section class="content-partners">
+      <h3 class="double-bordered">Partners</h3>
+        <p class="disclosure-logo clearfix"><a class="logo" href="/institutions/university-of-western-australia"><img alt="University of Western Australia" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/institutions/university-of-western-australia/logos/width170_logo-1431665456.jpg" /></a></p>
+        <p class="funding-statement"><a href="/au/partners/university-of-western-australia">University of Western Australia</a> provides funding as a founding partner of The Conversation AU.</p>
+  </section>
+
+      
+  <section class="content-republish">
+    <h3 class="double-bordered">Republish this article</h3>
+    <p>
+      We believe in the free flow of information. We use a <a href="http://creativecommons.org/licenses/by-nd/4.0/" rel="license" target="_blank" title="Creative Commons Attribution NoDerivatives">Creative Commons Attribution NoDerivatives</a> licence, so you can republish our articles for free, online or in print.
+    </p>
+
+    <a class="button primary steal-button" data-republish="/share/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="#republish">Republish</a>
+  </section>
+
+    </div>
+
+    <div class="grid-twelve large-grid-eleven">
+      
+  <figure class="content-lead-image grid-twelve large-grid-eleven">
+  <img alt="" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/110637/width926/image-20160208-2605-1pb8dsv.jpg" data-id="110637" itemprop="image" src="" />
+    <figcaption>
+      Old Age.
+      <span class="attribution"><a class="source" href="https://www.flickr.com/photos/neilmoralee/18094897608/in/photolist-tyZ5Df-s5uA4d-dMkwwr-nKV9xU-nKV8XA-ckDo6Q-ofP9nm-d6MBhs-99yV2D-nKV8GL-s5Bsua-cDoUrd-8oiNeN-iC3W2r-5H1aHo-6AWCjV-s3JB1z-57vfpE-3eZ8Jb-5uQhV4-hGRuk5-nKXvHg-9a2oHy-5sij44-k2s6Da-3eUKdR-fUeat4-6Ckx5R-7dM9e5-smUoTL-smUp4q-rq4xU5-s5BrSZ-dLbFsS-9rnrMc-9a2vPq-fUebNC-6AWCnB-hw69o8-8LPXK9-7VmEk7-9a2rWs-6CpDMm-3eZa8E-6Ckw7i-bx6wkk-7iBvbk-3exFnm-ceZhVh-4gTYvk">flickr/Neil Moralee</a>, <a class="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a></span>
+    </figcaption>
+</figure>
+
+
+
+      <div class="top">
+        
+  <aside class="grid-two content-share">
+    <ul>
+      <li class="email">
+        <a class="email-button" data-url="null" href="mailto:?subject=Social%20media%20has%20lost%20its%20youthful%20promise%20and%20is%20looking%20old%2C%20tired%20and%20grumpy%20%E2%80%94%20The%20Conversation&amp;body=Hi.%20I%20found%20an%20article%20that%20you%20might%20like%3A%20%22Social%20media%20has%20lost%20its%20youthful%20promise%20and%20is%20looking%20old%2C%20tired%20and%20grumpy%22%20%E2%80%94%20https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" target="_blank"><i class="icon-email"></i> <span>Email</span></a>
+      </li>
+
+      <li class="twitter">
+        <a class="twitter-button" data-url="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="http://twitter.com/intent/tweet?text=Social+media+has+lost+its+youthful+promise+and+is+looking+old%2C+tired+and+grumpy&amp;url=https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363&amp;utm_campaign=none&amp;utm_medium=tweetbutton&amp;utm_source=twitter&amp;via=ConversationEDU" target="_blank"><i class="icon-twitter"></i> <span>Twitter</span></a><span class="data-count">56</span>
+      </li>
+
+      <li class="facebook">
+        <a class="facebook-button" data-url="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363&amp;utm_medium=facebookbutton&amp;utm_source=facebook" target="_blank"><i class="icon-facebook"></i> <span>Facebook</span></a>
+      </li>
+
+      <li class="linkedin">
+        <a class="linkedin-button" data-url="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=The+Conversation&amp;summary=It+is+5+years+since+the+potential+of+social+media+was+considered+limitless.+Not+only+was+social+media+revolutionary%2C+but+it+was+literally+capable+of+bringing+about+revolutions+such+as+the+uprisings...&amp;title=Social+media+has+lost+its+youthful+promise+and+is+looking+old%2C+tired+and+grumpy&amp;url=https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363&amp;utm_medium=linkedinbutton&amp;utm_source=linkedin" target="_blank"><i class="icon-linkedin"></i> <span>LinkedIn</span></a>
+      </li>
+    </ul>
+  </aside>
+
+      </div>
+
+      
+  <div class="grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body" itemprop="articleBody">
+    <p>It is 5 years since the potential of social media was considered limitless. Not only was social media revolutionary, but it was literally capable of bringing about revolutions such as the uprisings of the “<a href="http://www.theatlantic.com/international/archive/2016/01/arab-spring-anniversary/416301/">Arab Spring</a>”.  There was no part of our social lives that platforms like Facebook, Twitter and LinkedIn could not change. Concepts like having a “<a href="https://en.wikipedia.org/wiki/Social_graph">social graph</a>” became generally understood, as was the ability of those graphs to determine what we bought, how we felt, who our friends were and where we would work. It was believed that social media would be with us from birth to <a href="https://theconversation.com/digital-death-is-still-a-problem-a-widows-battle-to-access-her-husbands-apple-account-53410">death</a>, cataloguing the journey on the way.</p>
+
+<h2>Ignoring the negatives</h2>
+
+<p>The hype of social media enabled social media to largely wave off the negatives that have been there from the start. There was Facebook running <a href="https://theconversation.com/facebook-will-continue-experimenting-on-users-under-closed-guidelines-32510">secret</a> experiments on its users to manipulate their mood. And the ever-present harassment of almost everyone at some time or another, but typically women. This became so much a part of the platform that protracted bouts of harassment even got their own hashtags like <a href="https://en.wikipedia.org/wiki/Gamergate_controversy">#Gamergate</a>. Rape and murder threats have become <a href="http://www.nationalreview.com/article/430874/lena-dunham-twitter-safe-space-women">accepted</a> as being part of the price, according to at least one female reporter, that women need to pay for the “freedom of speech” afforded by social media.</p>
+
+<p>And then there was terrorism. Social media it turns out, seems to be especially effective as a platform for <a href="https://www.rt.com/usa/331533-twitter-isis-account-suspensions/">terrorist propaganda</a> with Twitter having to constantly delete tens of thousands of accounts related to ISIS alone.</p>
+
+<h2>Where have all the teenagers gone?</h2>
+
+<p>As is often the way, young adults have been the “<a href="https://en.wikipedia.org/wiki/Sentinel_species">sentinel users</a>”, those to first realise that actually social media could be boring, had become colonised by their parents and generally had more negatives than positives.  Teens have been <a href="http://abcnews.go.com/Technology/teens-leaving-facebook/story?id=20739310">leaving</a> Facebook in their millions. This hasn’t affected Facebook yet because of the <a href="https://theconversation.com/transparency-issues-around-alphabets-other-bets-still-cloud-results-53965">continued growth</a> of users in different countries.</p>
+
+<p>The other sentinel warning that social media may have run its course is the stock market. LinkedIn, up until last week, was the social media platform that not only could make money but was promising the type of growth that supported the high price of its shares. This came to a crash when it reported that the future was not going to be as strong as expected and that advertising in particular was not working as well as it hoped. The market reacted spectacularly with LinkedIn losing nearly 45% its <a href="http://finance.yahoo.com/q;_ylc=X1MDMjE0MjQ3ODk0OARfcgMyBGZyA3VoM19maW5hbmNlX3dlYgRmcjIDc2EtZ3AEZ3ByaWQDBG5fZ3BzAzEwBG9yaWdpbgNmaW5hbmNlLnlhaG9vLmNvbQRwb3MDMgRwcXN0cgMEcXVlcnkDTE5LRCwEc2FjAzEEc2FvAzE-?p=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DLNKD%26ql%3D0&amp;fr=uh3_finance_web&amp;uhb=uh3_finance_vert&amp;s=LNKD">value</a> overnight leaving it at levels it last saw in 2012.</p>
+
+<p>Twitter of course continues to struggle to convince anyone that it has a viable business plan to make money and this has been reflected in its continued <a href="http://finance.yahoo.com/q?uhb=uhb2&amp;fr=uh3_finance_vert_gs&amp;type=2button&amp;s=twtr">downward plunge</a> in value.</p>
+
+<p>The disillusionment of the markets reflects a lack of interest by advertisers and other businesses in any platform other than Facebook (for now). What will be interesting to see however is whether that sentiment carries over into other consumer groups. Journalists may stop writing stories about whatever is trending on Twitter, or quoting the obligatory <a href="http://www.dailydot.com/technology/what-is-error-53-iphone/">tweet</a> that serves as a replacement for an authoratative quote.</p>
+
+<h2>The unwinable challenge for social media</h2>
+
+<p>Ultimately, it seems that there is no way that all of the current platforms can all be successful at the same time. For most users, there is simply not enough time to interact in any meaningful way with multiple platforms and find anything worthwhile amongst the noise. And that is assuming of course, that none of the noise was negative, hateful or hurtful, which automatically makes it much harder to see anything positive. No amount of <a href="http://www.engadget.com/2016/02/06/twitter-says-timeline-isnt-changing/">tinkering</a> of timelines by companies like Twitter are going to help because the expectations of its users is so diverse.</p>
+
+<p>The other difficulty that social media platforms face is that their success is dependant on scale, and that in turn has depended on the inflating effect of hype of groups like the media and the markets. Once one of the groups gives up, it is far more likely that the entire network collapses, leaving at best, a vestigial platform like <a href="https://myspace.com/">myspace</a>.</p>
+
+<p>Social media itself is not going to disappear and it is nowhere near being on life-support. Social media, like its audience, has moved from being youthful and full of promise to something more akin to middle age, railing at its lost youth.</p>
+  </div>
+
+      
+
+        <nav class="post-navigation grid-ten large-grid-nine grid-prepend-two">
+    <ol>
+      <li>
+  <div class="post-navigation-option ">
+      <a class="article" href="/feeling-emotional-facebooks-reactions-finally-let-you-say-more-than-just-like-53844">
+        <h4 class="direction">
+          Previous post
+        </h4>
+        <time content="2016-01-28T13:46:12Z" datetime="2016-01-28T13:46:12Z" itemprop="datePublished" pubdate="pubdate">January 28, 2016</time>
+        Feeling emotional? Facebook’s Reactions finally let you say more than just&nbsp;Like
+</a>  </div>
+</li>
+
+      <li>
+  <div class="post-navigation-option ">
+      <a class="article" href="/the-dallas-buyers-club-case-is-over-and-the-precedent-is-good-news-for-all-australians-54612">
+        <h4 class="direction">
+          Next post
+        </h4>
+        <time content="2016-02-11T14:05:44Z" datetime="2016-02-11T14:05:44Z" itemprop="datePublished" pubdate="pubdate">February 11, 2016</time>
+        The Dallas Buyers Club case is over and the precedent is good news for all&nbsp;Australians
+</a>  </div>
+</li>
+
+    </ol>
+  </nav>
+
+
+      <div class="bottom">
+        
+  <aside class="content-targeted-share grid-ten grid-prepend-two large-grid-nine grid-last">
+    <ul>
+      <li class="twitter">
+        <a class="twitter-button button" data-url="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="http://twitter.com/intent/tweet?text=Social+media+has+lost+its+youthful+promise+and+is+looking+old%2C+tired+and+grumpy&amp;url=https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363&amp;utm_campaign=none&amp;utm_medium=tweetbutton&amp;utm_source=twitter&amp;via=ConversationEDU" target="_blank"><i class="icon-twitter"></i> <span>Tweet</span></a><span class="data-count">56</span>
+      </li>
+
+      <li class="facebook">
+        <a class="facebook-button button" data-url="https://theconversation.com/social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftheconversation.com%2Fsocial-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363&amp;utm_medium=facebookbutton&amp;utm_source=facebook" target="_blank"><i class="icon-facebook-simple"></i> <span>Share</span></a>
+      </li>
+      <li class="newsletter">
+        <a class="button newsletter-button" href="/us/newsletter">
+          <i class="icon-email"></i> Get newsletter
+</a>      </li>
+    </ul>
+  </aside>
+
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+<div id="comments-container"></div>
+
+  <div class="page-addendum">
+  <div class="wrapper">
+    <div class="grid-eight">
+      <div class="addendum-block most-popular">
+  <h3 class="thick-light-bordered slammed">Most popular on The Conversation</h3>
+  
+      <ul>
+          <li><a href="/why-its-impossible-to-actually-be-a-vegetarian-55806">Why it’s impossible to actually be a&nbsp;vegetarian</a></li>
+          <li><a href="/at-chernobyl-and-fukushima-radioactivity-has-seriously-harmed-wildlife-57030">At Chernobyl and Fukushima, radioactivity has seriously harmed&nbsp;wildlife</a></li>
+          <li><a href="/doctors-dont-talk-to-their-patients-about-sexual-health-heres-why-they-should-56895">Doctors don’t talk to their patients about sexual health. Here’s why they&nbsp;should</a></li>
+          <li><a href="/a-dark-night-is-good-for-your-health-39161">A dark night is good for your&nbsp;health</a></li>
+          <li><a href="/the-rise-and-fall-of-theranos-so-many-lessons-in-a-drop-of-blood-57787">The rise and fall of Theranos: so many lessons in a drop of&nbsp;blood</a></li>
+      </ul>
+      <ul>
+          <li><a href="/how-the-rich-helped-create-2016s-angry-populism-57710">How the rich helped create 2016’s angry&nbsp;populism</a></li>
+          <li><a href="/ubers-100-million-settlement-with-drivers-settles-very-little-heres-why-58336">Uber’s $100 million settlement with drivers settles very little – here’s&nbsp;why</a></li>
+          <li><a href="/why-the-stop-trump-movement-isnt-working-58473">Why the Stop Trump movement isn’t&nbsp;working</a></li>
+          <li><a href="/forget-fukushima-chernobyl-still-holds-record-as-worst-nuclear-accident-for-public-health-57942">Forget Fukushima: Chernobyl still holds record as worst nuclear accident for public&nbsp;health</a></li>
+          <li><a href="/are-drones-really-dangerous-to-airplanes-56770">Are drones really dangerous to&nbsp;airplanes?</a></li>
+      </ul>
+</div>
+
+    </div>
+
+    <div class="grid-four">
+      <div class="addendum-block research-and-expert-database">
+  <h3 class="thick-light-bordered">Expert Database <i class="icon-the-conversation"></i></h3>
+
+  <form accept-charset="UTF-8" action="/experts/search" class="for formtastic expert_search_form" id="new_expert_search_form" method="get" novalidate="novalidate"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <fieldset class="inputs"><ol>
+      <li class="string input required stringish" id="expert_search_form_term_input"><label class="label" for="expert_search_form_term">Find experts with <span class='nobr'>knowledge in:</span><abbr title="required">*</abbr></label><input id="expert_search_form_term" name="expert_search_form[term]" placeholder="e.g. Cyber Security" type="text" />
+
+</li>
+</ol></fieldset>
+    <fieldset class="actions"><ol>
+      <li class="action input_action " id="expert_search_form_submit_action"><input class="find-experts button moderately-huge primary" name="commit" type="submit" value="Search" /></li>
+</ol></fieldset></form></div>
+
+    </div>
+
+    <div class="grid-four grid-last">
+      <div class="addendum-block want-to-write">
+  <h3 class="thick-light-bordered">Want to write?</h3>
+  <p>
+    Write an article and join a growing community of more than 33,500 academics and researchers from 1,587 institutions.
+  </p>
+  <p class="more">
+    <a class="button" href="/become-an-author">Register now</a>
+  </p>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+
+  <script async="async" data-counter="https://counter.theconversation.edu.au/content/54363/count" id="theconversation_tracker_hook" src="https://theconversation.com/javascripts/lib/content_tracker_hook.js"></script>
+
+
+
+    </div>
+
+    
+  <div id="footers">
+    
+    <section class="footer-primary">
+  <header>
+    <div class="wrapper nocontent">
+      <h2>The Conversation</h2>
+    </div>
+  </header>
+
+  <div class="wrapper nocontent">
+    <section class="community footer-link-list grid-five large-grid-four">
+      <h6>Community</h6>
+      <nav>
+        <ul>
+          <li><a href="/us/community-standards">Community standards</a></li>
+          <li><a href="/us/republishing-guidelines">Republishing guidelines</a></li>
+            <li><a href="/experts">Research and Expert Database</a></li>
+          <li><a href="/us/feeds"><i class="icon icon-rss-non-coloured"></i> Our feeds</a></li>
+
+        </ul>
+      </nav>
+    </section>
+
+    <section class="company footer-link-list grid-five large-grid-seven">
+      <h6>Company</h6>
+      <nav>
+        <ul>
+          <li><a href="/us/who-we-are">Who we are</a></li>
+          <li><a href="/us/charter">Our charter</a></li>
+          <li><a href="/us/team">Our team</a></li>
+            <li><a href="/columns/blog-26">Our blog</a></li>
+          <li><a href="/us/partners">Partners and funders</a></li>
+          <li><a href="/institutions">Contributing institutions</a></li>
+          <li><a href="/us/resources-for-media">Resource for media</a></li>
+          <li><a href="/us/contact-us">Contact us</a></li>
+        </ul>
+      </nav>
+    </section>
+
+    <section class="footer-subscription grid-six large-grid-five grid-last">
+      <h3>Stay informed</h3>
+
+      <div class="newsletter-signup-form">
+        <h6>Subscribe to our Newsletters</h6>
+        <form action="/subscriptions" method="post" class="subscribe">
+  <fieldset>
+    <label class="subscribe-email-label" for="subscribe_email">
+      Email address
+    </label>
+
+    <div class="field-wrapper">
+      <input class="email" id="subscribe_email" name="subscribe[email]" placeholder="Your email address" spellcheck="false" type="email" value="" />
+      <i class="success-icon">✔</i>
+      <i class="icon-delete failure-icon"></i>
+      <img alt="Spinner a25feb0222a994468bf211976c47036a664ab4d3280c072d19a21d8d8eae8434" class="spinner-icon" src="/assets/spinner-a25feb0222a994468bf211976c47036a664ab4d3280c072d19a21d8d8eae8434.gif" />
+    </div>
+
+    <input id="subscribe_location" name="subscribe[location]" type="hidden" value="footer" />
+
+      <fieldset class="regions select-boxes region-select">
+  <select id="subscribe_region" name="subscribe[region]"><option value="africa">Africa</option>
+<option value="au">Australia</option>
+<option value="fr">France</option>
+<option value="uk">United Kingdom</option>
+<option selected="selected" value="us">United States</option></select>
+</fieldset>
+
+
+    <input class="subscribe button subtle" name="submit" type="submit" value="Subscribe" />
+  </fieldset>
+</form>
+
+        <div class="sitewide-social-media">
+          <h6>Follow us on social media</h6>
+
+          <ul>
+            <li class="facebook">
+              <a href="https://facebook.com/theConversationUS" title="The Conversation on Facebook">
+                <i class="icon-facebook-simple"></i>
+</a>            </li>
+            <li>
+              <a href="https://twitter.com/ConversationUS" title="The Conversation on Twitter">
+                <i class="icon-twitter"></i>
+</a>            </li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+  </div>
+</section>
+
+    <footer id="footer">
+  <div class="wrapper nocontent">
+    <nav>
+      <a href="/us/privacy-policy">Privacy policy</a>
+      <a href="/us/terms-and-conditions">Terms and conditions</a>
+      <a href="/us/corrections">Corrections</a>
+      <script>
+  (function() {
+    var img = document.createElement('img'); img.width = 1; img.height = 1;
+    img.src = 'https://www.facebook.com/tr?id=1517004835184558&amp;ev=NoScript';
+    img.style.display = "none";
+    var s = document.getElementsByTagName('footer')[0]; s.parentNode.insertBefore(img, s);
+  })();
+</script>
+
+    </nav>
+    <p class="copyright">
+      <span>Copyright &copy; 2010–2016</span><span class="comma">, </span><span><a href="/us/who-we-are">The Conversation US, Inc.</a></span>
+    </p>
+  </div>
+</footer>
+
+  </div>
+
+  </div>
+
+  <script src="/assets/vendored-3e674824f79baa6f58c95d55c298eb1f2f144189b0182a1b0fd72cb18455f347.js"></script>
+<script src="/assets/application-bd13423ccd4f27ccc2983931446a3d7a605c355d1a9b0d24532cb72d5eb4559a.js"></script>
+  <script>
+//<![CDATA[
+
+  function notifyOfFailure(failure) {
+    var xmlHttpRequst = false;
+
+    if (window.XMLHttpRequest) { // non IE
+      xmlHttpRequst = new XMLHttpRequest();
+    } else if (window.ActiveXObject) { // IE
+      xmlHttpRequst = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    // If AJAX supported
+    if(xmlHttpRequst != false) {
+      xmlHttpRequst.open("GET", failure, true);
+      xmlHttpRequst.send();
+    }
+  }
+
+  if (window.TC) {
+    $.i18n.init({
+      fallbackLng: 'en',
+      resGetPath: '/assets/en_us-3d0457f6b23351aff9bad9cfea0a0a14a7263d8b6bd477bd75749da78f244a22.json',
+      lng: 'en_us'
+    }, function(err, t) {
+      if (err && err.length) {
+        notifyOfFailure("/no_js_locale?message=" + err[0]);
+      }
+      TC.time = new TC.TimeFormatter('en_us')
+      TC.currentUser = new TC.User(null);
+        TC.page = new TC.ContentPage({
+    content_id: 54363,
+    content_slug: "social-media-has-lost-its-youthful-promise-and-is-looking-old-tired-and-grumpy-54363",
+    comments_closed_at: ""
+  });
+
+    });
+  } else {
+    notifyOfFailure("/no_assets");
+  }
+
+//]]>
+</script>
+
+  
+</body>
+</html>

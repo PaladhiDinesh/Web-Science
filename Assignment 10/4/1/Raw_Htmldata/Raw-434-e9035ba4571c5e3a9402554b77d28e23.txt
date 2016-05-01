@@ -1,0 +1,2925 @@
+<!DOCTYPE html>
+
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js" itemscope itemType="http://schema.org/WebPage">
+
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+        <script src="/htv/static/wro/6.17.7.2/core-common-redirect.js" type="text/javascript"></script>
+<script>
+            (function() {
+                var isRequestFromEditor = (window.location.search.indexOf("request-from-editor=true") > -1);
+                
+                if ((mdetect.detectMobileQuick() || mdetect.detectTierTablet()) && !isRequestFromEditor) {
+                    mdetect.autoRedirect("mobile", 365, "http://m.wdsu.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796", window.location.search, "utm_source utm_medium utm_term utm_content utm_campaign treets tml source src medium campaign content ens asyncAction asyncActionValue contentView stormID page delta");
+                }
+            })();
+        </script>
+    <title>Couple arrested for silly string fight in Walmart | Buzz60  - WDSU Home</title>
+
+    <meta name="description" content="A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains."/>
+    <meta property="og:video" content="https://cdnapisec.kaltura.com/index.php/kwidget/wid/_557781/uiconf_id/22845102/entry_id/0_qtbx6xog" itemprop="video"/>
+    <meta property="og:video:width" content="640"/>
+    <meta property="og:video:height" content="390"/>
+    <meta property="og:video:type" content="application/x-shockwave-flash"/>
+
+<meta property="og:title" content="Couple arrested for silly string fight in Walmart" itemprop="name"/>
+    <meta property="og:type" content="video"/>
+    <meta property="og:image" content="http://www.wdsu.com/image/view/-/37880798/medRes/1/-/maxh/630/maxw/1200/-/sgvobc/-/Couple-arrested-for-silly-string-fight-in-Walmart.jpg" itemprop="image"/>
+    <meta property="og:url" content="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" itemprop="url"/>
+
+    <meta property="og:description" content="A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains." itemprop="description"/>
+    <meta property="og:site_name" content="WDSU"/>
+    <meta name="twitter:card" content="app"/>
+
+    <meta name="twitter:site" content="@WDSU"/>
+    <meta name="twitter:url" content="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+<meta name="twitter:player" content=""/>
+    <meta name="twitter:player:width" content="640"/>
+    <meta name="twitter:player:height" content="390"/>
+
+<meta name="item-publish-date" content="Mon, 08 Feb 2016 12:13:13 CST"/>
+        <meta name="category" content="Buzz60">
+
+     <!--Meta tags for deeplinking for facebook -->
+        <meta property="al:ios:url" content="wdsu://content/video/37880796"/>
+        <meta property="al:ios:app_store_id" content="506060763" />
+        <meta property="al:ios:app_name" content="wdsu" />
+        <meta property="al:android:url" content="wdsu://content/video/37880796"/>
+        <meta property="al:android:package" content="com.hearst.android.wdsu" />
+        <meta property="al:android:app_name" content="wdsu" />
+
+        <!--Meta tags for deeplinking for twitter -->
+
+        <meta name="twitter:app:name:iphone" content="wdsu" />
+        <meta name="twitter:app:id:iphone" content="506060763" />
+        <meta name="twitter:app:url:iphone" content="wdsu://content/video/37880796" />
+        <meta name="twitter:app:name:ipad" content="wdsu" />
+        <meta name="twitter:app:id:ipad" content="506060763" />
+        <meta name="twitter:app:url:ipad" content="wdsu://content/video/37880796" />
+        <meta name="twitter:app:name:googleplay" content="wdsu" />
+        <meta name="twitter:app:id:googleplay" content="com.hearst.android.wdsu" />
+        <meta name="twitter:app:url:googleplay" content="wdsu://content/video/37880796" />
+
+        <!--Meta tags for deeplinking for google search in android-->
+
+        <link rel="alternate" href="android-app://com.hearst.android.wdsu/content/video/37880796" />
+
+        <script>
+            if(true){
+            // making this as a globalParam
+            var deeplinking_redirectParams = {
+                appName : "wdsu",
+                iphone_appId : "506060763",
+                ipad_appId : "506060763",
+                android_appId : "com.hearst.android.wdsu",
+                appLink_url : "wdsu://content/video/37880796",
+                sitename : false ? "htv-no" : "WDSU",
+                deepLink_redirectEnable:true,
+                fallback:false,
+                androidDisable:true
+
+            };
+        }
+        </script>
+<link rel="canonical" href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+    <meta name="keywords" content="silly string arrest,couple arrested silly string,couple arrested silly string fight,silly string fight,weird crime,weird criminals,strange crime,strange criminals,odd crime,odd criminals,criminal fail,dumb criminal,stupid criminals,stupid criminal,dumb criminals,funny criminals,funny crime,bad criminals,stupid crime,stupid crime stories,dumb crime stories,dumb criminal stories,funny police reports,weird police reports,buzz60,buzz 60,gillian pensavalle" itemprop="keywords"/>
+        <meta name="news_keywords" content="silly string arrest,couple arrested silly string,couple arrested silly string fight,silly string fight,weird crime,weird criminals,strange crime,strange criminals,odd crime,odd criminals,criminal fail,dumb criminal,stupid criminals,stupid criminal,dumb criminals,funny criminals,funny crime,bad criminals,stupid crime,stupid crime stories,dumb crime stories,dumb criminal stories,funny police reports,weird police reports,buzz60,buzz 60,gillian pensavalle"/>
+        <link rel="shortcut icon" type="image/x-icon" href="/image/view/-/9854144/favicon/98/-/ptcfyfz/-/WDSU-Home.ico"/>
+    <meta property="fb:app_id" content="106709375881"/>
+    <meta name="ib-analytics" content="data" data-global-gaid="UA-18558019-1"
+              data-domain=".wdsu.com" data-ignored-referrer="www.wdsu.com"
+              data-groupkey="htv" data-sitekey="no"
+              data-context='{"analyticsCategory":"news","channels":["buzz60","video","wdsu-home"],"contextId":26249792,"notFound":false}'
+              data-content='{"contentId":37880796,"contentType":"video","contentSource":"shared-htv","contentCategory":"buzz60"}'
+              data-ids='["UA-17912456-1","UA-17423187-1","UA-17916775-1"]'
+              data-demographics='true'
+              data-debug="false" data-live="true"
+            data-ua-global-gaid="UA-18558019-1" data-ua-ids='["UA-17912456-1","UA-17423187-1","UA-17916775-1"]'
+            data-classic="false" data-universal="true" data-track-adblock="false"/>
+
+<meta name="generator" content="ibPublish 2"/>
+        <meta name="google-site-verification" content="iTpGHwvIUZZonMsO4nxEZugdY312ShGHOC_yhKGUGbw"/>
+        <script src="//nexus.ensighten.com/hearst/tv/Bootstrap.js"> </script>
+            <link rel="stylesheet" href="/htv/static/wro/6.17.7.2/core-desktop.css" />
+<link rel="stylesheet" href="/htv/static/wro/6.17.7.2/client-desktop.css" />
+<!--[if IE 9]>
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/htv/static/wro/6.17.7.2/core-desktop-ie8.css" />
+<link rel="stylesheet" href="/htv/static/wro/6.17.7.2/client-desktop-ie8.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-no/-/26249792/8585256/-/ver/15/-/ecr0np/-/IE7+Styles.css" />
+
+
+        <![endif]-->
+        <!--[if IE 7]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-no/-/26249792/8781178/-/ver/68/-/fq7pch/-/IE7+Temp+Fixes.css" />
+
+
+        <![endif]-->
+        <!--[if IE 8]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-no/-/26249792/9236530/-/ver/41/-/mfp02dz/-/IE8+Temp+Fixes.css" />
+
+
+        <![endif]-->
+        <link rel="stylesheet" type="text/css"  href="/code/view/htv-no/-/26249792/9234902/-/ver/375/-/13tcds4z/-/Standard+Browsers+Temp+Fixes.css" />
+
+
+        <style type="text/css">
+    body{
+        background-image:url('http://www.wdsu.com/image/view/-/9855434/highRes/4/-/g4pnndz/-/site-header-background-image.jpg');
+    }
+    </style>
+<script src="/?view=jsApp"></script>
+
+	<script src="/htv/static/wro/6.17.7.2/core-desktop.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.7.2/client-desktop.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.7.2/core-common-noConflict.js" type="text/javascript"></script>
+<script src="http://cdnbakmi.kaltura.com/p/557781/sp/55778100/embedIframeJs/uiconf_id/13570192/partner_id/557781"></script>
+<script src="/code/view/htv-no/-/26249792/27132406/-/ver/4/-/ik64eh/-/Livewire_embed_desktop.js"></script>
+		<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node = document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script>
+                    ibsys.ad.lotame.loadLpid();
+                </script>
+            <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/hearst-network/loader.js');
+    </script>
+    </head>
+<body class="content-video segment-buzz60 layout- text-medium" >
+    <noscript>
+            <div class="mdot-link-noscript"><a href="http://m.wdsu.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Back To Mobile Site</a></div>
+        </noscript>
+        <div id="mdotLink"><a href="http://m.wdsu.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Back To Mobile Site</a></div>
+        <script>
+            $ib(document).ready(function() {
+                
+                var isRequestFromEditor = (window.location.search.indexOf("request-from-editor=true") > -1);
+                if((mdetect.detectMobileQuick() || mdetect.detectTierTablet()) && $ib.cookie && $ib.cookie('ib-site-type') && !isRequestFromEditor) {
+                    $ib('#mdotLink').click(function(e) {
+                        e.preventDefault();
+                        mdetect.userRedirect("mobile", 365, "http://m.wdsu.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796");
+                    });
+                    $ib('#mdotLink').show();
+                }
+            });
+        </script>
+    <div id="fb-root"></div>
+        <script>
+            $ib(document).ready(function(){
+                ibsys.shareTools.facebookVersion ='v2.2';
+                window.fbAsyncInit = function() {
+                    FB._https = true;
+                    FB.init({
+                        appId: '106709375881',
+                        channelUrl: 'http://www.wdsu.com/htv/static/assets/fb/channel.html',
+                        status: true,
+                        cookie: true,
+                        xfbml: true,
+                        version: 'v2.2'
+                    });
+                    ibsys.oauth.fbInitComplete(); //init flag
+                    //Initialize Facebook Timeline App
+                    
+                };
+                // Load the SDK Asynchronously
+                if ("v2.2" === "v1.0") {
+                    (function(d){
+                        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                        js = d.createElement('script'); js.id = id; js.async = true;
+                        js.src = "//connect.facebook.net/en_US/all.js";
+                        d.getElementsByTagName('head')[0].appendChild(js);
+                    }(document));
+                } else {
+                    (function (d, s, id) {
+ 	 	 		 	    var js, fjs = d.getElementsByTagName(s)[0];
+ 	 	 		 	    if (d.getElementById(id)) { return; }
+ 	 	 		 	    js = d.createElement(s);
+ 	 	 		 	    js.id = id;
+ 	 	 		 	    js.src = "//connect.facebook.net/en_US/sdk.js";
+ 	 	 		 	    fjs.parentNode.insertBefore(js, fjs);
+ 	 	 		 	}(document, 'script', 'facebook-jssdk'));
+                }
+            });
+        </script>
+    <header>
+        <div id="headerWrapper">
+            <div id="utilityBar">
+                <div id="utilityBarInner">
+                    <form id="yK_ikhuj8" name="yK_ikhuj8" class="searchForm" action="/page/search/htv-no/search/9855410?view=asSearch" method="get"><input type="search" class="textInput searchField" name="q" value="SEARCH"/>
+        <input type="submit" class="searchSubmit" value=""/>
+        <input type="hidden" name="view" value="asSearch"/>
+        <input type="hidden" name="sortBy" value=""/>
+
+        </form><script>
+        ibsys.yellowpages.init("yK_ikhuj8", "/page/search/htv-no/search/9855410?view=asSearch", "", "");
+    </script>
+
+<div id="userLoginStatus" class="ib-container" data-placement="userLoginStatus" data-content-id="31348792">
+        <section class="ib-container-item first item-0">
+            <div class="ib-user-profile" data-bind="with: userProfile">
+<div class="user-profile-header-login" data-bind="with: session">
+    <div class="loggedIn hidden" data-bind="css: { hidden : !isLoggedIn() }">
+        <p><span data-bind="if: screenName"><span class="displayName" data-bind="text: screenName"></span>
+                &nbsp;&#124;&nbsp;</span>
+
+            <a href="/Sign-Up-for-Email-Newsletters-Alerts/30886180">Manage Subscriptions</a> &nbsp;
+            <a href="#" data-bind="click: logout">Log Out</a>
+        </p>
+    </div>
+    <div class="login" data-bind="visible : !isLoggedIn()">
+        <p>&nbsp;
+            <a href="/Sign-Up-for-Email-Newsletters-Alerts/30886180">Log In</a>
+            </p>
+    </div>
+</div></div>
+</section>
+        </div>
+<div id="headerlink" class="ib-container" data-placement="headerlink" data-content-id="9853892">
+        <section class="ib-container-item first item-0">
+            <a class="headerLinkAlerts" target="" href="/Sign-Up-for-Email-Newsletters-Alerts/30886180">Alerts</a>
+<a class="headerLinkMobile" target="" href="/connect">Mobile</a>
+<a class="headerLinkTip" target="" href="/tv/contact">Submit a Tip</a></section>
+        </div>
+<div id="weather" class="ib-container" data-placement="weather" data-content-id="9853902">
+        <section class="ib-container-item first item-0">
+            <script>
+            ibsys.severeWeather.alert();
+        </script>
+    </section>
+        <section class="ib-container-item last item-1">
+            <div class="dynWx" id="fLPykhuj8" data-base="/pageFragment/wxbyzip/htv-no/-/9854144/9853906/-/view/asHeaderItem/-/5pr6xiz?ahah=1">
+		<div class="spinner"></div>
+	</div>
+	<script>
+		ibsys.hwx.addWidget('fLPykhuj8');
+	</script>
+</section>
+        </div>
+<div class="headerSocialShare">
+                        <div class="fb-like" data-href="http://www.facebook.com/wdsutv" data-send="false" data-layout="button_count" data-width="55" data-show-faces="false" data-colorscheme="dark"></div>
+                        <div id="twitter-follow-button-wrapper">
+                                <a href="https://twitter.com/WDSU" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow </a>
+                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+
+            <div id="header">
+                <span class="leftHeaderCol">
+                <a href="/" id="headerSiteLogo">
+                        <img 
+            src="/image/view/-/9855436/highRes/3/-/2rjb1vz/-/site-header-logo.png"
+            alt="WDSU"
+            title="WDSU"
+            
+            />
+    </a>
+                </span>
+                <figure class="ib-figure-ad">
+                 <div class="adLocation banner1 leaderboard">
+
+                     <div class="adObj dynamicAd" id="ad-151404-1455600084221" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"banner1","size":"728x90","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":true,"qs":"","slotName":"no_banner1_728x90","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="banner1">
+                                        <script>
+                                            ibsys.ad.manager.registerAd("#ad-151404-1455600084221");
+                                        </script>
+                                    </div>
+                                <figcaption>
+                                    <div class="caption adTab">
+                                        Advertisement</div>
+                                </figcaption>
+                            </div>
+            </figure>
+        </div>
+        </div>
+    </header>
+<nav>
+        <div id="nav" class="nav-dropdown" data-navType="dropdown" data-isCentered="true" >
+            <ul id="topNav">
+                    <li class="nav-9853778 topNavItem news">
+                    <a href="/news/9853778" class="teasableLink news " title="News">News</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem bostonmarathon">
+                <a href="/news/bostonmarathon" class="teasableLink bostonmarathon " title="Boston Marathon">boston marathon</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-9854976 topNavItem weather">
+                    <a href="/weather" class="teasableLink weather " title="Weather">Weather</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem cams">
+                <a href="/weather/cams" class="teasableLink cams " title="Skycams">Skycams</a></li>
+        <li class="subNavItem slideshows">
+                <a href="/weather/slideshows" class="teasableLink slideshows " title="Slideshows">Slideshows</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-9853064 topNavItem uLocal navNoVerticalBars">
+                    <a href="http://ulocal.wdsu.com/home" class="teasableLink ulocal " title="u local">u local</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-9855238 topNavItem tv">
+                    <a href="/tv/9855238" class="teasableLink tv " title="On TV">On TV</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-9853524 topNavItem sports">
+                    <a href="/sports" class="teasableLink sports " title="Sports">Sports</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem olympic-zone">
+                <a href="http://www.nbcolympics.com/wdsu/index.html" class="teasableLink olympic-zone " title="Olympic Zone">Olympic Zone</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-9855340 topNavItem marketplace navRight navNoVerticalBars">
+                    <a href="/marketplace" class="teasableLink marketplace " title="Marketplace">Marketplace</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem get-coupons">
+                <a href="http://www.couponbug.com/alink.asp?go=11254pn9115" class="teasableLink get-coupons " title="Get Coupons">Get Coupons</a></li>
+        <li class="subNavItem party-headquarters-2013">
+                <a href="/marketplace/party-headquarters-2013/17864556" class="teasableLink party-headquarters-2013 " title="Party Headquarters 2013">Party Headquarters 2013</a></li>
+        <li class="subNavItem mothers-day">
+                <a href="/entertainment/mothers-day" class="teasableLink mothers-day " title="Mother's Day">Mother&#039;s Day</a></li>
+        <li class="subNavItem legal-center">
+                <a href="/marketplace/legal-center" class="teasableLink legal-center " title="Legal Center">Legal Center</a></li>
+        <li class="subNavItem fathers-day">
+                <a href="/marketplace/fathers-day/20272020" class="teasableLink fathers-day " title="Father's Day">Father&#039;s Day</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-13370904 topNavItem local-experts navRight navNoArrow">
+                    <a href="/contests/13370904" class="teasableLink contests " title="Contests">Contests</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-14067188 topNavItem navNoArrow">
+                    <a href="/tv/nowcast/12246476" class="teasableLink watch-wdsu-live " title="Watch WDSU Live">Watch WDSU Live</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            </ul>
+                <div class="clear"></div>
+            </div>
+    </nav>
+
+    <div class="ib-collection" data-content-id="9853900"
+    
+        id="fly-out"
+    >
+
+    <div class="nav-9853778 fly-out news clear"></div>
+        <div class="nav-9854976 fly-out weather clear"></div>
+        <div class="nav-9853064 fly-out ulocal clear"></div>
+        <div class="nav-9855238 fly-out tv clear"></div>
+        <div class="nav-16351314 fly-out clear"></div>
+        <div class="nav-9853524 fly-out sports clear"></div>
+        <div class="nav-9855340 fly-out marketplace clear"></div>
+        </div>
+<span id="flyout-urls" data-flyoutnav='{
+            
+                "nav-9853778":"/pageFragment/view/htv-no/-/9853778/9852698/-/view/asChild/-/8q53knz?ahah=1"
+                ,
+                "nav-9854976":"/pageFragment/view/htv-no/-/9854976/9852706/-/view/asChild/-/r66d55?ahah=1"
+                ,
+                "nav-9853064":"/pageFragment/view/htv-no/-/9853064/15732500/-/view/asChild/-/10ybp0oz?ahah=1"
+                ,
+                "nav-9855238":"/pageFragment/view/htv-no/-/9855238/9852934/-/view/asChild/-/afkq9p?ahah=1"
+                ,
+                "nav-16351314":"/pageFragment/view/htv-no/-/16351314/16397194/-/view/asChild/-/n8m695z?ahah=1"
+                ,
+                "nav-9853524":"/pageFragment/view/htv-no/-/9853524/13086354/-/view/asChild/-/117stqdz?ahah=1"
+                ,
+                "nav-9855340":"/pageFragment/view/htv-no/-/9855340/9852980/-/view/asChild/-/e4y0h1z?ahah=1"
+                
+            }'></span>
+    <script>
+        ibsys.flyout.init(0);
+    </script>
+<div id="postHeader">
+        </div>
+    
+<div id="content" class="clear">
+        <script>
+                
+                    $ib(function(){
+                        ibsys.nowcast.getNowcastJson(ibsys.nowcast.jsonUrl)
+                    });
+                
+                    ibsys.nowcast.version = 3;
+                </script>
+            <div id="beaconRail" class="ib-container  nowcast" data-placement="beaconRail" data-content-id="18534082">
+    <ul>
+        <script>ibsys.nowcast.types.push('other');</script>
+
+                <script>ibsys.nowcast.types.push('other');</script>
+
+                <li class="oneAlertBar">
+                    <div class="ib-collection alertBar LiveVideocast " data-content-id="37416172"
+                data-nowcasttype="LiveVideocast" data-nowcast="live">
+            <div class="liveAlertWrapper">
+                <div class="titlebar ">
+            <div class='nH1'><a href="http://www.wdsu.com/nowcast">NOWCAST</a></div></div>
+    <span class=" alertItem  first item-0">
+                        <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.wdsu.com/nowcast"/>
+<meta itemprop="headline" content="Watch WDSU News Live Newscasts"/>
+        <h3 class="teaserTitle">
+                <a href="http://www.wdsu.com/nowcast" title="Watch WDSU News Live Newscasts" class="teasableLink " >
+                Watch WDSU News Live Newscasts</a>
+
+            </h3>
+        </div>
+</span>
+                </div>
+        </div>
+        <span class="clear"></span>
+    </li>
+            <script>ibsys.nowcast.types.push('live');</script>
+
+                <li class="oneAlertBar">
+                    <div class="ib-collection alertBar dvrVideocast " data-content-id="31336568"
+                data-nowcasttype="dvrVideocast" data-nowcast="dvr">
+            <div class="liveAlertWrapper">
+                <div class="titlebar ">
+            <div class='nH1'><a href="http://www.wdsu.com/nowcast">NOWCAST</a></div></div>
+    <span class=" alertItem  first item-0">
+                        <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.wdsu.com/nowcast"/>
+<meta itemprop="headline" content="Watch WDSU News On Demand"/>
+        <h3 class="teaserTitle">
+                <a href="http://www.wdsu.com/nowcast" title="Watch WDSU News On Demand" class="teasableLink " >
+                Watch WDSU News On Demand</a>
+
+            </h3>
+        </div>
+</span>
+                </div>
+        </div>
+        <span class="clear"></span>
+    </li>
+            <script>ibsys.nowcast.types.push('dvr');</script>
+
+                </ul>
+    </div>
+<div id="breakingNews" class="ib-container" data-placement="breakingNews" data-content-id="9852986">
+    <ul>
+        <li class="oneAlertBar">
+                    <div class="ib-collection alertBar 17763796" data-content-id="17763796">
+            <span class="alertWrapper">
+                <span class="noCollection alertItem   first item-0">
+                                <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.wdsu.com/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150"/>
+<meta itemprop="headline" content="2016 Grammys: Taylor Swift wins album of the year"/>
+        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Swift-16-Grammys/38013694"/>
+<meta itemprop="datePublished" content="2016-02-15T10:38:29"/>
+    <meta itemprop="dateModified" content="2016-02-15T10:37:12"/>
+    <figure  class="ib-figure-image">
+            <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150"><img 
+            src="/image/view/-/38013694/medRes/2/-/h/78/maxh/92/maxw/138/w/78/-/g78u0w/-/Swift-16-Grammys-jpg.jpg"
+            alt="Swift 16 Grammys"
+            title="Swift 16 Grammys"
+            
+            />
+    <span class="tagOverlay tagOverlay-article"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        </figcaption>
+                </div>
+        </figure>
+    </div><h3 class="teaserTitle">
+                <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150" title="2016 Grammys: Taylor Swift wins album of the year" class="teasableLink " >
+                2016 Grammys: Taylor Swift wins album of the year</a>
+
+            <time pubdate datetime="2016-02-15T23:10:26-0600">
+            <span class="time timestamp">
+                11min</span>
+        </time>
+    </h3>
+        </div>
+</span>
+
+                            <span class="alertLinks">
+                                    <span class="moreLink">
+                <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150" class="moreLink" title="Full Coverage">Full Coverage</a></span>
+        </span>
+                            </span>
+            <div class="titlebar ">
+            <div class='nH1'>Breaking News</div></div>
+    <div class="utilsAlertBar">
+                        <div class="alertBarFacebook">
+                                <a class="facebookShareAlert" data-fb_ref="alertbar-detail1" data-facebookAppId="106709375881" data-teasertitle="2016 Grammys: Taylor Swift wins album of the year" data-link="http://www.wdsu.com/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150" data-redirect="http://www.wdsu.com/htv/static/sharetools/redirect.html"> </a>
+                            </div>
+                        <div class="alertBarTwitter">
+                                <a class="twitterShareAlert" data-twitteruser="WDSU" data-teasertitle="2016 Grammys: Taylor Swift wins album of the year" data-link="http://www.wdsu.com/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150"> </a>
+                            </div>
+                        </div>
+                </div>
+          <span class="clear"></span>
+    </li>
+            </ul>
+    </div>
+<div id="breadcrumbs" class="breadcrumbs">
+                        <ul class="clear">
+                            <li>
+                                    <a href="/">Home</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Home"/>
+                                                <meta itemprop="url" content="/"/>
+                                            </span>
+                                        </li>
+                            <li>
+                                    /&nbsp;<a href="/video">Video</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Video"/>
+                                                <meta itemprop="url" content="/video"/>
+                                            </span>
+                                        </li>
+                            <li>
+                                    /&nbsp;<a href="/video/buzz60">Buzz60</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Buzz60"/>
+                                                <meta itemprop="url" content="/video/buzz60"/>
+                                            </span>
+                                        </li>
+                            </ul>
+                    </div>
+                <div id="topWide" class="ib-container" data-placement="topWide" data-content-id="9854044">
+        <ul>
+        <li>
+                        <div class="videoHeader">
+        <div class="teasableHeader">
+                <hgroup>
+                    <div class="hgroup">
+                        <div class="header ">
+
+                            <h1 id='' itemprop='headline' class=''>Couple arrested for silly string fight in Walmart</h1><div class="detailTimestamp">
+            <span class="date seperator">&nbsp;</span><span class="date updatedAt" ><span class="label">UPDATED</span>&nbsp;12:13 PM CST Feb 08, 2016</span>
+                    </div>
+    </div>
+                    </div>
+                </hgroup>
+
+               <div class="shareToolsNextItem ">
+                    <div class="utils">
+        <div class="utilsLike">
+            <ul>
+                        <li class="like">
+                            <div class="fb-share-button" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="button_count"></div>
+            </li>
+                    </ul>
+                </div>
+        <div class="utilsTwitter">
+                <ul>
+                    <li class="twitter">
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="WDSU" data-related="WDSU" data-url="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                    </li>
+                </ul>
+            </div>
+        <div class="utilsGoogle">
+                <ul>
+                    <li class="google">
+                        <div class="g-plusone" data-size="medium" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+<a class="nextItemLink" href="/news/local-news/new-orleans/louisiana-treasurer-kennedy-issues-response-to-govs-speech-on-historic-budget-crisis/37961862">
+                <div class="nav">
+                    <p class="label"><span class="nextItemLabel">Next Video: </span></p>
+                    <p class="link"><span>Louisiana Treasurer Kennedy issues response to Gov.'s speech on historic...</span> </p>
+                </div>
+            </a>
+    </div>
+
+               <div class="clear"> </div>
+           </div>
+
+</div>
+
+    <div id="videoDetail" class="video-detail clearfix" data-content='{"contentId":37880796,"contentType":"video","contentSource":"shared-htv","contentCategory":"buzz60"}' data-adcategory='' data-ad='{"networkId":"3468","groupkey":"htv","sitekey":"no","topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0}' itemscope itemtype="http://schema.org/VideoObject" itemprop="mainContentOfPage">
+        <div class="ib-video-transcript">
+        <div class="leftWrap">
+            <meta itemprop="url" content="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="WDSU"/>
+            </div>
+<meta itemprop="datePublished" content="2016-02-08T12:13:13"/>
+    <meta itemprop="dateModified" content="2016-02-08T11:20:30"/>
+    <meta itemprop="name" content="Couple arrested for silly string fight in Walmart" />
+    <meta itemprop="description" content="Couple arrested for silly string fight in Walmart" />
+    <meta itemprop="thumbnailURL" content="http://cdn.kaltura.com/p//thumbnail/entry_id/0_qtbx6xog/width/160/height/120/type/1" />
+    <meta itemprop="uploadDate" content="2016-02-08T12:13:13" />
+    <meta itemprop="embedURL" content="http://www.kaltura.com/index.php/kwidget/wid/_/uiconf_id//entry_id/0_qtbx6xog"/>
+<meta itemprop="width" content="618"/>
+<meta itemprop="height" content="378"/>
+<meta itemprop="headline" content="Couple arrested for silly string fight in Walmart"/>
+        <div id="kalturaVideoWrap37880796" class="kalturaVideoWrap">
+                        <div id="kalturaVideoPlayer_0_qtbx6xog" class="kalturaVideoPlayerDetail">
+                            <script>
+                                (function() {
+                                    var videoIdString = "kaltura:0_qtbx6xog";
+                                    var autoPlay =  true;
+                                    var kalturaVideoPlayerDiv=$ib('#videoDetail');
+                                    if (ibsys.ad.manager.isUnifiedDfp()) { kalturaVideoPlayerDiv.data('ad').topic = kalturaVideoPlayerDiv.data('adcategory'); }
+                                    var prerollAdData = kalturaVideoPlayerDiv.data('ad');
+                                    var sharingEnabled = "true";
+                                    var sharingUrl = "http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796";
+                                    var offsitePlayerId = "";
+                                    var hasCaptions = "false";
+                                    var csParams = {
+                                        c1: "1",
+                                        c2: "8587182",
+                                        c3: $ib('div#videoDetail').data('content').contentCategory,
+                                        c4: "8587289",
+                                        c5: "02",
+                                        c6: "no"
+                                    };
+
+                                    var nielsenParamList = {
+                                        plugin:false,
+                                        path:"http://secure-us.imrworldwide.com/novms/ka/3/ggka400.swf",
+                                        relativeTo:"kalturaVideoWrap37880796",
+                                        position:"nielsenTrackingPlaceHolder",
+                                        includeinLayout:"false",
+                                        requiredMetadataFields:"true",
+                                        apid:"",
+                                        sfcode:"us",
+                                        apn:"apn"
+                                    };
+                                    var videoParamList = {
+                                        partnerId: "557781",
+                                        uiconfId: "13570192",
+                                        entryId: videoIdString.split(":")[1],
+                                        height: "378",
+                                        width: "618",
+                                        autoPlay: autoPlay,
+                                        debugMode: "false",
+                                        gaPlugInSwfUrl: "http://www.wdsu.com/blob/view/-/114238/app/2/-/obl3a7/-/Kaltura-IB-GA-Plugin.swf",
+                                        gaUrchinCode: "UA-17912456-1,UA-17423187-1,UA-17916775-1,UA-18558019-1",
+                                        gaDebugMode: "false",
+                                        deliveryCode: "149203",
+                                        prerollAdData: prerollAdData,
+                                        prerollAdRule: 0,
+                                        useDFP: true,
+                                        allowCompanions: true,
+                                        virtualPageView: false,
+                                        csEnabled: false,
+                                        csParams: csParams,
+                                        sharingEnabled: sharingEnabled,
+                                        sharingUrl: sharingUrl,
+                                        offsitePlayerId: offsitePlayerId,
+                                        wmode: "transparent",
+                                        skinHref: "http://www.wdsu.com//htv/static/site/skin-ib.swf",
+                                        streamerType: "http",
+                                        chartbeatUID: "",
+                                        chartbeatDomain: "",
+                                        hasCaptions: hasCaptions,
+                                        leadWithHTML5: false,
+                                        nielsenParamList:nielsenParamList,
+                                        nielsenPlugin:false,
+                                        cmsId: "1748",
+                                        videoId: "37880796",
+                                        comscoreEnabled: false,
+                                        comscoreCustomerID: 6034975
+                                    };
+                                    
+                                            if(false){
+                                                ibsys.ad.lotame.adTargetingPreroll(videoParamList,5);
+                                            }else{
+                                                ibsys.kdp.loadPlayer(videoParamList);
+                                            }
+                                        
+
+                                })();
+                            </script>
+                        </div>
+                        <script>
+            $ib(document).ready(function() {
+                $ib(".kalturaTeaserOverlay0").addClass("kalturaTeaserOverlayActive");
+                $ib(".teaserOverlayNextVideoLink0").addClass("teaserOverlayNextVideoLinkActive");
+                $ib(".teaserOverlayThumbnail0").addClass("teaserOverlayThumbnail");
+                $ib(".teaserOverlayText0").addClass("teaserOverlayTextActive");
+                $ib(".teaserOverlayCounter0").addClass("teaserOverlayCounterActive");
+
+                ibsys.kdp.initOverlay(37880796, 2);
+            });
+        </script>
+
+        <div class="nextVideoExtIds" style="display:none;" data-json="kaltura:0_ro683pen,kaltura:0_wzzerew8,kaltura:0_vml8bqlw,kaltura:0_6rvwo7iq"></div>
+        <div class="nextVideoIndex" style="display:none;">0</div>
+
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay0" data-ajax-url="/pageFragment/view/htv-no/-/9853400/37961862/-/autoPlay/true/isNested/true/view/asTag/-/3dn6ch?ahah=1">
+                <a href="/news/local-news/new-orleans/louisiana-treasurer-kennedy-issues-response-to-govs-speech-on-historic-budget-crisis/37961862" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink0">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail0"></div>
+                    <div class="teaserOverlayText teaserOverlayText0">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter0">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Louisiana Treasurer Kennedy issues response to Gov.'s speech on historic...</div>
+                        <div class="teaserOverlayNextVideoLength">5: 52</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail0").css("background-image", 'url("/image/view/-/37961864/medRes/2/-/h/78/w/78/-/46ekp2/-/img-Louisiana-Treasurer-Kennedy-issues-response-to-Gov-s-speech-on-historic-budget-crisis.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay1" data-ajax-url="/pageFragment/view/htv-no/-/9854866/37997428/-/autoPlay/true/isNested/true/view/asTag/-/sny5um?ahah=1">
+                <a href="/weather/video/sunday-night-videocast-scattered-rain-storms-monday-a-few-severe-storms-possible/37997428" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink1">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail1"></div>
+                    <div class="teaserOverlayText teaserOverlayText1">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter1">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Sunday Night Videocast:  Scattered rain & storms Monday; A few severe storms...</div>
+                        <div class="teaserOverlayNextVideoLength">3: 40</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail1").css("background-image", 'url("/image/view/-/37997430/medRes/2/-/h/78/w/78/-/lexox2/-/img-Sunday-Night-Videocast-Scattered-rain-storms-Monday-A-few-severe-storms-possible.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay2" data-ajax-url="/pageFragment/view/htv-no/-/9853400/38010466/-/autoPlay/true/isNested/true/view/asTag/-/1khoo6z?ahah=1">
+                <a href="/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010466" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink2">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail2"></div>
+                    <div class="teaserOverlayText teaserOverlayText2">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter2">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">WDSU Investigates: Scrap metal business probed after parish revenues take...</div>
+                        <div class="teaserOverlayNextVideoLength">6: 20</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail2").css("background-image", 'url("/image/view/-/38010468/medRes/2/-/h/78/w/78/-/xmbk0jz/-/img-WDSU-Investigates-Scrap-metal-business-probed-after-parish-revenues-take-nose-dive.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay3" data-ajax-url="/pageFragment/view/htv-no/-/9854866/38010312/-/autoPlay/true/isNested/true/view/asTag/-/xc1pxnz?ahah=1">
+                <a href="/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010312" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink3">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail3"></div>
+                    <div class="teaserOverlayText teaserOverlayText3">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter3">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Monday Night: Rain is moving out and the sun shines Tuesday</div>
+                        <div class="teaserOverlayNextVideoLength">4: 00</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail3").css("background-image", 'url("/image/view/-/38010314/medRes/1/-/h/78/w/78/-/9wvscm/-/img-Monday-Night-Rain-is-moving-out-and-the-sun-shines-Tuesday.jpg")');
+            </script>
+        </div>
+                <div class="bottomWrap">
+                <div class="commentWrap">
+                    <a href="#comments" class="commentLink">
+                        <div class="comment">
+                            <div class="commentText">post a comment</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="spacer"></div>
+
+                <div class="description">
+                    <p>A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains.</p><div class="utilsHoriz">
+        <div class="utilsLike">
+                <ul>
+                        <li class="like">
+                            <div class="fb-share-button" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="button_count"></div>
+            </li>
+                    </ul>
+                </div>
+        <div class="utilsTwitter">
+                    <ul>
+                        <li class="twitter">
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-via="WDSU" data-related="WDSU" data-url="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                        </li>
+                    </ul>
+            </div>
+        <div class="utilsGoogle">
+                <!-- Place this tag where you want the +1 button to render. -->
+                <ul>
+                    <li>
+                        <div class="g-plusone" data-size="medium" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                    </li>
+                </ul>
+                <!-- Place this tag after the last +1 button tag. -->
+            </div>
+        <div class="utilsPinterest">
+                <ul>
+                    <li><a href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.wdsu.com%2fvideo%2fbuzz60%2fcouple-arrested-for-silly-string-fight-in-walmart%2f37880796&media=http%3a%2f%2fwww.wdsu.com%2fimage%2fview%2f-%2f37880798%2fmedRes%2f1%2f-%2fh2nqpwz%2f-%2fCouple-arrested-for-silly-string-fight-in-Walmart.jpg&description=A+couple+was+arrested+after+having+a+%24200+silly+string+fight+in+the+middle+of+a+Walmart.+Gillian+Pensavalle+(%40GillianWithaG)+explains." class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Share this on Pinterest!" alt="Pin It"></a></li>
+                </ul>
+            </div>
+        </div>
+
+<div class=clear></div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="rightWrap">
+            <div id="embedded1" class="ib-container" data-placement="embedded1" data-content-id="9854048">
+        <ul>
+        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation multisquare">
+                    <figcaption>
+                            <div class="caption adTab">
+                                Advertising</div>
+                        </figcaption>
+                    <div class=" rectangle">
+                        <div class="adObj dynamicAd" id="ad-151402-1455600084306" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"multisquare","size":"300x600,300x250,300x350","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"no_multisquare_300x600,300x250,300x350","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="multisquare">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-151402-1455600084306");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+<div class="relatedVideos">
+                    <div class="relatedTitle">RELATED</div>
+                    <div class="relatedVideoLeft">
+                        <div class="hidden"><a href="/video/buzz60/public-octopus-sex-event-canceled-over-cannibalism-fears/38003378" class="relatedVideoTeasableLink" title="">Public octopus sex event canceled over cannibalism fears</a></div>
+                        <a href="/video/buzz60/public-octopus-sex-event-canceled-over-cannibalism-fears/38003378" class="relatedVideoTeasableLink" title="">Public octopus sex event canceled over cannibalism fears</a><a href="/video/buzz60/public-octopus-sex-event-canceled-over-cannibalism-fears/38003378" class="relatedViewLink"><div class="relatedViewLink">VIEW</div></a></div>
+                    <div class="relatedVideoRight">
+                        <a href="/video/buzz60/public-octopus-sex-event-canceled-over-cannibalism-fears/38003378" class="relatedVideoTeasableLink" title=""><img 
+            src="/image/view/-/38003380/medRes/1/-/h/78/w/78/-/xhr1voz/-/Public-octopus-sex-event-canceled-over-cannibalism-fears.jpg"
+            alt="Public octopus sex event canceled over cannibalism fears"
+            title="Public octopus sex event canceled over cannibalism fears"
+            
+            />
+    </a></div>
+                </div>
+
+            </div>
+    </div>
+        </div>
+
+    <div id="videoSub">
+        <div class="videoSubOne">
+            <div class="ib-video-oon-ad-bottom">
+                    <div class="ib-oon-placeholder" data-predicate="ibsys.predicates.isOutOfNetwork" data-url="/pageFragment/view/htv-no/-/9854144/16398068/-/4hifmi?ahah=1"></div>
+
+</div>
+            <div id="embedded2" class="ib-container" data-placement="embedded2" data-content-id="9854050">
+        <ul>
+        <li>
+                                <!-- Tab Box -->
+    <div class="ib-collection ib-tabbox tabModule" data-content-id="9854052"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>More Video</div></div>
+    <ul id="tab-RxguphujP" class="ib-tabs ib-tabs-fill-width-false">
+                    <li><a href="#">Recommended</a></li>
+                    <li><a href="#">Local</a></li>
+                    <li><a href="#">National</a></li>
+                    <li><a href="#">Viral</a></li>
+                    <li><a href="#">Most Watched</a></li>
+                    </ul>
+                <div id="tab-panes-RxguphujP" class="ib-tab-panes clear">
+                   <div>
+                          <ul class="ib-collection asChild" data-content-id="9242558">
+            <li class="first item-0">
+                    <div id='taboola-below-player-thumbs'></div>
+                 <script>
+                     window._taboola = window._taboola || [];
+                     _taboola.push({mode:'horizontalx4', container:'taboola-below-player-thumbs', placement:'Below Player Thumbnails', target_type:'video'});
+                 </script>
+             </li>
+            </ul>
+
+        </div>
+                     <div>
+                          <div class="ib-collection carousel carousel138x92" data-content-id="9854062"
+    
+        id="carousel9854062"
+    >
+
+    <div class="carouselWrapper">
+            <div class="scrollable" id="scrollable9854062">
+                <div class="items" id="items9854062">
+                    <div class="slides">
+                        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/weather/video/monday-overnight-cooler-morning/38013840"/>
+<meta itemprop="datePublished" content="2016-02-15T10:50:00"/>
+    <meta itemprop="dateModified" content="2016-02-15T10:46:15"/>
+    <figure  class="ib-figure-image">
+            <a href="/weather/video/monday-overnight-cooler-morning/38013838"><img 
+            src="/image/view/-/38013840/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/bbqu1j/-/img-Monday-Overnight-Cooler-Morning.jpg"
+            alt="Monday Overnight Cooler Morning"
+            title="Monday Overnight: Cooler Morning"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/weather/video/monday-overnight-cooler-morning/38013838" class="endcapItemTitle" >
+                                                Monday Overnight: Cooler Morning</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010468"/>
+<meta itemprop="datePublished" content="2016-02-15T06:51:02"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:48:30"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010466"><img 
+            src="/image/view/-/38010468/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/jjm85l/-/img-WDSU-Investigates-Scrap-metal-business-probed-after-parish-revenues-take-nose-dive.jpg"
+            alt="WDSU Investigates Scrap metal business probed after parish revenues take nose dive"
+            title="WDSU Investigates: Scrap metal business probed after parish revenues take nose dive"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010466" class="endcapItemTitle" >
+                                                WDSU Investigates: Scrap metal business probed after parish revenues take nose dive</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/juvenile-jail-in-new-orleans-deals-with-overcrowding/38010386"/>
+<meta itemprop="datePublished" content="2016-02-15T06:45:23"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:45:01"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/juvenile-jail-in-new-orleans-deals-with-overcrowding/38010384"><img 
+            src="/image/view/-/38010386/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/udoa4cz/-/img-Juvenile-jail-in-New-Orleans-deals-with-overcrowding.jpg"
+            alt="Juvenile jail in New Orleans deals with overcrowding"
+            title="Juvenile jail in New Orleans deals with overcrowding"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/juvenile-jail-in-new-orleans-deals-with-overcrowding/38010384" class="endcapItemTitle" >
+                                                Juvenile jail in New Orleans deals with overcrowding</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010314"/>
+<meta itemprop="datePublished" content="2016-02-15T06:45:18"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:39:44"/>
+    <figure  class="ib-figure-image">
+            <a href="/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010312"><img 
+            src="/image/view/-/38010314/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/1omxx0/-/img-Monday-Night-Rain-is-moving-out-and-the-sun-shines-Tuesday.jpg"
+            alt="Monday Night Rain is moving out and the sun shines Tuesday"
+            title="Monday Night: Rain is moving out and the sun shines Tuesday"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010312" class="endcapItemTitle" >
+                                                Monday Night: Rain is moving out and the sun shines Tuesday</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/governor-and-lawmakers-make-60m-in-budget-cuts/38009284"/>
+<meta itemprop="datePublished" content="2016-02-15T05:57:42"/>
+    <meta itemprop="dateModified" content="2016-02-15T05:46:21"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/governor-and-lawmakers-make-60m-in-budget-cuts/38009282"><img 
+            src="/image/view/-/38009284/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/hqo24p/-/img-Governor-and-lawmakers-make-60M-in-budget-cuts.jpg"
+            alt="Governor and lawmakers make 60M in budget cuts"
+            title="Governor and lawmakers make $60M in budget cuts"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/governor-and-lawmakers-make-60m-in-budget-cuts/38009282" class="endcapItemTitle" >
+                                                Governor and lawmakers make $60M in budget cuts</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/plaquemines-parish-public-defenders-office-could-shut-down-due-to-lack-of-state-funding/38009160"/>
+<meta itemprop="datePublished" content="2016-02-15T05:56:48"/>
+    <meta itemprop="dateModified" content="2016-02-15T05:44:58"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/public-defenders-office-in-plaquemines-parish-could-shut-down-over-lack-of-state-funding/38009158"><img 
+            src="/image/view/-/38009160/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/m73vk4z/-/img2-Plaquemines-Parish-Public-Defender-s-Office-could-shut-down-due-to-lack-of-state-funding.jpg"
+            alt="Plaquemines Parish Public Defender s Office could shut down due to lack of state funding"
+            title="Plaquemines Parish Public Defender&#039;s Office could shut down due to lack of state funding"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/public-defenders-office-in-plaquemines-parish-could-shut-down-over-lack-of-state-funding/38009158" class="endcapItemTitle" >
+                                                Public Defender&#039;s Office in Plaquemines Parish could shut down over lack of state funding</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/train-trestle-fire-repairs-amtrack-and-freight-routes-redirected/38009132"/>
+<meta itemprop="datePublished" content="2016-02-15T05:45:08"/>
+    <meta itemprop="dateModified" content="2016-02-15T05:43:26"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/train-trestle-fire-under-repairs-amtrack-freight-routes-redirected/38009130"><img 
+            src="/image/view/-/38009132/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/jinrgrz/-/img-Train-trestle-fire-repairs-Amtrack-and-freight-routes-redirected.jpg"
+            alt="Train trestle fire repairs Amtrack and freight routes redirected"
+            title="Train trestle fire repairs; Amtrack and freight routes redirected"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/train-trestle-fire-under-repairs-amtrack-freight-routes-redirected/38009130" class="endcapItemTitle" >
+                                                Train trestle fire under repairs; Amtrack, freight routes redirected</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/free-trolley-transportation-available-for-gretna-senior-citizens/38009106"/>
+<meta itemprop="datePublished" content="2016-02-15T05:43:24"/>
+    <meta itemprop="dateModified" content="2016-02-15T05:42:34"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/free-trolley-transportation-available-for-gretna-senior-citizens/38009104"><img 
+            src="/image/view/-/38009106/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/13roynn/-/img-Free-trolley-transportation-available-for-Gretna-senior-citizens.jpg"
+            alt="Free trolley transportation available for Gretna senior citizens"
+            title="Free trolley transportation available for Gretna senior citizens"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/free-trolley-transportation-available-for-gretna-senior-citizens/38009104" class="endcapItemTitle" >
+                                                Free trolley transportation available for Gretna senior citizens</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/group-protests-recreational-development-at-the-fly/38007268"/>
+<meta itemprop="datePublished" content="2016-02-15T05:41:32"/>
+    <meta itemprop="dateModified" content="2016-02-15T04:27:32"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/group-protests-recreational-development-at-the-fly/38007266"><img 
+            src="/image/view/-/38007268/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/pfwgcuz/-/img-Group-protests-recreational-development-at-the-Fly.jpg"
+            alt="Group protests recreational development at the Fly"
+            title="Group protests recreational development at the Fly"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/group-protests-recreational-development-at-the-fly/38007266" class="endcapItemTitle" >
+                                                Group protests recreational development at the Fly</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/weather/video/monday-evening-rain-free-after-a-front/38008270"/>
+<meta itemprop="datePublished" content="2016-02-15T05:06:01"/>
+    <meta itemprop="dateModified" content="2016-02-15T05:03:09"/>
+    <figure  class="ib-figure-image">
+            <a href="/weather/video/monday-evening-rain-free-after-a-front/38008268"><img 
+            src="/image/view/-/38008270/medRes/3/-/h/92/maxh/92/maxw/138/w/138/-/15ajmus/-/img-Monday-evening-rain-free-after-a-front.jpg"
+            alt="Monday evening: rain free after a front"
+            title="Monday evening: rain free after a front"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/weather/video/monday-evening-rain-free-after-a-front/38008268" class="endcapItemTitle" >
+                                                Monday evening: rain free after a front</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/education-leaders-families-fight-for-causes-as-lawmakers-deal-with-budget-shortfall/38002980"/>
+<meta itemprop="datePublished" content="2016-02-15T11:54:18"/>
+    <meta itemprop="dateModified" content="2016-02-15T11:50:59"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/education-leaders-families-fight-for-causes-as-lawmakers-deal-with-budget-shortfall/38002978"><img 
+            src="/image/view/-/38002980/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/h7es79z/-/img-Education-leaders-families-fight-for-causes-as-lawmakers-deal-with-budget-shortfall.jpg"
+            alt="Education leaders families fight for causes as lawmakers deal with budget shortfall"
+            title="Education leaders, families fight for causes as lawmakers deal with budget shortfall"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/education-leaders-families-fight-for-causes-as-lawmakers-deal-with-budget-shortfall/38002978" class="endcapItemTitle" >
+                                                Education leaders, families fight for causes as lawmakers deal with budget shortfall</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/students-and-parents-how-to-pay-for-college-without-tops/38000606"/>
+<meta itemprop="datePublished" content="2016-02-15T08:55:43"/>
+    <meta itemprop="dateModified" content="2016-02-15T08:50:24"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/students-and-parents-how-to-pay-for-college-without-tops/38000604"><img 
+            src="/image/view/-/38000606/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/11223nnz/-/img-Students-and-parents-How-to-pay-for-college-without-TOPS.jpg"
+            alt="Students and parents How to pay for college without TOPS"
+            title="Students and parents: How to pay for college without TOPS"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/students-and-parents-how-to-pay-for-college-without-tops/38000604" class="endcapItemTitle" >
+                                                Students and parents: How to pay for college without TOPS</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div>
+                </div>
+            </div>
+             <div class="clear"></div>
+            <div>
+                <div class="carouselNav">
+                    <div class="prevArrow"><a class="prev browse left " id="prev9854062"></a></div>
+                        <div class="nextArrow"><a class="next browse right " id="next9854062"></a></div>
+                    </div>
+                <div class="slidePageNumbers">
+                    <span class="navi bottom_nav">
+                        <span href="#0" class="active">
+                                1-4 of 12</span>
+                        <span href="#1" >
+                                5-8 of 12</span>
+                        <span href="#2" >
+                                9-12 of 12</span>
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="clear"></div>
+    <!--end container for the carousel -->
+    <script>
+        $ib(document).ready(function() {
+            try {
+                $ib("#scrollable" +9854062).scrollable().navigator();
+            } catch (err) {
+                console.log('carousel:' + err);
+            }
+            ibsys.tabbox.enableVisualRevenue(9854062,"carousel");
+        });
+    </script>
+    <script>
+
+    </script>
+</div>
+                     <div>
+                          <div class="ib-collection carousel carousel138x92" data-content-id="13002730"
+    
+        id="carousel13002730"
+    >
+
+    <div class="carouselWrapper">
+            <div class="scrollable" id="scrollable13002730">
+                <div class="items" id="items13002730">
+                    <div class="slides">
+                        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/38011384"/>
+<meta itemprop="datePublished" content="2016-02-15T07:54:04"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/hillary-barks-like-a-dog-to-slam-gop/38011184"><img 
+            src="/image/view/-/38011384/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/csj0e3z/-/Clinton-barking.jpg"
+            alt="Clinton barking"
+            title="Clinton barking"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/hillary-barks-like-a-dog-to-slam-gop/38011184" class="endcapItemTitle" >
+                                                Hillary barks like a dog to slam GOP</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/38011026"/>
+<meta itemprop="datePublished" content="2016-02-15T07:29:46"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/george-w-bush-labels-are-for-soup-cans/38010470"><img 
+            src="/image/view/-/38011026/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/bjf7m3/-/GW-at-Jeb-rally.jpg"
+            alt="GW at Jeb rally"
+            title="GW at Jeb rally"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/george-w-bush-labels-are-for-soup-cans/38010470" class="endcapItemTitle" >
+                                                George W. Bush: &#039;Labels are for soup cans&#039;</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/38010450"/>
+<meta itemprop="datePublished" content="2016-02-15T06:47:38"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/supreme-court-nominee-showdown-looms/38009154"><img 
+            src="/image/view/-/38010450/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/2n2gphz/-/Supreme-Court-battle.jpg"
+            alt="Supreme Court battle"
+            title="Supreme Court battle"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/supreme-court-nominee-showdown-looms/38009154" class="endcapItemTitle" >
+                                                Supreme court nominee showdown looms</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/NYPD-Spitzer-investigation/38005880"/>
+<meta itemprop="datePublished" content="2016-02-15T03:09:15"/>
+    <meta itemprop="dateModified" content="2016-02-15T03:08:55"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/eliot-spitzer-accuser-tells-nypd-she-wont-press-charges/38005186"><img 
+            src="/image/view/-/38005880/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/sebebs/-/NYPD-Spitzer-investigation-jpg.jpg"
+            alt="NYPD_Spitzer_investigation"
+            title="NYPD_Spitzer_investigation"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/eliot-spitzer-accuser-tells-nypd-she-wont-press-charges/38005186" class="endcapItemTitle" >
+                                                Eliot Spitzer accuser tells NYPD she won&#039;t press charges</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/38005064"/>
+<meta itemprop="datePublished" content="2016-02-15T02:06:41"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/trump-cruz-is-a-lair-very-unstable/38004956"><img 
+            src="/image/view/-/38005064/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/1451bdp/-/Trump-attacks-Cruz.jpg"
+            alt="Trump attacks Cruz"
+            title="Trump attacks Cruz"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/trump-cruz-is-a-lair-very-unstable/38004956" class="endcapItemTitle" >
+                                                Trump: Cruz is a liar, ‘very unstable’</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Couple-celebrating-80-years/38004438"/>
+<meta itemprop="datePublished" content="2016-02-15T01:30:25"/>
+    <meta itemprop="dateModified" content="2016-02-15T01:29:11"/>
+    <figure  class="ib-figure-image">
+            <a href="/102yearold-couple-married-for-80-years/38004018"><img 
+            src="/image/view/-/38004438/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/kqwf47/-/Couple-celebrating-80-years-JPG.jpg"
+            alt="Couple celebrating 80 years"
+            title="Couple celebrating 80 years"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/102yearold-couple-married-for-80-years/38004018" class="endcapItemTitle" >
+                                                102-year-old couple married for 80 years</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Blow-darts/38003540"/>
+<meta itemprop="datePublished" content="2016-02-15T12:37:02"/>
+    <meta itemprop="dateModified" content="2016-02-15T12:37:26"/>
+    <figure  class="ib-figure-image">
+            <a href="/national/pedestrians-on-golden-gate-bridge-hit-by-blow-dart/38002922"><img 
+            src="/image/view/-/38003540/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/1t6p13/-/Blow-darts-jpg.jpg"
+            alt="Blow darts"
+            title="Blow darts"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/national/pedestrians-on-golden-gate-bridge-hit-by-blow-dart/38002922" class="endcapItemTitle" >
+                                                Pedestrians on Golden Gate Bridge hit by blow dart </a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/CIA-director-John-Brennan/38003518"/>
+<meta itemprop="datePublished" content="2016-02-15T12:33:46"/>
+    <meta itemprop="dateModified" content="2016-02-15T12:33:15"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/cia-director-isis-attempts-to-attack-us-inevitable/38001360"><img 
+            src="/image/view/-/38003518/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/r0e3ek/-/CIA-director-John-Brennan-jpg.jpg"
+            alt="CIA_director_John_Brennan"
+            title="CIA_director_John_Brennan"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/cia-director-isis-attempts-to-attack-us-inevitable/38001360" class="endcapItemTitle" >
+                                                CIA director: ISIS attempts to attack US &#039;inevitable&#039;</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Delhi-traffic/38001676"/>
+<meta itemprop="datePublished" content="2016-02-15T10:24:59"/>
+    <meta itemprop="dateModified" content="2016-02-15T10:24:35"/>
+    <figure  class="ib-figure-image">
+            <a href="/national/delhi-morning-commute-streets-of-chaos/38001458"><img 
+            src="/image/view/-/38001676/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/i693yxz/-/Delhi-traffic-JPG.jpg"
+            alt="Delhi traffic"
+            title="Delhi traffic"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/national/delhi-morning-commute-streets-of-chaos/38001458" class="endcapItemTitle" >
+                                                Delhi morning commute: Streets of chaos</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Jeb-Bush-George-W-Bush/38000004"/>
+<meta itemprop="datePublished" content="2016-02-15T08:04:32"/>
+    <meta itemprop="dateModified" content="2016-02-15T08:05:19"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/george-w-bush-to-campaign-for-brother/37999612"><img 
+            src="/image/view/-/38000004/highRes/3/-/h/92/maxh/92/maxw/138/w/138/-/ynavvx/-/Jeb-Bush--George-W-Bush-jpg.jpg"
+            alt="Jeb Bush, George W Bush"
+            title="Jeb Bush, George W Bush"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/george-w-bush-to-campaign-for-brother/37999612" class="endcapItemTitle" >
+                                                George W. Bush to campaign for brother</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/antonin-scalia/37983240"/>
+<meta itemprop="datePublished" content="2016-02-13T05:40:06"/>
+    <meta itemprop="dateModified" content="2016-02-13T05:38:58"/>
+    <figure  class="ib-figure-image">
+            <a href="/battle-lines-drawn-over-scalia-replacement/37998908"><img 
+            src="/image/view/-/37983240/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/iqj6j4/-/Antonin-Scalia-from-CNN-jpg.jpg"
+            alt="Antonin Scalia"
+            title="Antonin Scalia "
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/battle-lines-drawn-over-scalia-replacement/37998908" class="endcapItemTitle" >
+                                                Battle lines drawn over Scalia replacement</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/37998024"/>
+<meta itemprop="datePublished" content="2016-02-15T03:31:07"/>
+    <figure  class="ib-figure-image">
+            <a href="/politics/candidates-weigh-in-on-scalias-replacement/37997888"><img 
+            src="/image/view/-/37998024/highRes/2/-/h/92/maxh/92/maxw/138/w/138/-/vm5xbz/-/Rubio-justice.jpg"
+            alt="Rubio justice"
+            title="Rubio justice"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/politics/candidates-weigh-in-on-scalias-replacement/37997888" class="endcapItemTitle" >
+                                                Candidates weigh in on Scalia’s replacement</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div>
+                </div>
+            </div>
+             <div class="clear"></div>
+            <div>
+                <div class="carouselNav">
+                    <div class="prevArrow"><a class="prev browse left " id="prev13002730"></a></div>
+                        <div class="nextArrow"><a class="next browse right " id="next13002730"></a></div>
+                    </div>
+                <div class="slidePageNumbers">
+                    <span class="navi bottom_nav">
+                        <span href="#0" class="active">
+                                1-4 of 12</span>
+                        <span href="#1" >
+                                5-8 of 12</span>
+                        <span href="#2" >
+                                9-12 of 12</span>
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="clear"></div>
+    <!--end container for the carousel -->
+    <script>
+        $ib(document).ready(function() {
+            try {
+                $ib("#scrollable" +13002730).scrollable().navigator();
+            } catch (err) {
+                console.log('carousel:' + err);
+            }
+            ibsys.tabbox.enableVisualRevenue(13002730,"carousel");
+        });
+    </script>
+    <script>
+
+    </script>
+</div>
+                     <div>
+                          <div class="ib-collection carousel carousel138x92 carousel viralVideo" data-content-id="9854064"
+    
+        id="carousel9854064"
+    >
+
+    <div class="carouselWrapper">
+            <div class="scrollable" id="scrollable9854064">
+                <div class="items" id="items9854064">
+                    <div class="slides">
+                        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wapt.com/news/murrah-high-school-teacher-looks-like-16th-president/37969774"/>
+<meta itemprop="datePublished" content="2016-02-12T05:37:50"/>
+    <meta itemprop="dateModified" content="2016-02-12T05:28:13"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/high-school-teacher-looks-like-16th-president/37999890"><img 
+            src="/image/view/-/37969774/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/7jra0v/-/img-Murrah-High-School-teacher-looks-like-16th-President.jpg"
+            alt="Murrah High School teacher looks like 16th President"
+            title="Murrah High School teacher looks like 16th President"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/high-school-teacher-looks-like-16th-president/37999890" class="endcapItemTitle" >
+                                                High School teacher looks like 16th President</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.kcci.com/sports/wrestler-with-one-leg-advances-to-state/37988486"/>
+<meta itemprop="datePublished" content="2016-02-13T11:35:37"/>
+    <meta itemprop="dateModified" content="2016-02-13T11:31:43"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/wrestler-with-one-leg-advances-to-state/37999878"><img 
+            src="/image/view/-/37988486/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/b6v2arz/-/img-Wrestler-with-one-leg-advances-to-state.jpg"
+            alt="Wrestler with one leg advances to state"
+            title="Wrestler with one leg advances to state"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/wrestler-with-one-leg-advances-to-state/37999878" class="endcapItemTitle" >
+                                                Wrestler with one leg advances to state</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wisn.com/news/shorewood-woman-starts-digital-village-to-help-others/37973142"/>
+<meta itemprop="datePublished" content="2016-02-12T10:11:33"/>
+    <meta itemprop="dateModified" content="2016-02-12T08:50:56"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/woman-starts-digital-village-to-help-others/37999820"><img 
+            src="/image/view/-/37973142/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/8e8v8sz/-/img-Shorewood-woman-starts-digital-village-to-help-others.jpg"
+            alt="Shorewood woman starts digital village to help others"
+            title="Shorewood woman starts digital village to help others"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/woman-starts-digital-village-to-help-others/37999820" class="endcapItemTitle" >
+                                                Woman starts digital village to help others</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wmur.com/news/campaign-signs-recycled-to-help-people-with-disabilities/37949916"/>
+<meta itemprop="datePublished" content="2016-02-11T05:20:06"/>
+    <meta itemprop="dateModified" content="2016-02-11T05:15:58"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/campaign-signs-recycled-to-help-people-with-disabilities/37964654"><img 
+            src="/image/view/-/37949916/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/ypndn/-/img-Campaign-signs-recycled-to-help-people-with-disabilities.jpg"
+            alt="Campaign signs recycled to help people with disabilities"
+            title="Campaign signs recycled to help people with disabilities"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/campaign-signs-recycled-to-help-people-with-disabilities/37964654" class="endcapItemTitle" >
+                                                Campaign signs recycled to help people with disabilities</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wcvb.com/news/new-technology-being-called-uber-for-kids/37951430"/>
+<meta itemprop="datePublished" content="2016-02-11T06:58:10"/>
+    <meta itemprop="dateModified" content="2016-02-11T06:31:00"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/new-technology-being-called-uber-for-kids/37964564"><img 
+            src="/image/view/-/37951430/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/143w3g7z/-/img-New-technology-being-called-Uber-for-kids.jpg"
+            alt="New technology being called &#039;Uber for kids&#039;"
+            title="New technology being called &#039;Uber for kids&#039;"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/new-technology-being-called-uber-for-kids/37964564" class="endcapItemTitle" >
+                                                New technology being called &#039;Uber for kids&#039;</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.kcra.com/news/music-therapy-benefiting-babies-at-sutter-hospital/37898674"/>
+<meta itemprop="datePublished" content="2016-02-09T10:10:45"/>
+    <meta itemprop="dateModified" content="2016-02-09T09:05:54"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/music-therapy-benefiting-babies-in-intensive-care-unit/37964552"><img 
+            src="/image/view/-/37898674/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/j2tihsz/-/img-Music-therapy-benefiting-babies-at-Sutter-Hospital.jpg"
+            alt="Music therapy benefiting babies at Sutter Hospital"
+            title="Music therapy benefiting babies at Sutter Hospital"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/music-therapy-benefiting-babies-in-intensive-care-unit/37964552" class="endcapItemTitle" >
+                                                Music therapy benefiting babies in intensive care unit</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wcvb.com/news/worker-suspended-after-heated-confrontation-over-snowplowing/37929672"/>
+<meta itemprop="datePublished" content="2016-02-10T05:33:29"/>
+    <meta itemprop="dateModified" content="2016-02-10T05:32:33"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/worker-suspended-after-heated-showdown-with-snow-plow/37964570"><img 
+            src="/image/view/-/37929672/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/rki20k/-/img-Worker-suspended-after-heated-confrontation-over-snowplowing.jpg"
+            alt="Worker suspended after heated confrontation over snowplowing"
+            title="Worker suspended after heated confrontation over snowplowing"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/worker-suspended-after-heated-showdown-with-snow-plow/37964570" class="endcapItemTitle" >
+                                                Worker suspended after heated showdown with snow plow</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wlwt.com/news/natalie-clark-530-pkg/37845732"/>
+<meta itemprop="datePublished" content="2016-02-05T06:08:33"/>
+    <meta itemprop="dateModified" content="2016-02-05T04:50:46"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/teacher-uses-olympic-dream-to-teach-students-about-hard-work/37964474"><img 
+            src="/image/view/-/37845732/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/15eu0raz/-/img-Teacher-uses-Olympic-dream-to-teach-students-about-hard-work.jpg"
+            alt="natalie clark 530 pkg"
+            title="natalie clark 530 pkg"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/teacher-uses-olympic-dream-to-teach-students-about-hard-work/37964474" class="endcapItemTitle" >
+                                                Teacher uses Olympic dream to teach students about hard work</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wtae.com/news/37887934"/>
+<meta itemprop="datePublished" content="2016-02-08T05:16:58"/>
+    <meta itemprop="dateModified" content="2016-02-08T05:07:29"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/tiny-house-big-problem-womans-home-too-small-for-state-laws/37964506"><img 
+            src="/image/view/-/37887934/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/6l6qbb/-/img-TINY-HOUSE.jpg"
+            alt=""
+            title=""
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/tiny-house-big-problem-womans-home-too-small-for-state-laws/37964506" class="endcapItemTitle" >
+                                                Tiny house, big problem: Woman&#039;s home too small for state laws</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/missouri-trooper-pulls-woman-from-burning-car-after-crash-kmbc/37962412"/>
+<meta itemprop="datePublished" content="2016-02-12T10:25:10"/>
+    <meta itemprop="dateModified" content="2016-02-12T10:21:00"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/trooper-pulls-woman-from-burning-car-after-crash/37962150"><img 
+            src="/image/view/-/37962412/highRes/1/-/h/92/maxh/92/maxw/138/w/138/-/1iih8rz/-/Img-Trooper-pulls-woman-from-burning-car-after-crash.jpg"
+            alt="Missouri trooper pulls woman from burning car after crash KMBC"
+            title="Missouri trooper pulls woman from burning car after crash KMBC"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/trooper-pulls-woman-from-burning-car-after-crash/37962150" class="endcapItemTitle" >
+                                                Missouri trooper pulls woman from burning car after crash</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/avalanche-dogs-ko/37962410"/>
+<meta itemprop="datePublished" content="2016-02-12T10:26:29"/>
+    <meta itemprop="dateModified" content="2016-02-12T10:20:37"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/new-mexicos-avalanche-pups-offer-only-hope-to-trapped-skiers/37962158"><img 
+            src="/image/view/-/37962410/highRes/1/-/h/92/maxh/92/maxw/138/w/138/-/9ktgatz/-/Img-New-Mexico-s-avalanche-pups-offer-only-hope-to-trapped-skiers.jpg"
+            alt="Avalanche Dogs KO"
+            title="Avalanche Dogs KO"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/new-mexicos-avalanche-pups-offer-only-hope-to-trapped-skiers/37962158" class="endcapItemTitle" >
+                                                New Mexico&#039;s avalanche pups offer only hope to trapped skiers</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/museum-talks-about-discovery-of-priceless-painting-in-storage-kmbc/37962414"/>
+<meta itemprop="datePublished" content="2016-02-12T10:22:04"/>
+    <meta itemprop="dateModified" content="2016-02-12T10:21:21"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/museum-talks-about-discovery-of-priceless-painting-in-storage/37962148"><img 
+            src="/image/view/-/37962414/highRes/1/-/h/92/maxh/92/maxw/138/w/138/-/6irgsa/-/Img-Museum-talks-about-discovery-of-priceless-painting-in-storage.jpg"
+            alt="Museum talks about discovery of priceless painting in storage KMBC"
+            title="Museum talks about discovery of priceless painting in storage KMBC"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/museum-talks-about-discovery-of-priceless-painting-in-storage/37962148" class="endcapItemTitle" >
+                                                Museum talks about discovery of priceless painting in storage</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div>
+                </div>
+            </div>
+             <div class="clear"></div>
+            <div>
+                <div class="carouselNav">
+                    <div class="prevArrow"><a class="prev browse left " id="prev9854064"></a></div>
+                        <div class="nextArrow"><a class="next browse right " id="next9854064"></a></div>
+                    </div>
+                <div class="slidePageNumbers">
+                    <span class="navi bottom_nav">
+                        <span href="#0" class="active">
+                                1-4 of 12</span>
+                        <span href="#1" >
+                                5-8 of 12</span>
+                        <span href="#2" >
+                                9-12 of 12</span>
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="clear"></div>
+    <!--end container for the carousel -->
+    <script>
+        $ib(document).ready(function() {
+            try {
+                $ib("#scrollable" +9854064).scrollable().navigator();
+            } catch (err) {
+                console.log('carousel:' + err);
+            }
+            ibsys.tabbox.enableVisualRevenue(9854064,"carousel");
+        });
+    </script>
+    <script>
+
+    </script>
+</div>
+                     <div>
+                          <div class="ib-collection carousel carousel138x92 carousel viralVideo" data-content-id="15662088"
+    
+        id="carousel15662088"
+    >
+
+    <div class="carouselWrapper">
+            <div class="scrollable" id="scrollable15662088">
+                <div class="items" id="items15662088">
+                    <div class="slides">
+                        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/louisiana-treasurer-kennedy-issues-response-to-govs-speech-on-historic-budget-crisis/37961864"/>
+<meta itemprop="datePublished" content="2016-02-12T10:01:45"/>
+    <meta itemprop="dateModified" content="2016-02-12T09:42:05"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/louisiana-treasurer-kennedy-issues-response-to-govs-speech-on-historic-budget-crisis/37961862"><img 
+            src="/image/view/-/37961864/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/xcad5v/-/img-Louisiana-Treasurer-Kennedy-issues-response-to-Gov-s-speech-on-historic-budget-crisis.jpg"
+            alt="Louisiana Treasurer Kennedy issues response to Gov s speech on historic budget crisis"
+            title="Louisiana Treasurer Kennedy issues response to Gov.&#039;s speech on historic budget crisis"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/louisiana-treasurer-kennedy-issues-response-to-govs-speech-on-historic-budget-crisis/37961862" class="endcapItemTitle" >
+                                                Louisiana Treasurer Kennedy issues response to Gov.&#039;s speech on historic budget crisis</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/weather/video/sunday-night-videocast-scattered-rain-storms-monday-a-few-severe-storms-possible/37997430"/>
+<meta itemprop="datePublished" content="2016-02-14T11:49:43"/>
+    <meta itemprop="dateModified" content="2016-02-14T11:47:35"/>
+    <figure  class="ib-figure-image">
+            <a href="/weather/video/sunday-night-videocast-scattered-rain-storms-monday-a-few-severe-storms-possible/37997428"><img 
+            src="/image/view/-/37997430/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/4u3e43z/-/img-Sunday-Night-Videocast-Scattered-rain-storms-Monday-A-few-severe-storms-possible.jpg"
+            alt="Sunday Night Videocast Scattered rain storms Monday A few severe storms possible"
+            title="Sunday Night Videocast:  Scattered rain &amp; storms Monday; A few severe storms possible"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/weather/video/sunday-night-videocast-scattered-rain-storms-monday-a-few-severe-storms-possible/37997428" class="endcapItemTitle" >
+                                                Sunday Night Videocast:  Scattered rain &amp; storms Monday; A few severe storms possible</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010468"/>
+<meta itemprop="datePublished" content="2016-02-15T06:51:02"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:48:30"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010466"><img 
+            src="/image/view/-/38010468/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/jjm85l/-/img-WDSU-Investigates-Scrap-metal-business-probed-after-parish-revenues-take-nose-dive.jpg"
+            alt="WDSU Investigates Scrap metal business probed after parish revenues take nose dive"
+            title="WDSU Investigates: Scrap metal business probed after parish revenues take nose dive"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010466" class="endcapItemTitle" >
+                                                WDSU Investigates: Scrap metal business probed after parish revenues take nose dive</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010314"/>
+<meta itemprop="datePublished" content="2016-02-15T06:45:18"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:39:44"/>
+    <figure  class="ib-figure-image">
+            <a href="/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010312"><img 
+            src="/image/view/-/38010314/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/1omxx0/-/img-Monday-Night-Rain-is-moving-out-and-the-sun-shines-Tuesday.jpg"
+            alt="Monday Night Rain is moving out and the sun shines Tuesday"
+            title="Monday Night: Rain is moving out and the sun shines Tuesday"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/weather/video/monday-night-rain-is-moving-out-and-the-sun-shines-tuesday/38010312" class="endcapItemTitle" >
+                                                Monday Night: Rain is moving out and the sun shines Tuesday</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div><div>
+                            <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wapt.com/news/murrah-high-school-teacher-looks-like-16th-president/37969774"/>
+<meta itemprop="datePublished" content="2016-02-12T05:37:50"/>
+    <meta itemprop="dateModified" content="2016-02-12T05:28:13"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/high-school-teacher-looks-like-16th-president/37999890"><img 
+            src="/image/view/-/37969774/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/7jra0v/-/img-Murrah-High-School-teacher-looks-like-16th-President.jpg"
+            alt="Murrah High School teacher looks like 16th President"
+            title="Murrah High School teacher looks like 16th President"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/high-school-teacher-looks-like-16th-president/37999890" class="endcapItemTitle" >
+                                                High School teacher looks like 16th President</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.kcci.com/sports/wrestler-with-one-leg-advances-to-state/37988486"/>
+<meta itemprop="datePublished" content="2016-02-13T11:35:37"/>
+    <meta itemprop="dateModified" content="2016-02-13T11:31:43"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/wrestler-with-one-leg-advances-to-state/37999878"><img 
+            src="/image/view/-/37988486/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/b6v2arz/-/img-Wrestler-with-one-leg-advances-to-state.jpg"
+            alt="Wrestler with one leg advances to state"
+            title="Wrestler with one leg advances to state"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/wrestler-with-one-leg-advances-to-state/37999878" class="endcapItemTitle" >
+                                                Wrestler with one leg advances to state</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wisn.com/news/shorewood-woman-starts-digital-village-to-help-others/37973142"/>
+<meta itemprop="datePublished" content="2016-02-12T10:11:33"/>
+    <meta itemprop="dateModified" content="2016-02-12T08:50:56"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/woman-starts-digital-village-to-help-others/37999820"><img 
+            src="/image/view/-/37973142/medRes/1/-/h/92/maxh/92/maxw/138/w/138/-/8e8v8sz/-/img-Shorewood-woman-starts-digital-village-to-help-others.jpg"
+            alt="Shorewood woman starts digital village to help others"
+            title="Shorewood woman starts digital village to help others"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/woman-starts-digital-village-to-help-others/37999820" class="endcapItemTitle" >
+                                                Woman starts digital village to help others</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+<div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wmur.com/news/campaign-signs-recycled-to-help-people-with-disabilities/37949916"/>
+<meta itemprop="datePublished" content="2016-02-11T05:20:06"/>
+    <meta itemprop="dateModified" content="2016-02-11T05:15:58"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/campaign-signs-recycled-to-help-people-with-disabilities/37964654"><img 
+            src="/image/view/-/37949916/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/ypndn/-/img-Campaign-signs-recycled-to-help-people-with-disabilities.jpg"
+            alt="Campaign signs recycled to help people with disabilities"
+            title="Campaign signs recycled to help people with disabilities"
+            
+            />
+    <span class="tagOverlay tagOverlay-video"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        <div class="caption" itemprop="caption">
+                                        <a href="/news/campaign-signs-recycled-to-help-people-with-disabilities/37964654" class="endcapItemTitle" >
+                                                Campaign signs recycled to help people with disabilities</a>
+                                        </div>
+                                </figcaption>
+                </div>
+        </figure>
+    </div>
+</div>
+                </div>
+            </div>
+             <div class="clear"></div>
+            <div>
+                <div class="carouselNav">
+                    <div class="prevArrow"><a class="prev browse left " id="prev15662088"></a></div>
+                        <div class="nextArrow"><a class="next browse right " id="next15662088"></a></div>
+                    </div>
+                <div class="slidePageNumbers">
+                    <span class="navi bottom_nav">
+                        <span href="#0" class="active">
+                                1-4 of 8</span>
+                        <span href="#1" >
+                                5-8 of 8</span>
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="clear"></div>
+    <!--end container for the carousel -->
+    <script>
+        $ib(document).ready(function() {
+            try {
+                $ib("#scrollable" +15662088).scrollable().navigator();
+            } catch (err) {
+                console.log('carousel:' + err);
+            }
+            ibsys.tabbox.enableVisualRevenue(15662088,"carousel");
+        });
+    </script>
+    <script>
+
+    </script>
+</div>
+                     </div>
+            </div>
+<script>
+        ibsys.tabbox.init('RxguphujP', false);
+        </script>
+
+    </li>
+                        </ul>
+    </div>
+<a name="comments"></a>
+            <div class="commentThread clear">
+            <div class="disqus_comments">
+        <h3>Comments</h3>
+        <div class="disclaimer">
+                The views expressed are not those of this site, this station or its affiliated companies. By posting your comments you agree to accept our terms of use.</div>
+        <div id="disqus_thread"></div>
+        <script>
+            var disqus_shortname = 'wdsu-disqus';
+            var disqus_identifier = '37880796';
+            var disqus_url = 'http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796';
+            var disqus_developer = 0;
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+
+</div>
+    </div>
+        <div class="videoSubDiv"></div>
+        <div class="videoSubTwo">
+            <div id="embedded3" class="ib-container" data-placement="embedded3" data-content-id="9854054">
+        <ul>
+        <li>
+                                <!-- Tab Box -->
+    <div class="ib-collection ib-tabbox tabModule box blurbD" data-content-id="9853864"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Most Popular</div></div>
+    <ul id="tab-QyAurhujP" class="ib-tabs ib-tabs-fill-width-false">
+                    <li>
+                                <a data-ajax-url="/pageFragment/view/htv-no/-/9854144/15390720/-/colConfig/hc%253D9853864%252C26249792/view/tab/-/10lmsroz?ahah=1&random=1455600085771">
+                                    Videos</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-no/-/9854144/15390718/-/colConfig/hc%253D9853864%252C26249792/view/tab/-/82991tz?ahah=1&random=1455600085771">
+                                    Slideshows</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-no/-/9854144/15390716/-/colConfig/hc%253D9853864%252C26249792/view/tab/-/11yulip?ahah=1&random=1455600085771">
+                                    Stories</a>
+                            </li>
+                            </ul>
+                <div id="tab-panes-QyAurhujP" class="ib-tab-panes clear">
+	                <div style="display:block"></div>
+	                <div></div>
+	                <div></div>
+	                </div>
+            </div>
+<script>
+        ibsys.tabbox.init('QyAurhujP', true);
+        </script>
+
+    </li>
+                        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation square">
+                    <figcaption>
+                            <div class="caption adTab">
+                                Advertising</div>
+                        </figcaption>
+                    <div class=" rectangle">
+                        <div class="adObj dynamicAd" id="ad-151406-1455600085775" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"square","size":"300x250,300x350","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"no_square_300x250,300x350","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="square">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-151406-1455600085775");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+</div>
+        <div class="utilsFloat absolute">
+            <div class="utilsLike">
+                    <ul>
+                            <li class="like">
+                                <div class="fb-share-button" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="box_count"></div>
+                                    </li>
+                        </ul>
+                    </div>
+            <div class="utilsTwitter">
+                    <ul>
+                        <li class="twitter">
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-via="WDSU" data-related="WDSU" data-count="vertical" data-url="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                        </li>
+                    </ul>
+                </div>
+            <div class="utilsGoogle">
+                    <ul>
+                        <li class="google">
+                            <div class="g-plusone" data-size="tall" data-href="http://www.wdsu.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    </div>
+
+</li>
+                </ul>
+    </div>
+<div id="bottomWide" class="ib-container" data-placement="bottomWide" data-content-id="9854060">
+        <ul>
+        <li>
+                                <div class="ib-collection travellingHomepage" data-content-id="9853800"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Latest from WDSU 6 News</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack headlineStack flyoutLinks" data-content-id="9853802"
+    >
+
+    <ul>
+            <li class="first item-0" >
+                    <a href="/news/9853778" class="teasableLink news " title="News">News</a></li>
+            <li class="inner item-1" >
+                    <a href="/weather" class="teasableLink weather " title="Weather">Weather</a></li>
+            <li class="inner item-2" >
+                    <a href="http://ulocal.wdsu.com/home" class="teasableLink ulocal " title="u local">u local</a></li>
+            <li class="last item-3" >
+                    <a href="/tv/9855238" class="teasableLink tv " title="On TV">On TV</a></li>
+            </ul>
+    </div>
+<!-- Blurb Box -->
+    <div class="ib-collection box blurbG" data-content-id="9852892"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Featured</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.wdsu.com/news/local-da-state-auditors-target-scrap-metal-collection-contract-in-st-bernard/38010162"/>
+<meta itemprop="headline" content="Local DA, state auditors target scrap metal collection contract in St. Bernard"/>
+        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/news/local-news/new-orleans/wdsu-investigates-scrap-metal-business-probed-after-parish-revenues-take-nose-dive/38010468"/>
+<meta itemprop="datePublished" content="2016-02-15T06:51:02"/>
+    <meta itemprop="dateModified" content="2016-02-15T06:48:30"/>
+    <figure  class="ib-figure-image">
+            <a href="/news/local-da-state-auditors-target-scrap-metal-collection-contract-in-st-bernard/38010162"><img 
+            src="/image/view/-/38010468/medRes/2/-/h/92/maxh/92/maxw/138/w/138/-/jjm85l/-/img-WDSU-Investigates-Scrap-metal-business-probed-after-parish-revenues-take-nose-dive.jpg"
+            alt="WDSU Investigates Scrap metal business probed after parish revenues take nose dive"
+            title="WDSU Investigates: Scrap metal business probed after parish revenues take nose dive"
+            
+            />
+    <span class="tagOverlay tagOverlay-articlewithvideo"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        </figcaption>
+                </div>
+        </figure>
+    </div><h3 class="teaserTitle">
+                <a href="/news/local-da-state-auditors-target-scrap-metal-collection-contract-in-st-bernard/38010162" title="Local DA, state auditors target scrap metal collection contract in St. Bernard" class="teasableLink " >
+                Local DA, state auditors target scrap metal collection contract in St. Bernard</a>
+
+            <time pubdate datetime="2016-02-15T22:17:58-0600">
+            <span class="time timestamp">
+                2hr</span>
+        </time>
+    </h3>
+        <span class="clear"></span>
+        </div>
+</li>
+            </ul>
+    <span class="moreLink">
+                <a href="/news" class="moreLink" title="WATCH">WATCH</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(9852892);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(9852892,"blurb");
+        });
+    </script>
+<!-- Blurb Box -->
+    <div class="ib-collection box travellingWeather" data-content-id="9853804"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Weather</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="dynWx" id="YPR2rhuj8" data-base="/pageFragment/wxbyzip/htv-no/-/9854976/9854984/-/view/asTeaser/-/yo6vhmz?ahah=1">
+		<div class="spinner"></div>
+	</div>
+	<script>
+		ibsys.hwx.addWidget('YPR2rhuj8');
+	</script>
+</li>
+            <li class="inner item-1" >
+                    <div class="SevereWeatherLink ">
+           <a href="/weather/alerts">Alerts&#32;<span class="alertCount">(4)</span>
+           </a></div>
+
+</li>
+            <li class="last item-2" >
+                    <a href="/weather/radar" class="teasableLink radar " title="Radar">Radar</a></li>
+            </ul>
+    <span class="moreLink">
+                <a href="/weather" class="moreLink" title="MORE">MORE</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(9853804);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(9853804,"blurb");
+        });
+    </script>
+<!-- Blurb Box -->
+    <div class="ib-collection box threeColumn last latestHeadlines blurbD" data-content-id="9852894"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Latest Headlines</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.wdsu.com/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150"/>
+<meta itemprop="headline" content="2016 Grammys: Taylor Swift wins album of the year"/>
+        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.wdsu.com/Swift-16-Grammys/38013694"/>
+<meta itemprop="datePublished" content="2016-02-15T10:38:29"/>
+    <meta itemprop="dateModified" content="2016-02-15T10:37:12"/>
+    <figure  class="ib-figure-image">
+            <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150"><img 
+            src="/image/view/-/38013694/highRes/2/-/h/92/maxh/92/maxw/92/w/92/-/7nx8duz/-/Swift-16-Grammys-jpg.jpg"
+            alt="Swift 16 Grammys"
+            title="Swift 16 Grammys"
+            
+            />
+    <span class="tagOverlay tagOverlay-article"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        </figcaption>
+                </div>
+        </figure>
+    </div><h3 class="teaserTitle">
+                <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150" title="2016 Grammys: Taylor Swift wins album of the year" class="teasableLink " >
+                2016 Grammys: Taylor Swift wins album of the year</a>
+
+            <time pubdate datetime="2016-02-15T23:10:26-0600">
+            <span class="time timestamp">
+                11min</span>
+        </time>
+    </h3>
+        <div class="teaserText">
+                <p>The three big prizes at the 58th Annual Grammy Awards went three different ways Monday night, with Taylor Swift's "1989" album winning the biggest of them all: album of the year.</p><p>"As the first woman to win album of the year at the Grammys twice, I wan...</p><span class="moreLink">
+                <a href="/entertainment/grammys-2016-taylor-swift-kendrick-lamar-weeknd/38009150" class="moreLink" title="Read More &raquo;">Read More »</a></span>
+        </div>
+        <span class="clear"></span>
+        </div>
+</li>
+            <li class="inner item-1" >
+                    <a href="/national/nypd-woman-accuses-eliot-spitzer-of-assault/37996476" title="NYPD: Woman accuses Eliot Spitzer of assault" class="teasableLink " >
+                NYPD: Woman accuses Eliot Spitzer of assault</a>
+
+            <time pubdate datetime="2016-02-15T22:33:18-0600">
+            <span class="time timestamp">
+                48min</span>
+        </time>
+    </li>
+            <li class="inner item-2" >
+                    <a href="/news/local-da-state-auditors-target-scrap-metal-collection-contract-in-st-bernard/38010162" title="Local DA, state auditors target scrap metal collection contract in St. Bernard" class="teasableLink " >
+                Local DA, state auditors target scrap metal collection contract in St. Bernard</a>
+
+            <time pubdate datetime="2016-02-15T22:17:58-0600">
+            <span class="time timestamp">
+                2hr</span>
+        </time>
+    </li>
+            <li class="last item-3" >
+                    <a href="/politics/george-w-bush-jeb-has-experience-and-character-to-be-a-great-president/38009074" title="George W. Bush stumps for Jeb in 'serious election'" class="teasableLink " >
+                George W. Bush stumps for Jeb in &#039;serious election&#039;</a>
+
+            </li>
+            </ul>
+    <span class="moreLink">
+                <a href="/news" class="moreLink" title="MORE">MORE</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(9852894);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(9852894,"blurb");
+        });
+    </script>
+</div>
+
+    </div>
+</li>
+                        <li>
+                                <div class="ib-collection adBelt" data-content-id="9854018"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Advertising</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <div class="ib-collection" data-content-id="9853814"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation pgbottom1">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-17648878-1455600085800" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"pgbottom1","size":"300x400","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":9853814,"pageType":"video","interstitial":false,"qs":"","slotName":"no_pgbottom1_300x400","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="pgbottom1">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-17648878-1455600085800");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="ib-collection bestBets" data-content-id="9853806"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Seen On 6 Sponsors</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb1">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6156100-1455600085802" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"lglinkblurb1","size":"300x90","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":9853806,"pageType":"video","interstitial":false,"qs":"","slotName":"no_lglinkblurb1_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb1">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6156100-1455600085802");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb2">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6157122-1455600085803" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"lglinkblurb2","size":"300x90","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":9853806,"pageType":"video","interstitial":false,"qs":"","slotName":"no_lglinkblurb2_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb2">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6157122-1455600085803");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb3">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6157216-1455600085804" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"lglinkblurb3","size":"300x90","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":9853806,"pageType":"video","interstitial":false,"qs":"","slotName":"no_lglinkblurb3_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb3">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6157216-1455600085804");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="ib-collection" data-content-id="9853816"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation pgbottom2">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-17648902-1455600085805" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"pgbottom2","size":"300x400","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":9853816,"pageType":"video","interstitial":false,"qs":"","slotName":"no_pgbottom2_300x400","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="pgbottom2">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-17648902-1455600085805");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="clear"></div></div>
+
+    </div>
+</li>
+                        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation google">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-7666358-1455600085806" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"google","size":"727x89","iframe":true,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"no_google_727x89","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="google">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-7666358-1455600085806");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+</div>
+<footer>
+        <div class="footer">
+            <div class="titlebar">
+<div class='nH1'>WDSU New Orleans</div>
+</div>
+<div class="copyrightFooter">
+<div class="footerCopyrightItem dotted">© 2016, New Orleans Hearst Television Inc. on behalf of WDSU-TV.</div>
+<div class="footerCopyrightItem"><a href="/connect/sitemap">Site Map</a></div>
+</div><script>(function() {  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', "690693200969345"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=690693200969345&amp;ev=NoScript" /></noscript><script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+twttr.conversion.trackPid('l4pry');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4pry&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4pry&p_id=Twitter" />
+</noscript>
+
+<div class="ib-collection tableContents" data-content-id="9853914"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="9853916"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Disclosures</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/connect/privacy" title="Privacy Policy" class="teasableLink " >
+                Privacy Policy</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/connect/terms" title="Terms of Use" class="teasableLink " >
+                Terms of Use</a>
+
+            </li>
+            <li class="last item-2" >
+                    <a href="/tv/about/Online-Public-Inspection-File/15929254" title="Public Inspection File" class="teasableLink " >
+                Public Inspection File</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="9853920"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>TV Station</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="http://careers.hearsttelevision.com/" title="WDSU Jobs" class="teasableLink " >
+                WDSU Jobs</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/tv/about" title="About WDSU" class="teasableLink " >
+                About WDSU</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="/tv/contact" title="Contact WDSU" class="teasableLink " >
+                Contact WDSU</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="/tv/captioning-contacts" title="Captioning Contacts" class="teasableLink " >
+                Captioning Contacts</a>
+
+            </li>
+            <li class="inner item-4" >
+                    <a href="/tv/news-team" title="News Team" class="teasableLink " >
+                News Team</a>
+
+            </li>
+            <li class="last item-5" >
+                    <a href="/tv/advertise" title="Advertise" class="teasableLink " >
+                Advertise</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="9853918"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Sections</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/news/9853778" title="News" class="teasableLink " >
+                News</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/weather" title="Weather" class="teasableLink " >
+                Weather</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="/tv/9855238" title="On TV" class="teasableLink " >
+                On TV</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="/money/real-estate" title="Real Estate" class="teasableLink " >
+                Real Estate</a>
+
+            </li>
+            <li class="last item-4" >
+                    <a href="/marketplace" title="Marketplace" class="teasableLink " >
+                Marketplace</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="9853922"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Services</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/Sign-Up-for-Email-Newsletters-Alerts/30886180" title="Email Sign-Up" class="teasableLink " >
+                Email Sign-Up</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/connect" title="Mobile" class="teasableLink " >
+                Mobile</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="/connect" title="Social" class="teasableLink " >
+                Social</a>
+
+            </li>
+            <li class="last item-3" >
+                    <a href="/rss" title="RSS" class="teasableLink " >
+                RSS</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="9853924"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Partners</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="http://www.hearsttelevision.com/" title="Hearst Television" class="teasableLink " >
+                Hearst Television</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="http://www.lakana.com/" title="Lakana" class="teasableLink " >
+                Lakana</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="http://www.nbc.com/" title="NBC" class="teasableLink " >
+                NBC</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="http://www.msnbc.msn.com/" title="MSNBC" class="teasableLink " >
+                MSNBC</a>
+
+            </li>
+            <li class="last item-4" >
+                    <a href="http://www.cnn.com/" title="CNN" class="teasableLink " >
+                CNN</a>
+
+            </li>
+            </ul>
+    </div>
+</div>
+
+    </div>
+<div class="footerLogo">
+<a href="http://www.hearsttelevision.com/"><img src="/image/view/-/18192398/medRes/1/-/h7kpu3/-/hearst-bug-color-gif.jpg" alt="Hearst Television" /></a>
+<a href="http://www.lakana.com/" rel="nofollow"><img src="/image/view/-/32149948/highRes/1/-/141tc71z/-/LAKANA-transparent-logo.png" alt="LAKANA" /></a>
+<a href="http://www.cnn.com/" rel="nofollow"><img src="/image/view/-/18192402/medRes/1/-/mx2s8j/-/cnn-bug-color-gif.jpg" alt="CNN" /></a>
+<a href="http://www.wunderground.com" rel="nofollow"><img src="/image/view/-/27132944/lowRes/1/-/x92ya1z/-/Weather-Underground-Color-Black-Logo.png" alt="Weather Underground" /></a>
+</div><figure class="ib-figure-ad">
+                 <div class="adLocation oop">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-25254710-1455600085863" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"oop","size":"1x1","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"no_oop_1x1","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="oop">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-25254710-1455600085863");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation special6">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-36875278-1455600085864" data-adcategory='' data-ad='{"networkId":"3468","sitekey":"no","groupkey":"htv","position":"special6","size":"90x90","iframe":false,"topic":"video","section":"buzz60","contentId":37880796,"contextId":26249792,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"no_special6_90x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="special6">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-36875278-1455600085864");
+                                    </script>
+                                </div>
+                            </div>
+                    <figcaption>
+                            <div class="caption adTab">
+                                Advertisement</div>
+                        </figcaption>
+                    </div>
+            </figure>
+        </div>
+    </footer>
+<!-- AdapTV -->
+            <script src="http://redir.adap.tv/redir/javascript/lightintegration.js"></script>
+        <!-- End AdapTV  -->
+    <!--Pinterest JS-->
+        <script type="text/javascript">
+            (function(d){
+                var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+                p.type = 'text/javascript';
+                p.async = true;
+                p.src = '//assets.pinterest.com/js/pinit.js';
+                f.parentNode.insertBefore(p, f);
+            }(document));
+        </script>
+    <!--G+ JS-->
+    <script>
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+
+    <!--Twitter JS-->
+    <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+<!--Taboola JS-->
+    <script>
+        window._taboola = window._taboola || [];
+        _taboola.push({
+        
+            video:'37880796',
+        
+            flush:true
+        });
+    </script>
+<script src="/htv/static/wro/6.17.7.2/core-common-gpt.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.7.2/client-common-gpt.js" type="text/javascript"></script>
+<script>
+    ibsys.gptInit ={};
+    ibsys.gptInit.initializeGPT = function(){
+
+        if (ibsys.predicates !== undefined && ibsys.predicates.isOutOfNetwork() ) {
+            ibsys.oonPlaceholders(function() {
+                ibsys.ad.gpt.init({
+                    positionKeyword : 'kw'
+                });
+            });
+        } else {
+            ibsys.ad.gpt.init({
+                positionKeyword : 'kw'
+            });
+        }
+    };
+</script>
+<script>
+            ibsys.ad.lotame.adTargeting(5);
+        </script>
+    <div class="ib-user-profile" data-bind="with: userProfile">
+        <div class="user-profile-status-overlay hidden" data-bind="if: statusPrompts.showOverlay(), css: {hidden : !statusPrompts.showOverlay()}">
+
+            <div data-bind="if: statusPrompts.isDataTransmitting">
+                <div class="user-profile-status-prompt transmitting">
+                    <span class="spinner"></span>
+                    <div class="status-message loading" data-bind="html: statusPrompts.loadingText"></div>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.genericPrompt">
+                <div class="user-profile-status-prompt">
+                    <h3 class="status-heading" data-bind="text: statusPrompts.genericHeading"></h3>
+                    <div class="status-message" data-bind="html: statusPrompts.genericMessage"></div>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.error">
+                <div class="user-profile-status-prompt error">
+                    <h3 class="status-error-heading">
+                        <span data-bind="text: statusPrompts.errorStatus"></span>
+                        <span data-bind="text: statusPrompts.errorCode"></span>
+                    </h3>
+                    <div class="status-message error" data-bind="html: statusPrompts.errorMessage"></div>
+
+                    <span data-bind="visible: statusPrompts.errorResetBtn, with: session"><button class="manage-profile-btn" data-bind="click: reset">Reset Session - Logout/Re-attempt Sign In</button></span>
+                    <span data-bind="visible: statusPrompts.errorCloseBtn, with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.unsubscribeAllConfirmationPrompt">
+                <div class="user-profile-status-prompt confirmation">
+                    <h3 class="status-heading">Confirm Unsubscribe</h3>
+                    <div class="status-message">Are you sure you would like to unsubscribe from all current subscriptions?</div>
+
+                    <span data-bind="with: ibOfferForm"><button class="manage-profile-btn" data-bind="click: unsubscribeAll">Yes</button></span>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">No</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.deleteConfirmationPrompt">
+                <div class="user-profile-status-prompt confirmation">
+                    <h3 class="status-heading">Confirm Delete</h3>
+                    <div class="status-message">Are you sure you want to delete your profile and all of its subscriptions?</div>
+
+                    <span data-bind="with: session"><button class="manage-profile-btn" data-bind="click: deleteProfile">Yes</button></span>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">No</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.logoutSuccess">
+                <div class="user-profile-status-prompt success">
+                    <h3 class="status-heading">You are logged out</h3>
+                    <h3 class="status-heading" data-bind="if: statusPrompts.deleteProfileSuccess">Your profile has been deleted.</h3>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: user.emailInput() || user.isUserLoggedInWithNoEmail(), preventBubble: 'click'">
+                <div data-bind="with: user.emailInput">
+                    <form class="user-profile-status-prompt email" data-bind="submit: updateUserProperty, escPress: cancelChange">
+                        <h3 class="ib-form-legend">Please set an email address for your profile</h3>
+                        <div class="ib-set-email-form clear">
+                            <p data-bind="if: $parent.user.isUserLoggedInWithNoEmail, visible: $parent.user.isUserLoggedInWithNoEmail">
+                                No email address was supplied by
+                                <span class="authentication-authority" data-bind="text: $parent.user.prettyAuthenticationAuthority"></span>.
+                                To complete your registration on this site, please supply an address.
+                            </p>
+                            <p data-bind="if: !$parent.user.isUserLoggedInWithNoEmail(), visible: !$parent.user.isUserLoggedInWithNoEmail()">
+                                Please confirm or modify the email address to which you will have subscription offers sent.
+                            </p>
+                            <label for="setUserEmail">Email</label>
+                            <input id="setUserEmail" class="ib-input-field" type="email" data-bind="hasfocus: isFocused, value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                            <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                        </div>
+
+                        <button class="manage-profile-btn" type="submit" data-bind="click: updateUserProperty">Save and Close</button>
+                        <span data-bind="visible: !$parent.user.isUserLoggedInWithNoEmail()"><button class="manage-profile-btn" data-bind="click: cancelChange">Cancel</button></span>
+                    </form>
+                </div>
+            </div>
+
+            <div data-bind="if: user.personalizePrompt(), preventBubble: 'click'">
+                <div data-bind="with: user">
+                    <form class="user-profile-status-prompt" data-bind="submit: updatePersonalization, escPress: cancelPersonalization">
+                        <h3 class="ib-form-legend">Personalize Profile</h3>
+                        <div class="ib-set-personalization-form clear">
+                            <p>For a more personalized experience, please supply the following <strong>optional</strong> information.</p>
+                            <div class="clear" data-bind="with: screenNameInput">
+                                <label for="setUserScreenName">Display Name</label>
+                                <input id="setUserScreenName" placeholder="Display Name (optional)" class="ib-input-field" data-bind="hasfocus: isFocused, value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                                <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                            </div>
+                            <div class="clear" data-bind="with: postCodeInput">
+                                <label for="setPostCode">Zip Code</label>
+                                <input id="setPostCode" placeholder="Zip Code (optional)" class="ib-input-field" data-bind="value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                                <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                            </div>
+                            </div>
+
+                        <button class="manage-profile-btn" data-bind="click: updatePersonalization">Submit</button>
+                        <button class="manage-profile-btn" data-bind="click: cancelPersonalization">Cancel</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        ibsys.userProfile.userProfileInit.serviceUrl = '/servlet/profile/user-scope/sites/no/user-profiles';
+        ibsys.userProfile.userProfileInit.sessionUrl = '/servlet/profile/user-scope/sites/no/sessions';
+        ibsys.userProfile.userProfileInit.sitekey = 'no';
+        ibsys.userProfile.userProfileInit.siteName = 'WDSU';
+        ibsys.userProfile.userProfileInit.offersEndpoint = '/servlet/profile/sites/htv-no/offers';
+        ibsys.userProfile.userProfileInit.subscriptionsEndpoint = '/servlet/profile/user-scope/sites/no';
+        ibsys.userProfile.userProfileInit.ibOauthUrl = 'https://id.ib-prod.com/oauth-provider';
+        console.debug('init userProfile');
+        ibsys.vm.userProfile = new ibsys.userProfile.UserProfile();
+    </script>
+<!--
+        time: Mon Feb 15 23:21:25 CST 2016
+        context path: /htv
+        web-app name: Content Application Engine
+        siteName: htv-no
+        siteId: 9860506
+        contextId: 26249792
+        contentId: 37880796
+        docType: MauVideo
+        build-date: 2016-02-03 09:37
+        version: 6.17.7.2
+        artifactId: htv-webapp
+        parent-project-version: 6.17.1
+        parent-project-artifactId: core-cae
+    -->
+</body>
+    </html>

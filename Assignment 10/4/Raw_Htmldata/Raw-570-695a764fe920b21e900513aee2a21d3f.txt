@@ -1,0 +1,291 @@
+        <!DOCTYPE html><html  itemscope itemtype="http://schema.org/Blog"  xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+    	<head>
+
+		        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="http://whorunsgovernment.com/xmlrpc.php">
+    <title>Page not found &#8211; Who Runs Government</title>
+<link rel="alternate" type="application/rss+xml" title="Who Runs Government &raquo; Feed" href="http://whorunsgovernment.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Who Runs Government &raquo; Comments Feed" href="http://whorunsgovernment.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/whorunsgovernment.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ad-inserter-devices-css-css'  href='http://whorunsgovernment.com/wp-content/plugins/ad-inserter/css/devices.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-bxslider-css'  href='http://whorunsgovernment.com/wp-content/themes/supermag/assets/library/bxslider/css/jquery.bxslider.min.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-googleapis-css'  href='//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700%7CRoboto%3A300italic%2C400%2C500%2C700&#038;ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://whorunsgovernment.com/wp-content/themes/supermag/assets/library/Font-Awesome/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-style-css'  href='http://whorunsgovernment.com/wp-content/themes/supermag/style.css?ver=4.4.2' type='text/css' media='all' />
+<style id='supermag-style-inline-css' type='text/css'>
+
+            mark,
+            .comment-form .form-submit input,
+            .read-more,
+            .bn-title,
+            .home-icon.front_page_on,
+            .header-wrapper .menu li:hover > a,
+            .header-wrapper .menu > li.current-menu-item a,
+            .header-wrapper .menu > li.current-menu-parent a,
+            .header-wrapper .menu > li.current_page_parent a,
+            .header-wrapper .menu > li.current_page_ancestor a,
+            .header-wrapper .menu > li.current-menu-item > a:before,
+            .header-wrapper .menu > li.current-menu-parent > a:before,
+            .header-wrapper .menu > li.current_page_parent > a:before,
+            .header-wrapper .menu > li.current_page_ancestor > a:before,
+            .header-wrapper .main-navigation ul ul.sub-menu li:hover > a,
+            .slider-section .cat-links a,
+            .featured-desc .below-entry-meta .cat-links a,
+            #calendar_wrap #wp-calendar #today,
+            #calendar_wrap #wp-calendar #today a,
+            .wpcf7-form input.wpcf7-submit:hover,
+            .breadcrumb{
+                background: #F88C00;
+            }
+        
+            a:hover,
+            .screen-reader-text:focus,
+            .bn-content a:hover,
+            .socials a:hover,
+            .site-title a,
+            .search-block input#menu-search,
+            .widget_search input#s,
+            .search-block #searchsubmit,
+            .widget_search #searchsubmit,
+            .footer-sidebar .featured-desc .above-entry-meta a:hover,
+            .slider-section .slide-title:hover,
+            .besides-slider .post-title a:hover,
+            .slider-feature-wrap a:hover,
+            .slider-section .bx-controls-direction a,
+            .besides-slider .beside-post:hover .beside-caption,
+            .besides-slider .beside-post:hover .beside-caption a:hover,
+            .featured-desc .above-entry-meta span:hover,
+            .posted-on a:hover,
+            .cat-links a:hover,
+            .comments-link a:hover,
+            .edit-link a:hover,
+            .tags-links a:hover,
+            .byline a:hover,
+            .nav-links a:hover,
+            #supermag-breadcrumbs a:hover,
+            .wpcf7-form input.wpcf7-submit {
+                color: #F88C00;
+            }
+             .search-block input#menu-search,
+            .widget_search input#s,
+            .tagcloud a{
+                border: 1px solid #F88C00;
+            }
+            .footer-wrapper .border,
+            .nav-links .nav-previous a:hover,
+            .nav-links .nav-next a:hover{
+                border-top: 1px solid #F88C00;
+            }
+             .besides-slider .beside-post{
+                border-bottom: 3px solid #F88C00;
+            }
+            .widget-title,
+            .footer-wrapper,
+            .page-header .page-title,
+            .single .entry-header .entry-title{
+                border-bottom: 1px solid #F88C00;
+            }
+            .widget-title:before,
+            .page-header .page-title:before,
+            .single .entry-header .entry-title:before{
+                border-bottom: 7px solid #F88C00;
+            }
+           .wpcf7-form input.wpcf7-submit,
+            article.post.sticky{
+                border: 2px solid #F88C00;
+            }
+           .breadcrumb::after {
+                border-left: 5px solid #F88C00;
+            }
+           .header-wrapper #site-navigation{
+                border-bottom: 5px solid #F88C00;
+            }
+           @media screen and (max-width:992px){
+                .slicknav_btn.slicknav_open{
+                    border: 1px solid #F88C00;
+                }
+                .slicknav_btn.slicknav_open:before{
+                    background: { #F88C00 };
+                    box-shadow: 0 6px 0 0 #F88C00, 0 12px 0 0 #F88C00;
+                }
+                .slicknav_nav li:hover > a,
+                .slicknav_nav li.current-menu-ancestor a,
+                .slicknav_nav li.current-menu-item  > a,
+                .slicknav_nav li.current_page_item a,
+                .slicknav_nav li.current_page_item .slicknav_item span,
+                .slicknav_nav li .slicknav_item:hover a{
+                    color: #F88C00;
+                }
+            }
+</style>
+<script type='text/javascript' src='http://whorunsgovernment.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://whorunsgovernment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://whorunsgovernment.com/wp-content/themes/supermag/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://whorunsgovernment.com/wp-content/themes/supermag/assets/library/respond/respond.min.js?ver=1.1.2'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://whorunsgovernment.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://whorunsgovernment.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://whorunsgovernment.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+
+<!--Plugin WP Admin Bar Removal 2014.0707.0383 Active - Tag 74be16979710d4c4e7c6647856088456-->
+
+<!--Site Optimized to Speedup Control Panel Minimize Memory Consumption with Disabled Toolbar-->
+
+
+	<meta property='og:title' content='Who Runs Government' />
+	<meta property='og:url' content='http://whorunsgovernment.com' />
+	<meta property='og:site_name' content='Who Runs Government' />
+	<meta property='og:description' content='Latest Breaking news as they happen' />
+	<meta property='og:type' content='article' />
+	<meta itemprop='name' content='http://whorunsgovernment.com' />
+	<meta itemprop='description' content='Latest Breaking news as they happen' /><meta name="google-site-verification" content="QaFEqWqXyUIa8wvI8sIixqR8yDU-kQd8bWjcUs1I1zE" />
+<!-- BEGIN GADWP v4.9.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-70880674-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 1.7 -->
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="Who Runs Government"/>
+<meta property="og:title" content="Who Runs Government"/>
+<meta itemprop="name" content="Who Runs Government"/>
+<meta property="og:url" content="http://whorunsgovernment.com/ted-cruz-did-all-the-right-things-in-iowa-but-can-he-beat-donald-trump/"/>
+<meta name="twitter:url" content="http://whorunsgovernment.com/ted-cruz-did-all-the-right-things-in-iowa-but-can-he-beat-donald-trump/"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Latest Breaking news as they happen"/>
+<meta name="description" content="Latest Breaking news as they happen"/>
+<meta itemprop="description" content="Latest Breaking news as they happen"/>
+<meta name="twitter:description" content="Latest Breaking news as they happen"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags -->
+
+<meta data-pso-pv="1.2.1" data-pso-pt="errorPage" data-pso-th="8d9b19ff273655e55616a6e0acce0bf6"><script pagespeed_no_defer="" data-pso-version="20160427_201514">window.dynamicgoogletags={config:[]};dynamicgoogletags.config=["ca-pub-2280790504947376",,[],,,,,,,,,,0.001,"http://whorunsgovernment.com"];(function(){var f=this,h=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";
+else if("function"==b&&"undefined"==typeof a.call)return"object";return b};var k=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},p=function(a,b){return a<b?-1:a>b?1:0};var q;a:{var r=f.navigator;if(r){var t=r.userAgent;if(t){q=t;break a}}q=""};var u=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void 0,a[c],c,a)};var v=function(a,b){var c=[];u(a,function(a,g){var e=null,l=typeof a;if(("object"==l&&null!=a||"function"==l)&&2>b)e=v(a,b+1);else if(0===a||a)e=String(a);e&&c.push(g+"="+encodeURIComponent(e))});return c.join("&")};var w=-1!=q.indexOf("Opera"),x=-1!=q.indexOf("Trident")||-1!=q.indexOf("MSIE"),y=-1!=q.indexOf("Edge"),z=-1!=q.indexOf("Gecko")&&!(-1!=q.toLowerCase().indexOf("webkit")&&-1==q.indexOf("Edge"))&&!(-1!=q.indexOf("Trident")||-1!=q.indexOf("MSIE"))&&-1==q.indexOf("Edge"),A=-1!=q.toLowerCase().indexOf("webkit")&&-1==q.indexOf("Edge"),B=function(){var a=f.document;return a?a.documentMode:void 0},C;
+a:{var D="",E=function(){var a=q;if(z)return/rv\:([^\);]+)(\)|;)/.exec(a);if(y)return/Edge\/([\d\.]+)/.exec(a);if(x)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(A)return/WebKit\/(\S+)/.exec(a);if(w)return/(?:Version)[ \/]?(\S+)/.exec(a)}();E&&(D=E?E[1]:"");if(x){var F=B();if(null!=F&&F>parseFloat(D)){C=String(F);break a}}C=D}
+var G=C,H={},I=function(a){if(!H[a]){for(var b=0,c=k(String(G)).split("."),d=k(String(a)).split("."),g=Math.max(c.length,d.length),e=0;0==b&&e<g;e++){var l=c[e]||"",V=d[e]||"",W=RegExp("(\\d*)(\\D*)","g"),X=RegExp("(\\d*)(\\D*)","g");do{var m=W.exec(l)||["","",""],n=X.exec(V)||["","",""];if(0==m[0].length&&0==n[0].length)break;b=p(0==m[1].length?0:parseInt(m[1],10),0==n[1].length?0:parseInt(n[1],10))||p(0==m[2].length,0==n[2].length)||p(m[2],n[2])}while(0==b)}H[a]=0<=b}},J=f.document,K=J&&x?B()||
+("CSS1Compat"==J.compatMode?parseInt(G,10):5):void 0;var L;if(!(L=!z&&!x)){var M;if(M=x)M=9<=Number(K);L=M}L||z&&I("1.9.1");x&&I("9");var N=window;var O;O=new function(){this.g="http"+("http:"===N.location.protocol?"":"s")+"://pagead2.googlesyndication.com/pagead/gen_204?id=";this.i=.01;this.j=Math.random()};var aa=function(){this.document=document},P=function(a,b,c){a=a.document.getElementsByTagName(b);for(b=0;b<a.length;++b)if(a[b].hasAttribute(c))return a[b].getAttribute(c);return null};var Q=function(){var a=window;return a.dynamicgoogletags=a.dynamicgoogletags||{}};var R=function(){},S=[],T=function(a,b){if(b<a.f){var c=b+a.c,d=a.a[c];return d===S?a.a[c]=[]:d}d=a.b[b];return d===S?a.b[b]=[]:d};R.prototype.toString=function(){return this.a.toString()};var U=function(a){var b=a;a=ba;b||(b=[]);this.c=-1;this.a=b;a:{if(this.a.length){var b=this.a.length-1,c=this.a[b];if(c&&"object"==typeof c&&"array"!=h(c)){this.f=b-this.c;this.b=c;break a}}this.f=Number.MAX_VALUE}if(a)for(b=0;b<a.length;b++)c=a[b],c<this.f?(c+=this.c,this.a[c]=this.a[c]||S):this.b[c]=this.b[c]||S};
+(function(){function a(){}a.prototype=R.prototype;U.m=R.prototype;U.prototype=new a;U.l=function(a,c,d){for(var g=Array(arguments.length-2),e=2;e<arguments.length;e++)g[e-2]=arguments[e];return R.prototype[c].apply(a,g)}})();var ba=[3];var Y=function(){var a=Q().config;if(a){var b=new aa,a=new U(a),c;c=T(a,13);if(c=null==c?c:+c){var d={};d.wpc=T(a,1);d.sv=P(b,"script","data-pso-version");d.tn=P(b,"meta","data-pso-pt");d.th=P(b,"meta","data-pso-th");d.w=0<window.innerWidth?window.innerWidth:null;d.h=0<window.innerHeight?window.innerHeight:null;try{if(O.j<(c||O.i)){var g=O.g+"pso_unknown"+("&"+v(d,1)),b=g=g.substring(0,2E3);f.google_image_requests||(f.google_image_requests=[]);var e=f.document.createElement("img");e.src=b;f.google_image_requests.push(e)}}catch(l){}}}Q().loaded=
+!0};var Z=window;Z.addEventListener?Z.addEventListener("load",Y,!1):Z.attachEvent&&Z.attachEvent("onload",Y);})();
+</script>
+	</head>
+<body class="error404 boxed-layout right-sidebar">
+
+        <div id="page" class="hfeed site">
+        <a class="skip-link screen-reader-text" href="#content" title="link">Skip to content</a>
+            <header id="masthead" class="site-header" role="banner">
+            <div class="top-header-section clearfix">
+                <div class="wrapper">
+                     <div class="header-latest-posts float-left bn-title">Saturday, April 30, 2016</div>                    <div class="right-header float-right">
+                                            </div>
+                </div>
+            </div><!-- .top-header-section -->
+            <div class="wrapper header-wrapper clearfix">
+                <div class="header-container">
+                    <div class="site-branding clearfix">
+                                                <div class="site-logo float-left">
+                                                                <p class="site-title">
+                                        <a href="http://whorunsgovernment.com/" rel="home">Who Runs Government</a>
+                                    </p>
+                                                                        <p class="site-description">Latest Breaking news as they happen</p>
+                                                            </div><!--site-logo-->
+                        <!--supermag-header-id-display-opt-->
+                                                    <div class="header-ads float-right">
+                                <a href="http://eepurl.com/bRsdjv" target="_blank">
+                                    <img src="http://whorunsgovernment.com/wp-content/uploads/2016/02/subscribe1.jpg">
+                                </a>
+                            </div>
+                                                <div class="clearfix"></div>
+                    </div>
+                    <nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+                        <div class="header-main-menu clearfix">
+                                                                <div class="home-icon">
+                                        <a href="http://whorunsgovernment.com/" title="Who Runs Government"><i class="fa fa-home"></i></a>
+                                    </div>
+                                                                    <div class="acmethemes-nav"><ul id="menu-home" class="menu"><li id="menu-item-197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197"><a href="http://whorunsgovernment.com/category/howto/">News</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-198"><a href="http://whorunsgovernment.com/category/android/">Android</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-199"><a href="http://whorunsgovernment.com/category/google/">Google</a></li>
+<li id="menu-item-200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-200"><a href="http://whorunsgovernment.com/category/film/">Film</a></li>
+<li id="menu-item-201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201"><a href="http://whorunsgovernment.com/category/apps-and-updates/">Apps and Updates</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-202"><a href="http://whorunsgovernment.com/category/feature/">Feature</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-203"><a href="http://whorunsgovernment.com/category/us-world/">Us World</a></li>
+<li id="menu-item-204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204"><a href="http://whorunsgovernment.com/category/videos/">Videos</a></li>
+</ul></div>                                <div class="search-block">
+    <form action="http://whorunsgovernment.com" class="searchform" id="searchform" method="get" role="search">
+        <div>
+            <label for="menu-search" class="screen-reader-text"></label>
+                        <input type="text"  placeholder="Search"  id="menu-search" name="s" value="">
+            <button class="fa fa-search" type="submit" id="searchsubmit"></button>
+        </div>
+    </form>
+</div>
+                        </div>
+                        <div class="responsive-slick-menu clearfix"></div>
+                    </nav>
+                    <!-- #site-navigation -->
+                </div>
+                <!-- .header-container -->
+            </div>
+            <!-- header-wrapper-->
+        </header>
+        <!-- #masthead -->
+            <div class="wrapper content-wrapper clearfix">
+            <div id="content" class="site-content">
+    <div id="supermag-breadcrumbs" class="clearfix"><span class="breadcrumb">You are here</span><div class="breadcrumb-container"><a href="http://whorunsgovernment.com">Home</a> <span class="bread_arrow"> > </span> <span class="current">Error 404 :</span></div></div>
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<div class="search-block">
+    <form action="http://whorunsgovernment.com" class="searchform" id="searchform" method="get" role="search">
+        <div>
+            <label for="menu-search" class="screen-reader-text"></label>
+                        <input type="text"  placeholder="Search"  id="menu-search" name="s" value="">
+            <button class="fa fa-search" type="submit" id="searchsubmit"></button>
+        </div>
+    </form>
+</div>
+
+
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->

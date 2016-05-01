@@ -1,0 +1,1147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>|HipHopNometry.ORG: RESPECT THE SCIENCE. PEEP THE EQUATION  </title>
+<meta name="generator" content="WordPress 4.4.2" /> <!-- leave this for stats -->
+<meta name="description" content="Understand the Science. HHNM.ORG is the source for the undiscovered and representatives of the underground hip hop movement. " />
+<meta name="keywords" content="hiphopnometry, realhiphop, boom bap, hip hop, rnb, soul, rap, jazz, unsigned, independent, peet caliber, peetcalibre, p.calibre, reality, conscious music" />
+<meta property="twitter:account_id" content="136776400" />
+<link rel="stylesheet" href="http://www.hiphopnometry.org/wp-content/themes/scarlett2/style.css" type="text/css" media="all" />
+<link rel="alternate" type="application/rss+xml" title="|HipHopNometry.ORG: RESPECT THE SCIENCE. PEEP THE EQUATION RSS Feed" href="http://www.hiphopnometry.org/?feed=rss2" />
+<link rel="pingback" href="http://www.hiphopnometry.org/xmlrpc.php" />
+
+<script type="text/javascript" src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/js/jquery-1.2.6.js"></script>
+<script type="text/javascript" src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/js/spy.js"></script>
+<script type="text/javascript" src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/js/tabber.js"></script>
+<script type="text/javascript" src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/js/scroll.js"></script>
+
+<script type="text/javascript" > jQuery.noConflict();</script>
+<link rel="stylesheet" type="text/css" href="http://www.hiphopnometry.org/wp-content/themes/scarlett2/banner.css" media="screen" />	
+<link rel="stylesheet" type="text/css" href="http://www.hiphopnometry.org/wp-content/themes/scarlett2/tabs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://www.hiphopnometry.org/wp-content/themes/scarlett2/featlist.css" media="screen" />
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	if (!document.getElementsByTagName) return false;
+	var sfEls = document.getElementById("catmenu").getElementsByTagName("li");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
+
+	<link rel='archives' title='April 2016' href='http://www.hiphopnometry.org/?m=201604' />
+	<link rel='archives' title='March 2016' href='http://www.hiphopnometry.org/?m=201603' />
+	<link rel='archives' title='February 2016' href='http://www.hiphopnometry.org/?m=201602' />
+	<link rel='archives' title='January 2016' href='http://www.hiphopnometry.org/?m=201601' />
+	<link rel='archives' title='December 2015' href='http://www.hiphopnometry.org/?m=201512' />
+	<link rel='archives' title='November 2015' href='http://www.hiphopnometry.org/?m=201511' />
+	<link rel='archives' title='October 2015' href='http://www.hiphopnometry.org/?m=201510' />
+	<link rel='archives' title='September 2015' href='http://www.hiphopnometry.org/?m=201509' />
+	<link rel='archives' title='August 2015' href='http://www.hiphopnometry.org/?m=201508' />
+	<link rel='archives' title='July 2015' href='http://www.hiphopnometry.org/?m=201507' />
+	<link rel='archives' title='June 2015' href='http://www.hiphopnometry.org/?m=201506' />
+	<link rel='archives' title='May 2015' href='http://www.hiphopnometry.org/?m=201505' />
+	<link rel='archives' title='April 2015' href='http://www.hiphopnometry.org/?m=201504' />
+	<link rel='archives' title='March 2015' href='http://www.hiphopnometry.org/?m=201503' />
+	<link rel='archives' title='February 2015' href='http://www.hiphopnometry.org/?m=201502' />
+	<link rel='archives' title='January 2015' href='http://www.hiphopnometry.org/?m=201501' />
+	<link rel='archives' title='December 2014' href='http://www.hiphopnometry.org/?m=201412' />
+	<link rel='archives' title='November 2014' href='http://www.hiphopnometry.org/?m=201411' />
+	<link rel='archives' title='October 2014' href='http://www.hiphopnometry.org/?m=201410' />
+	<link rel='archives' title='September 2014' href='http://www.hiphopnometry.org/?m=201409' />
+	<link rel='archives' title='August 2014' href='http://www.hiphopnometry.org/?m=201408' />
+	<link rel='archives' title='July 2014' href='http://www.hiphopnometry.org/?m=201407' />
+	<link rel='archives' title='June 2014' href='http://www.hiphopnometry.org/?m=201406' />
+	<link rel='archives' title='May 2014' href='http://www.hiphopnometry.org/?m=201405' />
+	<link rel='archives' title='April 2014' href='http://www.hiphopnometry.org/?m=201404' />
+
+
+<!-- BEGIN Metadata added by the Add-Meta-Tags WordPress plugin -->
+<meta property="twitter:account_id" content="136776400" />
+<meta name="description" content="Understand the Science. HHNM.ORG is the source for the undiscovered and representatives of the underground hip hop movement." />
+<meta name="keywords" content="hiphopnometry, realhiphop, boom bap, hip hop, rnb, soul, rap, jazz, unsigned, independent, peet caliber, peetcalibre, p.calibre, reality, conscious music" />
+<!-- END Metadata added by the Add-Meta-Tags WordPress plugin -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.hiphopnometry.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sfpw-style-css'  href='http://www.hiphopnometry.org/wp-content/plugins/simple-featured-posts-widget//sfpw-style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='crp-style-rounded-thumbs-css'  href='http://www.hiphopnometry.org/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=4.4.2' type='text/css' media='all' />
+<style id='crp-style-rounded-thumbs-inline-css' type='text/css'>
+
+.crp_related a {
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 50px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 44px;
+}
+                
+</style>
+<link rel='stylesheet' id='cab_style-css'  href='http://www.hiphopnometry.org/wp-content/plugins/custom-about-author/cab-style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='round_social_media_buttons_styles-css'  href='http://www.hiphopnometry.org/wp-content/plugins/round-social-media-buttons/round_social_media_buttons.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.hiphopnometry.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.hiphopnometry.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var the_ajax_script = {"ajaxurl":"http:\/\/www.hiphopnometry.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-content/plugins/cardoza-ajax-search/cardoza_ajax_search.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://www.hiphopnometry.org/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hiphopnometry.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.hiphopnometry.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://wp.me/1QBaY' />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"17a4ec8b-6cd0-4820-a896-ad8932938efe"});var st_type="wordpress4.0";</script>
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+<div id="wrapper">
+
+<div class="clear"></div>
+<div id="top">
+
+<br>
+
+<div class="headbanner">
+
+
+				   				   				   				   				   				   				   				   				   				   				   				   				   				   		   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   		
+
+
+</div>
+<div class="clear"></div></div>
+
+
+
+
+
+
+<div id="catmenucontainer">
+
+	<div id="catmenu">
+			<ul>
+
+				
+			</ul>
+	</div>	
+
+
+		
+</div>
+<div class="clear"></div>
+<div id="casing">		<script type="text/javascript">
+stepcarousel.setup({
+	galleryid: 'mygallery', //id of carousel DIV
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+	panelbehavior: {speed:500, wraparound:true, persist:true},
+	defaultbuttons: {enable: true, moveby: 2, leftnav: ['http://www.hiphopnometry.org/wp-content/themes/scarlett2/images/scar2.jpg', -14, 68], rightnav: ['http://www.hiphopnometry.org/wp-content/themes/scarlett2/images/scar1.jpg', -2, 68]},
+	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
+	contenttype: ['external'] //content setting ['inline'] or ['external', 'path_to_external_file']
+})
+
+	
+</script>
+
+
+<div id="myslides">
+<div id="mygallery" class="stepcarousel">
+<div class="belt">
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15616" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15612" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15607" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/04/tribe-called-quest-phife-dawg2-640x427.png&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15601" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/04/484054476.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15597" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15592" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15586" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/11169071_1441261856173770_2028246377317499856_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15581" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/a3056928375_10-1.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15577" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/10325574_770815086271073_3740725701593832996_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15574" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/3969ab5be69568a7ff4ffb677fe20bd6.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15571" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/a3070769478_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15568" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/03/R-7948442-1452245933-7225.jpeg.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15562" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/12661927_435514926657682_4291442087379289185_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15558" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/hqdefault.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15554" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/R-268451-1278523055.jpeg.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15550" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/a4161686831_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15544" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/12037994_864576066945484_1146911013803341342_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15540" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/12391279_577876002376047_4531773297206861429_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15525" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/12654704_479690178822750_7825144698936808953_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15522" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/02/10931239_992527250775958_5260858972521423305_n.png&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15518" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/01/a4041240390_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15513" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/01/12096458_10153521260152909_7865508244102884008_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15507" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/01/a0289552680_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15504" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2016/01/FMexclusive.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15499" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/12/10451727_680131295405069_3422193336914173077_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15496" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/12/12112235_10153647555745270_6614033491295035696_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15491" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/12/12316321_1507493006212790_3142822300766284944_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15488" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/12/demi-portion-mes-outils-clip_48h5n_22f1y3.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15482" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/12/a3843076186_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15478" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/hell_razah_sticker_res_400.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15475" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/R-2665501-1377854184-6089.jpeg.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15470" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/R-6189830-1413293503-9798.jpeg.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15465" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/12208549_894750993914096_3243375168328868091_n.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15460" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/hqdefault.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15454" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a2559715735_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15451" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a1235974604_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15447" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a3296872313_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15443" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a3809560815_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15438" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a1332224212_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+<div class="panel">
+
+
+
+<a href="http://www.hiphopnometry.org/?p=15435" rel="bookmark" target="blank" ?>
+<img src="http://www.hiphopnometry.org/wp-content/themes/scarlett2/timthumb.php?src=http://www.hiphopnometry.org/wp-content/uploads/2015/11/a3290406430_10.jpg&amp;h=100&amp;w=200&amp;zc=1" alt=""/> </a>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="topad">
+
+				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   				   </div>
+
+
+<div id="content">
+<div class="single" id="post-15616">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15616" rel="bookmark" title="Permanent Link to Dolomight The Lyrical Genius">Dolomight The Lyrical Genius</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On April - 27 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15616#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p>Dolomight The Lyrical Genius</p>
+<p><a href="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg" rel="attachment wp-att-15615"><img src="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg?resize=600%2C600" alt="R-1726633-1268880941.jpeg" class="alignnone size-medium wp-image-15615" srcset="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg?resize=150%2C150 150w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg?resize=300%2C300 300w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg?resize=50%2C50 50w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/R-1726633-1268880941.jpeg.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><br />
+1996 CHOZEN FEW Records<br />
+Dolomight The Lyrical Genius &#8211; 1.2.3. / Bottom Of Da Pit<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/71vI81vRcQA" frameborder="0" allowfullscreen></iframe></p>
+<p>Dolomight The Lyrical Genius &#8211; Keep It Live (Remix)<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/niwskx6CT2k" frameborder="0" allowfullscreen></iframe></p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span><span class='st_tumblr_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span><span class='st_facebook_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span><span class='st_fblike_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span><span class='st_plusone_hcount' st_title='Dolomight The Lyrical Genius' st_url='http://www.hiphopnometry.org/?p=15616'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="single" id="post-15612">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15612" rel="bookmark" title="Permanent Link to BOOMBOX">BOOMBOX</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On April - 17 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15612#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p>BOOMBOX HIPHOPNOMETRY SUPPORT:</p>
+<p><a href="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg" rel="attachment wp-att-15611"><img class="alignnone size-medium wp-image-15611" src="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg?resize=600%2C400" alt="Boombox+Lyle+Owerko+%232" srcset="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg?resize=300%2C200 300w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg?resize=768%2C512 768w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg?resize=1024%2C683 1024w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/BoomboxLyleOwerko232.jpg?w=1600 1600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a></p>
+<p>Save The Boom Box Part 1: Roots Culture<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/-Cy25x9JbIQ" frameborder="0" allowfullscreen></iframe></p>
+<p>Save The Boom Box Part 2: The Boombox and Revolution<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/gVmIsXakxlo" frameborder="0" allowfullscreen></iframe></p>
+<p>Save The Boom Box Part 3: One Step Forward, Two Steps Back<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/C2__RCrMy2M" frameborder="0" allowfullscreen></iframe><br />
+_____________<br />
+BOOMBOX<br />
+CBS Sunday Morning &#8211; The Boombox Project Segment<br />
+Nice little segment on CBS Sunday Morning about vintage boomboxes. Photos and interview with Lyle Owerto and Fab 5 Freddy.<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/7vgklZQRzCg" frameborder="0" allowfullscreen></iframe></p>
+<p>The History of the Boombox, NPR Music</p>
+<p>Before iPods (or even CDs) there were boomboxes. It&#8217;s been 20 years since they disappeared from the streets, but the nostalgia they evoke is about more than stereo equipment. We&#8217;ve changed the way we listen to music — and to each other. Watch a video about the history of the boombox.</p>
+<p><iframe width="600" height="315" src="https://www.youtube.com/embed/e84hf5aUmNA" frameborder="0" allowfullscreen></iframe></p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span><span class='st_tumblr_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span><span class='st_facebook_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span><span class='st_fblike_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span><span class='st_plusone_hcount' st_title='BOOMBOX' st_url='http://www.hiphopnometry.org/?p=15612'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="single" id="post-15607">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15607" rel="bookmark" title="Permanent Link to Phife Dawg &#8211; A Tribe Called Quest / VINYLS">Phife Dawg &#8211; A Tribe Called Quest / VINYLS</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On April - 10 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15607#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p> Phife Dawg / A Tribe Called Quest</p>
+<p><a href="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/tribe-called-quest-phife-dawg2-640x427.png" rel="attachment wp-att-15606"><img src="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/tribe-called-quest-phife-dawg2-640x427.png?resize=600%2C450" alt="tribe-called-quest-phife-dawg2-640x427" class="alignnone size-medium wp-image-15606" data-recalc-dims="1" /></a></p>
+<p><iframe width="600" height="315" src="https://www.youtube.com/embed/RuqAAWpEDY0" frameborder="0" allowfullscreen></iframe><br />
+Dj Uve / LOBOLAB TV :<br />
+Capítulo dedicado a Phife Dawg aka The Five Footer aka Mutty Ranks, miembro de A Tribe Called Quest, que falleció el 22 de marzo de 2016 por complicaciones con su diabetes.</p>
+<p>El vídeo pega un vistazo rápido al tiempo que nos acompañó musicalmente, desde su llegada con el primer álbum de A.T.C.Q., hasta su carrera en solitario de la que hay un álbum publicado, uno pendiente de publicar (supuestamente se titulará Muttymorphosis) y también a alguna de sus colaboraciones.<br />
+<a href="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/atcq_faces_phife.jpg" rel="attachment wp-att-15605"><img src="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/atcq_faces_phife.jpg?resize=600%2C450" alt="atcq_faces_phife" class="alignnone size-medium wp-image-15605" srcset="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/atcq_faces_phife.jpg?resize=300%2C225 300w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/atcq_faces_phife.jpg?resize=768%2C576 768w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/atcq_faces_phife.jpg?w=840 840w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a></p>
+<p>Dedicado de la memoria de Malik &#8220;Phife Dawg&#8221; Taylor.</p>
+<p>Discos que aparecen en el vídeo:</p>
+<p>A Tribe Called Quest &#8211; People&#8217;s Instinctive Travels And The Paths Of Rhythm (1990)<br />
+A Tribe Called Quest &#8211; The Low End Theory (1991)<br />
+A Tribe Called Quest &#8211; Check The Rhime (12&#8243;, 1991)<br />
+A Tribe Called Quest &#8211; Midnight Marauders (1993)<br />
+A Tribe Called Quest &#8211; Beats, Rhymes And Life (1996)<br />
+A Tribe Called Quest &#8211; The Love Movement (1998)<br />
+Gang Starr &#8211; Hard To Earn (1994)<br />
+Diamond D &#8211; Hatred, Passions And Infidelity (1997)<br />
+Phife Dawg &#8211; Bend Ova (12&#8243;, 1999)<br />
+Phife Dawg &#8211; Ventilation: Da LP (2000)<br />
+Phife Dawg &#038; Top Dogg &#8211; Cabbin Stabbin (12&#8243;, 2000)<br />
+Fu-Schnickens &#8211; F.U. &#8220;Don&#8217;t Take It Personal&#8221; (1992)<br />
+Chi-Ali &#8211; The Fabulous Chi-Ali (1992)<br />
+<a href="http://i1.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/2f898e2542b84713a820b74e21c50307-2f898e2542b84713a820b74e21c50307-0.jpg" rel="attachment wp-att-15603"><img src="http://i1.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/2f898e2542b84713a820b74e21c50307-2f898e2542b84713a820b74e21c50307-0.jpg?resize=600%2C450" alt="2f898e2542b84713a820b74e21c50307-2f898e2542b84713a820b74e21c50307-0" class="alignnone size-medium wp-image-15603" data-recalc-dims="1" /></a></p>
+<p><a href="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/113212477-recording-artist-phife-dawg-of-a-tribe-called-quest_1.jpg.CROP_.promo-xlarge2.jpg" rel="attachment wp-att-15604"><img src="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/113212477-recording-artist-phife-dawg-of-a-tribe-called-quest_1.jpg.CROP_.promo-xlarge2.jpg?resize=600%2C414" alt="113212477-recording-artist-phife-dawg-of-a-tribe-called-quest_1.jpg.CROP.promo-xlarge2" class="alignnone size-medium wp-image-15604" data-recalc-dims="1" /></a></p>
+<p>Phife Nutshell (prod. by J Dilla)</p>
+<p><iframe width="600" height="315" src="https://www.youtube.com/embed/cujUZvwqVjA" frameborder="0" allowfullscreen></iframe></p>
+<p>Phife ‘Nutshell’<br />
+(Malik Taylor, James Yancey) / Produced by J Dilla<br />
+Scratches by Dj Rasta Root / Smokin’ Needles Records 2016</p>
+<p>Engineered/Vocal Production by Jon Bonus / Recorded at Side 3 Studios /Mixed by Morgan Garcia / Mastered by Michael Romanowski</p>
+<p>Executive Produced by / Dion Liverpool / Directed by Tony Reames</p>
+<p>Director of Photography / Nick Lauinger</p>
+<p>Geran Daniels 1st Assistant Camera / Rosa Islas 2nd Assistant Camera<br />
+Nsil AUDIO ENGINEER  / JAHAH LOCATION MANAGER / Kenny Wallace Property Manager / Omar Farlow Still Photographer<br />
+Tymm Hoffman TymmText / Joe Stu /Jamal St. Cyr</p>
+<p>Special Thanks to Mike G, Pos, Jarobi, Pete Rock, Maseo, Rakim, Ali Shaheed Muhammad, Q-Tip and Redman.</p>
+<p>Thanks to Dj Nabs, Kangol Kid, J-live, Jamal, Dres tha Beatnik, Prince Po, Dave (Plug 2), Rapper Big Pooh, Busy Bee, Don Newkirk, Dinco D, Greg Nice, Talib Kweli, Just Blaze, Ras Kass, Dante Ross, Prince Paul</p>
+<p>Praise GOD from whom all blessings flow<br />
+Thanks to Mom,Dad,Uncle Russ,Zack,Nikki,Dizzle,The Smith Family (Evan,Kia,Kira,Kaylia),Ashlee, Mark ‘Poon’ Chan, Morgan Garcia, Tony Reames &#038; team, Pillows, Mark Woods, Dion &#038; The Liverpool family, The DeLong Family, all family &#038; friends<br />
+dedicated 2<br />
+Granny Boyce,Uncle Kenny, Frank Liverpool Dave,Fudge Darcelin, Baby Chris Lighty &#038; J Dilla!!!</p>
+<p>From the forthcoming EP<br />
+‘Give Thanks’<br />
+On Smokin Needles Records</p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span><span class='st_tumblr_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span><span class='st_facebook_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span><span class='st_fblike_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span><span class='st_plusone_hcount' st_title='Phife Dawg &#8211; A Tribe Called Quest / VINYLS' st_url='http://www.hiphopnometry.org/?p=15607'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="single" id="post-15601">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15601" rel="bookmark" title="Permanent Link to Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014">Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On April - 5 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15601#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p> Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014<br />
+<a href="http://i1.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/484054476.jpg" rel="attachment wp-att-15600"><img src="http://i1.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/484054476.jpg?resize=600%2C450" alt="484054476" class="alignnone size-medium wp-image-15600" data-recalc-dims="1" /></a></p>
+<p><a href="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/maxresdefault.jpg" rel="attachment wp-att-15599"><img src="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/maxresdefault.jpg?resize=600%2C450" alt="maxresdefault" class="alignnone size-medium wp-image-15599" data-recalc-dims="1" /></a></p>
+<p>Boom Bap at its finest: Man Of Boom were rocking a show with the energy of the golden era at the Make The Hood Look Good Festival. Figub Brazlevič&#8217;s beats with their typical vibe fitted perfectly together with Juju Rogers and Teknical Development on the stage. They really brought the boom back with their first show in switzerland!<br />
+SUPPORT :<br />
+ Back To The Boom!<br />
+<iframe width="600" height="315" src="https://www.youtube.com/embed/fpM3LY791ok" frameborder="0" allowfullscreen></iframe></p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span><span class='st_tumblr_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span><span class='st_facebook_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span><span class='st_fblike_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span><span class='st_plusone_hcount' st_title='Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014' st_url='http://www.hiphopnometry.org/?p=15601'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="single" id="post-15597">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15597" rel="bookmark" title="Permanent Link to ISAAC SIN DIOS / Luz de luna">ISAAC SIN DIOS / Luz de luna</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On April - 2 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15597#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p>ISAAC SIN DIOS / Luz de luna </p>
+<p><a href="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg" rel="attachment wp-att-15596"><img src="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?resize=600%2C600" alt="12647141_153300521716728_8291804307212981226_n" class="alignnone size-medium wp-image-15596" srcset="http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?resize=150%2C150 150w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?resize=300%2C300 300w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?resize=768%2C768 768w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?resize=50%2C50 50w, http://i0.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/04/12647141_153300521716728_8291804307212981226_n.jpg?w=960 960w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a></p>
+<p>Videoclip del single &#8220;luz de luna&#8221; perteneciente al EP &#8220;Antititierra&#8221; . Isaac sin dios a las rimas y TianBeats a los ritmos. Grabado y mezclado por TZprod en Luz de Zulo, master a cargo de Mpadrums en Pasando el baño .Scratching a cargo de Mxht .Grabación y edición por Danielprizz audiovisual.<br />
+Barcelona 2016.</p>
+<p><iframe width="600" height="315" src="https://www.youtube.com/embed/KTkaX9vMRGo" frameborder="0" allowfullscreen></iframe></p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span><span class='st_tumblr_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span><span class='st_facebook_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span><span class='st_fblike_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span><span class='st_plusone_hcount' st_title='ISAAC SIN DIOS / Luz de luna' st_url='http://www.hiphopnometry.org/?p=15597'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="single" id="post-15592">
+
+<div class="title">
+<h2><a href="http://www.hiphopnometry.org/?p=15592" rel="bookmark" title="Permanent Link to LA ESE / RESCATE A LA ESENCIA">LA ESE / RESCATE A LA ESENCIA</a></h2>
+<div class="date"><span class="author">Ink Slinger: RocktheCity</span> <span class="clock"> On March - 23 - 2016</span><span class="comm"><a href="http://www.hiphopnometry.org/?p=15592#respond">ADD COMMENTS</a></span><span class="edit"> </span>	</div>	
+</div>
+
+<div class="cover">
+
+<div class="entry">
+
+<p>LA ESENCIA / RESCATE A LA ESENCIA<br />
+<a href="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg" rel="attachment wp-att-15590"><img src="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=600%2C600" alt="cover esencia" class="alignnone size-medium wp-image-15590" srcset="http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=150%2C150 150w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=300%2C300 300w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=768%2C768 768w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=1024%2C1024 1024w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?resize=50%2C50 50w, http://i2.wp.com/www.hiphopnometry.org/wp-content/uploads/2016/03/cover-esencia-.jpg?w=1400 1400w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a><br />
+Donde queda la conciencia? Encuentra la esencia en estas letras,en estos golpes de ritmo<br />
+scratch Y sonido de sampleo sucio a cargo de Caba + 2 tracks producidos por Ribon y Ger1,<br />
+masterización y mezcla a cargo de Maniman / sonido callejero,sonido consciente /Grabado y editado en vinyl x3LP En 2009 /support:<br />
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3198295384/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://vinylarmy.bandcamp.com/album/la-esencia-rescate-a-la-esencia">LA ESENCIA / Rescate  A La Esencia by LA ESENCIA</a></iframe></p>
+<p class="no-break"><span class='st_pinterest_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span><span class='st_tumblr_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span><span st_via='HipHopNometry' st_username='PeetCaliber' class='st_twitter_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span><span class='st_facebook_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span><span class='st_fblike_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span><span class='st_plusone_hcount' st_title='LA ESE / RESCATE A LA ESENCIA' st_url='http://www.hiphopnometry.org/?p=15592'></span></p>					<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="singleinfo">
+
+	<div class="category"><a href="http://www.hiphopnometry.org/?cat=9" rel="category">Respect the Science</a> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 <div id="navigation">
+
+		<div class='wp-pagenavi'>
+<span class='pages'>Page 1 of 138</span><span class='current'>1</span><a class="page larger" href="http://www.hiphopnometry.org/?paged=2">2</a><a class="page larger" href="http://www.hiphopnometry.org/?paged=3">3</a><a class="page larger" href="http://www.hiphopnometry.org/?paged=4">4</a><a class="page larger" href="http://www.hiphopnometry.org/?paged=5">5</a><span class='extend'>...</span><a class="larger page" href="http://www.hiphopnometry.org/?paged=10">10</a><a class="larger page" href="http://www.hiphopnometry.org/?paged=20">20</a><a class="larger page" href="http://www.hiphopnometry.org/?paged=30">30</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="http://www.hiphopnometry.org/?paged=2">&raquo;</a><a class="last" href="http://www.hiphopnometry.org/?paged=138">Last &raquo;</a>
+</div>  
+
+</div>
+
+
+
+	
+
+
+
+
+
+
+
+
+<a href="http://www.peetcaliber.com/" target="_blank"><img src="http://www.hiphopnometry.org/wp-content/uploads/2015/05/plavoe12.jpg"></a>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50538011-1', 'hiphopnometry.org');
+ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</div>
+
+
+<div id="rightcol">
+<a href="http://www.hiphopnometry.org"><img src="http://www.hiphopnometry.org/wp-content/uploads/2015/05/blk3wht1.jpg" width="100%"></a>
+<img src="http://www.hiphopnometry.org/wp-content/uploads/2015/05/blk3wht2.jpg" width="100%">
+<img src="http://www.hiphopnometry.org/wp-content/uploads/2015/05/blk3wht3.jpg" width="100%">
+
+<div class="highlight">
+
+<center>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/mY-yZXuP8lQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+<a target="_blank" title="Amazon" href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-keywords=Peet%20Caliber"><img src="http://www.peetcaliber.com/images/amazon.png" alt="amazon" title="Amazon" width="32" height="32"></a> 
+
+<a target="_blank" title="iTunes" href="https://itunes.apple.com/us/artist/peet-caliber/id483254016"><img src="http://www.peetcaliber.com/images/itunes.png" alt="itunes" title="iTunes" width="32" height="32"></a>
+
+<a target="_blank" title="eMusic" href="http://www.emusic.com/artist/peet-caliber/13539330/"><img src="
+http://www.peetcaliber.com/images/emusic-logo.png" alt="emusic" title="eMusic" width="32" height="32"></a> 
+
+<a target="_blank" title="Google Play" href="https://play.google.com/store/search?q=peet+caliber&c=music&docType=4">
+<img src="http://www.peetcaliber.com/images/googleplay-icon.png" alt="googleplay" title="Google Play" width="32" height="32"></a> 
+
+<a target="_blank" title="Bandcamp" href="http://askouniversity.bandcamp.com"><img src="
+http://www.peetcaliber.com/images/icon-bandcamp.png" alt="bandcamp" title="Bandcamp" width="32" height="32"></a>
+
+<a target="_blank" title="Spotify" href="https://play.spotify.com/album/5vl0YyM2L3Nq0ymuYyscTH?play=true&utm_source=open.spotify.com&utm_medium=open
+"><img src="http://www.peetcaliber.com/images/Spotify-logo.png" alt="spotify" title="Spotify" width="32" height="32"></a>
+
+<a target="_blank" title="Deezer" href="http://www.deezer.com/es/album/7232794"><img src="
+http://www.peetcaliber.com/images/deezer-icon.png" alt="deezer" title="Deezer" width="32" height="32"></a>
+
+<a target="_blank" title="Rdio" href="http://www.rdio.com/artist/Peet_Caliber/"><img src="
+http://www.peetcaliber.com/images/rdio-icon.png" alt="rdio" title="Rdio" width="32" height="32"></a>
+
+<a target="_blank" title="Twitter" href="http://www.twitter.com/peetcaliber"><img src="
+http://www.peetcaliber.com/images/twitter.png" alt="twitter" title="Twitter" width="32" height="32"></a>
+</center>
+
+<center>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/124248951&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe id='audio_4954147' frameborder='0' allowfullscreen='' scrolling='no' height='200' src='http://www.ivoox.com/player_ej_4954147_4_1.html?c1=078234' style='border:1px solid #EEE; box-sizing:border-box; width:100%;'></iframe>
+<br>
+</center>
+
+
+</div>
+<br>
+<div id="sidebar">
+<div class="sidebar3"><h2>Search</h2><ul><li>
+	<form id="search_form">
+	<input type="text" name="srch_txt" id="srch_txt" oninput="javascipt:do_search_js(document.getElementById('srch_txt').value)" />
+	<input name="action" type="hidden" value="the_search_text" />
+	</form><div id="search_result">Type your search in the search box.</div></li></ul></div>
+ <div class="sidebar3">
+				
+
+        </ul>
+	
+</div>
+<div class="sidebar2">
+<ul>
+<li id="recent-posts-plus-2" class="widget widget_recent_entries"><h2 class="widgettitle">Recent Dopium:</h2>
+<ul><li><a title="Dolomight The Lyrical Genius" href="http://www.hiphopnometry.org/?p=15616">Dolomight The Lyrical Genius</a></li><li><a title="BOOMBOX" href="http://www.hiphopnometry.org/?p=15612">BOOMBOX</a></li><li><a title="Phife Dawg &#8211; A Tribe Called Quest / VINYLS" href="http://www.hiphopnometry.org/?p=15607">Phife Dawg &#8211; A Tribe Called Quest / VINYLS</a></li><li><a title="Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014" href="http://www.hiphopnometry.org/?p=15601">Man Of Boom &#8211; Live / Make The Hood Look Good &#8211; CHTV Openair Season 2014</a></li><li><a title="ISAAC SIN DIOS / Luz de luna" href="http://www.hiphopnometry.org/?p=15597">ISAAC SIN DIOS / Luz de luna</a></li><li><a title="LA ESE / RESCATE A LA ESENCIA" href="http://www.hiphopnometry.org/?p=15592">LA ESE / RESCATE A LA ESENCIA</a></li><li><a title="D R O G A / Champa &#038; Calagad 13 feat Blow GND &#038; Yunes One" href="http://www.hiphopnometry.org/?p=15586">D R O G A / Champa &#038; Calagad 13 feat Blow GND &#038; Yunes One</a></li><li><a title="RIBON /  ENDLESS LOOPER" href="http://www.hiphopnometry.org/?p=15581">RIBON /  ENDLESS LOOPER</a></li><li><a title="DJ ZEACK / Strictly vinyl" href="http://www.hiphopnometry.org/?p=15577">DJ ZEACK / Strictly vinyl</a></li><li><a title="Vinilos &#8211; Digable Planets" href="http://www.hiphopnometry.org/?p=15574">Vinilos &#8211; Digable Planets</a></li><li><a title="Mc Shinobi / Mc Shinobi" href="http://www.hiphopnometry.org/?p=15571">Mc Shinobi / Mc Shinobi</a></li><li><a title="Mental Dimension / MD&#8217;s On The Come In" href="http://www.hiphopnometry.org/?p=15568">Mental Dimension / MD&#8217;s On The Come In</a></li><li><a title="ARIS MC / ARISFACTS" href="http://www.hiphopnometry.org/?p=15562">ARIS MC / ARISFACTS</a></li><li><a title="Watching my name go by &#8211; 1976 New York City Graffiti" href="http://www.hiphopnometry.org/?p=15558">Watching my name go by &#8211; 1976 New York City Graffiti</a></li><li><a title="VINILOS / GHOSTFACE KILLAH" href="http://www.hiphopnometry.org/?p=15554">VINILOS / GHOSTFACE KILLAH</a></li><li><a title="Ribon / ENDLESS LOOPER" href="http://www.hiphopnometry.org/?p=15550">Ribon / ENDLESS LOOPER</a></li><li><a title="Kage / JuankaElblanko / Riak /* STREETART *" href="http://www.hiphopnometry.org/?p=15544">Kage / JuankaElblanko / Riak /* STREETART *</a></li><li><a title="COSTA RICA / ZULU NATION / HAGAMOSLO POSIBLE" href="http://www.hiphopnometry.org/?p=15540">COSTA RICA / ZULU NATION / HAGAMOSLO POSIBLE</a></li><li><a title="PINAN 450F / MI MUSICA" href="http://www.hiphopnometry.org/?p=15525">PINAN 450F / MI MUSICA</a></li><li><a title="JUST A LIVE MPC SESSIONS" href="http://www.hiphopnometry.org/?p=15522">JUST A LIVE MPC SESSIONS</a></li><li><a title="Calagad 13 / Drum Love" href="http://www.hiphopnometry.org/?p=15518">Calagad 13 / Drum Love</a></li><li><a title="JAJA BREAKS" href="http://www.hiphopnometry.org/?p=15513">JAJA BREAKS</a></li><li><a title="Teknical Development.IS / THE 8 : Vol.One" href="http://www.hiphopnometry.org/?p=15507">Teknical Development.IS / THE 8 : Vol.One</a></li><li><a title="freshco &#038; miz" href="http://www.hiphopnometry.org/?p=15504">freshco &#038; miz</a></li><li><a title="I &#038; Ideal &#8211; Rumours Of War" href="http://www.hiphopnometry.org/?p=15499">I &#038; Ideal &#8211; Rumours Of War</a></li><li><a title="CHAR / Nous Contre Eux Vol.1" href="http://www.hiphopnometry.org/?p=15496">CHAR / Nous Contre Eux Vol.1</a></li><li><a title="UHURU" href="http://www.hiphopnometry.org/?p=15491">UHURU</a></li><li><a title="DEMI PORTION / Mes outils" href="http://www.hiphopnometry.org/?p=15488">DEMI PORTION / Mes outils</a></li><li><a title="Harcore Rebelation / MISMO" href="http://www.hiphopnometry.org/?p=15482">Harcore Rebelation / MISMO</a></li><li><a title="Hell Razah aka Rampage aka X-Rated  / Death To The Head 1990-1991 EP" href="http://www.hiphopnometry.org/?p=15478">Hell Razah aka Rampage aka X-Rated  / Death To The Head 1990-1991 EP</a></li><li><a title="Big Squig" href="http://www.hiphopnometry.org/?p=15475">Big Squig</a></li><li><a title="PACO / Errant" href="http://www.hiphopnometry.org/?p=15470">PACO / Errant</a></li><li><a title="The Cancel / No Way To Stay" href="http://www.hiphopnometry.org/?p=15465">The Cancel / No Way To Stay</a></li><li><a title="Troubleneck Brothers" href="http://www.hiphopnometry.org/?p=15460">Troubleneck Brothers</a></li><li><a title="Ribon / Hall of Frame" href="http://www.hiphopnometry.org/?p=15454">Ribon / Hall of Frame</a></li><li><a title="Eloquent &#038; Wun Two / Jazz Auf Gleich" href="http://www.hiphopnometry.org/?p=15451">Eloquent &#038; Wun Two / Jazz Auf Gleich</a></li><li><a title="Luk&#038;Fil / All That Glitter Ain&#8217;t Soul" href="http://www.hiphopnometry.org/?p=15447">Luk&#038;Fil / All That Glitter Ain&#8217;t Soul</a></li><li><a title="Luk&#038;Fil / Nepuman" href="http://www.hiphopnometry.org/?p=15443">Luk&#038;Fil / Nepuman</a></li><li><a title="Kalhex /  Kalhex" href="http://www.hiphopnometry.org/?p=15438">Kalhex /  Kalhex</a></li><li><a title="Pete Flux &#038; Parental ‎/ Traveling Thought" href="http://www.hiphopnometry.org/?p=15435">Pete Flux &#038; Parental ‎/ Traveling Thought</a></li></ul></li>
+</ul>
+
+</div>
+<div class="sidebar1">
+	
+	<ul>
+	<li id="archives-5" class="widget widget_archive"><h2 class="widgettitle">ANCIENT HISTORY:</h2>
+		<ul>
+			<li><a href='http://www.hiphopnometry.org/?m=201604'>April 2016</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201603'>March 2016</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201602'>February 2016</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201601'>January 2016</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201512'>December 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201511'>November 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201510'>October 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201509'>September 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201508'>August 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201507'>July 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201506'>June 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201505'>May 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201504'>April 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201503'>March 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201502'>February 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201501'>January 2015</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201412'>December 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201411'>November 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201410'>October 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201409'>September 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201408'>August 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201407'>July 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201406'>June 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201405'>May 2014</a></li>
+	<li><a href='http://www.hiphopnometry.org/?m=201404'>April 2014</a></li>
+		</ul>
+		</li>
+	</ul>
+
+</div>
+	
+</div>
+</div>
+
+ <div class="clear"></div>
+ 
+</div>
+		
+</div>	
+<div id="footer">
+<center>
+<font size=1 color=#ffffff>
+Unless otherwise noted, All images and media property of:</font><br>
+<a href="http://www.peetcaliber.com/"  target="_blank"><img src="http://www.hiphopnometry.org/wp-content/uploads/2015/05/plavoe22.jpg" width="300" height="200"></a><br>
+
+</center>
+
+		
+</div>
+</div>
+
+
+
+    <!-- Start of StatCounter Code -->
+    <script>
+    <!-- 
+        var sc_project=9547310; 
+        var sc_security="c4c853a8"; 
+      var sc_invisible=1;
+        var scJsHost = (("https:" == document.location.protocol) ?
+        "https://secure." : "http://www.");
+    //-->
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/9547310/0/c4c853a8/1/" alt="web analytics" /></a></div></noscript>   
+    <!-- End of StatCounter Code -->
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201617'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.hiphopnometry.org/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+</body>
+</html> 
+     
