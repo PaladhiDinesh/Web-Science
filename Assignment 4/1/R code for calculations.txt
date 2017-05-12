@@ -1,9 +1,0 @@
-tmp <- read.csv("frnds_count_without_mln.csv")
-
-num_frnds <- tmp[,2]
-
-write(mean(num_frnds),stdout())
-
-write(median(num_frnds),stdout())
-
-write(sd(num_frnds),stdout())

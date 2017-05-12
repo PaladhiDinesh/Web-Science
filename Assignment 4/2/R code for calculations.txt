@@ -1,9 +1,0 @@
-tmp <- read.csv("followers_count_without_me.csv")
-
-followers_count <- tmp[,2]
-
-write(mean(followers_count),stdout())
-
-write(median(followers_count),stdout())
-
-write(sd(followers_count),stdout())

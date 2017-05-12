@@ -1,8 +1,0 @@
-Question 2
-hist_mementos = scan("only_count.csv")
-hist(hist_mementos,xlab= "Number of Mementos" , ylab= "Number of URI's",main ="Histogram of momento/URI's",xlim=c(0,150),ylim=c(0,200),las=1,breaks=100000,col=3)
-
-Question 3
-age=scan("age.csv")
-mementos=scan("num_mems.csv")
-plot(mementos,age,xlab="Number of mementos",ylab="Age in days",main="Scatter plot for Mementos/Days",las=1)

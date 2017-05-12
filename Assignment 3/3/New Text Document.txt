@@ -1,1 +1,0 @@
-cor.test(x, y, method = "kendall", alternative = "greater")
