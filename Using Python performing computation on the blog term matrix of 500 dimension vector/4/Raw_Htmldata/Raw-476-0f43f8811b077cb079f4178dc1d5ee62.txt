@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head >
+<meta charset="UTF-8" />
+<title>DIY Game Day Snack Stadium - Diana Rambles</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+<script type="text/javascript">
+var trackScrolling=false;
+var trackScrollingPercentage=false;
+var ScrollingPercentageNumber=25;
+var stLogInterval=10*1000;
+var cutOffTime=900;
+var trackNoEvents=false;
+var trackNoMaxTime=false;
+var docTitle='DIY Game Day Snack Stadium';
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Here is an easy tutorial for creating your own football game day snack stadium perfect for Super Bowl or college parties. Plans and printables are included."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DIY Game Day Snack Stadium - Diana Rambles" />
+<meta property="og:description" content="Here is an easy tutorial for creating your own football game day snack stadium perfect for Super Bowl or college parties. Plans and printables are included." />
+<meta property="og:url" content="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html" />
+<meta property="og:site_name" content="Diana Rambles" />
+<meta property="article:publisher" content="https://www.facebook.com/DianaRambles" />
+<meta property="article:author" content="https://www.facebook.com/DianaRambles/" />
+<meta property="article:tag" content="Ad" />
+<meta property="article:tag" content="CBias" />
+<meta property="article:tag" content="Collective Bias" />
+<meta property="article:tag" content="digital scrapbook freebie" />
+<meta property="article:tag" content="football" />
+<meta property="article:tag" content="free download" />
+<meta property="article:tag" content="free printable" />
+<meta property="article:tag" content="freebie" />
+<meta property="article:tag" content="Games" />
+<meta property="article:tag" content="M&amp;Ms" />
+<meta property="article:tag" content="Mars" />
+<meta property="article:tag" content="snack stadium" />
+<meta property="article:tag" content="snacks" />
+<meta property="article:tag" content="sponsored" />
+<meta property="article:tag" content="TeamMARS" />
+<meta property="article:tag" content="tutorial" />
+<meta property="article:tag" content="video" />
+<meta property="article:tag" content="Walmart" />
+<meta property="article:tag" content="YouTube" />
+<meta property="article:section" content="DIY/Craft" />
+<meta property="article:published_time" content="2016-01-13T13:00:00-05:00" />
+<meta property="article:modified_time" content="2016-04-10T22:19:05-05:00" />
+<meta property="og:updated_time" content="2016-04-10T22:19:05-05:00" />
+<meta property="og:image" content="http://dianarambles.com/wp-content/uploads/2016/02/DIY-Game-Day-Snack-Stadium-Plans-Printable.jpg" />
+<meta property="og:image:width" content="625" />
+<meta property="og:image:height" content="740" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Here is an easy tutorial for creating your own football game day snack stadium perfect for Super Bowl or college parties. Plans and printables are included." />
+<meta name="twitter:title" content="DIY Game Day Snack Stadium - Diana Rambles" />
+<meta name="twitter:site" content="@dianarambles" />
+<meta name="twitter:image" content="http://dianarambles.com/wp-content/uploads/2016/02/DIY-Game-Day-Snack-Stadium-Plans-Printable.jpg" />
+<meta name="twitter:creator" content="@dianarambles" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Diana Rambles &raquo; Feed" href="http://dianarambles.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Diana Rambles &raquo; Comments Feed" href="http://dianarambles.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Diana Rambles &raquo; DIY Game Day Snack Stadium Comments Feed" href="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/dianarambles.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://dianarambles.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='child-theme-css'  href='http://dianarambles.com/wp-content/themes/restored316-divine/style.css?ver=2.2.7' type='text/css' media='all' />
+<style id='child-theme-inline-css' type='text/css'>
+
+		
+		.title-area,
+		button, input[type="button"], 
+		input[type="reset"], 
+		input[type="submit"], 
+		.button, 
+		.entry-content .button,
+		.enews-widget input[type="submit"],
+		.content .entry-header .entry-meta .entry-categories a:hover {
+			background: #0000a0;
+		}
+		
+		.title-area {
+			outline-color: #0000a0;
+		}
+		
+		a:hover,
+		.entry-title a:hover, 
+		.footer-widgets .entry-title a:hover {
+			color: #0000a0;
+		}
+		
+		.woocommerce .woocommerce-message,
+		.woocommerce .woocommerce-info {
+			border-top-color: #0000a0 !important;
+		}
+		
+		.woocommerce .woocommerce-message::before,
+		.woocommerce .woocommerce-info::before,
+		.woocommerce div.product p.price,
+		.woocommerce div.product span.price,
+		.woocommerce ul.products li.product .price,
+		.woocommerce form .form-row .required {
+			color: #0000a0 !important;
+		}
+		
+		.woocommerce #respond input#submit, 
+		.woocommerce a.button, 
+		.woocommerce button.button, 
+		.woocommerce input.button,
+		.woocommerce span.onsale,
+		.easyrecipe .ui-button-text-icon-primary .ui-button-text, 
+		.easyrecipe .ui-button-text-icons .ui-button-text {
+			background-color: #0000a0 !important;
+		}
+		
+		
+
+		a,
+		.genesis-nav-menu li:hover,
+		.genesis-nav-menu a:hover,
+		.site-header .genesis-nav-menu a:hover,
+		.entry-title a,
+		.sidebar .widget-title a {
+			color: #cb31a1;
+		}
+		
+		
+		}
+		
+</style>
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://dianarambles.com/wp-content/plugins/instagram-feed/css/sb-instagram.css?ver=1.3.11' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_icons-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?1&#038;ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=EB+Garamond%7COpen+Sans%3A400%2C300italic%2C300%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CSource+Serif+Pro&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://dianarambles.com/wp-includes/css/dashicons.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://dianarambles.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.12' type='text/css' media='all' />
+<link rel='stylesheet' id='yarpp-thumbnails-yarpp-thumbnail-css'  href='http://dianarambles.com/wp-content/plugins/yet-another-related-posts-plugin/includes/styles_thumbnails.css.php?width=120&#038;height=120&#038;ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var data = {"hash":"629d993e43441f988aa7139f483fd924"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dianarambles.com/wp-content/plugins/en-spam/en-spam.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-content/themes/restored316-divine/js/responsive-menu.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://dianarambles.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dianarambles.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dianarambles.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://dianarambles.com/?p=47' />
+<link rel="alternate" type="application/json+oembed" href="http://dianarambles.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdianarambles.com%2F2016%2F01%2Fdiy-game-day-snack-stadium.html" />
+<link rel="alternate" type="text/xml+oembed" href="http://dianarambles.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdianarambles.com%2F2016%2F01%2Fdiy-game-day-snack-stadium.html&#038;format=xml" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><style type="text/css">	.ssba {
+									
+									
+									
+									-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;  border-radius: 10px; -o-border-radius: 10px;
+								}
+								.ssba img
+								{
+									width: 33px !important;
+									padding: 2px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									
+									font-size: 	20px;
+									
+									font-weight: bold;
+								}</style><script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="a7947a2d442a5e2de720f052088cf2d98b6001d5e3f2bf3bd2df712f93c4e839" async></script><link rel="Shortcut Icon" href="http://dianarambles.com/wp-content/themes/restored316-divine/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://dianarambles.com/xmlrpc.php" />
+<style type="text/css">.site-title a { background: url(http://dianarambles.com/wp-content/uploads/2016/04/DR-416-Header1.jpg) no-repeat !important; }</style>
+<!--[if lt IE 9]><script src="http://dianarambles.com/wp-content/themes/genesis/lib/js/html5shiv.min.js"></script><![endif]-->
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #FFFFFF !important; border-radius: 0px; color: #0000a0 !important; border: 0px #FFFFFF solid !important; font-size: 20px; padding: 10px; }  .simple-social-icons ul li a:hover { background-color: #FFFFFF !important; border-color: #FFFFFF !important; color: #dc11a5 !important; }</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<style type="text/css">
+</style>
+<script src='/google_analytics_auto.js'></script></head>
+<body class="single single-post postid-47 single-format-standard custom-background custom-header header-image content-sidebar" itemscope itemtype="http://schema.org/WebPage"><nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-top" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-3359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3359"><a href="http://dianarambles.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-3360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3360"><a href="http://dianarambles.com/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-3361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3361"><a href="http://dianarambles.com/about-diana" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-3384" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3384"><a href="http://dianarambles.com/category/my-life" itemprop="url"><span itemprop="name">My Life</span></a></li>
+<li id="menu-item-3363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3363"><a href="http://dianarambles.com/contact-advertising-and-disclosure-for" itemprop="url"><span itemprop="name">Disclosure</span></a></li>
+<aside class="widget-area"><section id="simple-social-icons-1" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="social-email"><a href="mailto:dianarambles@gmail.com" target="_blank">&#xe60d;</a></li><li class="social-facebook"><a href="http://www.facebook.com/dianarambles" target="_blank">&#xe606;</a></li><li class="social-gplus"><a href="http://plus.google.com/u/0/104329577442048654929/" target="_blank">&#xe60e;</a></li><li class="social-instagram"><a href="http://www.instagram.com/dianarambles" target="_blank">&#xe600;</a></li><li class="social-pinterest"><a href="http://www.pinterest.com/dianarambles" target="_blank">&#xe605;</a></li><li class="social-twitter"><a href="http://www.twitter.com/dianarambles" target="_blank">&#xe607;</a></li><li class="social-youtube"><a href="https://www.youtube.com/user/DianaRambles?nohtml5=False" target="_blank">&#xe60f;</a></li></ul></div></section>
+</aside></ul></div></nav><div class="site-container"><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://dianarambles.com/">Diana Rambles</a></p><p class="site-description" itemprop="description">creative simple frugal</p></div><div class="widget-area header-widget-area"><section id="nav_menu-1" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-main" class="menu genesis-nav-menu"><li id="menu-item-3367" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3367"><a href="http://dianarambles.com/category/food" itemprop="url"><span itemprop="name">Food</span></a></li>
+<li id="menu-item-3368" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3368"><a href="http://dianarambles.com/category/diycraft" itemprop="url"><span itemprop="name">DIY/Craft</span></a></li>
+<li id="menu-item-3369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3369"><a href="http://dianarambles.com/category/tipsadvice" itemprop="url"><span itemprop="name">Tips/Advice</span></a></li>
+<li id="menu-item-3370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3370"><a href="http://dianarambles.com/category/printables" itemprop="url"><span itemprop="name">Free Printables</span></a></li>
+<li id="menu-item-3366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3366"><a href="http://dianarambles.com/category/linky-party" itemprop="url"><span itemprop="name">Linky Party</span></a></li>
+</ul></nav></div></section>
+</div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-47 post type-post status-publish format-standard has-post-thumbnail category-diycraft category-food tag-ad tag-cbias tag-collective-bias tag-digital-scrapbook-freebie tag-football tag-free-download tag-free-printable tag-freebie tag-games tag-mms tag-mars tag-snack-stadium tag-snacks tag-sponsored tag-teammars tag-tutorial tag-video tag-walmart tag-youtube entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><p class="entry-meta"><span class="entry-categories"><a href="http://dianarambles.com/category/diycraft" rel="category tag">DIY/Craft</a> <a href="http://dianarambles.com/category/food" rel="category tag">Food</a></span></p><h1 class="entry-title" itemprop="headline">DIY Game Day Snack Stadium</h1> 
+</header><div class="entry-content" itemprop="text"><div dir="ltr" id="docs-internal-guid-572a2496-4490-b068-9786-2c876acdf484" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;">
+This shop has been compensated by Collective Bias, Inc. and its advertiser. </div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;">
+All opinions are mine alone. #GameDayGlory #CollectiveBias</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Come see how easy it is to make a snack stadium for your game day celebration! Building plans and free stadium decoration printables are included in this post.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img alt="DIY Game Day Snack Stadium #GameDayGlory AD #football #snacks" height="739" src="https://lh4.googleusercontent.com/NxaFppVJKOIta1uYB6LLvY5N8YlryIQJxSdrg_eSep5v61hsP-cIAQQjdMj4Pk88euWAAkkK2ehCTlUkROTHbeEXjHMP2XkHpRjHKeXF4VY2RWHz2Jm-dne-2SoxyXFE_01UO7TV" style="border: none; transform: rotate(0rad);" title="" width="624" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+It&#8217;s playoff time and excitement is in the air! We love to have people over to watch games and cheer on our favorite teams. What does every football party need? Great friends and great snacks. This year I decided to celebrate with a fun, DIY snack stadium.</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+When I sat down to design the snack stadium, I wasn&#8217;t sure what size to make it. I realized that size hinged on the materials I used. I considered wood, but that would make for a heavy stadium and require painting. You all know that I am a simple kind of gal, so I wanted my stadium to be easy. I decided to use white foam boards. They are light, easy to cut, and make for easy storage. The standard size of a foam board is 20&#8243; x 30&#8243;, so I knew my size limits. I grabbed some graph paper and started designing.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="787" src="https://lh5.googleusercontent.com/s1Q8ccqTDFQM_JZ5tnrTyg2LLv_lBm8SDHMFYbve-Bv2faJCpNBv6MZKIixw4zT9awlG3saJJSvvd0fRXx4UZt0vEDV3IrWSWjk9PTwhyUzK1nwAo0RBlyRWcMZwct3P4TnODUVn" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="624" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I began thinking of how I wanted to decorate the snack stadium. I have access to a printer that makes 11&#8243; x 17&#8243; prints, so I created large graphics. I decided to cut them in half so that they can be printed on a standard printer. I am offering both the 11&#8243; x 17&#8243; and 8.5&#8243; x 11&#8243; graphics as a free download so that you can print and decorate your own stadium.</div>
+<h3 dir="ltr" style="line-height: 1.38; margin-bottom: 4pt; margin-top: 14pt;">
+DIY Snack Stadium</h3>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+(Finished stadium is 11”18)</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Supplies</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+3 pieces of 20&#8243; x 30&#8243; foam board</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+utility tape</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+large straight edge</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+pencil</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+utility knife</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+snack stadium decorations (<a href="https://sites.google.com/a/dianarambles.com/media/home/snack-stadium-decorations" target="_blank">click here</a> for free download)</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+clear tape or glue</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+baker&#8217;s twine</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+wooden skewers</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+toy goal posts and ball</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+SNICKERS® Minis 40oz.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Skittles® XL 41 oz.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+TOSTITOS® Medium Chunky Salsa</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+TOSTITOS® Original Party Size or Scoops Party Size</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Pepsi™ 20 oz. bottles</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="505" src="https://lh4.googleusercontent.com/ptS7xnvvzlLwgAiDAjdO3Kf3HXHrbwqfrknaztKyxCxbSSL4hY-Uui0ZfyF3jwQ9lFxf3jLVtYx3jJd30eUdoIDttsGzmuDTNigzADgLcJrZwWdAfBasJtVYeZOz4NqEGt9c3VfN" style="border: none; transform: rotate(0rad);" width="624" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Directions</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Using your straight edge, mark the pattern on the foam board. You need the following pieces:</div>
+<ul style="margin-bottom: 0pt; margin-top: 0pt;">
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+A (2) 11&#8243; x 3&#8243; (inside end zone)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+B (2) 18&#8243; x 3&#8243; (inside sideline)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+C (2) 11&#8243; x 6&#8243; (outsize end zone)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+D (2) 18&#8243; x 6&#8243; (outside sideline)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+E (8) 1/2 of 3&#8243; x 6&#8243; (diagonal supports)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+F (4) 6&#8243; x 6&#8243; (outside corners)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+optional: X1 (4) 1/2 of 2&#8243; x 4&#8243; (inside brace for end zone)</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+optional: X2 (2) 11&#8243; x 5&#8243; (inside platform for end zone)</div>
+</li>
+</ul>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="383" src="https://lh6.googleusercontent.com/5VOVgsvDMrVijl3lJbejawG0iAttcdPJs5U0cpGDWrZ2faJw8xwaPvv60dW4BXLG1loE5uGuqAgGXSpBU6d8VSdWUVh4QmUzrpjuFzFl9DoiRU_K_p2ZYEmmm9zM26e1k-DQVC21" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="624" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Using your utility cutter carefully cut out the foam stadium pieces along the marked lines.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Cut out stadium decorations.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="395" src="https://lh6.googleusercontent.com/tzjnKSxMqUr7015CQ9YUbVGivfn2zNziER3FTOTA4wlm1alMlJ_5ab8sNWGLykELKpzHNWiNdXl66-XaWE-WIDTrKr14mtjPIT5s8FmIBll9XoTfKlseLuayejhDP16dXZLosxBP" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="624" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Assemble your snack stadium as follows:</div>
+<p></p>
+<ul style="margin-bottom: 0pt; margin-top: 0pt;">
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Attach pieces A &amp; C to form the inside walls of the stadium.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Attach pieces E to each corner.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Attach pieces B &amp; D to create the outside walls of the stadium.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Attach pieces F to the outside corners to finish off the stadium structure.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Optional: Attach pieces X1 &amp; X2 for inside platform if desired. We had to trim these slightly for them to fit.</div>
+</li>
+</ul>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="798" src="https://lh4.googleusercontent.com/n-xf3ZjIjkX0YbkxLzmwsz5ZVxPyqxCwanl63sqdv87vf3y6k4hp_0rwmMJk_UQy47wH-5t7by2WLI5LQ5PyMzUfbc_efFcf9La62Om7sKg4vi3MwS5Gi5w1InvzoAgk5giZ6KGQ" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="620" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I used white utility tape along the edges to hold them together. I put it together with small pieces of tape and then went back and used bigger pieces of tape to make the corner edges nicer.</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Decorate your snack stadium. I attached the pennants to baker&#8217;s twine and strung it between skewers stuck into the outside edge.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<img height="183" src="https://lh6.googleusercontent.com/j_WM9AYGMBvisf9PWvgWUUV-oJFTrWRRSoCMJBnaCUbjMTVGoh2WELvfmH20ijXXcnmuvKMb4upBcFrLrSs_0Py801Bpt4nwNa50fNgZdGJbParkj2KNa7qs-b_mqI_NJTWXKx4F" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="620" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Add your snacks and party!</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-left: 12pt; margin-right: 12pt; margin-top: 0pt; text-align: center;">
+<a href="http://cbi.as/21ojb" rel="nofollow" target="_blank"><img height="445" src="https://lh4.googleusercontent.com/Tktwxtmbk4M1vOTEJZcv90gDeljNCOuPBsg9DQN46dugOz_k9R-McHeedIGI6ora8Ap-GpYqFXlm03fODedNfgXQNRyBYkp9WnEVT3TGwX2UT7EHFjbkLZH-FAC-LgEvgke5FZ08" style="border: none; transform: rotate(0rad);" width="620" /></a></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Here is how I filled the stadium:</div>
+<p></p>
+<ul style="margin-bottom: 0pt; margin-top: 0pt;">
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I created Skittles® Candy Bark* and placed it in the end zone. *recipe below</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I opened a tall jar of TOSTITOS® Medium Chunky Salsa and placed it in the middle of the sidelines. TOSTITOS® Original Tortilla Chips filled the space on each side of the salsa.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I opened jar of queso and placed it to the other side of the stadium flanked by TOSTITOS® Scoops.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+SNICKERS® Minis were placed in two corners of the endzone and Skittles® were placed in the other two.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Pepsi™ 20 oz. bottles were placed on the outside corners of the stadium.</div>
+</li>
+<li dir="ltr" style="font-size: 16px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Football players were created with SNICKERS® Minis and soft taffy candies. I unwrapped red and yellow soft taffy candies and microwaved them for about 3 seconds to soften. I cut each in half, rolled each into a little round helmet shape, and place on top of unwrapped the SNICKERS® Minis. The helmets stuck to the chocolate as it hardened.<img height="524" src="https://lh6.googleusercontent.com/X0vYt1L1iFZDg1i_o1psF6XNwpLI4cGxoIlrsAwaNReBqLtUwMo73KsvqLbbCuHuvJ9d8Y3PrEad4Ck9mJIbBrBeSM-UPQXcSJId-5mUpMrXjELl8MJOnd8w5HMjzQWgWsGKNNXl" style="border: none; line-height: 1.38; text-align: center; transform: rotate(0rad);" width="620" /></div>
+</li>
+</ul>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 4pt; margin-right: 4pt; margin-top: 4pt;">
+Skittles® Candy Bark</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+<img height="435" src="https://lh4.googleusercontent.com/z6vyZDcpA0Upfn8CGjHxe6wpIFZ6kA9j4MCZDUvDxSsn0A58sfMBRLiRP47UseLd8ZrqtZh8QXAtQnuM8Z8GPhR28uixFqLqmW-rx_vlqbDfJqiU3AJkYxOMRW49rGHU33m5UoU4" style="-webkit-transform: rotate(0.00rad); border: none; transform: rotate(0.00rad);" width="400" /></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 4pt; margin-right: 4pt; margin-top: 4pt;">
+by Diana Rambles</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 3pt; margin-left: 3pt; margin-right: 3pt; margin-top: 3pt;">
+Keywords: microwave snack party bark</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Ingredients</div>
+<ul style="margin-bottom: 0pt; margin-top: 0pt;">
+<li dir="ltr" style="font-size: 14px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Skittles® Candy</div>
+</li>
+<li dir="ltr" style="font-size: 14px; list-style-type: disc; vertical-align: baseline;">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 2pt; margin-top: 0pt;">
+White Candy Melts</div>
+</li>
+</ul>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Instructions</div>
+<p></p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Melt the package of white candy melts according to the package directions.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Pour the melted candy onto a cookie sheet lined with wax paper or a silicone liner.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Generously sprinkle the Skittles® onto the bark.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Place in refrigerator to harden.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Break into small pieces to create the bark.</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;">
+Powered by <a href="http://www.recipage.com/" style="text-decoration: none;">Recipage</a></div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+I picked up all my supplies for this snack stadium at <a href="http://cbi.as/223w0" rel="nofollow" target="_blank">Walmart</a>. No game day celebration is complete without chips and dips, soda, and candy. I picked up&nbsp;SNICKERS®&nbsp;Minis 40oz.,&nbsp;Skittles®&nbsp;XL 41 oz., &nbsp;TOSTITOS®&nbsp;Medium Chunky Salsa,&nbsp;TOSTITOS®&nbsp;Original Party Size and Scoops Party Size, and</p>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+Pepsi™&nbsp;20 oz. bottles.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://cbi.as/223w0" rel="nofollow" target="_blank"><img border="0" height="640" src="https://1.bp.blogspot.com/-5Qn-Ho_EH6E/VuISKKD5QQI/AAAAAAAAaXg/uuMvVkYvuxYU2KvmhgvmW3ju5G4xl5r2w/s640/Game-Day-Glory-Walmart-Snickers.jpg" width="569" /></a></div>
+</div>
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+This DIY snack stadium was a lot of fun to make. I can&#8217;t wait to use it at our Big Game party! Have you ever made a snack stadium? Check out more game day snack stadium inspiration <a href="http://cbi.as/21ojb" rel="nofollow" target="_blank">here</a>.</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-Lt6GuKlOQy8/VuISbpZWZ8I/AAAAAAAAaXk/2H5UrTgX_NkHkg1Jdmak5383coczfAE-w/s1600/DIY-Game-Day-Snack-Stadium-Plans-Free-Printable.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="DIY Game Day Snack Stadium #GameDayGlory AD #football #snacks with free football stadium printables" border="0" src="https://4.bp.blogspot.com/-Lt6GuKlOQy8/VuISbpZWZ8I/AAAAAAAAaXk/2H5UrTgX_NkHkg1Jdmak5383coczfAE-w/s1600/DIY-Game-Day-Snack-Stadium-Plans-Free-Printable.jpg" title="" /></a></div>
+</div>
+<p> <iframe allowfullscreen="" frameborder="0" height="480" src="https://www.youtube.com/embed/I1JphTaufT4?rel=0&amp;controls=0" width="640"></iframe></p>
+<script type="text/javascript"> jQuery.ajax({
+							url: "http://dianarambles.com/wp-content/plugins/top-10/includes/top-10-addcount.js.php",
+							data: {
+								top_ten_id: 47,
+								top_ten_blog_id: 1,
+								activate_counter: 11,
+								top10_rnd: (new Date()).getTime() + "-" + Math.floor(Math.random() * 100000)
+							}
+						}); </script><div class='yarpp-related'>
+<h3>Related posts:</h3>
+<div class="yarpp-thumbnails-horizontal">
+<a class='yarpp-thumbnail' href='http://dianarambles.com/2016/03/diy-basketball-court-snack-stadium.html' title='DIY Basketball Court Snack Stadium'>
+<img width="111" height="120" src="http://dianarambles.com/wp-content/uploads/2016/03/DIY-Game-Time-Basketball-Court-Snack-Stadium.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="DIY-Game-Time-Basketball-Court-Snack-Stadium" srcset="http://dianarambles.com/wp-content/uploads/2016/03/DIY-Game-Time-Basketball-Court-Snack-Stadium-278x300.jpg 278w, http://dianarambles.com/wp-content/uploads/2016/03/DIY-Game-Time-Basketball-Court-Snack-Stadium.jpg 620w" sizes="(max-width: 111px) 100vw, 111px" /><span class="yarpp-thumbnail-title">DIY Basketball Court Snack Stadium</span></a>
+<a class='yarpp-thumbnail' href='http://dianarambles.com/2016/03/18-inch-doll-twister-game-night.html' title='18-Inch Doll Twister Game Night'>
+<img width="111" height="120" src="http://dianarambles.com/wp-content/uploads/2016/03/18-Inch-Doll-Twister-Game-Tutorial.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="18-Inch-Doll-Twister-Game-Tutorial" /><span class="yarpp-thumbnail-title">18-Inch Doll Twister Game Night</span></a>
+<a class='yarpp-thumbnail' href='http://dianarambles.com/2016/02/mozzarella-pizza-stackers-party-snack.html' title='Mozzarella Pizza Stackers Party Snack'>
+<img width="98" height="120" src="http://dianarambles.com/wp-content/uploads/2016/02/Farm-Rich-Mozzarella-Bites-Pizza-Stackers-1.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="Farm-Rich-Mozzarella-Bites-Pizza-Stackers-1" /><span class="yarpp-thumbnail-title">Mozzarella Pizza Stackers Party Snack</span></a>
+<a class='yarpp-thumbnail' href='http://dianarambles.com/2016/03/no-sew-fabric-easter-basket.html' title='No-Sew Fabric Easter Basket'>
+<img width="98" height="120" src="http://dianarambles.com/wp-content/uploads/2016/03/No-Sew-Fabric-Easter-Basket-Tutorial.jpg" class="attachment-yarpp-thumbnail size-yarpp-thumbnail wp-post-image" alt="No-Sew-Fabric-Easter-Basket-Tutorial" /><span class="yarpp-thumbnail-title">No-Sew Fabric Easter Basket</span></a>
+</div>
+</div>
+<!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html"
+    dc:identifier="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html"
+    dc:title="DIY Game Day Snack Stadium"
+    trackback:ping="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html/trackback" />
+</rdf:RDF>-->
+</div><footer class="entry-footer"><p class="entry-meta"><span class="dashicons dashicons-format-chat"></span><br><span class="entry-comments-link"><a href="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html#respond">Leave a Comment</a></span></p></footer><div class="adjacent-entry-pagination pagination"><div class="pagination-previous alignleft">&laquo; <a href="http://dianarambles.com/2016/01/my-2016-happiness-project.html" rel="prev">My 2016 Happiness Project</a></div><div class="pagination-next alignright"><a href="http://dianarambles.com/2016/01/blueberry-pineapple-angel-food-muffins.html" rel="next">Blueberry Pineapple Angel Food Muffins</a> &raquo;</div></div></article><div class="after-entry widget-area"><section id="enews-ext-4" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Subscribe</h4>
+<p>Get the latest delicious goodness straight to your inbox!</p>
+			<form id="subscribe-enews-ext-4" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open( 'http://feedburner.google.com/fb/a/mailverify?uri=dianarambles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" name="enews-ext-4">
+				<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="email" required="required" />
+				<input type="hidden" name="uri" value="dianarambles" />
+				<input type="hidden" name="loc" value="en_US" />
+				<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="text-11" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><img src="http://i254.photobucket.com/albums/hh91/customblogdesigns/lc4DR3.png" border="0" /></div>
+		</div></section>
+</div>
+
+<!-- *******************************************************************************************************************-->
+<!-- Comments Evolved for Wordpress v1.6 ( http://wordpress.org/plugins/gplus-comments/ ) -->
+<!-- *******************************************************************************************************************-->
+
+<!-- comment-tabs -->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  window.comment_tab_width = $('#comment-tabs').innerWidth();
+});
+</script>
+<div id="comment-tabs">
+<a name="comments"></a>
+    <ul class="controls inline clearfix">
+    <li class="active" id='wordpress-control'><a href='#wordpress-tab'><img id='wordpress-icon' src='http://dianarambles.com/wp-content/plugins/gplus-comments/assets/images/icons/default/wordpress.png'><span id='wordpress-label'></span></a></li>
+<li id='gplus-control'><a href='#gplus-tab'><img id='gplus-icon' src='http://dianarambles.com/wp-content/plugins/gplus-comments/assets/images/icons/default/gplus.png'><span id='gplus-label'></span></a></li>
+<li id='facebook-control'><a href='#facebook-tab'><img id='facebook-icon' src='http://dianarambles.com/wp-content/plugins/gplus-comments/assets/images/icons/default/facebook.png'><span id='facebook-label'></span></a></li>
+  </ul>
+  <!-- wordpress-tab -->
+<div id='wordpress-tab' class='embed-container content-tab clearfix'>
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/01/diy-game-day-snack-stadium.html#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://dianarambles.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='47' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		</div>
+<!-- //wordpress-tab -->
+<!-- gplus-tab -->
+<div id='gplus-tab' class='embed-container content-tab clearfix'>
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $('#gplus-tab').html('<div class="g-comments" data-width="'+window.comment_tab_width+'" data-href="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</div>');
+  });
+</script>
+<script async type="text/javascript" src="//apis.google.com/js/plusone.js?callback=gpcb"></script>
+<noscript>Please enable JavaScript to view the <a href="https://plus.google.com/">comments powered by Google+.</a></noscript>
+
+</div>
+<!-- //gplus-tab -->
+<!-- facebook-tab -->
+<div id='facebook-tab' class='embed-container content-tab clearfix'>
+<div id="fb-root"></div>
+<div id="fb-comments">Loading Facebook Comments ...</div>
+<script type="text/javascript">
+  jQuery(document).ready(function($)
+  {
+    $('#fb-comments').html('<div class="fb-comments" data-width="'+window.comment_tab_width+'" data-href="http://dianarambles.com/2016/01/diy-game-day-snack-stadium.html" data-num-posts="20" data-colorscheme="light" data-mobile="auto"></div>');
+  });
+</script>
+<script async type="text/javascript" src="//connect.facebook.net/en_US/all.js#xfbml=1">FB.init();</script>
+<noscript>Please enable JavaScript to view the <a href="https://www.facebook.com/">comments powered by Facebook.</a></noscript>
+
+
+</div>
+<!-- //facebook-tab -->
+</div>
+<!-- //comment-tabs -->
+</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="search-2" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://dianarambles.com/" role="search"><meta itemprop="target" content="http://dianarambles.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+<section id="text-10" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Hi! I&#8217;m Diana.</h4>
+			<div class="textwidget"><img border="0" src="https://3.bp.blogspot.com/-RJ9Tr5dK83g/VwsIHXrjBpI/AAAAAAAAabI/XQSEmyBnGaYQPjF9fboDqqWD38OQCDUgw/s1600/Diana-Rambles-mug2.jpg" /></div>
+		</div></section>
+<section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="social-facebook"><a href="http://www.facebook.com/dianarambles" target="_blank">&#xe606;</a></li><li class="social-gplus"><a href="http://plus.google.com/u/0/104329577442048654929/" target="_blank">&#xe60e;</a></li><li class="social-instagram"><a href="http://www.instagram.com/dianarambles" target="_blank">&#xe600;</a></li><li class="social-pinterest"><a href="http://www.pinterest.com/dianarambles" target="_blank">&#xe605;</a></li><li class="social-twitter"><a href="http://www.twitter.com/dianarambles" target="_blank">&#xe607;</a></li></ul></div></section>
+<section id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=323937&u=DianaRambles&width=300&height=600"></script></center></div>
+		</div></section>
+<section id="enews-ext-6" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Subscribe to Diana Rambles</h4>
+			<form id="subscribe-enews-ext-6" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open( 'http://feedburner.google.com/fb/a/mailverify?uri=dianarambles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" name="enews-ext-6">
+				<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="email" required="required" />
+				<input type="hidden" name="uri" value="dianarambles" />
+				<input type="hidden" name="loc" value="en_US" />
+				<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="widget_tptn_pop-2" class="widget widget_widget_tptn_pop"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular This Week</h4>
+<div class="tptn_posts  tptn_posts_widget tptn_posts_widget2"><ul><li><a href="http://dianarambles.com/2016/02/peanut-butter-caramel-snack-mix.html"     class="tptn_link"><img src="http://dianarambles.com/wp-content/uploads/2016/02/Peanut-Butter-Caramel-Snack-Mix-Recipe.jpg" alt="Peanut Butter Caramel Snack Mix" title="Peanut Butter Caramel Snack Mix" width="300" height="200" class="tptn_thumb tptn_featured" /></a></li><li><a href="http://dianarambles.com/2016/04/diy-hoodie-clothespin-apron.html"     class="tptn_link"><img src="http://dianarambles.com/wp-content/uploads/2016/04/DIY-Hoodie-Pouch-Clothespin-Apron-338x400.jpg" alt="DIY Hoodie Pouch Clothespin Apron" title="DIY Hoodie Pouch Clothespin Apron" width="300" height="200" class="tptn_thumb tptn_featured" /></a></li><li><a href="http://dianarambles.com/2013/09/girl-scout-law-game-free-printable.html"     class="tptn_link"><img src="http://dianarambles.com/wp-content/uploads/2013/09/Girl-Scout-Law-Board-Game-300x300.jpg" alt="Girl Scout Law Game - Free Printable" title="Girl Scout Law Game - Free Printable" width="300" height="200" class="tptn_thumb tptn_featured" /></a></li><li><a href="http://dianarambles.com/2013/08/tips-for-packing-food-for-active.html"     class="tptn_link"><img src="http://dianarambles.com/wp-content/uploads/2013/08/packing-food-for-teens-300x258.jpg" alt="Tips for Packing Food for Active Teenagers" title="Tips for Packing Food for Active Teenagers" width="300" height="200" class="tptn_thumb tptn_featured" /></a></li><li><a href="http://dianarambles.com/2016/02/make-your-own-cotton-candy.html"     class="tptn_link"><img src="http://dianarambles.com/wp-content/uploads/2016/02/Make-Your-Own-Cotton-Candy-Machine.jpg" alt="Make Your Own Cotton Candy" title="Make Your Own Cotton Candy" width="300" height="200" class="tptn_thumb tptn_featured" /></a></li></ul><div class="tptn_clear"></div></div></div></section>
+<div class="sidebar-split-left"><section id="featured-post-1" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">DIY/Craft</h4>
+<article class="post-3388 post type-post status-publish format-standard has-post-thumbnail category-diycraft entry"><a href="http://dianarambles.com/2016/04/tie-dye-shirts-beach.html" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://dianarambles.com/wp-content/uploads/2016/04/Tie-Dye-Shirts-at-the-Beach-Craft-Tutorial-1-150x150.jpg" class="entry-image attachment-post" alt="Tie-Dye Shirts at the Beach" itemprop="image" srcset="http://dianarambles.com/wp-content/uploads/2016/04/Tie-Dye-Shirts-at-the-Beach-Craft-Tutorial-1-150x150.jpg 150w, http://dianarambles.com/wp-content/uploads/2016/04/Tie-Dye-Shirts-at-the-Beach-Craft-Tutorial-1-400x400.jpg 400w, http://dianarambles.com/wp-content/uploads/2016/04/Tie-Dye-Shirts-at-the-Beach-Craft-Tutorial-1-125x125.jpg 125w, http://dianarambles.com/wp-content/uploads/2016/04/Tie-Dye-Shirts-at-the-Beach-Craft-Tutorial-1-120x120.jpg 120w" sizes="(max-width: 150px) 100vw, 150px" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://dianarambles.com/2016/04/tie-dye-shirts-beach.html">Tie-Dye Shirts at the Beach</a></h2></header></article><article class="post-19 post type-post status-publish format-standard has-post-thumbnail category-diycraft tag-ad tag-basketball tag-cbias tag-collective-bias tag-craft tag-digital-scrapbook-freebie tag-diy tag-free-download tag-free-printable tag-freebie tag-party tag-snack tag-snack-stadium tag-sponsored tag-tutorial tag-walmart entry"><a href="http://dianarambles.com/2016/03/diy-basketball-court-snack-stadium.html" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://dianarambles.com/wp-content/uploads/2016/03/DIY-Game-Time-Basketball-Court-Snack-Stadium-150x150.jpg" class="entry-image attachment-post" alt="DIY Basketball Court Snack Stadium" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://dianarambles.com/2016/03/diy-basketball-court-snack-stadium.html">DIY Basketball Court Snack Stadium</a></h2></header></article></div></section>
+</div><!-- end #sidebar-split-left--><div class="sidebar-split-right"><section id="featured-post-17" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Food</h4>
+<article class="post-57 post type-post status-publish format-standard has-post-thumbnail category-food tag-a tag-ad tag-cbias tag-christmas tag-collective-bias tag-easy tag-food tag-gif tag-holiday tag-kitchen-hack tag-life-hack tag-recipe tag-schnucks tag-sponsored entry"><a href="http://dianarambles.com/2015/12/italian-mozzarella-stuffed-meatloaf.html" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://dianarambles.com/wp-content/uploads/2015/12/Italian-Mozzarella-Stuffed-Meatloaf-Recipe-150x150.jpg" class="entry-image attachment-post" alt="Italian Mozzarella-Stuffed Meatloaf" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://dianarambles.com/2015/12/italian-mozzarella-stuffed-meatloaf.html">Italian Mozzarella-Stuffed Meatloaf</a></h2></header></article><article class="post-32 post type-post status-publish format-standard has-post-thumbnail category-food tag-ad tag-cbias tag-collective-bias tag-recipe tag-snack tag-sponsored tag-tutorial tag-walmart tag-walmart-family-mobile entry"><a href="http://dianarambles.com/2016/02/peanut-butter-caramel-snack-mix.html" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://dianarambles.com/wp-content/uploads/2016/02/Peanut-Butter-Caramel-Snack-Mix-Recipe-150x150.jpg" class="entry-image attachment-post" alt="Peanut Butter Caramel Snack Mix" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title"><a href="http://dianarambles.com/2016/02/peanut-butter-caramel-snack-mix.html">Peanut Butter Caramel Snack Mix</a></h2></header></article></div></section>
+</div><!-- end #sidebar-split-right--><div class="sidebar-split-bottom"><section id="text-4" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=323567&u=DianaRambles&width=300&height=250"></script></center></div>
+		</div></section>
+<section id="archives-4" class="widget widget_archive"><div class="widget-wrap"><h4 class="widget-title widgettitle">Archives</h4>
+		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://dianarambles.com/2016/04'> April 2016 &nbsp;(16)</option>
+	<option value='http://dianarambles.com/2016/03'> March 2016 &nbsp;(13)</option>
+	<option value='http://dianarambles.com/2016/02'> February 2016 &nbsp;(14)</option>
+	<option value='http://dianarambles.com/2016/01'> January 2016 &nbsp;(16)</option>
+	<option value='http://dianarambles.com/2015/12'> December 2015 &nbsp;(10)</option>
+	<option value='http://dianarambles.com/2015/11'> November 2015 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2015/10'> October 2015 &nbsp;(13)</option>
+	<option value='http://dianarambles.com/2015/09'> September 2015 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2015/08'> August 2015 &nbsp;(13)</option>
+	<option value='http://dianarambles.com/2015/07'> July 2015 &nbsp;(14)</option>
+	<option value='http://dianarambles.com/2015/06'> June 2015 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2015/05'> May 2015 &nbsp;(9)</option>
+	<option value='http://dianarambles.com/2015/04'> April 2015 &nbsp;(11)</option>
+	<option value='http://dianarambles.com/2015/03'> March 2015 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2015/02'> February 2015 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2015/01'> January 2015 &nbsp;(9)</option>
+	<option value='http://dianarambles.com/2014/12'> December 2014 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2014/11'> November 2014 &nbsp;(2)</option>
+	<option value='http://dianarambles.com/2014/10'> October 2014 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2014/09'> September 2014 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2014/08'> August 2014 &nbsp;(2)</option>
+	<option value='http://dianarambles.com/2014/07'> July 2014 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2014/06'> June 2014 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2014/05'> May 2014 &nbsp;(4)</option>
+	<option value='http://dianarambles.com/2014/04'> April 2014 &nbsp;(4)</option>
+	<option value='http://dianarambles.com/2014/03'> March 2014 &nbsp;(4)</option>
+	<option value='http://dianarambles.com/2014/02'> February 2014 &nbsp;(6)</option>
+	<option value='http://dianarambles.com/2014/01'> January 2014 &nbsp;(7)</option>
+	<option value='http://dianarambles.com/2013/12'> December 2013 &nbsp;(3)</option>
+	<option value='http://dianarambles.com/2013/11'> November 2013 &nbsp;(3)</option>
+	<option value='http://dianarambles.com/2013/10'> October 2013 &nbsp;(7)</option>
+	<option value='http://dianarambles.com/2013/09'> September 2013 &nbsp;(13)</option>
+	<option value='http://dianarambles.com/2013/08'> August 2013 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2013/07'> July 2013 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2013/06'> June 2013 &nbsp;(5)</option>
+	<option value='http://dianarambles.com/2013/05'> May 2013 &nbsp;(3)</option>
+	<option value='http://dianarambles.com/2013/04'> April 2013 &nbsp;(10)</option>
+	<option value='http://dianarambles.com/2013/03'> March 2013 &nbsp;(8)</option>
+	<option value='http://dianarambles.com/2013/02'> February 2013 &nbsp;(10)</option>
+	<option value='http://dianarambles.com/2013/01'> January 2013 &nbsp;(12)</option>
+	<option value='http://dianarambles.com/2012/12'> December 2012 &nbsp;(14)</option>
+	<option value='http://dianarambles.com/2012/11'> November 2012 &nbsp;(10)</option>
+	<option value='http://dianarambles.com/2012/10'> October 2012 &nbsp;(4)</option>
+	<option value='http://dianarambles.com/2012/03'> March 2012 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2012/02'> February 2012 &nbsp;(3)</option>
+	<option value='http://dianarambles.com/2012/01'> January 2012 &nbsp;(2)</option>
+	<option value='http://dianarambles.com/2011/12'> December 2011 &nbsp;(3)</option>
+	<option value='http://dianarambles.com/2011/11'> November 2011 &nbsp;(2)</option>
+	<option value='http://dianarambles.com/2011/04'> April 2011 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2011/03'> March 2011 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2011/02'> February 2011 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2011/01'> January 2011 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2010/12'> December 2010 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2010/02'> February 2010 &nbsp;(1)</option>
+	<option value='http://dianarambles.com/2009/01'> January 2009 &nbsp;(1)</option>
+
+		</select>
+		</div></section>
+<section id="text-12" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><a href="http://cbi.as/sofab" title="SoFab Badge" target="_blank" rel="nofollow"> 
+<img src="http://i254.photobucket.com/albums/hh91/customblogdesigns/sofabbadge.png" alt="SoFab Badge"> 
+</a> <a href='https://app.linqia.com/r/g1fdzr1q' target="_blank" rel="nofollow"><img src='http://linqia.ooh.li/badge/39879af16fe2/linqia_neutral.png'></a><script type='text/javascript' src='http://linqia.ooh.li/39879af16fe2/linqia.js'></script><BR>
+<a href="http://cbi.as/309k8" target="_blank" alt="I’m going to SoFabU On The Road Chicago, Illinois" title="I’m going to SoFabU On The Road Chicago, Illinois" rel="nofollow"><img src="http://otr.collectivebias.com/wp-content/uploads/2016/03/Ticket-Im-Going-To-SoFabU-On-The-Road-Chicago-Illinois.jpg" width="190"/></a></center></div>
+		</div></section>
+<section id="text-9" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><a href="http://www.dhgate.com/wholesale/craft+supplies.html"> <img width="250" height="500" alt="cheap craft supplies from dhgate site" title=”anything needed for diy crafts with cheap prices” src="http://image.dhgate.com/fc/s015/craft-250.jpg"></a></center></div>
+		</div></section>
+</div><!-- end #sidebar-split-bottom--></aside></div><!-- Start Influence Central Tag --><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-M3GCGB" style="display:none;visibility:hidden" width="0"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M3GCGB');</script><!-- End Influence Central Tag -->
+</div></div><div class="widget-before-footer widget-area"><div class="wrap"><section id="enews-ext-3" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><p>Get all the latest rambles straight to your inbox</p>
+			<form id="subscribe-enews-ext-3" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open( 'http://feedburner.google.com/fb/a/mailverify?uri=DianaRambles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" name="enews-ext-3">
+				<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="email" required="required" />
+				<input type="hidden" name="uri" value="DianaRambles" />
+				<input type="hidden" name="loc" value="en_US" />
+				<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+</div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="creds"><p>Copyright &copy; 2016 &middot; <a target="_blank" href="http://restored316designs.com/themes">Divine theme</a> by <a target="_blank" href="http://www.restored316designs.com">Restored 316</a></p></div><p></p></div></footer><link rel='stylesheet' id='comments_evolved_tabs_css-css'  href='http://dianarambles.com/wp-content/plugins/gplus-comments/assets/styles/plugin.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://dianarambles.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dianarambles.com/wp-content/plugins/instagram-feed/js/sb-instagram.js?ver=1.3.11'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-content/plugins/reduce-bounce-rate/js/analyticsjs.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://dianarambles.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<!-- Comments Evolved plugin -->
+<script>jQuery("#comment-tabs").tabs();</script>
+<!-- //Comments Evolved plugin -->
+
+<script type='text/javascript'>
+    /*Google Tag Manager for Collective Bias*/
+
+    dataLayerCBias = [{
+        'trackingID': 'UA-57224975-43',
+        'javaScriptVersion': 'analytics.js',
+        'homePageURL': 'http://dianarambles.com'
+    }];
+</script>
+<noscript>
+    <iframe src='//www.googletagmanager.com/ns.html?id=GTM-PBN79J' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+</noscript>
+<script type='text/javascript'>
+    /*<![CDATA[*/
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.'+'js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayerCBias', 'GTM-PBN79J');
+    /*]]>*/
+
+    /*End Google Tag Manager for Collective Bias*/
+</script></body>
+</html>

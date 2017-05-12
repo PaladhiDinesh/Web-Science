@@ -1,0 +1,550 @@
+<?php?><!DOCTYPE html>
+<html lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>What It’s Like Now That Walmart Has Left McDowell County</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://weheartwv.com/xmlrpc.php">
+
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="What happens when a retail giants moves in—and moves out."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="What It’s Like Now That Even Walmart Has Left McDowell County" />
+<meta property="og:description" content="What happens when a retail giants moves in—and moves out." />
+<meta property="og:url" content="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" />
+<meta property="og:site_name" content="We Heart WV" />
+<meta property="article:publisher" content="https://www.facebook.com/welovewestvirginia" />
+<meta property="article:tag" content="Economy" />
+<meta property="article:tag" content="Food Bank" />
+<meta property="article:tag" content="McDowell County" />
+<meta property="article:tag" content="News" />
+<meta property="article:tag" content="Walmart" />
+<meta property="article:tag" content="Welch" />
+<meta property="article:section" content="Need to Know" />
+<meta property="article:published_time" content="2016-02-06T22:00:55+00:00" />
+<meta property="article:modified_time" content="2016-02-07T09:00:45+00:00" />
+<meta property="og:updated_time" content="2016-02-07T09:00:45+00:00" />
+<meta property="og:image" content="http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_walmart_black_sign.jpeg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="What happens when a retail giants moves in—and moves out."/>
+<meta name="twitter:title" content="What It’s Like Now That Walmart Has Left McDowell County"/>
+<meta name="twitter:site" content="@welovewv"/>
+<meta name="twitter:image" content="http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_walmart_black_sign.jpeg"/>
+<meta name="twitter:creator" content="@welovewv"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="We Heart WV &raquo; Feed" href="http://weheartwv.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="We Heart WV &raquo; Comments Feed" href="http://weheartwv.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="We Heart WV &raquo; What It’s Like Now That Even Walmart Has Left McDowell County Comments Feed" href="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/weheartwv.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.3"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='http://weheartwv.com/wp-content/plugins/easy-social-share-buttons/assets/css/big/easy-social-share-buttons.min.css?ver=2.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-mail-css'  href='http://weheartwv.com/wp-content/plugins/easy-social-share-buttons/assets/css/essb-mailform.min.css?ver=2.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://weheartwv.com/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='arevico_scsfbcss-css'  href='http://weheartwv.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/scs/scs.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://weheartwv.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpProQuiz_front_style-css'  href='http://weheartwv.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.37' type='text/css' media='all' />
+<link rel='stylesheet' id='themememe-base-css'  href='http://weheartwv.com/wp-content/themes/cassie/css/base.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='themememe-icons-css'  href='http://weheartwv.com/wp-content/themes/cassie/css/font-awesome.min.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='themememe-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C700%2C900%7CNoto+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='themememe-style-css'  href='http://weheartwv.com/wp-content/themes/cassie/style.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://weheartwv.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='http://weheartwv.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=3.0.12' type='text/css' media='all' />
+<link rel='stylesheet' id='qcf_style-css'  href='http://weheartwv.com/wp-content/plugins/quick-contact-form/quick-contact-form.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='qcf_custom-css'  href='http://weheartwv.com/wp-content/plugins/quick-contact-form/quick-contact-form-custom.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-style-css'  href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=4.3.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/Auto-Load-Next-Post-1.4.3/assets/js/libs/scrollspy.min.js?ver=1.4.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/Auto-Load-Next-Post-1.4.3/assets/js/libs/jquery.history.js?ver=1.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var auto_load_next_post_params = {"alnp_content_container":"","alnp_title_selector":".entry-header","alnp_navigation_container":"#nav-previous-1","alnp_comments_container":"","alnp_remove_comments":"no","alnp_google_analytics":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/Auto-Load-Next-Post-1.4.3/assets/js/frontend/auto-load-next-post.min.js?ver=1.4.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/scs/scs.js?ver=4.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lb_l_ret = {"width":"400","height":"255","delay":"50","coc":"1","fb_id":"456344364501067","cooc":"0","display_on_page":"1","display_on_post":"1","show_once":"1","install_date":"1446958112"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/front/js/launch.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/themes/cassie/js/jquery.dropkick.min.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/themes/cassie/js/jquery.flexslider.min.js?ver=4.3.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://weheartwv.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://weheartwv.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.3" />
+<link rel='shortlink' href='http://weheartwv.com/?p=3196' />
+<style type="text/css">.essb_totalcount_item_before, .essb_totalcount_item_after { display: block !important; }.essb_totalcount_item_before .essb_totalcount, .essb_totalcount_item_after .essb_totalcount { border: 0px !important; }.essb_counter_insidebeforename { margin-right: 5px; font-weight: bold; }.essb_links a { -webkit-transition: all 0.2s linear;-moz-transition: all 0.2s linear;-ms-transition: all 0.2s linear;-o-transition: all 0.2s linear;transition: all 0.2s linear;}.essb_links a:hover {transform: translateY(-5px);-webkit-transform:translateY(-5px);-moz-transform:translateY(-5px);-o-transform:translateY(-5px); }.essb_fixed { margin: 0; }.essb_more_popup { z-index: 999; }.essb_more_popup_content { padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px; margin: 0; text-align: center; }.essb_more_popup_shadow { position:fixed; _position:absolute; /* hack for IE 6*/ height:100%; width:100%; top:0; left:0; background: rgba(99, 99, 99, 0.3); z-index:998; display: none; }.essb_more_popup_button_close { position: absolute; top:5px; right: 0;}.essb_more_popup_button_close a, .essb_more_popup_button_close a:hover { background: none; background-color: none; border: none; font-weight: bold; text-decoration: none; color: #333; padding-right: 5px; margin-top: 5px;}</style><meta property="fb:app_id" content="475093559320003"/><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50943528-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://weheartwv.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6';
+	window._wp_rp_post_id = '3196';
+	window._wp_rp_num_rel_posts = '4';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'What+It%E2%80%99s+Like+Now+That+Even+Walmart+Has+Left+McDowell+County';
+	window._wp_rp_post_tags = ['economy', 'welch', 'walmart', 'news', 'mcdowell+county', 'food+bank', 'need+to+know', 'drug', 'bank', 'counti', 'plastic', 'paint', 'kimbal', 'food', 'linda', 'medicin', 'mcdowel', 'motor', 'black', 'mckinnei', 'prescript', 'walmart'];
+	window._wp_rp_promoted_content = true;
+</script>
+<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.6" async></script>
+<link rel="stylesheet" href="http://weheartwv.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css?version=3.6" />
+<!--[if lt IE 9]>
+<script src="http://weheartwv.com/wp-content/themes/cassie/js/ie/html5.js"></script>
+<script src="http://weheartwv.com/wp-content/themes/cassie/js/ie/selectivizr.js"></script>
+<![endif]-->
+				<!-- WordPress Popular Posts v3.2.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://weheartwv.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=d2ec1144b7&wpp_id=3196';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.2.3 -->
+				
+<!-- BEGIN GADWP v4.9.1.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-50943528-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+<script src='//connect.facebook.net/en_EN/all.js#xfbml=1'></script>
+<script src="http://cdn.broadstreetads.com/init.js"></script>
+
+</head>
+
+
+
+<body class="single single-post postid-3196 single-format-standard group-blog unknown">
+<div class="site">
+	<header class="site-header" role="banner">
+		<div class="clearfix container">
+			<div class="site-branding">
+				<div class="logo" ><a href="http://weheartwv.com/"><img src="http://weheartwv.com/wp-content/uploads/2016/01/wv_site_header.png" style="max-width: 100%; margin-top: 20px;"></a></div>
+		</div>
+	<!-- .site-header --></header>
+
+	<div class="site-main">
+		<div class="clearfix container">
+	<div class="row">
+		<div class="col-md-8 content-area" role="main">
+
+		
+			
+<!-----Breaking News Banner----->
+
+<div class="hide">
+<div id="topbanner">
+<h4><strong>LATEST:</strong> <a href="http://bit.ly/1WDOW7P" target="_blank">Jonas Snowfall Totals as of 2 p.m. Sunday</a></h4>
+</div>
+</div>
+
+<!---Mobile-Top-Ad---->
+<div id="topad" style="margin-top:30px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- WeHeart Market Mobile Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9540353428286421"
+     data-ad-slot="4009133990"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<article id="post-3196" class="clearfix post-3196 post type-post status-publish format-standard has-post-thumbnail hentry category-need-to-know tag-economy tag-food-bank tag-mcdowell-county tag-news tag-walmart tag-welch">
+	<header class="entry-header">
+
+		<h1 class="entry-title">What It’s Like Now That Even Walmart Has Left McDowell County</h1>
+
+		<div class="entry-meta">
+			Posted <span class="posted-on"><a href="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" rel="bookmark"><time class="published" datetime="2016-02-06T22:00:55+00:00">Saturday, February 6, 2016</time></a></span>                        By <span class="byline"><span class="author vcard"><a class="url fn n" href="http://weheartwv.com/author/jennivincent/">Jenni Vincent</a></span></span>			
+		<!-- .entry-meta --></div>
+	<!-- .entry-header --></header>
+
+	<div class="clearfix entry-content">
+		
+<div class="essb_links  essb_counters essb_displayed_both essb_template_big essb_749062720 print-no " id="essb_displayed_both749062720"  style="width: 100% !important;">
+	<ul class="essb_links_list"  style="width: 100% !important;"><li class="essb_item essb_totalcount_item" style="display: none !important;" data-counter-pos="right"><span class="essb_totalcount essb_t_l"  title="Total: "><span class="essb_t_nb"></span></span></li><li class="essb_item essb_link_facebook nolightbox"  style="width: 33% !important;"><a href="http://www.facebook.com/sharer/sharer.php?u=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" rel="nofollow" title="Share this article on Facebook" target="_blank" onclick="essb_window749062720(&#39;http://www.facebook.com/sharer/sharer.php?u=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&#39;, &#39;facebook&#39;); return false;"  style="width: 80% !important; text-align: center;"><span class="essb_icon"></span><span class="essb_network_name">Share on Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"  style="width: 33% !important;"><a href="#" rel="nofollow" title="Share this article on Twitter" target="_blank" onclick="essb_window749062720(&#39;https://twitter.com/intent/tweet?text=What+It%E2%80%99s+Like+Now+That+Even+Walmart+Has+Left+McDowell+County&amp;url=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&amp;counturl=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&amp;related=weheartwv&amp;via=weheartwv&#39;, &#39;twitter&#39;); return false;"  style="width: 80% !important; text-align: center;"><span class="essb_icon"></span><span class="essb_network_name">Tweet This</span></a></li><li class="essb_item essb_link_mail nolightbox"  style="width: 33% !important;"><a id="essb-mailform749062720" href="#" onclick="essb_mailform_749062720(); return false;" rel="nofollow" title="Share this article with a friend (email)"  style="width: 80% !important; text-align: center;" class="essb-mail-link"><span class="essb_icon"></span><span class="essb_network_name">E-mail</span></a></li></ul>
+	<input type="hidden" class="essb_info_plugin_url" value="http://weheartwv.com/wp-content/plugins/easy-social-share-buttons" /><input type="hidden" class="essb_info_permalink" value="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" /><input type="hidden" class="essb_info_post_id" value="3196" data-internal-counters="false"  data-essb-button-hidden="10" /><input type="hidden" class="essb_info_permalink_twitter" value="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" /><input type="hidden" class="essb_fb_total_count" value="true" /><input type="hidden" class="essb_counter_ajax" value="false"/><input type="hidden" class="essb_info_counter_pos" value="right" /></div>
+
+<script type="text/javascript">function essb_window749062720(oUrl, oService) {  essb_window_stat(oUrl, oService, 3196); essb_ga_tracking(oService, "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/"); }; function essb_pinterenst749062720() {essb_ga_tracking("pinterest", "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/");  essb_pinterenst_stat(3196); };</script><p><img src="http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_walmart_black_sign.jpeg" alt="20160204_mcdowell_walmart_black_sign" width="730" height="430" class="aligncenter size-full wp-image-3198" /></p>
+<p>It’s not much to look at now, a Walmart sign that’s been painted black. But it’s heartbreaking for Linda McKinney, a McDowell County native who sees poverty on a daily basis. </p>
+<p>McKinney knows what it takes to exist in Kimball, a southern coalfield community that’s recently lost 13 mines and the good-paying jobs that come with them. And now, Walmart is gone too, taking another 140 jobs. She knows them through her work at a local food bank. </p>
+<p>Workers used black paint to blot out the sign in the middle of the night. Slowly, one letter at a time, Walmart disappeared.</p>
+<p>“They said they wouldn’t put something heavier like plastic over it because the wind would knock it down.”</p>
+<h2>The corporate retail giant’s arrival ten years ago brought massive changes to this community.</h2>
+<p>Sure, some small, mom-and-pop stores shuttered, but Walmart offered lower prices and services the community would come to depend upon.</p>
+<p>For example, Wal-Mart’s pharmacy provided people without prescription drug coverage generic medicine for less than $10 a month. Even having motorized wheelchairs so that special-needs customers could shop comfortably in a handicap-accessible store was a new convenience.</p>
+<p>With Wal-Mart’s sudden departure—the chain announced the move less than a month before the closure—the community again is bracing for massive change. It came as part of a corporate announcement that 269 under-performing locations were being closed nationally and internationally.</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Walmart&#39;s closing 154 stores.</p>
+<p>The most affected will be the poor, rural areas:<a href="https://t.co/KVFeJbb46X">https://t.co/KVFeJbb46X</a> <a href="https://t.co/rD4ylehIDg">pic.twitter.com/rD4ylehIDg</a></p>
+<p>&mdash; Jess Ramirez (@journalistnotes) <a href="https://twitter.com/journalistnotes/status/695789200868642816">February 6, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>“How are people on oxygen going to get their groceries, much less even shop?” McKinney said.</p>
+<p>McDowell County Chamber of Commerce Manager Betty Jones said the store’s closing sends an ominous message to residents who are now fearful about living in a community that can’t support a Walmart.</p>
+<p>“When you add in all the mines that have been closing, this is really a blow. And we had more mom-and-pop shops before Walmart, but of course we don’t have a lot of them left now. It really rooted them out,” Jones said.</p>
+<p>Across town, office assistant Pam Akers, who works for the City of Welch, knows plenty of local residents who blame the federal government’s “war on coal” for their hometown’s predicament.</p>
+<p>“We’re just getting slammed every which way we go, and it is very disheartening,” she said.</p>
+<p>They also don’t appreciate how Walmart’s decision has disproportionately impacted smaller communities, Akers said, recalling a news story about a North Carolina town that lost nearly all of its local businesses after the company arrived.</p>
+<p>“Now the people in [that] community have to go out of town just to buy an onion. It’s just so sad.”</p>
+<h2>“When you consider that you lose 1.5 jobs for every one created by Walmart, it’s finally going to catch up to you, so this is a big deal on a lot of different levels for our community.&#8221;</h2>
+<p>McDowell County residents will have to travel about an hour each way, over dangerous mountain roads, to reach the closest Walmart in Bluefield, Virginia. They will likely have to make this trek on a regular basis to get items not available at the only two remaining local stores, Goodsons’ and Magic Mart, in Welch.</p>
+<p>“I’m just heartbroken to think about the others—elderly and people who just don’t have a vehicle or the money—to make this kind of trip on a regular basis like they will need to do,” McKinney said. Not to mention winter weather sometimes makes the roads impassable.</p>
+<p>The move was especially painful since it was a major donor to the Five Loaves and Two Fishes Food Bank, said McKinney, who oversees the nonprofit’s operation.</p>
+<p>“We were allowed to go to Walmart three days a week, and last year we processed 90,000 pounds of food from there, everything from meat and produce to any of their bakery goods. And a lot of times they would call because they had an overage on their milk, so we’d go and get their extra dairy, too. I’d say over the years it was probably worth millions because of how much food they gave us,” McKinney said.</p>
+<div id="attachment_3197" style="width: 982px" class="wp-caption aligncenter"><img src="http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_food_bank_walmart.jpeg" alt="via" width="972" height="726" class="size-full wp-image-3197" /><p class="wp-caption-text">One third of the food distributed by Five Loaves &#038; Two Fishes Food Bank came from Walmart before the store&#8217;s closure (via <a href="https://www.facebook.com/Five-Loaves-Two-Fishes-Food-Bank-Inc-197710816926253/timeline" target="_blank">Facebook</a>)</p></div>
+<p>It was a shock when news broke that the store was closing. Local employees including the manager, who was called in from vacation, evidently had no advance knowledge of the move.</p>
+<p>“For two days, I just didn’t know what to think because all I could think about was how I was going to feed my people. But God will provide, even if we don’t have any more chicken or roast beef to hand out,” she said. In fact, donations have already arrived as out-of-state folks and organizations heard about the food bank’s void due to Walmart’s departure.</p>
+<p>Even before Walmart’s closure, people lined up before dawn to wait for the food bank to open. McKinney isn’t sure what to expect for the Feb. 20 distribution.</p>
+<h3>Last year the organization served 11,000 people, half of the county’s entire population, including approximately 4,000 families.</h3>
+<p>Approximately one third of the 300,000 pounds of food that was distributed came from Walmart.</p>
+<p>Although rural poverty can sometimes be “out of sight, out of mind,” that’s not how things are in McDowell communities.</p>
+<p>“Driving through here you will see dilapidated houses with people living in them, a lot of structures that should have already been abandoned but families are still hanging on there. In the small towns, you usually see people just hanging on the streets or on the corner because there’s nothing else to do,” she said.</p>
+<p>Imagine not even having running water relying instead on local springs.</p>
+<p>“We’ve been here working all day and we’ve had a lot of people come by just looking for bottled water,” she said.</p>
+<p>Sadly it’s not likely to get better soon. Norfolk Southern Railroad plans to close its yard in Bluefield due in large part to the state’s declining coal industry.</p>
+<p>Other problems including rampant drug abuse and a continuing lack of even basic infrastructure, like good roads and public utilities to provide water and sewer service, make it even harder to recruit new employers to the area.</p>
+<h2>But there are some who refuse to give up.</h2>
+<p>McKinney’s family is not giving up on McDowell County. They believe education is the key to a brighter tomorrow. They are actively working to introduce local folks to the science of hydroponics which uses water to grow crop plants.</p>
+<p>Additionally, a <a href="https://www.gofundme.com/fiveloaves" target="_blank">GoFundMe page</a> has been established to help raise the $15,000 needed to purchase a special kind of greenhouse that will allow vegetables, fruits and even herbs to be grown throughout most of the year.</p>
+<div id="fb-root"></div>
+<p><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-video" data-allowfullscreen="1" data-href="/197710816926253/videos/vb.197710816926253/1097973790233280/?type=3">
+<div class="fb-xfbml-parse-ignore">
+<blockquote cite="https://www.facebook.com/197710816926253/videos/1097973790233280/"><a href="https://www.facebook.com/197710816926253/videos/1097973790233280/">Five Loaves and Two Fishes</a>
+<p>Thank you to everyone that made this video possible! A bigger thank you to JD Belcher for producing this video. Please share and help spread the word for our vision to Grow McDowell! www.gofundme.com/fiveloaves</p>
+<p>Posted by <a href="https://www.facebook.com/Five-Loaves-Two-Fishes-Food-Bank-Inc-197710816926253/">Five Loaves &amp; Two Fishes Food Bank, Inc.</a> on Sunday, January 31, 2016</p></blockquote>
+</div>
+</div>
+<p>“McDowell County has been good to me and my family, so there is no way I’m going to stop helping other people. I won’t let them go hungry, because feeding people is in my heart and my heart is here,” McKinney said.</p>
+<p>No stranger to hard times, Akers too said she’ll gladly stay here because this is home.</p>
+<p>“You know how some people say that the last person out should turn out the lights, well I’m going to be there making sure the light stays on here,” Akers said.</p>
+<p>As for that black-out Walmart sign, McKinney wishes it wasn’t there but she’s also taking action into her own hands. “I have already called the city because I want to go and plant some flowers under the sign and beautify it the best I can.”</p>
+<h2>DONATE <a href="https://www.gofundme.com/fiveloaves" target="_blank">to the fund needed to build McDowell County&#8217;s Greenhouse!</a></h2>
+<div class="story-bottom-promo">
+<h2 style="text-align: center;">More: <a href="http://weheartwv.com/2016/01/19/24-photos-that-show-what-life-used-to-be-like-in-mcdowell-county/">24 Photos That Show What Life Used To Be Like in McDowell County</a></h2>
+<p><a href="http://weheartwv.com/2016/01/19/24-photos-that-show-what-life-used-to-be-like-in-mcdowell-county/"><img class="aligncenter wp-image-1787 size-full" src="http://weheartwv.com/wp-content/uploads/2016/01/20160119_mcdowell_welch_saturday-afternoon.jpg" alt="" width="730" /></a></p>
+</div>
+
+<div class="essb_links  essb_counters essb_displayed_both essb_template_big essb_624135579 print-no " id="essb_displayed_both624135579"  style="width: 100% !important;">
+	<ul class="essb_links_list"  style="width: 100% !important;"><li class="essb_item essb_totalcount_item" style="display: none !important;" data-counter-pos="right"><span class="essb_totalcount essb_t_l"  title="Total: "><span class="essb_t_nb"></span></span></li><li class="essb_item essb_link_facebook nolightbox"  style="width: 33% !important;"><a href="http://www.facebook.com/sharer/sharer.php?u=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" rel="nofollow" title="Share this article on Facebook" target="_blank" onclick="essb_window624135579(&#39;http://www.facebook.com/sharer/sharer.php?u=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&#39;, &#39;facebook&#39;); return false;"  style="width: 80% !important; text-align: center;"><span class="essb_icon"></span><span class="essb_network_name">Share on Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"  style="width: 33% !important;"><a href="#" rel="nofollow" title="Share this article on Twitter" target="_blank" onclick="essb_window624135579(&#39;https://twitter.com/intent/tweet?text=What+It%E2%80%99s+Like+Now+That+Even+Walmart+Has+Left+McDowell+County&amp;url=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&amp;counturl=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/&amp;related=weheartwv&amp;via=weheartwv&#39;, &#39;twitter&#39;); return false;"  style="width: 80% !important; text-align: center;"><span class="essb_icon"></span><span class="essb_network_name">Tweet This</span></a></li><li class="essb_item essb_link_mail nolightbox"  style="width: 33% !important;"><a id="essb-mailform624135579" href="#" onclick="essb_mailform_624135579(); return false;" rel="nofollow" title="Share this article with a friend (email)"  style="width: 80% !important; text-align: center;" class="essb-mail-link"><span class="essb_icon"></span><span class="essb_network_name">E-mail</span></a></li></ul>
+	<input type="hidden" class="essb_info_plugin_url" value="http://weheartwv.com/wp-content/plugins/easy-social-share-buttons" /><input type="hidden" class="essb_info_permalink" value="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" /><input type="hidden" class="essb_info_post_id" value="3196" data-internal-counters="false"  data-essb-button-hidden="10" /><input type="hidden" class="essb_info_permalink_twitter" value="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" /><input type="hidden" class="essb_fb_total_count" value="true" /><input type="hidden" class="essb_counter_ajax" value="false"/><input type="hidden" class="essb_info_counter_pos" value="right" /></div>
+
+<script type="text/javascript">function essb_window624135579(oUrl, oService) {  essb_window_stat(oUrl, oService, 3196); essb_ga_tracking(oService, "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/"); }; function essb_pinterenst624135579() {essb_ga_tracking("pinterest", "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/");  essb_pinterenst_stat(3196); };</script>
+<div class="wp_rp_wrap  wp_rp_vertical" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Recommended For You...</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-660" data-post-type="none" ><a href="http://weheartwv.com/2015/06/06/this-arab-country-may-invest-in-west-virginia/" class="wp_rp_thumbnail"><img src="http://weheartwv.com/wp-content/uploads/2015/06/20150605_qatarflag-150x150.jpg" alt="This Arab Country May Invest in W.V." width="150" height="150" /></a><a href="http://weheartwv.com/2015/06/06/this-arab-country-may-invest-in-west-virginia/" class="wp_rp_title">This Arab Country May Invest in W.V.</a></li><li data-position="1" data-poid="in-3217" data-post-type="none" ><a href="http://weheartwv.com/2016/02/11/what-happened-after-we-wrote-about-mcdowell-county-will-absolutely-inspire-you/" class="wp_rp_thumbnail"><img src="http://weheartwv.com/wp-content/uploads/2016/02/20160211_mcdowell_update-150x150.jpeg" alt="What Happened After We Wrote About Walmart Leaving McDowell County Will Absolutely Inspire You" width="150" height="150" /></a><a href="http://weheartwv.com/2016/02/11/what-happened-after-we-wrote-about-mcdowell-county-will-absolutely-inspire-you/" class="wp_rp_title">What Happened After We Wrote About Walmart Leaving McDowell County Will Absolutely Inspire You</a></li><li data-position="2" data-poid="in-515" data-post-type="none" ><a href="http://weheartwv.com/2015/06/01/this-county-has-the-highest-unemployment-in-the-state/" class="wp_rp_thumbnail"><img src="http://weheartwv.com/wp-content/uploads/2015/06/4739900553_688f485295_z-150x150.jpg" alt="This County Has The Highest Unemployment In The State" width="150" height="150" /></a><a href="http://weheartwv.com/2015/06/01/this-county-has-the-highest-unemployment-in-the-state/" class="wp_rp_title">This County Has The Highest Unemployment In The State</a></li><li data-position="3" data-poid="in-2724" data-post-type="none" ><a href="http://weheartwv.com/2015/12/09/32-things-you-didnt-know-about-mcdowell-county/" class="wp_rp_thumbnail"><img src="http://weheartwv.com/wp-content/uploads/2015/12/20151209_mcdowell_coalwood_rocketboys-150x150.jpg" alt="32 Things You Didn&#8217;t Know About McDowell County" width="150" height="150" /></a><a href="http://weheartwv.com/2015/12/09/32-things-you-didnt-know-about-mcdowell-county/" class="wp_rp_title">32 Things You Didn&#8217;t Know About McDowell County</a></li></ul></div></div>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><p><fb:comments-count href=http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/></fb:comments-count> comments</p><div class="fb-comments" data-href="http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/" data-num-posts="10" data-width="100%" data-colorscheme="light"></div>			<!-- .entry-content --></div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- WeHeart Market Bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9540353428286421"
+     data-ad-slot="8439333595"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+	<footer class="entry-meta entry-footer">
+								<span class="tags-links">
+				<a href="http://weheartwv.com/tag/economy/" rel="tag">Economy</a><a href="http://weheartwv.com/tag/food-bank/" rel="tag">Food Bank</a><a href="http://weheartwv.com/tag/mcdowell-county/" rel="tag">McDowell County</a><a href="http://weheartwv.com/tag/news/" rel="tag">News</a><a href="http://weheartwv.com/tag/walmart/" rel="tag">Walmart</a><a href="http://weheartwv.com/tag/welch/" rel="tag">Welch</a>			</span>
+						<!-- .entry-footer --></footer>
+<!-- #post-3196 --></article>
+
+<nav id="nav-previous-1" class="clearfix post-navigation" role="navigation">
+	
+		<div class="nav-previous"><a href="http://weheartwv.com/2016/02/06/10-facts-that-will-make-everybody-from-fairmont-feel-old/" rel="prev"><span class="meta-nav"><i class="fa fa-chevron-left"></i> Previous Article</span> 10 Facts That Will Make Everybody From Fairmont Feel Old</a></div>		<div class="nav-next"><a href="http://weheartwv.com/2016/02/08/24-things-you-didnt-know-about-charleston-wv/" rel="next"><span class="meta-nav">Next Article <i class="fa fa-chevron-right"></i></span> 24 Things You Didn&#8217;t Know About Charleston, WV</a></div>
+	
+	</nav>
+
+
+
+<div id="comments" class="comments-area">
+
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://weheartwv.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<div class="form-group comment-form-author"><input id="author" class="form-control" name="author" type="text" placeholder="Name*" value="" size="30" aria-required='true' /></div>
+<div class="form-group comment-form-email"><input id="email" class="form-control" name="email" type="text" placeholder="Email*" value="" size="30" aria-required='true' /></div>
+<div class="form-group comment-form-url"><input id="url" class="form-control" name="url" type="text" placeholder="Website" value="" size="30" /></div>
+												<div class="form-group comment-form-comment"><textarea id="comment" class="form-control" name="comment" cols="45" rows="4" aria-required="true" placeholder="Message..."></textarea></div>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3196' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>					</form>
+							</div><!-- #respond -->
+			
+
+<!-- #comments --></div>
+
+		
+		<!-- .content-area --></div>
+
+			<div class="col-md-4 site-sidebar" role="complementary">
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://weheartwv.com/">
+	<div class="form-group">
+		<input type="search" class="form-control" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</div>
+	<div class="form-submit">
+		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+	</div>
+</form></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Sponsored</h3>			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- WeHeart Market Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9540353428286421"
+     data-ad-slot="2392799997"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">More</h3>			<div class="textwidget"><div class="moremenu">
+<h2><a href="http://weheartwv.com/tag/news/">News</a></h2>
+</div>
+
+<div class="moremenu">
+<h2><a href="http://weheartwv.com/category/we-love-this/">Things We Love</a></h2>
+</div>
+
+<div class="moremenu">
+<h2><a href="http://weheartwv.com/category/yesterday/">Memories</a></h2>
+</div>
+
+<div class="moremenu">
+<h2><a href="http://weheartwv.com/category/quiz-time/">Quizzes</a></h2>
+</div>
+
+<div class="moremenu">
+<h2><a href="http://weheartwv.com/trending/">Trending</a></h2>
+</div></div>
+		</aside><aside id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><h3 class="widget-title">Weekly Newsletter</h3><script type="text/javascript">!function(){window.mc4wp||(window.mc4wp={listeners:[],forms:{on:function(n,w){window.mc4wp.listeners.push({event:n,callback:w})}}})}();</script><!-- MailChimp for WordPress v3.0.12 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3056 mc4wp-form-basic" method="post" data-id="3056" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><p>Just give us your email address and get the best of West Virginia every week!</p>
+<p>
+<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required /></p>
+
+<p><input type="submit" value="Sign up" />
+</p>
+<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1455600040" /><input type="hidden" name="_mc4wp_form_id" value="3056" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></aside><aside id="social-widget-2" class="widget Social_Widget"><h3 class="widget-title">Follow Us!</h3><div class="socialmedia-buttons smw_left"><a href="http://facebook.com/welovewestvirginia" rel="nofollow" target="_blank"><img width="64" height="64" src="http://weheartwv.com/wp-content/plugins/social-media-widget/images/heart/64/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://twitter.com/welovewv" rel="nofollow" target="_blank"><img width="64" height="64" src="http://weheartwv.com/wp-content/plugins/social-media-widget/images/heart/64/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://instagram.com/welovewv" rel="nofollow" target="_blank"><img width="64" height="64" src="http://weheartwv.com/wp-content/plugins/social-media-widget/images/heart/64/instagram.png" 
+				alt="Follow Us on Instagram" 
+				title="Follow Us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.youtube.com/channel/UCbRqcJztRCDa8DojRXM1Cug" rel="nofollow" target="_blank"><img width="64" height="64" src="http://weheartwv.com/wp-content/plugins/social-media-widget/images/heart/64/youtube.png" 
+				alt="Follow Us on YouTube" 
+				title="Follow Us on YouTube" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></aside><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">More From Us</h3><div class="menu-side-bar-container"><ul id="menu-side-bar" class="menu"><li id="menu-item-1749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749"><a href="http://weheartwv.com/trending/">What&#8217;s Trending Right Now</a></li>
+<li id="menu-item-1752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1752"><a href="http://weheartwv.com/about/">About We Heart West Virginia</a></li>
+<li id="menu-item-1750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1750"><a href="http://weheartwv.com/advertise/">Advertise On Our Site</a></li>
+<li id="menu-item-1751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1751"><a href="http://weheartwv.com/contact/">Contact Us</a></li>
+</ul></div></aside>	<!-- .site-sidebar --></div>	</div>
+
+		</div>
+	<!-- .site-main --></div>
+
+	
+
+	<footer class="site-footer" role="contentinfo">
+		<div class="clearfix container">
+				<div class="row">
+					<div class="col-sm-6 site-info">
+						&copy; 2016 by WeHeartWV, produced by <a href="http://weheartwv.com/about/">Standard Media LLC</a>. All rights reserved.
+					<!-- .site-info --></div>
+
+					<div class="col-sm-6 site-credit">
+					<!-- .site-credit --></div>
+				</div>
+		</div>
+	<!-- .site-footer --></footer>
+<!-- .site --></div>
+
+<a id="inline" href="#arvlbdata" style="display: none;overflow:hidden;">Show</a>
+
+<div style="display:none">
+  <div id="arvlbdata" style="overflow:visible;width:400px;height:250px;">
+      <div allowtransparency="true" style="overflow:hidden;width:400px;height:250px;" class="fb-page" 
+      data-href="https://www.facebook.com/456344364501067"
+      data-width="400" 
+      data-height="250" 
+
+      data-small-header="false" 
+      data-adapt-container-width="false" 
+      data-hide-cover="true" 
+      data-show-facepile="true" 
+      data-show-posts="false">
+    </div>
+
+
+</div>
+
+</div>
+      <script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/easy-social-share-buttons/assets/js/easy-social-share-buttons.min.js?ver=2.0.7'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/easy-social-share-buttons/assets/js/essb-mailform.js?ver=2.0.7'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/themes/cassie/js/scripts.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/comment-reply.min.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/quick-contact-form/quick-contact-form.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var objectL10n = {"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dd M yy"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/quick-contact-form/quick-contact-locale.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/quick-contact-form/quick-range-slider.js?ver=4.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartwv.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=3.0.12'></script>
+<!--[if lt IE 9]>
+<script src="http://weheartwv.com/wp-content/themes/cassie/js/ie/respond.js"></script>
+<![endif]-->
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=475093559320003&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+			function essb_ga_tracking(oService, oPosition, oURL) {
+				var essb_ga_type = "extended";
+				
+				if ( 'ga' in window && window.ga !== undefined && typeof window.ga === 'function' ) {
+					if (essb_ga_type == "extended") {
+						ga('send', 'event', 'social', oService + ' ' + oPosition, oURL);
+					}
+					else {
+						ga('send', 'event', 'social', oService, oURL);
+					}
+				}
+			}
+		
+		var essb_stat_data = {
+		'ajax_url': 'http://weheartwv.com/wp-admin/admin-ajax.php'
+		};
+		jQuery(document).bind('essb_button_action', function (e, service, post_id) {
+		jQuery.post(essb_stat_data.ajax_url, {
+		'action': 'essb_stat_action_new',
+		'post_id': post_id,
+		'service': service,
+		'nonce': 'b4ce7909cc'
+		}, function (data) {
+
+				if (data && data.error) {
+		alert(data.error);
+		}
+		},
+		'json'
+		);
+		});
+		function essb_handle_stats(service, post_id) {
+		jQuery(document).trigger('essb_button_action',[service, post_id]);
+		};
+		
+		var essb_postcount_data = {
+		'ajax_url': 'http://weheartwv.com/wp-admin/admin-ajax.php',
+		'post_id': '3196'
+	};
+	jQuery(document).bind('essb_selfpostcount_action', function (e, service, post_id) {		
+		post_id = String(post_id);
+	jQuery.post(essb_postcount_data.ajax_url, {
+	'action': 'essb_self_postcount',
+	'post_id': post_id,
+	'service': service,
+	'nonce': 'b4ce7909cc'
+	}, function (data) { if (data) {
+		//alert(data);
+	}},'json');});
+	function essb_self_postcount(service, post_id) {
+
+	jQuery(document).trigger('essb_selfpostcount_action',[service, post_id]);
+	};
+	var wnd;function essb_window_stat(oUrl, oService, oCountID) { var wnd; var w = 800 ; var h = 500;  if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); }  else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } essb_handle_stats(oService, oCountID); essb_self_postcount(oService, oCountID); var pollTimer = window.setInterval(function() {if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, oCountID);}}, 200);  }; function essb_pinterenst_stat(oCountID) { essb_handle_stats('pinterest', oCountID); var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)};function essb_window(oUrl, oService, oCountID) { var wnd; var w = 800 ; var h = 500;  if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2);  if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); }  else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } essb_self_postcount(oService, oCountID); var pollTimer = window.setInterval(function() {if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, oCountID);}}, 200); };function essb_pinterenst() {var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)};var essb_count_data = {
+				'ajax_url': 'http://weheartwv.com/wp-admin/admin-ajax.php'
+		};function essb_smart_onclose_events(oService, oPostID) { if (typeof (essbasc_popup_show) == 'function') {   essbasc_popup_show(); } if (typeof essb_acs_code == 'function') {   essb_acs_code(oService, oPostID); } }function essb_mailer(oTitle, oMessage, oSiteTitle, oUrl, oImage, oPermalink) { vex.defaultOptions.className = 'vex-theme-os'; vex.dialog.open({ message: 'Share this with a friend', input: '' + '<div class="vex-custom-field-wrapper"><strong>Your Email</strong></div>'+ '<input name="emailfrom" type="text" placeholder="Your Email" required />' + '<div class="vex-custom-field-wrapper"><strong>Recipient Email</strong></div>'+ '<input name="emailto" type="text" placeholder="Recipient Email" required />' + '<div class="vex-custom-field-wrapper" style="border-bottom: 1px solid #aaa !important; margin-top: 10px;"><h3></h3></div>'+ '<div class="vex-custom-field-wrapper" style="margin-top: 10px;"><strong>Subject</strong></div>'+ '<input name="emailsubject" type="text" placeholder="Subject" required value="'+oTitle+'" />' + '<div class="vex-custom-field-wrapper" style="margin-top: 10px;"><strong>Message</strong></div>'+ '<textarea name="emailmessage" placeholder="Message" required" rows="6" >'+oMessage+'</textarea>' + '', buttons: [ jQuery.extend({}, vex.dialog.buttons.YES, { text: 'Send' }), jQuery.extend({}, vex.dialog.buttons.NO, { text: 'Cancel' }) ], callback: function (data) { if (data.emailfrom && typeof(data.emailfrom) != "undefined") { var c = typeof(data.captchacode) != "undefined" ? data.captchacode : ""; essb_sendmail_ajax2145286314(data.emailfrom, data.emailto, data.emailsubject, data.emailmessage, c, oSiteTitle, oUrl, oImage, oPermalink); } } }); }; function essb_sendmail_ajax2145286314(emailfrom, emailto, emailsub, emailmessage, c, oSiteTitle, oUrl, oImage, oPermalink) { var get_address = "http://weheartwv.com/wp-content/plugins/easy-social-share-buttons/public/essb-mail.php?from="+emailfrom+"&to="+emailto+"&sub="+emailsub+"&message="+emailmessage+"&t="+oSiteTitle+"&u="+oUrl+"&img="+oImage+"&p="+oPermalink+"&c="+c+"&salt=11776672"; jQuery.getJSON(get_address) .done(function(data){ alert(data.message); }); };function essb_mailform_749062720() { essb_handle_stats('mail', 3196); essb_self_postcount('mail', 3196);essb_ga_tracking("mail", "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/"); essb_mailer('Visit this site http://weheartwv.com', 'Hi, this may be interesting you: \"What It’s Like Now That Even Walmart Has Left McDowell County\"! This is the link: http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/', 'What It’s Like Now That Even Walmart Has Left McDowell County', 'http://weheartwv.com', 'http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_walmart_black_sign.jpeg', 'http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/', ''); };function essb_mailform_624135579() { essb_handle_stats('mail', 3196); essb_self_postcount('mail', 3196);essb_ga_tracking("mail", "both", "http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/"); essb_mailer('Visit this site http://weheartwv.com', 'Hi, this may be interesting you: \"What It’s Like Now That Even Walmart Has Left McDowell County\"! This is the link: http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/', 'What It’s Like Now That Even Walmart Has Left McDowell County', 'http://weheartwv.com', 'http://weheartwv.com/wp-content/uploads/2016/02/20160204_mcdowell_walmart_black_sign.jpeg', 'http://weheartwv.com/2016/02/06/what-its-like-now-that-even-walmart-has-left-mcdowell-county/', ''); };</script><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}})();</script>
+</body>
+</html>

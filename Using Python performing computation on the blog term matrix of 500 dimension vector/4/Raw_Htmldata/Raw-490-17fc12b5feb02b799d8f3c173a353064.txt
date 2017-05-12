@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="no-js" itemscope itemType="http://schema.org/WebPage">
+
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+        <script src="/htv/static/wro/6.17.15.5/core-common-redirect.js" type="text/javascript"></script>
+<script>
+            (function() {
+                var isRequestFromEditor = (window.location.search.indexOf("request-from-editor=true") > -1);
+                
+                if ((mdetect.detectMobileQuick() || mdetect.detectTierTablet()) && !isRequestFromEditor) {
+                    mdetect.autoRedirect("mobile", 365, "http://m.4029tv.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796", window.location.search, "utm_source utm_medium utm_term utm_content utm_campaign treets tml source src medium campaign content ens asyncAction asyncActionValue contentView stormID page delta");
+                }
+            })();
+        </script>
+    <title>Couple arrested for silly string fight in Walmart | Buzz60  - KHBS Home</title>
+
+    <meta name="description" content="A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains."/>
+    <meta property="og:title" content="Couple arrested for silly string fight in Walmart" itemprop="name"/>
+    <meta property="og:type" content="video"/>
+    <meta property="og:image" content="http://www.4029tv.com/image/view/-/37880798/medRes/1/-/maxh/630/maxw/1200/-/sgvobc/-/Couple-arrested-for-silly-string-fight-in-Walmart.jpg" itemprop="image"/>
+    <meta property="og:url" content="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" itemprop="url"/>
+
+    <meta property="og:description" content="A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains." itemprop="description"/>
+    <meta property="og:site_name" content="40/29TV"/>
+    <meta name="twitter:card" content="app"/>
+
+    <meta name="twitter:site" content="@4029news"/>
+    <meta name="twitter:url" content="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+<meta name="twitter:player" content=""/>
+    <meta name="twitter:player:width" content="640"/>
+    <meta name="twitter:player:height" content="390"/>
+
+<meta name="item-publish-date" content="Mon, 08 Feb 2016 12:13:13 CST"/>
+        <meta name="category" content="Buzz60">
+
+     <!--Meta tags for deeplinking for facebook -->
+        <meta property="al:ios:url" content="khbs://content/video/37880796"/>
+        <meta property="al:ios:app_store_id" content="505978863" />
+        <meta property="al:ios:app_name" content="khbs" />
+        <meta property="al:android:url" content="khbs://content/video/37880796"/>
+        <meta property="al:android:package" content="com.hearst.android.Four029TV" />
+        <meta property="al:android:app_name" content="khbs" />
+
+        <!--Meta tags for deeplinking for twitter -->
+
+        <meta name="twitter:app:name:iphone" content="khbs" />
+        <meta name="twitter:app:id:iphone" content="505978863" />
+        <meta name="twitter:app:url:iphone" content="khbs://content/video/37880796" />
+        <meta name="twitter:app:name:ipad" content="khbs" />
+        <meta name="twitter:app:id:ipad" content="505978863" />
+        <meta name="twitter:app:url:ipad" content="khbs://content/video/37880796" />
+        <meta name="twitter:app:name:googleplay" content="khbs" />
+        <meta name="twitter:app:id:googleplay" content="com.hearst.android.Four029TV" />
+        <meta name="twitter:app:url:googleplay" content="khbs://content/video/37880796" />
+
+        <!--Meta tags for deeplinking for google search in android-->
+
+        <link rel="alternate" href="android-app://com.hearst.android.Four029TV/content/video/37880796" />
+
+        <script>
+            if(true){
+            // making this as a globalParam
+            var deeplinking_redirectParams = {
+                appName : "khbs",
+                iphone_appId : "505978863",
+                ipad_appId : "505978863",
+                android_appId : "com.hearst.android.Four029TV",
+                appLink_url : "khbs://content/video/37880796",
+                sitename : false ? "htv-fts" : "40/29TV",
+                deepLink_redirectEnable:true,
+                fallback:false,
+                androidDisable:true
+
+            };
+        }
+        </script>
+<link rel="canonical" href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+    <meta name="keywords" content="silly string arrest,couple arrested silly string,couple arrested silly string fight,silly string fight,weird crime,weird criminals,strange crime,strange criminals,odd crime,odd criminals,criminal fail,dumb criminal,stupid criminals,stupid criminal,dumb criminals,funny criminals,funny crime,bad criminals,stupid crime,stupid crime stories,dumb crime stories,dumb criminal stories,funny police reports,weird police reports,buzz60,buzz 60,gillian pensavalle" itemprop="keywords"/>
+        <meta name="news_keywords" content="silly string arrest,couple arrested silly string,couple arrested silly string fight,silly string fight,weird crime,weird criminals,strange crime,strange criminals,odd crime,odd criminals,criminal fail,dumb criminal,stupid criminals,stupid criminal,dumb criminals,funny criminals,funny crime,bad criminals,stupid crime,stupid crime stories,dumb crime stories,dumb criminal stories,funny police reports,weird police reports,buzz60,buzz 60,gillian pensavalle"/>
+        <link rel="shortcut icon" type="image/x-icon" href="/image/view/-/8898190/favicon/141/-/aj5t5pz/-/KHBS-Home.ico"/>
+    <meta property="fb:app_id" content="137217558789"/>
+    <meta name="ib-analytics" content="data" data-global-gaid="UA-18558019-1"
+              data-domain=".4029tv.com" data-ignored-referrer="www.4029tv.com"
+              data-groupkey="htv" data-sitekey="fts"
+              data-context='{"analyticsCategory":"news","channels":["buzz60","video","khbs-home"],"contextId":26248810,"notFound":false}'
+              data-content='{"contentId":37880796,"contentType":"video","contentSource":"shared-htv","contentCategory":"buzz60"}'
+              data-ids='["UA-17912725-1","UA-17420047-1","UA-17916775-1"]'
+              data-demographics='true'
+              data-debug="false" data-live="true"
+            data-ua-global-gaid="UA-18558019-1" data-ua-ids='["UA-17912725-1","UA-17420047-1","UA-17916775-1"]'
+            data-classic="false" data-universal="true" data-track-adblock="false"/>
+
+<meta name="generator" content="ibPublish 2"/>
+        <meta name="google-site-verification" content="HTFegrEOY4D0cT2KHEvJ9DEW8XYhgVSRBbzCzvwN-bA"/>
+        <link rel="stylesheet" href="/htv/static/wro/6.17.15.5/core-desktop.css" />
+<link rel="stylesheet" href="/htv/static/wro/6.17.15.5/client-desktop.css" />
+<!--[if IE 9]>
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/htv/static/wro/6.17.15.5/core-desktop-ie8.css" />
+<link rel="stylesheet" href="/htv/static/wro/6.17.15.5/client-desktop-ie8.css" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css"  href="/code/view/htv-fts/-/26248810/38733606/-/ver/5/-/md8wkgz/-/Billboard+Ad+Fix+-+Channel+%2526+Article+Pages.css" />
+
+
+        <!--[if IE 7]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-fts/-/26248810/8585256/-/ver/15/-/3lue0nz/-/IE7+Styles.css" />
+
+
+        <![endif]-->
+        <!--[if IE 7]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-fts/-/26248810/8781178/-/ver/68/-/28eobvz/-/IE7+Temp+Fixes.css" />
+
+
+        <![endif]-->
+        <!--[if IE 8]>
+            <link rel="stylesheet" type="text/css"  href="/code/view/htv-fts/-/26248810/9236530/-/ver/41/-/15fceqqz/-/IE8+Temp+Fixes.css" />
+
+
+        <![endif]-->
+        <link rel="stylesheet" type="text/css"  href="/code/view/htv-fts/-/26248810/9234902/-/ver/375/-/o3d94fz/-/Standard+Browsers+Temp+Fixes.css" />
+
+
+        <style type="text/css">
+    body{
+        background-image:url('http://www.4029tv.com/image/view/-/12512704/highRes/4/-/29n09tz/-/site-header-background-image.jpg');
+    }
+    </style>
+<script src="/?view=jsApp"></script>
+
+	<script src="/htv/static/wro/6.17.15.5/core-desktop.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.15.5/client-desktop.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.15.5/core-common-noConflict.js" type="text/javascript"></script>
+<script src="http://cdnbakmi.kaltura.com/p/557781/sp/55778100/embedIframeJs/uiconf_id/13570192/partner_id/557781"></script>
+<script src="/code/view/htv-fts/-/26248810/39083614/-/ver/3/-/t2vv7b/-/KHBS+Sonobi.js"></script>
+		<script src="/code/view/htv-fts/-/26248810/27132406/-/ver/4/-/kiop4/-/Livewire_embed_desktop.js"></script>
+		<script src="//nexus.ensighten.com/hearst/tv/Bootstrap.js"> </script>
+            <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node = document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script>
+                    ibsys.ad.lotame.loadLpid();
+                </script>
+            <script>
+                    ibsys.ad.manager.enableUnifiedDfp();
+                </script>
+            <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/hearst-network/loader.js');
+    </script>
+    </head>
+<body class="content-video segment-buzz60 layout- text-medium" >
+    <noscript>
+            <div class="mdot-link-noscript"><a href="http://m.4029tv.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Back To Mobile Site</a></div>
+        </noscript>
+        <div id="mdotLink"><a href="http://m.4029tv.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Back To Mobile Site</a></div>
+        <script>
+            $ib(document).ready(function() {
+                
+                var isRequestFromEditor = (window.location.search.indexOf("request-from-editor=true") > -1);
+                if((mdetect.detectMobileQuick() || mdetect.detectTierTablet()) && $ib.cookie && $ib.cookie('ib-site-type') && !isRequestFromEditor) {
+                    $ib('#mdotLink').click(function(e) {
+                        e.preventDefault();
+                        mdetect.userRedirect("mobile", 365, "http://m.4029tv.com/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796");
+                    });
+                    $ib('#mdotLink').show();
+                }
+            });
+        </script>
+    <div id="fb-root"></div>
+        <script>
+            $ib(document).ready(function(){
+                ibsys.shareTools.facebookVersion ='v2.2';
+                window.fbAsyncInit = function() {
+                    FB._https = true;
+                    FB.init({
+                        appId: '137217558789',
+                        channelUrl: 'http://www.4029tv.com/htv/static/assets/fb/channel.html',
+                        status: true,
+                        cookie: true,
+                        xfbml: true,
+                        version: 'v2.2'
+                    });
+                    ibsys.oauth.fbInitComplete(); //init flag
+                    //Initialize Facebook Timeline App
+                    
+                };
+                // Load the SDK Asynchronously
+                if ("v2.2" === "v1.0") {
+                    (function(d){
+                        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                        js = d.createElement('script'); js.id = id; js.async = true;
+                        js.src = "//connect.facebook.net/en_US/all.js";
+                        d.getElementsByTagName('head')[0].appendChild(js);
+                    }(document));
+                } else {
+                    (function (d, s, id) {
+ 	 	 		 	    var js, fjs = d.getElementsByTagName(s)[0];
+ 	 	 		 	    if (d.getElementById(id)) { return; }
+ 	 	 		 	    js = d.createElement(s);
+ 	 	 		 	    js.id = id;
+ 	 	 		 	    js.src = "//connect.facebook.net/en_US/sdk.js";
+ 	 	 		 	    fjs.parentNode.insertBefore(js, fjs);
+ 	 	 		 	}(document, 'script', 'facebook-jssdk'));
+                }
+            });
+        </script>
+    <header>
+        <div id="headerWrapper">
+            <div id="utilityBar">
+                <div id="utilityBarInner">
+                    <form id="Dlrg0PWng" name="Dlrg0PWng" class="searchForm" action="/page/search/htv-fts/search/8899504?view=asSearch" method="get"><input type="search" class="textInput searchField" name="q" value="SEARCH"/>
+        <input type="submit" class="searchSubmit" value=""/>
+        <input type="hidden" name="view" value="asSearch"/>
+        <input type="hidden" name="sortBy" value=""/>
+
+        </form><script>
+        ibsys.yellowpages.init("Dlrg0PWng", "/page/search/htv-fts/search/8899504?view=asSearch", "", "");
+    </script>
+
+<div id="userLoginStatus" class="ib-container" data-placement="userLoginStatus" data-content-id="27794356">
+        <section class="ib-container-item first item-0">
+            <div class="ib-user-profile" data-bind="with: userProfile">
+<div class="user-profile-header-login" data-bind="with: session">
+    <div class="loggedIn hidden" data-bind="css: { hidden : !isLoggedIn() }">
+        <p><span data-bind="if: screenName"><span class="displayName" data-bind="text: screenName"></span>
+                &nbsp;&#124;&nbsp;</span>
+
+            <a href="/Sign-Up-for-Email-Newsletters-Alerts/27774602">Manage Subscriptions</a> &nbsp;
+            <a href="#" data-bind="click: logout">Log Out</a>
+        </p>
+    </div>
+    <div class="login" data-bind="visible : !isLoggedIn()">
+        <p>&nbsp;
+            <a href="/Sign-Up-for-Email-Newsletters-Alerts/27774602">Log In</a>
+            </p>
+    </div>
+</div></div>
+</section>
+        </div>
+<div id="headerlink" class="ib-container" data-placement="headerlink" data-content-id="8897940">
+        <section class="ib-container-item first item-0">
+            <a class="headerLinkAlerts" target="" href="/Sign-Up-for-Email-Newsletters-Alerts/27774602">Alerts</a>
+<a class="headerLinkMobile" target="" href="/connect">Mobile</a>
+<a class="headerLinkTip" target="" href="/tv/contact">Submit a Tip</a></section>
+        </div>
+<div id="weather" class="ib-container" data-placement="weather" data-content-id="8897948">
+        <section class="ib-container-item first item-0">
+            <script>
+            ibsys.severeWeather.alert();
+        </script>
+    </section>
+        <section class="ib-container-item last item-1">
+            <div class="dynWx" id="yl7s0PWng" data-base="/pageFragment/wxbyzip/htv-fts/-/8898190/8897952/-/view/asHeaderItem/-/5njp82z?ahah=1">
+		<div class="spinner"></div>
+	</div>
+	<script>
+		ibsys.hwx.addWidget('yl7s0PWng');
+	</script>
+</section>
+        </div>
+<div class="headerSocialShare">
+                        <div class="fb-like" data-href="http://www.facebook.com/4029news" data-send="false" data-layout="button_count" data-width="55" data-show-faces="false" data-colorscheme="dark"></div>
+                        <div id="twitter-follow-button-wrapper">
+                                <a href="https://twitter.com/4029news" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow </a>
+                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+
+            <div id="header">
+                <span class="leftHeaderCol">
+                <div id="headerDropdown" class="ib-container" data-placement="headerDropdown" data-content-id="8897944">
+        <div id="tooltip_trigger8897944" class="tooltip_trigger">
+            <div class="titlebar ">
+            <div class='nH1'>The Arkansas CW</div></div>
+    </div>
+        <div class="tooltip">
+            <ul>
+                <li class="last">
+                        <a href="/entertainment/thearkansascw" class="teasableLink thearkansascw " title="The Arkansas CW">The Arkansas CW</a></li>
+                </ul>
+            <span class="bottomBG"></span>
+        </div>
+    </div>
+
+
+<a href="/" id="headerSiteLogo">
+                        <img 
+            src="/image/view/-/12512706/highRes/4/-/b2icbo/-/site-header-logo.png"
+            alt="KHBS"
+            title="KHBS"
+            
+            />
+    </a>
+                </span>
+                <figure class="ib-figure-ad">
+                 <div class="adLocation banner1 leaderboard">
+
+                     <div class="adObj dynamicAd" id="ad-151404-1462054499516" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"banner1","size":"728x90","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":true,"qs":"","slotName":"fts_banner1_728x90","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="banner1">
+                                        <script>
+                                            ibsys.ad.manager.registerAd("#ad-151404-1462054499516");
+                                        </script>
+                                    </div>
+                                <figcaption>
+                                    <div class="caption adTab">
+                                        Advertisement</div>
+                                </figcaption>
+                            </div>
+            </figure>
+        </div>
+        </div>
+    </header>
+<nav>
+        <div id="nav" class="nav-dropdown" data-navType="dropdown" data-isCentered="true" >
+            <ul id="topNav">
+                    <li class="nav-8897838 topNavItem news">
+                    <a href="/news/8897838" class="teasableLink news " title="News">News</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem bostonmarathon">
+                <a href="/news/bostonmarathon" class="teasableLink bostonmarathon " title="Boston Marathon">boston marathon</a></li>
+        <li class="subNavItem who-got-adopted">
+                <a href="/news/who-got-adopted" class="teasableLink who-got-adopted " title="Who Got Adopted">Who Got Adopted</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-8899072 topNavItem weather">
+                    <a href="/weather" class="teasableLink weather " title="Weather">Weather</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem cams">
+                <a href="/weather/cams" class="teasableLink cams " title="Skycams">Skycams</a></li>
+        <li class="subNavItem 40-29-weather-forecasts-on-radio">
+                <a href="/weather/40-29-weather-forecasts-on-radio" class="teasableLink 40-29-weather-forecasts-on-radio " title="40/29 Weather Forecasts on Radio">40/29 Weather Forecasts on Radio</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-8897776 topNavItem navNoArrow">
+                    <a href="/traffic" class="teasableLink traffic " title="Traffic">Traffic</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem drive-times">
+                <a href="/traffic/drive-times" class="teasableLink drive-times " title="Drive Times">Drive Times</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-8897094 topNavItem uLocal navNoVerticalBars">
+                    <a href="http://ulocal.4029tv.com/" class="teasableLink ulocal " title="u local">u local</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-8899334 topNavItem tv">
+                    <a href="/tv/8899334" class="teasableLink tv " title="On TV">On TV</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem katie">
+                <a href="/tv/katie" class="teasableLink katie " title="Katie">Katie</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-24663984 topNavItem navNoArrow">
+                    <a href="/news/who-got-adopted" class="teasableLink who-got-adopted " title="Who Got Adopted">Who Got Adopted</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-37261614 topNavItem navNoArrow">
+                    <a href="/politics/commitment-2016-where-the-candidates-stand-on-the-issues/36836116" class="teasableLink 8-issues-8-weeks " title="8 Issues 8 Weeks">8 Issues 8 Weeks</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            <li class="nav-8899432 topNavItem marketplace navRight navNoVerticalBars">
+                    <a href="/marketplace" class="teasableLink marketplace " title="Marketplace">Marketplace</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav">
+                                <li class="subNavItem healthy-pets">
+                <a href="/marketplace/healthy-pets/30814350" class="teasableLink healthy-pets " title="Healthy Pets">Healthy Pets</a></li>
+        <li class="subNavItem get-coupons">
+                <a href="http://print.coupons.com/alink.asp?go=15401de8110" class="teasableLink get-coupons " title="Get Coupons">Get Coupons</a></li>
+        <li class="subNavItem legal-center">
+                <a href="/marketplace/legal-center" class="teasableLink legal-center " title="Legal Center">Legal Center</a></li>
+        <li class="subNavItem contest">
+                <a href="/marketplace/contest/20140032" class="teasableLink contest " title="Only in Arkansas Contest">Only in Arkansas Contest</a></li>
+        </ul>
+                        </li>
+
+            <li class="nav-16041610 topNavItem navRight navNoArrow">
+                    <a href="/entertainment/contests" class="teasableLink contests " title="Contests">Contests</a><span class="nav-arrow"></span>
+                    <span class="nav-shim"></span>
+
+                    <ul class="subNav empty"></ul>
+                        </li>
+
+            </ul>
+                <div class="clear"></div>
+            </div>
+    </nav>
+
+    <div class="ib-collection" data-content-id="8897946"
+    
+        id="fly-out"
+    >
+
+    <div class="nav-8897838 fly-out news clear"></div>
+        <div class="nav-8899072 fly-out weather clear"></div>
+        <div class="nav-8897094 fly-out ulocal clear"></div>
+        <div class="nav-8899334 fly-out tv clear"></div>
+        <div class="nav-8899432 fly-out marketplace clear"></div>
+        </div>
+<span id="flyout-urls" data-flyoutnav='{
+            
+                "nav-8897838":"/pageFragment/view/htv-fts/-/8897838/8896730/-/view/asChild/-/15mneoo?ahah=1"
+                ,
+                "nav-8899072":"/pageFragment/view/htv-fts/-/8899072/8896740/-/view/asChild/-/tiu8ql?ahah=1"
+                ,
+                "nav-8897094":"/pageFragment/view/htv-fts/-/8897094/15833252/-/view/asChild/-/gm0y1wz?ahah=1"
+                ,
+                "nav-8899334":"/pageFragment/view/htv-fts/-/8899334/8896968/-/view/asChild/-/15rno0rz?ahah=1"
+                ,
+                "nav-8899432":"/pageFragment/view/htv-fts/-/8899432/8897016/-/view/asChild/-/7pqxwg?ahah=1"
+                
+            }'></span>
+    <script>
+        ibsys.flyout.init(0);
+    </script>
+<div id="postHeader">
+        </div>
+    
+<div id="content" class="clear">
+        <script>
+                
+                    $ib(function(){
+                        ibsys.nowcast.getNowcastJson(ibsys.nowcast.jsonUrl)
+                    });
+                
+                    ibsys.nowcast.version = 3;
+                </script>
+            <div id="beaconRail" class="ib-container  nowcast" data-placement="beaconRail" data-content-id="18518006">
+    <ul>
+        <script>ibsys.nowcast.types.push('other');</script>
+
+                <script>ibsys.nowcast.types.push('other');</script>
+
+                <li class="oneAlertBar">
+                    <div class="ib-collection alertBar LiveVideocast " data-content-id="37414162"
+                data-nowcasttype="LiveVideocast" data-nowcast="live">
+            <div class="liveAlertWrapper">
+                <div class="titlebar ">
+            <div class='nH1'><a href="http://www.4029tv.com/nowcast">Nowcast</a></div></div>
+    <span class=" alertItem  first item-0">
+                        <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.4029tv.com/nowcast"/>
+<meta itemprop="headline" content="Watch 40/29 News Live Newscasts"/>
+        <h3 class="teaserTitle">
+                <a href="http://www.4029tv.com/nowcast" title="Watch 40/29 News Live Newscasts" class="teasableLink " >
+                Watch 40/29 News Live Newscasts</a>
+
+            </h3>
+        </div>
+</span>
+                </div>
+        </div>
+        <span class="clear"></span>
+    </li>
+            <script>ibsys.nowcast.types.push('live');</script>
+
+                <li class="oneAlertBar">
+                    <div class="ib-collection alertBar dvrVideocast " data-content-id="31447828"
+                data-nowcasttype="dvrVideocast" data-nowcast="dvr">
+            <div class="liveAlertWrapper">
+                <div class="titlebar ">
+            <div class='nH1'><a href="http://www.4029tv.com/nowcast">Nowcast</a></div></div>
+    <span class=" alertItem  first item-0">
+                        <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.4029tv.com/nowcast"/>
+<meta itemprop="headline" content="Watch 40/29 News On Demand"/>
+        <h3 class="teaserTitle">
+                <a href="http://www.4029tv.com/nowcast" title="Watch 40/29 News On Demand" class="teasableLink " >
+                Watch 40/29 News On Demand</a>
+
+            </h3>
+        </div>
+</span>
+                </div>
+        </div>
+        <span class="clear"></span>
+    </li>
+            <script>ibsys.nowcast.types.push('dvr');</script>
+
+                </ul>
+    </div>
+<div id="breakingNews" class="ib-container" data-placement="breakingNews" data-content-id="8897022">
+    <ul>
+        <li class="oneAlertBar">
+                    <div class="ib-collection alertBar 8896918" data-content-id="8896918">
+            <span class="alertWrapper">
+                <span class="hasCollection alertItem  noItemImage first item-0">
+                                <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.4029tv.com/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140"/>
+<meta itemprop="headline" content="Severe Thunderstorm Watch Issued for 4 Counties"/>
+        <h3 class="teaserTitle">
+                <a href="/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140" title="Severe Thunderstorm Watch Issued for 4 Counties" class="teasableLink " >
+                Severe Thunderstorm Watch Issued for 4 Counties</a>
+
+            <time pubdate datetime="2016-04-30T16:07:16-0500">
+            <span class="time timestamp">
+                2hr</span>
+        </time>
+    </h3>
+        </div>
+<div class="alertBarLinks">
+                                            <ul class="alertBarLinksList">
+                                                <li class="externallink"><span class="externallink"></span>
+                                                            <a target="_blank" href="http://www.4029tv.com/weather/radar">Check Radar</a>
+                                                                </li>
+
+                                                    <li class="externallink"><span class="externallink"></span>
+                                                            <a target="_blank" href="http://www.4029tv.com/weather/alerts">Weather Alerts</a>
+                                                                </li>
+
+                                                    <li class="externallink"><span class="externallink"></span>
+                                                            <a target="_blank" href="http://www.4029tv.com/video/the-weather-channel/5-ways-to-stay-safe-in-a-tornado/39205736">Safety Tips</a>
+                                                                </li>
+
+                                                    <li class="externallink"><span class="externallink"></span>
+                                                            <a target="_blank" href="http://livewire.4029tv.com/Event/Live_Weather_Updates_10">Live Updates</a>
+                                                                </li>
+
+                                                    </ul>
+                                        </div>
+                                    </span>
+
+                            <span class="alertLinks">
+                                    <span class="moreLink">
+                <a href="/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140" class="moreLink" title="Full Coverage">Full Coverage</a></span>
+        <p><a href="/Sign-Up-for-Email-Newsletters-Alerts/27774602">Get Alerts »</a></p>
+                                            </span>
+                            </span>
+            <div class="titlebar ">
+            <div class='nH1'>Breaking News</div></div>
+    <div class="utilsAlertBar">
+                        <div class="alertBarFacebook">
+                                <a class="facebookShareAlert" data-fb_ref="alertbar-detail1" data-facebookAppId="137217558789" data-teasertitle="Severe Thunderstorm Watch Issued for 4 Counties" data-link="http://www.4029tv.com/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140" data-redirect="http://www.4029tv.com/htv/static/sharetools/redirect.html"> </a>
+                            </div>
+                        <div class="alertBarTwitter">
+                                <a class="twitterShareAlert" data-twitteruser="4029news" data-teasertitle="Severe Thunderstorm Watch Issued for 4 Counties" data-link="http://www.4029tv.com/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140"> </a>
+                            </div>
+                        </div>
+                </div>
+          <span class="clear"></span>
+    </li>
+            </ul>
+    </div>
+<div id="breadcrumbs" class="breadcrumbs">
+                        <ul class="clear">
+                            <li>
+                                    <a href="/">Home</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Home"/>
+                                                <meta itemprop="url" content="/"/>
+                                            </span>
+                                        </li>
+                            <li>
+                                    /&nbsp;<a href="/video">Video</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Video"/>
+                                                <meta itemprop="url" content="/video"/>
+                                            </span>
+                                        </li>
+                            <li>
+                                    /&nbsp;<a href="/video/buzz60">Buzz60</a><span itemprop="breadcrumb" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                <meta itemprop="title" content="Buzz60"/>
+                                                <meta itemprop="url" content="/video/buzz60"/>
+                                            </span>
+                                        </li>
+                            </ul>
+                    </div>
+                <div id="topWide" class="ib-container" data-placement="topWide" data-content-id="8898092">
+        <ul>
+        <li>
+                        <div class="videoHeader">
+        <div class="teasableHeader">
+                <hgroup>
+                    <div class="hgroup">
+                        <div class="header ">
+
+                            <h1 id='' itemprop='headline' class=''>Couple arrested for silly string fight in Walmart</h1><div class="detailTimestamp">
+            <span class="date seperator">&nbsp;</span><span class="date updatedAt" ><span class="label">UPDATED</span>&nbsp;12:13 PM CST Feb 08, 2016</span>
+                    </div>
+    </div>
+                    </div>
+                </hgroup>
+
+               <div class="shareToolsNextItem ">
+                    <div class="utils">
+        <div class="utilsLike">
+            <ul>
+                        <li class="like">
+                            <div class="fb-share-button" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="button_count"></div>
+            </li>
+                    </ul>
+                </div>
+        <div class="utilsTwitter">
+                <ul>
+                    <li class="twitter">
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="4029news" data-related="4029news" data-url="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                    </li>
+                </ul>
+            </div>
+        <div class="utilsGoogle">
+                <ul>
+                    <li class="google">
+                        <div class="g-plusone" data-size="medium" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+<a class="nextItemLink" href="/video/veuer/queen-elizabeth-dishes-an-epic-burn-to-the-obamas/39283488">
+                <div class="nav">
+                    <p class="label"><span class="nextItemLabel">Next Video: </span></p>
+                    <p class="link"><span>Queen Elizabeth dishes an epic burn to the Obamas</span> </p>
+                </div>
+            </a>
+    </div>
+
+               <div class="clear"> </div>
+           </div>
+
+</div>
+
+    <div id="videoDetail" class="video-detail clearfix" data-content='{"contentId":37880796,"contentType":"video","contentSource":"shared-htv","contentCategory":"buzz60"}' data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","groupkey":"htv","sitekey":"fts","topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0}' itemscope itemtype="http://schema.org/VideoObject" itemprop="mainContentOfPage">
+        <div class="ib-video-transcript">
+        <div class="leftWrap">
+            <meta itemprop="url" content="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"/>
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="40/29TV"/>
+            </div>
+<meta itemprop="datePublished" content="2016-02-08T12:13:13"/>
+    <meta itemprop="dateModified" content="2016-02-08T11:20:30"/>
+    <meta itemprop="name" content="Couple arrested for silly string fight in Walmart" />
+    <meta itemprop="description" content="Couple arrested for silly string fight in Walmart" />
+    <meta itemprop="thumbnailURL" content="http://cdn.kaltura.com/p//thumbnail/entry_id/0_qtbx6xog/width/160/height/120/type/1" />
+    <meta itemprop="uploadDate" content="2016-02-08T12:13:13" />
+    <meta itemprop="embedURL" content="http://www.kaltura.com/index.php/kwidget/wid/_/uiconf_id//entry_id/0_qtbx6xog"/>
+<meta itemprop="width" content="618"/>
+<meta itemprop="height" content="378"/>
+<meta itemprop="headline" content="Couple arrested for silly string fight in Walmart"/>
+        <div id="kalturaVideoWrap37880796" class="kalturaVideoWrap">
+                        <div id="kalturaVideoPlayer_0_qtbx6xog" class="kalturaVideoPlayerDetail">
+                            <script>
+                                (function() {
+                                    if (typeof YouboraData != "undefined" && typeof YouboraCommunication !="undefined" && false) {
+                                        //Youbora analytics params setup
+                                        var yd = youboraData;
+                                        yd.setEnableAnalytics(false),
+                                        yd.setAccountCode('hearstdev'),
+                                        yd.setCDN("kaltura"),
+                                        yd.setContentId('kalturaVideoPlayer_0_qtbx6xog'),
+                                        yd.setLive(false),
+                                        yd.setProperties({
+                                            content_id: "kalturaVideoPlayer_0_qtbx6xog",
+                                            content_metadata: {
+                                            title: "${self.title}",
+                                            genre: "News",
+                                            language: "English"
+                                            }
+                                        });
+                                    }
+                                    var videoIdString = "kaltura:0_qtbx6xog";
+                                    var autoPlay =  true;
+                                    var kalturaVideoPlayerDiv=$ib('#videoDetail');
+                                    if (ibsys.ad.manager.isUnifiedDfp()) { kalturaVideoPlayerDiv.data('ad').topic = kalturaVideoPlayerDiv.data('adcategory'); }
+                                    var prerollAdData = kalturaVideoPlayerDiv.data('ad');
+                                    var sharingEnabled = "true";
+                                    var sharingUrl = "http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796";
+                                    var offsitePlayerId = "";
+                                    var hasCaptions = "false";
+                                    var csParams = {
+                                        c1: "1",
+                                        c2: "8587182",
+                                        c3: $ib('div#videoDetail').data('content').contentCategory,
+                                        c4: "8587289",
+                                        c5: "02",
+                                        c6: "fts"
+                                    };
+
+                                    var nielsenParamList = {
+                                        plugin:false,
+                                        path:"http://secure-us.imrworldwide.com/novms/ka/3/ggka400.swf",
+                                        relativeTo:"kalturaVideoWrap37880796",
+                                        position:"nielsenTrackingPlaceHolder",
+                                        includeinLayout:"false",
+                                        requiredMetadataFields:"true",
+                                        apid:"",
+                                        sfcode:"us",
+                                        apn:"apn"
+                                    };
+                                    var videoParamList = {
+                                        partnerId: "557781",
+                                        uiconfId: "13570192",
+                                        entryId: videoIdString.split(":")[1],
+                                        height: "378",
+                                        width: "618",
+                                        autoPlay: autoPlay,
+                                        debugMode: "false",
+                                        gaPlugInSwfUrl: "http://www.4029tv.com/blob/view/-/114238/app/2/-/obl3a7/-/Kaltura-IB-GA-Plugin.swf",
+                                        gaUrchinCode: "UA-17912725-1,UA-17420047-1,UA-17916775-1,UA-18558019-1",
+                                        gaDebugMode: "false",
+                                        deliveryCode: "149193",
+                                        prerollAdData: prerollAdData,
+                                        prerollAdRule: 0,
+                                        useDFP: true,
+                                        allowCompanions: true,
+                                        virtualPageView: false,
+                                        csEnabled: false,
+                                        csParams: csParams,
+                                        sharingEnabled: sharingEnabled,
+                                        sharingUrl: sharingUrl,
+                                        offsitePlayerId: offsitePlayerId,
+                                        wmode: "transparent",
+                                        skinHref: "http://www.4029tv.com//htv/static/site/skin-ib.swf",
+                                        streamerType: "http",
+                                        chartbeatUID: "",
+                                        chartbeatDomain: "",
+                                        hasCaptions: hasCaptions,
+                                        leadWithHTML5: false,
+                                        nielsenParamList:nielsenParamList,
+                                        nielsenPlugin:false,
+                                        cmsId: "1748",
+                                        videoId: "37880796",
+                                        comscoreEnabled: false,
+                                        comscoreCustomerID: 6034975,
+                                        youboraPluginUrl:""
+                                    };
+                                    
+                                            if(false){
+                                                ibsys.ad.lotame.adTargetingPreroll(videoParamList,5);
+                                            }else{
+                                                ibsys.kdp.loadPlayer(videoParamList);
+                                            }
+                                        
+
+                                })();
+                            </script>
+                        </div>
+                        <script>
+            $ib(document).ready(function() {
+                $ib(".kalturaTeaserOverlay0").addClass("kalturaTeaserOverlayActive");
+                $ib(".teaserOverlayNextVideoLink0").addClass("teaserOverlayNextVideoLinkActive");
+                $ib(".teaserOverlayThumbnail0").addClass("teaserOverlayThumbnail");
+                $ib(".teaserOverlayText0").addClass("teaserOverlayTextActive");
+                $ib(".teaserOverlayCounter0").addClass("teaserOverlayCounterActive");
+
+                ibsys.kdp.initOverlay(37880796, 2);
+            });
+        </script>
+
+        <div class="nextVideoExtIds" style="display:none;" data-json="kaltura:0_3w36q9s4,kaltura:0_2hpj97rm,kaltura:0_j7x3owyz,kaltura:0_rty71uvk,kaltura:0_u1cxg7zp,kaltura:0_dwy1dy5q"></div>
+        <div class="nextVideoIndex" style="display:none;">0</div>
+
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay0" data-ajax-url="/pageFragment/view/htv-fts/-/36720584/39283488/-/autoPlay/true/isNested/true/view/asTag/-/9lesxez?ahah=1">
+                <a href="/video/veuer/queen-elizabeth-dishes-an-epic-burn-to-the-obamas/39283488" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink0">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail0"></div>
+                    <div class="teaserOverlayText teaserOverlayText0">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter0">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Queen Elizabeth dishes an epic burn to the Obamas</div>
+                        <div class="teaserOverlayNextVideoLength">1: 20</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail0").css("background-image", 'url("/image/view/-/39283490/medRes/1/-/h/78/w/78/-/peap64/-/Queen-Elizabeth-Dishes-Burn-to-the-Obamas.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay1" data-ajax-url="/pageFragment/view/htv-fts/-/24951878/39265442/-/autoPlay/true/isNested/true/view/asTag/-/dsy9s8?ahah=1">
+                <a href="/news/gators-snakes-removed-after-owner-is-bitten/39265442" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink1">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail1"></div>
+                    <div class="teaserOverlayText teaserOverlayText1">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter1">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Gators, snakes removed after owner is bitten</div>
+                        <div class="teaserOverlayNextVideoLength">2: 51</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail1").css("background-image", 'url("/image/view/-/39265476/highRes/1/-/h/78/w/78/-/wmih70/-/Gator-taken-from-house.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay2" data-ajax-url="/pageFragment/view/htv-fts/-/24951878/39286802/-/autoPlay/true/isNested/true/view/asTag/-/poq71wz?ahah=1">
+                <a href="/news/how-much-do-police-body-cameras-really-show/39286802" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink2">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail2"></div>
+                    <div class="teaserOverlayText teaserOverlayText2">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter2">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">How much do police body cameras really show?</div>
+                        <div class="teaserOverlayNextVideoLength">4: 39</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail2").css("background-image", 'url("/image/view/-/39278596/medRes/2/-/h/78/w/78/-/3pw7e7z/-/img-How-much-do-police-body-cameras-really-show.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay3" data-ajax-url="/pageFragment/view/htv-fts/-/24951878/39259798/-/autoPlay/true/isNested/true/view/asTag/-/go3wtpz?ahah=1">
+                <a href="/news/5yearold-girl-gets-prosthetic-hand-made-from-3d-printer/39259798" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink3">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail3"></div>
+                    <div class="teaserOverlayText teaserOverlayText3">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter3">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">5-year-old girl gets prosthetic hand made from 3-D printer</div>
+                        <div class="teaserOverlayNextVideoLength">1: 27</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail3").css("background-image", 'url("/image/view/-/39260378/highRes/1/-/h/78/w/78/-/yu9oly/-/3D-Hand.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay4" data-ajax-url="/pageFragment/view/htv-fts/-/24951878/39280230/-/autoPlay/true/isNested/true/view/asTag/-/9xotn4?ahah=1">
+                <a href="/news/woman-crowdfunds-her-maternity-leave/39280230" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink4">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail4"></div>
+                    <div class="teaserOverlayText teaserOverlayText4">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter4">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Woman crowdfunds her maternity leave</div>
+                        <div class="teaserOverlayNextVideoLength">2: 14</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail4").css("background-image", 'url("/image/view/-/39280578/highRes/1/-/h/78/w/78/-/7ljphdz/-/WLWT.jpg")');
+            </script>
+        <div class="kalturaTeaserOverlay kalturaTeaserOverlay5" data-ajax-url="/pageFragment/view/htv-fts/-/27664616/39264186/-/autoPlay/true/isNested/true/view/asTag/-/dlibh6?ahah=1">
+                <a href="/video/vuz/caught-on-camera-fleeing-suspect-jumps-into-ohio-river/39264186" class="teaserOverlayNextVideoLink teaserOverlayNextVideoLink5">
+                    <div class="teaserOverlayThumbnail teaserOverlayThumbnail5"></div>
+                    <div class="teaserOverlayText teaserOverlayText5">
+                        <div class="teaserOverlayNextVideo">next video will play in:</div><div class="teaserOverlayCounter teaserOverlayCounter5">2</div><div class="teaserOverlayNextVideoSeconds">seconds</div>
+                        <div class="teaserOverlayTitle">Caught on Camera: Fleeing Suspect Jumps into Ohio River</div>
+                        <div class="teaserOverlayNextVideoLength">1: 08</div>
+                    </div>
+                </a>
+            </div>
+            <script>
+                $ib(".teaserOverlayThumbnail5").css("background-image", 'url("/image/view/-/39264188/medRes/2/-/h/78/w/78/-/o3xglfz/-/No-Logo-Caught-on-Camera-Fleeing-Suspect-Jumps-into-Ohio-River.jpg")');
+            </script>
+        </div>
+                <div class="bottomWrap">
+                <div class="commentWrap">
+                    <a href="#comments" class="commentLink">
+                        <div class="comment">
+                            <div class="commentText">post a comment</div>
+                        </div>
+                    </a>
+                </div>
+                <div class="spacer"></div>
+
+                <div class="description">
+                    <p>A couple was arrested after having a $200 silly string fight in the middle of a Walmart. Gillian Pensavalle (@GillianWithaG) explains.</p><div class="utilsHoriz">
+        <div class="utilsLike">
+                <ul>
+                        <li class="like">
+                            <div class="fb-share-button" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="button_count"></div>
+            </li>
+                    </ul>
+                </div>
+        <div class="utilsTwitter">
+                    <ul>
+                        <li class="twitter">
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-via="4029news" data-related="4029news" data-url="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                        </li>
+                    </ul>
+            </div>
+        <div class="utilsGoogle">
+                <!-- Place this tag where you want the +1 button to render. -->
+                <ul>
+                    <li>
+                        <div class="g-plusone" data-size="medium" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                    </li>
+                </ul>
+                <!-- Place this tag after the last +1 button tag. -->
+            </div>
+        <div class="utilsPinterest">
+                <ul>
+                    <li><a href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.4029tv.com%2fvideo%2fbuzz60%2fcouple-arrested-for-silly-string-fight-in-walmart%2f37880796&media=http%3a%2f%2fwww.4029tv.com%2fimage%2fview%2f-%2f37880798%2fmedRes%2f1%2f-%2fh2nqpwz%2f-%2fCouple-arrested-for-silly-string-fight-in-Walmart.jpg&description=A+couple+was+arrested+after+having+a+%24200+silly+string+fight+in+the+middle+of+a+Walmart.+Gillian+Pensavalle+(%40GillianWithaG)+explains." class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Share this on Pinterest!" alt="Pin It"></a></li>
+                </ul>
+            </div>
+        </div>
+
+<div class=clear></div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="rightWrap">
+            <div id="embedded1" class="ib-container" data-placement="embedded1" data-content-id="8898096">
+        <ul>
+        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation multisquare">
+                    <figcaption>
+                            <div class="caption adTab">
+                                Advertising</div>
+                        </figcaption>
+                    <div class=" rectangle">
+                        <div class="adObj dynamicAd" id="ad-151402-1462054499949" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"multisquare","size":"300x600,300x250,300x350","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_multisquare_300x600,300x250,300x350","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="multisquare">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-151402-1462054499949");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+<div class="relatedVideos">
+                    <div class="relatedTitle">RELATED</div>
+                    <div class="relatedVideoLeft">
+                        <div class="hidden"><a href="/news/wooden-works-of-art-from-old-barn-wood-honor-police/39286304" class="relatedVideoTeasableLink" title="">Wooden works of art from old barn wood honor police</a></div>
+                        <a href="/news/wooden-works-of-art-from-old-barn-wood-honor-police/39286304" class="relatedVideoTeasableLink" title="">Wooden works of art from old barn wood honor police</a><a href="/news/wooden-works-of-art-from-old-barn-wood-honor-police/39286304" class="relatedViewLink"><div class="relatedViewLink">VIEW</div></a></div>
+                    <div class="relatedVideoRight">
+                        <a href="/news/wooden-works-of-art-from-old-barn-wood-honor-police/39286304" class="relatedVideoTeasableLink" title=""><img 
+            src="/image/view/-/39213422/medRes/1/-/h/78/w/78/-/n377n3/-/img-Wooden-works-of-art-from-old-barn-wood-honor-police.jpg"
+            alt="Wooden works of art from old barn wood honor police"
+            title="Wooden works of art from old barn wood honor police"
+            
+            />
+    </a></div>
+                </div>
+
+            </div>
+    </div>
+        </div>
+
+    <div id="videoSub">
+        <div class="videoSubOne">
+            <div id="embedded2" class="ib-container" data-placement="embedded2" data-content-id="8898098">
+        <ul>
+        <li>
+                                <!-- Tab Box -->
+    <div class="ib-collection ib-tabbox tabModule" data-content-id="8898100"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>More Video</div></div>
+    <ul id="tab-CRbw5PWls" class="ib-tabs ib-tabs-fill-width-false">
+                    <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/8898110/-/colConfig/hc%253D8898100%252C26248810/view/tab/-/14s06daz?ahah=1&random=1462054500796">
+                                    Local</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/14437770/-/colConfig/hc%253D8898100%252C26248810/view/tab/-/54p0i0z?ahah=1&random=1462054500796">
+                                    National</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/8898112/-/colConfig/hc%253D8898100%252C26248810/view/tab/-/330v7iz?ahah=1&random=1462054500796">
+                                    Viral</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/15661328/-/colConfig/hc%253D8898100%252C26248810/view/tab/-/6xrobu?ahah=1&random=1462054500796">
+                                    Most Watched</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/9614184/-/colConfig/hc%253D8898100%252C26248810/view/tab/-/m2bk2tz?ahah=1&random=1462054500796">
+                                    Recommended</a>
+                            </li>
+                            </ul>
+                <div id="tab-panes-CRbw5PWls" class="ib-tab-panes clear">
+	                <div style="display:block"></div>
+	                <div></div>
+	                <div></div>
+	                <div></div>
+	                <div></div>
+	                </div>
+            </div>
+<script>
+        ibsys.tabbox.init('CRbw5PWls', true);
+        </script>
+
+    </li>
+                        </ul>
+    </div>
+<a name="comments"></a>
+            <div class="commentThread clear">
+            <div class="disqus_comments">
+        <h3>Comments</h3>
+        <div class="disclaimer">
+                The views expressed are not those of this site, this station or its affiliated companies. By posting your comments you agree to accept our terms of use.</div>
+        <div id="disqus_thread"></div>
+        <script>
+            var disqus_shortname = 'khbs-disqus';
+            var disqus_identifier = '37880796';
+            var disqus_url = 'http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796';
+            var disqus_developer = 0;
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+
+</div>
+    </div>
+        <div class="videoSubDiv"></div>
+        <div class="videoSubTwo">
+            <div id="embedded3" class="ib-container" data-placement="embedded3" data-content-id="8898102">
+        <ul>
+        <li>
+                                <!-- Tab Box -->
+    <div class="ib-collection ib-tabbox tabModule box blurbD" data-content-id="8897910"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Most Popular</div></div>
+    <ul id="tab-BRsA5PWls" class="ib-tabs ib-tabs-fill-width-false">
+                    <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/15387956/-/colConfig/hc%253D8897910%252C26248810/view/tab/-/pjtkku?ahah=1&random=1462054500800">
+                                    Slideshows</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/15387954/-/colConfig/hc%253D8897910%252C26248810/view/tab/-/b54ojwz?ahah=1&random=1462054500800">
+                                    Stories</a>
+                            </li>
+                            <li>
+                                <a data-ajax-url="/pageFragment/view/htv-fts/-/8898190/15387958/-/colConfig/hc%253D8897910%252C26248810/view/tab/-/jha9yoz?ahah=1&random=1462054500800">
+                                    Videos</a>
+                            </li>
+                            </ul>
+                <div id="tab-panes-BRsA5PWls" class="ib-tab-panes clear">
+	                <div style="display:block"></div>
+	                <div></div>
+	                <div></div>
+	                </div>
+            </div>
+<script>
+        ibsys.tabbox.init('BRsA5PWls', true);
+        </script>
+
+    </li>
+                        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation square">
+                    <figcaption>
+                            <div class="caption adTab">
+                                Advertising</div>
+                        </figcaption>
+                    <div class=" rectangle">
+                        <div class="adObj dynamicAd" id="ad-151406-1462054500801" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"square","size":"300x250,300x350","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_square_300x250,300x350","providerId":"","isCompanion":true,"refreshEvents":["slideChanged","interactiveAdRefresh","surveyvote","livewireRefresh","galleryad","feedGalleryItemUpdated"]}' data-cb-ad-id="square">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-151406-1462054500801");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+</div>
+        <div class="utilsFloat absolute">
+            <div class="utilsLike">
+                    <ul>
+                            <li class="like">
+                                <div class="fb-share-button" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796" data-type="box_count"></div>
+                                    </li>
+                        </ul>
+                    </div>
+            <div class="utilsTwitter">
+                    <ul>
+                        <li class="twitter">
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-via="4029news" data-related="4029news" data-count="vertical" data-url="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796">Tweet</a>
+                        </li>
+                    </ul>
+                </div>
+            <div class="utilsGoogle">
+                    <ul>
+                        <li class="google">
+                            <div class="g-plusone" data-size="tall" data-href="http://www.4029tv.com/video/buzz60/couple-arrested-for-silly-string-fight-in-walmart/37880796"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    </div>
+
+</li>
+                </ul>
+    </div>
+<div id="bottomWide" class="ib-container" data-placement="bottomWide" data-content-id="8898108">
+        <ul>
+        <li>
+                                <div class="ib-collection travellingHomepage" data-content-id="8897860"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Latest from 40/29 News</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack headlineStack flyoutLinks" data-content-id="8897862"
+    >
+
+    <ul>
+            <li class="first item-0" >
+                    <a href="/news/8897838" class="teasableLink news " title="News">News</a></li>
+            <li class="inner item-1" >
+                    <a href="/weather" class="teasableLink weather " title="Weather">Weather</a></li>
+            <li class="inner item-2" >
+                    <a href="http://ulocal.4029tv.com/" class="teasableLink ulocal " title="u local">u local</a></li>
+            <li class="last item-3" >
+                    <a href="/tv/8899334" class="teasableLink tv " title="On TV">On TV</a></li>
+            </ul>
+    </div>
+<!-- Blurb Box -->
+    <div class="ib-collection box blurbG" data-content-id="8896928"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Featured</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.4029tv.com/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140"/>
+<meta itemprop="headline" content="Severe Thunderstorm Watch Issued for 4 Counties"/>
+        <h3 class="teaserTitle">
+                <a href="/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140" title="Severe Thunderstorm Watch Issued for 4 Counties" class="teasableLink " >
+                Severe Thunderstorm Watch Issued for 4 Counties</a>
+
+            <time pubdate datetime="2016-04-30T16:07:16-0500">
+            <span class="time timestamp">
+                2hr</span>
+        </time>
+    </h3>
+        <span class="clear"></span>
+        </div>
+</li>
+            </ul>
+    <span class="moreLink">
+                <a href="/news" class="moreLink" title="WATCH">WATCH</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(8896928);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(8896928,"blurb");
+        });
+    </script>
+<!-- Blurb Box -->
+    <div class="ib-collection box travellingWeather" data-content-id="8897864"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Weather</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="dynWx" id="Lrpk7PWng" data-base="/pageFragment/wxbyzip/htv-fts/-/8898190/8899080/-/view/asTeaser/-/6d320gz?ahah=1">
+		<div class="spinner"></div>
+	</div>
+	<script>
+		ibsys.hwx.addWidget('Lrpk7PWng');
+	</script>
+</li>
+            <li class="inner item-1" >
+                    <div class="SevereWeatherLink ">
+           <a href="/weather/alerts">Alerts&#32;<span class="alertCount">(4)</span>
+           </a></div>
+
+</li>
+            <li class="inner item-2" >
+                    <div class="ClosingsLink" data-bind="css: { nocount: closingsCount.closingsCount() == 0 }" >
+        <a href="/weather/closings">Closings&#32;<span class="closingsCount" >(<span data-bind="text: closingsCount.closingsCount" ></span>)</span>
+        </a></div>
+
+<script>
+    console.debug('init closings init');
+    ibsys.htvClosingsCount.init('htv-fts', '/htv/servlet/closings');
+</script>
+</cmutil:template>
+</li>
+            <li class="last item-3" >
+                    <a href="/weather/radar" class="teasableLink radar " title="Radar">Radar</a></li>
+            </ul>
+    <span class="moreLink">
+                <a href="/weather" class="moreLink" title="MORE">MORE</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(8897864);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(8897864,"blurb");
+        });
+    </script>
+<!-- Blurb Box -->
+    <div class="ib-collection box threeColumn last latestHeadlines blurbD" data-content-id="8896930"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Latest Headlines</div></div>
+    <ul >
+            <li class="first item-0" >
+                    <div class="teaser imageOnTop-true" itemscope itemtype="http://schema.org/CreativeWork" >
+        <meta itemprop="url" content="http://www.4029tv.com/national/texas-flooding-kills-woman-4-grandchildren/39298276"/>
+<meta itemprop="headline" content="Texas flooding kills woman, 4 grandchildren"/>
+        <div class="ib-figure-image-wrap" itemscope itemType="http://schema.org/ImageObject" itemprop="associatedMedia" >
+     <meta itemprop="url" content="http://www.4029tv.com/national/palestine-texas/39298396"/>
+<meta itemprop="datePublished" content="2016-04-30T09:46:21"/>
+    <meta itemprop="dateModified" content="2016-04-30T09:47:03"/>
+    <figure  class="ib-figure-image">
+            <a href="/national/texas-flooding-kills-woman-4-grandchildren/39298276"><img 
+            src="/image/view/-/39298396/highRes/2/-/h/92/maxh/92/maxw/92/w/92/-/lkfv4i/-/Palestine-TexasJPG-jpg.jpg"
+            alt="Palestine, Texas"
+            title="Palestine, Texas"
+            
+            />
+    <span class="tagOverlay tagOverlay-article"></span>
+    </a><div class="ib-figure-figcaption-wrap">
+                    <figcaption>
+                        </figcaption>
+                </div>
+        </figure>
+    </div><h3 class="teaserTitle">
+                <a href="/national/texas-flooding-kills-woman-4-grandchildren/39298276" title="Texas flooding kills woman, 4 grandchildren" class="teasableLink " >
+                Texas flooding kills woman, 4 grandchildren</a>
+
+            <time pubdate datetime="2016-04-30T17:12:37-0500">
+            <span class="time timestamp">
+                2min</span>
+        </time>
+    </h3>
+        <div class="teaserText">
+                <p>By the time Lenda Asberry and her four grandchildren tried to leave home in the dark of night, rapidly rising floodwaters already were up to the roof, police in eastern Texas say -- too late, it turned out, for a safe escape.</p><p>Asberry, 64, and her gran...</p><span class="moreLink">
+                <a href="/national/texas-flooding-kills-woman-4-grandchildren/39298276" class="moreLink" title="Read More &raquo;">Read More »</a></span>
+        </div>
+        <span class="clear"></span>
+        </div>
+</li>
+            <li class="inner item-1" >
+                    <a href="/politics/cruz-slams-trump-in-bid-to-rally-california-republicans/39301546" title="Cruz slams Trump in bid to rally California Republicans" class="teasableLink " >
+                Cruz slams Trump in bid to rally California Republicans</a>
+
+            <time pubdate datetime="2016-04-30T17:05:26-0500">
+            <span class="time timestamp">
+                10min</span>
+        </time>
+    </li>
+            <li class="inner item-2" >
+                    <a href="/politics/fort-bragg-soldier-charged-with-rape-of-fellow-soldier/39300834" title="Fort Bragg soldier charged with rape of fellow soldier" class="teasableLink " >
+                Fort Bragg soldier charged with rape of fellow soldier</a>
+
+            <time pubdate datetime="2016-04-30T16:18:09-0500">
+            <span class="time timestamp">
+                57min</span>
+        </time>
+    </li>
+            <li class="last item-3" >
+                    <a href="/news/Severe-Thunderstorm-Watch-Issued-for-4-Counties/39301140" title="Severe Thunderstorm Watch Issued for 4 Counties" class="teasableLink " >
+                Severe Thunderstorm Watch Issued for 4 Counties</a>
+
+            <time pubdate datetime="2016-04-30T16:07:16-0500">
+            <span class="time timestamp">
+                2hr</span>
+        </time>
+    </li>
+            </ul>
+    <span class="moreLink">
+                <a href="/news" class="moreLink" title="MORE">MORE</a></span>
+        </div>
+<script>
+        ibsys.blurbs.tabBlurbHeight(8896930);
+        $ib(document).ready(function() {
+            ibsys.tabbox.enableVisualRevenue(8896930,"blurb");
+        });
+    </script>
+</div>
+
+    </div>
+</li>
+                        <li>
+                                <div class="ib-collection adBelt" data-content-id="8898066"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Advertising</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <div class="ib-collection" data-content-id="8897874"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation pgbottom1">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-17648878-1462054501815" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"pgbottom1","size":"300x400","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":8897874,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_pgbottom1_300x400","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="pgbottom1">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-17648878-1462054501815");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="ib-collection bestBets" data-content-id="8897866"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>40/29 Favorites</div></div>
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb1">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6156100-1462054501816" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"lglinkblurb1","size":"300x90","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":8897866,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_lglinkblurb1_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb1">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6156100-1462054501816");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb2">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6157122-1462054501817" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"lglinkblurb2","size":"300x90","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":8897866,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_lglinkblurb2_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb2">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6157122-1462054501817");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation lglinkblurb3">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-6157216-1462054501846" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"lglinkblurb3","size":"300x90","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":8897866,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_lglinkblurb3_300x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="lglinkblurb3">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-6157216-1462054501846");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="ib-collection" data-content-id="8897876"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <figure class="ib-figure-ad">
+                 <div class="adLocation pgbottom2">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-17648902-1462054501848" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"pgbottom2","size":"300x400","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":8897876,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_pgbottom2_300x400","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="pgbottom2">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-17648902-1462054501848");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+
+    </div>
+<div class="clear"></div></div>
+
+    </div>
+</li>
+                        <li>
+                        <figure class="ib-figure-ad">
+                 <div class="adLocation google">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-7666358-1462054501850" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"google","size":"727x89","iframe":true,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_google_727x89","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="google">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-7666358-1462054501850");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </li>
+                </ul>
+    </div>
+</div>
+<footer>
+        <div class="footer">
+            <div class="titlebar">
+<div class='nH1'>KHBS/KHOG FORT SMITH-FAYETTEVILLE</div>
+</div>
+<div class="copyrightFooter">
+<div class="footerCopyrightItem dotted">© 2016, Arkansas Hearst Television Inc. on behalf of KHBS-TV.</div>
+<div class="footerCopyrightItem"><a href="/connect/sitemap">Site Map</a></div>
+</div><script>(function() {  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', "690693200969345"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=690693200969345&amp;ev=NoScript" /></noscript><div class="ib-collection tableContents" data-content-id="8897960"
+    >
+
+    <div class="collectionsWidgetWrapper ">
+            <!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="8897962"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Disclosures</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/connect/privacy" title="Privacy Policy" class="teasableLink " >
+                Privacy Policy</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/connect/terms" title="Terms of Use" class="teasableLink " >
+                Terms of Use</a>
+
+            </li>
+            <li class="last item-2" >
+                    <a href="/Online-Public-Inspection-File/15930690" title="Public Inspection File" class="teasableLink " >
+                Public Inspection File</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="8897966"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>TV Station</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="http://careers.hearsttelevision.com/" title="40/29 Jobs" class="teasableLink " >
+                40/29 Jobs</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/tv/about" title="About 40/29 News" class="teasableLink " >
+                About 40/29 News</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="/tv/contact" title="Contact 40/29 News" class="teasableLink " >
+                Contact 40/29 News</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="/tv/captioning-contacts" title="Captioning Contacts" class="teasableLink " >
+                Captioning Contacts</a>
+
+            </li>
+            <li class="inner item-4" >
+                    <a href="/tv/news-team" title="News Team" class="teasableLink " >
+                News Team</a>
+
+            </li>
+            <li class="last item-5" >
+                    <a href="/tv/advertise" title="Advertise" class="teasableLink " >
+                Advertise</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="8897964"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Sections</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/" class="teasableLink htv-fts " title="KHBS Home">Home</a></li>
+            <li class="inner item-1" >
+                    <a href="/news/arkansas/8897494" class="teasableLink arkansas " title="Local News">Local News</a></li>
+            <li class="inner item-2" >
+                    <a href="/national" class="teasableLink national " title="National News">National News</a></li>
+            <li class="inner item-3" >
+                    <a href="/weather" class="teasableLink weather " title="Weather">Weather</a></li>
+            <li class="inner item-4" >
+                    <a href="/entertainment" class="teasableLink entertainment " title="Entertainment">Entertainment</a></li>
+            <li class="last item-5" >
+                    <a href="/sports" class="teasableLink sports " title="Sports">Sports</a></li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="8897968"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Services</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="/connect" title="Mobile" class="teasableLink " >
+                Mobile</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="/video" title="Video" class="teasableLink " >
+                Video</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="/Sign-Up-for-Email-Newsletters-Alerts/27774602" title="Email Alerts" class="teasableLink " >
+                Email Alerts</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="/rss" title="RSS" class="teasableLink " >
+                RSS</a>
+
+            </li>
+            <li class="last item-4" >
+                    <a href="/connect" title="Social" class="teasableLink " >
+                Social</a>
+
+            </li>
+            </ul>
+    </div>
+<!-- Headline Stack Collection -->
+    <div class="ib-collection headlineStack" data-content-id="8897970"
+    >
+
+    <div class="titlebar ">
+            <div class='nH1'>Partners</div></div>
+    <ul>
+            <li class="first item-0" >
+                    <a href="http://www.hearsttelevision.com/" title="Hearst Television" class="teasableLink " >
+                Hearst Television</a>
+
+            </li>
+            <li class="inner item-1" >
+                    <a href="http://www.lakana.com/" title="Lakana" class="teasableLink " >
+                Lakana</a>
+
+            </li>
+            <li class="inner item-2" >
+                    <a href="http://www.cnn.com/" title="CNN" class="teasableLink " >
+                CNN</a>
+
+            </li>
+            <li class="inner item-3" >
+                    <a href="http://www.nbc.com/" title="NBC" class="teasableLink " >
+                NBC</a>
+
+            </li>
+            <li class="last item-4" >
+                    <a href="http://www.abc.com/" title="ABC" class="teasableLink " >
+                ABC</a>
+
+            </li>
+            </ul>
+    </div>
+</div>
+
+    </div>
+<div class="footerLogo">
+<a href="http://www.hearsttelevision.com/"><img src="/image/view/-/38400866/highRes/1/-/qelhlpz/-/Hearst-Television-Logo-2015-v2-png.png" alt="Hearst Television" width="84" height="30"/></a>
+<a href="http://www.lakana.com/" rel="nofollow"><img src="/image/view/-/32149948/highRes/1/-/141tc71z/-/LAKANA-transparent-logo.png" alt="LAKANA" /></a>
+<a href="http://www.cnn.com/" rel="nofollow"><img src="/image/view/-/18192402/medRes/1/-/mx2s8j/-/cnn-bug-color-gif.jpg" alt="CNN" /></a>
+<a href="http://www.wunderground.com" rel="nofollow"><img src="/image/view/-/27132944/lowRes/1/-/x92ya1z/-/Weather-Underground-Color-Black-Logo.png" alt="Weather Underground" /></a>
+</div><script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+twttr.conversion.trackPid('l4prl');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4prl&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4prl&p_id=Twitter" />
+</noscript><figure class="ib-figure-ad">
+                 <div class="adLocation oop">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-25254710-1462054501907" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"oop","size":"1x1","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_oop_1x1","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="oop">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-25254710-1462054501907");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        <figure class="ib-figure-ad">
+                 <div class="adLocation special6">
+                    <div class=" ">
+                        <div class="adObj dynamicAd" id="ad-36874768-1462054501907" data-adcategory='news/entertainment' data-ad='{"networkId":"36117602","sitekey":"fts","groupkey":"htv","position":"special6","size":"90x90","iframe":false,"topic":"entertainment","section":"buzz60","contentId":37880796,"contextId":26248810,"collectionId":0,"pageType":"video","interstitial":false,"qs":"","slotName":"fts_special6_90x90","providerId":"","isCompanion":false,"refreshEvents":["interactiveAdRefresh"]}' data-cb-ad-id="special6">
+                                    <script>
+                                        ibsys.ad.manager.registerAd("#ad-36874768-1462054501907");
+                                    </script>
+                                </div>
+                            </div>
+                    </div>
+            </figure>
+        </div>
+    </footer>
+<!-- AdapTV -->
+            <script src="http://redir.adap.tv/redir/javascript/lightintegration.js"></script>
+        <!-- End AdapTV  -->
+    <!--Pinterest JS-->
+        <script type="text/javascript">
+            (function(d){
+                var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+                p.type = 'text/javascript';
+                p.async = true;
+                p.src = '//assets.pinterest.com/js/pinit.js';
+                f.parentNode.insertBefore(p, f);
+            }(document));
+        </script>
+    <!--G+ JS-->
+    <script>
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+
+    <!--Twitter JS-->
+    <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+<!--Taboola JS-->
+    <script>
+        window._taboola = window._taboola || [];
+        _taboola.push({
+        
+            video:'37880796',
+        
+            flush:true
+        });
+    </script>
+<script src="/htv/static/wro/6.17.15.5/core-common-gpt.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.15.5/client-common-gpt.js" type="text/javascript"></script>
+<script src="/htv/static/wro/6.17.15.5/client-common-gpt-unified.js" type="text/javascript"></script>
+<script>
+    ibsys.gptInit ={};
+    ibsys.gptInit.initializeGPT = function(){
+
+        if (ibsys.predicates !== undefined && ibsys.predicates.isOutOfNetwork() ) {
+            ibsys.oonPlaceholders(function() {
+                ibsys.ad.gpt.init({
+                    positionKeyword : 'pos'
+                });
+            });
+        } else {
+            ibsys.ad.gpt.init({
+                positionKeyword : 'pos'
+            });
+        }
+    };
+</script>
+<script>
+        ibsys.ad.lotame.adTargeting(5);
+    </script>
+<script>
+        ibsys.ad.headerBidding.getAdSlots();
+        try{
+            ibsys.ad.headerBidding.loadAllScripts();
+        }catch(e){
+            console.debug("Error loading headerBidding method on Ensighten", e);
+        }
+    </script>
+<script>
+    //Load gptInit after setTimeout of 2000ms
+    ibsys.ad.gpt.loadgptInit(2000);
+</script>
+<div class="ib-user-profile" data-bind="with: userProfile">
+        <div class="user-profile-status-overlay hidden" data-bind="if: statusPrompts.showOverlay(), css: {hidden : !statusPrompts.showOverlay()}">
+
+            <div data-bind="if: statusPrompts.isDataTransmitting">
+                <div class="user-profile-status-prompt transmitting">
+                    <span class="spinner"></span>
+                    <div class="status-message loading" data-bind="html: statusPrompts.loadingText"></div>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.genericPrompt">
+                <div class="user-profile-status-prompt">
+                    <h3 class="status-heading" data-bind="text: statusPrompts.genericHeading"></h3>
+                    <div class="status-message" data-bind="html: statusPrompts.genericMessage"></div>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.error">
+                <div class="user-profile-status-prompt error">
+                    <h3 class="status-error-heading">
+                        <span data-bind="text: statusPrompts.errorStatus"></span>
+                        <span data-bind="text: statusPrompts.errorCode"></span>
+                    </h3>
+                    <div class="status-message error" data-bind="html: statusPrompts.errorMessage"></div>
+
+                    <span data-bind="visible: statusPrompts.errorResetBtn, with: session"><button class="manage-profile-btn" data-bind="click: reset">Reset Session - Logout/Re-attempt Sign In</button></span>
+                    <span data-bind="visible: statusPrompts.errorCloseBtn, with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.unsubscribeAllConfirmationPrompt">
+                <div class="user-profile-status-prompt confirmation">
+                    <h3 class="status-heading">Confirm Unsubscribe</h3>
+                    <div class="status-message">Are you sure you would like to unsubscribe from all current subscriptions?</div>
+
+                    <span data-bind="with: ibOfferForm"><button class="manage-profile-btn" data-bind="click: unsubscribeAll">Yes</button></span>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">No</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.deleteConfirmationPrompt">
+                <div class="user-profile-status-prompt confirmation">
+                    <h3 class="status-heading">Confirm Delete</h3>
+                    <div class="status-message">Are you sure you want to delete your profile and all of its subscriptions?</div>
+
+                    <span data-bind="with: session"><button class="manage-profile-btn" data-bind="click: deleteProfile">Yes</button></span>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">No</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: statusPrompts.logoutSuccess">
+                <div class="user-profile-status-prompt success">
+                    <h3 class="status-heading">You are logged out</h3>
+                    <h3 class="status-heading" data-bind="if: statusPrompts.deleteProfileSuccess">Your profile has been deleted.</h3>
+                    <span data-bind="with: statusPrompts"><button class="manage-profile-btn" data-bind="hasfocus: focusDefaultBtn, click: resetStatusPrompts">Close</button></span>
+                </div>
+            </div>
+
+            <div data-bind="if: user.emailInput() || user.isUserLoggedInWithNoEmail(), preventBubble: 'click'">
+                <div data-bind="with: user.emailInput">
+                    <form class="user-profile-status-prompt email" data-bind="submit: updateUserProperty, escPress: cancelChange">
+                        <h3 class="ib-form-legend">Please set an email address for your profile</h3>
+                        <div class="ib-set-email-form clear">
+                            <p data-bind="if: $parent.user.isUserLoggedInWithNoEmail, visible: $parent.user.isUserLoggedInWithNoEmail">
+                                No email address was supplied by
+                                <span class="authentication-authority" data-bind="text: $parent.user.prettyAuthenticationAuthority"></span>.
+                                To complete your registration on this site, please supply an address.
+                            </p>
+                            <p data-bind="if: !$parent.user.isUserLoggedInWithNoEmail(), visible: !$parent.user.isUserLoggedInWithNoEmail()">
+                                Please confirm or modify the email address to which you will have subscription offers sent.
+                            </p>
+                            <label for="setUserEmail">Email</label>
+                            <input id="setUserEmail" class="ib-input-field" type="email" data-bind="hasfocus: isFocused, value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                            <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                        </div>
+
+                        <button class="manage-profile-btn" type="submit" data-bind="click: updateUserProperty">Save and Close</button>
+                        <span data-bind="visible: !$parent.user.isUserLoggedInWithNoEmail()"><button class="manage-profile-btn" data-bind="click: cancelChange">Cancel</button></span>
+                    </form>
+                </div>
+            </div>
+
+            <div data-bind="if: user.personalizePrompt(), preventBubble: 'click'">
+                <div data-bind="with: user">
+                    <form class="user-profile-status-prompt" data-bind="submit: updatePersonalization, escPress: cancelPersonalization">
+                        <h3 class="ib-form-legend">Personalize Profile</h3>
+                        <div class="ib-set-personalization-form clear">
+                            <p>For a more personalized experience, please supply the following <strong>optional</strong> information.</p>
+                            <div class="clear" data-bind="with: screenNameInput">
+                                <label for="setUserScreenName">Display Name</label>
+                                <input id="setUserScreenName" placeholder="Display Name (optional)" class="ib-input-field" data-bind="hasfocus: isFocused, value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                                <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                            </div>
+                            <div class="clear" data-bind="with: postCodeInput">
+                                <label for="setPostCode">Zip Code</label>
+                                <input id="setPostCode" placeholder="Zip Code (optional)" class="ib-input-field" data-bind="value: editedValue, css: {error: isEdited() &&!isValid() }" />
+                                <span class="user-profile-inline-error" data-bind="visible: isEdited() && !isValid()"><span class="error-text" data-bind="text: errorMessage"></span></span>
+                            </div>
+                            </div>
+
+                        <button class="manage-profile-btn" data-bind="click: updatePersonalization">Submit</button>
+                        <button class="manage-profile-btn" data-bind="click: cancelPersonalization">Cancel</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        ibsys.userProfile.userProfileInit.serviceUrl = '/servlet/profile/user-scope/sites/fts/user-profiles';
+        ibsys.userProfile.userProfileInit.sessionUrl = '/servlet/profile/user-scope/sites/fts/sessions';
+        ibsys.userProfile.userProfileInit.sitekey = 'fts';
+        ibsys.userProfile.userProfileInit.siteName = '40/29TV';
+        ibsys.userProfile.userProfileInit.offersEndpoint = '/servlet/profile/sites/htv-fts/offers';
+        ibsys.userProfile.userProfileInit.subscriptionsEndpoint = '/servlet/profile/user-scope/sites/fts';
+        ibsys.userProfile.userProfileInit.ibOauthUrl = 'https://id.ib-prod.com/oauth-provider';
+        console.debug('init userProfile');
+        ibsys.vm.userProfile = new ibsys.userProfile.UserProfile();
+    </script>
+<!--
+        time: Sat Apr 30 17:15:01 CDT 2016
+        context path: /htv
+        web-app name: Content Application Engine
+        siteName: htv-fts
+        siteId: 8901274
+        contextId: 26248810
+        contentId: 37880796
+        docType: MauVideo
+        build-date: 2016-04-15 13:03
+        version: 6.17.15.5
+        artifactId: htv-webapp
+        parent-project-version: 6.17.1
+        parent-project-artifactId: core-cae
+    -->
+</body>
+    </html>

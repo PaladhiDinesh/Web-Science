@@ -1,0 +1,1017 @@
+<!doctype html >
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Page not found | NewsRiffle</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="pingback" href="http://www.newsriffle.com/xmlrpc.php" />
+
+    <link rel="alternate" type="application/rss+xml" title="NewsRiffle &raquo; Feed" href="http://www.newsriffle.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NewsRiffle &raquo; Comments Feed" href="http://www.newsriffle.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.newsriffle.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='batch_css-css'  href='http://www.newsriffle.com/wp-content/plugins/batchmove/css/batch.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.newsriffle.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css-nice-message-css'  href='http://www.newsriffle.com/wp-content/plugins/noadblock-nice-message/assets/css/nice.message.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='paml-styles-css'  href='http://www.newsriffle.com/wp-content/plugins/pa-modal-login/assets/css/modal-login.css?ver=1.2.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.newsriffle.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.2.7' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='wprssmi_template_styles-css'  href='http://www.newsriffle.com/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-ubuntu-css'  href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='http://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='http://www.newsriffle.com/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.5d' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://www.newsriffle.com/wp-content/themes/Newspaper-child/style.css?ver=4.5d' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://www.newsriffle.com/wp-content/uploads/js_composer/custom.css?ver=4.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.newsriffle.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/batchmove/js/batch.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/noadblock-nice-message/assets/js/ads.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/noadblock-nice-message/assets/js/nice.message.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/noadblock-nice-message/assets/js/jquery.cookie.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.2.7'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.newsriffle.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.newsriffle.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.7" />
+<style text="text/css" id="modal-login-style-css">.ml-content { background-color: #4db2ec}
+#modal-login input[type="text"], #modal-login input[type="password"] { border: solid 1px #4db2ec; }
+#modal-login input[type="text"]:focus, #modal-login input[type="password"]:focus { border: solid 1px #4db2ec; }
+#modal-login, #modal-login h2 { color: #ffffff}
+#additional-settings, #additional-settings a, #additional-settings a:hover { color: #5b22e2}
+#modal-login .submit .button { background: #74d62f}
+#modal-login .submit .button { border: none; }
+</style>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.newsriffle.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+<!-- Style compiled by theme -->
+
+<style>
+    
+.td-full-layout .td-menu-background {
+        background: #3a5795 !important;
+    }
+
+    .td-boxed-layout .td-menu-background .td-menu-wrap {
+        background: #3a5795 !important;
+    }
+
+
+    
+    .td-full-layout .td-header-bg {
+        background-color: #00aced !important;
+    }
+
+    .td-boxed-layout .td-logo-rec-wrap,
+    .td-boxed-layout .td-affix .td-logo-rec-wrap,
+    .td-full-logo
+    {
+        background-color: #00aced !important;
+    }
+
+
+    
+    .header-logo-wrap .td-logo-text,
+    .header-logo-wrap .td-tagline-text
+    {
+        color: #ffffff !important;
+    }
+
+
+
+    
+    .sf-menu > .td-menu-item > a {
+        color:#ffffff;
+	
+    }
+</style>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http://www.newsriffle.com/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="http://www.newsriffle.com/wp-content/themes/Newspaper";
+var tds_snap_menu="snap";
+var tds_header_style="2";
+var tds_mobile_swipe="";
+var td_search_url="http://www.newsriffle.com/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var tds_theme_color_site_wide="#4db2ec";
+</script>
+
+
+<!-- BEGIN GADWP v4.7.5 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57556648-2', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="error404 td-full-layout wpb-js-composer js-comp-ver-4.3.4 vc_responsive">
+
+
+
+<div id="outer-wrap">
+    <div id="td-mobile-nav" class="td-transition-content-and-menu">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class=""><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first menu-item-13"><a href="http://www.newsriffle.com/">Home</a></li>
+<li id="menu-item-3771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3771"><a href="http://www.newsriffle.com/category/tech-and-gadgets/">TECH AND GADGETS</a></li>
+<li id="menu-item-3772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3772"><a href="http://www.newsriffle.com/category/sports/">SPORTS</a></li>
+<li id="menu-item-3773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3773"><a href="http://www.newsriffle.com/category/root/">Root</a></li>
+<li id="menu-item-20664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20664"><a href="http://www.newsriffle.com/category/giveaways/">Giveaways</a></li>
+<li id="menu-item-10365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10365"><a href="http://www.newsriffle.com/promote-your-blog/">Promote Your Blog</a></li>
+<li id="menu-item-6899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6899"><a href="#modal-register" data-toggle="ml-modal">Register</a></li>
+<li id="menu-item-6901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6901"><a href="#modal-login" data-toggle="ml-modal">Login</a></li>
+</ul></div>    </div>
+</div>    <div id="inner-wrap" class="td-transition-content-and-menu">
+<div class="td-header-menu-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="span9">
+                                <div class="menu-top-container"><ul id="menu-main-menu-1" class="top-header-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-13"><a href="http://www.newsriffle.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3771"><a href="http://www.newsriffle.com/category/tech-and-gadgets/">TECH AND GADGETS</a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a><div class="td-mega-grid"><script>var block_td_uid_1_57252c4aeb6ea = new td_block();
+block_td_uid_1_57252c4aeb6ea.id = "td_uid_1_57252c4aeb6ea";
+block_td_uid_1_57252c4aeb6ea.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"4","show_child_cat":"5"}';
+block_td_uid_1_57252c4aeb6ea.td_cur_cat = "4";
+block_td_uid_1_57252c4aeb6ea.td_column_number = "1";
+block_td_uid_1_57252c4aeb6ea.block_type = "td_mega_menu";
+block_td_uid_1_57252c4aeb6ea.post_count = "5";
+block_td_uid_1_57252c4aeb6ea.found_posts = "367";
+block_td_uid_1_57252c4aeb6ea.max_num_pages = "74";
+block_td_uid_1_57252c4aeb6ea.header_color = "";
+block_td_uid_1_57252c4aeb6ea.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_1_57252c4aeb6ea);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_1_57252c4aeb6ea class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/" rel="bookmark" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222104-thumb-198x143.jpg" alt="" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/" rel="bookmark" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind">Review: Grenco Science’s G-Pen Elite is the best vape of its kind</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/" rel="bookmark" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222109-thumb-198x143.jpg" alt="" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/" rel="bookmark" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory">Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/new-initiatives-emerge-to-help-refugees/" rel="bookmark" title="New initiatives emerge to help refugees"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222081-thumb-198x143.jpg" alt="" title="New initiatives emerge to help refugees"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/new-initiatives-emerge-to-help-refugees/" rel="bookmark" title="New initiatives emerge to help refugees">New initiatives emerge to help refugees</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/we-might-now-know-why-ebola-keeps-popping-up-in-west-africa/" rel="bookmark" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222057-thumb-198x143.jpg" alt="" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/we-might-now-know-why-ebola-keeps-popping-up-in-west-africa/" rel="bookmark" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa">We Might Now Know Why Ebola Keeps Popping Up In West Africa</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/12-novel-adaptations-that-should-get-a-do-over-reboot/" rel="bookmark" title="12 Novel Adaptations That Should Get a Do-Over Reboot"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222085-thumb-198x143.png" alt="" title="12 Novel Adaptations That Should Get a Do-Over Reboot"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/12-novel-adaptations-that-should-get-a-do-over-reboot/" rel="bookmark" title="12 Novel Adaptations That Should Get a Do-Over Reboot">12 Novel Adaptations That Should Get a Do-Over Reboot</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_57252c4aeb6ea" data-td_block_id="td_uid_1_57252c4aeb6ea"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_57252c4aeb6ea" data-td_block_id="td_uid_1_57252c4aeb6ea"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3772"><a href="http://www.newsriffle.com/category/sports/">SPORTS</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a><div class="td-mega-grid"><script>var block_td_uid_3_57252c4af30cb = new td_block();
+block_td_uid_3_57252c4af30cb.id = "td_uid_3_57252c4af30cb";
+block_td_uid_3_57252c4af30cb.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"5","show_child_cat":"5"}';
+block_td_uid_3_57252c4af30cb.td_cur_cat = "5";
+block_td_uid_3_57252c4af30cb.td_column_number = "1";
+block_td_uid_3_57252c4af30cb.block_type = "td_mega_menu";
+block_td_uid_3_57252c4af30cb.post_count = "5";
+block_td_uid_3_57252c4af30cb.found_posts = "348";
+block_td_uid_3_57252c4af30cb.max_num_pages = "70";
+block_td_uid_3_57252c4af30cb.header_color = "";
+block_td_uid_3_57252c4af30cb.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_3_57252c4af30cb);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_3_57252c4af30cb class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/" rel="bookmark" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/" rel="bookmark" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage">Chris Froome out in front to take Tour de Romandie’s penultimate stage</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/" rel="bookmark" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/" rel="bookmark" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor">Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/" rel="bookmark" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/" rel="bookmark" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft">Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/" rel="bookmark" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/" rel="bookmark" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft">Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/london-irishs-grip-on-the-premiership-grows-ever-more-precarious-paul-rees/" rel="bookmark" title="London Irish’s grip on the Premiership grows ever more precarious | Paul Rees"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/london-irishs-grip-on-the-premiership-grows-ever-more-precarious-paul-rees/" rel="bookmark" title="London Irish’s grip on the Premiership grows ever more precarious | Paul Rees">London Irish’s grip on the Premiership grows ever more precarious | Paul Rees</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_3_57252c4af30cb" data-td_block_id="td_uid_3_57252c4af30cb"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_3_57252c4af30cb" data-td_block_id="td_uid_3_57252c4af30cb"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3773"><a href="http://www.newsriffle.com/category/root/">Root</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a><div class="td-mega-grid"><script>var block_td_uid_5_57252c4b02b7b = new td_block();
+block_td_uid_5_57252c4b02b7b.id = "td_uid_5_57252c4b02b7b";
+block_td_uid_5_57252c4b02b7b.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"13","show_child_cat":"5"}';
+block_td_uid_5_57252c4b02b7b.td_cur_cat = "13";
+block_td_uid_5_57252c4b02b7b.td_column_number = "1";
+block_td_uid_5_57252c4b02b7b.block_type = "td_mega_menu";
+block_td_uid_5_57252c4b02b7b.post_count = "1";
+block_td_uid_5_57252c4b02b7b.found_posts = "1";
+block_td_uid_5_57252c4b02b7b.max_num_pages = "1";
+block_td_uid_5_57252c4b02b7b.header_color = "";
+block_td_uid_5_57252c4b02b7b.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_5_57252c4b02b7b);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_5_57252c4b02b7b class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/how-to-root-yu-yuphoria-unlock-bootloader-install-cwm-recovery/" rel="bookmark" title="How To Root YU Yuphoria, Unlock Bootloader &amp; Install CWM Recovery"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2015/06/yuphoria-bg-810x458-198x143.jpg" alt="" title="How To Root YU Yuphoria, Unlock Bootloader &#038; Install CWM Recovery"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/how-to-root-yu-yuphoria-unlock-bootloader-install-cwm-recovery/" rel="bookmark" title="How To Root YU Yuphoria, Unlock Bootloader &amp; Install CWM Recovery">How To Root YU Yuphoria, Unlock Bootloader &#038; Install CWM Recovery</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_5_57252c4b02b7b" data-td_block_id="td_uid_5_57252c4b02b7b"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_5_57252c4b02b7b" data-td_block_id="td_uid_5_57252c4b02b7b"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-20664"><a href="http://www.newsriffle.com/category/giveaways/">Giveaways</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-10365"><a href="http://www.newsriffle.com/promote-your-blog/">Promote Your Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-6899"><a href="#modal-register" data-toggle="ml-modal">Register</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-6901"><a href="#modal-login" data-toggle="ml-modal">Login</a></li>
+</ul></div>            </div>
+
+            <div class="span3">
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- text logo and ad -->
+<div class="td-header-bg">
+    <div class="container td-logo-rec-wrap">
+        <div class="row">
+            <div class="span4 header-logo-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                <div class="td-logo-wrap-align">
+                    <a itemprop="url" class="td-logo-wrap" href="http://www.newsriffle.com">
+                        <span class="td-logo-text">NewsRiffle</span>
+                        <span class="td-tagline-text">News of Every Field</span>
+                    </a>
+                </div>
+                <meta itemprop="name" content="NewsRiffle">
+            </div>
+            <div class="span8">
+                
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3739971594547572" data-ad-slot="1108690448"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-3739971594547572" data-ad-slot="1108690448"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-3739971594547572" data-ad-slot="1108690448"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-3739971594547572" data-ad-slot="1108690448"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- header menu -->
+
+<div class="td-menu-placeholder">
+
+    <div class="td-menu-background">
+        <div class="container td-menu-wrap">
+
+
+
+            <div class="row-fluid td-menu-header">
+
+                <div class="span11">
+                                            <div class="mobile-logo-wrap">
+                                    <a itemprop="url" href="http://www.newsriffle.com"><img src="NewsRiffle" alt=""/></a>
+        <meta itemprop="name" content="NewsRiffle">
+                            </div>
+                    
+
+                    <div id="td-top-mobile-toggle">
+                        <ul class="sf-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+                            <div class="menu-main-menu-container"><ul id="menu-main-menu-2" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-13"><a href="http://www.newsriffle.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3771"><a href="http://www.newsriffle.com/category/tech-and-gadgets/">TECH AND GADGETS</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_7_57252c4b0686c = new td_block();
+block_td_uid_7_57252c4b0686c.id = "td_uid_7_57252c4b0686c";
+block_td_uid_7_57252c4b0686c.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"4","show_child_cat":"5"}';
+block_td_uid_7_57252c4b0686c.td_cur_cat = "4";
+block_td_uid_7_57252c4b0686c.td_column_number = "1";
+block_td_uid_7_57252c4b0686c.block_type = "td_mega_menu";
+block_td_uid_7_57252c4b0686c.post_count = "5";
+block_td_uid_7_57252c4b0686c.found_posts = "367";
+block_td_uid_7_57252c4b0686c.max_num_pages = "74";
+block_td_uid_7_57252c4b0686c.header_color = "";
+block_td_uid_7_57252c4b0686c.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_7_57252c4b0686c);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_7_57252c4b0686c class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/" rel="bookmark" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222104-thumb-198x143.jpg" alt="" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/" rel="bookmark" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind">Review: Grenco Science’s G-Pen Elite is the best vape of its kind</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/" rel="bookmark" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222109-thumb-198x143.jpg" alt="" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/" rel="bookmark" title="Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory">Today, Kenya Is Torching 5% Of The World&#8217;s Stockpiled Ivory</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/new-initiatives-emerge-to-help-refugees/" rel="bookmark" title="New initiatives emerge to help refugees"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222081-thumb-198x143.jpg" alt="" title="New initiatives emerge to help refugees"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/new-initiatives-emerge-to-help-refugees/" rel="bookmark" title="New initiatives emerge to help refugees">New initiatives emerge to help refugees</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/we-might-now-know-why-ebola-keeps-popping-up-in-west-africa/" rel="bookmark" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222057-thumb-198x143.jpg" alt="" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/we-might-now-know-why-ebola-keeps-popping-up-in-west-africa/" rel="bookmark" title="We Might Now Know Why Ebola Keeps Popping Up In West Africa">We Might Now Know Why Ebola Keeps Popping Up In West Africa</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/12-novel-adaptations-that-should-get-a-do-over-reboot/" rel="bookmark" title="12 Novel Adaptations That Should Get a Do-Over Reboot"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222085-thumb-198x143.png" alt="" title="12 Novel Adaptations That Should Get a Do-Over Reboot"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/12-novel-adaptations-that-should-get-a-do-over-reboot/" rel="bookmark" title="12 Novel Adaptations That Should Get a Do-Over Reboot">12 Novel Adaptations That Should Get a Do-Over Reboot</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_7_57252c4b0686c" data-td_block_id="td_uid_7_57252c4b0686c"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_7_57252c4b0686c" data-td_block_id="td_uid_7_57252c4b0686c"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3772"><a href="http://www.newsriffle.com/category/sports/">SPORTS</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_9_57252c4b0a55c = new td_block();
+block_td_uid_9_57252c4b0a55c.id = "td_uid_9_57252c4b0a55c";
+block_td_uid_9_57252c4b0a55c.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"5","show_child_cat":"5"}';
+block_td_uid_9_57252c4b0a55c.td_cur_cat = "5";
+block_td_uid_9_57252c4b0a55c.td_column_number = "1";
+block_td_uid_9_57252c4b0a55c.block_type = "td_mega_menu";
+block_td_uid_9_57252c4b0a55c.post_count = "5";
+block_td_uid_9_57252c4b0a55c.found_posts = "348";
+block_td_uid_9_57252c4b0a55c.max_num_pages = "70";
+block_td_uid_9_57252c4b0a55c.header_color = "";
+block_td_uid_9_57252c4b0a55c.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_9_57252c4b0a55c);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_9_57252c4b0a55c class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/" rel="bookmark" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/" rel="bookmark" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage">Chris Froome out in front to take Tour de Romandie’s penultimate stage</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/" rel="bookmark" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/" rel="bookmark" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor">Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/" rel="bookmark" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/" rel="bookmark" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft">Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/" rel="bookmark" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/" rel="bookmark" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft">Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/sports/london-irishs-grip-on-the-premiership-grows-ever-more-precarious-paul-rees/" rel="bookmark" title="London Irish’s grip on the Premiership grows ever more precarious | Paul Rees"><img width="198" height="143" itemprop="image" class="entry-thumb" src="" /></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/london-irishs-grip-on-the-premiership-grows-ever-more-precarious-paul-rees/" rel="bookmark" title="London Irish’s grip on the Premiership grows ever more precarious | Paul Rees">London Irish’s grip on the Premiership grows ever more precarious | Paul Rees</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_9_57252c4b0a55c" data-td_block_id="td_uid_9_57252c4b0a55c"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_9_57252c4b0a55c" data-td_block_id="td_uid_9_57252c4b0a55c"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3773"><a href="http://www.newsriffle.com/category/root/">Root</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_11_57252c4b0e24d = new td_block();
+block_td_uid_11_57252c4b0e24d.id = "td_uid_11_57252c4b0e24d";
+block_td_uid_11_57252c4b0e24d.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"13","show_child_cat":"5"}';
+block_td_uid_11_57252c4b0e24d.td_cur_cat = "13";
+block_td_uid_11_57252c4b0e24d.td_column_number = "1";
+block_td_uid_11_57252c4b0e24d.block_type = "td_mega_menu";
+block_td_uid_11_57252c4b0e24d.post_count = "1";
+block_td_uid_11_57252c4b0e24d.found_posts = "1";
+block_td_uid_11_57252c4b0e24d.max_num_pages = "1";
+block_td_uid_11_57252c4b0e24d.header_color = "";
+block_td_uid_11_57252c4b0e24d.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_11_57252c4b0e24d);
+</script><div class="td_block_wrap td_block_mega_menu td-no-subcats"><div id=td_uid_11_57252c4b0e24d class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://www.newsriffle.com/tech-and-gadgets/how-to-root-yu-yuphoria-unlock-bootloader-install-cwm-recovery/" rel="bookmark" title="How To Root YU Yuphoria, Unlock Bootloader &amp; Install CWM Recovery"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2015/06/yuphoria-bg-810x458-198x143.jpg" alt="" title="How To Root YU Yuphoria, Unlock Bootloader &#038; Install CWM Recovery"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/how-to-root-yu-yuphoria-unlock-bootloader-install-cwm-recovery/" rel="bookmark" title="How To Root YU Yuphoria, Unlock Bootloader &amp; Install CWM Recovery">How To Root YU Yuphoria, Unlock Bootloader &#038; Install CWM Recovery</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_11_57252c4b0e24d" data-td_block_id="td_uid_11_57252c4b0e24d"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_11_57252c4b0e24d" data-td_block_id="td_uid_11_57252c4b0e24d"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-20664"><a href="http://www.newsriffle.com/category/giveaways/">Giveaways</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-10365"><a href="http://www.newsriffle.com/promote-your-blog/">Promote Your Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-6899"><a href="#modal-register" data-toggle="ml-modal">Register</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-6901"><a href="#modal-login" data-toggle="ml-modal">Login</a></li>
+</ul></div>                    </div>
+
+
+
+                </div>
+
+                <div class="span1" id="td-top-search">
+                    <!-- Search -->
+                    <div class="header-search-wrap">
+                        <div class="dropdown header-search">
+                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                <form role="search" method="get" class="td-search-form" action="http://www.newsriffle.com/">
+                                    <div class="td-head-form-search-wrap">
+                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                                    </div>
+                                </form>
+                                <div id="td-aj-search"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div> <!-- /.row-fluid -->
+        </div> <!-- /.td-menu-wrap -->
+    </div> <!-- /.td-menu-background -->
+</div> <!-- /.td-menu-placeholder -->
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+        
+    <div class="span12 column_container">
+        <div class="td-404-title">
+            404 Error - page not found        </div>
+
+        <div class="td-404-sub-title">
+            We're sorry, but the page you are looking for doesn't exist.        </div>
+
+        <div class="td-404-sub-sub-title">
+            You can go to the            <a href="http://www.newsriffle.com">homepage</a>
+
+        </div>
+
+
+        <h4 class="block-title"><span>OUR LATEST POSTS</span></h4>
+
+        
+        <article id="post-222104" class="post-222104 post type-post status-publish format-standard has-post-thumbnail hentry category-tech-and-gadgets" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/" rel="bookmark" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind"><a href=http://techcrunch.com/2016/04/30/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/?ncid=rss target=_blank >Review: Grenco Science’s G-Pen Elite is the best vape of its kind</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/tech-and-gadgets/">TECH AND GADGETS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/techcrunch/">TechCrunch</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T21:05:52+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222104">15</span></div>                </div>
+            </header>
+
+
+            
+
+            <div class="td-post-featured-image"><a href="http://www.newsriffle.com/tech-and-gadgets/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/"><img width="680" height="453" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222104-thumb.jpg" alt="" title="Thumbnail for 222104"/></a></div>
+
+            
+                <div class="td-post-text-content">
+                    <div class="ftpimagefix" style="float:left"><img src="https://tctechcrunch2011.files.wordpress.com/2016/04/dscf2412-e1462050076862.jpg?w=680" alt="DSCF2412"></div>
+<p>The fascination and rapid development of portable vaporizers for ground, plant-based material is hard to ignore, if you&#8217;re not living under a rock. Typically, an expensive gadget, Grenco Science has <a href="http://techcrunch.com/2016/04/30/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/?ncid=rss" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://techcrunch.com/2016/04/30/review-grenco-sciences-g-pen-elite-is-the-best-vape-of-its-kind/?ncid=rss" target="_blank" title="Review: Grenco Science’s G-Pen Elite is the best vape of its kind">TechCrunch</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-222106" class="post-222106 post type-post status-publish format-standard hentry category-sports" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/" rel="bookmark" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage"><a href=http://www.theguardian.com/sport/2016/apr/30/chris-froome-tour-de-romandie-penultimate-stage target=_blank >Chris Froome out in front to take Tour de Romandie’s penultimate stage</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/sports/">SPORTS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/the-guardian/">The Guardian</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T21:04:14+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/sports/chris-froome-out-in-front-to-take-tour-de-romandies-penultimate-stage/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222106">14</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="ftpimagefix" style="float:left"><img src="https://i.guim.co.uk/img/media/4b603fc6faadfbcd7a033c8f1a8d2315ccaa2c3a/0_53_2265_1359/2265.jpg?w=140&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=9e7025014a921eff3c1b605efd9da360"></div>
+<p>• Team Sky cyclist wins stage four in Villars by four seconds after breakaway<br />• Nairo Quintana rolls home fifth to retain grip on race leader&#8217;s yellow jersey
+<p>Chris Froome took a <a href="http://www.theguardian.com/sport/2016/apr/30/chris-froome-tour-de-romandie-penultimate-stage" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://www.theguardian.com/sport/2016/apr/30/chris-froome-tour-de-romandie-penultimate-stage" target="_blank" title="Chris Froome out in front to take Tour de Romandie’s penultimate stage">The Guardian</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-222107" class="post-222107 post type-post status-publish format-standard hentry category-sports" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/" rel="bookmark" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor"><a href=http://www.theguardian.com/football/blog/2016/apr/30/leicester-city-fantastic-foxes-premier-league-elite-lesson target=_blank >Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/sports/">SPORTS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/the-guardian/">The Guardian</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T21:00:36+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/sports/leicesters-fantastic-foxes-have-taught-the-premier-league-elite-a-lesson-daniel-taylor/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222107">15</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="ftpimagefix" style="float:left"><img src="https://i.guim.co.uk/img/media/3be0c14b05076f698136d3bc66162aad37bd688a/63_139_3647_2188/3647.jpg?w=140&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=e7efb185d9b484ebcab2570f6155a6f6"></div>
+<p>Leicester City are on the threshold of achieving the unimaginable – a first ever title – but their so-called betters, who should feel chastened about being left behind, are unlikely <a href="http://www.theguardian.com/football/blog/2016/apr/30/leicester-city-fantastic-foxes-premier-league-elite-lesson" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://www.theguardian.com/football/blog/2016/apr/30/leicester-city-fantastic-foxes-premier-league-elite-lesson" target="_blank" title="Leicester’s Fantastic Foxes have taught the Premier League elite a lesson | Daniel Taylor">The Guardian</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-222108" class="post-222108 post type-post status-publish format-standard hentry category-sports" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/" rel="bookmark" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft"><a href=http://www.latimes.com/sports/la-sp-rams-select-josh-forrest-with-190th-pick-20160430-story.html target=_blank >Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/sports/">SPORTS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/los-angeles-times/">Los Angeles Times</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T21:00:00+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/sports/rams-select-kentucky-linebacker-josh-forrest-in-sixth-round-with-190th-pick-in-nfl-draft/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222108">14</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <p>The Rams selected Kentucky linebacker Josh Forrest in the sixth round with the 190th selection in the NFL draft.</p>
+<p>“Goosebumps,” Forrest said during a conference call with reporters. “Everybody in <a href="http://www.latimes.com/sports/la-sp-rams-select-josh-forrest-with-190th-pick-20160430-story.html" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://www.latimes.com/sports/la-sp-rams-select-josh-forrest-with-190th-pick-20160430-story.html" target="_blank" title="Rams select Kentucky linebacker Josh Forrest in sixth round with 190th pick in NFL draft">Los Angeles Times</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-222109" class="post-222109 post type-post status-publish format-standard has-post-thumbnail hentry category-tech-and-gadgets" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/" rel="bookmark" title="Today, Kenya Is Torching 5% Of The World&#039;s Stockpiled Ivory"><a href=http://feeds.gawker.com/~r/gizmodo/full/~3/yJuCumZzXD0/today-kenya-is-torching-5-of-the-worlds-stockpiled-iv-1774028292 target=_blank >Today, Kenya Is Torching 5% Of The World's Stockpiled Ivory</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/tech-and-gadgets/">TECH AND GADGETS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/gizmodo/">Gizmodo</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T20:34:00+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222109">15</span></div>                </div>
+            </header>
+
+
+            
+
+            <div class="td-post-featured-image"><a href="http://www.newsriffle.com/tech-and-gadgets/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/"><img width="636" height="407" itemprop="image" class="entry-thumb" src="http://www.newsriffle.com/wp-content/uploads/2016/04/222109-thumb.jpg" alt="" title="Thumbnail for 222109"/></a></div>
+
+            
+                <div class="td-post-text-content">
+                    <div class="ftpimagefix" style="float:left"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--o6LfX_BX--/c_fit,fl_progressive,q_80,w_636/dkjbyy4tfu0a6vjwwqbn.jpg"></div>
+<p>Earlier today, Kenya set ablaze 105 tons of stockpiled ivory in a measure designed to discourage the poaching of elephants and rhinoceros in the country. The blaze is the biggest <a href="http://feeds.gawker.com/~r/gizmodo/full/~3/yJuCumZzXD0/today-kenya-is-torching-5-of-the-worlds-stockpiled-iv-1774028292" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://feeds.gawker.com/~r/gizmodo/full/~3/yJuCumZzXD0/today-kenya-is-torching-5-of-the-worlds-stockpiled-iv-1774028292" target="_blank" title="Today, Kenya Is Torching 5% Of The World's Stockpiled Ivory">Gizmodo</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-222111" class="post-222111 post type-post status-publish format-standard hentry category-sports" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/" rel="bookmark" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft"><a href=http://www.latimes.com/sports/la-sp-rams-select-temarrick-hemingway-with-177th-pick-20160430-story.html target=_blank >Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft</a></a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a  href="http://www.newsriffle.com/category/sports/">SPORTS</a></li></ul>                    <div class="td-clear-author"></div><span class="td-block-author">by <a itemprop="author" href="http://www.newsriffle.com/author/los-angeles-times/">Los Angeles Times</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                    <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-04-30T20:21:00+00:00" >Apr 30, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"><span class="td-sp td-sp-ico-comments td-fake-click" data-fake-click="http://www.newsriffle.com/sports/rams-select-te-temarrick-hemingway-of-south-carolina-state-with-177th-pick-in-nfl-draft/#comments"></span>0 <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-222111">18</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <p>The Rams selected tight end Temmarick Hemingway of South Carolina State in the sixth round with the 177th overall pick in the NFL draft.</p>
+<p>Hemingway is the second tight end <a href="http://www.latimes.com/sports/la-sp-rams-select-temarrick-hemingway-with-177th-pick-20160430-story.html" target="_blank" id="rssmi_more">Read More</a>
+<p>Source:: <a href="http://www.latimes.com/sports/la-sp-rams-select-temarrick-hemingway-with-177th-pick-20160430-story.html" target="_blank" title="Rams select TE Temarrick Hemingway of South Carolina State with 177th pick in NFL draft">Los Angeles Times</a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                    </div>
+
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="td-footer-wrap">
+        <div class="container">
+            <div class="row">
+                
+                        <div class="span12">
+                            <div class="td-grid-wrap">
+                                <div class="container-fluid">
+                                    <div class="wpb_row row-fluid ">
+                                        <div class="span12 wpb_column column_container">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                                    </div>
+        </div>
+    </div> <!-- /.td-footer-wrap  -->
+
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; Copyright 2015 NewsRiffle                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+	<script type="text/javascript">
+		var niceMessageSetup = { "text": [
+			{ "title": "Adblock is actived!", "message": "This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock in this site</b>!<br /> Thank You!" }
+		]};
+	</script>
+
+		<div id="modal-login" class="ml-modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+
+			
+			
+			<div class="modal-login-dialog">
+		      <div class="ml-content">
+
+				<div class="section-container">
+
+										<div id="login" class="modal-login-content">
+
+						<button type="button" class="ml-close" data-dismiss="ml-modal" aria-hidden="true">&times;</button>
+						<h2>Login</h2>
+
+						
+						<form action="login" method="post" id="form" class="group" name="loginform">
+
+							
+							<p class="mluser">
+								<label class="field-titles" for="login_user">Username</label>
+								<input type="text" name="log" id="login_user" class="input" placeholder="" value="" size="20" />
+							</p>
+
+							<p class="mlpsw">
+								<label class="field-titles" for="login_pass">Password</label>
+								<input type="password" name="pwd" id="login_pass" class="input" placeholder="" value="" size="20" />
+							</p>
+
+							
+							<p id="forgetmenot">
+								<label class="forgetmenot-label" for="rememberme"><input name="rememberme" type="checkbox" placeholder="" id="rememberme" value="forever" /> Remember Me</label>
+							</p>
+
+							<p class="submit">
+
+								
+								<input type="submit" name="wp-sumbit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+								<input type="hidden" name="login" value="true" />
+								<input type="hidden" id="security" name="security" value="73594ab02e" /><input type="hidden" name="_wp_http_referer" value="/tech-and-gadgets/track-your-internet-connection-in-the-new-york-subway-with-this-app/" />
+							</p><!--[END .submit]-->
+
+							
+						</form><!--[END #loginform]-->
+					</div><!--[END #login]-->
+
+																<div id="register" class="modal-login-content" style="display:none;">
+
+							<button type="button" class="ml-close" data-dismiss="ml-modal" aria-hidden="true">&times;</button>
+							<h2>Register</h2>
+
+							
+							<form action="register" method="post" id="form" class="group" name="loginform">
+
+								
+								<p class="mluser">
+									<label class="field-titles" for="reg_user">Username</label>
+									<input type="text" name="user_login" id="reg_user" class="input" placeholder="" value="" size="20" />
+								</p>
+
+								<p class="mlemail">
+									<label class="field-titles" for="reg_email">Email</label>
+									<input type="text" name="user_email" id="reg_email" class="input" placeholder="" value="" size="20" />
+								</p>
+                                                                    <p class="mlregpsw">
+									<label class="field-titles" for="reg_password">Password</label>
+									<input type="password" name="reg_password" id="reg_password" class="input" placeholder=""  />
+								</p>
+                                <p class="mlregpswconf">
+									<label class="field-titles" for="reg_cpassword">Confirm Password</label>
+									<input type="password" name="reg_cpassword" id="reg_cpassword" class="input" placeholder=""  />
+								</p>
+                                                                                                    
+								
+								<p class="submit">
+
+									
+									<input type="submit" name="user-sumbit" id="user-submit" class="button button-primary button-large" value="Sign Up" />
+									<input type="hidden" name="register" value="true" />
+									<input type="hidden" id="security" name="security" value="73594ab02e" /><input type="hidden" name="_wp_http_referer" value="/tech-and-gadgets/track-your-internet-connection-in-the-new-york-subway-with-this-app/" />
+								</p><!--[END .submit]-->
+
+								
+							</form>
+
+						</div><!--[END #register]-->
+					
+										<div id="forgotten" class="modal-login-content" style="display:none;">
+
+						<button type="button" class="ml-close" data-dismiss="ml-modal" aria-hidden="true">&times;</button>
+						<h2>Forgotten Password?</h2>
+
+						
+						<form action="forgotten" method="post" id="form" class="group" name="loginform">
+
+							
+							<p class="mlforgt">
+								<label class="field-titles" for="forgot_login">Username or Email</label>
+								<input type="text" name="forgot_login" id="forgot_login" class="input" placeholder="" value="" size="20" />
+							</p>
+
+							
+							<p class="submit">
+
+								
+								<input type="submit" name="user-submit" id="user-submit" class="button button-primary button-large" value="Reset Password">
+								<input type="hidden" name="forgotten" value="true" />
+								<input type="hidden" id="security" name="security" value="73594ab02e" /><input type="hidden" name="_wp_http_referer" value="/tech-and-gadgets/track-your-internet-connection-in-the-new-york-subway-with-this-app/" />
+							</p>
+
+							
+						</form>
+
+					</div><!--[END #forgotten]-->
+				</div><!--[END .section-container]-->
+			
+			<div id="additional-settings"><a href="#register" class="modal-login-nav">Register</a> | <a href="#forgotten" class="modal-login-nav">Lost your password?</a><div class="hide-login"> | <a href="#login" class="modal-login-nav">Back to Login</a></div></div>
+				</div>
+			</div>
+		</div><!--[END #modal-login]-->
+		<div style="display:none">
+	</div>
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.5d (rara)
+        Deploy mode: deploy
+        
+        uid: 57252c4b1d60f
+    -->
+
+    
+            <style type="text/css" media="screen">
+                a#rssmi_more
+{      font-size: 150%;
+	background-color :#44c767;
+	-moz-border-radius:23px;
+	-webkit-border-radius:23px;
+	border-radius:23px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-weight:bold;
+	padding:9px 18px;
+	text-decoration:none;
+	text-shadow:-4px 3px 7px #2f6627;
+}
+#modal-login{
+z-index: 9999;
+}
+body{
+background: rgba(143, 173, 231, 0.20);
+}
+                </style><script type="text/javascript"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script></script><script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.newsriffle.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/pa-modal-login/assets/js/modal.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var modal_login_script = {"ajax":"http:\/\/www.newsriffle.com\/wp-admin\/admin-ajax.php","redirecturl":"\/tech-and-gadgets\/track-your-internet-connection-in-the-new-york-subway-with-this-app\/","loadingmessage":"Checking Credentials..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/pa-modal-login/assets/js/modal-login.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201617'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/themes/Newspaper/js/td_external.js?ver=4.5d'></script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/themes/Newspaper/js/full_compact/site.js?ver=4.5d'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"newsriffle"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.newsriffle.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.7'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+<script type='text/javascript' src='http://stats.wp.com/e-201617.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'93105918',post:'0',tz:'0',srv:'www.newsriffle.com'} ]);
+	_stq.push([ 'clickTrackerInit', '93105918', '0' ]);
+</script>
+</body>
+</html>

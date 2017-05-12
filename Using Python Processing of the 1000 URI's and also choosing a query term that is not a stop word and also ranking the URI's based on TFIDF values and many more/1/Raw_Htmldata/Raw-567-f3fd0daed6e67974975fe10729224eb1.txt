@@ -1,0 +1,1234 @@
+<!--BANNERS COMERCIAL--><!DOCTYPE html> 
+<html lang="es"> 
+<head>
+	<!-- meta charset="iso-8859-1" -->
+	<link rel="meta" type="application/rdf+xml" href="http://www.cnnexpansion.com/dublincore.rdf" />
+		<link rel="canonical" href="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" />
+	<meta charset="windows-1252">
+	<meta name="dc.language" content="es">
+<!-- CHARTBEAT -->
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<!--googleoff: all-->
+
+	<base href="http://www.cnnexpansion.com" />
+		<meta name="description" content="Noticias de los principales indicadores económicos y lo más relevante de las industrias y servicios.">
+			<!-- <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"> -->
+	
+	<meta name="application-name" content="CNNExpansión"/>
+	<meta name="msapplication-TileColor" content="#ffffff"/> 
+	<meta name="msapplication-TileImage" content="http://static.cnnexpansion.com/media/w10/logo.png"/>
+	<!-- ANCLAS IE9 -->
+	<meta name="msapplication-task" content="name=Noticias; action-uri=http://www.cnnexpansion.com/ver-mas/portada; icon-uri=http://www.cnnexpansion.com/images/iconos/favicon.ico" />
+	<meta name="msapplication-task" content="name=Mercados financieros; action-uri=http://www.cnnexpansion.com/mercados; icon-uri=http://www.cnnexpansion.com/images/iconos/favicon.ico" />
+	<meta name="msapplication-task" content="name=Enfoques; action-uri=http://www.cnnexpansion.com/enfoques; icon-uri=http://www.cnnexpansion.com/images/iconos/favicon.ico" />
+	<meta name="msapplication-task" content="name=Lleva a CNNExpansión a tu sitio; action-uri=http://www.cnnexpansion.com/embed; icon-uri=http://www.cnnexpansion.com/images/iconos/favicon.ico" />
+	<meta name="msapplication-task" content="name=Especiales; action-uri=http://www.cnnexpansion.com/especiales; icon-uri=http://www.cnnexpansion.com/images/iconos/favicon.ico" />
+
+	<meta name="google-site-verification" content="52Em2ehE9882hcNdhu9_0XcAJ34sxkurjQYSqBgiInw" />
+	<link rel="stylesheet" type="text/css" href="http://static.cnnexpansion.com/css/cnnexpansion.css?v=0.1.7" media="screen" />
+	<link rel="stylesheet" type="text/css" href="http://static.cnnexpansion.com/css/print.css" media="print" />
+		<link rel="alternate" type="application/rss+xml" href="http://feeds2.feedburner.com/cnnexpansion/portada" />
+	<link rel="shortcut icon" href="/images/iconos/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="http://static.cnnexpansion.com/css/exp_resultas.css?v=1.2" media="screen" />
+<script type="text/javascript" src="http://code3.adtlgc.com/js/expansion_init.js"></script>
+<script type='text/javascript' src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type='text/javascript'>
+    if (typeof(enreachresp) == 'undefined') { window.enreachresp = ''; }
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/1x1', [[1,1]], 'div-gpt-ad-1x1').setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineOutOfPageSlot('/72776159/CnnExpansion/EconomiaResulta/1x1', 'div-gpt-ad-1x1-oop').setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/300x250', [[300,250],[300,600]], 'div-gpt-ad-box1').setTargeting('pos',['1']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/300x250_2', [[300,250],[300,600]], 'div-gpt-ad-box2').setTargeting('pos',['2']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/300x250_3', [[300,250],[300,600]], 'div-gpt-ad-box3').setTargeting('pos',['3']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/970x90', [[970,90],[970,250]], 'div-gpt-ad-leader1').setTargeting('pos',['1']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/970x90_2', [[970,90]], 'div-gpt-ad-leader2').setTargeting('pos',['2']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/990x50', [[990,50]], 'div-gpt-ad-cintillo').setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/EconomiaResulta/300x100', [[300,100]], 'div-gpt-ad-boton1').setTargeting('pos',['1']).setTargeting('subj',"n006VZU").addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/Alertas/AlertaCintillo', [57, 25], 'div-gpt-ad-alerta-cintillo').addService(googletag.pubads());
+	googletag.defineSlot('/72776159/CnnExpansion/Alertas/MiniAlerta', [75, 30], 'div-gpt-ad-minialerta').addService(googletag.pubads());
+        if(enreachresp){
+            googletag.pubads().setTargeting("ecid",enreachresp.split('|'));
+        }
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().setTargeting('keywords',["donald trump","sirios","refugiados","ISIS","aspirante","presidencia","Estados Unidos"]);
+	//googletag.pubads().enableSyncRendering();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.enableServices();
+</script>
+	<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_b-bb7BkcbesQJHeAF-wW2in9rhhHF9-USAF09fb_lGU-9PH3WdSoGvIn5G2Li3oN">
+	{ siteName: 'cnnexpansion.com (El portal de negocios, ec)' ,enabledProviders: 'facebook,twitter,google,linkedin,yahoo,messenger' ,connectWithoutLoginBehavior: 'alwaysLogin' ,lang: 'es' } 
+	</script>
+	<script type="text/javascript" src="http://static.cnnexpansion.com/js/tools_elecciones.js"></script>
+	<script type="text/javascript" src="http://static.cnnexpansion.com/js/cnnexpansion.js?v=0.0.4"></script>
+		<script type="text/javascript" src="http://static.cnnexpansion.com/js/exp_resultas.class.js?v=1.1.10"></script>
+
+<!--googleon: all-->
+			<!-- METAS -->
+
+<title>Trump promete ‘encarar’ a refugiados sirios, incluso niños - Economía - CNNExpansion.com</title>
+<meta name="description" content="El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria." />
+<meta name="date" content="2016-02-08" />
+
+<meta name="keywords" content="donald trump, sirios, refugiados, ISIS, aspirante, presidencia, Estados Unidos" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@cnnexpansion">
+<meta name="twitter:creator" content="@cnnexpansion">
+<meta name="twitter:url" content="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump">
+<meta name="twitter:title" content="Trump promete ‘encarar’ a refugiados sirios, incluso niños"/>
+<meta name="twitter:description" content="El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria."/>
+<meta name="twitter:image:src" content="http://static.cnnexpansion.com/media/2016/02/08/trump.jpg"/>
+
+<fb:share-button class="meta"> 
+<meta property="og:title" content="Trump promete ‘encarar’ a refugiados sirios, incluso niños" />
+<meta property="og:description" content="El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria." />
+<meta propetty="og:url" content="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump">
+<meta property="og:image" content="http://static.cnnexpansion.com/media/2016/02/08/trump.jpg" />
+</fb:share-button>
+
+<link rel="image_src" href="http://static.cnnexpansion.com/media/2016/02/08/trump.jpg" /> 
+			<!-- /METAS -->
+			<!--googleoff: all-->
+	<script type="text/javascript">
+		var gSeccion='economia';
+		var ord=parseInt(Math.random()*1000000000);
+		var flagUrchin=true;
+		var privado = 0;
+		var adKeyword = "";
+		var is_gallery = false;
+	</script>
+
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!-- Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-46623903-1', 'cnnexpansion.com');
+	  ga('create', 'UA-59655512-3', 'auto', {'name':'primitivoTracker'}); // Primitivo
+
+	  ga('send', 'pageview');
+	  ga('primitivoTracker.send', 'pageview'); // Primitivo
+
+
+	</script>
+
+<!-- Facebook Pixel Code Primitivo-->
+	<script>
+	!function(f,b,e,v,n,t,s){
+		if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)
+	}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1607450832876076');
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1607450832876076&ev=PageView&noscript=1"/>
+	</noscript>
+<!-- End Facebook Pixel Code -->
+
+	<script type="text/javascript"> 
+		var _gaq = _gaq || [];
+		_gaq.push( [ '_setAccount', 'UA-1420780-1' ] );
+		_gaq.push( [ '_setDomainName', '.cnnexpansion.com' ] );
+		_gaq.push( [ '_setAllowLinker', true ] );
+		_gaq.push( [ '_setAllowHash', false ] );
+		/**
+		*	Especiales y sus notas
+		*/
+		if( adKeyword != "" )
+		{
+			_gaq.push( [ '_setCustomVar', 1, 'Especial', adKeyword, 3 ] );
+		}
+		//_gaq.push( [ '_trackEvent' ] );
+		_gaq.push( [ '_trackPageview' ] );
+
+		(
+			function() 
+			{
+				var ga = document.createElement( 'script' ); 
+					ga.type = 'text/javascript'; 
+					ga.async = true;
+					ga.src = ( 'https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName( 'script' )[ 0 ]; 
+					s.parentNode.insertBefore( ga, s );
+			}
+		)();
+		
+	</script>
+	<!--ENREACH Traking-->
+	<script type="text/javascript" src="http://code3.adtlgc.com/js/expansion_init.js"></script>
+	<script>(function() {
+	  var _fbq = window._fbq || (window._fbq = []);
+	  if (!_fbq.loaded) {
+	    var fbds = document.createElement('script');
+	    fbds.async = true;
+	    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(fbds, s);
+	    _fbq.loaded = true;
+	  }
+	  _fbq.push(['addPixelId', '930338463667538']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=930338463667538&amp;ev=PixelInitialized" /></noscript>
+
+
+</head>
+
+<body class="home blog">
+
+<!-- asynchronous googletags pubads refresh-->
+<!--script>
+	setInterval(function(){googletag.pubads().refresh();}, 90000);
+</script-->
+
+<!-- Google Code para etiquetas de remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 909194711;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/909194711/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<div id="fb-root"></div>
+
+<header id="siteHeader">
+
+	<div class="full-banner">
+	<div id='div-gpt-ad-leader1'>
+		<script type='text/javascript'>googletag.display('div-gpt-ad-leader1');</script>
+	</div>
+	</div>
+	<div class="borde2" id="bordeHeader"></div>
+	
+	<!-- HEADER -->
+	<!-- AMAZON -->
+	<div class="main" id="header">
+		<div class="revista">
+					<a rel="nofollow" target="_blank" class="urchin" id="header_revista" href="http://bit.ly/1gpyUOb"><img alt="Revista Expansi&oacute;n" src="http://static.cnnexpansion.com/media/portadas/MINI_PORTADA_201602150901241455548484196.jpg " /></a>
+			<span class="tit">Los mejores MBA en México y en el mundo 2016</span>
+			<span class="edi">Edici&oacute;n 1184</span>
+			<a rel="nofollow" target="_blank" href="http://bit.ly/1gpyUOb" id="header_suscribete_revista" class="sus urchin">SUSCR&Iacute;BETE</a>
+					</div>
+		
+		<div class="logo">
+			<a rel="nofollow" id="header_logo_expansion" class="urchin" title="CNNExpansi&oacute;n" href="/">&nbsp;</a>
+		</div>
+	
+		<div id="buscador">
+			<script type="text/javascript">
+var lp =
+{
+	showTermsLink: 'false',
+	height: '20',
+	width: 100,
+	containerID: 'loginDiv',
+	enabledProviders: 'facebook, twitter, google, yahoo, messenger, linkedin, foursquare',
+	connectWithoutLoginBehavior: 'alwaysLogin',
+	requiredCapabilities: 'Login',
+	facepilePosition: 'none'
+}
+</script>
+<div id="gigyaLoginDiv">
+	<div id="cerrar_gigya"></div>
+	<div id="loginDiv"></div>
+	<div id="user_data_gigya">
+		<a class="loginHandlerGigya login_register" href="javascript:void(0);" id="login_register">Reg&iacute;strate</a> o
+		<a class="loginHandlerGigya login_login" href="javascript:void(0);" id="login_login">Ingresa</a> a trav&eacute;s de:
+	</div>
+</div>
+	<script type="text/javascript">
+		gigya.socialize.showAddConnectionsUI(lp);
+		//gigya.socialize.showLoginUI(lp);
+	</script>
+			<div id="suscribeNewsletter">
+			<a rel="author" href="/newsletter" title="Newsletter" class="urchin" id="header_suscribe_newsletter">Suscr&iacute;bete al Newsletter</a>
+			</div>
+						<form name="gs" id="cxForm" target="_parent" action="/buscador" method="POST" autocomplete="off">
+				<table>
+					<tbody>
+					<tr>
+						<td>
+							<input type="text" id="cxUserInput" name="user_input" value="">
+						</td>
+						<td>
+							<input type="submit" id="cxBtn" name="buscar" class="buscar" value="">
+						</td>
+					</tr>
+					</tbody>
+				</table>
+				<input type="hidden" name="q" id="cxQ" value=""/>
+			</form>
+		<!--SERVER DATE: 2016-02-15 23:24:29--><div id="fecha">
+	<span id="fechaActual" class="fecha"></span>&nbsp;<span class="fecha" id="hora_exacta"></span><span class="redhour">&nbsp;|&nbsp;</span><span class="fecha2">M&eacute;xico DF</span>
+</div>
+<script type="text/javascript">	setTimeout("getClock()",0); getfechaHoy();</script>
+		</div>
+
+	<br class="cl" />
+	</div>
+
+	<nav>
+		<ul class="main">
+			<li><a rel="author" id="canalera_portada" 		class="urchin" href="/">Inicio</a></li>
+			<li><a rel="author" id="canalera_negocios" 	class="urchin" href="/negocios">Empresas</a></li>
+			<li><a rel="author" id="canalera_economia" 	class="urchin selected" href="/economia">Econom&iacute;a</a></li>
+			<li><a rel="author" id="canalera_mercados" 	class="urchin" href="/mercados">Mercados</a></li>
+			<li><a rel="author" id="canalera_midinero" 	class="urchin" href="/mi-dinero">Finanzas Personales</a></li>
+			<li><a rel="author" id="canalera_emprendedores" class="urchin" href="/emprendedores">Emprendedores</a></li>
+			<li><a rel="author" id="canalera_carrera" 	class="urchin" href="/mi-carrera">Carrera</a></li>
+			<li><a rel="author" id="canalera_tecnologia" class="urchin" href="/tecnologia">Tecnolog&iacute;a</a></li>
+			<li><a rel="author" id="canalera_video" 		class="urchin" href="/videos">Videos</a></li>
+			<li><a rel="author" id="canalera_lifestyle" 	class="urchin" href="/lifestyle">Life &amp; Style</a></li>
+			<li><a rel="author" id="canalera_especiales" class="urchin" href="/especiales">Especiales</a></li>
+			<li><a rel="author" id="canalera_rankings" 	class="urchin" href="/rankings">Rankings</a></li>
+			<li><a rel="author" id="canalera_actualidad" class="urchin" href="http://www.cnnmexico.com/" target="_blank">Actualidad <img src="http://static.cnnexpansion.com/images/flechita.gif" alt="cnnexpansion"></a></li>
+		</ul>
+	</nav>
+</header>
+
+
+	<div id="bannerCintillo">
+	<div id='div-gpt-ad-cintillo'>
+		<script type='text/javascript'>googletag.display('div-gpt-ad-cintillo');</script>
+	</div>
+	</div>
+<div id="intro"></div>
+
+<div class="main">
+
+
+	<section id="main">
+		<article id="mainContent">
+<!--BRMT-->		<div id="contenido">
+	<!--googleoff: all-->
+<script type="text/javascript" >
+function setTween(contenedor, imagen, url){	
+	if($(contenedor).getElement('iframe')){
+		$('btnCerrarVideo').dispose();
+		var imagen="<img src='"+imagen+"' onclick='setTween(&#34;"+contenedor+"&#34;, &#34;"+imagen+"&#34;, &#34;"+url+"&#34;)' alt='' width='200' height='116'>";
+		var elFrame=$(contenedor).getElement("iframe");
+		var fx1 = new Fx.Morph(elFrame, {
+		    /*duration: 1000,
+		    transition: Fx.Transitions.Quart.easeOut*/
+		});
+		fx1.start({
+		      'width': 200,
+		      'height': 116
+		}).chain(function(){$(contenedor).set("html",imagen)});
+		$(contenedor).toggleClass("cerrado");
+	}else{
+		var iframe="<div id='btnCerrarVideo' class='close'  onclick='setTween(&#34;"+contenedor+"&#34;, &#34;"+imagen+"&#34;, &#34;"+url+"&#34;)' ></div><iframe width='650' height='350' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='/cnn2_iframe_videos.php?url="+url+"&amp;autostart=true&amp;width=650&amp;height=350' ></iframe>";
+		
+		var fx1 = new Fx.Morph($(contenedor).getElement("img"), {
+                    /*duration: 1000,
+                    transition: Fx.Transitions.Quart.easeOut*/
+                });
+                fx1.start({
+                      'width': 650,
+                      'height': 350
+                }).chain(function(){$(contenedor).set("html",iframe)});
+		 $(contenedor).toggleClass("cerrado");
+			
+	}
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://static.cnnexpansion.com/css/tbl_empresas_2010.css"/>
+<link rel="stylesheet" type="text/css" href="http://static.cnnexpansion.com/css/tbl_500_2010.css"/>
+<article>
+<!--googleon: all-->
+<div class="titulares">
+<h1 class="title2">Trump promete ‘encarar’ a refugiados sirios, incluso niños</h1>
+	<h2 class="desc1">El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.</h2>
+		<div class="fontmini"><div class="desc2" style="display:inline;">Por: Jeremy Diamond | </div> <div class="contenido" style="display:inline;">Lunes, 08 de febrero de 2016 a las 13:10</div></div>
+</div>
+<!--googleoff: all-->
+<script type="text/javascript">
+var uaS = new gigya.socialize.UserAction();
+uaS.setUserMessage("Gracias por compartir el enlace");
+uaS.setActionName( "ha compartido" );
+uaS.setTitle("Trump promete ‘encarar’ a refugiados sirios, incluso niños");
+uaS.setLinkBack("http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump");
+uaS.setDescription("El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.");
+uaS.addActionLink("Revisa &eacute;sta nota en CNNExpansi&oacute;n", "http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump");
+uaS.addMediaItem({ type: 'image', src: 'http://static.cnnexpansion.com/media/2016/02/08/trump.jpg', href: 'http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump' });
+var showShareBarUI_params=
+{ 
+	userAction: uaS,
+	privacy : 'public',
+	scope : 'both',
+	lan : 'es',
+	containerID: 'shareBar',
+	shareButtons :[ 
+		{ 'provider' : 'facebook-share' },
+		{ 'provider' : 'Twitter-Tweet',
+			'url' : 'http://exp.mx/n006VZU',
+			'countURL' : 'http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump',
+			'via' : 'cnnexpansion'
+		},
+		{ 'provider' : 'google-plusone' },
+		{ 'provider' : 'LinkedIn' },
+		{ 'provider' : 'Share' },
+		{ 'provider' : 'Email','title':'Enviar' }
+	],
+	shortURLs : 'never',
+	operationMode : 'multiSelect',
+	emailBody : '<div style="font-family:Arial; font-size:14px;">' +
+				'<a href="http://www.cnnexpansion.com"><img style="margin:10px;" src="http://www.cnnexpansion.com/images/logo.jpg" border="0"></a>' + 
+				'<div style="font-family:Arial; font-size:14px;padding:15px 0px;">' + 
+				'<a style="text-decoration:none;color:#336699;" href="$sender$">$sender$</a> te recomienda este enlace en ' + 
+				'<a style="text-decoration:none;color:#336699;" href="http://www.cnnexpansion.com">CNNExpansi\u00f3n</a>' + 
+				'</div>' + 
+				'<div style="background-color:#F3F3F3;padding:20px;">' + 
+				'<div style="font-family:Arial;font-size:14px;color:red;">Art\u00edculo</div>' + 
+				'<div style="font-family:Times New Roman;font-size:25px;color:#333333;padding:5px 0px;">$title$</div>' + 
+				'<div style="font-family:Arial;font-size:14px;color:#333333;">' + 
+				'El candidato dijo que de llegar a la presidencia no permitirá la entrada de esas personas a EU; el empresario propone, en cambio, crear una zona segura para los refugiados, pero en Siria.'+
+				'</div><br>' + 
+				'<a style="color:#336699;" style="" href="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump">Leer art\u00edculo completo</a>' + 
+				'<br><br>' + 
+				'<div style="font-family:Arial;font-size:14px;color:red;">COMENTARIO</div>' + 
+				'<div style="font-family:Arial;font-size:14px;color:#333333;">$userMsg$</div>' + 
+				'</div><br><br>' + 
+				//'<a style="text-decoration:none;color:#336699;" href="http://www.gee.com.mx">CNNExpansi\u00f3n</a>' + 
+				//'<div>Visite otros sitios del <a href="http://www.gee.com.mx" style="color:#004477;text-decoration:none;">Grupo Expansi\u00f3n</a></div>' +
+				//'<div>Visita otros sitios del <a style="color:#336699;" href="http://grupoexpansion.mx">Grupo Expansi\u00f3n</a></div>' + 
+				'</div>'  
+}
+</script>
+<style type="text/css">
+.gig-button-td {
+width : auto !important;
+}
+.gig-button-container-twitter-tweet{
+width : 110px!important;
+}
+#shareBar{
+float:left;
+margin-right : 40px;
+}
+.fb-like{
+width : 110px !important;
+overflow:hidden;
+}
+#toolBar{
+    height: 32px;
+    max-height: 64px;
+    overflow:hidden;
+    clear:both;
+}
+#zoommenu{
+    float: right;
+    margin-top: -27px;
+}
+#zoommenu #incTxt.crecer{
+    background-image: url(http://static.cnnexpansion.com/images/ico-crecer.gif);
+    width: 16px;
+    line-height: 11px;
+    margin: 0 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+#zoommenu #decTxt.disminuir{
+    background-image: url(http://static.cnnexpansion.com/images/ico-disminuir.gif);
+    width: 16px;
+    line-height: 11px;
+    margin: 0;
+    display: inline-block;
+    text-decoration: none;
+}
+</style>
+<div id="zoommenu">
+	<a id="incTxt" class="crecer" href="javascript:void(0);">&nbsp;</a>
+	<a id="decTxt" class="disminuir" href="javascript:void(0);">&nbsp;</a>
+	<a class="linkmini">Texto</a>
+</div>
+<div id="toolBar">
+	<div id="shareBar" style="margin-bottom:10px;"></div>	
+</div>
+<script type="text/javascript">
+gigya.socialize.showShareBarUI(showShareBarUI_params);
+</script>
+		<div class="leftElements">
+			<!-- PRODUCTO  -->
+			<!-- /PRODUCTO -->
+			<div class="leftElement">
+					<div class="imagen">
+						<img src="http://static.cnnexpansion.com/media/2016/02/08/trump_media.jpg" alt="Donald Trump indica que los refugiados sirios podrían tener fotografías de ISIS o cosas peores en sus celulares. (Foto: Reuters)" width="200" />
+						<div class="desc3 desc-imagen">Donald Trump indica que los refugiados sirios podrían tener fotografías de ISIS o cosas peores en sus celulares. (Foto: Reuters)</div>
+					</div>
+			</div>
+				<div class="relacionados leftElement">
+				<div class="moduloRel title3">Art&iacute;culos relacionados</div>
+						<div class="relacionado  izq">
+							<a class="urchin" id="viewlet_articulos_relacionados_0" href="http://www.cnnexpansion.com/economia/2016/02/03/donald-trump-nominado-al-premio-nobel-de-la-paz"><div class="item">
+								<img src="http://static.cnnexpansion.com/media/2015/10/14/gettyimages491877620_thumb.jpg" alt="Foto" >								<div class="title-rel2 title-relacionado">
+																		<div>Donald Trump, ¿nominado al premio Nobel de la Paz?</div>
+								</div>
+														</div></a>
+						</div>
+						<div class="relacionado  der">
+							<a class="urchin" id="viewlet_articulos_relacionados_1" href="http://www.cnnexpansion.com/economia/2016/01/20/los-refugiados-una-oportunidad-economica-para-europa"><div class="item">
+								<img src="http://static.cnnexpansion.com/media/2016/01/20/refugiadossiriareuters_thumb.jpg" alt="Foto" >								<div class="title-rel2 title-relacionado">
+																		<div>Los refugiados, ¿una oportunidad económica para Europa?</div>
+								</div>
+														</div></a>
+						</div>
+					<br class="cl"/>
+				</div>
+		</div>
+	<!--Cuerpo de la nota-->
+	<!--googleon: all-->
+	<div id="cambiarFuente">
+		<p><b class=fuente>SALEM, New Hampshire (CNN) &mdash; </b>                                                                                                                                                                                                                                                                           Donald Trump aseguró este lunes que si llega a ser electo presidente de Estados Unidos, encarará a los <a href="http://www.cnnexpansion.com/economia/2016/02/02/mas-de-62000-inmigrantes-han-llegado-a-grecia-en-2016" target="_blank">refugiados de Siria</a>, incluyendo a niños, y les dirá que no pueden entrar al territorio estadounidense. </p> <p>                                                                                                                                                                                                                                                                           &ldquo;Los puedo verlos a la cara y decirles, &lsquo;Miren, ustedes no pueden entrar aquí&rsquo;&rdquo;, aseguró Trump durante una audiencia pública luego de que un hombre de Greenwich, Connecticut le preguntara al multimillonario si estaría dispuesto a prohibir que <a href="http://www.cnnexpansion.com/economia/2016/01/20/los-refugiados-una-oportunidad-economica-para-europa">los menores de edad de Siria se refugien en Estados Unidos.</a> </p> <p>                                                                                                                                                                                                                                                                           &ldquo;Sus padres deberían de quedarse en otro lugar. Pero no sabemos de donde vienen sus padres. No tenemos documentos de ellos&rdquo;, &ldquo;No hay manera de poder revisar de donde vienen estas personas&rdquo;, continuó Trump, quien tiene una casa en dicha localidad. </p> <p>                                                                                                                                                                                                                                                                           Esto sugiere que <a href="http://www.cnnexpansion.com/economia/2016/01/04/trump-lanza-su-primer-spot-centrado-en-isis-e-inmigracion" target="_blank">los refugiados sirios tienen fotografías de ISIS</a> y &ldquo;cosas peores&rdquo; en sus celulares, agregó el empresario. </p> <p>                                                                                                                                                                                                                                                                           <em><a href="http://www.cnnexpansion.com/economia/2016/02/03/donald-trump-nominado-al-premio-nobel-de-la-paz">Lee: Donald Trump, ¿nominado al premio Nobel de la Paz?</a></em> </p> <p>                                                                                                                                                                                                                                                                           Pero más allá de eso, Trump utilizó un tono diferente al que ha venido utilizando cuando dialoga con personas que lo cuestionan. </p> <p>                                                                                                                                                                                                                                                                           Trump no fustigó al hombre, sino que trató de obtener su simpatía. </p> <p>                                                                                                                                                                                                                                                                           &ldquo;Sé lo que estás haciendo y lo entiendo por completo. Y todos tenemos corazón&rdquo;, añadió Trump, &ldquo;pero siempre hay un punto de vista opuesto&rdquo;. </p> <p>                                                                                                                                                                                                                                                                           El aspirante republicano a la presidencia de EU argumentó que la creación de zonas seguras en Siria para <a href="http://www.cnnexpansion.com/economia/2016/01/20/los-refugiados-una-oportunidad-economica-para-europa" target="_blank">albergar a refugiados</a> sería una mejor solución para atender la crisis de refugiados provocada por la guerra civil de Siria. </p> <p>                                                                                                                                                                                                                                                                           &ldquo;Uno lo ve y dice que ya tenemos nuestros propios problemas&rdquo;, expresó Trump. &ldquo;Tengo el corazón más grande de todas las personas que están en esta audiencia. Podemos tomar un área en Siria&hellip; y construir una zona segura&rdquo;. </p>		<div class="contenido-infografias">
+
+		</div>
+
+
+	</div>
+
+</article>
+
+<div class="resulta_seccion">
+	<div style="overflow:hidden;clear:both;">
+		<div class="print_btns">
+			<div id="commentThis" class="print_btn">Comentarios</div>
+			<div id="downloadThis" class="print_btn">Descargar</div>
+			<div id="emailThis" class="print_btn">Email</div>
+			<div id="printThis" class="print_btn">Imprimir</div>
+			<div class="fans">
+				CNNExpansi&oacute;n en 
+				<a href="http://www.facebook.com/CNNExpansion" target="_blanck">Facebook</a> y en
+				<a href="http://twitter.com/cnnexpansion" target="_blanck">Twitter</a> 
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+	window.addEvent(
+		'domready',
+		function()
+		{
+			try{
+			var gigyaMail = showShareBarUI_params;
+			gigyaMail.shareButtons = [
+				{ 'provider' : 'Email','title':'Enviar',
+					'iconImgUp' : '/images/spacer.gif',
+					'iconImgOver' : '/images/spacer.gif'
+				}
+			]
+			gigyaMail.containerID = 'emailThis';
+			gigyaMail.noButtonBorders = true;
+			gigya.socialize.showShareBarUI(gigyaMail); 
+			}catch(e){}
+			$( 'printThis' ).addEvent( 'click', function(){ window.open( '/print/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump','printPage','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=800,height=600,directories=no,location=no')} );
+			$( 'downloadThis' ).addEvent( 'click', function(){ window.location = '/download/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump'} );
+			if( $( 'headerComments' ) )
+			{
+				$( 'commentThis' )
+				.addEvent( 'click', function(){ new Fx.Scroll( document.body ).toElement( 'headerComments' );});
+			}
+		}
+	);
+	</script>
+</div>
+			<div class="resulta_seccion"><script>
+window.addEvent("domready",function(){
+	var carrusel_recomendamos = new Carrusel({
+		items:{
+			parent:'recomendamos_carrusel',
+			elements:'.elemento_carrusel',
+			video:{
+				allow:false,
+				source:''
+			}
+		},
+		controls:{
+			active: true,
+			parent:'recomendamos_controles_carrusel',
+			before:'.anterior',
+			after:'.siguiente',
+			elements:'.numero',
+			playpausa:'',
+                       	css:{
+				active:'numeroSeleccionado',
+				inactive:'numeroNormal'
+			}
+		},
+		descriptions:{
+			active: false,
+			parent:'',
+			elements:''
+		},
+		effects:{
+			elements:{
+				active: true,
+				duration:700,
+				periodical:10000,
+				toLeft:		{'margin-left':'-654px'},
+				toShow:		{'position':'relative','margin-left':'0','display':'inline-block'},
+				toRight:	{'margin-left':'0'},
+				toBack:		{'z-index':'0'},
+				toHide:		{'display':'none'},
+				toPrepare:	{'z-index':'2','position':'absolute','display':'inline-block'}
+			},
+			descriptions:{
+				active: false,
+				duration:125,
+				toShow:'',
+				toHide:''
+			}
+		}
+	});
+});
+</script>
+<div id="recomendamos">
+	<div class="title4"><span>Recomendamos</span></div>
+	<div class="carrusel">
+		<div id="recomendamos_carrusel" class="contenedor_carrusel">
+			<div id="rec_contenido_carrusel" class="rec-items contenido_carrusel">
+				<div class="elemento_carrusel">
+					<a class="urchin" id="viewlet_recomendamos_0" href="economia/2016/02/15/latinoamerica-lleva-la-delantera-en-politicas-indigenas-bm">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/02/15/indigenaschiapascuartoscuro_thumb.jpg" alt="Latinoamérica lleva la delantera en políticas indígenas: BM">
+							</div>
+							<span class="desc-rel1">Latinoamérica lleva la delantera en políticas indígenas: BM</span>
+						</div>
+					</a>
+					<a class="urchin" id="viewlet_recomendamos_1" href="economia/2016/02/15/quien-fue-samuel-ruiz-sacerdote-cuya-tumba-visita-el-papa">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/02/15/samuelruizchiapas_thumb.jpg" alt="¿Quién fue Samuel Ruiz, sacerdote cuya tumba visitó el papa?">
+							</div>
+							<span class="desc-rel1">¿Quién fue Samuel Ruiz, sacerdote cuya tumba visitó el papa?</span>
+						</div>
+					</a>
+					<a class="urchin" id="viewlet_recomendamos_2" href="economia/2016/02/15/rusia-reporta-el-primer-caso-del-virus-del-zika">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/02/02/zika_thumb.jpg" alt="Rusia reporta el primer caso del virus del Zika">
+							</div>
+							<span class="desc-rel1">Rusia reporta el primer caso del virus del Zika</span>
+						</div>
+					</a>
+					<a class="urchin" id="viewlet_recomendamos_3" href="economia/2016/02/15/francisco-pide-perdon-a-los-pueblos-indigenas">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/02/15/resulta-misa_thumb.jpg" alt="“Perdón hermanos”: reclamo indígena tiene respuesta del papa">
+							</div>
+							<span class="desc-rel1">“Perdón hermanos”: reclamo indígena tiene respuesta del papa</span>
+						</div>
+					</a>
+					<a class="urchin" id="viewlet_recomendamos_4" href="economia/2016/02/15/la-onu-pide-investigacion-exhaustiva-en-penal-de-topo-chico">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/02/15/topo-chico_thumb.jpg" alt="La ONU pide investigación exhaustiva en penal de Topo Chico">
+							</div>
+							<span class="desc-rel1">La ONU pide investigación exhaustiva en penal de Topo Chico</span>
+						</div>
+					</a>
+					<a class="urchin" id="viewlet_recomendamos_5" href="economia/2016/02/15/la-bolsa-mexicana-opera-al-alza-por-repunte-de-petroprecios">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2016/01/21/bolsa_thumb.jpg" alt="La Bolsa Mexicana opera al alza por repunte de petroprecios">
+							</div>
+							<span class="desc-rel1">La Bolsa Mexicana opera al alza por repunte de petroprecios</span>
+						</div>
+					</a>
+				</div>
+				<div class="elemento_carrusel">
+					<a class="urchin" id="viewlet_recomendamos_6" href="economia/2016/02/15/las-exportaciones-de-china-caen-66-anual-en-enero">
+						<div>
+							<div class="imgthumb">
+								<img  class="imgthumb" src="http://static.cnnexpansion.com//media/2013/06/28/china-yuan_thumb.jpg" alt="Las exportaciones de China caen 6.6% anual en enero">
+							</div>
+							<span class="desc-rel1">Las exportaciones de China caen 6.6% anual en enero</span>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div id="recomendamos_controles_carrusel" class="controles_carrusel">
+			<div class="anterior"></div>
+			<div class="numero numeroNormal">
+				<div class="item-dot"></div>
+			</div>
+			<div class="numero numeroNormal">
+				<div class="item-dot"></div>
+			</div>
+			<div class="siguiente"></div>
+		</div>
+	</div>
+</div>
+<script>
+	if(typeof(link_permanente)!="undefined" && link_permanente!=""){
+		var dup = $('rec_contenido_carrusel').getElement("a[href="+link_permanente+"]");
+		if(dup!=null){
+			var pDup=$(dup).getParent();
+			if($(pDup).getElements('a').length==6){
+				var ulLi=$('rec_contenido_carrusel').getElements('.elemento_carrusel').getLast();
+				var ula=$(ulLi).getElements('a').getLast();
+				ula.inject(pDup);
+			}
+			$(dup).dispose();
+		}
+	}
+	$$(".elemento_carrusel").each(function(el,index){
+		if(el.getChildren().length==0){
+			el.destroy();
+			$("recomendamos_controles_carrusel").getElements(".numero")[index].destroy();
+		}	
+	});
+</script>
+ </div>	
+		<div class="resulta_seccion">
+	<div id="outbrain_content">
+		<div class="OUTBRAIN" data-src="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" data-widget-id="AR_3" data-ob-template="cnnexpansion" style="border:none!important"></div>
+		<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+	
+		<div class="OUTBRAIN" data-src="http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" data-widget-id="AR_2" data-ob-template="cnnexpansion" style="border:none!important"></div>
+		<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+	</div>
+</div>
+
+<br class="cl">
+<!--googleoff: all-->
+<div id="headerComments"><h1>Zona de comentarios</h1>
+<div class="tiny_url">Comparte &eacute;sta liga: <span>http://exp.mx/n006VZU</span></div>
+</div>
+<div id='commentsDiv' style="padding:10px;"></div>
+<!--script src="/js/gigya_comments.js"></script-->
+<script type='text/javascript'>
+var alertt=function(){
+	newlog['login_login'].call(newlog);
+}
+window.addEvent('domready',function(){
+	var uaC = new gigya.socialize.UserAction();
+	uaC.setActionName("ha comentado");
+	uaC.setTitle("Trump promete ‘encarar’ a refugiados sirios, incluso niños"); 
+	var params ={
+		userAction : uaC,
+		privacy : 'public',
+		scope : 'both',
+		lang: 'es',
+		categoryID: 'news',
+		streamID: 'n006VZU',
+		streamURL: 'http://www.cnnexpansion.com/economia/2016/02/08/le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump',
+		containerID: 'commentsDiv',
+		//version : 2,
+		width: 640,
+		cid:'newsComments',
+		enabledShareProviders: 'facebook,twitter,yahoo,linkedin',
+		//useSiteLogin : true,
+		//onSiteLoginClicked : alertt ,
+		//enabledProviders:'facebook,twitter, yahoo,linkedin,google,messenger',
+		templates : {
+			commentBox : '$loginCanvas$closeIcon$addComment' +
+				'<div id="commentPriv"><a href="http://www.cnnexpansion.com/privacy.php" target="_new">T&eacute;rminos y Condiciones</a>' + 
+				'</div>' /*,
+			comment : '<div class="commentItem">'+
+				'<div class="commentHeaderItem">Lo dijo: <b>$username</b>' + 
+				'<div class="commentDate">$dateString</div>' +
+				'</div>' + 
+				'<div class="commentContent">$photoDiv <div class="commentBody">$body</div></div>' +
+				'<div class="commentControls">' + 
+				'<div class="commentRaiting"><div class="lC">Calificar:</div>$vote</div>' +
+				'<div class="commentFlag"><div class="lC">Reportar comentario:</div>$flag</div>' +
+				'</div>'+
+				'</div>'*/
+			},
+		onLoad: function(){
+			if( $( 'commentThis' ) )
+			{
+				var total = $$('.gig-comments-commentList-header')[0].get('text').match(/[0-9]+/)[0].toInt();
+				$( 'commentThis' ).set( 'html', 'Comentarios (' + total + ')' );
+			}
+		}
+	}
+	gigya.socialize.showCommentsUI(params);
+	});
+</script>
+			<input id="jsIncludes" type="hidden" value="shareFloating|mini_alertas">
+			<input id="id_canal" type="hidden" value="2">
+			<input type="hidden" id="tw_path" value="http://exp.mx/n006VZU"> 
+		</div>
+	<script type="text/javascript">
+		var isResulta = true;
+		var tagSeccion = 'economia';
+	</script>
+	
+				<style type="text/css">
+				#mini_alerta_patrocinio { position: absolute; right: 10px; bottom: 10px; font-size: 10px; }
+				#tag_patrocinio_minialertas { width: 75px; height: 30px; }
+				.mini_alerta_item{ width:290px !important;}
+				</style>
+				
+
+<div id="mini_alerta">
+	<div id="mini_alerta_bg"></div>
+	<div id="mini_alerta_pleca">recomienda</div>
+	<div id="mini_alerta_content">
+		<div class="mini_alerta_item" uid="economia/2016/02/15/la-economia-japonesa-se-contrae-14-anual-al-cierre-de-2015&sj=ALT001">
+			<div id="mini_alerta_canal">
+				<a href="economia/2016/02/15/la-economia-japonesa-se-contrae-14-anual-al-cierre-de-2015&sj=ALT001">Economía</a>
+			</div>
+			<div id="mini_alerta_titulo">
+				<a href="economia/2016/02/15/la-economia-japonesa-se-contrae-14-anual-al-cierre-de-2015&sj=ALT001">La econom&iacute;a japonesa se contrae 1.4% anual al cierre de 2015</a>
+			</div>
+		</div>
+		<div class="mini_alerta_item" uid="economia/2016/02/14/chiapas-cuna-del-zapatismo-y-la-teologia-de-la-libereracion&sj=ALT001">
+			<div id="mini_alerta_canal">
+				<a href="economia/2016/02/14/chiapas-cuna-del-zapatismo-y-la-teologia-de-la-libereracion&sj=ALT001">Economía</a>
+			</div>
+			<div id="mini_alerta_titulo">
+				<a href="economia/2016/02/14/chiapas-cuna-del-zapatismo-y-la-teologia-de-la-libereracion&sj=ALT001">#Chiapas: cuna del zapatismo y la Teolog&iacute;a de la Liberaci&oacute;n</a>
+			</div>
+		</div>
+		<div class="mini_alerta_item" uid="economia/2016/01/21/china-envio-a-europa-a-un-mercado-bajista-sigue-eu&sj=ALT001">
+			<div id="mini_alerta_canal">
+				<a href="economia/2016/01/21/china-envio-a-europa-a-un-mercado-bajista-sigue-eu&sj=ALT001">Economía</a>
+			</div>
+			<div id="mini_alerta_titulo">
+				<a href="economia/2016/01/21/china-envio-a-europa-a-un-mercado-bajista-sigue-eu&sj=ALT001">China envi&oacute; a Europa a un mercado bajista. &iquest;Sigue EU?</a>
+			</div>
+		</div>
+	</div>
+	<div id="mini_alerta_control">
+		<a href="javascript:void(0)">&bull;</a>
+		<a href="javascript:void(0)">&bull;</a>
+		<a href="javascript:void(0)">&bull;</a>
+	</div>
+	<div id="mini_close"></div><div id="mini_alerta_patrocinio">
+					<div id="tag_patrocinio_minialertas">
+					<div id='div-gpt-ad-minialerta' style='width:75px; height:30px;'>
+					<script type='text/javascript'>
+						googletag.display('div-gpt-ad-minialerta');
+					</script>
+					</div>
+					</div>
+					</div>
+					
+</div>	</article>
+	<!-- SIDEBAR -->
+	<aside id=sidebar><div id="portlet_banner_box1" class="portlet banner">
+	<div id='div-gpt-ad-box1'> <script type='text/javascript'> try{ googletag.cmd.push(function() { googletag.display('div-gpt-ad-box1'); }); }catch(e){} </script> </div>
+</div>
+
+<div class="portlet">
+<div class="borde1"><div class="borde2"></div></div>
+<h3>Lo m&aacute;s <span id="titulo-lomas">visto</span></h3><div id="lomas_menu"><div class="lomas_menu_item selected" id="lomas_mas_vistas">Las m&aacute;s vistas</div><div class="lomas_menu_item " id="lomas_mas_comentadas">Comentadas</div><div class="lomas_menu_item " id="lomas_mas_enviadas">Enviadas</div></div><div id="lomas_content"><div class="lomas_content" id="lomas_content_mas_vistas"><ul>
+<li><a class="urchin" id="home_mas_vistas_0" href="http://www.cnnexpansion.com/tecnologia/2016/02/15/si-pones-esta-fecha-en-tu-iphone-lo-dejaras-inservible">Si pones esta fecha en tu iPhone lo dejar&aacute;s inservible </a></li>
+<li><a class="urchin" id="home_mas_vistas_1" href="http://www.cnnexpansion.com/economia/2016/02/14/un-bar-y-lujosas-celdas-son-hallados-en-penal-de-topo-chico">Celdas de lujo e incluso un bar en el penal de Topo Chico </a></li>
+<li><a class="urchin" id="home_mas_vistas_2" href="http://www.cnnexpansion.com/economia/2016/02/13/las-frases-del-papa-francisco-durante-su-visita-en-mexico">Las frases del papa Francisco durante su visita en M&eacute;xico </a></li>
+<li><a class="urchin" id="home_mas_vistas_3" href="http://www.cnnexpansion.com/lifestyle/2016/02/15/kanye-west-revela-que-tiene-una-deuda-millonaria">Kanye West revela que tiene una deuda millonaria </a></li>
+<li><a class="urchin" id="home_mas_vistas_4" href="http://www.cnnexpansion.com/economia/2016/02/14/los-momentos-inesperados-en-la-visita-de-francisco-a-mexico">Los momentos inesperados en la visita de Francisco a M&eacute;xico </a></li></ul></div><div class="lomas_content" id="lomas_content_mas_comentadas"><ul>
+<li><a class="urchin" id="home_mas_comentadas_0" href="http://www.cnnexpansion.com/economia/2016/02/11/trump-critica-al-papa-francisco-por-su-visita-a-mexico">Donald Trump critica la visita del papa Francisco a México</a></li>
+<li><a class="urchin" id="home_mas_comentadas_1" href="http://www.cnnexpansion.com/tecnologia/2016/02/11/que-son-exactamente-las-ondas-gravitacionales">¿Qué son exactamente las ondas gravitacionales?</a></li>
+<li><a class="urchin" id="home_mas_comentadas_2" href="http://www.cnnexpansion.com/economia/2016/02/11/el-dolar-se-vende-en-1940-pesos-en-ventanillas">Dólar cierra en máximos históricos arriba de los 19 pesos</a></li>
+<li><a class="urchin" id="home_mas_comentadas_3" href="http://www.cnnexpansion.com/economia/2016/02/09/congreso-aprueba-creacion-de-empresas-en-un-dia-a-costo-cero">Congreso avala trámites sin costo para nuevas empresas</a></li>
+<li><a class="urchin" id="home_mas_comentadas_4" href="http://www.cnnexpansion.com/economia/2016/02/11/banco-base">China e Irán amenazan con llevar el dólar a 23 pesos</a></li></ul></div><div class="lomas_content" id="lomas_content_mas_enviadas"><ul>
+<li><a class="urchin" id="home_mas_enviadas_0" href="http://www.cnnexpansion.com/economia/2016/02/11/decenas-de-muertos-por-un-motin-en-tipo-chico-nuevo-leon">Una riña mortal acaba con la vida de 49 reos en Topo Chico</a></li>
+<li><a class="urchin" id="home_mas_enviadas_1" href="http://www.cnnexpansion.com/economia/2016/02/13/las-frases-del-papa-francisco-durante-su-visita-en-mexico">Las frases del papa Francisco durante su visita en México</a></li>
+<li><a class="urchin" id="home_mas_enviadas_2" href="http://www.cnnexpansion.com/economia/2016/02/11/el-dolar-se-vende-en-1940-pesos-en-ventanillas">Dólar cierra en máximos históricos arriba de los 19 pesos</a></li>
+<li><a class="urchin" id="home_mas_enviadas_3" href="http://www.cnnexpansion.com/economia/2016/02/11/banco-base">China e Irán amenazan con llevar el dólar a 23 pesos</a></li>
+<li><a class="urchin" id="home_mas_enviadas_4" href="http://www.cnnexpansion.com/negocios/2016/02/10/twitter-pierde-millones-de-usuarios-y-sus-acciones-caen">Twitter pierde millones de usuarios y sus acciones se hunden</a></li></ul></div></div></div><div id="portlet_banner_box2" class="portlet banner">
+	<div id='div-gpt-ad-box2'> <script type='text/javascript'> try{ googletag.cmd.push(function() { googletag.display('div-gpt-ad-box2'); }); }catch(e){} </script> </div>
+</div>
+	<div class="portlet">
+	<h2>Principales Noticias </h2>
+	<div id="portlet_noticias_relevantes">
+	<ul class="relacionados"> 
+		   <li><span class="bullets">&bull;</span><a href="economia/2016/02/15/mensaje-del-papa-francisco-en-tuxtla-gutierrez-chiapas" class="urchin" id="viewlet_principales_noticias_0">La precariedad amenaza a las familias mexicanas: Francisco</a></li>
+		   <li><span class="bullets">&bull;</span><a href="economia/2016/02/15/francisco-pide-perdon-a-los-pueblos-indigenas" class="urchin" id="viewlet_principales_noticias_1">“Perdón hermanos”: reclamo indígena tiene respuesta del papa</a></li>
+		   <li><span class="bullets">&bull;</span><a href="negocios/2016/02/15/profepa-sanciona-a-volkswagen-por-168-millones-de-pesos" class="urchin" id="viewlet_principales_noticias_2">Profepa sanciona con 168 mdp a Volkswagen México</a></li>
+		   <li><span class="bullets">&bull;</span><a href="economia/2016/02/15/el-dolar-se-vende-en-1920-pesos-en-bancos" class="urchin" id="viewlet_principales_noticias_3">El dólar cierra en 19.11 pesos en bancos</a></li>
+		   <li><span class="bullets">&bull;</span><a href="tecnologia/2016/02/15/easytaxi-alista-oferta-de-carpooling" class="urchin" id="viewlet_principales_noticias_4">Easy Taxi alista oferta de carpooling en México</a></li>
+		</ul>
+	</div>
+	</div>
+<div class="portlet"><a class="urchin" id="viewlet_desde_wallstreet" href="/WallStreetTV.php"><img src="http://static.cnnexpansion.com/images/btn_desde_wstreet.jpg" style="border:0;" alt="Desde Wall Street" title="Desde Wall Street"></a></div>
+<div class='portlet' id='portlet_multimedia' style='color:#FFF !important;'><div class='title1'><div class='texto'>Video y Multimedia</div></div><div id='multimedia_video' style='z-index:-1'><!--googleon: all--><div class='video' style='z-index:-1'><div id='videoinfo'><script src='http://player.ooyala.com/v3/be0448c2f5c04407a0afdc50b8403e79'></script>
+			<div id='ooyalaplayer' class='oyalaplayer'></div>
+			<script>
+				OO.ready(function(){ OO.Player.create('ooyalaplayer','o3Y2V4MDE6KYk9gBOHRkk_iuZQnQTCdT', { autoplay:false, width:'280px', height:'170px', wmode:'transparent' } ); });
+			</script><noscript><div>Please enable Javascript to watch this video</div></noscript><div class='title'><a class='urchin' id='viewlet_video_y_multimedia_titulo_0' href='http://www.cnnexpansion.com/videos/2016/02/15/tatic-gracias-por-tu-visita-indagena-chiapaneco'>Tatic, gracias por tu visita: indígena chiapaneco</a></div><p>Indígenas de distintas regiones del continente agradecieron al papa Francisco el reconocimiento a sus costumbres frente a la Iglesia.</p></div></div><!--googleoff: all--></div><div id='portlet_multimedia_carrusel46'>
+
+	
+	<style type='text/css' scoped> 
+	#portlet_multimedia_carrusel46 {width:282px; margin : 0 10px; }
+	#portlet_multimedia_carrusel46 .elementCarrusel .elemento1{width:282px; clear:both; height:58px; margin-bottom:10px;}
+	#portlet_multimedia_carrusel46 .elementCarrusel .elemento2{width:282px; clear:both; height:58px; margin-bottom:10px;}
+	#portlet_multimedia_carrusel46 .elementCarrusel {height:137px; overflow:hidden; width:282px; position:relative;  border:none; background-color:#323232;}
+	#portlet_multimedia_carrusel46  a:hover{text-decoration:underline;}
+	#portlet_multimedia_carrusel46 .contenedorTextoElemento { float:left; margin-left:20px; width:166px; height:58px; overflow:hidden;}
+	#portlet_multimedia_carrusel46 .imagenCarrusel{float:left;z-index:10;}
+	#portlet_multimedia_carrusel46 .contenedorImagen {cursor:pointer; float:left;overflow:hidden; width:96px;}
+	#portlet_multimedia_carrusel46 .contenedorImagen img {width:96px; height:58px; display:block;}
+	#portlet_multimedia_carrusel46 .titular1 a{display:block; color:#FFF; font:15px/15px 'Times New Roman';}
+	#portlet_multimedia_carrusel46 #contenedorCarrusel{ width:282px; height:137px; border:0px; overflow:hidden; position:relative; text-align:left;}
+	#portlet_multimedia_carrusel46 #contenidoCarrusel46 { position:relative; top:0px; width:564px; z-index:1;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 {  width:100%; overflow:hidden; height:19px; padding:0 0 12px 0;font-size:10px;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons{overflow:hidden; display:table;	margin:0 auto;	text-align:center;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .numero .item-dot{background:url('/images/dots.png') no-repeat;margin:3px 0 0 0;width:10px;height:10px;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .numero .item-dot:hover{background-position:0 -13px;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .numeroNormal .item-dot{ background-position:0 -1px;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .numeroSeleccionado .item-dot{ background-position:0 -13px;}
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons div{	cursor:pointer;	display:inline-block;	float:left;	height:17px; width:10px;}
+	#portlet_multimedia_carrusel46 .anterior { background:transparent url(/images/flecha_izq_dots.png) no-repeat; background-position:0 0; margin:0 15px 0 10px; }
+	#portlet_multimedia_carrusel46 .siguiente {color:#000000;  cursor:pointer;  background:transparent url(/images/flecha_der_dots.png) no-repeat; background-position: 0 0; margin:0 10px 0 15px;}
+	#portlet_multimedia_carrusel46 .anterior:hover {background-position: 0 -21px; }
+	#portlet_multimedia_carrusel46 .siguiente:hover {background-position: 0 -21px; }
+	#portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .play, #portlet_multimedia_carrusel46 #contenedorControles46 .contenedorControlesButtons .pausa{ width: 0px;padding:0;margin:0; }
+	#portlet_multimedia_carrusel46 .numero{ margin:0 5px;}
+	</style>
+	
+	
+	<div id='contenedorCarrusel'>
+		<div id='contenidoCarrusel46' ><div id='elementoCarrusel0' class='elementCarrusel' >
+				<div class='elemento1'>
+					<div  id='contenedorImagen0' class='contenedorImagen'>
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_imagen_0' href='videos/2016/02/15/homilaa-de-francisco-en-la-misa-en-san-cristabal-la-ley-del-seaor-es-perfecta'><img alt='cnnexpansion'  src='http://cf.c.ooyala.com/kzZmJ4MDE6Fbjq7P_hMs-RhBuuth16ss/promo279828184'/></a>
+					</div>
+					<div  id='contenedorTextoElemento0' class='contenedorTextoElemento'>
+							<div  id='textoTit0' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_titulo_0' href='videos/2016/02/15/homilaa-de-francisco-en-la-misa-en-san-cristabal-la-ley-del-seaor-es-perfecta'>La homil&iacute;a del papa Francisco en la misa en San Crist&oacute;bal</a>
+							</div>
+					</div>
+				</div><div class='elemento2'>
+					<div  id='contenedorImagen1' class='contenedorImagen' >
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_img_1' href='videos/2016/02/15/la-llegada-del-papa-a-san-cristabal-de-las-casas'>
+					  <img alt='cnnexpansion'   src='http://cf.c.ooyala.com/Axdjl4MDE6S6ND0hDTyvYcQVCLlkTSkO/promo279823455'/></a>
+					</div>
+					<div  id='contenedorTextoElemento1' class='contenedorTextoElemento'>
+							<div  id='textoTit1' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_1' href='videos/2016/02/15/la-llegada-del-papa-a-san-cristabal-de-las-casas'>La llegada del papa Francisco a San Crist&oacute;bal de las Casas</a>
+							</div>
+					</div>
+				</div></div><div id='elementoCarrusel1' class='elementCarrusel' >
+				<div class='elemento1'>
+					<div  id='contenedorImagen2' class='contenedorImagen'>
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_imagen_2' href='videos/2016/02/15/el-papa-emocionado-ante-el-canto-de-una-joven'><img alt='cnnexpansion'  src='http://cf.c.ooyala.com/N0czZ4MDE6F2FzBvRSUlwYL_hVW3hIwz/promo279814224'/></a>
+					</div>
+					<div  id='contenedorTextoElemento2' class='contenedorTextoElemento'>
+							<div  id='textoTit2' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_titulo_2' href='videos/2016/02/15/el-papa-emocionado-ante-el-canto-de-una-joven'>Una paciente de c&aacute;ncer le canta el Ave Mar&iacute;a al papa Francisco</a>
+							</div>
+					</div>
+				</div><div class='elemento2'>
+					<div  id='contenedorImagen3' class='contenedorImagen' >
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_img_3' href='videos/2016/02/15/el-papa-francisco-visita-el-hospital-infantil'>
+					  <img alt='cnnexpansion'   src='http://cf.c.ooyala.com/tjcDZ4MDE6A7MoAMFYDPCUlCXUof3ukF/promo279814077'/></a>
+					</div>
+					<div  id='contenedorTextoElemento3' class='contenedorTextoElemento'>
+							<div  id='textoTit3' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_3' href='videos/2016/02/15/el-papa-francisco-visita-el-hospital-infantil'>El papa Francisco visita el hospital infantil Fedrico G&oacute;mez</a>
+							</div>
+					</div>
+				</div></div><div id='elementoCarrusel2' class='elementCarrusel' >
+				<div class='elemento1'>
+					<div  id='contenedorImagen4' class='contenedorImagen'>
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_imagen_4' href='videos/2016/02/15/la-homilaa-del-papa-en-ecatepec'><img alt='cnnexpansion'  src='http://cf.c.ooyala.com/ZpbjZ4MDE6deCu2zmWAFnMU2koVkGkWZ/promo279813873'/></a>
+					</div>
+					<div  id='contenedorTextoElemento4' class='contenedorTextoElemento'>
+							<div  id='textoTit4' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_titulo_4' href='videos/2016/02/15/la-homilaa-del-papa-en-ecatepec'>La homil&iacute;a del papa Francisco durante la misa en Ecatepec</a>
+							</div>
+					</div>
+				</div><div class='elemento2'>
+					<div  id='contenedorImagen5' class='contenedorImagen' >
+					  <a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_img_5' href='videos/2016/02/14/maxico-no-debe-ser-paso-de-trafico-de-muerte-de-migrantes-papa'>
+					  <img alt='cnnexpansion'   src='http://cf.c.ooyala.com/JsOXF3MDE65nw5Ns_jmpT_aWKATaKjIq/3Gduepif0T1UGY8H4xMDoxOmE3O62v_c'/></a>
+					</div>
+					<div  id='contenedorTextoElemento5' class='contenedorTextoElemento'>
+							<div  id='textoTit5' class='titular1'>
+								<a class='urchin' id='viewlet_video_y_multimedia_carrusel_siguiente_5' href='videos/2016/02/14/maxico-no-debe-ser-paso-de-trafico-de-muerte-de-migrantes-papa'>Papa dice que M&eacute;xico no debe ser paso de tr&aacute;fico de muerte de migrantes</a>
+							</div>
+					</div>
+				</div></div></div>
+	</div>
+	<div id='contenedorControles46'>
+			<div class='contenedorControlesButtons'>
+                <div id='viewlet_video_y_multimedia_carrusel_play' class='urchin play playpausa' >&nbsp;</div>
+                <div id='viewlet_video_y_multimedia_carrusel_pausa' class='urchin pausa playpausa' >&nbsp;</div>
+                <div id='viewlet_video_y_multimedia_carrusel_anterior' class='urchin anterior'></div><div class='numero numeroSeleccionado'><div id='viewlet_carrusel_posicion_0' class='urchin item-dot '></div></div><div class='numero numeroNormal'><div id='viewlet_carrusel_posicion_1' class='urchin item-dot '></div></div><div class='numero numeroNormal'><div id='viewlet_carrusel_posicion_2' class='urchin item-dot '></div></div><div id='viewlet_carrusel_siguiente' class='urchin siguiente'></div>
+			</div>
+	</div>
+</div>
+
+<script type='text/javascript'>window.addEvent('domready', function(){
+	var miCarrusel46 = new Carrusel({
+		items:{
+			parent:'contenidoCarrusel46',
+			elements:'.elementCarrusel',
+			video:{
+				allow:false,
+				source:'.videoSpace'
+			}
+		},
+		controls:{
+			active: true,
+			parent:'contenedorControles46',
+			before:'.anterior',
+			after:'.siguiente',
+			elements:'.numero',
+			laypausa:'.playpausa',
+                       	css:{
+				active:'numeroSeleccionado',
+				inactive:'numeroNormal'
+			}
+		},
+		descriptions:{
+			active: true,
+			parent:'contenidoCarrusel46',
+			elements:'.contenedorTextoElemento'
+		},
+		effects:{
+			elements:{
+				active: true,
+				duration:700,
+				periodical:7000,
+				toLeft:		{'margin-left':'-282px'},
+				toShow:		{'position':'relative','margin-left':'0','display':'inline-block'},
+				toRight:	{'margin-left':'0'},
+				toBack:		{'z-index':'0'},
+				toHide:		{'display':'none'},
+				toPrepare:	{'z-index':'2','position':'absolute','display':'inline-block'}
+			},
+			descriptions:{
+				active: true,
+				duration:125,
+				toShow:'{}',
+				toHide:'{}'
+			}
+		}
+	});
+});
+</script>
+
+</div>	<div id='div-gpt-ad-box3'> <script type='text/javascript'> try{ googletag.cmd.push(function() { googletag.display('div-gpt-ad-box3'); }); }catch(e){} </script> </div>
+</aside><br class=cl/>	</section>
+</div>
+	<div class="full-banner">
+	<div id='div-gpt-ad-leader2'>
+		<script type='text/javascript'>googletag.display('div-gpt-ad-leader2');</script>
+	</div>
+	</div>
+	<footer>
+		<div class="main" id="footer">
+                    <div class="filasup">
+                        <table>
+                            <tr>
+                                <td class="separador" id="izq">Siguenos en 
+								<a rel="nofollow" target="_blank" id="footer_twitter"  class="urchin esp" href="http://twitter.com/cnnexpansion">Twitter</a>,
+								<a rel="nofollow" target="_blank" id="footer_facebook" class="urchin esp" href="http://www.facebook.com/CNNExpansion">Facebook</a>
+								y
+								<a rel="Publisher" target="_blank" id="footer_google"  class="urchin esp" href="https://plus.google.com/105148576356784727667/posts">Google+</a>
+								
+								</td>
+                                <td class="separador"><a rel="nofollow" target="_blank" href="/newsletter" class="urchin" id="footer_newsletter">Newsletters tem&aacute;ticos</a></td>
+                                <td class="separador"><a rel="nofollow" target="_blank" href="/sindicacion" class="urchin" id="footer_rss">Canales RSS</a></td>
+                                <td class="separador"><a rel="nofollow" target="_blank" href="/expansion" class="urchin" id="footer_revistaexpansion">Revista Expansi&oacute;n</a></td>
+                                <td class="separador"><a rel="nofollow" target="_blank" href="#" class="urchin" id="footer_paginadeinicio" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cnnexpansion.com/');">Haznos tu P&aacute;gina de Inicio</a></td>
+                                <td id="der"><a rel="nofollow" target="_blank" href="http://m.cnnexpansion.com/" class="urchin" id="footer_news_en_tu_cel">Noticias en tu celular</a></td>
+                            </tr>
+                        </table>
+                    </div>
+
+
+                    <div class="filainf">
+                        <div class="cola" id="footer_revista">
+                            <div class="revista">
+								<a rel="nofollow" target="_blank" class="urchin" id="footer_suscribete_imagen"  href="http://bit.ly/1gpyUOb"><img alt="Revista Expansi&oacute;n" src="http://static.cnnexpansion.com/media/portadas/MINI_PORTADA_201602150901241455548484196.jpg " /></a>
+                                <div class="texrevis">
+                                <a rel="nofollow" target="_blank" href="http://bit.ly/1gpyUOb" class="tit urchin" id="footer_suscribete_titulo">Los mejores MBA en México y en el mundo 2016</a>
+								<a rel="nofollow" target="_blank" href="http://bit.ly/1gpyUOb" class="fech urchin" id="footer_suscribete_fecha">Febrero 15, 2016</a>
+                                <a rel="nofollow" target="_blank" href="http://bit.ly/1gpyUOb" class="edi urchin" id="footer_suscribete_edicion">Edici&oacute;n 1184</a>
+									<a rel="nofollow" target="_blank" href="http://bit.ly/1gpyUOb" class="pre urchin" id="footer_suscribete_precio">
+										<div class="btn_suscribete">
+											<span class="btn_suscribete_text">Suscr&iacute;bete por</span>
+											<span class="btn_suscribete_price">869 MXN</span>
+										</div>
+									</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="colb" id="footer_gex">
+                               <p>Otros sitios de <a rel="nofollow" target="_blank" href="http://www.gee.com.mx" class="urchin esp" id="footer_GEx">Grupo Expansi&oacute;n</a></p>
+                               <ul>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://mexico.cnn.com" rel="nofollow" class="urchin" id="footer_link_cnnmex">CNNM&eacute;xico</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.chilango.com" rel="nofollow" class="urchin" id="footer_link_chilango">Chilango</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.quien.com" rel="nofollow" class="urchin" id="footer_link_quien">Qui&eacute;n</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.mediotiempo.com" rel="nofollow" class="urchin" id="footer_link_mediotmpo">Medio Tiempo</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://obrasweb.mx" rel="nofollow" class="urchin" id="footer_link_obras">Obras</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.manufactura.mx" rel="nofollow" class="urchin" id="footer_link_manufactura">Manufactura</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.idconline.com.mx" rel="nofollow" class="urchin" id="footer_link_IDC">IDC OnLine</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://www.lifeandstyle.la" rel="nofollow" class="urchin" id="footer_link_LifeAndStyle">Life and Style</a></li>
+                               </ul>
+                        </div>
+                        <div class="colb" id="footer_negocios">
+                               <p>Noticias de negocios en ingl&eacute;s</p>
+                               <ul>
+                                <!-- li><span class="bullets">&bull;</span><a target="_blank" href="http://money.cnn.com/" rel="nofollow" class="urchin" id="footer_link_cnnMoney">CNNMoney.com</a></li -->
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://money.cnn.com/magazines/fortune/" rel="nofollow" class="urchin" id="footer_link_Fortune">Fortune</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://money.cnn.com/magazines/fsb/" rel="nofollow" class="urchin" id="footer_link_Small_Business">Small Business</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://money.cnn.com/magazines/moneymag/" rel="nofollow" class="urchin" id="footer_link_money_mag">Money</a></li>
+                               </ul>
+                        </div>
+                        <div class="colb" id="footer_cnnexp" itemscope>
+                               <p itemprop="name">CNNExpansi&oacute;n</p>
+                               <ul>
+                                <li><span class="bullets">&bull;</span><a href="/contact-info" class="urchin" rel="nofollow" id="footer_link_contactanos">Cont&aacute;ctanos</a></li>
+                                <li><span class="bullets">&bull;</span><a href="/terminos-y-condiciones" rel="license" class="urchin" id="footer_link_terminos_y_cond">T&eacute;rminos y condiciones</a></li>
+                                <li><span class="bullets">&bull;</span><a href="/privacy.php" rel="license" class="urchin" id="footer_link_condiciones_de_uso">Condiciones de uso y privacidad</a></li>
+                                <li><span class="bullets">&bull;</span><a href="/privacidad/" rel="license" class="urchin" id="footer_link_privacidad_de_datos">Privacidad de Datos Personales</a></li>
+                                <li><span class="bullets">&bull;</span><a href="http://bit.ly/1gpyUOb" rel="nofollow" class="urchin" id="footer_link_susc_a_exp">Suscr&iacute;bete a Expansi&oacute;n</a></li>
+                                <li><span class="bullets">&bull;</span><a href="http://mediakit.grupoexpansion.mx/index.php?id=18" rel="nofollow" class="urchin" id="footer_link_anunciate_con_nosotros">An&uacute;nciate con nosotros</a></li>
+                                <li><span class="bullets">&bull;</span><a target="_blank" href="http://grupoexpansion.mx/empleos/" rel="nofollow" class="urchin" id="footer_link_integrate_al_equipo">Int&eacute;grate a nuestro equipo</a></li>
+                                <li><span class="bullets">&bull;</span><a href="/embed" rel="nofollow" class="urchin" id="footer_link_embed">Lleva a CNNExpansi&oacute;n a tu sitio</a></li>
+                               </ul>
+                        </div>
+						<div class="colb" id="footer_apps">
+							<p>Apps</p>
+							<ul>
+								<li><span class="bullets">&bull;</span><a rel="nofollow" target="_blank" href="https://itunes.apple.com/mx/app/cnnexpansion/id332010537?mt=8">App Store</a></li>
+								<li><span class="bullets">&bull;</span><a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.grupoexpansion.cnn">Google Play</a></li>
+								<li><span class="bullets">&bull;</span><a rel="nofollow" target="_blank" href="http://appworld.blackberry.com/webstore/content/4606/?lang=es">Blackberry App World</a></li>
+							</ul>
+                        </div>
+                    </div>
+
+		</div>
+        <div class="main" id="portal_colophon">
+
+            <div class="cnn"><br/></div>
+            <div class="copy">
+                &copy; 2010 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.<br/>
+                &copy; 2006 DERECHOS RESERVADOS EXPANSI&Oacute;N, S.A. DE C.V.<br/>
+            </div>
+            <div class="iabimg"></div>
+            
+        </div>
+
+       </footer>
+
+<span class="geo">
+	<span class="latitude">
+		<span class="value-title" title="19.3958984" ></span>
+	</span>
+	<span class="longitude">
+		<span class="value-title" title="-99.2263738"></span>
+	</span>
+</span>
+<!-- CHARTBEAT -->
+<script type='text/javascript'>
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 2665;
+	_sf_async_config.domain = 'cnnexpansion.com';
+	_sf_async_config.sections = 'economia';  //CHANGE THIS
+	//_sf_async_config.authors = 'Change this to your Author name';    //CHANGE THIS
+	/** CONFIGURATION END **/
+	(function(){
+	 function loadChartbeat() {
+	 	window._sf_endpt=(new Date()).getTime();
+	 	var e = document.createElement('script');
+	 	//e.setAttribute('language', 'javascript');
+	 	e.setAttribute('type', 'text/javascript');
+	 	e.setAttribute('src',
+		 (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+		 'js/chartbeat.js');
+	 	document.body.appendChild(e);
+	 	}
+	 	var oldonload = window.onload;
+	 	window.onload = (typeof window.onload != 'function') ?
+	 	loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	 })();
+</script>
+
+<!-- COMSCORE 3-->
+<script type="text/javascript1.3" src="http://b.scorecardresearch.com/c2/6906551/ct.js"></script>
+
+<!-- Begin comScore UDM code 1.1104.26 -->
+<script type="text/javascript">
+// <![CDATA[
+function comScore( t )
+{
+	var b="comScore",o=document,f=o.location,a="",e="undefined",g=2048,s,k,p,h,r="characterSet",n="defaultCharset",m=(typeof encodeURIComponent!=e?encodeURIComponent:escape);
+	if( o.cookie.indexOf( b + "=" ) !=- 1)
+	{
+		p=o.cookie.split(";");
+		for(h=0,f=p.length;h<f;h++)
+		{
+			var q=p[h].indexOf(b+"=");
+			if(q!=- 1){a="&"+unescape(p[h].substring(q+b.length+1))}
+		}
+	}
+	t = t + "&ns__t=" + ( new Date().getTime());
+	t = t + "&ns_c=" + (o[r]?o[r]:(o[n]?o[n]:"")) + "&c8="+m(o.title)+a+"&c7="+m(f&&f.href?f.href:o.URL)+"&c9="+m(o.referrer);
+	if( t.length>g&&t.indexOf("&") > 0 )
+	{
+		s=t.substr(0,g-8).lastIndexOf("&");t=(t.substring(0,s)+"&ns_cut="+m(t.substring(s+1))).substr(0,g)
+	}
+	if(o.images)
+	{
+		k=new Image();
+		if(typeof ns_p==e)
+		{
+			ns_p=k
+		}
+		k.src=t
+	}else{
+		o.write('<p><'+'img src="'+t+'" height="1" width="1" alt="*"></p>')
+	}
+}; 
+	
+	comScore('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/p?c1=2&c2=6906551&ns_site=cnn-expansion&name=economia.le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump');
+// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6906551&amp;ns_site=cnn-expansion&amp;name=economia.le-puedo-decir-a-los-refugiados-que-no-vengan-a-eu-trump" height="1" width="1" alt="*"></p></noscript>
+<!-- End comScore UDM code -->
+
+<!-- / COMSCAORE -->
+<!-- ENREACH -->
+<script type="text/javascript" src="http://code3.adtlgc.com/js/expansion_ar.js"></script>
+	<div id='div-gpt-ad-1x1'>
+		<script type='text/javascript'>googletag.display('div-gpt-ad-1x1');</script>
+	</div>
+	<div id='div-gpt-ad-1x1-oop'>
+		<script type='text/javascript'>googletag.display('div-gpt-ad-1x1-oop');</script>
+	</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/5605.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>      
+
+<script type="text/javascript">
+var _gexa = _gexa || [];
+_gexa.push(['tag', 'prod.cnnexp.web']);
+_gexa.push(['onHasBlocker', function (blocked) {
+	ga('set', 'dimension1', blocked);
+}]);
+(function() {
+var t = document.createElement('script'); t.type = 'text/javascript'; t.async = true;
+t.src = 'https://crenon.exp.mx/util.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(t, s);
+})();
+</script>
+</body>
+</html>

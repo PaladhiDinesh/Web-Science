@@ -1,0 +1,427 @@
+For k=5
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+-----Blognames in centroid 1-------
+Party Full of Strangers
+Brian's Music Blog!!!
+Steel City Rust
+MarkEOrtega's Journalism Portfolio
+turnitup!
+Floorshime Zipper Boots
+Did Not Chart
+DaveCromwell Writes
+The Girl at the Rock Show
+FOLK IS NOT HAPPY
+MAGGOT CAVIAR
+The World's First Internet Baby
+MTJR RANTS & RAVES ON MUSIC
+Tremble Under Boom Lights
+One Base on an Overthrow
+Eli Jace | The Mind Is A Terrible Thing To Paste
+The Jeopardy of Contentment
+.
+*Sixeyes: by Alan Williamson
+"DANCING IN CIRCLES"
+KiDCHAIR
+Blog Name Pending
+Tremagazine
+Swinging Singles Club
+sweeping the kitchen
+The Kids Are Coming Up From Behind
+mouxlaloulouda
+I/LOVE/TOTAL/DESTRUCTION
+F-Measure
+Encore
+Cast Iron Songs
+I Hate The 90s
+
+
+-----Blognames in centroid 2-------
+SEM REGRAS
+ORGANMYTH
+Diagnosis: No Radio
+IoTube     :)
+T H E V O I D S
+Chantelle Swain A2 Media Studies
+A2 MEDIA COURSEWORK JOINT BLOG
+Angie Dynamo
+Spinitron Blog
+My Name Is Blue Canary
+Boggle Me Thursday
+Becky Sharp Fashion Blog
+Rod Shone
+Sonology
+If You Give a Girl a Camera...
+One Stunning Single Egg
+Room 19's Blog 2016
+We Got Shit...A Pearl Jam Bootleg Site
+Time Is Poetry
+Karl Drinkwater
+??s??? ???s???? st? ?????
+But She's Not Stupid
+In the Frame Film Reviews
+
+
+-----Blognames in centroid 3-------
+The Night Mail
+
+
+-----Blognames in centroid 4-------
+Flatbasset
+MARISOL
+THE HUB
+Web Science and Digital Libraries Research Group
+MR. BEAUTIFUL TRASH ART
+Green Eggs and Ham Mondays 8-10am
+Stories From the City, Stories From the Sea
+Lost in the Shuffle
+A H T A P O T
+The Campus Buzz on WSOU
+Samtastic! Review
+FlowRadio Playlists (and Blog)
+INDIEohren.!
+Desolation Row Records
+adrianoblog
+La espiral de Joseph K
+Mystic Chords Of Memory
+Mile In Mine
+künstler treu
+Lo importante es que estes tú bien
+??S? S?? ??O???
+KISTE F.M.
+
+
+-----Blognames in centroid 5-------
+Riley Haas' blog
+Pithy Title Here
+Morgan's Blog
+The Stearns Family
+Stonehill Sketchbook
+forget about it
+jaaackie.
+The Listening Ear
+www.doginasweater.com Live Show Review Archive
+funky little demons
+What Am I Doing?
+from a voice plantation
+Our Podcast Could Be Your Life
+Kid F
+bittersweet
+Rants from the Pants
+A Wife's Tale
+Cherry Area
+the fast break of champions
+Azul Valentina
+The Moon Topples
+isyeli's
+
+
+For k=10
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+Iteration 6
+-----Blognames in centroid 1-------
+Party Full of Strangers
+Brian's Music Blog!!!
+Steel City Rust
+turnitup!
+Floorshime Zipper Boots
+Did Not Chart
+Stonehill Sketchbook
+DaveCromwell Writes
+The Girl at the Rock Show
+FOLK IS NOT HAPPY
+MAGGOT CAVIAR
+The World's First Internet Baby
+MTJR RANTS & RAVES ON MUSIC
+Tremble Under Boom Lights
+www.doginasweater.com Live Show Review Archive
+One Base on an Overthrow
+Eli Jace | The Mind Is A Terrible Thing To Paste
+The Jeopardy of Contentment
+.
+*Sixeyes: by Alan Williamson
+from a voice plantation
+KiDCHAIR
+Blog Name Pending
+Tremagazine
+Swinging Singles Club
+The Kids Are Coming Up From Behind
+mouxlaloulouda
+I/LOVE/TOTAL/DESTRUCTION
+Encore
+Cast Iron Songs
+I Hate The 90s
+
+
+-----Blognames in centroid 2-------
+SEM REGRAS
+THE HUB
+Green Eggs and Ham Mondays 8-10am
+Stories From the City, Stories From the Sea
+The Campus Buzz on WSOU
+Desolation Row Records
+Mystic Chords Of Memory
+"DANCING IN CIRCLES"
+If You Give a Girl a Camera...
+One Stunning Single Egg
+sweeping the kitchen
+??S? S?? ??O???
+
+
+-----Blognames in centroid 3-------
+Angie Dynamo
+INDIEohren.!
+What Am I Doing?
+Rod Shone
+Lo importante es que estes tú bien
+Time Is Poetry
+
+
+-----Blognames in centroid 4-------
+Web Science and Digital Libraries Research Group
+ORGANMYTH
+IoTube     :)
+Mile In Mine
+Our Podcast Could Be Your Life
+??s??? ???s???? st? ?????
+
+
+-----Blognames in centroid 5-------
+Flatbasset
+Riley Haas' blog
+Pithy Title Here
+Morgan's Blog
+Chantelle Swain A2 Media Studies
+A2 MEDIA COURSEWORK JOINT BLOG
+The Listening Ear
+My Name Is Blue Canary
+Sonology
+Kid F
+bittersweet
+Rants from the Pants
+A Wife's Tale
+Cherry Area
+the fast break of champions
+Azul Valentina
+But She's Not Stupid
+
+
+-----Blognames in centroid 6-------
+MARISOL
+MR. BEAUTIFUL TRASH ART
+Diagnosis: No Radio
+Boggle Me Thursday
+künstler treu
+Karl Drinkwater
+The Moon Topples
+KISTE F.M.
+
+
+-----Blognames in centroid 7-------
+The Night Mail
+
+
+-----Blognames in centroid 8-------
+T H E V O I D S
+Samtastic! Review
+F-Measure
+In the Frame Film Reviews
+
+
+-----Blognames in centroid 9-------
+MarkEOrtega's Journalism Portfolio
+The Stearns Family
+forget about it
+jaaackie.
+Spinitron Blog
+funky little demons
+Becky Sharp Fashion Blog
+Room 19's Blog 2016
+isyeli's
+
+
+-----Blognames in centroid 10-------
+Lost in the Shuffle
+A H T A P O T
+FlowRadio Playlists (and Blog)
+adrianoblog
+La espiral de Joseph K
+We Got Shit...A Pearl Jam Bootleg Site
+
+
+For k=20
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+-----Blognames in centroid 1-------
+
+
+-----Blognames in centroid 2-------
+Floorshime Zipper Boots
+DaveCromwell Writes
+FOLK IS NOT HAPPY
+MAGGOT CAVIAR
+The World's First Internet Baby
+Eli Jace | The Mind Is A Terrible Thing To Paste
+.
+*Sixeyes: by Alan Williamson
+Blog Name Pending
+mouxlaloulouda
+I/LOVE/TOTAL/DESTRUCTION
+Encore
+I Hate The 90s
+
+
+-----Blognames in centroid 3-------
+T H E V O I D S
+Chantelle Swain A2 Media Studies
+A2 MEDIA COURSEWORK JOINT BLOG
+Rod Shone
+
+
+-----Blognames in centroid 4-------
+Diagnosis: No Radio
+The Stearns Family
+forget about it
+jaaackie.
+Our Podcast Could Be Your Life
+Kid F
+bittersweet
+Rants from the Pants
+A Wife's Tale
+Cherry Area
+The Moon Topples
+But She's Not Stupid
+
+
+-----Blognames in centroid 5-------
+Brian's Music Blog!!!
+turnitup!
+Stonehill Sketchbook
+The Girl at the Rock Show
+MTJR RANTS & RAVES ON MUSIC
+Tremble Under Boom Lights
+The Jeopardy of Contentment
+KiDCHAIR
+Tremagazine
+The Kids Are Coming Up From Behind
+In the Frame Film Reviews
+Cast Iron Songs
+
+
+-----Blognames in centroid 6-------
+SEM REGRAS
+ORGANMYTH
+Green Eggs and Ham Mondays 8-10am
+IoTube     :)
+Lo importante es que estes tú bien
+Time Is Poetry
+??S? S?? ??O???
+??s??? ???s???? st? ?????
+
+
+-----Blognames in centroid 7-------
+Samtastic! Review
+
+
+-----Blognames in centroid 8-------
+Morgan's Blog
+funky little demons
+Karl Drinkwater
+
+
+-----Blognames in centroid 9-------
+Riley Haas' blog
+Party Full of Strangers
+Pithy Title Here
+Steel City Rust
+Did Not Chart
+The Listening Ear
+www.doginasweater.com Live Show Review Archive
+One Base on an Overthrow
+My Name Is Blue Canary
+from a voice plantation
+If You Give a Girl a Camera...
+Swinging Singles Club
+F-Measure
+the fast break of champions
+
+
+-----Blognames in centroid 10-------
+Web Science and Digital Libraries Research Group
+Boggle Me Thursday
+Mile In Mine
+Sonology
+We Got Shit...A Pearl Jam Bootleg Site
+
+
+-----Blognames in centroid 11-------
+Becky Sharp Fashion Blog
+
+
+-----Blognames in centroid 12-------
+Flatbasset
+THE HUB
+INDIEohren.!
+Mystic Chords Of Memory
+
+
+-----Blognames in centroid 13-------
+Angie Dynamo
+
+
+-----Blognames in centroid 14-------
+One Stunning Single Egg
+Azul Valentina
+
+
+-----Blognames in centroid 15-------
+The Night Mail
+
+
+-----Blognames in centroid 16-------
+What Am I Doing?
+Room 19's Blog 2016
+isyeli's
+
+
+-----Blognames in centroid 17-------
+MarkEOrtega's Journalism Portfolio
+Spinitron Blog
+
+
+-----Blognames in centroid 18-------
+
+
+-----Blognames in centroid 19-------
+MARISOL
+MR. BEAUTIFUL TRASH ART
+Stories From the City, Stories From the Sea
+Lost in the Shuffle
+A H T A P O T
+The Campus Buzz on WSOU
+FlowRadio Playlists (and Blog)
+Desolation Row Records
+adrianoblog
+La espiral de Joseph K
+künstler treu
+"DANCING IN CIRCLES"
+sweeping the kitchen
+KISTE F.M.
+
+
+-----Blognames in centroid 20-------
+
+

@@ -1,0 +1,2645 @@
+<!DOCTYPE html>
+<html  xmlns:fb="http://ogp.me/ns/fb#"> 
+<head>
+    <meta name="google-site-verification" content="M0YZU-jey9N0kZKlg3e8rSH2Wjqg_Jjk0P4_wpJs-pQ" />
+        <title>Paradojas democráticas | La Silla Rota</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="es" />
+    <meta name="description" content="La democracia nunca está terminada y nunca está resuelta. No es un fin en sí misma, sino un medio." />
+    <meta name="keywords" content="Donald Trump,EU,caucus,Ted Cruz,Hillary Clinton,Presidencia EU" />
+    <meta name="msvalidate.01" content="98B5B5BFBB0338DCCB9000B9471851D8" />
+
+    <!-- Metatags  facebook y twitter-->
+    <meta property="og:site_name" content="La silla rota" />
+    <meta property="og:title" content="Paradojas democráticas" />
+    <meta property="og:url" content="http://lasillarota.com/paradojas-democraticas" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="La democracia nunca está terminada y nunca está resuelta. No es un fin en sí misma, sino un medio." />
+    <meta property="og:image" content="" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Paradojas democráticas" />
+    <meta name="twitter:url" content="http://lasillarota.com/paradojas-democraticas" />
+    <meta name="twitter:description" content="La democracia nunca está terminada y nunca está resuelta. No es un fin en sí misma, sino un medio." />
+    <meta name="twitter:image" content="" />
+    <link rel="shortcut icon" href="http://lasillarota.com/pub/theme/img/favicon.ico">        <!-- fin Metatags  facebook y twitter-->
+
+    <script> var base_url='http://lasillarota.com/'; </script>
+    <script src="http://lasillarota.com/pub/libraries/google/jquery.min.js"></script>
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/google/swfobject.js"></script>
+
+    <!-- Bootstrap
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" /> -->
+
+    <!-- Bootstrap -->
+    <link href="http://lasillarota.com/pub/theme/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://lasillarota.com/pub/theme/css/bootstrap-responsive.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://lasillarota.com/pub/libraries/toolbar/bootstrap.icons.css" />
+    <script src="http://lasillarota.com/pub/theme/js/bootstrap.min.js"></script>
+
+    <!-- Menu superfish -->
+    <script src="http://lasillarota.com/pub/libraries/superfish/js/hoverIntent.js"></script>
+    <script src="http://lasillarota.com/pub/libraries/superfish/js/superfish.js"></script>
+    <link href="http://lasillarota.com/pub/libraries/superfish/css/superfish.css" rel="stylesheet" media="screen">
+
+    <!-- Carrusel -->
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/bxslider-4-master/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/bxslider-4-master/plugins/jquery.fitvids.js"></script>
+    <link rel="stylesheet" href="http://lasillarota.com/pub/libraries/bxslider-4-master/jquery.bxslider.css">
+
+
+    <!-- Scroll -->
+    <script type="text/javascript" src="http://lasillarota.com/pub/theme/js/scroll/jquery.mCustomScrollbar.min.js"></script>
+    <script type="text/javascript" src="http://lasillarota.com/pub/theme/js/scroll/jquery.mousewheel.min.js"></script>
+    <link rel="stylesheet" href="http://lasillarota.com/pub/theme/js/scroll/jquery.mCustomScrollbar.css">
+
+    <!-- Caption images -->
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/captionjs-master/jquery.caption.js"></script>
+    <link rel="stylesheet" href="http://lasillarota.com/pub/libraries/captionjs-master/captionjs.css">
+
+    <!-- Fancybox -->
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/fancybox/jquery.fancybox.js?v=2.1.5"></script>
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/fancybox/helpers/jquery.fancybox-media.js"></script>
+    <link rel="stylesheet" href="http://lasillarota.com/pub/libraries/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+
+    <!-- youtube video player -->
+    <link type="text/css" rel="stylesheet" media="screen, projection" href="http://lasillarota.com/pub/libraries/jquery-youtube-player-0.1a/css/youtube-player.css" />
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/jquery-youtube-player-0.1a/js/jquery.youtube.player.js"></script>
+
+    <!-- jwplayer -->
+    <script type="text/javascript" src="http://lasillarota.com/pub/libraries/jwplayer/jwplayer.js"></script>
+    <link type="text/css" rel="stylesheet" href="http://lasillarota.com/pub/libraries/jQuery.jPlayer.2.5.0/skins/blue.monday/jplayer.blue.monday.css" />
+
+    <!-- La silla rota -->
+    <link href="http://lasillarota.com/pub/theme/css/estilos_generales.css?v=1234" rel="stylesheet">
+    <script src="http://lasillarota.com/pub/theme/js/scripts.js"></script>
+    <script src="http://lasillarota.com/pub/theme/js/scripts2.js"></script>
+    <script src="http://lasillarota.com/pub/theme/js/scripts3.js?v=110"></script>
+
+
+     </head>
+<body id="front">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=696780053703823&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Begin comScore Inline Tag 1.1302.13 -->
+<script type="text/javascript">
+// <![CDATA[
+function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=16333908&ns_site=lasillarota&name=paradojas-democraticas');
+// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=16333908&amp;ns_site=lasillarota&amp;name=paradojas-democraticas" height="1" width="1" alt="*"></p></noscript>
+<!-- End comScore Inline Tag -->
+<!-- Begin comScore Inline Tag 1.1302.13 -->
+<script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/16333908/ct.js"></script>
+<!-- End comScore Inline Tag -->
+        <div class="bordes-blanco">
+        <div class="padd">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <div class='affix flotante_1'>
+<div class='columna relative root'>
+ 
+
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='lsr1 publicidad'>
+<div class='slide' id='98' impreso='no' click='no' pause='6000'>
+<img src='http://lasillarota.com/pub/uploads/thumbs/lsr_politica2a_150x719_pub-uploads-Publicidad-Promos.jpg' class='imagen'></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.lsr1{
+height:720px;
+}
+</style>
+ 
+</div>
+</div> 
+                        <div class='affix flotante_2'>
+<div class='columna relative root'>
+ 
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='lsr2 publicidad'>
+<div class='slide' id='952' impreso='no' click='no' pause='6000'>
+<img src='http://lasillarota.com/pub/uploads/thumbs/lsr_politica2b_150x719_pub-uploads-Publicidad-Promos.jpg' class='imagen'></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.lsr2{
+height:720px;
+}
+</style>
+ 
+</div>
+</div>
+ 
+                         <div class='columna relative root'>
+ 
+  <div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='especiales publicidad'>
+<div class='slide' id='2337' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/tag/dia-del-nino' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/Dia_nino.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.especiales{
+height:110px;
+}
+</style>
+ 
+</div>                    </div>
+                </div>
+
+                <!-- Encabezado -->
+
+
+                
+<div class="row">
+    <div class="span3" id="logo-header">
+        <div id="modulo-logo" class="modulo last">
+	<a href="http://lasillarota.com/"><img src="http://lasillarota.com/pub/theme/img/logo5.jpg" width="217" height="115" alt="La Silla Rota: Noticias de política en México"></a>
+</div>    </div>
+    <div class="span9">
+        <div class="row">
+                    <div class="span3" id="fecha-header"> 30 de  Abr de 2016 <strong>Actualizado 17:22</strong></div>
+                    <div class="span6">
+                        <div id="row-buscador">
+                            <div id="box-buscador">
+                                <form method="post" action="http://lasillarota.com/buscador" id="formulario-buscador">
+                                    <div id="buscador">
+                                        <input type="text" name="buscar_txt" id="input-buscador" placeholder="Buscar contenido">
+                                        <input type="hidden" name="accion_buscar" value="1">
+                                        <a href="javascript:$('#formulario-buscador').submit();" id="boton-buscar"></a>
+                                        <a href="" id="boton-cancelar"></a>
+                                    </div>
+                                </form>
+                            </div>
+                            <div id="box-tv">
+                                <a href="">LA SILLA ROTA TV</a>
+                            </div>
+                            <div id="box-redes-sociales">
+                                <a href="https://twitter.com/lasillarota" id="tiwtter" target="_blank"></a>
+                                <a href="https://www.facebook.com/pages/La-Silla-Rota/249232245162966" id="facebook" target="_blank"></a>
+                                <a href="https://plus.google.com/u/0/108394027662383434935/posts" id="google" target="_blank"></a>
+                                <a href="" id="in" ></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        <div class="row">
+            <div class="span9 backheader">
+                 <div id="menu-categorias">
+    <div class="inner navbar-inner">
+        <div class="columna relative">
+                                <div id="home-ico"><a href="http://lasillarota.com/"><div id="btnhome-ico"></div></a></div>
+                <ul class='sf-menu' id='example'><li><a href='http://lasillarota.com/categoria/nacion' target='_self'>Nación</a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Congreso' target='_self'>Congreso </a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/Metropolitanas' target='_self'>Metrópoli</a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Estados' target='_self'>Estados</a><ul ><li><a href='http://lasillarota.com/?estado=Michoacan' target='_self'>Michoacán</a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Nuevo leon' target='_self'>Nuevo León</a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Sonora' target='_self'>Sonora</a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Queretaro' target='_self'>Querétaro</a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Veracruz' target='_self'>Veracruz</a><ul ></ul></li></ul></li><li><a href='http://lasillarota.mx/categoria/mundo' target='_self'>Mundo </a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/dinero' target='_self'>Dinero </a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/opinion' target='_self'>Opinión</a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Especiales-LSR' target='_self'>Especiales LSR</a><ul ></ul></li><li><a href='' target='_self'>Multimedia</a><ul ><li id='first'><a href='http://lasillarota.com/multimedia/index/videogallery' target='_self'>Videogalería</a><ul ></ul></li><li><a href='http://lasillarota.com/multimedia/index/fotogallery' target='_self'>Fotogalería</a><ul ></ul></li></ul></li></ul>
+                <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+
+ <div id="menu-categorias2" class="navbar navbar-inverse">
+    <div class="navbar-inner">
+        <div class="container">
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <!-- Be sure to leave the brand out there if you want it shown -->
+            <a class="brand" href="http://lasillarota.com/">La Silla Rota</a>
+            <div class="nav-collapse">
+                <ul class='nav'><li><a href='http://lasillarota.com/categoria/nacion' target='_self'>Nación<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Congreso' target='_self'>Congreso <b></b></a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/Metropolitanas' target='_self'>Metrópoli<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Estados' target='_self'>Estados<b></b></a><ul ><li><a href='http://lasillarota.com/?estado=Michoacan' target='_self'>Michoacán<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Nuevo leon' target='_self'>Nuevo León<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Sonora' target='_self'>Sonora<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Queretaro' target='_self'>Querétaro<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/?estado=Veracruz' target='_self'>Veracruz<b></b></a><ul ></ul></li></ul></li><li><a href='http://lasillarota.mx/categoria/mundo' target='_self'>Mundo <b></b></a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/dinero' target='_self'>Dinero <b></b></a><ul ></ul></li><li><a href='http://lasillarota.mx/categoria/opinion' target='_self'>Opinión<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/categoria/Especiales-LSR' target='_self'>Especiales LSR<b></b></a><ul ></ul></li><li><a href='' target='_self'>Multimedia<b></b></a><ul ><li><a href='http://lasillarota.com/multimedia/index/videogallery' target='_self'>Videogalería<b></b></a><ul ></ul></li><li><a href='http://lasillarota.com/multimedia/index/fotogallery' target='_self'>Fotogalería<b></b></a><ul ></ul></li></ul></li></ul>            </div>
+        </div>
+    </div>
+</div>
+<script>
+function agregarDropdown(lista){
+    $("#menu-categorias2 .nav li").each(function(){
+        if($(this).find("ul li").length > 0){
+            console.log($(this).find("a").eq(0).text());
+            $(this).addClass('dropdown');
+            $(this).find("a").eq(0).addClass('dropdown-toggle');
+            $(this).find("a").eq(0).attr('data-toggle','dropdown');
+            $(this).find("a b").eq(0).addClass('caret');
+            $(this).find("ul").eq(0).addClass('dropdown-menu');
+        }
+    });
+}
+agregarDropdown();
+</script>            </div>
+            <div class="span9">
+                <div id="modulo-menu-tags" class="modulo2">
+  <div class="columna relative">
+  <div class="wrapper">
+
+      
+      <div class="esnoticia pull-left">
+        <div class="control-tags">ES NOTICIA</div>
+      </div>
+      <div class="carrusel-tags pull-left">
+        <div class="slide_tags">
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/dia-del-nino">Día del Niño</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/papeles-de-panama">Papeles de Panamá</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Elecciones-2016">Elecciones 2016</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/El-Chapo">El Chapo</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Te-lo-explicamos">Te lo explicamos</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/encuestas">Encuestas</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Paris">Atentados en París</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Corrupcion">Corrupción</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/PVEM">PVEM</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Linchamiento">Linchamiento</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Oaxaca-2006">Oaxaca 2006</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Trump">Trump</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Moreira">Moreira</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Normalistas-Iguala">Ayotzinapa</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Cancer">Cáncer</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Oscar">Oscar</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Papa-Francisco">Papa Francisco</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/100-dias">100 días</a>
+          </div>
+                    <div class="slide">
+            <a href="http://lasillarota.com/tag/Lupa-Legislativa">Lupa Legislativa</a>
+          </div>
+                  </div>
+      </div>
+      <div class="mas-temas pull-left">
+       <div class="control-tags">              
+        <a class="right" id="control-tags-next" href="#myCarousel"></a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div id="menu-tags2" class="navbar navbar-inverse">
+    <div class="navbar-inner">
+        <div class="container">
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse-2">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <!-- Be sure to leave the brand out there if you want it shown -->
+            <a class="brand" href="http://lasillarota.com/">ES NOTICIA</a>
+            <div class="nav-collapse-2">
+                <ul class="nav">
+                                      <li><a href="http://lasillarota.com/tag/dia-del-nino">Día del Niño</a></li>
+                                      <li><a href="http://lasillarota.com/tag/papeles-de-panama">Papeles de Panamá</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Elecciones-2016">Elecciones 2016</a></li>
+                                      <li><a href="http://lasillarota.com/tag/El-Chapo">El Chapo</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Te-lo-explicamos">Te lo explicamos</a></li>
+                                      <li><a href="http://lasillarota.com/tag/encuestas">Encuestas</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Paris">Atentados en París</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Corrupcion">Corrupción</a></li>
+                                      <li><a href="http://lasillarota.com/tag/PVEM">PVEM</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Linchamiento">Linchamiento</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Oaxaca-2006">Oaxaca 2006</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Trump">Trump</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Moreira">Moreira</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Normalistas-Iguala">Ayotzinapa</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Cancer">Cáncer</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Oscar">Oscar</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Papa-Francisco">Papa Francisco</a></li>
+                                      <li><a href="http://lasillarota.com/tag/100-dias">100 días</a></li>
+                                      <li><a href="http://lasillarota.com/tag/Lupa-Legislativa">Lupa Legislativa</a></li>
+                                  </ul>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+</div>
+</div>
+<div class="row">
+     <div class="span12">
+        <div id="modulo-titulo-seccion">
+                <div class="titulo_seccion">Opinión</div>
+        </div> 
+        </div> 
+    </div>
+<div class="moduloline"></div>
+<div class="row"><div class="span12 separador"></div></div>
+<div class="row">
+     
+    <div class="span12 separador">
+        
+<div id="modulo-carrusel-12" class="relative">
+
+	    
+		<div class="carrusel-12">
+ 
+
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/pgr-analiza-informe-ayotzinapa-ii-entregado-por-el-giei">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/ayotzinapa_11_analiza_investigacion__210x127.jpg" alt="PGR analiza informe 'Ayotzinapa II' para enriquecer investigación: Arely Gómez" title="PGR analiza informe 'Ayotzinapa II' para enriquecer investigación: Arely Gómez" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/estamos-muertos-en-vida-padre-de-desaparecidos-en-tierra-blanca">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/desaparecidos_rancho_limon_210x127.jpg" alt="‘Estamos muertos en vida’: padre de desaparecidos en Tierra Blanca" title="‘Estamos muertos en vida’: padre de desaparecidos en Tierra Blanca" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/bloqueo-en-la-autopista-del-sol-dejo-un-muerto-y-64-detenidos">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/autopista_sol_bloqueo_210x127.jpg" alt="Bloqueo en la autopista del Sol dejó un muerto y 64 detenidos " title="Bloqueo en la autopista del Sol dejó un muerto y 64 detenidos " creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/acoso-a-mujeres-problema-de-la-sociedad-parametria">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/acoso_sexual_210x127.jpg" alt="Acoso a mujeres, problema de la sociedad: Parametría" title="Acoso a mujeres, problema de la sociedad: Parametría" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/pena-nieto-recibira-al-america-en-los-pinos">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/america_epn_pinos_210x127.jpeg" alt="Peña Nieto recibirá al América en Los Pinos" title="Peña Nieto recibirá al América en Los Pinos" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/manifestaciones-por-desapariciones-en-veracruz-encabezadas-por-sobrina-de-lider">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/manifestaciones_encabezadas_por_sobrina_de_lider_zeta_210x127.jpg" alt="Sobrina de líder zeta protestaba en Veracruz por 'desapariciones'" title="Sobrina de líder zeta protestaba en Veracruz por 'desapariciones'" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/joven-embarazada-asalta-camion-y-le-disparan-en-edomex">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/asalta_camion_embarazada_y_sale_herida_210x127.jpg" alt="Joven embarazada asalta camión y le disparan en Edomex " title="Joven embarazada asalta camión y le disparan en Edomex " creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/bloquean-transportistas-autopista-del-sol">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/bloquean_tansportistas_210x127.jpg" alt="Bloqueo en la Autopista del Sol deja 42 detenidos y 12 heridos" title="Bloqueo en la Autopista del Sol deja 42 detenidos y 12 heridos" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/pago-de-seguros-por-explosion-podria-tardar-meses-mexichem">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/polizas_seguros_pajaritos_210x127.jpg" alt="Pago de seguros por explosión podría tardar meses: Mexichem" title="Pago de seguros por explosión podría tardar meses: Mexichem" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/epn-anuncia-reformas-para-impulsar-justicia-imparcial-y-eficaz">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/a_justicia_210x127.jpg" alt="EPN anuncia reformas para impulsar justicia imparcial y eficaz" title="EPN anuncia reformas para impulsar justicia imparcial y eficaz" creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+                  <div class='slide'>
+                                                    <a href="http://lasillarota.com/sin-esclarecer-la-muerte-de-23-bebes-en-hospital-de-sinaloa">
+                     <img src="http://lasillarota.com/pub/uploads/thumbs/sin_esclarecer_muerte_de_23_bebes_210x127.jpg" alt="Sin esclarecer, muerte de 23 bebés en hospital de Sinaloa " title="Sin esclarecer, muerte de 23 bebés en hospital de Sinaloa " creditos=''>
+                   </a>
+                  </div>
+      
+
+
+      		  
+		  		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		  
+
+       
+        		</div>
+</div>
+ <script>
+  var carrusel_12 = '';
+$(document).ready(function() {
+ carrusel_12 = $('.carrusel-12').bxSlider({
+  slideWidth: 210,
+  video: true,
+  useCSS: false,
+  minSlides: 2,
+  maxSlides: 4,
+  slideMargin: 16,
+  moveSlides:1,
+  pager: false,
+  auto:true,
+  captions: true,
+  autoStart: true,
+  onSliderLoad: function(indice,slider){impresor2(slider,'carrusel-12',4);},
+  onSlideAfter: function(){
+    impresor2(carrusel_12,'carrusel-12',4);
+  }
+});
+$(document).on('scroll', function(){impresor2(carrusel_12,'carrusel-12',4)});
+ });
+ </script>  
+    </div>
+    
+</div>
+<div class="moduloline"></div>
+                <!--  Fin encabezado  -->
+
+
+                <div class="row last-row" >
+                    <div class="span8">
+                        <div class="row">
+    <div class="span8">
+        <script type="text/javascript">
+	$(document).ready(function() {
+	$("a#articulo-enviar").fancybox();
+});
+</script>
+
+<div id="modulo-noticia-encabezado">
+
+	<div class="columna relative">
+
+								<div class=""><h1>Paradojas democráticas</h1> </div>
+		<div class="sumario"> La democracia nunca está terminada y nunca está resuelta. No es un fin en sí misma, sino un medio.</div>
+	</div>
+
+	<div class="articulo-redes-sociales">
+
+			
+				
+			
+					<!-- AddThis Button BEGIN -->
+					<div class="addthis_toolbox addthis_default_style">
+
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+					<a class="addthis_button_tweet"></a>
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+
+
+					<div style="display:inline-block">
+					<a class="addthis_counter addthis_pill_style"></a>
+
+
+					<div class="to-comentarios"><a href="#commentsDiv" class="ancla"> <img src="http://lasillarota.com/pub/theme/img/balloon-box-left.png" alt=""> <span>0</span>comentarios </a></div>
+
+
+					<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+					<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5321ee4f304ecf3b"></script>
+					<!-- AddThis Button END -->
+					<div style="display:inline-block">
+					<a href="http://lasillarota.com/modulo/articulo/compartir/paradojas-democraticas" class="acciones articulo-enviar pop-up-enviar" alt="enviar"></a>
+						<script>$("a.pop-up-enviar").fancybox({titleShow:"false",type:"iframe"})</script>
+						<a href="http://lasillarota.com/modulo/articulo/imprimirarticulo/paradojas-democraticas" id="articulo-imprimir" class="acciones" alt="imprimir"></a>
+						<a href="http://lasillarota.com/paradojas-democraticas" id="articulo-favoritos" class="acciones favoritos" alt="favoritos" title="Paradojas democráticas"></a>
+					</div>
+					</div>
+					</div>
+	</div>
+	
+</div>
+    </div>
+    <div class="span2">     
+        <div class="fondo-gris-autor relative">
+	   
+	   
+    <div class="columnaizq-titulo-autor txtTimes">SOBRE EL AUTOR</div>
+    <div class="columnaizq-foto-autor"><img src=""></div>
+    <div class="columnaizq-txt-autor txtTimes"></div>
+</div>      
+        <div id="noticias-relacionadas" class="editor-recomienda relative">
+  
+  
+  <div class="relacionadas">
+    <div class="relacionadas-title">
+      EL EDITOR RECOMIENDA
+    </div>
+  </div>
+
+  <div class="relacionadas">
+    
+        <div class="item modulo  ">
+      <div class="titulo"> <a href="http://lasillarota.com/raul-cervantes-un-priista-con-mala-reputacion"> Raúl Cervantes, un priísta con dudosa reputación </a> </div>
+    </div>
+        <div class="item modulo  ">
+      <div class="titulo"> <a href="http://lasillarota.com/german-martinez-hechura-politica-de-calderon"> Germán Martínez, hechura política de Calderón </a> </div>
+    </div>
+        <div class="item modulo  ">
+      <div class="titulo"> <a href="http://lasillarota.com/presentan-iniciativa-para-cerrar-paso-a-cuates-en-la-corte"> Presentan iniciativa para ‘cerrar paso’ a cuates en la Corte </a> </div>
+    </div>
+        <div class="item modulo  ">
+      <div class="titulo"> <a href="http://lasillarota.com/manlio-se-dice-en-contra-de-partidizar-la-scjn"> Manlio se dice en contra de partidizar la SCJN </a> </div>
+    </div>
+        <div class="item modulo  ">
+      <div class="titulo"> <a href="http://lasillarota.com/el-senador-cervantes"> El senador Cervantes </a> </div>
+    </div>
+        <div class="item modulo last ">
+      <div class="titulo"> <a href="http://lasillarota.com/partidizar-la-corte"> ¿Partidizar la Corte? </a> </div>
+    </div>
+    
+  </div>  
+</div>
+      
+    </div>               
+    <div class="span6">
+        <div id="modulo-noticia-despliegue">
+  <div class="columna relative">
+
+        
+            <div class="multimedia">
+      <div class="img">
+        <div  class="bxslider"> 
+                    <div> 
+                          <img src="http://lasillarota.com/pub/uploads/thumbs/eu_iowa_460x290.jpg " alt="">
+                        <div class="creditos">
+                          </div>
+          </div>
+           
+        </div>
+      </div>
+
+   </div>
+   
+ 
+   <div class="autor"><span class="nombre"><a href="">Federico Ling Sanz Cerrada</a></span> <span>|</span> <a href="">Opinión</a> <span>|</span> <a href="">2016-02-08&nbsp;<span class='fechad'>00:00:00</span></a></div>
+   <div class="contenido-articulo">
+    <p>Me resulta profundamente revelador lo que sucedi&oacute; en el estado de Iowa hace una semana. El pasado lunes se llevaron a cabo los famosos &ldquo;caucus&rdquo; en dicha entidad estadounidense, siendo as&iacute; el inicio formal de las precampa&ntilde;as a la Presidencia de Estados Unidos, pr&oacute;xima a renovarse en noviembre de este a&ntilde;o 2016. Antes de hablar un poco de las sorpresas que este caucus arroj&oacute;, quiero mencionar que en pr&oacute;ximas entregas haremos un an&aacute;lisis detallado del proceso por el que se elige al titular del ejecutivo, pues no es un sistema f&aacute;cil de entender.</p>
+<p>&nbsp;</p>
+<p>Lo que puedo adelantar en este momento es que a pesar que el sistema presidencial estadounidense fue inventado en este pa&iacute;s, hay que decir que es el &uacute;nico que no elige a su presidente por voto directo; es decir, hay delegados y &eacute;stos son quienes toman la decisi&oacute;n y por ende, el principio de &ldquo;una persona es un voto&rdquo; no se cumple. Desde mi personal punto de vista, la democracia estadounidense es una paradoja cuando se habla del presidencialismo que tanto la caracteriza.</p>
+<p>&nbsp;</p>
+<p>Ahora bien, como todos se imaginar&aacute;n, la decisi&oacute;n y nominaci&oacute;n interna de los candidatos en los partidos es un reflejo de ello: su elecci&oacute;n tampoco es directa y los simpatizantes y afiliados eligen delegados, quienes a su vez escoger&aacute;n al candidato que los representar&aacute; en la elecci&oacute;n formal. En todos sentidos esto es una paradoja democr&aacute;tica.</p>
+<p>&nbsp;</p>
+<p>Sin embargo, antes de entrar en un proceso de an&aacute;lisis riguroso sobre lo que sucede en el proceso electoral de los Estados Unidos, quiero hablar de c&oacute;mo la paradoja democr&aacute;tica que describimos arriba tiene otras vertientes y sorpresas. Veamos.</p>
+<p>&nbsp;</p>
+<p>En primer lugar, la paradoja m&aacute;s interesante es la de Donald Trump. Pr&aacute;cticamente todos conocemos la postura del magnate inmobiliario y sabemos de sus puntos de vista. &iquest;D&oacute;nde est&aacute; lo extra&ntilde;o en esto? Pues que no gan&oacute; el caucus y el vencedor fue el senador texano Ted Cruz. Es una revelaci&oacute;n porque en todas las encuestas, Trump siempre mantuvo el primer lugar en las preferencias republicanas. Por muchos puntos hay que decirlo. Luego entonces vale la pena preguntarse qu&eacute; pas&oacute; en Iowa. La explicaci&oacute;n es sencilla: Trump fue demasiado estridente y por ende el triunfo fue de Cruz, que piensa de la misma manera que Trump, pero sin todo el ruido y la extravagancia que rodea al millonario.</p>
+<p>&nbsp;</p>
+<p>La reacci&oacute;n de &ldquo;El Donald&rdquo; (como le dicen a veces) fue la de descalificar la contienda y acusar a Cruz de compra de votos. Trump es un mal perdedor. Lo que tenemos que preguntarnos entonces es: &iquest;si Ted Cruz fuera el Presidente de Estados Unidos, en qu&eacute; posici&oacute;n y cu&aacute;nto le conviene ello a M&eacute;xico? Honestamente no creo que mucho. No tengo la impresi&oacute;n que las visiones del senador de Texas sean las m&aacute;s adecuadas o mejores para nosotros. M&aacute;s bien lo contrario, y ya lo dec&iacute;amos en algunas entregas anteriores: el da&ntilde;o de Trump ya est&aacute; hecho, pues el discurso republicano est&aacute; totalmente radicalizado.</p>
+<p>&nbsp;</p>
+<p>La segunda paradoja de este ejercicio ser&iacute;a la campa&ntilde;a de Jeb Bush. Todos pensamos que un apellido de ese calibre tendr&iacute;a un resultado mucho m&aacute;s favorecedor (especialmente en un pa&iacute;s de &eacute;lites, como es Estados Unidos). Sin embargo su campa&ntilde;a fue un completo desastre y es evidente que no es el favorito para competir por la Presidencia. Si las cosas siguen as&iacute; (y los republicanos moderados salen a votar subsecuentemente en el resto de la precampa&ntilde;a) yo pienso que el senador Marco Rubio podr&iacute;a ser el elegido.</p>
+<p>&nbsp;</p>
+<p>Pero vamos ahora a analizar la tercera paradoja (o sorpresa, para ser m&aacute;s exacto). Me refiero al enorme porcentaje de preferencia que tuvo el senador por Vermont Bernie Sanders. Nadie pens&oacute; que fuera a estar a punto de arrebatarle el triunfo a Hillary Clinton. No lo logr&oacute;, pero es francamente sorpresivo que haya obtenido pr&aacute;cticamente los mismos votos que la ex Secretaria de Estado. Esto nos dice que hay mucha gente (especialmente los j&oacute;venes) que est&aacute;n convencidos del discurso del senador, por encima de Hillary (con todo y que se acusa a Sanders de socialista, si es que eso fuera posible). Me parece entonces otra de las paradojas democr&aacute;ticas que hemos podido presenciar en esta contienda es esto precisamente.</p>
+<p>&nbsp;</p>
+<p>La democracia nunca est&aacute; terminada y nunca est&aacute; resuelta. No es un fin en s&iacute; misma, sino un medio para que podamos organizarnos mejor y tomar decisiones; para que el poder no se estanque con los mismos actores de siempre y que siempre haya garant&iacute;as de libertad. A&uacute;n falta mucho camino por recorrer (que al cabo la democracia estadunidense solamente lleva m&aacute;s de dos siglos en vigencia). <a name="_GoBack"></a></p>
+<p>&nbsp;</p>
+<p><a href="https://twitter.com/fedeling" target="_blank">@fedeling</a></p>  </div>
+<div class="modulo" style="margin-top:15px;" id="commentsDiv">
+  <h5>Comentarios: </h5>
+</div>
+<div class="modulo"> 
+  <fb:comments href="http://lasillarota.com/paradojas-democraticas" notify="true" numposts="5" width="100%" colorscheme="light"></fb:comments>
+  <script>
+  window.fbAsyncInit = function() {
+
+       var comment_callback = function(response) {
+        
+        $.ajax({
+            url: "http://lasillarota.com/modulo/articulo/contador_comentarios",
+            type: 'POST',
+            data: {post_id: '147409'},
+          })
+          .done(function() {
+            console.log("success");
+          })
+          .fail(function() {
+            console.log("error");
+          })
+          .always(function() {
+            console.log("complete");
+          });
+  
+          console.log("comment_callback");  
+          console.log(response);  
+        }
+
+
+        FB.Event.subscribe('comment.create', comment_callback);
+
+
+  };
+ 
+
+  </script>
+</div>
+
+ 
+
+ </div>
+</div>
+    </div>
+    <div class="span8"> <div class="moduloline"></div> </div>
+    
+</div>
+
+<div class="row">
+    <div class="span8">
+               <div id="noticias-relacionadas" class="inferior modulo">
+  
+  <div class="relacionadas">
+    <div class="relacionadas-title">
+      <span>OTRAS NOTAS DE ESTE TEMA</span>
+    </div>
+  </div>
+
+  <div class="relacionadas">
+    
+        <div class="item">
+      <div class="titulo"> <a href="http://lasillarota.com/eu-espia-a-mas-de-cinco-mil-clientes-de-microsoft"> EU espía a más de cinco mil clientes de Microsoft </a> </div>
+    </div>
+        <div class="item">
+      <div class="titulo"> <a href="http://lasillarota.com/mas-alla-de-trump"> Más allá de Trump </a> </div>
+    </div>
+        <div class="item">
+      <div class="titulo"> <a href="http://lasillarota.com/basanez-antes-y-despues"> Basáñez, antes y después </a> </div>
+    </div>
+        <div class="item">
+      <div class="titulo"> <a href="http://lasillarota.com/tiempos-turbulentos-pasos-firmes"> Tiempos Turbulentos. Pasos Firmes </a> </div>
+    </div>
+    
+  </div>  
+</div>
+  
+    </div>
+    <div class="span8">
+              
+    </div>
+</div>
+<div class='columna relative root'>
+	 
+
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='fotomultas publicidad'>
+<div class='slide' id='2726' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/los-marco-polos-de-tepito-que-viajan-cada-ano-a-china#.VwUmgpzhBnI' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/marco_polo_nuevo.jpg' class='imagen'></a></div>
+<div class='slide' id='2440' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/fotomultas-el-negocio-de-los-200-mdp-mensuales#.VnN88vnhDIV' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/Fotomultas.jpg' class='imagen'></a></div>
+<div class='slide' id='2456' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/humvee-el-vehiculo-militar-que-eu-desprecia-y-mexico-compra' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/Humvee_min.jpg' class='imagen'></a></div>
+<div class='slide' id='2457' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/el-tramo-carretero-del-terror-en-sinaloa#.VmXk1rjhAdU' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/Tramo_carretero.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.fotomultas{
+height:240px;
+}
+</style>
+<script>
+var fotomultas = ''; $(document).ready(function() {
+fotomultas  = $('.fotomultas').bxSlider({
+auto:true,pause: 6000,slideWidth: 620,
+minSlides: 1, maxSlides: 1, slideMargin: 0, moveSlides:1,
+pager: false, video: true, useCSS: false, controls:false,
+onSliderLoad: function(indice,slider){
+				$('.bx-clone object').prepend('<param name="wmode" value="transparent">');
+				impresor(slider,'fotomultas');
+			},
+onSlideAfter: function(){
+				impresor(fotomultas,'fotomultas');
+				indice = fotomultas.getCurrentSlide();
+				indice = (indice*1) + 1;
+				pause = $('.fotomultas .slide').eq(indice).attr('pause');
+				fotomultas.setPause(pause);
+			}
+});
+});
+</script>
+<div id="ultimo-multimedia" class="modulo">
+	<div class="fondo-gris titulo"><h5>LO ÚLTIMO EN FOTOS Y VIDEO</h5></div>
+	<div class="box multimedia_cont">
+		<div class="descripcion">
+	<div class="titulo">
+		<div class="tipo_multimedia">
+			<img src="http://lasillarota.com/pub/theme/img/icono_galeria.jpg" alt="">
+		</div>
+		<h2>Civil War…México </h2>
+	</div>
+	<div class="tipo">Video</div>
+	<div class="texto">
+		<p>México desata su propia Civil War entre súper héroes mexicanos. Mientras en USA se disputan Capitán América y Iron Man, aquí Santo y Chapulín harán lo suyo. En esta divertida parodia participan QueParió!&#8230;&nbsp;</p>
+		<p><a href="http://lasillarota.com/multimedia/index/videogallery/1/civil-warmexico-">Ver más</a></p>
+	</div>
+</div>
+<div class="multimedia">
+
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/k2SK4KqUs-M" frameborder="0" allowfullscreen></iframe>	<p>(Créditos: YouTube)</p></div>
+<script type="text/javascript">
+$(".multimedia iframe").attr("width","370");
+$(".multimedia iframe").attr("height","225");
+</script>	</div>
+
+	<div class="tabbable">
+		<ul id="tabs_multimedia" class="nav nav-tabs tab-over">
+			<li class="active"><a href="#ultimas_multimedia"   data-toggle="tab" id="btn_ultimas"><span> </span>ÚLTIMAS</a></li>
+			<li ><a href="#mas_vistas_multimedia" data-toggle="tab" id="btn_masvistas"><span> </span>LAS MÁS VISTAS</a></li>
+		</ul>
+
+		<div class="tab-content tabs_multimedia">
+			<div class="tab-pane active" id="ultimas_multimedia">
+				<div class="lo_ultimo_multimedia">	
+					<div class='thmb' tipo='video' id='154865'><img src="http://lasillarota.com/pub/uploads/thumbs/civil_war_mexicanos__210x127.jpg" class="caption_carrusel" alt="Civil War…México " width="146" height="88" ></div><div class='thmb' tipo='video' id='154855'><img src="http://lasillarota.com/pub/uploads/thumbs/11_preguntas_del_cuidado_de_los_ojos_210x127.jpg" class="caption_carrusel" alt="11 preguntas del cuidado de los ojos" width="146" height="88" ></div><div class='thmb' tipo='video' id='154854'><img src="http://lasillarota.com/pub/uploads/thumbs/cinco_beneficios_de_practicar_yoga_210x127_pub-uploads-Gloria-Marzo-abril.jpg" class="caption_carrusel" alt="Cinco ejercicios para aliviar el dolor de espalda" width="146" height="88" ></div><div class='thmb' tipo='foto' id='154844'><img src="http://lasillarota.com/pub/uploads/thumbs/gael_garcia_nino_210x127.jpg" class="caption_carrusel" alt="Niños actores que nos robaron el corazón" width="146" height="88" ></div><div class='thmb' tipo='video' id='154834'><img src="http://lasillarota.com/pub/uploads/thumbs/Oso_210x127.jpg" class="caption_carrusel" alt="Se acuesta con un oso de unos 700 kilogramos y le pasa esto" width="146" height="88" ></div><div class='thmb' tipo='video' id='154833'><img src="http://lasillarota.com/pub/uploads/thumbs/asalta_banco_billetes__210x127.jpg" class="caption_carrusel" alt="Hombre roba banco y lanza billetes a la calle" width="146" height="88" ></div><div class='thmb' tipo='video' id='154825'><img src="http://lasillarota.com/pub/uploads/thumbs/golpean_y_torturan_a_taxistas_en_guerrero_210x127.png" class="caption_carrusel" alt="Dejan a tres jóvenes golpeados y torturados en Chilpancingo " width="146" height="88" ></div><div class='thmb' tipo='video' id='154818'><img src="http://lasillarota.com/pub/uploads/thumbs/destroza_avion_excavadora__210x127.jpg" class="caption_carrusel" alt="Hombre destroza avión con excavadora tras ser despedido" width="146" height="88" ></div><div class='thmb' tipo='video' id='154803'><img src="http://lasillarota.com/pub/uploads/thumbs/Bomba_boca_210x127.jpg" class="caption_carrusel" alt="Hombre chino detona cohete en su boca" width="146" height="88" ></div><div class='thmb' tipo='video' id='154787'><img src="http://lasillarota.com/pub/uploads/thumbs/bullying_que_detona_la_violencia_entre_ninos_y_ninas_210x127.jpg" class="caption_carrusel" alt="Bullying, ¿qué detona la violencia entre niños y niñas?" width="146" height="88" ></div><div class='thmb' tipo='video' id='154785'><img src="http://lasillarota.com/pub/uploads/thumbs/salud_emocional_de_las_personas_con_obesidad_210x127.jpg" class="caption_carrusel" alt="Salud emocional de las personas con obesidad" width="146" height="88" ></div><div class='thmb' tipo='video' id='154783'><img src="http://lasillarota.com/pub/uploads/thumbs/cinco_beneficios_de_practicar_yoga_210x127_pub-uploads-Gloria-Marzo-abril.jpg" class="caption_carrusel" alt="Cinco beneficios de practicar yoga" width="146" height="88" ></div>				</div>	              
+			</div>		
+			<div class="tab-pane " id="mas_vistas_multimedia">
+				<div class="lo_masvisto_multimedia">	
+					<div class='thmb' tipo='foto' id='154098'><img src="http://lasillarota.com/pub/uploads/thumbs/lady_100_1_210x127.jpg" class="caption_carrusel" alt="Memes de #Lady100pesos" width="146" height="88" ></div><div class='thmb' tipo='foto' id='153993'><img src="http://lasillarota.com/pub/uploads/thumbs/julion_alvarez_memes_1_210x127.jpg" class="caption_carrusel" alt="Memes del comentario de Julión Álvarez" width="146" height="88" ></div><div class='thmb' tipo='video' id='153990'><img src="http://lasillarota.com/pub/uploads/thumbs/pareja_abandona_hijo_centro_comercial__210x127.jpg" class="caption_carrusel" alt="Pareja abandona a su hijo en centro comercial " width="146" height="88" ></div><div class='thmb' tipo='video' id='154458'><img src="http://lasillarota.com/pub/uploads/thumbs/mexicana_roba_atencion_del_mundo__210x127.jpg" class="caption_carrusel" alt="Joven mexicana roba la atención del mundo" width="146" height="88" ></div><div class='thmb' tipo='foto' id='154773'><img src="http://lasillarota.com/pub/uploads/thumbs/memes_vocalista_de_panda1_210x127.jpg" class="caption_carrusel" alt="Redes desprecian a #LadyPanda con memes " width="146" height="88" ></div><div class='thmb' tipo='video' id='154170'><img src="http://lasillarota.com/pub/uploads/thumbs/sopresa_talar_arbol__210x127.jpg" class="caption_carrusel" alt="Un hombre se lleva una gran sorpresa al talar un árbol " width="146" height="88" ></div><div class='thmb' tipo='video' id='154174'><img src="http://lasillarota.com/pub/uploads/thumbs/alumnos_golpean_maestro_examenes__210x127.jpg" class="caption_carrusel" alt="Alumnos golpean a profesor por recogerles los exámenes" width="146" height="88" ></div><div class='thmb' tipo='video' id='154741'><img src="http://lasillarota.com/pub/uploads/thumbs/policia_arana_taxista_ayudaba_adulto__210x127.jpg" class="caption_carrusel" alt="Policía de tránsito coloca “araña” a taxista que ayudaba a adulto mayor " width="146" height="88" ></div><div class='thmb' tipo='video' id='154280'><img src="http://lasillarota.com/pub/uploads/thumbs/anonymus_yunes_210x127.jpg" class="caption_carrusel" alt="Anonymous difunde video sobre bienes Yunes Linares" width="146" height="88" ></div><div class='thmb' tipo='foto' id='153940'><img src="http://lasillarota.com/pub/uploads/thumbs/explosion_pajaritos_210x127.jpg" class="caption_carrusel" alt="Así se vio la explosión en Pajaritos" width="146" height="88" ></div><div class='thmb' tipo='video' id='154019'></div><div class='thmb' tipo='video' id='154094'><img src="http://lasillarota.com/pub/uploads/thumbs/nace_sin_vagina_utero_cervix_210x127.png" class="caption_carrusel" alt="Nace sin vagina, útero ni cérvix; lo descubre años después" width="146" height="88" ></div>				</div>            
+			</div>	
+		</div>
+		<div class="footer-multimedia"></div>
+	</div> 
+
+</div>
+<script>
+
+function video_interno(){
+		$(".multimedia_cont").removeClass('disabled');
+	  if($("#video_lsr_ultimo").attr('video')==undefined) return;
+ 	  var video=$("#video_lsr_ultimo").attr('video');
+	  var imagen=$("#video_lsr_ultimo").attr('imagen');
+
+      jwplayer('video_lsr_ultimo').setup({ 
+      file: video, 
+      image:imagen, 
+      width: 370, 
+      height: 224 
+      });
+
+}
+jQuery(document).ready(function($) {
+	video_interno();
+});
+
+$(".thmb").click(function(event) {
+	$(".multimedia_cont").addClass('disabled');
+	if($(this).attr('tipo') == "foto"){
+		$(".multimedia_cont").load('http://lasillarota.com/modulo/multimedia/fotogaleria_loultimo/'+$(this).attr('id'),'',function(){
+			 $(".multimedia_cont").removeClass('disabled');
+			 $(".fancygaleria").fancybox({
+			  titleShow:"false"
+			  });
+			
+		});
+		$.ajax({ url: base_url+'modulo/multimedia/sumar_click_fg/'+ $(this).attr('id') });
+	}else if($(this).attr('tipo') == "video"){
+		$(".multimedia_cont").load('http://lasillarota.com/modulo/multimedia/video_loultimo/'+$(this).attr('id'),video_interno);
+	}
+//$("#contenedor").load('');
+});
+</script><div class="row">
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Elecciones 2016</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/hoy-debate-entre-candidatos-a-gobernador-de-oaxaca"> Hoy debate entre candidatos a gobernador de Oaxaca  </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/hoy-debate-entre-candidatos-a-gobernador-de-oaxaca"><img src="http://lasillarota.com/pub/uploads/thumbs/candidatos_oaxaca_300x190.jpg" class="caption" alt="" creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>00:00</span> El debate entre candiatos se va a desarrollar en las instalaciones de la Corporación Oaxaqueña  a partir de las 19...								<a href="http://lasillarota.com/hoy-debate-entre-candidatos-a-gobernador-de-oaxaca">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/prd-plantea-alianza-para-2018-contra-restauracion-autoritaria-del-pri">
+	    					<b>Nación: </b>PRD ve alianza en 2018 contra 'restauración autoritaria' del PRI	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/tony-gali-se-compromete-a-fortalecer-el-campo-en-puebla">
+	    					<b>Estados: </b>Tony Gali se compromete a fortalecer el campo en Puebla	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Congreso</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/san-lazaro-remata-autos-en-el-olvido"> San Lázaro remata autos en el olvido  </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/san-lazaro-remata-autos-en-el-olvido"><img src="http://lasillarota.com/pub/uploads/thumbs/autos_diputados_300x190.jpg" class="caption" alt="San Lázaro remata autos en el olvido " creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>11:26</span> La Cámara de Diputados pone a la venta un lote de vehículos valuado en 2 millones 873 mil pesos								<a href="http://lasillarota.com/san-lazaro-remata-autos-en-el-olvido">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/camara-de-diputados-genera-3-toneladas-de-basura-diarias">
+	    					<b>Metrópoli : </b>Cámara de Diputados genera 3 toneladas de basura diarias	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/claves-de-la-ley-de-zonas-economicas-especiales">
+	    					<b>Nación: </b>Claves de la Ley de Zonas Económicas Especiales	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+</div><div class="row">
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Metrópoli</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/exigen-al-gobierno-de-cdmx-una-verdadera-estrategia-de-movilidad"> Exigen al gobierno de CDMX una verdadera estrategia de movilidad </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/exigen-al-gobierno-de-cdmx-una-verdadera-estrategia-de-movilidad"><img src="http://lasillarota.com/pub/uploads/thumbs/movilidad_metrobus_300x190.jpg" class="caption" alt="Exigen al gobierno de CDMX una verdadera estrategia de movilidad" creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>00:00</span> De acuerdo con organizaciones los taxis eléctricos no mejoraran la movilidad y faltan 29 líneas de Metrobús por c...								<a href="http://lasillarota.com/exigen-al-gobierno-de-cdmx-una-verdadera-estrategia-de-movilidad">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/acusado-de-abuso-sexual-en-montessori-matatena-comparece">
+	    					<b>Metrópoli : </b>Comparece acusado de abuso sexual en Montessori Matatena 	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/dominara-el-ambiente-calido-en-el-valle-de-mexico">
+	    					<b>Metrópoli : </b>Dominará el ambiente cálido en el Valle de México	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Estados</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc"> ‘Show mediático’ recolección de firmas por MC: PAN y PRI </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc"><img src="http://lasillarota.com/pub/uploads/thumbs/pan_y_pri_ven_como_show_mediatico_recoleccion_de_firmas_por_mc_300x190.jpg" class="caption" alt="" creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>12:59</span> Movimiento Ciudadano ha recabado más de 7 mil firmas ciudadanas que presentará para acusar a los ex mandatarios po...								<a href="http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/mc-levanta-firmas-para-denunciar-a-ex-gobernadores">
+	    					<b>Estados: </b>MC levanta firmas para denunciar a ex gobernadores	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/movimiento-ciudadano-beneficio-a-empresa-que-entrego-lista-nominal-a-amazon">
+	    					<b>Nación: </b>MC benefició a empresa que entregó lista nominal a Amazon 	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+</div><div class="row">
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Mundo</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/siria-anuncia-regimen-de-calma-en-algunas-regiones-del-pais"> Siria anuncia ‘régimen de calma’ en algunas regiones del país </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/siria-anuncia-regimen-de-calma-en-algunas-regiones-del-pais"><img src="http://lasillarota.com/pub/uploads/thumbs/siria_anuncia_regimen_de_calma_en_algunas_regiones_del_pais_300x190.jpg" class="caption" alt="" creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>00:00</span> La medida en Damasco duraría 24 horas y en Latakia 72 horas, con el objetivo de cortar el camino a algunos grupos t...								<a href="http://lasillarota.com/siria-anuncia-regimen-de-calma-en-algunas-regiones-del-pais">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/alerta-de-tsunami-por-sismo-de-7-grados-en-vanuatu">
+	    					<b>Mundo: </b>Alerta de tsunami por sismo de 7 grados en Vanuatu 	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/ratifican-a-jacobson-como-embajadora-de-eu-en-mexico">
+	    					<b>Mundo: </b>Ratifican a Jacobson como Embajadora de EU en México 	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+	<div class="span4"><div class="modulo-seccion relative">
+
+	 
+
+	<div class="titulo_seccion">
+		<h2 class="puntos-rosas">Dinero</h2>
+	</div>
+
+	<div class="separador-gris"></div>
+
+		
+		<div class="item modulo last">
+			<div class="box">
+				<div class="row-fluid">
+					<div class="span12"><div class="titulo"><h2> <a href="http://lasillarota.com/se-vende-dolar-en-1707-en-aicm"> Se vende dólar en $17.07 en AICM </a> </h2></div></div>
+				</div>
+				<div class="row-fluid">
+
+					<div class="span6">
+						<div class="imagen foto">
+						
+						
+				               
+				                <div><a  href="http://lasillarota.com/se-vende-dolar-en-1707-en-aicm"><img src="http://lasillarota.com/pub/uploads/thumbs/venden_dolar_en_17_87_en_aeropuerto_de_cdmx_300x190.jpg" class="caption" alt="" creditos=""></a></div>
+				              						</div>
+					</div>
+					<div class="span6">
+						<div class="nota">
+						<div class="sumario">
+							<p>
+								<span class='linea-tiempo-hrs'>11:10</span> Este sábado el dólar registra un precio promedio de 17.07 pesos a la venta y de 16.35 pesos								<a href="http://lasillarota.com/se-vende-dolar-en-1707-en-aicm">Leer más</a>
+							</p>
+						</div>					
+						</div>						
+					</div>
+				</div>
+		</div>
+   		<div class="notas-subordinadas">
+			<div class="box-notas-subordinadas">
+				<ul>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/dolar-se-vende-hasta-en-1757-pesos-en-bancos-de-la-cdmx">
+	    					<b>Dinero: </b>Dólar se vende hasta en 17.57 pesos en bancos de la CDMX	    				</a>
+						</h3>
+					</li>
+										<li>
+													
+												<h3>
+							
+						<a href="http://lasillarota.com/dolar-abre-hasta-en-1740-en-bancos-de-la-cdmx">
+	    					<b>Dinero: </b>Dólar abre hasta en $17.40 en bancos de la CDMX	    				</a>
+						</h3>
+					</li>
+									</ul>
+			</div>
+		</div>
+	
+
+    </div>
+	
+	
+	
+
+
+	
+
+	
+</div>
+
+</div>
+</div><div class="row">
+	<div class="span4">
+	<div id="modulo-caza-de-citas" class="modulo last relative">
+
+	    
+
+		<div class="fondo_imgagen"> </div>
+		<div class="fondo-gris titulo">Caza de citas</div>
+		<div class="box">
+			<div class="pull-left imagen">
+				<div>
+											<a href="http://lasillarota.com/pgr-actuo-en-secreto-giei"><img src="http://lasillarota.com/pub/uploads/ANGELA.JPG" alt=""></a>
+									</div>
+			</div>
+			<div class="pull-left cita">
+				<div class="texto">
+					<a href="http://lasillarota.com/pgr-actuo-en-secreto-giei">"Según la información de la Sedena, el Ejército supo del robo de los buses en la estación de Iguala ¿Qué supo entonces el 27 Batallón de la sustracción del quinto autobús? Según un reporte de Protección Civil, a partir de un momento la información del C-4 estuvo restringida por control de Sedena ¿Por qué Sedena tomó control y restringió el acceso a la información del C-4? ¿Qué tipo de información se transmitió en ese tiempo?"</a>
+				</div>
+				<div class="nombre">
+					<span>Ángela Buitrago</span>
+					<div><strong>Integrante del Grupo Interdisciplinario de Expertos Independientes</strong></div>
+					<div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+	<div class="span4"><div class='columna relative root'>
+<div id="modulo-en-un-vistazo" class="modulo last">
+	<div class="fondo-gris titulo">Lo más destacado</div>
+				<div class="item last relative">
+
+			     
+			<!-- <div class="titulo-noticia"> <h5><a href=""></a></h5> </div> -->
+			<div class="nota">
+				<p>
+									<a href="http://lasillarota.com/transporte-publico-de-cdmx-es-indigno-para-las-usuarias-estudio#.VyJrQPnhAdU" target="0">
+									<img src="http://lasillarota.com/pub/uploads/ramon/carpeta sin título/ACOSO_promo.jpg" width="290" border="0">
+									</a>
+								</p>
+
+
+			</div>
+		</div>
+				<div class="item  relative">
+
+			     
+			<!-- <div class="titulo-noticia"> <h5><a href=""></a></h5> </div> -->
+			<div class="nota">
+				<p>
+									<a href="http://lasillarota.com/deficiente-condicion-de-vida-de-ninos-en-carceles#.VyJvC_nhAdU" target="_blank">
+									<img src="http://lasillarota.com/pub/uploads/ramon/carpeta sin título/NINOS_promo.jpg" width="290" border="0">
+									</a>
+								</p>
+
+
+			</div>
+		</div>
+				<div class="item  relative">
+
+			     
+			<!-- <div class="titulo-noticia"> <h5><a href=""></a></h5> </div> -->
+			<div class="nota">
+				<p>
+									<a href="http://lasillarota.com/cartel-del-golfo-narra-hazanas-y-envia-amenazas-a-ritmo-de-hip-hop" target="0">
+									<img src="http://lasillarota.com/pub/uploads/ramon/carpeta sin título/CARTEL_promo.jpg" width="290" border="0">
+									</a>
+								</p>
+
+
+			</div>
+		</div>
+		
+</div>
+</div>
+ </div>
+</div>
+<div class="moduloline"></div> 
+</div>
+
+                    </div>
+
+                    <div class="span4" id="columna-lateral">
+                          <div class='columna relative root'>
+	 
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='entrevista-monreal publicidad'>
+<div class='slide' id='2969' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/aun-con-felix-gonzalez-detras-del-candidato-gongora-noqueare-al-pri-carlos-joaqu#.VyPsSPnhAdU' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/thumbs/entrevista_joaquin_300x235.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.entrevista-monreal{
+height:235px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='edomex publicidad'>
+<div class='slide' id='2952' impreso='no' click='no' pause='6000'>
+<a href='https://www.youtube.com/watch?v=sWjcXq8cTkU' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/Publicidad/Nayeli/2016/Edomex/300x100.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.edomex{
+height:100px;
+}
+</style>
+<div id="modulo-lo-esencial" class="modulo last">
+	<div class="fondo-gris titulo">ÚLTIMA HORA</div>
+  <div class="tabbable">
+
+    <ul id="tabs" class="nav nav-tabs tab-over">
+      <li class="active"><a href="#1" data-toggle="tab">TITULARES</a></li>
+      <li><a href="#2" data-toggle="tab">AMPLIADOS</a></li>
+      <li><a href="#3" data-toggle="tab">MULTIMEDIA</a></li>
+  </ul>
+
+  <div class="border-line-tab">
+    <div class="tab-content">               
+       <div class="tab-pane active content" id="1">
+            <div class='columna relative'>
+           <div class="content-scroll">
+            <h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>17:01</span><a href=http://lasillarota.com/mueren-4-ninos-y-su-abuela-por-inundaciones-en-texas>Mueren 4 niños y su abuela, por inundaciones&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>16:40</span><a href=http://lasillarota.com/migrantes-nuevo-leon-inversion-nuevas-empresas>Nuevo León se convierte en tierra de migrantes</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>16:26</span><a href=http://lasillarota.com/se-registra-otro-feminicidio-en-sinaloa-suman-28>Se registra otro feminicidio en Sinaloa; suman&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>16:02</span><a href=http://lasillarota.com/marchan-en-reforma-contra-el-abuso-sexual-infantil>Marchan en Reforma contra el abuso sexual infantil&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>15:30</span><a href=http://lasillarota.com/funcion-publica-de-mexico-refuerza-cooperacion-con-uruguay-y-argentina>Función Pública de México refuerza cooperación&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>15:20</span><a href=http://lasillarota.com/alfredo-castillo-es-acusado-por-cura-de-legitimizar-a-templarios>Alfredo Castillo es acusado por cura de legitimizar&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>14:46</span><a href=http://lasillarota.com/chicharito-y-bayer-ganan-ante-hertha-y-clasifican-a-champions-league>‘Chicharito’ y Bayer ganan ante Hertha y&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>14:30</span><a href=http://lasillarota.com/dia-del-nino-muy-importante-para-los-mexicanos>Día del Niño, muy importante para los mexicanos:&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>14:21</span><a href=http://lasillarota.com/abandonan-escuela-para-trabajar-59-mil-ninos-en-tamaulipas>Abandonan escuela para trabajar 59 mil niños&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>14:17</span><a href=http://lasillarota.com/edil-de-nuevo-leon-es-acusado-de-pactar-con-el-narco>Mauricio Fernández es acusado de pactar con&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>12:59</span><a href=http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc>‘Show mediático’ recolección de firmas&#8230;</a></h2><h2 class='linea-tiempo-contenido'><span class='linea-tiempo-hrs'>12:16</span><a href=http://lasillarota.com/actor-de-tv-azteca-fallece-tras-aventarse-del-piso-10-de-un-edificio>Actor de TV Azteca fallece tras aventarse del&#8230;</a></h2>        </div>
+        </div>
+                 
+    </div>
+
+    <div class="tab-pane content ampliadas" id="2">
+        <div class='columna relative'>
+        <div class="content-scroll">
+            <h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/mueren-4-ninos-y-su-abuela-por-inundaciones-en-texas"><img src="http://lasillarota.com/pub/uploads/thumbs/inundaciones_texas_mueren_cuatro_ninos_abuela_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>17:01</span>
+                    <a href=http://lasillarota.com/mueren-4-ninos-y-su-abuela-por-inundaciones-en-texas>Mueren 4 niños y su abuela, por inundaciones en Texas</a><br>
+                    Las tormentas que azotaron la parte sur de Texas entre&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/migrantes-nuevo-leon-inversion-nuevas-empresas"><img src="http://lasillarota.com/pub/uploads/thumbs/industria_nuevo_leon_migrantes_150x100.png" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>16:40</span>
+                    <a href=http://lasillarota.com/migrantes-nuevo-leon-inversion-nuevas-empresas>Nuevo León se convierte en tierra de migrantes</a><br>
+                    El delegado del Instituto Nacional de Migración,&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/se-registra-otro-feminicidio-en-sinaloa-suman-28"><img src="http://lasillarota.com/pub/uploads/thumbs/cuerpo_de_mujer_en_canal_de_navolato_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>16:26</span>
+                    <a href=http://lasillarota.com/se-registra-otro-feminicidio-en-sinaloa-suman-28>Se registra otro feminicidio en Sinaloa; suman 28</a><br>
+                    El cuerpo de una mujer con signos de violencia fue&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/marchan-en-reforma-contra-el-abuso-sexual-infantil"><img src="http://lasillarota.com/pub/uploads/thumbs/protestas_contra_abuso_sexual_infantil_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>16:02</span>
+                    <a href=http://lasillarota.com/marchan-en-reforma-contra-el-abuso-sexual-infantil>Marchan en Reforma contra el abuso sexual infantil </a><br>
+                    Padres de familia del colegio Montessori Matatena,&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/funcion-publica-de-mexico-refuerza-cooperacion-con-uruguay-y-argentina"><img src="http://lasillarota.com/pub/uploads/thumbs/funcion_publica_de_mexico_refuerza_cooperacion_con_uruguay_y_argentina_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>15:30</span>
+                    <a href=http://lasillarota.com/funcion-publica-de-mexico-refuerza-cooperacion-con-uruguay-y-argentina>Función Pública de México refuerza cooperación con Uruguay y Argentina</a><br>
+                    El funcionario explicó que el Banco Mundial está&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/alfredo-castillo-es-acusado-por-cura-de-legitimizar-a-templarios"><img src="http://lasillarota.com/pub/uploads/thumbs/alfredo_castillo_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>15:20</span>
+                    <a href=http://lasillarota.com/alfredo-castillo-es-acusado-por-cura-de-legitimizar-a-templarios>Alfredo Castillo es acusado por cura de legitimizar a templarios</a><br>
+                    José Luis Segura anunció su salida como párroco&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/chicharito-y-bayer-ganan-ante-hertha-y-clasifican-a-champions-league"><img src="http://lasillarota.com/pub/uploads/thumbs/chicharito_y_bayer_ganan_ante_hertha_y_clasifican_a_champions_league_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>14:46</span>
+                    <a href=http://lasillarota.com/chicharito-y-bayer-ganan-ante-hertha-y-clasifican-a-champions-league>‘Chicharito’ y Bayer ganan ante Hertha y clasifican a Champions League</a><br>
+                    A pesar que no pudo anotar en el partido de la jornada&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                    
+                    <span class='linea-tiempo-hrs'>14:30</span>
+                    <a href=http://lasillarota.com/dia-del-nino-muy-importante-para-los-mexicanos>Día del Niño, muy importante para los mexicanos: GCE</a><br>
+                    Para algunos el recuerdo de una bella infancia es&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/abandonan-escuela-para-trabajar-59-mil-ninos-en-tamaulipas"><img src="http://lasillarota.com/pub/uploads/thumbs/abandonan_escuela_para_trabajar_59_mil_ninos_en_tamaulipas_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>14:21</span>
+                    <a href=http://lasillarota.com/abandonan-escuela-para-trabajar-59-mil-ninos-en-tamaulipas>Abandonan escuela para trabajar 59 mil niños en Tamaulipas                                                                                                                                </a><br>
+                    Rolando Guevara González informó que hace cinco&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/edil-de-nuevo-leon-es-acusado-de-pactar-con-el-narco"><img src="http://lasillarota.com/pub/uploads/thumbs/edil_nl_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>14:17</span>
+                    <a href=http://lasillarota.com/edil-de-nuevo-leon-es-acusado-de-pactar-con-el-narco>Mauricio Fernández es acusado de pactar con los Beltrán Leyva</a><br>
+                    La dirección de Comunicación Social del municipio&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc"><img src="http://lasillarota.com/pub/uploads/thumbs/pan_y_pri_ven_como_show_mediatico_recoleccion_de_firmas_por_mc_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>12:59</span>
+                    <a href=http://lasillarota.com/pan-y-pri-ven-como-show-mediatico-recoleccion-de-firmas-por-mc>‘Show mediático’ recolección de firmas por MC: PAN y PRI</a><br>
+                    Movimiento Ciudadano ha recabado más de 7 mil firmas&#8230;</h2><h2 class='linea-tiempo-contenido'>
+                                         <a href="http://lasillarota.com/actor-de-tv-azteca-fallece-tras-aventarse-del-piso-10-de-un-edificio"><img src="http://lasillarota.com/pub/uploads/thumbs/actor_de_tv_azteca_fallece_tras_aventarse_del_piso_10_de_un_edificio_150x100.jpg" class="lo-esencial-ampliado" /></a>
+                    
+                    <span class='linea-tiempo-hrs'>12:16</span>
+                    <a href=http://lasillarota.com/actor-de-tv-azteca-fallece-tras-aventarse-del-piso-10-de-un-edificio>Actor de TV Azteca fallece tras aventarse del piso 10 de un edificio</a><br>
+                    Cristian Landon había cumplido 21 años el pasado&#8230;</h2>                          
+        </div> 
+        </div>
+    </div>
+
+    <div class="tab-pane content" id="3">
+        <div class="content-scroll">
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/civil-warmexico-">Civil War…México </a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/11-preguntas-del-cuidado-de-los-ojos">11 preguntas del cuidado de los ojos</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/5-ejercicios-para-aliviar-el-dolor-de-espalda">Cinco ejercicios para aliviar el dolor de espalda</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/fotogallery/ninos-actores-que-nos-robaron-el-corazon">Niños actores que nos robaron el corazón</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/se-acuesta-con-un-oso-de-unos-700-kilogramos-y-le-pasa-esto">Se acuesta con un oso de unos 700 kilogramos&#8230;</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/hombre-roba-banco-y-lanza-billetes-a-la-calle">Hombre roba banco y lanza billetes a la calle</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/dejan-a-tres-jovenes-golpeados-y-torturados-en-chilpancingo-">Dejan a tres jóvenes golpeados y torturados&#8230;</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/hombre-destroza-avion-con-excavadora-tras-ser-despedido">Hombre destroza avión con excavadora tras ser&#8230;</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/hombre-chino-detona-cohete-en-su-boca">Hombre chino detona cohete en su boca</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/bullying-que-detona-la-violencia-entre-ninos-y-ninas">Bullying, ¿qué detona la violencia entre niños&#8230;</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/salud-emocional-de-las-personas-con-obesidad">Salud emocional de las personas con obesidad</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/cinco-beneficios-de-practicar-yoga">Cinco beneficios de practicar yoga</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/fotogallery/redes-desprecian-a-ladypanda-con-memes-">Redes desprecian a #LadyPanda con memes </a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/policia-de-transito-coloca-arana-a-taxista-que-ayudaba-a-adulto-mayor-">Policía de tránsito coloca “araña” a taxista&#8230;</a></h2>
+              
+                          <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/multimedia/index/video/1/quien-es-la-mujer-que-saludo-a-epn-en-alemania">Quién es la mujer que saludó a EPN en Alemania</a></h2>
+              
+                         
+        </div>  
+    </div>
+
+</div>
+</div>
+</div><a class="button" href="http://lasillarota.com/categoria/lo-esencial" style="z-index: 9;">Ver más</a>
+
+</div>
+<div class='columna relative'>
+<div class="modulo lenguas-viperinas">
+  <img src="http://lasillarota.com/pub/theme/img/lenguas_viperinas.jpg" class="title" />
+  <div class="tabbable">
+     <div class="item first">
+    <div class='item'>
+<p><h4>PARA DESCALIFICARLOS </h4>o no, legisladores del PRI y del PAN han sembrado la teoría de que las organizaciones ciudadanas y académicas estuvieron de acuerdo en "bajar" la propuesta 3de3 del dictamen Anticorrupción a cambio de que de sus agrupaciones salga el coordinador...&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94725'>Leer más</a></p>
+</div>
+  </div>
+  
+  <div class="border-line-tab">
+    <div class="tab-content">               
+     <div class="tab-pane active content" id="1lomas">
+      <div class="content-scroll">
+        <div class='item'>
+<p><h4>MOVIMIENTO CIUDADANO </h4>intenta por todos los medios explicar las razones por las que se filtró el listado nominal que le entrega el Instituto Nacional Electoral y que por ley debe ser...&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94726'>Leer más</a></p>
+</div>
+<div class='item'>
+<p><h4>EL SENADOR DEL PAN, </h4>Ernesto Cordero, sorprendió a todos sus compañeros de bancada cuando llegó ayer a la reunión plenaria con una báscula y con un paquete de cigarros sin filtro....&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94727'>Leer más</a></p>
+</div>
+<div class='item'>
+<p><h4>QUIEN TAMBIÉN </h4>se quiere subir al debate nacional sobre la educación es la aspirante a la Presidencia de la República, Margarita Zavala, quien dijo en un foro de mujeres que...&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94728'>Leer más</a></p>
+</div>
+<div class='item'>
+<p><h4>EL GOBIERNO FEDERAL</h4>lanzó una iniciativa que promete ser exitosa y provocar un cambio en las decisiones y acciones de las mujeres en México. Se trata de un proyecto que Alejandra...&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94724'>Leer más</a></p>
+</div>
+<div class='item'>
+<p><h4>EN LA PROCURADURÍA</h4>General de la República el ambiente es, por decir lo menos, muy tenso. Resulta que para todos es sabido que la relación entre la Procuradora Arely Gómez y su...&nbsp;<a href='http://lasillarota.com/lenguasviperinas/0/94723'>Leer más</a></p>
+</div>
+                    
+      </div>                  
+    </div>
+
+  </div>
+</div>
+<a class="button" href="http://lasillarota.com/lenguasviperinas">MÁS LENGUAS VIPERINAS</a>
+</div>
+</div>
+ 
+</div><div class="modulolateral opinion" id="opinion-lateral">
+	<div class="fondo-gris titulo">Opinión</div>
+		<div class="tabbable">
+
+            <ul id="tabs_opinion" class="nav nav-tabs tab-over">
+              <li class="active"><a href="#op1" data-toggle="tab">COLUMNISTAS</a></li>
+              <li><a href="#op2" data-toggle="tab">MÁS VISTAS</a></li>
+              <li><a href="#op3" data-toggle="tab">MÁS ENVIADOS</a></li>
+            </ul>
+
+            <div class="border-line-tab">
+                <div class="tab-content">               
+					<div class="tab-pane active content" id="op1">
+                            <div class="content-scroll relative" style="min-height:100px">
+                                	  
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/UNICEF" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/unicef-logo_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/UNICEF"><h4 class="next">UNICEF</h4></a>
+				        <h5 class="columnistas-titulo-articulo">Algunos pendientes con la niñez mexicana</h5>
+				        <p>El silencio, el ocultamiento y la aprobación cómplice contribuyen a la persistencia y reproducción de la violencia contra la niñez.<br><a href="http://lasillarota.com/algunos-pendientes-con-la-ninez-mexicana/UNICEF">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Juan-Martin-Perez-Garcia" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/juan-martin-perez-garcia_140x193_pub-uploads-columnistas-Articulistas.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Juan-Martin-Perez-Garcia"><h4 class="next">Juan Martín Pérez García</h4></a>
+				        <h5 class="columnistas-titulo-articulo">Las tres muertes de Ángela </h5>
+				        <p>Lo que inicialmente se manejó como un sepelio discreto, se transformó en espectáculo político.<br><a href="http://lasillarota.com/las-tres-muertes-de-angela/Juan-Martin-Perez-Garcia">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Ulises_Ramos_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza"><h4 class="next">Ulises Sandal Ramos Koprivitza</h4></a>
+				        <h5 class="columnistas-titulo-articulo">La mariguana en México: Crimen y castigo o lege ferenda</h5>
+				        <p>Los retos que enfrenta México en seguridad, corrupción e impunidad guardan estrecha relación con el inadecuado marco normativo de las drogas.<br><a href="http://lasillarota.com/la-mariguana-en-mexico-crimen-y-castigo-o-lege-ferenda/Ulises-Sandal-Ramos-Koprivitza">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Videocolumna" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/videocolumna_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Videocolumna"><h4 class="next">Videocolumna</h4></a>
+				        <h5 class="columnistas-titulo-articulo">Las mascotas ayudan al desarrollo de los niños</h5>
+				        <p>Entrevista con Édgar Islas Calderón, médico veterinario zootecnista.<br><a href="http://lasillarota.com/las-mascotas-ayudan-al-desarrollo-de-los-ninos/Videocolumna">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Mariana-Campos" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/mariana-campos.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Mariana-Campos"><h4 class="next">Mariana Campos </h4></a>
+				        <h5 class="columnistas-titulo-articulo">'Los intocables'</h5>
+				        <p>El Sistema Nacional Anticorrupción debe hacer posible investigar la corrupción?<br><a href="http://lasillarota.com/los-intocables2/Mariana-Campos">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Luis-Faras-Mackey" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/LuisFaríasMackey_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Luis-Faras-Mackey"><h4 class="next">Luis Farías Mackey</h4></a>
+				        <h5 class="columnistas-titulo-articulo">El juego que todos jugamos</h5>
+				        <p>Nuestro sistema electoral ha caído en el peor de los desdoros.<br><a href="http://lasillarota.com/el-juego-que-todos-jugamos/Luis-Faras-Mackey">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/CarlaHumphrey_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan"><h4 class="next">Carla A. Humphrey Jordan </h4></a>
+				        <h5 class="columnistas-titulo-articulo">#VivasNosQueremos</h5>
+				        <p>La violencia basada en género es una forma de discriminación contra las mujeres.<br><a href="http://lasillarota.com/vivasnosqueremos/Carla-A-Humphrey-Jordan">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/alejandro-encinas-n.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera"><h4 class="next">Alejandro Encinas Nájera</h4></a>
+				        <h5 class="columnistas-titulo-articulo">CDMX: Constituyendo entre contradicciones</h5>
+				        <p>Lo que ahora está en juego es de gran calado: el tipo de ciudad que queremos. <br><a href="http://lasillarota.com/cdmx-constituyendo-entre-contradicciones/Alejandro-Encinas-Najera">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Joel-Salas-Suarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/joel-salas-suarez_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Joel-Salas-Suarez"><h4 class="next">Joel Salas Suárez</h4></a>
+				        <h5 class="columnistas-titulo-articulo">#EstadoAbiertoMx, ¿un movimiento nacional?</h5>
+				        <p>Los resultados de un gobierno abierto son muy positivos.<br><a href="http://lasillarota.com/estadoabiertomx-un-movimiento-nacional/Joel-Salas-Suarez">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Fred-Alvarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/144_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Fred-Alvarez"><h4 class="next">Fred Alvarez</h4></a>
+				        <h5 class="columnistas-titulo-articulo">El video de Tomás Zerón</h5>
+				        <p>¿Pero qué necesidad...?: Juan Gabriel.<br><a href="http://lasillarota.com/el-video-de-tomas-zeron/Fred-Alvarez">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/116_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar"><h4 class="next">Simón Vargas Aguilar</h4></a>
+				        <h5 class="columnistas-titulo-articulo">Minería ilegal: Otra vertiente del crimen organizado (II)</h5>
+				        <p>La creciente competencia por el comercio de drogas ha generado la búsqueda de fuentes alternativas de financiamiento.<br><a href="http://lasillarota.com/mineria-ilegal-otra-vertiente-del-crimen-organizado-ii/Simon-Vargas-Aguilar">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/fernando-naranjobn_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo"><h4 class="next">Fernando Díaz Naranjo </h4></a>
+				        <h5 class="columnistas-titulo-articulo">Listado nominal y protección de datos personales</h5>
+				        <p>La situación dada por la filtración del listado nominal abre la posibilidad endurecer ejemplarmente las sanciones que correspondan.<br><a href="http://lasillarota.com/listado-nominal-y-proteccion-de-datos-personales/Fernando-Diaz-Naranjo">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Consultoria-Politica" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/JoseASosaPlata_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Consultoria-Politica"><h4 class="next">Consultoría Política</h4></a>
+				        <h5 class="columnistas-titulo-articulo">¿Un nuevo #BigBrother?</h5>
+				        <p>Las #RedesSociales son una herramienta para los movimientos<br><a href="http://lasillarota.com/un-nuevo-bigbrother/Consultoria-Politica">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Agustin-Castilla" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Agustín Castilla_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Agustin-Castilla"><h4 class="next">Agustín Castilla</h4></a>
+				        <h5 class="columnistas-titulo-articulo">Pongamos un alto al machismo</h5>
+				        <p>Es indispensable poner un alto al machismo y el primer paso empieza por la educación en casa.<br><a href="http://lasillarota.com/pongamos-un-alto-al-machismo/Agustin-Castilla">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Ricardo-Alemn" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/RicardoAleman_140x193.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Ricardo-Alemn"><h4 class="next">Ricardo Alemán </h4></a>
+				        <h5 class="columnistas-titulo-articulo">¿Dónde están, si no hay evidencia de que están muertos?</h5>
+				        <p>Descabellada la teoría propuesta por los señores expertos del GIEI.<br><a href="http://lasillarota.com/donde-estan-si-no-hay-evidencia-de-que-estan-muertos/Ricardo-Alemn">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Francisco-Rivas-Rodriguez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/FranciascoRivas_140x193_pub-uploads-Columnistas Ok.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Francisco-Rivas-Rodriguez"><h4 class="next">Francisco Rivas Rodríguez</h4></a>
+				        <h5 class="columnistas-titulo-articulo">La violencia contra la mujer, ni escuchada ni reconocida</h5>
+				        <p>El ONC realizó el estudio: "Homicidio: una mirada a la violencia en México" y de los resultados envío una carta al secretario de gobernación Osorio<br><a href="http://lasillarota.com/la-violencia-contra-la-mujer-ni-escuchada-ni-reconocida/Francisco-Rivas-Rodriguez">leer más...</a></p>
+				    </div>
+				</div>
+								<div class="item wrapper">
+				    <a href="#" class="button" ></a>
+				    <a href="http://lasillarota.com/autor/Julio-Castillo-Lopez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/109_140x193_pub-uploads-Chac-columnistas.jpg"></a>
+				    <div class="wrapper">
+				        <a href="http://lasillarota.com/autor/Julio-Castillo-Lopez"><h4 class="next">Julio Castillo López </h4></a>
+				        <h5 class="columnistas-titulo-articulo">Mal humor social</h5>
+				        <p>¿Qué tiene a los mexicanos de “mal humor”?<br><a href="http://lasillarota.com/mal-humor-social/Julio-Castillo-Lopez">leer más...</a></p>
+				    </div>
+				</div>
+				                             
+                            </div>                  
+					</div>
+	                
+	                <div class="tab-pane content" id="op2">
+                        <div class="content-scroll">
+                            <div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Luis-Faras-Mackey" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/LuisFaríasMackey_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Luis-Faras-Mackey"><h4 class="next">Luis Farías Mackey</h4></a>
+                <h5 class="columnistas-titulo-articulo">El juego que todos jugamos</h5>
+                 <p>Nuestro sistema electoral ha caído en el peor de los desdoros. <a href="http://lasillarota.com/el-juego-que-todos-jugamos/Luis-Faras-Mackey">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Fred-Alvarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/144_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Fred-Alvarez"><h4 class="next">Fred Alvarez</h4></a>
+                <h5 class="columnistas-titulo-articulo">El video de Tomás Zerón</h5>
+                 <p>¿Pero qué necesidad...?: Juan Gabriel. <a href="http://lasillarota.com/el-video-de-tomas-zeron/Fred-Alvarez">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/116_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar"><h4 class="next">Simón Vargas Aguilar</h4></a>
+                <h5 class="columnistas-titulo-articulo">Minería ilegal: Otra vertiente del crimen organizado (II)</h5>
+                 <p>La creciente competencia por el comercio de drogas ha generado la búsqueda de fuentes alternativas de financiamiento. <a href="http://lasillarota.com/mineria-ilegal-otra-vertiente-del-crimen-organizado-ii/Simon-Vargas-Aguilar">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Juan-Martin-Perez-Garcia" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/juan-martin-perez-garcia_140x193_pub-uploads-columnistas-Articulistas.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Juan-Martin-Perez-Garcia"><h4 class="next">Juan Martín Pérez García</h4></a>
+                <h5 class="columnistas-titulo-articulo">Las tres muertes de Ángela </h5>
+                 <p>Lo que inicialmente se manejó como un sepelio discreto, se transformó en espectáculo político. <a href="http://lasillarota.com/las-tres-muertes-de-angela/Juan-Martin-Perez-Garcia">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/fernando-naranjobn_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo"><h4 class="next">Fernando Díaz Naranjo </h4></a>
+                <h5 class="columnistas-titulo-articulo">Listado nominal y protección de datos personales</h5>
+                 <p>La situación dada por la filtración del listado nominal abre la posibilidad endurecer ejemplarmente las sanciones que correspondan. <a href="http://lasillarota.com/listado-nominal-y-proteccion-de-datos-personales/Fernando-Diaz-Naranjo">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Joel-Salas-Suarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/joel-salas-suarez_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Joel-Salas-Suarez"><h4 class="next">Joel Salas Suárez</h4></a>
+                <h5 class="columnistas-titulo-articulo">#EstadoAbiertoMx, ¿un movimiento nacional?</h5>
+                 <p>Los resultados de un gobierno abierto son muy positivos. <a href="http://lasillarota.com/estadoabiertomx-un-movimiento-nacional/Joel-Salas-Suarez">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Consultoria-Politica" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/JoseASosaPlata_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Consultoria-Politica"><h4 class="next">Consultoría Política</h4></a>
+                <h5 class="columnistas-titulo-articulo">¿Un nuevo #BigBrother?</h5>
+                 <p>Las #RedesSociales son una herramienta para los movimientos <a href="http://lasillarota.com/un-nuevo-bigbrother/Consultoria-Politica">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Mariana-Campos" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/mariana-campos.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Mariana-Campos"><h4 class="next">Mariana Campos </h4></a>
+                <h5 class="columnistas-titulo-articulo">'Los intocables'</h5>
+                 <p>El Sistema Nacional Anticorrupción debe hacer posible investigar la corrupción? <a href="http://lasillarota.com/los-intocables2/Mariana-Campos">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/CarlaHumphrey_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan"><h4 class="next">Carla A. Humphrey Jordan </h4></a>
+                <h5 class="columnistas-titulo-articulo">#VivasNosQueremos</h5>
+                 <p>La violencia basada en género es una forma de discriminación contra las mujeres. <a href="http://lasillarota.com/vivasnosqueremos/Carla-A-Humphrey-Jordan">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/alejandro-encinas-n.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera"><h4 class="next">Alejandro Encinas Nájera</h4></a>
+                <h5 class="columnistas-titulo-articulo">CDMX: Constituyendo entre contradicciones</h5>
+                 <p>Lo que ahora está en juego es de gran calado: el tipo de ciudad que queremos.  <a href="http://lasillarota.com/cdmx-constituyendo-entre-contradicciones/Alejandro-Encinas-Najera">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Agustin-Castilla" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Agustín Castilla_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Agustin-Castilla"><h4 class="next">Agustín Castilla</h4></a>
+                <h5 class="columnistas-titulo-articulo">Pongamos un alto al machismo</h5>
+                 <p>Es indispensable poner un alto al machismo y el primer paso empieza por la educación en casa. <a href="http://lasillarota.com/pongamos-un-alto-al-machismo/Agustin-Castilla">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Ulises_Ramos_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza"><h4 class="next">Ulises Sandal Ramos Koprivitza</h4></a>
+                <h5 class="columnistas-titulo-articulo">La mariguana en México: Crimen y castigo o lege ferenda</h5>
+                 <p>Los retos que enfrenta México en seguridad, corrupción e impunidad guardan estrecha relación con el inadecuado marco normativo de las drogas. <a href="http://lasillarota.com/la-mariguana-en-mexico-crimen-y-castigo-o-lege-ferenda/Ulises-Sandal-Ramos-Koprivitza">leer más...</a></p>
+            </div>
+</div>
+                               
+                        </div>  
+	                </div>
+	                
+	                <div class="tab-pane content" id="op3">
+                        <div class="content-scroll">
+                           <div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Mariana-Campos" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/mariana-campos.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Mariana-Campos"><h4 class="next">Mariana Campos </h4></a>
+                <h5 class="columnistas-titulo-articulo">'Los intocables'</h5>
+                 <p>El Sistema Nacional Anticorrupción debe hacer posible investigar la corrupción? <a href="http://lasillarota.com/los-intocables2/Mariana-Campos">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Joel-Salas-Suarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/joel-salas-suarez_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Joel-Salas-Suarez"><h4 class="next">Joel Salas Suárez</h4></a>
+                <h5 class="columnistas-titulo-articulo">#EstadoAbiertoMx, ¿un movimiento nacional?</h5>
+                 <p>Los resultados de un gobierno abierto son muy positivos. <a href="http://lasillarota.com/estadoabiertomx-un-movimiento-nacional/Joel-Salas-Suarez">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Consultoria-Politica" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/JoseASosaPlata_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Consultoria-Politica"><h4 class="next">Consultoría Política</h4></a>
+                <h5 class="columnistas-titulo-articulo">¿Un nuevo #BigBrother?</h5>
+                 <p>Las #RedesSociales son una herramienta para los movimientos <a href="http://lasillarota.com/un-nuevo-bigbrother/Consultoria-Politica">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/116_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Simon-Vargas-Aguilar"><h4 class="next">Simón Vargas Aguilar</h4></a>
+                <h5 class="columnistas-titulo-articulo">Minería ilegal: Otra vertiente del crimen organizado (II)</h5>
+                 <p>La creciente competencia por el comercio de drogas ha generado la búsqueda de fuentes alternativas de financiamiento. <a href="http://lasillarota.com/mineria-ilegal-otra-vertiente-del-crimen-organizado-ii/Simon-Vargas-Aguilar">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Agustin-Castilla" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Agustín Castilla_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Agustin-Castilla"><h4 class="next">Agustín Castilla</h4></a>
+                <h5 class="columnistas-titulo-articulo">Pongamos un alto al machismo</h5>
+                 <p>Es indispensable poner un alto al machismo y el primer paso empieza por la educación en casa. <a href="http://lasillarota.com/pongamos-un-alto-al-machismo/Agustin-Castilla">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Fred-Alvarez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/144_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Fred-Alvarez"><h4 class="next">Fred Alvarez</h4></a>
+                <h5 class="columnistas-titulo-articulo">El video de Tomás Zerón</h5>
+                 <p>¿Pero qué necesidad...?: Juan Gabriel. <a href="http://lasillarota.com/el-video-de-tomas-zeron/Fred-Alvarez">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/fernando-naranjobn_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Fernando-Diaz-Naranjo"><h4 class="next">Fernando Díaz Naranjo </h4></a>
+                <h5 class="columnistas-titulo-articulo">Listado nominal y protección de datos personales</h5>
+                 <p>La situación dada por la filtración del listado nominal abre la posibilidad endurecer ejemplarmente las sanciones que correspondan. <a href="http://lasillarota.com/listado-nominal-y-proteccion-de-datos-personales/Fernando-Diaz-Naranjo">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Luis-Faras-Mackey" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/LuisFaríasMackey_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Luis-Faras-Mackey"><h4 class="next">Luis Farías Mackey</h4></a>
+                <h5 class="columnistas-titulo-articulo">El juego que todos jugamos</h5>
+                 <p>Nuestro sistema electoral ha caído en el peor de los desdoros. <a href="http://lasillarota.com/el-juego-que-todos-jugamos/Luis-Faras-Mackey">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/CarlaHumphrey_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Carla-A-Humphrey-Jordan"><h4 class="next">Carla A. Humphrey Jordan </h4></a>
+                <h5 class="columnistas-titulo-articulo">#VivasNosQueremos</h5>
+                 <p>La violencia basada en género es una forma de discriminación contra las mujeres. <a href="http://lasillarota.com/vivasnosqueremos/Carla-A-Humphrey-Jordan">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/Articulistas/alejandro-encinas-n.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Alejandro-Encinas-Najera"><h4 class="next">Alejandro Encinas Nájera</h4></a>
+                <h5 class="columnistas-titulo-articulo">CDMX: Constituyendo entre contradicciones</h5>
+                 <p>Lo que ahora está en juego es de gran calado: el tipo de ciudad que queremos.  <a href="http://lasillarota.com/cdmx-constituyendo-entre-contradicciones/Alejandro-Encinas-Najera">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Videocolumna" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/videocolumna_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Videocolumna"><h4 class="next">Videocolumna</h4></a>
+                <h5 class="columnistas-titulo-articulo">Las mascotas ayudan al desarrollo de los niños</h5>
+                 <p>Entrevista con Édgar Islas Calderón, médico veterinario zootecnista. <a href="http://lasillarota.com/las-mascotas-ayudan-al-desarrollo-de-los-ninos/Videocolumna">leer más...</a></p>
+            </div>
+</div>
+<div class="item  wrapper">
+    <a href="#" class="button"></a>
+        <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Ulises_Ramos_140x193.jpg"></a>
+        
+    <div class="wrapper">
+    	        <a href="http://lasillarota.com/autor/Ulises-Sandal-Ramos-Koprivitza"><h4 class="next">Ulises Sandal Ramos Koprivitza</h4></a>
+                <h5 class="columnistas-titulo-articulo">La mariguana en México: Crimen y castigo o lege ferenda</h5>
+                 <p>Los retos que enfrenta México en seguridad, corrupción e impunidad guardan estrecha relación con el inadecuado marco normativo de las drogas. <a href="http://lasillarota.com/la-mariguana-en-mexico-crimen-y-castigo-o-lege-ferenda/Ulises-Sandal-Ramos-Koprivitza">leer más...</a></p>
+            </div>
+</div>
+                         
+                        </div>  
+	                </div>
+     
+                </div>
+            </div>   
+		</div>
+ <a class="buttonver" href="http://lasillarota.com/categoria/opinion">VER TODOS LOS COLUMNISTAS</a>   
+</div><div id="modulo-lo-mas" class="modulolateral">
+	<div class="fondo-gris titulo">LO MÁS</div>
+		<div class="tabbable">
+
+            <ul id="tabs_lomas" class="nav nav-tabs tab-over">
+              <li class="active"><a href="#2s" data-toggle="tab">VISTO</a></li>
+              <li><a href="#1s" data-toggle="tab">ENVIADO</a></li>
+              <li><a href="#3s" data-toggle="tab">COMENTADO</a></li>
+            </ul>
+
+            <div class="border-line-tab">
+                <div class="tab-content">               
+					<div class="tab-pane content" id="1s">
+                            <div class="content-scroll">
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/los-intocables2">'Los intocables'</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/pronostican-temperaturas-superiores-a-los-40-grados-en-9-estados">Pronostican temperaturas superiores a los 40&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/estadoabiertomx-un-movimiento-nacional">#EstadoAbiertoMx, ¿un movimiento nacional?</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/un-nuevo-bigbrother">¿Un nuevo #BigBrother?</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/mineria-ilegal-otra-vertiente-del-crimen-organizado-ii">Minería ilegal: Otra vertiente del crimen organizado&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/pongamos-un-alto-al-machismo">Pongamos un alto al machismo</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/el-cantante-prince-sufria-panico-escenico">El cantante Prince sufría pánico escénico</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/el-video-de-tomas-zeron">El video de Tomás Zerón</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/listado-nominal-y-proteccion-de-datos-personales">Listado nominal y protección de datos personales</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/prevaleceran-temperaturas-calidas-en-el-vallede-mexico">Prevalecerán temperaturas cálidas en el Valle&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/preven-al-menos-dos-manifestaciones-en-la-ciudad-demexico">Prevén al menos dos manifestaciones en la Ciudad&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/mancera-confia-en-buenos-resultados-de-cero-rechazados">Mancera confía en buenos resultados de ‘Cero&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/reportan-mala-calidad-del-aire-en-tres-zonas-del-valle-de-mexico">Reportan ‘mala’ calidad del aire en tres&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/cdmx-sera-sede-del-congreso-fifa-2016-en-mayo">CDMX será sede del Congreso FIFA 2016 en mayo</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/suben-precios-de-petroleo-tras-previsiones-de-la-fed">Suben precios de petróleo tras previsiones de&#8230;</a></h2>
+                                                                                   
+                            </div>                  
+					</div>
+	                
+	                <div class="tab-pane active content" id="2s">
+                            <div class="content-scroll">
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/con-sus-atributos-al-aire-se-convierte-en-ladycocos">Con sus atributos al aire se convierte en #LadyCocos&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/joven-embarazada-asalta-camion-y-le-disparan-en-edomex">Joven embarazada asalta camión y le disparan&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/hospitalizan-a-fernanda-castro-hija-de-angelica-rivera">Hospitalizan a Fernanda Castro, hija de Angélica&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/cheran-el-pueblo-que-demostro-que-pudo-ser-autosuficiente">Cherán: el pueblo que demostró que pudo ser&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/muere-actriz-de-tv-azteca-tras-accidente-en-moto">Muere actriz de TV Azteca tras accidente en moto</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/ladyplacas-a-policia-si-llamas-a-la-grua-digo-que-me-querias-violar">#LadyPlacas: ‘si llamas a grúa digo que me&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/el-juego-que-todos-jugamos">El juego que todos jugamos</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/caso-sanjuana-ortega-enfrenta-a-gomez-leyva-y-levario">Caso Sanjuana-Ortega enfrenta a Gómez Leyva&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/audios-involucran-a-mancera-en-negocio-inmobiliario-de-yunes-marquez">Audios involucran a Mancera en negocio inmobiliario&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/video-beyonce-sube-a-dos-fans-a-bailar-single-ladies-con-ella">Video: Beyoncé sube a dos fans a bailar 'Single&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/mientras-no-hagamos-dano-somos-invisibles-para-la-sociedad">‘Mientras no hagamos daño, somos invisibles&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/video-vocalista-de-pxndx-se-limpia-besos-de-fans">VIDEO: Vocalista de PXNDX se limpia besos de&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/ladiesdeinternet-actos-nefastos-las-hicieron-famosas">#LadiesDeInternet, actos nefastos las hicieron&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/investigaran-a-laura-bozzo-por-llamar-a-no-votar-por-el-prd">Investigarán a Laura Bozzo por llamar a no votar&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/no-me-limpie-besos-me-limpie-labial-pepe-madero">‘No me limpié besos, me limpié labial’:&#8230;</a></h2>
+                                                                                              
+                            </div>  
+	                </div>
+	                
+	                <div class="tab-pane content" id="3s">
+                            <div class="content-scroll">
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/ladyplacas-a-policia-si-llamas-a-la-grua-digo-que-me-querias-violar">#LadyPlacas: ‘si llamas a grúa digo que me&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/cdmx-constituyendo-entre-contradicciones">CDMX: Constituyendo entre contradicciones</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/con-sus-atributos-al-aire-se-convierte-en-ladycocos">Con sus atributos al aire se convierte en #LadyCocos&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/investigaran-a-laura-bozzo-por-llamar-a-no-votar-por-el-prd">Investigarán a Laura Bozzo por llamar a no votar&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/los-intocables2">'Los intocables'</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/mineria-ilegal-otra-vertiente-del-crimen-organizado-ii">Minería ilegal: Otra vertiente del crimen organizado&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/el-video-de-tomas-zeron">El video de Tomás Zerón</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/hospitalizan-a-fernanda-castro-hija-de-angelica-rivera">Hospitalizan a Fernanda Castro, hija de Angélica&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/paciente-denuncia-violacion-en-centro-de-rehabilitacion-de-queretaro">Paciente denuncia violación en centro de rehabilitación&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/el-juego-que-todos-jugamos">El juego que todos jugamos</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/en-caso-ayotzinapa-a-quien-protege-el-gobierno-the-economist">¿En caso Ayotzinapa, a quién protege el gobierno?:&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/ladiesdeinternet-actos-nefastos-las-hicieron-famosas">#LadiesDeInternet, actos nefastos las hicieron&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/video-vocalista-de-pxndx-se-limpia-besos-de-fans">VIDEO: Vocalista de PXNDX se limpia besos de&#8230;</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/no-renunciare-a-mi-cargo-en-la-pgr-tomas-zeron">No renunciaré a mi cargo en la PGR: Tomás Zerón</a></h2>
+                                                                        
+                                        <h2 class="linea-tiempo-contenido"><a href="http://lasillarota.com/audios-involucran-a-mancera-en-negocio-inmobiliario-de-yunes-marquez">Audios involucran a Mancera en negocio inmobiliario&#8230;</a></h2>
+                                                     
+                            </div>  
+	                </div>
+     
+                </div>
+            </div>
+            
+		</div>
+</div><div class="la-gente-opina modulo lateral relative">
+
+	   
+
+	<div id="contenidoEncuesta-lateral">
+	<input type="hidden" name="encuesta" id="encuesta_id" value="60">
+	<div class="fondo-gris titulo">USTEDES OPINAN</div>
+	<div class="fondo-rosa">
+		<h3>¿Tomás Zerón debe dejar investigación del caso Ayotzinapa?</h3>
+	</div>
+	
+		<div class="respuestas">
+	 <div class="inner">
+		<ul>
+							<li>
+					<input type="radio" name="votar_encuesta" id="respuesta-0" value="188" id="">
+					<label for="respuesta-0">no</label>
+				</li>				
+							<li>
+					<input type="radio" name="votar_encuesta" id="respuesta-1" value="189" id="">
+					<label for="respuesta-1">si</label>
+				</li>				
+					</ul>
+		<div class="links">
+			<a href="" class="button resultados" posicion="lateral">VER RESULTADOS</a>
+			<a href="" class="votar" posicion="lateral">VOTAR</a>
+		</div>
+	  </div>
+	</div>
+	
+		 <a class="button_vertodo" href="http://lasillarota.com/lagenteopina">Ver todos los sondeos</a>
+</div>
+  
+</div>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='revista-barrio-digital publicidad'>
+<div class='slide' id='2577' impreso='no' click='no' pause='6000'>
+<a href='http://www.barrio.com.mx/' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/Barrio.gif' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.revista-barrio-digital{
+height:300px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='sumedico-institucional publicidad'>
+<div class='slide' id='2608' impreso='no' click='no' pause='6000'>
+<a href='http://sumedico.com/' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/luis/2016/enero/enero1/ecocidio/PROMO-MEDICO-SILLA.gif' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.sumedico-institucional{
+height:300px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='gif-estados- publicidad'>
+<div class='slide' id='2538' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.com/categoria/Estados' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/JGM/2015/Banners/gif_portales.gif' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.gif-estados-{
+height:200px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='primeras-planas-banner publicidad'>
+<div class='slide' id='375' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.mx/primerasplanas' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/Primeras Planas/primeras_planas_300x90.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.primeras-planas-banner{
+height:90px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='columnas-de-hoy-banner publicidad'>
+<div class='slide' id='265' impreso='no' click='no' pause='6000'>
+<a href='http://lasillarota.mx/columnasdehoy' class='' target='_blank'><img src='http://lasillarota.com/pub/uploads/columnas_de_hoy/Banner Columnas de Hoy/columnas_300x90.jpg' class='imagen'></a></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.columnas-de-hoy-banner{
+height:90px;
+}
+</style>
+<div class="modulolateral asiveo">
+  <div class="fondo-gris titulo">
+    ASÍ VEO MÉXICO
+    <p>Voces jóvenes desde el extranjero</p>
+  </div>
+    <div class="tabbable relative">
+            <div class="border-line-tab">
+                <div class="tab-content">               
+                  <div class="tab-pane active content" >
+                    <div class="content-scroll">
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Fernando-A-Mora-Davila" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/fernando_a_mora_davila_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Fernando-A-Mora-Davila"><h4>Fernando A. Mora Dávila</h4></a>
+                                  <h5>Willkommen presidente&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/willkommen-presidente-pena-nieto/Fernando-A-Mora-Davila">Malos modales hablar de violaciones a los derechos humanos cuando se están haciendo negocios.</a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Gloria-Guerrero-Martinez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/gloria-guerrero-martinez_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Gloria-Guerrero-Martinez"><h4>Gloria Guerrero Martínez</h4></a>
+                                  <h5>Berlín y los muros&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/berlin-y-los-muros-pendientes-por-derribar/Gloria-Guerrero-Martinez">El sentimiento de temor y desconcierto no se supera.</a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/tito-garza-onofre_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre"><h4>Tito Garza Onofre </h4></a>
+                                  <h5>Sobre lo ocurrido&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/sobre-lo-ocurrido-en-bruselas/Tito-Garza-Onofre">En sintonía con los atentados yihadistas en Paris, los lamentables hechos ocurridos en Bruselas develan, una Europa “en guerra”. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Roberto-Velasco" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Roberto_velasco_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Roberto-Velasco"><h4>Roberto Velasco </h4></a>
+                                  <h5>Patti Solis Doyle</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/patti-solis-doyle/Roberto-Velasco">Una perspectiva latina de la política americana.
+ </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Miguel-Garcia-Martinez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Miguel_Garcia_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Miguel-Garcia-Martinez"><h4>Miguel García Martínez&#8230;</h4></a>
+                                  <h5>De voluntarios y&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/de-voluntarios-y-refugiados-en-alemania/Miguel-Garcia-Martinez">Son 5 millones de personas en calidad de refugiados, una mayoría en Alemania. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/tito-garza-onofre_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre"><h4>Tito Garza Onofre </h4></a>
+                                  <h5>Maná en Argentina</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/mana-en-argentina/Tito-Garza-Onofre">¿Cuál es el problema con Maná? ¿Qué carajos le pasó Maná? </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Roberto-Velasco" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/Roberto_velasco_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Roberto-Velasco"><h4>Roberto Velasco </h4></a>
+                                  <h5>Llegó el Súper&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/llego-el-super-martes/Roberto-Velasco">Hsta el 20 de febrero la candidata con mayor recaudación y disponibilidad de fondos era Hillary Clinton. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Alejandrina-Mercado-Olivares" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/alejandrina-mercado_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Alejandrina-Mercado-Olivares"><h4>Alejandrina Mercado&#8230;</h4></a>
+                                  <h5>Tecnología llega&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/tecnologia-llega-al-futbol-holandes/Alejandrina-Mercado-Olivares">El incremento en los errores arbitrales exhibe no sólo el desconocimiento del reglamento sino la falta de recursos.</a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Adriana-Garcia-Garcia" class="imagen"><img src="http://lasillarota.com/pub/uploads/columnistas/AsiVeoMx/adriana-garcia.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Adriana-Garcia-Garcia"><h4>Adriana García García</h4></a>
+                                  <h5>Una constitución&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/una-constitucion-para-la-ciudad-de-mexico/Adriana-Garcia-Garcia">¿Más derechos para los capitalinos?</a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Aina-Lucia-Cortes-Cortes" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/aina-lucia-cortes-cortes_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Aina-Lucia-Cortes-Cortes"><h4>Aina Lucía Cortés&#8230;</h4></a>
+                                  <h5>El candombe y la&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/el-candombe-y-la-presencia-afrodescendiente-en-uruguay/Aina-Lucia-Cortes-Cortes">Candombe es el sonido particular de tres diferentes tambores: Piano, Repique y Chico.</a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Gloria-Guerrero-Martinez" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/gloria-guerrero-martinez_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Gloria-Guerrero-Martinez"><h4>Gloria Guerrero Martínez</h4></a>
+                                  <h5>¿Porque no conocemos&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/porque-no-conocemos-a-ladyberlin/Gloria-Guerrero-Martinez">Cuando el “gandallismo” es lo que impera en el espacio público, la situación deja de ser chistosa. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Ricardo-Miranda-Medina" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/ricardo-miranda-medina_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Ricardo-Miranda-Medina"><h4>Ricardo Miranda Medina</h4></a>
+                                  <h5>El miedo del PRI&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/el-miedo-del-pri-y-la-desesperacion-del-pan/Ricardo-Miranda-Medina">Ante la propuesta de Beltrones, el tabasqueño adoptó una postura de mero rechazo señalando que “es como otro desafuero”. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                  <div class="item wrapper ">
+
+                              <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre" class="imagen"><img src="http://lasillarota.com/pub/uploads/thumbs/tito-garza-onofre_140x193.jpg"></a>
+                              <div class="wrapper">
+                                  <a href="http://lasillarota.com/autorasiveo/Tito-Garza-Onofre"><h4>Tito Garza Onofre </h4></a>
+                                  <h5>El PRI y el PRO.&#8230;</h5>
+                                  <div class="linea-div"></div>
+                                  <p><a href="http://lasillarota.com/el-pri-y-el-pro-fox-y-macri/Tito-Garza-Onofre">La desconfianza que me genera Macri, quizás sea también ya que me recuerda a Vicente Fox. </a></p>
+                              </div>
+                          </div>
+                          <div class="line-down"></div>
+                                                
+                    </div>                  
+                  </div>
+                  
+                </div>
+            </div>
+            <a class="button" href="http://lasillarota.com/categoria/asiveo">VER TODOS LOS COLUMNISTAS</a>
+    </div>
+</div>
+<div id="modulo-en-las-redes-sociales" class="modulo">
+	<div class="fondo-gris titulo">EN LAS REDES SOCIALES</div>
+		<div class="tabbable">
+
+            <ul id="tabs_enlasredes" class="nav nav-tabs tab-over">
+              <li class="active"><a href="#1enlasredes" id="facebook" data-toggle="tab"><span> </span>FACEBOOK</a></li>
+              <li><a href="#2enlasredes" id="twitter" data-toggle="tab"><span> </span>TWITTER</a></li>
+<!--               <li><a href="#3enlasredes" id="dicenlasredes" data-toggle="tab"><span> </span>DICEN LAS REDES</a></li>
+ -->            </ul>
+<!-- 
+                    <div class="fondo-rosa">
+                        <div class="texto-1">200000 PERSONAS COMPARTIERON</div>
+                        <div class="texto-2">SAT publicará a partir de mañana lista de contribuyentes incumplidos</div>
+                    </div>  -->
+
+            <div class="border-line-tab">
+                <div class="tab-content">
+
+					<div class="tab-pane active" id="1enlasredes">
+                        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FLa-Silla-Rota%2F249232245162966&amp;width=300&amp;height=300&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=false&amp;data-width=100" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:285px; height:300px;" allowTransparency="true"></iframe>
+					</div>
+	                
+	                <div class="tab-pane" id="2enlasredes">
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/lasillarota" data-widget-id="431606109619499008">Tweets por @lasillarota</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                    
+                    </div>
+	                
+                </div>
+            </div>
+            
+		</div>
+</div><div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='comscore publicidad'>
+<div class='slide' id='114' impreso='no' click='no' pause='6000'>
+<img src='http://lasillarota.com/pub/uploads/Publicidad/Promos/comscore.png' class='imagen'></div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.comscore{
+height:60px;
+}
+</style>
+<div class='columna relative naranja'>
+<div class='modulo modulo-publicidad'><div class='prensa publicidad'>
+<div class='slide' id='726' impreso='no' click='no' pause='6000'>
+<div class="imagen"><object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='234' height='60'>
+<param name='movie' value='http://lasillarota.com/pub/uploads/Publicidad/sip/234x60span.swf' />
+<!--[if !IE]>-->
+<object type='application/x-shockwave-flash' data='http://lasillarota.com/pub/uploads/Publicidad/sip/234x60span.swf' width='234' height='60'>
+<!--<![endif]-->
+<p>Contenido Alternativo</p>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='output'></div><style>
+.prensa{
+height:60px;
+}
+</style>
+ 
+</div>
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="span12">
+                        <div id="modulo-footer">
+
+                            <div class="superior wrapper">
+                                <div id="logo-silla-footer"><a href="http://lasillarota.com/">LA SILLA ROTA</a></div>
+                                <div id="menu-footer">
+                                    <ul>
+                                        <li><a href="">contáctanos</a></li>
+                                        <li><a href="">Regístrate</a></li>
+                                        <li><a href="http://lasillarota.com/contenido/anunciate">anúnciate</a></li>
+                                        <li><a href="http://lasillarota.com/contenido/quienes-somos">quiénes somos</a></li>
+                                    </ul>
+                                </div>
+                                <div id="icos-redes-footer">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/pages/La-Silla-Rota/249232245162966" target="_blank"><img src="http://lasillarota.com/pub/theme/img/icoface.png" border="0"></a></li>
+                                        <li><a href="https://twitter.com/lasillarota" target="_blank"><img src="http://lasillarota.com/pub/theme/img/icotwitter.png" border="0"></a></li>
+                                        <li><a href="https://plus.google.com/u/0/108394027662383434935/posts" target="_blank"><img src="http://lasillarota.com/pub/theme/img/icogoo+.png" border="0"></a></li>
+                                        <li><a href="#" target="_blank"><img src="http://lasillarota.com/pub/theme/img/icolink.png" border="0"></a></li>
+                                        <li><a href="http://paginasweb.mx" target="_blank"><img src="http://lasillarota.com/pub/theme/img/trahc.png" border="0"></a></li>                                        
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="inferior wrapper">
+                                <div id="derechos-reservados"><p>© 2010 Todos los derechos reservados. Grupo La Silla Rota. PUBLICACIONES COMUNITARIAS S.A. de C.V. De no existir previa autorización, queda expresamente prohibida la publicación, retransmisión, edición y cualquier otro uso de los contenidos.</p></div>
+
+                                <div class="ligas-ext">
+                                    <p>
+                                        <span class="ligas-txt">Redacción</span><span class="ligas-otros">55923401</span>&nbsp;&nbsp;
+                                        <span class="ligas-txt">Publicidad</span><span class="ligas-otros">55923364</span>&nbsp;&nbsp;
+                                        <span class="ligas-txt">NUESTROS SITIOS:</span>
+                                        <span class="ligas-otros">
+                                            <a href="http://sumedico.com" target="_blank">SUMÉDICO</a>
+                                            <span class="linea-sep">|</span>
+                                            <a href="http://barrio.com.mx" target="_blank">BARRIO</a>
+                                            <!-- <span class="linea-sep">|</span> -->
+                                            <!-- <a href="http://tugolfmagazine.com" target="_blank">TU GOLF MAGAZINE</a> -->
+                                        </span>
+                                    </p>
+                                </div>
+
+                                <div class="ligas-ext">
+                                    <p>
+
+                                    </p>
+                                </div>
+                            </div>
+                            <div id='menu-opciones-footer'>
+                                <ul>
+                                    <li><a href="http://lasillarota.com/contenido/aviso-de-privacidad">Aviso de Privacidad</a></li>
+                                    <li><a href="http://lasillarota.com/contenido/codigo-de-etica">Código de Ética</a></li>
+                                    <li><a href="http://lasillarota.com/contenido/directorio">Directorio</a></li>
+                                    <li><a href="mailto:roberto.rock@lasillarota.com">Carta al Director</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/16333908/ct.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52467417-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta name="description" content="歴代メニュー14種類の中から多くのファンに選ばれた２つのメニューが期間限定で復活！やみつきスパイシー！「ケイジャンチキン」か、はたまた王道、具だくさん！「クラブハウスサンド」か。商品復活を記念して、どちらかお好きなメニューに応援コメントをそえてTwitterから投票するとサンドイッチ1か月分が当たるツイートキャンペーンも実施中！">
+<meta name="keywords" content="サブウェイ,subway,お得,キャンペーン,復活メニュー対決,期間限定,メニュー">
+<title>「復活メニュー対決！」キャンペーン │ サブウェイのキャンペーン情報 │ おいしい！をはさもう。野菜のサブウェイ公式サイト</title>
+<link href="css/common/layout.css" rel="stylesheet" type="text/css">
+<link href="css/common/general.css" rel="stylesheet" type="text/css">
+<link href="css/index.css" rel="stylesheet" type="text/css">
+<link href="css/jquery.jscrollpane.css" rel="stylesheet" type="text/css">
+<script>
+var _ua = (function(u){
+  return {
+    Tablet:(u.indexOf("windows") != -1 && u.indexOf("touch") != -1 && u.indexOf("tablet pc") == -1) 
+      || u.indexOf("ipad") != -1
+      || (u.indexOf("android") != -1 && u.indexOf("mobile") == -1)
+      || (u.indexOf("firefox") != -1 && u.indexOf("tablet") != -1)
+      || u.indexOf("kindle") != -1
+      || u.indexOf("silk") != -1
+      || u.indexOf("playbook") != -1,
+    Mobile:(u.indexOf("windows") != -1 && u.indexOf("phone") != -1)
+      || u.indexOf("iphone") != -1
+      || u.indexOf("ipod") != -1
+      || (u.indexOf("android") != -1 && u.indexOf("mobile") != -1)
+      || (u.indexOf("firefox") != -1 && u.indexOf("mobile") != -1)
+      || u.indexOf("blackberry") != -1
+  }
+})(window.navigator.userAgent.toLowerCase());
+if(_ua.Mobile){
+	location.href="sp/";
+}
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.page-scroller.js"></script>
+<script type="text/javascript" src="js/smartRollover.js"></script>
+<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="js/ga.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('.popLink').on('click',function(){
+		var elm = $(this).attr('href');
+		var h = $(window).scrollTop() + 100;
+		$('.cover').show();
+		$('#'+elm).css('top',h).show();
+		return false;
+	});
+	$('.popupBox .close a').click(function(){
+		$('.popupBox,.cover').hide();
+		return false;
+	});
+	$('.cover').click(function(){
+		$('.popupBox,.cover').hide();
+	});
+	
+	$('#main .mainBox .ruleBox .rule').jScrollPane();
+	
+
+});
+</script>
+<!--[if IE]>
+<script src="js/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="cover"></div>
+
+<article id="container">
+	<div id="headerWrap"> 
+		<!-- COMMON header START --> 
+		<!-- search -->
+		<div id="search_header"> 
+			<script>
+  (function() {
+    var cx = '007566268421002335881:mzr3eesuqfy';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+			<gcse:searchbox-only></gcse:searchbox-only>
+		</div>
+		<script>
+function hideSearchImg(){
+	$('.gsc-search-button-v2').attr('src', '');
+	$('.gsc-search-button-v2').val('');
+}
+$(window).load(function(){
+	setTimeout("hideSearchImg()", 500);
+	setTimeout("hideSearchImg()", 1000);
+});
+</script> 
+		<!-- search --> 
+		
+		<!-- ▼header -->
+		<div id="header">
+			<h1><a href="http://www.subway.co.jp/"><img src="images/common/logo.png" width="160" height="52" alt="おいしい！をはさもう。 野菜の SUBWAY"></a></h1>
+			<a href="http://www.subway.co.jp/shops/en/"><img src="images/common/storeinfo_btn_off.png" width="171" height="28" alt="Store Locator JAPAN"></a> </div>
+		<!-- ▲header --> 
+		
+		<!-- COMMON header END --> 
+		<!-- COMMON gnav START --> 
+		<!-- ▼gNavi -->
+		<div id="gNavi" class="clear">
+			<ul class="clearfix">
+				<li class="menu01"><a href="http://www.subway.co.jp/menu/"><img src="images/common/gnavi01_off.jpg" width="193" height="50" alt="メニュー"></a></li>
+				<li class="menu02"><a href="http://www.subway.co.jp/shops/"><img src="images/common/gnavi02_off.jpg" width="187" height="50" alt="店舗検索"></a></li>
+				<li class="menu03"><a href="http://www.subway.co.jp/info/"><img src="images/common/gnavi03_on.jpg" width="187" height="50" alt="お得な情報キャンペーン"></a></li>
+				<li class="menu04"><a href="http://www.subway.co.jp/about/"><img src="images/common/gnavi04_off.jpg" width="187" height="50" alt="サブウェイの秘密"></a></li>
+				<li class="menu05"><a href="http://www.subway.co.jp/customer/qa.html"><img src="images/common/gnavi05_off.jpg" width="196" height="50" alt="よくあるご質問"></a></li>
+			</ul>
+		</div>
+		<!-- ▲gNavi --> 
+		
+		<!-- ▼snsBtns -->
+		<ul id="snsBtns">
+			<li><img src="images/common/spacer.gif" width="26" height="26" ></li>
+			<li class="sns01"><a href="javascript:;"><img src="images/common/sns_fb.png" onClick="openFBShare()" width="26" height="26" alt=""></a></li>
+			<li class="sns02"><a href="javascript:;"><img src="images/common/sns_tw.png" onClick="openTwitterShare()" width="26" height="26" alt=""></a></li>
+			<li class="sns03"><a href="javascript:;"><img src="images/common/sns_mix.png" width="26" height="26" alt=""></a></li>
+		</ul>
+		<script type="text/javascript">
+
+function openMixyCheck(){
+	var url = encodeURIComponent(location.href);
+	var key = 'dbf32f14befb2a76a9960d64e8ecf7530514287c';
+	window.open('http://mixi.jp/share.pl?u='+url+'&k='+key,'share',['width=632','height=456','location=yes','resizable=yes','toolbar=no','menubar=no','scrollbars=no','status=no'].join(','));
+}
+function openFBShare(){
+	var url = encodeURIComponent(location.href);
+	var title = encodeURIComponent(document.title);
+	window.open('http://www.facebook.com/share.php?u='+url+'&t='+title,'share',['width=632','height=456','location=yes','resizable=yes','toolbar=no','menubar=no','scrollbars=no','status=no'].join(','));
+}
+function openTwitterShare(){
+	var url = encodeURIComponent(location.href);
+	var title = encodeURIComponent(document.title + ' ') + url;
+	window.open('https://twitter.com/intent/tweet?text='+title,'share',['width=632','height=456','location=yes','resizable=yes','toolbar=no','menubar=no','scrollbars=no','status=no'].join(','));
+}
+
+</script> 
+		<!-- ▲snsBtns --> 
+		<!-- COMMON gnav END --> 
+		
+	</div>
+	<!-- ▲================ /[headerWrap] ================▲ -->
+	<section id="main">
+		<ul id="pagePath">
+			<li><a href="./">ホーム</a>&gt;</li>
+			<li>お得な情報・キャンペーン</li>
+		</ul>
+		<h2><img src="images/index/h2_img.jpg" width="960" height="173" alt="復活メニュー対決！ あなたはどっち派？"></h2>
+		<ul class="photoLink clearfix">
+			<li><img src="images/index/photo01.jpg" width="480" height="400" alt="やみつきスバイシー！ ケイジャンチキン （税込）￥450"><a href="http://www.subway.co.jp/menu/sandwich/limited_sandwich/1869.html">商品情報はこちら</a></li>
+			<li><img src="images/index/photo02.jpg" width="480" height="400" alt="王道、具だくさん！ クラブハウスサンド （税込）￥490"><a href="http://www.subway.co.jp/menu/sandwich/limited_sandwich/1870.html">商品情報はこちら</a></li>
+		</ul>
+		<div class="textImg"><img src="images/index/imgtext01_finish.jpg" width="960" height="160" alt="当キャンペーンは終了致しました　サンドイッチ1ヶ月分が抽選で当たる ツイートキャンペーン実施中！"></div>
+		<div class="camend">
+		    <h3 class="camend_ttl"><img src="images/index/camend_title.png" alt="結果発表 今回のキャンペーンの勝者は…" width="538" height="110"></h3>
+		    <p class="camend_item"><img src="images/index/camend_item.png" alt="王道、具だくさん　クラブハウスサンド" width="640" height="611"></p>
+		</div>
+		<div class="infoBox clearfix">
+			<div class="txtBox"><img src="images/index/imgtext02.png" width="820" height="181" alt="みんなの投票 ケイジャンチキン派 クラブハウスサンド派"><span class="num01">0</span><span class="num02">0</span><span class="num03">投票数<span>0</span>件</span></div>
+			<div class="contentBox clearfix">
+				<div class="lBox">
+					<div class="inner">
+						<div><img src="images/index/photo03.jpg" width="440" height="440" alt=""></div>
+					</div>
+					<ul class="photoList clearfix">
+					</ul>
+					<div class="link" id="tagtorucontainermore"><a href="javascript:void(0);" onclick="next_show();return false;"><img src="images/index/btn01.png" width="184" height="50" alt="もっと見る"></a></div>
+					<div class="voteBox"><img src="images/index/imgtext03.jpg" width="259" height="44" alt="ケイジャンチキンに"><a href="#oubo"><img src="images/index/btn02.png" width="180" height="60" alt="投票する"></a></div>
+				</div>
+				<div class="rBox">
+					<div class="inner">
+						<div><img src="images/index/photo04.jpg" width="440" height="440" alt=""></div>
+					</div>
+					<ul class="photoList clearfix">
+					</ul>
+					<div class="link" id="tagtorucontainermore2"><a href="javascript:void(0);" onclick="next_show2();return false;"><img src="images/index/btn01.png" width="184" height="50" alt="もっと見る"></a></div>
+					<div class="voteBox"><img src="images/index/imgtext04.jpg" width="259" height="44" alt="クラブハウスサンドに"><a href="#oubo"><img src="images/index/btn02.png" width="180" height="60" alt="投票する"></a></div>
+				</div>
+			</div>
+		</div>
+		<div class="mainBox">
+			<h3><img src="images/index/h3_img01.gif" width="940" height="40" alt="キャンペーン概要"></h3>
+			<div class="textImg"><img src="images/index/imgtext05.jpg" width="612" height="40" alt="「復活メニュー対決 ！ あなたはどっち派？」"></div>
+			<p class="text">歴代メニュー14種類の中から多くのファンに選ばれた2種類のメニューが期間限定で復活！<br>
+				やみつきスパイシー！「ケイジャンチキン」か、はたまた、王道、具だくさん！「クラブハウスサンド」か。<br>
+				どちらかお好きなメニューに応援コメントや感想を添えて、Twitterから投票しよう！<br>
+				投票してくれた方の中から抽選で豪華賞品をプレゼント♪</p>
+			<div class="photo"><img src="images/index/photo06.jpg" width="924" height="304" alt="A賞 10名様 サンドイッチ 1ヶ月分 サブクラブカード 18,000円分"></div>
+			<div class="photo01"><img src="images/index/photo07.jpg" width="924" height="184" alt="B賞 100名様 SUBWAY オリジナル野菜柄ブランケット"></div>
+			<h4>◆キャンペーン名</h4>
+			<p>SUBWAY　復活メニュー対決！　あなたはどっち派？キャンペーン</p>
+			<h4>◆投票資格</h4>
+			<p>Twitterアカウントが必要です。<br>
+			キャンペーンの当選はダイレクトメッセージにてお知らせしますので、応募の際必ずSUBWAY公式アカウント(@subwayjp)をフォローして下さい。</p>
+			<h4>◆投票期間</h4>
+			<p>2016年1月20日(水)～2016年2月29日(月)</p>
+			<h4>◆賞品・当選者数</h4>
+			<p class="mb0">A賞：サンドイッチ1か月分[サブクラブカード18,000円分]×10名様<br>
+				B賞：SUBWAYオリジナル野菜柄ブランケット×100名様</p>
+			<ul class="textList">
+				<li>※A賞・B賞は選べません</li>
+			</ul>
+			<h4>◆抽選・発表</h4>
+			<p class="mb0">応募期間終了後、応募者の中から厳正なる抽選により決定します。当選者の方にはTwitterのダイレクトメッセージをお送りし、発表と替えさせていただきます。</p>
+			<ul class="textList">
+				<li>※賞品は2016年3月から順次発送を予定しております。</li>
+				<li>※発送は諸事情により、遅れる場合がございます。</li>
+			</ul>
+			<h4>◆注意事項</h4>
+			<ul class="textList textList01">
+				<li>・Twitterからのみ応募いただけます。</li>
+				<li>・当選の権利はご本人様のみ有効で、譲渡・換金はできません。</li>
+				<li>・主催者側(日本サブウェイ株式会社)は、応募に伴う使用機器の損傷、通信における障害、損傷についての責任は一切負いかねます。</li>
+				<li>・関係者は応募できません。</li>
+				<li>・通信費はお客様負担となります。</li>
+				<li>・景品デザインはイメージです。</li>
+			</ul>
+			<h4>◆お問い合わせ事務局</h4>
+			<ul class="textList textList01">
+				<li>電話：0120-019-010</li>
+				<li>メールアドレス：subway@subway.sgn.ne.jp</li>
+				<li>受付時間：平日10：00～17：00　（土日祝および年末年始を除く）</li>
+				<li>・こちらのメールアドレスでは応募は受け付けておりません。</li>
+				<li>・土・日・祝日にいただいたメールには、翌営業日以降に返信させていただきます。</li>
+				<li>・お問合せにはすべて目を通させていただきますが、お返事を差し上げられない場合もございます。</li>
+				<li>・ドメイン指定受信の設定をされている方はsubway@subway.sgn.ne.jpからのメールを受け取るよう設定をお願いいたします。</li>
+				<li>・ご使用のメーラーにより、subway@subway.sgn.ne.jpからのメールが、迷惑メールフォルダに振り分けられる場合がございます。</li>
+				<li>・当社からのメールでの回答は、利用者個人宛てにお送りするものです。一部または全部を転載、あるいは二次利用することはご遠慮ください。</li>
+			</ul>
+			<a id="oubo"></a>
+			<h3 class="h3Ttl"><img src="images/index/h3_img02.gif" width="940" height="40" alt="応募方法"></h3>
+			<div class="inner clearfix">
+				<ul class="methodUl clearfix">
+					<li class="floatL"><img src="images/index/img05.gif" width="39" height="39" alt="1">
+						<p>キャンペーンの当選はダイレクトメッセージにてお知らせしますので、SUBWAY公式アカウント(<a href="#">@subwayjp</a>)をフォローしてください。</p>						
+						<p class="linkTxt">Twitter：＠subwayjp</p>
+						<div class="link"><a id="follow-button" class="btn" onclick="window.open(this.href, 'TWwindow', 'width=600, height=400, menubar=no, toolbar=no, scrollbars=yes'); return false;" title="Twitterで@subway.jpをフォローしましょう" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.subway.co.jp&amp;region=follow_link&amp;screen_name=subwayjp&amp;tw_p=followbutton"><img src="images/index/btn04.jpg" width="281" height="46" alt="サブウェイ公式アカウントをフォローする"></a></div>
+
+						<p class="note">※既にフォロー済みの方は、&#9313;へ。</p>
+					</li>
+					<li class="floatR"><img src="images/index/img06.gif" width="39" height="39" alt="2">
+						<div class="rBox">
+							<p>上記サンドイッチ2商品のどちらかお好きなメニューを選び、下記の投票するボタンを押して、応援コメントや感想、画像を入力してください。</p>
+							<p>投票したいメニューそれぞれのハッシュタグ</p>
+							<p class="linkTxt">「#サブウェイ私はケイジャン派」<br>
+								「#サブウェイ私はクラブハウス派」</p>
+							<p class="mb0">が入力されていることを確認し、投稿すると応募完了です。</p>
+						</div>
+						<ul class="linkList clearfix">
+
+
+							<li class="floatL"><a href="http://twitter.com/intent/tweet?text=%23%E3%82%B5%E3%83%96%E3%82%A6%E3%82%A7%E3%82%A4%E7%A7%81%E3%81%AF%E3%82%B1%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3%E6%B4%BE%20%E3%80%8C%E5%BE%A9%E6%B4%BB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E5%AF%BE%E6%B1%BA%EF%BC%81%E6%8A%95%E7%A5%A8%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%811%E3%83%B6%E6%9C%88%E5%88%86%E3%81%8C%E5%BD%93%E3%81%9F%E3%82%8B%EF%BC%9F%EF%BC%81%E3%80%8D%20http%3A%2F%2Fwww.subway.co.jp%2Fcampaign%2Fdocchi%2F" onclick="window.open(this.href, 'TWwindow', 'width=600, height=400, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow"><img src="images/index/btn05.jpg" width="188" height="70" alt="ケイジャンチキンに 投票する"></a></li>
+							<li class="floatR"><a href="http://twitter.com/intent/tweet?text=%23%E3%82%B5%E3%83%96%E3%82%A6%E3%82%A7%E3%82%A4%E7%A7%81%E3%81%AF%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9%E6%B4%BE%20%E3%80%8C%E5%BE%A9%E6%B4%BB%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E5%AF%BE%E6%B1%BA%EF%BC%81%E6%8A%95%E7%A5%A8%E3%81%A7%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%811%E3%83%B6%E6%9C%88%E5%88%86%E3%81%8C%E5%BD%93%E3%81%9F%E3%82%8B%EF%BC%9F%EF%BC%81%E3%80%8D%20http%3A%2F%2Fwww.subway.co.jp%2Fcampaign%2Fdocchi%2F" onclick="window.open(this.href, 'TWwindow', 'width=600, height=400, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow"><img src="images/index/btn06.jpg" width="188" height="70" alt="クラブハウスサンドに 投票する"></a></li>
+						</ul>
+					</li>
+				</ul>
+				<div class="photoBox"><img src="images/index/photo08.jpg" width="174" height="359" alt="ケイジャンチキン懐かしい！久々に食べたいなー♪#サブウェイ私はケイジャン派 投稿する"></div>
+			</div>
+			<h3 class="h3Ttl01"><img src="images/index/h3_img03.gif" width="940" height="40" alt="応募規約"></h3>
+			<div class="ruleBox">
+				<div class="rule">
+					<p class="mb0">
+『復活メニュー対決！あなたはどっち派？ツイートキャンペーン』（以下｢本キャンペーン｣）はTwitterで投稿いただく、日本サブウェイ株式会社（以下「当社」）が主催するキャンペーンです。<br>
+ご応募される方は以下をよくお読みいただき、同意の上ご応募ください。<br>
+投稿いただいた写真や文章は、<a href="">本キャンペーンサイト</a>(http://www.subway.co.jp/campaign/docchi/index.html)にて、掲載させていただく場合がございます。</p>
+				<h4>■第1条 　キャンペーンへの応募について</h4>
+					<ul class="textList mb0">
+						<li>・応募者は年齢、国籍は問いませんが、日本在住の方とさせていただきます。</li>
+						<li>・応募作品に人物が含まれている場合、必ず被写体の人物に公表の承諾を得る等、肖像権の侵害などが生じないよう応募者本人の責任においてご確認ください。</li>
+						<li>・応募作品は著作権問題、商標権などの知的財産権に抵触しないよう十分にご注意ください。（例えばキャラクターのぬいぐるみ、ポスター、看板などを撮影する際にはご注意ください。）</li>
+						<li>・応募作品に関してこれらの問題が発生した場合、当社では一切関与せず、その責任・解決は全て応募者に帰属するものとします。</li>
+						<li>・応募作品は当社の本キャンペーンページや当社が運営するインターネットサイト（Facebook、 Twitter等のソーシャルメディアを含む）、各種媒体で公開する場合があります。その際は、弊社の判断により応募作品を加工する場合もあります。</li>
+						<li>・以下のような応募は禁止とさせていただきます。</li>
+						<li>（1）公序良俗に反するもの</li>
+						<li>（2）暴力的・卑猥・誹謗中傷・個人情報が含まれるもの</li>
+						<li>（3）プライバシーを侵害するもの</li>
+						<li>（4）コンピューターウィルス、不正プログラムが含まれるもの</li>
+						<li>（5）著作権等第三者の権利を侵害すもの</li>
+						<li>（6）迷惑行為となるもの</li>
+						<li>（7）その他法令違反となるもの及びそのおそれがあるもの</li>
+						<li>・応募者は、応募の時点で本規約に同意したものとします。また当社が規約に反すると判断した場合、応募・受賞の取り消し及び、賞品などの返還請求ができるものとします。</li>
+				<h4>【Twitterからの応募について】</h4>
+						<li>・キャンペーンの参加にはTwitterアカウントが必要です。</li>
+						<li>・全てのユーザーはTwitterの利用規約を遵守する必要があります。</li>
+						<li>・当選にあたり、以下のような場合には当選権利を無効とさせていただきます。</li>
+						<li>(1)不正なアカウントからの応募や不正と考えられる行為(なりすまし、イタズラ等)が発覚した場合</li>
+						<li>(2)当選の連絡を差し上げた日から当社の指定する期限までに連絡が取れない場合</li>
+						<li>(3)住所不明等の理由により賞品がお届けできない場合</li>
+						<li>(4)同一の方が複数のアカウントを開設し応募したことが発覚した場合</li>
+						<li>・本キャンペーン応募期間外でのツイートは対象外となりますのでご了承ください。</li>
+						<li>・応募いただいた投稿はSUBWAY公式Twitterアカウント（@subwayjp）がリツイートすることがあります。</li>
+						<li>・Twitterアカウントを非公開設定している方は抽選対象外とさせていただきます。</li>
+						<li>・リツイートによる投稿は、抽選対象外とさせていただきます。</li>
+						<li>・本キャンペーンはTwitter社の提供・協賛によるものではありません。</li>
+						<li>・Twitterが提供するサービスのメンテナンスや不具合が発生した場合など、Twitterへのログイン・投稿ができないなどの状況により、本キャンペーンへの応募が行えない場合、当社は責任を負いかねます。</li>
+						<li>・Twitterが提供するサービスの不具合や、予期し得ない事象などが発生した場合、止むを得ない事情により、投稿受付を終了とさせていただく場合がございます。</li>
+						<li>・Twitterの利用方法に関するお問い合わせにはお答えできませんので、ご了承ください。</li>
+
+
+					</ul>
+				<h4>■第2条 　抽選および商品の配送について</h4>
+					<ul class="textList mb0">
+						<li>・キャンペーン終了後、当社のキャンペーン事務局にて厳正なる抽選の上、当選者を決定します。</li>
+						<li>・当選されたお客様には、Twitterダイレクトメッセージにてご案内いたします。賞品発送のために必要な氏名、住所、電話番号等の情報を指定する期限までにご返信ください。</li>
+						<li>・記入漏れがある場合は、当選を無効とさせていただく場合がございます。</li>
+						<li>・住所が不明な場合や、転居による住所変更などの理由により、賞品をお届けできない場合、当選を無効とさせていただく場合がございます。</li>
+						<li>・抽選に関するお問い合わせ・クレームは一切受け付けないものとします。</li>
+						<li>・当選の権利はご本人限りのものとし、第三者への譲渡・換金はできません。</li>
+						<li>・やむを得ない事情により、賞品内容を変更させていただく場合がございます。</li>
+						<li>・賞品の配送先は日本国内のみに限らせていただきます。</li>
+						<li>・配送途中に生じた事故や過失に関して、当社は一切責任を負わないものとします。</li>
+					</ul>
+				<h4>■第3条 　個人情報の取扱いについて</h4>
+					<ul class="textList mb0">
+						<li>・本キャンペーンにより取得したお客様の個人情報（お名前・ご住所・電話番号・メールアドレスなど）は、商品の抽選および発送のみに利用いたします。</li>
+						<li>・お客様から取得した個人を特定できる情報は本キャンペーン終了時に破棄し、他の目的に利用することはございません。</li>
+						<li>・当社はお客様の個人情報を法令の定める場合を除き、事前にご本人の同意を得ることなく、第三者に提供することはありません。ただし、業務を円滑に進めるため一部の業務を委託する場合がございますが、その際は当社の責任で適切な委託先を選定し、個人情報の取り扱いに関する契約を締結した上で委託し、委託先での個人情報管理体制は本方針に沿った管理を徹底いたします。</li>
+						<li>・その他の個人情報の取り扱いに関しては、弊社のプライバシーポリシー
+（http://www.subway.co.jp/privacy/）をご参照ください。</li>
+					</ul>
+				<h4>■第4条 　その他</h4>
+					<ul class="textList mb0">
+						<li>・本規約は予告なく変更されることがあります。本規約が変更された場合は、変更後の内容が直ちに適用されます。</li>
+						<li>・本キャンペーンはPC、スマートフォンからご参加いただけます。フィーチャーフォンからの閲覧、応募はできません。</li>
+						<li>・一部のPCや端末、ブラウザで正常に表示・動作しない場合がございます。</li>
+						<li>・インターネット通信料・接続料は利用者の負担となります。</li>
+						<li>・特に取り決めのない事項については、当社の判断により決定します。</li>
+					</ul>
+				<h4>■お問い合わせ事務局</h4>
+					<ul class="textList mb0">
+						<li>電話：0120-019-010</li>
+						<li>メールアドレス：subway@subway.sgn.ne.jp</li>
+						<li>受付時間：平日10：00～17：00　（土日祝および年末年始を除く）</li>
+						<br>
+						<li>・こちらのメールアドレスでは応募は受け付けておりません。</li>
+						<li>・土・日・祝日にいただいたメールには、翌営業日以降に返信させていただきます。</li>
+						<li>・お問合せにはすべて目を通させていただきますが、お返事を差し上げられない場合もございます。</li>
+						<li>・ドメイン指定受信の設定をされている方はsubway@subway.sgn.ne.jpからのメールを受け取るよう設定をお願いいたします。</li>
+						<li>・ご使用のメーラーにより、subway@subway.sgn.ne.jpからのメールが、迷惑メールフォルダに振り分けられる場合がございます。</li>
+						<li>・当社からのメールでの回答は、利用者個人宛てにお送りするものです。一部または全部を転載、あるいは二次利用することはご遠慮ください。</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div id="footerWrap" class="clear"> 
+		
+		<!-- COMMON footer START --> 
+		<!-- ▼footNavi -->
+		<div id="footNavi">
+			<div id="footNaviInner">
+				<p><a href="#pagetop"><img src="images/common/pagetop.gif" width="92" height="26" alt="Page top"></a></p>
+				
+				<!--メニュー-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/menu/">メニュー</a></h5>
+					</li>
+					<li><a href="http://www.subway.co.jp/menu/sandwich/">サンドイッチ＆サラダ</a></li>
+					<!--<li><a href="http://www.subway.co.jp/menu/wrap/">ラップ</a></li>-->
+					<li><a href="http://www.subway.co.jp/menu/sidemenu/">サイドメニュー</a></li>
+					<li><a href="http://www.subway.co.jp/menu/drink/">ドリンク</a></li>
+					<li><a href="http://www.subway.co.jp/menu/howtoorder/">注文の流れ</a></li>
+				</ul>
+				
+				<!--店舗情報-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/shops/">店舗情報</a></h5>
+					</li>
+					<li><a href="http://www.subway.co.jp/shops/">店舗検索</a></li>
+					<!--  <li><a href="http://www.subway.co.jp/shops/new/">新店舗情報</a></li>
+  <li><a href="http://www.subway.co.jp/recruit/">アテンダント情報</a></li>-->
+				</ul>
+				
+				<!--お得な情報-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/info/">お得な情報</a></h5>
+					</li>
+					<li><a href="http://www.subway.co.jp/info/subclubcard/">サブクラブカード</a></li>
+					<li><a href="http://www.subway.co.jp/info/mailmagazine/">メールマガジン<!--<br>　(携帯サイト紹介)--></a></li>
+					<li><a href="http://www.subway.co.jp/info/mobile_info/">モバイルサイトのご紹介</a></li>
+					<!--  <li><a href="http://www.subway.co.jp/campaign/subset/">サブセット</a></li>
+  <li><a href="http://www.subway.co.jp/info/campaign/cardcouponticket/">ドリンク回数券</a></li>
+  <li><a href="http://www.subway.co.jp/info/campaign/spesub/">スペインをサブろう！</a></li>
+  <li><a href="http://www.subway.co.jp/info/campaign/cardcouponticket/">クーポン</a></li>
+  <li><a href="http://www.subway.co.jp/info/">キャンペーン</a></li>-->
+				</ul>
+				
+				<!--おいしさの秘密-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/about/">サブウェイの秘密</a></h5>
+					</li>
+					<!--  <li><a href="http://www.subway.co.jp/about/cm/">TVCM</a></li>
+  <li><a href="#">ブレッドラボ</a></li>-->
+					<li><a href="javascript:void(0);" onclick="window.open('/about/brandbook/', 'brandbook', 'width=1125, height=435, menubar=no, toolbar=no, scrollbars=yes');">ブランドブック</a></li>
+					<li><a href="http://www.subway.co.jp/about/cm/">オリジナル動画<br />
+						オーダーメイド彼氏</a></li>
+					<li><a href="http://www.subway.co.jp/about/column/" target="_blank">インタビュー<br />
+						My Healthy Life</a></li>
+					<!--<li><a href="http://www.subway.co.jp/about/jared/">ジャレドのご紹介</a></li>--> 
+					<!--<li><a href="http://www.831lab.com/" target="_blank">野菜ラボ</a></li>-->
+				</ul>
+				
+				<!--お客様センター-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/customer/qa.html">よくあるご質問</a></h5>
+					</li>
+					<!--<li><a href="http://www.subway.co.jp/customer/">お問い合わせ</a></li>
+  <li><a href="http://www.subway.co.jp/customer/qa.html">よくある質問</a></li>-->
+				</ul>
+				
+				<!--会社情報-->
+				<ul>
+					<li>
+						<h5><a href="http://www.subway.co.jp/company/">会社情報</a></h5>
+					</li>
+					<li><a href="http://www.subway.co.jp/company/info/">会社概要</a></li>
+					<!--
+  <li><a href="http://www.subway.co.jp/company/info/denshi.html">電子公告</a></li>-->
+					<li><a href="http://www.subway.co.jp/company/info/customer_support.html">お客様対応方針</a></li>
+					<li><a href="http://www.subway.co.jp/company/info/kankyo.html">環境方針</a></li>
+					<li><a href="http://www.subway.co.jp/company/info/recruit.html">採用情報</a></li>
+					<li><a href="http://www.subway.co.jp/company/franchise/">フランチャイズ</a></li>
+					<li><a href="http://www.subway.co.jp/company/info/bukken.html">店舗物件募集</a></li>
+					<!--  <li><a href="#">企業向けお問い合わせ</a></li> -->
+				</ul>
+				<br style="clear:both;" />
+			</div>
+		</div>
+		<!-- ▲footNavi --> 
+		
+		<!-- ▼footer -->
+		<div id="footer">
+			<ul class="footNaviS">
+				<!--  <li><a href="http://www.subway.co.jp/sitemap/">サイトマップ</a></li> -->
+				<li><a href="http://www.subway.co.jp/privacy/">プライバシーポリシー</a></li>
+				<li><a href="http://www.subway.co.jp/privacy/kohyo.html">公表事項</a></li>
+				<li class="end"><a href="http://www.subway.co.jp/guide/">ご利用規約</a></li>
+			</ul>
+			<ul class="otherSite">
+				<li class="us"><a href="http://www.subway.com" target="_blank"><img src="images/common/us_ico.png" width="33" height="25" alt="US">U.S サイト</a></li>
+				<li class="mobile"><a href="http://www.subway.co.jp/mobile/" ><img src="images/common/mobile_ico.png" width="12" height="25" alt="携帯サイト">携帯サイト</a><img src="images/common/mobile_qr.gif" width="47" height="47" alt="QRコード" class="qr"></li>
+				<li class="sp"><a href="sp/"><img src="images/common/sp_ico.png" width="14" height="25" alt="">スマートフォンサイト</a><img src="images/common/sp_qr.gif" width="47" height="47" alt="QRコード" class="qr"></li>
+			</ul>
+			<!--
+<ul class="otherSite">
+  <li><a href="http://www.subway.com" target="_blank"><img src="images/common/us_ico.png" width="33" height="20" alt="US">U.S サイト<p>http://www.subway.com</p></a></li>
+  <li class="mobile"><a href="http://www.subway.co.jp/info/mobile_info/" class="fL"><img src="images/common/mobile_ico.png" width="12" height="25" alt="携帯サイト">携帯サイト<p>http://www.subway.co.jp/mobile/</p></a><img src="images/common/mobile_qr.gif" width="46" height="46" alt="QRコード" class="fR"></li>
+  <li><a href="http://www.subway.co.jp/sp/"><img src="images/common/sp_ico.png" width="14" height="23" alt="">スマートフォンサイト<p>http://www.subway.co.jp/sp/</p></a></li>
+</ul>
+-->
+			<p class="copy"><img src="images/common/copy.png" width="215" height="12" alt="(c)Subway Japan Inc.All rights reserved."></p>
+		</div>
+		<!-- ▲footerTop --> 
+		
+		<!-- ▼google_remarketing 20140814 --> 
+		
+		<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 966313070;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script> 
+		<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+		<noscript>
+		<div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/966313070/?value=0&amp;guid=ON&amp;script=0"/> </div>
+		</noscript>
+		
+		<!-- ▲google_remarketing --> 
+		
+		<!-- COMMON footer END --> 
+		
+	</div>
+</article>
+<script src="http://tagtoru.tokyo/medias/js?at=d53cb08753458149501f01abda695c02" type="text/javascript" charset="utf-8" async defer></script>
+</body>
+</html>

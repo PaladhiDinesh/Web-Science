@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html class="ie8 no-js" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr" class="no-js"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. --><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.sfmta.com/sites/all/themes/sfmta/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The 19th Avenue/M Ocean View Project is a proposed major investment that would address crowding and reliability on Muni Metro through long-term improvements. The Project includes proposals for a light-rail tunnel under 19th Avenue, improved sidewalks and pedestrian areas and an off-street bike path. See materials from our recent public meeting" />
+<meta name="robots" content="noarchive" />
+<meta name="generator" content="Drupal 7 (https://drupal.org)" />
+<meta name="rights" content="Copyright &amp;copr; 2000-2015 San Francisco Municipal Transportation Agency. All rights reserved." />
+<link rel="canonical" href="https://www.sfmta.com/node/126186" />
+<link rel="shortlink" href="https://www.sfmta.com/node/126186" />
+<meta property="og:site_name" content="SFMTA" />
+<meta property="og:title" content="19th Avenue / M Ocean View Project" />
+<meta property="og:description" content="The 19th Avenue/M Ocean View Project is a proposed major investment that would address crowding and reliability on Muni Metro through long-term improvements. The Project includes proposals for a light-rail tunnel under 19th Avenue, improved sidewalks and pedestrian areas and an off-street bike path. See materials from our recent public meeting" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.sfmta.com/projects-planning/projects/19th-avenue-m-ocean-view-project" />
+<meta name="dcterms.title" content="19th Avenue / M Ocean View Project" />
+<meta name="dcterms.creator" content="San Francisco Municipal Transportation Agency" />
+<meta name="dcterms.publisher" content="San Francisco Municipal Transportation Agency" />
+<meta name="dcterms.date" content="2014-06-05T10:01-07:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.sfmta.com/projects-planning/projects/19th-avenue-m-ocean-view-project" />
+<meta name="dcterms.language" content="und" />
+<meta name="dcterms.rights" content="Copyright &amp;copr; 2000-2016 San Francisco Municipal Transportation Agency. All rights reserved." />
+  <title>
+  	19th Avenue / M Ocean View Project | SFMTA  </title>
+  <link type="text/css" rel="stylesheet" href="https://www.sfmta.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sfmta.com/sites/default/files/css/css_GFOi6uu1eQDMK-osYb6WbKns31RKKlSAB6RwXykIdq4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sfmta.com/sites/default/files/css/css_nGUG-exopw_JETjOGYfzO-sgCHlXIm8v5N2kKSuQ0HM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sfmta.com/sites/default/files/css/css_f5OFx-i6dQh3JWpB1Yi1QSe228DXR8lkxqNRcXIeJfM.css" media="all" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_7_Mytnu6vpUU_luVEcn6zzSQkIfu4Hp0QXS-LhMHVTo.js"></script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_zKC6wsxqjoRmTKNdDVcmdLOnhkAoI9AtNnnpDlsd9MQ.js"></script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_ZkbB3972bKlwfovHvE8cDP_m0gZqnSOVYR3OPu_rgZo.js"></script>
+<script>
+    jQuery(document).ready(function($){     
+      $('#om-maximenu-main-mega-menu li.om-leaf .om-maximenu-content').removeClass('om-maximenu-content-nofade');
+      //$('#om-maximenu-main-mega-menu li.om-leaf').hover(omFadeIn,omFadeOut); //native jquery
+      $('#om-maximenu-main-mega-menu li.om-leaf').hoverIntent({
+        over: omFadeIn,
+        timeout: 300,
+        out: omFadeOut
+      }); 
+      function omFadeIn(){ $('.om-maximenu-content.closed', this).fadeIn(); }
+      function omFadeOut(){ $('.om-maximenu-content.closed', this).fadeOut(); }  
+    });
+    </script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.sfmta.com/sites/default/files/googleanalytics/analytics.js?o2b5vz","ga");ga("create", "UA-18704695-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "dimension1", "und");ga("set", "dimension2", "Project");ga("send", "pageview");</script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_VaTlC5jNdxR2e4HzWsuiV1jhDftON6pzITcrr9IQmXA.js"></script>
+<script src="https://www.sfmta.com/sites/default/files/js/js_DNOyZ-rcFVpeu3u_8SerNN5B0KEc6ZrPUlG5QKUUqwE.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sfmta","theme_token":"54XXc1oSobDNLDF3I7HjQJuCr4M6e21IqRNN8PAXpoQ","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/bootstrap\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/om_maximenu\/contrib\/jquery.hoverIntent.minified.js":1,"1":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"misc\/tableheader.js":1,"sites\/all\/themes\/sfmta\/js\/jquery.flexslider.js":1,"sites\/all\/themes\/sfmta\/js\/sfmta.js":1,"sites\/all\/themes\/sfmta\/js\/respond.min.js":1,"sites\/all\/themes\/sfmta\/js\/modernizr-latest.js":1,"sites\/all\/themes\/sfmta\/js\/jquery.hoverIntent.minified.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/om_maximenu\/skin\/no_style\/no_style.css":1,"sites\/all\/themes\/bootstrap\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/bootstrap\/css\/bootstrap-responsive.css":1,"sites\/all\/themes\/sfmta\/css\/style.css":1,"sites\/all\/themes\/sfmta\/css\/flexslider.css":1,"sites\/all\/themes\/sfmta\/css\/temp.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/projects-planning\/projects\/19th-avenue-m-ocean-view-project":true},"better_exposed_filters":{"views":{"latest_project_meetings":{"displays":{"block":{"filters":[]},"block_2":{"filters":[]},"block_3":{"filters":[]}}},"latest_project_updates":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"project_documents":{"displays":{"attachment_1":{"filters":[]},"block":{"filters":[]}}},"project_contacts":{"displays":{"block_2":{"filters":[]}}},"related_blog_posts":{"displays":{"block":{"filters":[]}}}}}});</script>
+ 
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  
+  </head>
+  <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-126186 node-type-project i18n-en sfmta" >
+    <header id="brand" role="banner" >
+    <div class="container">  
+    	<div class="navbar">
+	    	<div class="navbar-inner">
+
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+       <div class="bars"><span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span></div><div class="btn-text">Main Menu</div>
+      </a>
+
+      
+      
+              <div class="nav-collapse collapse">
+          <nav role="navigation">
+            
+                                        <div class="region region-navigation">
+    <section id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu" 
+>
+
+      
+   
+
+  <div id="om-maximenu-main-mega-menu" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-986111880">     
+            
+
+<div id="om-menu-main-mega-menu-ul-wrapper" class="om-menu-ul-wrapper">
+  <ul id="om-menu-main-mega-menu" class="om-menu">
+                  
+
+   
+  <li id="om-leaf-om-u1-986111880-1" class="om-leaf first leaf-getting-around">
+    <a  class="om-link  link-getting-around" href="/getting-around">Getting Around</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-block block-block-id-4 first last">           
+      <div class="content"><ul><li class="nav-title"><a href="/getting-around/transit">Transit</a></li><li><a href="/getting-around/transit/munimobile">MuniMobile</a></li><li><a href="/getting-around/transit/planned-alerts">Planned Alerts</a></li><li><a href="/getting-around/transit/routes-stops">Routes &amp; Stops</a></li><li><a href="/getting-around/transit/fares-passes">Fares &amp; Passes</a></li><li><a href="/getting-around/transit/schedules-trip-planners">Schedules &amp; Trip Planners</a></li><li><a href="/getting-around/transit/how-ride">How to Ride</a></li><li><a href="/getting-around/transit/bay-area-connections">Bay Area Connections</a></li><li><a href="/getting-around/transit/muni-lost-found">Muni Lost &amp; Found</a></li><li><a href="/getting-around/transit/fares-passes/where-to-buy">Where to Buy</a></li></ul><ul><li class="nav-title"><a href="/getting-around/parking">Parking</a></li><li><a href="/getting-around/parking/pricing-info">Pricing Info</a></li><li><a href="/getting-around/parking/parking-garages">Find a Garage or Lot</a></li><li><a href="/getting-around/parking/holiday-enforcement">Holiday Enforcement</a></li><li><a href="/getting-around/parking/how-park-legally">How to Park Legally</a></li><li><a href="/getting-around/parking/meters">Meters</a></li><li><a href="/getting-around/parking/curb-colors">Curb Colors</a></li></ul><ul><li class="nav-title"><a href="/getting-around/destinations">Destinations</a></li><li><a href="/getting-around/destinations/att-park">AT&amp;T Park</a></li><li><a href="/getting-around/destinations/chinatown">Chinatown</a></li><li><a href="/getting-around/destinations/cow-palace">Cow Palace</a></li><li><a href="/getting-around/destinations/fishermans-wharf">Fisherman&#039;s Wharf</a></li><li><a href="/getting-around/destinations/golden-gate-park-museums">Golden Gate Park</a></li><li><a href="/getting-around/destinations/moscone-center">Moscone Center</a></li><li><a href="/getting-around/destinations/sfo-airport">SFO Airport</a></li></ul><ul class="no-title"><li><a href="/getting-around/bicycling">Bicycling</a></li><li><a href="/getting-around/accessibility">Accessibility</a></li><li><a href="/getting-around/taxi">Taxi</a></li><li><a href="/getting-around/walk">Walk</a></li><li><a href="/getting-around/car-sharing">Car Sharing</a></li><li><a href="/getting-around/commercial-vehicles">Commercial Vehicles</a></li><li><a href="/getting-around/motorcycles">Motorcycles</a></li><li><a href="/getting-around/safety">Safety</a></li></ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-986111880-2" class="om-leaf leaf-services">
+    <a  class="om-link  link-services" href="/services">Services</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-block block-block-id-5 first last">           
+      <div class="content"><ul><li class="nav-title"><a href="/services/permits-citations">Permits &amp; Citations</a></li><li><a href="/services/permits-citations/parking-permits">Parking Permits</a></li><li><a href="/services/permits-citations/pay-citation">Pay a Citation</a></li><li><a href="/services/permits-citations/protest-citation">Protest a Citation</a></li><li><a href="/services/permits-citations/camera-enforcement">Camera Enforcement</a></li><li><a href="/services/permits-citations/booting-towing">Booting &amp; Towing</a></li><li><a href="/services/permits-citations/citation-overpayments">Citation Overpayments</a></li></ul><ul><li class="nav-title"><a href="/services/streets-sidewalks">Streets &amp; Sidewalks</a></li><li><a href="/services/streets-sidewalks/enforcement-requests">Enforcement Requests</a></li><li><a href="/services/streets-sidewalks/maintenance-requests">Maintenance Requests</a></li><li><a href="/services/streets-sidewalks/installation-requests">Installation Requests</a></li><li><a href="/services/streets-sidewalks/temporary-signage">Temporary Signage</a></li><li><a href="/services/streets-sidewalks/apply-street-closure">Apply for a Street Closure</a></li><li><a href="/services/streets-sidewalks/construction-regulations">Construction Regulations</a></li></ul><ul><li class="nav-title"><a href="/services/taxi-industry">Taxi Industry</a></li><li><a href="/services/taxi-industry/medallions">Medallions</a></li><li><a href="/services/taxi-industry/become-taxi-driver">Become a Taxi Driver</a></li><li><a href="/services/taxi-industry/color-change-notices">Color Change Notices</a></li><li><a href="/services/taxi-industry/taxi-industry-fees">Taxi Industry Fees</a></li><li><a href="/services/taxi-industry/clean-taxis">Clean Taxis</a></li><li><a href="/services/taxi-industry/forms-and-procedures">Forms and Procedures</a></li><li><a href="/services/taxi-industry/meetings">Meetings</a></li><li><a href="/services/taxi-industry/taxi-services">Taxi Services</a></li><li><a href="/services/taxi-industry/taxi-links">Taxi Links</a></li></ul><ul><li class="nav-title"><a href="/services/business-services">Business Services</a></li><li><a href="/services/business-services/advertising">Advertising</a></li><li><a href="/services/business-services/selling-sfmta">Selling to the SFMTA</a></li><li><a href="/services/business-services/filming-photography">Filming &amp; Photography</a></li><li><a href="/services/business-services/fare-vendors">Fare Vendors</a></li><li><a href="/services/business-services/tours-foreign-dignitaries-delegations">Tours for Foreign Dignitaries &amp; Delegations</a></li><li><a href="/services/business-services/charter-cable-car-or-streetcar">Charter a Cable Car or Streetcar</a></li></ul><ul class="no-title"></ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-986111880-3" class="om-leaf leaf-projects-planning">
+    <a  class="om-link  link-projects-planning" href="/projects-planning">Projects & Planning</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-block block-block-id-36 first last">           
+      <div class="content"><ul><li class="nav-title"><a href="/projects-planning/project-list/10%2C3421/all">Transit Projects</a></li><li><a href="/projects-planning/projects/central-subway-project">Central Subway Project</a></li><li><a href="/projects-planning/projects/muni-forward-0">Muni Forward</a></li><li><a href="/projects-planning/project-list/10%2C3421/all">All Transit projects</a></li></ul><ul class="no-title"><li><a href="/projects-planning/project-list/3441%2C3421/all">All Projects</a></li><li><a href="/projects-planning/project-list/12%2C3421/all">Bike Projects</a></li><li><a href="/projects-planning/project-list/3407%2C3421/all">Streets and Sidewalk Projects</a></li><li><a href="/projects-planning/project-list/3408%2C3421/all">Accessibility Projects</a></li></ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+                  
+
+   
+  <li id="om-leaf-om-u1-986111880-4" class="om-leaf last leaf-about-the-sfmta">
+    <a  class="om-link  link-about-the-sfmta" href="/about-sfmta">About the SFMTA</a>      
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top --> 
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+           
+
+<div class="block block-block block-block-id-7 first last">           
+      <div class="content"><ul><li class="nav-title"><a href="/about-sfmta/organization">Organization</a></li><li><a href="/about-sfmta/organization/divisions-and-units/board-directors">Board of Directors</a></li><li><a href="/about-sfmta/organization/divisions-and-units/director-transportation">Director of Transportation</a></li><li><a href="/about-sfmta/organization/divisions-and-units">Divisions and Units</a></li><li><a href="/about-sfmta/organization/committees">Committees and Hearings</a></li><li><a href="/about-sfmta/organization/policies-processes">Policies &amp; Processes</a></li><li><a href="/about-sfmta/organization/organization-chart">Organization Chart</a></li></ul><ul><li class="nav-title"><a href="/about-sfmta/careers">Careers</a></li><li><a href="/about-sfmta/careers/jobs-employment">Jobs / Employment</a></li><li><a href="/about-sfmta/careers/become-muni-driver">Become a Muni Driver</a></li><li><a href="/about-sfmta/careers/hiring-process-timeline">Hiring Process Timeline</a></li></ul><ul><li class="nav-title"><a href="/about-sfmta/reports">Reports</a></li><li><a href="/about-sfmta/reports/2015-annual-report">2015 Annual Report</a></li><li><a href="/about-sfmta/reports/sfmta-strategic-plan">SFMTA Strategic Plan</a></li><li><a href="/about-sfmta/reports/performance-metrics">Performance Metrics</a></li><li><a href="/about-sfmta/reports">All reports</a></li></ul><ul class="no-title"><li><a href="/about-sfmta/blog">Blog</a></li><li><a href="/about-sfmta/press">Press</a></li><li><a href="/about-sfmta/investor-relations">Investor Relations</a></li><li><a href="/about-sfmta/labor-relations">Labor Relations</a></li><li><a href="/about-sfmta/our-history-and-fleet">Our History and Fleet</a></li><li><a href="/contact">Contact Us</a></li></ul></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right --> 
+      </div><!-- /.om-maximenu-middle-left --> 
+    </div><!-- /.om-maximenu-middle --> 
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->  
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->  
+  </div><!-- /.om-maximenu-content -->  
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+          
+      </ul><!-- /.om-menu -->    
+</div><!-- /.om-menu-ul-wrapper -->   
+
+
+
+      </div><!-- /#om-maximenu-[menu name] -->   
+
+
+  
+</section> 
+
+<!-- /.block -->
+<section id="block-menu-menu-secondary-links" class="block block-menu header-nav" 
+>
+
+      
+  <ul class="menu nav"><li class="first collapsed"><a href="/news">News</a></li>
+<li class="leaf"><a href="/maps" title="">Maps</a></li>
+<li class="leaf"><a href="/calendar" title="">Calendar</a></li>
+<li class="last expanded dropdown"><a href="/languages" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Languages<span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/languages/spanish/all" title="">Español</a></li>
+<li class="leaf"><a href="/languages/chinese/all" title="Chinese">中文</a></li>
+<li class="leaf"><a href="/languages/arabic/all" title="Arabic">عربي</a></li>
+<li class="leaf"><a href="/languages/filipino/all" title="Filipino">Filipino</a></li>
+<li class="leaf"><a href="/languages/french/all" title="French">Français</a></li>
+<li class="leaf"><a href="/languages/japanese/all" title="Japanese">日本語</a></li>
+<li class="leaf"><a href="/languages/korean/all" title="Korean">한국어</a></li>
+<li class="leaf"><a href="/languages/russian/all" title="Russian">русский</a></li>
+<li class="leaf"><a href="/languages/vietnamese/all" title="Vitenamese">tiếng Việt</a></li>
+<li class="last leaf"><a href="/languages/thai/all" title="">ภาษาไทย</a></li>
+</ul></li>
+</ul>  
+</section> 
+
+<!-- /.block -->
+<section id="block-search-form" class="block block-search" 
+>
+
+      
+  <form action="/projects-planning/projects/19th-avenue-m-ocean-view-project" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="control-group form-type-textfield form-item-search-block-form form-item">
+  <label class="element-invisible control-label" for="edit-search-block-form--2">Search </label>
+<div class="controls"> <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div></div>
+<button class="btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-oWFRkc4V5mE_3l1wtiMmg1srZ_O-pdclREPhFixuupU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  
+</section> 
+
+<!-- /.block -->
+  </div>
+                                   
+          </nav>
+        </div>
+          </div>
+  </div>
+   <div class="branding"><div id="logo">
+	  <a href="/">
+		  <h1>
+			  SFMTA
+			  <small>Municipal Transportation Agency</small>
+			  <img src="/sites/all/themes/sfmta/img/sfmta-logo.png" alt="logo of the SFMTA" class="print-only"/>
+		  </h1>
+	  </a>
+  </div>
+  <div class="tagline">Excellent transportation choices</div></div></div>
+</header>
+
+<div class="container">
+
+  <header role="banner" id="page-header">
+    
+      <div class="region region-header">
+    <section id="block-easy-breadcrumb-easy-breadcrumb" class="block block-easy-breadcrumb" 
+>
+
+      
+  <div class="easy-breadcrumb"><a href="/" class="easy-breadcrumb_segment easy-breadcrumb_segment-front">Home</a><span class="easy-breadcrumb_segment-separator"> / </span><a href="/projects-planning" class="easy-breadcrumb_segment easy-breadcrumb_segment-1">Projects &amp; Planning</a><span class="easy-breadcrumb_segment-separator"> / </span><a href="/projects-planning/projects" class="easy-breadcrumb_segment easy-breadcrumb_segment-2">Projects</a><span class="easy-breadcrumb_segment-separator"> / </span><span class="easy-breadcrumb_segment easy-breadcrumb_segment-title">19th Avenue / M Ocean View Project</span></div>  
+</section> 
+
+<!-- /.block -->
+  </div>
+  </header> <!-- /#header -->
+                       
+                  
+    <div class="row">
+
+    <section class="span12">  
+                  <a id="main-content"></a>
+                       
+                         
+                                      
+      
+      
+      
+
+<article id="node-126186" class="node node-project clearfix">
+
+
+  <header>
+        
+     </header>
+
+      
+    <div class="row-fluid">
+          
+           
+		      <div class="span8"> 
+                           <h1 class="page-header">19th Avenue / M Ocean View Project</h1>
+                                                  
+		        <ul class="nav nav-tabs">
+					    <li class="active"><a href="#overview" data-toggle="tab" id="#overviewtab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Overview'});">Overview</a></li>
+					    <li><a href="#details" data-toggle="tab" id="#detailstab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Details'});">Details</a></li>
+					    <li><a href="#meetings" data-toggle="tab" id="#meetingstab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Meetings'});">Meetings</a></li>					    <li><a href="#updates" data-toggle="tab" id="#updatestab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Updates'});">Updates</a></li>						<li><a href="#staff" data-toggle="tab" id="#stafftab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Contacts'});">Contacts</a></li>					    <li><a href="#reports" data-toggle="tab" id="#reportstab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Reports'});">Documents &amp; Reports</a></li>					  
+												<li><a href="#receive" data-toggle="tab" id="#receivetab" onClick="ga('send', 'event', { eventCategory: 'Project', eventAction: 'Click', eventLabel: 'Receive Updates'});">Receive Updates</a></li>
+									    </ul>
+				    
+				    <div class="tab-content">
+				       
+							<div class="tab-pane active" id="overview">
+							<h4>Project Overview</h4>
+							<img typeof="foaf:Image" src="https://www.sfmta.com/sites/default/files/projects/2016/crowdedtrain.jpg" width="1137" height="461" alt="Crowded train in Muni Metro" title="Crowded train in Muni Metro">	
+								<div class="lead"><p>The 19th Avenue/M Ocean View Project is a proposed major investment that would address crowding and reliability on Muni Metro through long-term improvements. The Project includes proposals for a light-rail tunnel under 19th Avenue, improved sidewalks and pedestrian areas and an off-street bike path.</p>
+<p><a href="https://www.sfmta.com/projects-planning/projects/19th-avenue-m-ocean-view-project#reports"> See materials from our recent public meeting</a></p>
+</div>
+									
+								<div class="notactive btn btn-primary"><a href="http://www.surveygizmo.com/s3/2591763/19thavefeedback" target="_blank">Give your feedback!</a></div>
+									
+								<div class="side-by-side">													
+								<!-- upcoming meetings -->
+								<div class="view view-latest-project-meetings view-id-latest_project_meetings view-display-id-block view-dom-id-704f388772108035e0d4aaabb9690ed9">
+            <div class="view-header">
+      <h4>Upcoming meetings</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="unstyled link-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">16</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-omi">19th Avenue/M Ocean View Community Meeting - OMI</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Tuesday, February 16, 2016, <span class="date-display-start">7:00 pm</span> to <span class="date-display-end">9:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">18</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-sfmta-headquarters">19th Avenue/M Ocean View Community Meeting - SFMTA Headquarters</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Thursday, February 18, 2016, <span class="date-display-start">6:00 pm</span> to <span class="date-display-end">8:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">25</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-waldorf-high-school">19th Avenue/M Ocean View Community Meeting - Waldorf High School</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Thursday, February 25, 2016, <span class="date-display-start">6:00 pm</span> to <span class="date-display-end">8:00 pm</span></span></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+								<!-- updates -->
+								<div class="view view-latest-project-updates view-id-latest_project_updates view-display-id-block view-dom-id-ce96cece25a19f021958216830dba729">
+            <div class="view-header">
+      <h4>Latest updates</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="unstyled link-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenuem-ocean-view-project-meetings-announced">19th Avenue/M Ocean View Project Meetings Announced</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Tuesday, January 5, 2016, 2:33 pm</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenue-m-ocean-view-project-quarterly-update-fall-2015">19th Avenue / M Ocean View Project Quarterly Update- Fall 2015</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Tuesday, November 3, 2015, 3:07 pm</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenue-m-ocean-view-project-quarterly-update-summer-2015">19th Avenue / M Ocean View Project Quarterly Update- Summer 2015</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Monday, June 22, 2015, 9:31 am</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>								</div>
+
+							</div><!-- /#overview -->
+							
+							<div class="tab-pane" id="details">
+							<h4>Project Details</h4>
+								<p><a href="/sites/default/files/projects/2016/factsheet_19thAve.pdf" title="Project Factsheet PDF">Project Factsheet PDF</a></p>
+<p>The Project is in its early stages of development. In March 2014, the San Francisco County Transportation Authority (SFCTA) Board adopted the <a href="http://www.sfcta.org/19thave">19th Avenue Transit Study</a> that completed the feasibility study stage of the project by identifying and evaluating feasible alternatives.</p>
+<p>The Project has been advancing through the Pre-Environmental Study phase since July 2014, led by SFMTA. This phase will further define the project alternatives and prepare a Project Study Report (a type of “project initiation” document required by the California Department of Transportation (Caltrans) because the project would affect State Highway 1). We anticipate completing this phase in early 2016.</p>
+<p><strong>Partner Agencies</strong><br />
+Caltrans<br />
+SFCTA<br />
+San Francisco Planning Department</p>
+<p><strong>Funders</strong><br />
+Metropolitan Transportation Commission (Priority Development Area Planning Grant)<br />
+Parkmerced<br />
+SFCTA (Prop K)<br />
+San Francisco State University<br />
+Stonestown Galleria</p>
+
+<h4><strong>Outreach</strong></h4>
+<p>We are hosting a series of public meetings in February 2016 to share and get feedback on the refined project alternatives. There will be a presentation and a Q&amp;A session. An open house will also be available throughout the meeting for more in-depth information.</p>
+<ul><li><a href="http://www.sfmta.com/node/189351">Thursday,  February 4, SF State University, 6-8pm</a></li>
+<li><a href="http://www.sfmta.com/node/190236">Tuesday, February 16, IT Bookman Community Center, 7-9pm</a></li>
+<li><a href="http://www.sfmta.com/calendar/meetings/19th-avenuem-ocean-view-community-meeting-sfmta-headquarters">Thursday, February 18, SFMTA Headquarters, 6-8pm</a></li>
+<li><a href="http://www.sfmta.com/node/190256">Thursday, February 25, Waldorf High School, 6-8pm</a></li>
+</ul><p>Please contact Liz Brisson, Project Manager (<a href="mailto:liz.brisson@sfmta.com">liz.brisson@sfmta.com</a> or 415.701.4791) or Kelley McCoy, Public Relations Officer (<a href="mailto:kelley.mccoy@sfmta.com">kelley.mccoy@sfmta.com</a> or 415.701.5428) with questions or to request a meeting or presentation to your group.</p>
+
+<h4><strong>Schedule</strong></h4>
+<p>The project does not have a schedule for the next phases of work, but major milestones before project approvals would include:</p>
+<ul><li>A multi-year environmental review effort</li>
+<li>Ongoing community outreach and involvement</li>
+<li>Identification of a full funding strategy</li>
+</ul><p>After project approvals, the project would be advanced to a more detailed level of design and then move forward to construction.</p>
+
+<h4><strong>Learn More</strong></h4>
+<ul><li>View articles in the <a href="http://www.sfexaminer.com/sanfrancisco/study-identifies-design-options-for-light-rail-relocation-along-19th-avenue/Content?oid=2717638">SF Examiner</a>, <a href="http://www.sfgate.com/bayarea/article/S-F-planners-consider-19th-Avenue-subway-5368704.php">SF Chronicle</a>, and <a href="http://sf.curbed.com/archives/2014/04/03/munis_mocean_view_line_may_become_underground_subway.php">SF Curbed</a>.</li>
+<li><a href="http://sanfrancisco.granicus.com/MediaPlayer.php?view_id=55&amp;clip_id=19738">View an information update</a> to the SFMTA Board from April 1, 2014 on SFGOVTV, beginning at 3:12:40. </li>
+</ul>  
+							</div><!-- /#details -->
+														
+													<div class="tab-pane" id="meetings">			  	
+								<div class="side-by-side">													
+									<!-- upcoming meetings -->
+									<div class="view view-latest-project-meetings view-id-latest_project_meetings view-display-id-block_2 link-list view-dom-id-84356f2fce7988991aecaaba9d766575">
+            <div class="view-header">
+      <h4>Upcoming Meetings</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="unstyled link-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">16</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-omi">19th Avenue/M Ocean View Community Meeting - OMI</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Tuesday, February 16, 2016, <span class="date-display-start">7:00 pm</span> to <span class="date-display-end">9:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">18</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-sfmta-headquarters">19th Avenue/M Ocean View Community Meeting - SFMTA Headquarters</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Thursday, February 18, 2016, <span class="date-display-start">6:00 pm</span> to <span class="date-display-end">8:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">25</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-waldorf-high-school">19th Avenue/M Ocean View Community Meeting - Waldorf High School</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Thursday, February 25, 2016, <span class="date-display-start">6:00 pm</span> to <span class="date-display-end">8:00 pm</span></span></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>									
+									<!-- past meetings -->
+									<div class="view view-latest-project-meetings view-id-latest_project_meetings view-display-id-block_3 link-list view-dom-id-4e771a1a34790d73ebb3cabd934347b7">
+            <div class="view-header">
+      <h4>Past Meetings</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="unstyled link-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Feb</span> <span class="bot">04</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenuem-ocean-view-community-meeting-sf-state-university">19th Avenue/M Ocean View Community Meeting - SF State University</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Thursday, February 4, 2016, <span class="date-display-start">6:00 pm</span> to <span class="date-display-end">8:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Jan</span> <span class="bot">12</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/san-francisco-transit-riders-union-tac-meeting-january-12-2014">San Francisco Transit Riders Union TAC Meeting, January 12, 2014</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Monday, January 12, 2015, <span class="date-display-start">5:30 pm</span> to <span class="date-display-end">7:00 pm</span></span></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-start-and-end-date-local-1">        <div class="field-content"><span class="date-display-single"><span class="top">Nov</span> <span class="bot">01</span> <span class="top"></span> <span class="bot"></span></span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/calendar/meetings/19th-avenue-bike-stakeholder-ride-and-input-session-november-1-2014">19th Avenue Bike Stakeholder Ride and Input Session, November 1, 2014</a></span>  </div>  
+  <div class="views-field views-field-field-start-and-end-date-local">        <div class="field-content"><span class="date-display-single">Saturday, November 1, 2014, <span class="date-display-start">2:00 pm</span> to <span class="date-display-end">4:00 pm</span></span></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>								</div>							</div><!-- /#meetings -->
+																			<div class="tab-pane" id="updates">
+								
+							  <div class="view view-latest-project-updates view-id-latest_project_updates view-display-id-block_1 link-list view-dom-id-25c8f5666112018a40fadd944d85177f">
+            <div class="view-header">
+      <h4>Project Updates</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenuem-ocean-view-project-meetings-announced">19th Avenue/M Ocean View Project Meetings Announced</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Tuesday, January 5, 2016, 2:33 pm</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenue-m-ocean-view-project-quarterly-update-fall-2015">19th Avenue / M Ocean View Project Quarterly Update- Fall 2015</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Tuesday, November 3, 2015, 3:07 pm</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenue-m-ocean-view-project-quarterly-update-summer-2015">19th Avenue / M Ocean View Project Quarterly Update- Summer 2015</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Monday, June 22, 2015, 9:31 am</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/19th-avenue-m-ocean-view-project-quarterly-update-spring-2015">19th Avenue / M Ocean View Project Quarterly Update- Spring 2015</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Tuesday, February 24, 2015, 2:57 pm</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/project-updates/sfmta-launches-19th-avem-ocean-view-project-prepares-environmental-review">SFMTA launches 19th Ave/M Ocean View Project, Prepares for Environmental Review</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Thursday, October 23, 2014, 1:16 pm</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>					     
+							</div><!-- /#updates -->
+							
+													<div class="tab-pane" id="reports">
+							  
+							  	<div class="view view-project-documents view-id-project_documents view-display-id-block view-dom-id-f58be1548ed8bb292156da18d66c7e41">
+            <div class="view-header">
+      <h4>Documents</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-documents">        <div class="field-content"><table class="table table-striped sticky-enabled">
+ <thead><tr><th>Attachment</th><th>Size</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/19thAve_final_report.pdf" type="application/pdf; length=4833800" title="19thAve_final_report.pdf">Mar 2014 - 19th Avenue Transit Study (Feasibility Study) Final Report </a></span></td><td>4.61 MB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/19th_Ave_Corridor_Study.pdf" type="application/pdf; length=7984204" title="19th_Ave_Corridor_Study.pdf">Feb 2010 - 19th Avenue Corridor Study</a></span></td><td>7.61 MB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/factsheet_19thAve.pdf" type="application/pdf; length=315687" title="factsheet_19thAve.pdf">Project Factsheet PDF</a></span></td><td>308.29 KB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/2016-02-04-FebruaryPublicMtgPPT-PDFfriendly.pdf" type="application/pdf; length=4390820" title="2016-02-04-FebruaryPublicMtgPPT-PDFfriendly.pdf">February 2016 Public Meetings Presentation  PDF</a></span></td><td>4.19 MB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/Station%201%20Engineering.pdf" type="application/pdf; length=1110107" title="Station 1 Engineering.pdf">February 2016 Public Meetings Open House Boards - Station 1 Engineering</a></span></td><td>1.06 MB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/Station%202%20Rail.pdf" type="application/pdf; length=2829653" title="Station 2 Rail.pdf">February 2016 Public Meetings Open House Boards - Station 2 Rail</a></span></td><td>2.7 MB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/Full-size%20rail%20map.pdf" type="application/pdf; length=6041673" title="Full-size rail map.pdf">February 2016 Public Meetings Open House Boards - Station 2 Rail Map</a></span></td><td>5.76 MB</td> </tr>
+ <tr class="even"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/Station%203%20Street.pdf" type="application/pdf; length=5070244" title="Station 3 Street.pdf">February 2016 Public Meetings Open House Boards - Station 3 Street</a></span></td><td>4.84 MB</td> </tr>
+ <tr class="odd"><td><span class="file"><img class="file-icon" alt="PDF" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.sfmta.com/sites/default/files/projects/2016/Station%204%20Miscellaneous.pdf" type="application/pdf; length=658657" title="Station 4 Miscellaneous.pdf">February 2016 Public Meetings Open House Boards - Station 4 Miscellaneous</a></span></td><td>643.22 KB</td> </tr>
+</tbody>
+</table>
+</div>  </div>  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-project-documents view-id-project_documents view-display-id-attachment_1">
+            <div class="view-header">
+      <h4>Reports</h4>
+    </div>
+  
+  
+  
+      <div class="view-empty">
+      <p>No reports listed at this time.</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>							</div><!-- /#reports -->
+						  							
+														
+							<div class="tab-pane" id="staff">
+								
+								<div class="view view-project-contacts view-id-project_contacts view-display-id-block_2 view-dom-id-2be8bf84b4959b244649585e23f32c0c">
+            <div class="view-header">
+      <h4>Contacts</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="unstyled link-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/liz-brisson">Liz Brisson</a></span>  </div>  
+  <div class="views-field views-field-field-job-title">        <div class="field-content">19th Avenue/M-Ocean View Project Manager</div>  </div>  
+  <div class="views-field views-field-field-email">        <div class="field-content"><a href="mailto:liz.brisson@sfmta.com">liz.brisson@sfmta.com</a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/kelley-mccoy">Kelley McCoy</a></span>  </div>  
+  <div class="views-field views-field-field-job-title">        <div class="field-content">Public Information Officer</div>  </div>  
+  <div class="views-field views-field-field-email">        <div class="field-content"><a href="mailto:Kelley.McCoy@sfmta.com">Kelley.McCoy@sfmta.com</a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>							</div><!-- /#staff -->
+
+																			<div class="tab-pane" id="receive">
+								<h4>Receive Updates</h4>
+								<p>We will send you e-mail or SMS updates whenever the following are posted for the 19th Avenue / M Ocean View Project:</p>
+								<ul><li>Upcoming meetings</li>
+								<li>Project updates</li></ul>
+								<p><a href="https://public.govdelivery.com/accounts/CASFMTA/subscriber/new?topic_id=CASFMTA_585" target="_blank">Receive updates</a></p>
+
+							</div><!-- /#receive -->
+							
+					</div><!-- tab content -->
+		      </div><!-- secondary content -->
+		      
+		      <div class="span4"> 
+ 
+		        <div class="block">
+				      
+					  					    <div class="row-fluid show-without-interactive-map">
+					      <div class="span12">
+					      			<img src="https://www.sfmta.com/sites/default/files/styles/472x222_nostyle/public/projects/19thAve_web_image2.jpg?itok=rzS4w1Tt" width="" height="" alt="Image of M Ocean View at Holloway station" title="" />					      </div>
+					    </div>
+					 		           
+					 
+				      
+					    <div class="row-fluid show-without-interactive-map">
+					      <div class="span12">
+					      
+						    <div class="view view-related-blog-posts view-id-related_blog_posts view-display-id-block link-list region-sidebar-second  view-dom-id-0be9b31abdc68dae6ef66f9a16404b82">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>    
+					      
+					      </div>
+					    </div>
+
+							        </div> <!-- end block -->
+		        
+		        
+		        		        
+		      </div>
+
+        </div>
+    </div>
+ </div>
+
+    
+
+      <footer>
+          </footer>
+  
+  
+</article> <!-- /.node -->
+
+    </section>
+    
+     
+
+    
+  </div>
+  
+  
+  </div>
+  <div id="promos" class="promos-row">
+  	<div class="container">
+  		  <div class="region region-promos">
+    <section id="block-nodeblock-70270" class="block block-nodeblock" 
+>
+
+      
+  <div id="node-70270" class="node node-content-block clearfix">
+
+        
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="row-fluid" style="margin-top:20px;">
+  <div class="span12">
+			  <div class="well social">
+<strong>Share this on:</strong> <a href="
+http://www.facebook.com/sharer.php?u=https://www.sfmta.com/projects-planning/projects/19th-avenue-m-ocean-view-project" class="notactive share-facebook" target="_blank">Facebook</a><span class="pipe">|</span><a href="http://twitter.com/share?url=https://www.sfmta.com/projects-planning/projects/19th-avenue-m-ocean-view-project" class="notactive share-twitter" target="_blank">Twitter</a><span class="pipe">|</span><a href="/forward?path=node/126186" class="notactive share-email">Email</a>
+</div>      </div>
+    </div></div></div></div>  </div>
+
+  
+  
+</div>
+  
+</section> 
+
+<!-- /.block -->
+  </div>
+  	</div>	
+  </div>
+  <footer class="footer">
+  	<div class="container">
+      <div class="region region-footer">
+    <section id="block-block-1" class="block block-block" 
+>
+
+      
+  <div dir="ltr" lang="en">
+<div class="row-fluid footer-blocks">
+<div class="span3">
+<h3><a href="/about-sfmta" id="footer-about-sfmta-1">About the SFMTA</a></h3>
+
+<p>The San Francisco Municipal Transportation Agency oversees transit, streets and taxis in the city of San Francisco, California.</p>
+<a class="notactive" href="/about-sfmta" id="footer-about-sfmta-2">About the SFMTA</a></div>
+
+<div class="span3">
+<h3><a href="http://www.sf311.org/" id="footer-sf311-org" target="_blank">311</a></h3>
+
+<p>Phone us 24/7/366: dial 311 (415.701.2311 outside SF).</p>
+
+<p>Free language assistance / <span lang="zh-hant"><a href="/languages/chinese/all" hreflang="zh-hant" id="footer-chinese">免費語言協助</a></span> / <span lang="es"><a href="/languages/spanish/all" hreflang="es" id="footer-spanish">Ayuda gratuita con el idioma</a></span> / <span lang="ru"><a href="/languages/russian/all" hreflang="ru" id="footer-russian">Бесплатная помощь переводчиков</a></span> / <span lang="vi"><a href="/languages/vietnamese/all" hreflang="vi" id="footer-vietnamese">Trợ giúp Thông dịch Miễn phí</a></span> / <span lang="fr"><a href="/languages/french/all" hreflang="fr" id="footer-french">Assistance linguistique gratuite</a></span> / <span lang="ja"><a href="/languages/japanese/all" hreflang="ja" id="footer-japanese">無料の言語支援</a></span> / <span lang="ko"><a href="/languages/korean/all" hreflang="ko" id="footer-korean">무료 언어 지 원</a></span> / <span lang="fil"><a href="/languages/filipino/all" hreflang="fil" id="footer-filipino">Libreng tulong para sa wikang Filipino</a></span> / <span lang="th"><a href="/languages/thai/all" hreflang="th" id="footer-thai">การช่วยเหลือทางด้านภาษาโดยไม่เสียค่าใช้จ่าย</a></span> /</p>
+
+<p dir="rtl"><span lang="ar"><a href="/languages/arabic/all" hreflang="ar" id="footer-arabic">خط المساعدة المجاني على الرقم</a></span></p>
+</div>
+
+<div class="span3">
+<h3><a href="/feedback" id="footer-feedback-2">Contact us</a></h3>
+
+<p>We’re always looking to get better, so whether it be compliments, questions or complaints, let us know!</p>
+
+<p><a class="notactive" href="/feedback" id="footer-feedback-3">Submit feedback</a></p>
+&nbsp;
+
+<p><a class="notactive" href="/feedback/title-vi-discrimination-complaints" id="footer-feedback-discrimination-complaints">Discrimination Complaints</a></p>
+</div>
+
+<div class="span3">
+<ul class="unstyled networks">
+	<li><a href="https://twitter.com/sfmta_muni" id="footer-twitter" target="_blank"><i class="icon-social-twitter">&nbsp;</i>Twitter</a></li>
+	<li><a href="https://www.facebook.com/SFMTA.Muni" id="footer-facebook" target="_blank"><i class="icon-social-facebook">&nbsp;</i>Facebook</a></li>
+	<li><a href="http://www.youtube.com/user/SFMTAMuniTaxiStreets?feature=mhee" id="footer-youtube" target="_blank"><i class="icon-social-youtube">&nbsp;</i>YouTube</a></li>
+	<li><a href="/node/102171" id="footer-govdelivery"><i class="icon-social-email">&nbsp;</i>Alerts/Update Sign-up</a></li>
+	<!--<li><a class="notactive" href="#" id="footer-rss">RSS</a></li>-->
+</ul>
+</div>
+</div>
+
+<div class="row-fluid subfooter">
+<div class="span7">
+<ul class="inline">
+	<li><a href="http://www.sfgov.org/index.asp" id="footer-ccsf" target="_blank">City &amp; County of SF</a></li>
+	<li><a href="http://www.511.org/" id="footer-511" target="_blank">511 regional info</a></li>
+	<li><a href="http://archives.sfmta.com/" id="footer-archives" target="_blank">Archives</a></li>
+	<li><a class="notactive" href="/terms-use" id="footer-terms-of-use">Terms of Use/Privacy</a></li>
+	<li><a class="notactive" href="/news/notices" id="footer-notices">Notices</a></li>
+	<li><a class="notactive" href="/sitemap" id="footer-sitemap">Site Map</a></li>
+	<li><a class="notactive" href="http://get.adobe.com/reader/" id="footer-adobe" target="_blank">Download Adobe® Reader® software</a> to view PDFs</li>
+</ul>
+</div>
+
+<div class="span5">
+<div class="pull-right copyright">Copyright © 2013-2016 SFMTA. All rights reserved.</div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+</div>
+  
+</section> 
+
+<!-- /.block -->
+  </div>
+    <script>
+    jQuery(window).load(function(){
+	jQuery('.flexslider').flexslider({
+			animation: "slide",
+			pausePlay: true,
+			pauseText: 'Pause',
+			controlNav:false,
+			playText: 'Play',
+			start: function(slider){
+				jQuery('body').removeClass('loading');
+				}
+			});
+});
+</script>
+  	</div>
+  </footer>
+
+  </body>
+</html>

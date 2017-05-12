@@ -1,0 +1,845 @@
+[{
+	"user_details": {
+		"gender": "M",
+		"age": "23",
+		"occupation": "student"
+	},
+	"user_id": "135",
+	"movie_details": [{
+		"movie_rating": "4",
+		"movie_id": "23",
+		"movie_name": "Taxi Driver (1976)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "1046",
+		"movie_name": "Malice (1993)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "39",
+		"movie_name": "Strange Days (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "1208",
+		"movie_name": "Kiss of Death (1995)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "431",
+		"movie_name": "Highlander (1986)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "449",
+		"movie_name": "Star Trek: The Motion Picture (1979)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "233",
+		"movie_name": "Under Siege (1992)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "229",
+		"movie_name": "Star Trek III: The Search for Spock (1984)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "294",
+		"movie_name": "Liar Liar (1997)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "227",
+		"movie_name": "Star Trek VI: The Undiscovered Country (1991)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "54",
+		"movie_name": "Outbreak (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "176",
+		"movie_name": "Aliens (1986)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "77",
+		"movie_name": "Firm, The (1993)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "566",
+		"movie_name": "Clear and Present Danger (1994)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "802",
+		"movie_name": "Hard Target (1993)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "228",
+		"movie_name": "Star Trek: The Wrath of Khan (1982)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "642",
+		"movie_name": "Grifters, The (1990)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "33",
+		"movie_name": "Desperado (1995)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "379",
+		"movie_name": "Tales From the Crypt Presents: Demon Knight (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "443",
+		"movie_name": "Birds, The (1963)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "603",
+		"movie_name": "Rear Window (1954)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "185",
+		"movie_name": "Psycho (1960)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "504",
+		"movie_name": "Bonnie and Clyde (1967)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "564",
+		"movie_name": "Tales from the Hood (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "183",
+		"movie_name": "Alien (1979)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "325",
+		"movie_name": "Crash (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "475",
+		"movie_name": "Trainspotting (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "744",
+		"movie_name": "Michael Collins (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "79",
+		"movie_name": "Fugitive, The (1993)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "653",
+		"movie_name": "Touch of Evil (1958)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "12",
+		"movie_name": "Usual Suspects, The (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "258",
+		"movie_name": "Contact (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "939",
+		"movie_name": "Murder in the First (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "265",
+		"movie_name": "Hunt for Red October, The (1990)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "943",
+		"movie_name": "Killing Zoe (1994)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "173",
+		"movie_name": "Princess Bride, The (1987)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "98",
+		"movie_name": "Silence of the Lambs, The (1991)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "288",
+		"movie_name": "Scream (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "56",
+		"movie_name": "Pulp Fiction (1994)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "234",
+		"movie_name": "Jaws (1975)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "230",
+		"movie_name": "Star Trek IV: The Voyage Home (1986)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "260",
+		"movie_name": "Event Horizon (1997)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "1217",
+		"movie_name": "Assassins (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "321",
+		"movie_name": "Mother (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "324",
+		"movie_name": "Lost Highway (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "55",
+		"movie_name": "Professional, The (1994)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "203",
+		"movie_name": "Unforgiven (1992)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "452",
+		"movie_name": "Jaws 2 (1978)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "327",
+		"movie_name": "Cop Land (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "470",
+		"movie_name": "Tombstone (1993)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "554",
+		"movie_name": "Waterworld (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "581",
+		"movie_name": "Kalifornia (1993)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "38",
+		"movie_name": "Net, The (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "226",
+		"movie_name": "Die Hard 2 (1990)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "5",
+		"movie_name": "Copycat (1995)"
+	}]
+}, {
+	"user_details": {
+		"gender": "M",
+		"age": "23",
+		"occupation": "student"
+	},
+	"user_id": "391",
+	"movie_details": [{
+		"movie_rating": "3",
+		"movie_id": "527",
+		"movie_name": "Gandhi (1982)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "188",
+		"movie_name": "Full Metal Jacket (1987)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "264",
+		"movie_name": "Mimic (1997)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "56",
+		"movie_name": "Pulp Fiction (1994)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "26",
+		"movie_name": "Brothers McMullen, The (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "180",
+		"movie_name": "Apocalypse Now (1979)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "134",
+		"movie_name": "Citizen Kane (1941)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "197",
+		"movie_name": "Graduate, The (1967)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "357",
+		"movie_name": "One Flew Over the Cuckoo's Nest (1975)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "15",
+		"movie_name": "Mr. Holland's Opus (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "97",
+		"movie_name": "Dances with Wolves (1990)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "203",
+		"movie_name": "Unforgiven (1992)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "474",
+		"movie_name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "924",
+		"movie_name": "White Squall (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "1101",
+		"movie_name": "Six Degrees of Separation (1993)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "195",
+		"movie_name": "Terminator, The (1984)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "530",
+		"movie_name": "Man Who Would Be King, The (1975)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "47",
+		"movie_name": "Ed Wood (1994)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "204",
+		"movie_name": "Back to the Future (1985)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "497",
+		"movie_name": "Bringing Up Baby (1938)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "286",
+		"movie_name": "English Patient, The (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "238",
+		"movie_name": "Raising Arizona (1987)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "748",
+		"movie_name": "Saint, The (1997)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "127",
+		"movie_name": "Godfather, The (1972)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "507",
+		"movie_name": "Streetcar Named Desire, A (1951)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "300",
+		"movie_name": "Air Force One (1997)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "222",
+		"movie_name": "Star Trek: First Contact (1996)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "678",
+		"movie_name": "Volcano (1997)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "510",
+		"movie_name": "Magnificent Seven, The (1954)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "89",
+		"movie_name": "Blade Runner (1982)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "200",
+		"movie_name": "Shining, The (1980)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "12",
+		"movie_name": "Usual Suspects, The (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "64",
+		"movie_name": "Shawshank Redemption, The (1994)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "205",
+		"movie_name": "Patton (1970)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "31",
+		"movie_name": "Crimson Tide (1995)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "508",
+		"movie_name": "People vs. Larry Flynt, The (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "60",
+		"movie_name": "Three Colors: Blue (1993)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "328",
+		"movie_name": "Conspiracy Theory (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "460",
+		"movie_name": "Crossing Guard, The (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "288",
+		"movie_name": "Scream (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "8",
+		"movie_name": "Babe (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "604",
+		"movie_name": "It Happened One Night (1934)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "69",
+		"movie_name": "Forrest Gump (1994)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "318",
+		"movie_name": "Schindler's List (1993)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "774",
+		"movie_name": "Prophecy, The (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "61",
+		"movie_name": "Three Colors: White (1994)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "659",
+		"movie_name": "Arsenic and Old Lace (1944)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "276",
+		"movie_name": "Leaving Las Vegas (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "334",
+		"movie_name": "U Turn (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "462",
+		"movie_name": "Like Water For Chocolate (Como agua para chocolate) (1992)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "71",
+		"movie_name": "Lion King, The (1994)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "294",
+		"movie_name": "Liar Liar (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "544",
+		"movie_name": "Things to Do in Denver when You're Dead (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "132",
+		"movie_name": "Wizard of Oz, The (1939)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "504",
+		"movie_name": "Bonnie and Clyde (1967)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "282",
+		"movie_name": "Time to Kill, A (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "58",
+		"movie_name": "Quiz Show (1994)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "511",
+		"movie_name": "Lawrence of Arabia (1962)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "191",
+		"movie_name": "Amadeus (1984)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "11",
+		"movie_name": "Seven (Se7en) (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "963",
+		"movie_name": "Some Folks Call It a Sling Blade (1993)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "480",
+		"movie_name": "North by Northwest (1959)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "646",
+		"movie_name": "Once Upon a Time in the West (1969)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "546",
+		"movie_name": "Broken Arrow (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "59",
+		"movie_name": "Three Colors: Red (1994)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "491",
+		"movie_name": "Adventures of Robin Hood, The (1938)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "421",
+		"movie_name": "William Shakespeare's Romeo and Juliet (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "237",
+		"movie_name": "Jerry Maguire (1996)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "772",
+		"movie_name": "Kids (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "100",
+		"movie_name": "Fargo (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "498",
+		"movie_name": "African Queen, The (1951)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "182",
+		"movie_name": "GoodFellas (1990)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "258",
+		"movie_name": "Contact (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "168",
+		"movie_name": "Monty Python and the Holy Grail (1974)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "213",
+		"movie_name": "Room with a View, A (1986)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "661",
+		"movie_name": "High Noon (1952)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "490",
+		"movie_name": "To Catch a Thief (1955)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "482",
+		"movie_name": "Some Like It Hot (1959)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "603",
+		"movie_name": "Rear Window (1954)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "22",
+		"movie_name": "Braveheart (1995)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "174",
+		"movie_name": "Raiders of the Lost Ark (1981)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "458",
+		"movie_name": "Nixon (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "173",
+		"movie_name": "Princess Bride, The (1987)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "483",
+		"movie_name": "Casablanca (1942)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "234",
+		"movie_name": "Jaws (1975)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "471",
+		"movie_name": "Courage Under Fire (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "148",
+		"movie_name": "Ghost and the Darkness, The (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "479",
+		"movie_name": "Vertigo (1958)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "628",
+		"movie_name": "Sleepers (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "48",
+		"movie_name": "Hoop Dreams (1994)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "9",
+		"movie_name": "Dead Man Walking (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "76",
+		"movie_name": "Carlito's Way (1993)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "215",
+		"movie_name": "Field of Dreams (1989)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "50",
+		"movie_name": "Star Wars (1977)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "125",
+		"movie_name": "Phenomenon (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "176",
+		"movie_name": "Aliens (1986)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "1163",
+		"movie_name": "Portrait of a Lady, The (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "322",
+		"movie_name": "Murder at 1600 (1997)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "651",
+		"movie_name": "Glory (1989)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "187",
+		"movie_name": "Godfather: Part II, The (1974)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "194",
+		"movie_name": "Sting, The (1973)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "705",
+		"movie_name": "Singin' in the Rain (1952)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "177",
+		"movie_name": "Good, The Bad and The Ugly, The (1966)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "186",
+		"movie_name": "Blues Brothers, The (1980)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "715",
+		"movie_name": "To Die For (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "301",
+		"movie_name": "In & Out (1997)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "228",
+		"movie_name": "Star Trek: The Wrath of Khan (1982)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "652",
+		"movie_name": "Rosencrantz and Guildenstern Are Dead (1990)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "696",
+		"movie_name": "City Hall (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "291",
+		"movie_name": "Absolute Power (1997)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "209",
+		"movie_name": "This Is Spinal Tap (1984)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "378",
+		"movie_name": "Miracle on 34th Street (1994)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "427",
+		"movie_name": "To Kill a Mockingbird (1962)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "131",
+		"movie_name": "Breakfast at Tiffany's (1961)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "96",
+		"movie_name": "Terminator 2: Judgment Day (1991)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "435",
+		"movie_name": "Butch Cassidy and the Sundance Kid (1969)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "98",
+		"movie_name": "Silence of the Lambs, The (1991)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "133",
+		"movie_name": "Gone with the Wind (1939)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "648",
+		"movie_name": "Quiet Man, The (1952)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "23",
+		"movie_name": "Taxi Driver (1976)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "591",
+		"movie_name": "Primal Fear (1996)"
+	}]
+}, {
+	"user_details": {
+		"gender": "M",
+		"age": "23",
+		"occupation": "student"
+	},
+	"user_id": "706",
+	"movie_details": [{
+		"movie_rating": "3",
+		"movie_id": "245",
+		"movie_name": "Devil's Own, The (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "628",
+		"movie_name": "Sleepers (1996)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "333",
+		"movie_name": "Game, The (1997)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "100",
+		"movie_name": "Fargo (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "50",
+		"movie_name": "Star Wars (1977)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "1",
+		"movie_name": "Toy Story (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "118",
+		"movie_name": "Twister (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "25",
+		"movie_name": "Birdcage, The (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "331",
+		"movie_name": "Edge, The (1997)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "7",
+		"movie_name": "Twelve Monkeys (1995)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "288",
+		"movie_name": "Scream (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "756",
+		"movie_name": "Father of the Bride Part II (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "294",
+		"movie_name": "Liar Liar (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "471",
+		"movie_name": "Courage Under Fire (1996)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "742",
+		"movie_name": "Ransom (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "181",
+		"movie_name": "Return of the Jedi (1983)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "325",
+		"movie_name": "Crash (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "148",
+		"movie_name": "Ghost and the Darkness, The (1996)"
+	}, {
+		"movie_rating": "2",
+		"movie_id": "682",
+		"movie_name": "I Know What You Did Last Summer (1997)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "273",
+		"movie_name": "Heat (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "258",
+		"movie_name": "Contact (1997)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "410",
+		"movie_name": "Kingpin (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "9",
+		"movie_name": "Dead Man Walking (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "117",
+		"movie_name": "Rock, The (1996)"
+	}, {
+		"movie_rating": "3",
+		"movie_id": "24",
+		"movie_name": "Rumble in the Bronx (1995)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "237",
+		"movie_name": "Jerry Maguire (1996)"
+	}, {
+		"movie_rating": "5",
+		"movie_id": "125",
+		"movie_name": "Phenomenon (1996)"
+	}, {
+		"movie_rating": "4",
+		"movie_id": "323",
+		"movie_name": "Dante's Peak (1997)"
+	}, {
+		"movie_rating": "1",
+		"movie_id": "687",
+		"movie_name": "McHale's Navy (1997)"
+	}]
+}]

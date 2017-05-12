@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<head>
+	
+	<meta charset="UTF-8" />
+	<title>McDonald&#8217;s High School Scholar Athlete Of The Month &laquo; CBS Dallas / Fort Worth</title>
+	<link rel="pingback" href="http://dfw.cbslocal.com/xmlrpc.php" />
+	<meta name="keywords" content="vibNews" />
+	
+<!-- WP Header - Start -->
+	<meta name="google-site-verification" content="44caXBf4kjHeKKAT7ZZ89NaCX25utL_yRSa-qGpwIhY" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=dfw.cbslocal.com&amp;id=15909545&amp;t=1462055103&amp;back=http%3A%2F%2Fdfw.cbslocal.com%2Fmcdonalds-high-school-scholar-athlete-of-the-month%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="CBS Dallas / Fort Worth &raquo; Feed" href="http://dfw.cbslocal.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CBS Dallas / Fort Worth &raquo; Comments Feed" href="http://dfw.cbslocal.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CBS Dallas / Fort Worth &raquo; McDonald&#8217;s High School Scholar Athlete Of The&nbsp;Month Comments Feed" href="http://dfw.cbslocal.com/mcdonalds-high-school-scholar-athlete-of-the-month/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s0.wp.com/_static/??-eJyVkttOwzAMhl8IJyqgwg3iWdzUdOmcA7G70rcnK5u0MSG6y9+HL5+s2DmDS1EpqtUdBRJ78Nm6ToCTQ7aZp8FHsSH1E9euJOeRIVDv0ToRO/t+IIVTPZcUkvoUTe092At6mODMmrNLASR4puVXulnbJLUOQcCIA5XV6qoCxDVFvaVfSLHfV9JImtHtYU3bZI7PZSwaqYgtSVGxY4Kfu2xH1K2Oeigid62O1flzorLYNDM4LGkS4mMw57ANJLowbdf986T/WH5gdEuXvk7ZnDM05sk83k0jrBOF/bBTW6oTCl0VTfDrV3wPb81z2zTta/vSjt+0ERxT' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='http://fonts.googleapis.com/css?family=Questrial%7CArvo%3A400%2C700%7CMerriweather%3A400%2C900%7COswald%3A300%2C400%2C700%7CChanga+One%7CRighteous&#038;ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css'  href='http://fonts.googleapis.com/css?family=Black+Ops+One%7CVollkorn%7COpen+Sans%3A300%2C400%2C700%2C800%7CMontserrat%3A300%2C400%2C700%7CLato%3A400%2C700%7CPT+Sans%3A400%2C700&#038;ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-squada-one-css'  href='http://fonts.googleapis.com/css?family=Squada+One%3A300%2C400%2C700&#038;ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-6' href='https://s1.wp.com/_static/??-eJyFjFEOwiAQBS8kvhCt/TKeZaWbiu4CYaHG21u5gL/vzQzexYWcGqeG9mBlwxYLwt2c5ECCYAbqS8yuCH24HvfhgH9Wkb7GZNC8dNnfATmlRCvX0VSqL26Gwf+iN73688X7eTpN8/MLB/A3hA==' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-custom-css-css'  href='http://wayne.cbslocal.com/cbs-local-custom-css/global/cbslocal_custom_global.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-8' href='https://s1.wp.com/_static/??-eJx9j9EKwjAMRX/IGAZSfRG/pe3CVm3a0LTu99cpA/FhLyHcnHMhuAj4nCqlinUmJsV3EPROIWZvI0psU0iKnMcW+/UDAdtkJyro9S859+SEP6XcYK/wuVDPWWzdCKYxWIpdTvVIYzG7ta2z9S894hfpNDgnhVShTw6N4fvc5j34PlzMMJibuZrnCsqFXyU=' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-10' href='https://s2.wp.com/_static/??-eJylUF0PgjAM/EPOhijyZPwtY9RZ3FayD/j7jqEYY8KDvrTX9O5yLUyDUOwiugjxhhYDjDSAaoMwrKSBwSRNLoDlLpm8najTGAOosOJ9xjv4xyh6OaJ5ti87m8RLjJZ7WupCI3AcKTPDCrb0GrnEicTuYxBXI8lvST22hnWGukR+j7+dX0jCSic1+uJopb/PDyn82fRiz9XxVFVNfaib/gHtWJ/f' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-external-css-css'  href='http://wayne.cbslocal.com/cbs-local-custom-css/global/cbslocal_custom_global.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-12' href='https://s1.wp.com/wp-content/themes/h4/global.css?m=1420737423h' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyNT9EOwiAM/CGBoAZ9MX5L7djshIID1P29uLgYfTBLmjTX3l2v6h4FMbrS2KT6Wtdih/HdZJ9W6h9BeOoGyFZ64pmMgbPlrPLZ+iq5UVR4SsIFBKeiKx1xUj40xdUtNJNpbYvkn/stMI6n8JiTzlhouZFrGQEvixwhJUoZOE852sKYKfCyNL/PTCThgaGzw8vuayCsq6geqt5Hf9Bbo7XZm53pn3djj70='></script>
+<script type='text/javascript' src='//assets.adobedtm.com/21d6c746401821d9ceb8fd43cc9c7649a92762c2/satelliteLib-62c5c4d67cd6b55dd225771b27563dbd602fde8f.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyNkNEOgjAMRX/IsRCU6IPxW8ao2LmtuG4Q/XpnAgYTIz41bc/tbSvHXmjyEXyUhqWjBi2IxBBUl2sC/ZkKwxv5yfXE0QFzhr50zS1BuE+hQD8gjKuYgdgrfRUBGB/vqei1TS3wgk8oNQUoHPrf1IhtB3Gdi6rhJTWvGC+Qb5QD9lI3LCxpZV/KzDfQisAsJos/hZMljVZoFSh/2b6SYk6mJU7uWG6rw35XVnVtnopPmwY='></script>
+<script type='text/javascript' src='//mobile-content.sessionm.com/javascripts/api/sessionm.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/themes/vip/cbs-local/js/gamification.js?m=1444933609h'></script>
+<script type='text/javascript' src='http://s1.evcdn.com/store/js/switchboard.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyNjEsOwjAMRC9Ea0WACgvEWUzqNomcD7UTxO0JK8QKdqOZ9wYeZbA5KSUFdRRJoPkC9iYDZ4sMhevqk0DMc+W+UuvoUhnCJ49BdvDrCEW8KCaVt4qzI/GN/lI7H+6VticshJ3Y2K9OYSMmFPoqx+hT/7zGizkcz2aaTmYfXhCvVUk='></script>
+<script type='text/javascript' src='http://apis.google.com/js/plusone.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://ajax.cbslocal.com/jquery/modernizr/2.0.6/modernizr.min.js?ver=2.0.6'></script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydjEsOwjAQQy9EOlSlIBaIs6TpNEw0+ZBJgN6eILFgCcgLy7L94J6UiaFgKFAu6FHgRgnMJIqj0QxOwF0r5vVtnYlcfaBlVX23bfIUOicb+Bk0aZWilLYUbfF/zsL4EKYZ87d/y3HS/NU6cbUUBHycK7e2CmaV0ZKUrAvF8OJ95kY9+1O/G4/DuD8MvXsCeRqDUQ=='></script>
+<script type='text/javascript' src='http://ajax.cbslocal.com/jquery/jplayer/2.9.2/jquery.jplayer.min.js?ver=2.9.2'></script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/themes/vip/cbs-local/js/audio-player.js?m=1447949191h'></script>
+<script type='text/javascript' src='http://player.radio.com/player/javascript/launchPlayer.js?ver=1.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SafeCommentsAjax = {"ajaxurl":"http:\/\/dfw.cbslocal.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJxtjEsOgzAMBS9EsPiJskCcxaSGEsVJFIeW4zcgsam6fW9m4BOU9i6RS5BexCTw3gLoWZT1Gi0Eu6+bE2D/3G1+L0gxOlwpgvkZSiMF/E/eIcGFVKTgY8oYc8bk7KDBI+sTj1Xb1f1jaPrOfAHAczpd'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cbsdallas.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/P14KNz-1hPT' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fdfw.cbslocal.com%2Fmcdonalds-high-school-scholar-athlete-of-the-month%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fdfw.cbslocal.com%2Fmcdonalds-high-school-scholar-athlete-of-the-month%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/1b8df917997a71e7b848d05e85191df3?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/1b8df917997a71e7b848d05e85191df3?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/d84b3f65c780e092277ee393cdbaeb66?s=114" />
+<link rel='openid.server' href='http://cbsdallas.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://cbsdallas.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://dfw.cbslocal.com/osd.xml" title="CBS Dallas / Fort Worth" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">
+			#wwWrapper { overflow: hidden; }
+			#wwWidget { background: none; font-family: Arial, Helvetica, sans-serif; margin-bottom: 5px; overflow: hidden; padding: 5px; width: 170px; }
+			#wwWidget a { text-decoration: none; }
+			#wwWidget img { border: 0; float: left; margin: 3px 0 0 0; padding: 0; width: 28px; }
+			#wwWidget span#wwTemp { color: #a6d4f7; font: normal 31px Helvetica, Arial, sans-serif; letter-spacing: 0; }
+		</style>
+			<link rel="canonical" href="http://dfw.cbslocal.com/mcdonalds-high-school-scholar-athlete-of-the-month/" />
+			<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta name="application-name" content="CBS Dallas / Fort Worth" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="News, Sports, Weather, Traffic and the Best of DFW" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://dfw.cbslocal.com/feed/;icon-uri=http://1.gravatar.com/blavatar/1b8df917997a71e7b848d05e85191df3?s=16" />
+					<meta name="twitter:card" content="summary_large_image" />
+			<meta name="twitter:image" content="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/facebook/facebook-share-260x260.png">
+		
+					<meta name="twitter:title" content="McDonald&#039;s High School Scholar Athlete Of The Month" />
+					<meta name="twitter:description" content="" />
+					<meta name="twitter:site" content="CBSDFW" />
+		
+		
+					<meta property="og:title" content="McDonald&#039;s High School Scholar Athlete Of The Month" />
+					<meta property="og:image" content="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/facebook/facebook-share-260x260.png" />
+					<meta property="og:image:secure_url" content="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/facebook/facebook-share-260x260.png" />
+					<meta property="og:description" content="" />
+					<meta property="og:type" content="article" />
+					<meta property="og:url" content="http://dfw.cbslocal.com/mcdonalds-high-school-scholar-athlete-of-the-month/" />
+					<meta property="article:publisher" content="https://www.facebook.com/CBSDFW" />
+					<meta property="article:author" content="https://www.facebook.com/CBSDFW" />
+		
+		<style type="text/css" id="syntaxhighlighteranchor"></style>
+		
+							<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+			<script type="text/javascript" >
+				try {
+					amznads.getAds('3063');
+				} catch(e) {}
+			</script>
+		
+		
+				<script type="text/javascript">
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement("script");
+				gads.async = true;
+				gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node =document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+
+		
+	<script type="text/javascript">
+		var ybotq = ybotq || [];
+		(function() {
+			var js = document.createElement('script');
+			js.src = '//cdn.yldbt.com/js/yieldbot.intent.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(js, node);
+		})();
+	</script>
+
+	
+					<script type="text/javascript">
+				try {
+					amznads.setTargetingForGPTAsync('amznslots');
+				} catch(e) {}
+			</script>
+		
+		
+		
+				<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s2.wp.com/?custom-css=1&#038;csblog=14KNz&#038;cscache=6&#038;csrev=1252" />
+		<!-- WP Header - End -->
+
+	<script type="text/javascript">
+		//<![CDATA[
+			
+			
+					//]]>
+	</script>
+
+</head>
+
+<body class="page page-id-306893 page-template page-template-page-iframe page-template-page-iframe-php desktop-display-type mp6 customizer-styles-applied market-template-local" style="background: #eaeaea url(http://cbsdallas.files.wordpress.com/2011/06/dfw-bg.jpg) no-repeat center top;">
+
+			<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<!--[if lte IE 8]>
+			<div id="global-browser-not-supported">
+				<p>Sorry, your browser is out-of-date and cannot support this site. Please upgrade to the latest version, or try another browser.</p>
+				<p><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank">Download Internet Explorer</a> | <a href="http://www.mozilla.com/firefox/" target="_blank">Download Firefox</a> | <a href="http://www.google.com/chrome" target="_blank">Download Chrome</a></p>
+			</div>
+		<![endif]-->
+	
+	<div id="wrapper" class="body-wrapper">
+
+
+
+
+<header id="page-header" class="page-header-type-modular modular-header-market" style="background-image:url(https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/header-backgrounds/market-blue-outer.png);">
+	<div class="wrapper">
+	<div id="page-header-inner" style="">
+
+					
+
+		<div id="header-rows" class="header-row">
+							<div class="header-row-top header-row">
+																		<div id="page-header-top-left" class="header-cell">
+								<div id="component-links" class="header-component"><ul id="menu-header-dropdown-menu" class="menu"><li id="menu-item-445828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-445828"><a href="http://dallas.cbslocal.com">DFW</a>
+<ul class="sub-menu">
+	<li id="menu-item-446399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-446399"><a href="http://radio.com">Radio.com</a></li>
+	<li id="menu-item-445825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445825"><a href="http://sports.cbslocal.com">CBS Local Sports</a></li>
+	<li id="menu-item-445826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445826"><a href="http://radio.cbssports.com">CBS Sports Radio</a></li>
+	<li id="menu-item-445827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445827"><a href="http://tailgatefan.cbslocal.com">Tailgate Fan</a></li>
+	<li id="menu-item-445829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445829"><a href="http://atlanta.cbslocal.com">Atlanta</a></li>
+	<li id="menu-item-445830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445830"><a href="http://baltimore.cbslocal.com">Baltimore</a></li>
+	<li id="menu-item-445831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445831"><a href="http://boston.cbslocal.com">Boston</a></li>
+	<li id="menu-item-445833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445833"><a href="http://chicago.cbslocal.com">Chicago</a></li>
+	<li id="menu-item-445834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445834"><a href="http://cleveland.cbslocal.com">Cleveland</a></li>
+	<li id="menu-item-445835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445835"><a href="http://connecticut.cbslocal.com">Connecticut</a></li>
+	<li id="menu-item-445836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445836"><a href="http://denver.cbslocal.com">Denver</a></li>
+	<li id="menu-item-445837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445837"><a href="http://detroit.cbslocal.com">Detroit</a></li>
+	<li id="menu-item-445838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445838"><a href="http://houston.cbslocal.com">Houston</a></li>
+	<li id="menu-item-445839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445839"><a href="http://lasvegas.cbslocal.com">Las Vegas</a></li>
+	<li id="menu-item-445840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445840"><a href="http://losangeles.cbslocal.com">Los Angeles</a></li>
+	<li id="menu-item-445841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445841"><a href="http://miami.cbslocal.com">Miami</a></li>
+	<li id="menu-item-445842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445842"><a href="http://minnesota.cbslocal.com">Minnesota</a></li>
+	<li id="menu-item-445843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445843"><a href="http://newyork.cbslocal.com">New York</a></li>
+	<li id="menu-item-445844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445844"><a href="http://philadelphia.cbslocal.com">Philadelphia</a></li>
+	<li id="menu-item-445845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445845"><a href="http://pittsburgh.cbslocal.com">Pittsburgh</a></li>
+	<li id="menu-item-445846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445846"><a href="http://sacramento.cbslocal.com">Sacramento</a></li>
+	<li id="menu-item-445847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445847"><a href="http://sanfrancisco.cbslocal.com">San Francisco</a></li>
+	<li id="menu-item-445848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445848"><a href="http://seattle.cbslocal.com">Seattle</a></li>
+	<li id="menu-item-445849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445849"><a href="http://stlouis.cbslocal.com">St Louis</a></li>
+	<li id="menu-item-445850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445850"><a href="http://tampa.cbslocal.com">Tampa</a></li>
+	<li id="menu-item-445851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445851"><a href="http://washington.cbslocal.com">Washington</a></li>
+</ul>
+</li>
+<li id="menu-item-445853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445853"><a href="http://dfw.cbslocal.com/newsletter/signup">SIGN UP FOR NEWSLETTERS</a></li>
+</ul></div>
+							</div>
+																								<div id="page-header-top-right" class="header-cell">
+								<div id="component-gamification" class="header-component"><div id="sessionm-unclaimed-widget"></div></div>
+<div id="component-account" class="header-component"><div id="sso-header-wrapper"></div></div>
+<div id="component-search" class="header-component"><form action="http://dfw.cbslocal.com/search/" class="search"><input type="text" class="query" name="q" id="s" size="31" placeholder="Search" /><input type="reset" class="reset" value="Reset" /><input type="submit" class="submit" value="Search" /></form></div>
+							</div>
+															</div>
+			
+			<div class="header-row-inner header-row">
+								
+													<div id="page-header-tall-right">
+						<div id="component-sponsored-ad" class="header-component">
+<div class="sponsored-by ad-size-120x60">
+
+			<strong class="disclosure">Sponsored By</strong>
+	
+	<div class="cbs-ad-unit-wrapper"><div id="ad_10" class="cbs-ad-unit ad_gpt sponsor-unit" data-id="10" data-max-width="120" data-max-height="60"></div></div>
+</div></div>
+					</div>
+				
+				<div class="header-row-middle-and-bottom header-row">
+											<div class="header-row-middle header-row">
+																								<div id="page-header-middle-left" class="header-cell">
+										<a href="http://dfw.cbslocal.com" id="component-logo" class="header-component"><img src="https://cbsdallas.files.wordpress.com/2016/04/cbs_dfw.png" alt="CBS Dallas / Fort Worth" /></a>
+									</div>
+																																<div id="page-header-middle-right" class="header-cell">
+										<a href="http://weather.dfw.cbslocal.com" id="component-weather" class="header-component weather-widget" data-key="245c93fff38d0d82" data-location="76101"></a>
+									</div>
+																					</div>
+					
+											<div class="header-row-bottom header-row">
+																								<div id="page-header-bottom-left" class="header-cell">
+										<div id="component-stations" class="header-component"><a href="http://dfw.cbslocal.com/station/cbs-11/" title="CBS 11" class="cbs-thumbnail-link" id="102" ><div class="thumbnail-wrapper"><img width="55" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2010/09/cbs111.png?w=55" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="CBS11[1]" /></div><div class="title-wrapper"><strong class="title">CBS 11</strong><em class="description">5233 Bridge Street Fort Worth, Texas 76103 12001 N. Central Expressway Suite 1300 Dallas, Texas 75243 Station Phone: 817-451-1111 News Tips: 817-496-7711 news@ktvt.com ConsumerJustice@ktvt.com Upload News Pics Here Upload Weather Pics Here Station Feedback: Email [&hellip;]</em></div></a><a href="http://dfw.cbslocal.com/station/txa-21/" title="TXA 21" class="cbs-thumbnail-link" id="103" ><div class="thumbnail-wrapper"><img width="38" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2010/09/txa211.png?w=38" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="TXA21[1]" /></div><div class="title-wrapper"><strong class="title">TXA 21</strong><em class="description">5233 Bridge Street Fort Worth, Texas 76103 12001 N. Central Expressway Suite 1300 Dallas, Texas 75231 Station Phone: 817-451-1111 News Tips: 817-496-7711 Station Feedback: Email Program Director: Email Website Feedback: Email Sales Inquiries: Email Twitter [&hellip;]</em></div></a><a href="http://dfw.cbslocal.com/station/metv-txa-21-2/" title="MeTV TXA 21.2" class="cbs-thumbnail-link" id="357039" ><div class="thumbnail-wrapper"><img width="52" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2010/09/metv_2121.png?w=52" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="MeTv_212[1]" /></div><div class="title-wrapper"><strong class="title">MeTV TXA 21.2</strong><em class="description">KTXA 21.2 airs the complete Me-TV program schedule, featuring more than 50 different classic television programs every week. KTXA 21.2 is available free over the air with the use of a digital antenna and can [&hellip;]</em></div></a><a href="http://dfw.cbslocal.com/station/krld/" title="KRLD" class="cbs-thumbnail-link" id="72" ><div class="thumbnail-wrapper"><img width="40" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2010/09/krld_10801.png?w=40" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="KRLD_1080[1]" /></div><div class="title-wrapper"><strong class="title">KRLD</strong><em class="description">4131 North Central Expressway Suite 100 Dallas, Texas 75204 KRLD Contest Rules CBS Dallas: 214-525-7000 News Tips: 214-525-7473 Traffic Tips: 214-634-1080 Sound-Off: 214-525-7442 Upload News Pics Here Upload Weather Pics Here Program Director: Email PSA [&hellip;]</em></div></a><a href="http://dfw.cbslocal.com/station/1053-the-fan/" title="105.3 The Fan" class="cbs-thumbnail-link" id="71" ><div class="thumbnail-wrapper"><img width="39" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2010/09/1053_thefan1.png?w=39" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="1053_theFan[1]" /></div><div class="title-wrapper"><strong class="title">105.3 The Fan</strong><em class="description">4131 North Central Expressway Suite 100 Dallas, Texas 75204Contest Rules Station Phone: 214-525-7000 Call The Studio: 877-881-1053Text The Studio: 43733 (Standard Text Rates May Apply) Program Director: Email Website Feedback: Email Sales Inquiries: Email Friends [&hellip;]</em></div></a></div>
+									</div>
+																																<div id="page-header-bottom-right" class="header-cell">
+										<div id="component-social" class="header-component follow-us social-follow-items size-24x24 type-blue"><span class="disclosure">Follow Us</span><a href="https://www.facebook.com/CBSDFW" class="facebook" target="_blank">Facebook</a><a href="https://twitter.com/#!/CBSDFW" class="twitter" target="_blank">Twitter</a><a href="https://www.youtube.com/user/CBSDFW/videos" class="youtube" target="_blank">YouTube</a></div>
+									</div>
+																					</div>
+					
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+	</div>
+</header>
+
+<header id="main-header" class="old-main-header">
+<nav class="main-nav">
+	<ul id="menu-header-menu" class="menu"><li id="menu-item-1071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://dfw.cbslocal.com/"><strong>Home</strong></a></li>
+<li id="menu-item-120651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://dfw.cbslocal.com/category/news/"><strong>News</strong></a></li>
+<li id="menu-item-1063" class="sports-tab menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://dfw.cbslocal.com/category/sports/"><strong>Sports</strong></a></li>
+<li id="menu-item-1443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://weather.dfw.cbslocal.com/"><strong>Weather</strong></a></li>
+<li id="menu-item-70378" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dfw.cbslocal.com/category/health/"><strong>Health</strong></a></li>
+<li id="menu-item-525455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://dfw.cbslocal.com/video/"><strong>Videos</strong></a></li>
+<li id="menu-item-304413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://dfw.cbslocal.com/audio/location/dallas-tx/"><strong>Audio</strong></a></li>
+<li id="menu-item-1383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://dfw.cbslocal.com/category/best-of/"><strong>Best Of</strong></a></li>
+<li id="menu-item-145693" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://events.dfw.cbslocal.com"><strong>Events</strong></a></li>
+<li id="menu-item-1442" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dfw.cbslocal.com/traffic/"><strong>Traffic</strong></a></li>
+<li id="menu-item-44789" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dfw.cbslocal.com/local-directory"><strong>Directory</strong></a></li>
+<li id="menu-item-418718" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://dfw.cbslocal.com/category/travel/"><strong>Travel</strong></a></li>
+<li id="menu-item-1441" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://offers.cbslocal.com/deal/dallas"><strong>Deals</strong></a></li>
+<li id="menu-item-113635" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://dfw.cbslocal.com/autos"><strong>Autos</strong></a></li>
+<li id="menu-item-583890" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://dfw.cbslocal.com/category/uncategorized/station-contests/"><strong>Contests</strong></a></li>
+</ul></nav>
+<nav class="sub-nav">
+	</nav>
+</header>		<section class="page-ad-container page-pencil-ad-container-top">
+			<div class="positioning-wrapper">
+				<table cellpadding="0" cellspacing="0"><tr><td align="center">
+					<div class="cbs-ad-unit-wrapper"><div id="ad_1" class="cbs-ad-unit ad_gpt full-ad page-pencil-ad" data-id="1" data-max-width="970" data-max-height="250"></div></div>				</td></tr></table>
+			</div>
+		</section>
+		
+<div id="page-content" class="main-white page-block-container">		<div class="section">
+						<h1><img width="1" height="1" src="https://cbsdallas.files.wordpress.com/2013/06/spacer.jpg?w=1&amp;h=1&amp;crop=1" class="attachment-header-image-large size-header-image-large" alt="spacer" /></h1>
+			<div class="clr"></div>
+		</div>
+	
+<div class="cols">
+		<div class="post-wrap">
+					
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-261';
+var addthis_config = {"data_track_clickback":true};if (typeof(addthis_share) == "undefined"){ addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"cbslocal","apiKey":"R_bfe2742f79bb4091b0fcfbdf5c6a81ca"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddd05dc24272928"></script><div style="background-color:#dd1021;"><img style="margin:auto;" src="https://cbsdallas.files.wordpress.com/2013/07/mcd_hssam_728x90.jpg?w=728&#038;h=90" alt="McDonald's High School Scholar Athlete Of The Month" width="728" height="90" title="McDonalds High School Scholar Athlete Of The Month" /></div>
+<h2 style="text-align:center;margin-top:20px;">Nominate A Student Athlete!</h2>
+<p style="text-align:center;margin-left:200px;margin-right:200px;">We&#8217;re honoring outstanding student athletes with a $1,000 college scholarship in the &#8216;McDonald&#8217;s High School Scholar Athlete of the Month&#8217; contest. Do you know someone who excels in sports, in the classroom and in the community? Let us know about them and they could be picked to win!</p>
+<p style="text-align:center;"><div class="shortcode shortcode-iframe"><iframe allowtransparency="true" frameBorder="0" src="http://digitalivy.com/9EGOKJ" scrolling="auto" frameborder="0" style="width:820px;height:3000px;overflow:auto;"></iframe></div></p>
+			</div>
+	</div>
+
+
+
+</div>
+
+		<section class="page-ad-container page-pencil-ad-container-bottom">
+			<div class="positioning-wrapper">
+				<table cellpadding="0" cellspacing="0"><tr><td align="center">
+					<div class="cbs-ad-unit-wrapper"><div id="ad_4" class="cbs-ad-unit ad_gpt full-ad page-pencil-ad" data-id="4" data-max-width="728" data-max-height="90"></div></div>				</td></tr></table>
+			</div>
+		</section>
+		
+<section class="items-grid page-block-container layout-3_column aspect-ratio-16-9" id="drip-pan" >
+			<header class="column-header">
+						<h4 class="title">More From CBS Dallas / Fort Worth</h4>
+		</header>
+	
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://apps.cbslocal.com" title="Drip Pan: CBS Local App" class="cbs-thumbnail-link item-1294725839" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2011/01/cbslocalapp_770x433.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Drip Pan: CBS Local App</strong></div></a><a href="http://apps.cbslocal.com/weather/dfw/" title="Drip Pan: Weather App" class="cbs-thumbnail-link item-1294725726" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2014/09/wx3.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Drip Pan: Weather App</strong></div></a><div class="item-1294725840 cbs-thumbnail-link cbs-thumbnail-html"><div id='p0'></div><script data-anvp='{&quot;mcp&quot;:&quot;cbs&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;100%&quot;,&quot;autoplay&quot;:true,&quot;playlist&quot;:&quot;185&quot;,&quot;accessKey&quot;:&quot;anvato_cbslocal_app_web_prod_547f3e49241ef0e5d30c79b2efbca5d92c698f67&quot;,&quot;accessControl&quot;:{&quot;preview&quot;:false},&quot;pInstance&quot;:&quot;p0&quot;,&quot;plugins&quot;:{&quot;heartbeat&quot;:{&quot;account&quot;:&quot;cbslocal-global-unified,cbslocal-station-dfw-dfw-u,cbslocal-subprimary-swtv-unified,cbslocal-market-dallasfortworth-unified&quot;,&quot;publisherId&quot;:&quot;823BA0335567497F7F000101@AdobeOrg&quot;,&quot;jobId&quot;:&quot;sc_va&quot;,&quot;marketingCloudId&quot;:&quot;823BA0335567497F7F000101@AdobeOrg&quot;,&quot;trackingServer&quot;:&quot;cbsdigitalmedia.hb.omtrdc.net&quot;,&quot;customTrackingServer&quot;:&quot;cbsdigitalmedia.d1.sc.omtrdc.net&quot;,&quot;chapterTracking&quot;:false,&quot;version&quot;:&quot;1.5&quot;},&quot;comscore&quot;:{&quot;clientId&quot;:&quot;3000023&quot;,&quot;c3&quot;:&quot;Dallas.cbslocal.com&quot;},&quot;dfp&quot;:{&quot;clientSide&quot;:{&quot;adTagUrl&quot;:&quot;http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=2x2&amp;iu=\/4128\/CBS.DALLAS&amp;ciu_szs&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vast2&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;description_url=[description_url]&amp;correlator=[timestamp]&quot;,&quot;keyValues&quot;:{&quot;categories&quot;:&quot;[[CATEGORIES]]&quot;,&quot;program&quot;:&quot;[[PROGRAM_NAME]]&quot;,&quot;siteSection&quot;:&quot;rightrail&quot;}}}},&quot;shareLink&quot;:&quot;http:\/\/dfw.cbslocal.com&quot;}' src='http://up.anv.bz/latest/scripts/anvload.js'></script></div>		</div>
+	</section>
+
+<footer id="page-footer" class="page-footer-type-menus-vertical">
+			<section class="top">
+			<a href="http://dfw.cbslocal.com" class="logo"><img src="https://cbsdallas.files.wordpress.com/2016/04/dfw.png" alt="CBS Dallas / Fort Worth" /></a>							<div id="component-social" class="footer-component social-follow-items type-blue size-24x24">
+					<div class="social-align-wrapper">
+						<span class="disclosure">Follow Us</span>
+						<a href="https://www.facebook.com/CBSDFW" class="facebook" target="_blank">Facebook</a><a href="https://twitter.com/#!/CBSDFW" class="twitter" target="_blank">Twitter</a><a href="https://www.youtube.com/user/CBSDFW/videos" class="youtube" target="_blank">YouTube</a>					</div>
+				</div>
+					</section>
+	
+			<section class="middle">
+							<div class="navigation-menus menu-count-6">
+					<div class="menu-block"><div class="title">News</div><div class="menu-footer-news-container"><ul id="menu-footer-news" class="footer-navigation nav-footer-list-1"><li id="menu-item-541783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541783"><a href="http://dfw.cbslocal.com/category/news/">Latest Headlines</a></li>
+<li id="menu-item-541784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541784"><a href="http://dfw.cbslocal.com/video/">Video</a></li>
+<li id="menu-item-541785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541785"><a href="http://dfw.cbslocal.com/audio/location/dallas-tx/">Audio</a></li>
+<li id="menu-item-541786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541786"><a href="http://dfw.cbslocal.com/photo-galleries/">Photo Galleries</a></li>
+<li id="menu-item-541787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541787"><a href="http://dfw.cbslocal.com/category/links-numbers/">Links &amp; Numbers</a></li>
+<li id="menu-item-541788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541788"><a href="http://dfw.cbslocal.com/traffic/">Traffic</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Sports</div><div class="menu-footer-sports-container"><ul id="menu-footer-sports" class="footer-navigation nav-footer-list-2"><li id="menu-item-541790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541790"><a href="http://dfw.cbslocal.com/category/sports/">Latest Headlines</a></li>
+<li id="menu-item-541791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541791"><a href="http://dfw.cbslocal.com/category/105-3-the-fan-shows/shan-rj/">Shan &amp; RJ</a></li>
+<li id="menu-item-541792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541792"><a href="http://dfw.cbslocal.com/category/105-3-the-fan-shows/gavin-chris/">Gavin &amp; Chris</a></li>
+<li id="menu-item-541793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541793"><a href="http://dfw.cbslocal.com/category/105-3-the-fan-shows/ben-skin/">Ben &amp; Skin</a></li>
+<li id="menu-item-541794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541794"><a href="http://dfw.cbslocal.com/category/105-3-the-fan-shows/cory-kevin/">Cory &amp; Kevin</a></li>
+<li id="menu-item-541795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541795"><a href="http://dfw.cbslocal.com/category/105-3-the-fan-shows/weekends-on-the-fan/">Fan Weekends</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Weather</div><div class="menu-footer-weather-container"><ul id="menu-footer-weather" class="footer-navigation nav-footer-list-3"><li id="menu-item-541798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541798"><a href="http://weather.dfw.cbslocal.com/">Current Conditions</a></li>
+<li id="menu-item-541799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541799"><a href="http://weather.dfw.cbslocal.com/auto/cbs11tvV3/Region/Southcentral/2xRadar.html">Live Radar</a></li>
+<li id="menu-item-541800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541800"><a href="http://dfw.cbslocal.com/category/blogs/storm-team-blog/">Storm Team Blog</a></li>
+<li id="menu-item-541801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541801"><a href="http://dfw.cbslocal.com/sky-cams/">Sky Cams</a></li>
+<li id="menu-item-541802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541802"><a href="http://photos.dfw.cbslocal.com/gallery/10226">Share Photos</a></li>
+<li id="menu-item-547717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-547717"><a href="http://apps.cbslocal.com/weather/dfw/">Weather App</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Best Of</div><div class="menu-footer-best-of-container"><ul id="menu-footer-best-of" class="footer-navigation nav-footer-list-4"><li id="menu-item-541803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541803"><a href="http://dfw.cbslocal.com/category/best-of/">Latest Features</a></li>
+<li id="menu-item-541809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541809"><a href="http://events.dfw.cbslocal.com">Local Events</a></li>
+<li id="menu-item-541806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541806"><a href="http://dfw.cbslocal.com/category/uncategorized/station-events/">Station Events</a></li>
+<li id="menu-item-541804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541804"><a href="http://dfw.cbslocal.com/local-directory/">Directory</a></li>
+<li id="menu-item-541808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541808"><a href="http://circulars.cbslocal.com/?p=cbsdfw">Circulars</a></li>
+<li id="menu-item-541810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541810"><a href="http://offers.cbslocal.com/dallas">Deals</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Stations</div><div class="menu-footer-stations-container"><ul id="menu-footer-stations" class="footer-navigation nav-footer-list-5"><li id="menu-item-541811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541811"><a href="http://dfw.cbslocal.com/about/">About Us</a></li>
+<li id="menu-item-541815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541815"><a href="http://dfw.cbslocal.com/on-air-schedules/">Schedules</a></li>
+<li id="menu-item-541812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541812"><a href="http://dfw.cbslocal.com/social/">Social Connect</a></li>
+<li id="menu-item-541813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541813"><a href="http://dfw.cbslocal.com/category/cares/">Cares</a></li>
+<li id="menu-item-541817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541817"><a href="http://dfw.cbslocal.com/category/uncategorized/station-contests/">Contests</a></li>
+<li id="menu-item-541816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541816"><a href="http://dfw.cbslocal.com/jobs/">Jobs</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Corporate</div><div class="menu-footer-corporate-container"><ul id="menu-footer-corporate" class="footer-navigation nav-footer-list-6"><li id="menu-item-598429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598429"><a href="http://dfw.cbslocal.com/category/only-cbs/">Only CBS</a></li>
+<li id="menu-item-598428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598428"><a href="http://apps.cbslocal.com">CBS Local App</a></li>
+<li id="menu-item-541821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541821"><a href="http://dfw.cbslocal.com/about-us/mobile/">Mobile</a></li>
+<li id="menu-item-541822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541822"><a href="http://dfw.cbslocal.com/about-us/connect-with-us/">Connect</a></li>
+<li id="menu-item-541820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541820"><a href="http://dfw.cbslocal.com/about-us/contact-us/">Contact</a></li>
+<li id="menu-item-541818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541818"><a href="http://dfw.cbslocal.com/about-us/advertising-basics/">Advertise</a></li>
+</ul></div></div>				</div>
+					</section>
+	
+			<section class="bottom">
+			<a href="http://dfw.cbslocal.com" class="logo"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/cbs-local-logo-white.png" alt="CBS Dallas / Fort Worth" /></a>
+			<div class="copyright-wrapper">
+				<span class="copyright">&copy;2016 CBS Local Media, a division of CBS Radio Inc. All rights reserved.</span>
+
+									<span class="powered-by-wordpress">
+						Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>					</span>
+							</div>
+
+			<div class="right-wrapper">
+									<div class="terms-of-use">By viewing our video content, you are accepting the terms of our <a href="http://policies.cbslocal.com/privacy-june-2015/current.html#video-services" target="_blank" title="Video Services Policy">Video Services Policy</a></div>
+								<ul id="menu-final-footer-menu" class="nav-final-footer"><li id="menu-item-174289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174289"><a href="http://policies.cbslocal.com/terms-of-use/">Terms Of Use</a></li>
+<li id="menu-item-524269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524269"><a href="http://policies.cbslocal.com/mobile-app-agreement/">Mobile User Agreement</a></li>
+<li id="menu-item-253833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253833"><a href="http://policies.cbslocal.com/privacy/current.html#onlinead">Ad Choices</a></li>
+<li id="menu-item-174288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174288"><a href="http://policies.cbslocal.com/privacy/current.html">Privacy Policy</a></li>
+<li id="menu-item-524265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524265"><a href="http://policies.cbslocal.com/privacy/current.html#cali-visitors">Your California Privacy Rights</a></li>
+<li id="menu-item-44630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44630"><a href="http://dfw.cbslocal.com/eeo-reports/">EEO Reports</a></li>
+<li id="menu-item-212887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212887"><a href="https://stations.fcc.gov/station-profile/ktvt">KTVT Public File</a></li>
+<li id="menu-item-212488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212488"><a href="https://stations.fcc.gov/station-profile/ktxa">KTXA Public File</a></li>
+</ul>			</div>
+
+					</section>
+	</footer>
+
+<!--PARTNER SCRIPTS START-->
+<script type="text/javascript" src="http://dfw.cbslocal.us.intellitxt.com/ast/js/CBSLocal/CBSLocal_Dfw_cs.js"></script>
+<div class="cbs-ad-unit-wrapper"><div id="ad_31" class="cbs-ad-unit ad_gpt" data-id="31" data-max-width="1" data-max-height="6"></div></div><div class="cbs-ad-unit-wrapper"><div id="ad_32" class="cbs-ad-unit ad_gpt" data-id="32" data-max-width="1" data-max-height="7"></div></div>
+<!--PARTNER SCRIPTS END-->
+
+
+</div>
+
+<!-- wpcom_wp_footer -->
+
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-261';
+var addthis_config = {"data_track_clickback":true};if (typeof(addthis_share) == "undefined"){ addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"cbslocal","apiKey":"R_bfe2742f79bb4091b0fcfbdf5c6a81ca"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddd05dc24272928"></script>		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201617y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"http:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyNzEsOwjAMRdENYSyqqsoEsZbUtWjS/MBJWnYPRUICBoWRBz734ZyAYsgcMlrBgashTsveyg7fXr5AcuVsgqAzEwteChcedRgcX79xHtk/SDUJqRdwkbRbx6X0QdeN6QbWxj5T0EG7WzYkGwH7aA3m+eP+9JZz0jTBf/qlTv54aFvVdp1Sjb0Di1JzbA=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'15909545','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'15909545','v':'wpcom','tz':'-5','user_id':'0','post':'306893','subd':'cbsdallas'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=15909545&v=wpcomvt&tz=-5&user_id=0&post=306893&subd=cbsdallas&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bVVNJYSZLQzJJajZxZURndEJINFFnS2dyLWZmMm9WcD8sWG51cVlVTy1qS0EzYnk5d2UmSi8vfkQ/aXIzZVdLMjhHdGlIeG9ZTlQ0djJvVGd4S2I9cE9yWnVzNUdaSlhJUHMlOHFbcm5ubnAzUVdxS3NoYXwlTkh4U3pWSSxXZEhzcTlLWC1qXXpZJWJXPUZ+T01icFVuP25fLlBQSF8vLi1uJTduVmtWa0dEaQ=='}]);
+_stq.push([ 'clickTrackerInit', '15909545', '306893' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+<script type="text/javascript">
+	var cbs_market_root = 'http://dfw.cbslocal.com';
+	var cbs_template_root = 'https://s0.wp.com/wp-content/themes/vip/cbs-local';
+
+	var site_url = 'http://dfw.cbslocal.com';
+
+	
+	var cbs_gamification_app = new cbs_gamification;
+	cbs_gamification_app.init("d9b271e4b75610fc1c46ecdd105679db63fd061b-3922f8ced7c621914760d1199813fecf");
+var cbs_sso_url_base = "https://my.cbslocal.com";
+
+	jQuery(function($) {
+		cbs_lib.weather_widget("#page-header #component-weather");
+
+	});
+
+	jQuery(function($) { jQuery(window).load(function () { setTimeout(function () {
+			}, 500); }); });
+
+	jQuery(function($) { jQuery(window).load(function () { setTimeout(function () {
+		
+		var user_info = decodeURI(cbs_lib.get_cookie('sso-userdata'));
+		var user_data_string = '';
+
+		//Make sure the cookie exists and make sure it is not set to empty after loggin out.
+		if (typeof user_info !== 'undefined' && typeof user_info !== null && user_info) {
+			var user_data_obj = JSON.parse(user_info);
+
+			if (user_data_obj) {
+				if (user_data_obj.hasOwnProperty('ZipCode')) {
+					user_data_string += '&zip=' + encodeURIComponent(user_data_obj.ZipCode);
+				}
+				if (user_data_obj.hasOwnProperty('Gender')) {
+					user_data_string += '&gd=' + encodeURIComponent(user_data_obj.Gender);
+				}
+				if (user_data_obj.hasOwnProperty('Age')) {
+					user_data_string += '&ag=' + encodeURIComponent(user_data_obj.Age);
+				}
+			}
+		}
+
+		cbs_lib.load_script("http:\/\/loadus.exelator.com\/load\/?j=d&p=279&g=008&global=cbslocal&interface=site&station=http%3A%2F%2Fdfw.cbslocal.com&ctg1=page&category=page&location=dfw&type=local&group=swtv&tit=mcdonalds-high-school-scholar-athlete-of-the-month" + user_data_string);
+
+		}, 5000); }); });
+
+</script>
+
+	
+			
+		<script type="text/javascript">
+			var use_ga = true;
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+
+		<script type="text/javascript">
+			try {
+				var is_logged_in = false;
+
+				var rollupTracker = _gat._getTracker("UA-2438645-53"); rollupTracker._setCustomVar(1, "User Type", is_logged_in ? "User" : "Guest", 2); rollupTracker._trackPageview();
+				var pageTracker = _gat._getTracker("UA-17434257-40"); pageTracker._setCustomVar(1, "User Type", is_logged_in ? "User" : "Guest", 2);
+				pageTracker._trackPageview();
+			}
+			catch(err) {}
+		</script>
+
+			
+		<script type="text/javascript">
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "3000023"
+							});
+			(function() {
+				var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=3000023&cv=2.0&cj=1" /></noscript>
+
+	
+			<script type='text/javascript'>
+			var $cbs_adobe_analytics = new Object();
+							$cbs_adobe_analytics.market = 'Dallas';
+							$cbs_adobe_analytics.dom = 'http://dfw.cbslocal.com/';
+							$cbs_adobe_analytics.exp = 'desktop';
+							$cbs_adobe_analytics.subprim = 'swtv';
+							$cbs_adobe_analytics.url = 'http://dfw.cbslocal.com/mcdonalds-high-school-scholar-athlete-of-the-month/';
+							$cbs_adobe_analytics.conttype = 'page';
+							$cbs_adobe_analytics.cat1 = 'analytics-page';
+							$cbs_adobe_analytics.pn = 'page|McDonald&#8217;s High School Scholar Athlete Of The Month';
+					</script>
+		<script type='text/javascript'>_satellite.pageBottom();</script>
+
+	<!-- Moat and Cloudfront tracking pixels -->
+	<img src="//dbg52463.moatads.com?a=033f43a2ddba4ba592b52109d2ccf5ed" style="display:none;"> 
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=033f43a2ddba4ba592b52109d2ccf5ed" style="display:none;">
+	
+		<script type="text/javascript">
+		(function(d, s, id) { 
+			var js, evjs = d.getElementsByTagName(s)[0]; 
+			if (d.getElementById(id)) return; 
+			js = d.createElement(s); js.id = id; 
+			js.src = "//s1.evcdn.com/store/plugins/tracker-ev-sdk.js"; 
+			evjs.parentNode.insertBefore(js, evjs); 
+		}(document, 'script', 'tracker-ev-sdk'));
+	</script>
+
+			<div id="listen-live-wrapper">
+			<div class="listen-live">
+				<div class="header">
+					<div class="listen-live-logo"></div>
+					<h3>Listen Live</h3>
+														</div>
+				<div class="listen-live-content">
+					<div class="lead-wrapper">
+													<h4>AM/FM Stations</h4>
+										
+							<ul class="stations">
+
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/krld-newsradio-1080" target="_blank" title="KRLD 1080" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/news_1080.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="News_1080" /></div><div class="title-wrapper"><strong class="title">KRLD 1080</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/1053-the-fan" target="_blank" title="105.3 The Fan" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/150-3_thefan.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="150-3_TheFan" /></div><div class="title-wrapper"><strong class="title">105.3 The Fan</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/1003-jack-fm" target="_blank" title="100.3 Jack FM" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/jack_100-3.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="Jack_100-3" /></div><div class="title-wrapper"><strong class="title">100.3 Jack FM</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/k-luv-classic-hits" target="_blank" title="98.7 KLUV" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/kluv_98-7.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="KLUV_98-7" /></div><div class="title-wrapper"><strong class="title">98.7 KLUV</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/la-grande-1075-fm" target="_blank" title="La Grande 107.5" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/grande_107-5.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="grande_107-5" /></div><div class="title-wrapper"><strong class="title">La Grande 107.5</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-6"><a href="http://player.radio.com/listen/station/1037-kvil" target="_blank" title="103.7 KVIL" class="cbs-thumbnail-link station-count-6" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/kvil_103-7.png?w=272" class="thumbnail station-count-6 wp-post-image" alt="KVIL_103-7" /></div><div class="title-wrapper"><strong class="title">103.7 KVIL</strong></div></a></li>
+								
+															</ul>
+
+						
+													
+															
+								
+								<div class="">
+								
+															
+							<h4>Featured Shows &amp; Multimedia</h4>
+							
+							<ul class="featured-posts">
+								
+																	
+									
+									<li class="list-item"><a href="http://www1.play.it/audio/" target="_blank" title="Play.It" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/play-it-bar.jpeg?w=200" class="thumbnail wp-post-image" alt="Play.it Bar" /></div><div class="title-wrapper"><strong class="title">Play.It</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item"><a href="http://player.radio.com/listen/station/cbs-sports-radio" target="_blank" title="CBS Sports Radio" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/balt_live_234x132.png?w=200" class="thumbnail wp-post-image" alt="balt_live_234x132" /></div><div class="title-wrapper"><strong class="title">CBS Sports Radio</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item"><a href="http://radio.com/" target="_blank" title="Radio.com" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsdallas.files.wordpress.com/2015/05/always-radiocom.png?w=200" class="thumbnail wp-post-image" alt="always-radioCom" /></div><div class="title-wrapper"><strong class="title">Radio.com</strong></div></a></li>
+								
+													
+							</ul>
+
+															</div>
+							
+											
+					</div>
+
+					<a href="https://www.audioadcenter.com/" class="advertise-on-our-streams" target="_blank">Advertise On Our Streams</a>
+				</div>
+			</div>
+		</div>
+		
+		
+	<div id="ad_skin_1" class="cbs-ad-unit ad_gpt cbs-ad-skin"></div>
+<script type="text/javascript">//<![CDATA[
+	var ads_cluster = new Array();
+	cbs_ads_zone = "default";
+	cbs_ads_tags = ["page","mcdonald8217shighschoolscholarathleteofthemonth","scholarad"];
+	cbs_partner_inject();
+
+	ybotq.push(function() { 
+		yieldbot.pub("26c9");
+		yieldbot.defineSlot("ad_1");
+		yieldbot.defineSlot("ad_2");
+		yieldbot.enableAsync();
+		yieldbot.go();
+	});
+
+	ybotq.push(function() { googletag.cmd.push(function() {
+
+		googletag.pubads().enableAsyncRendering();
+		ads_cluster["ad_10"] = googletag.defineSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", [[120,60]], "ad_10").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "header").setTargeting("pos", 10).setTargeting("type", "page").setTargeting("title", "mcdonald8217shighschoolscholarathleteofthemonth").setCollapseEmptyDiv(true);
+		ads_cluster["ad_1"] = googletag.defineSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", [[970,66],[728,90],[970,250]], "ad_1").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "top").setTargeting("pos", 1).setTargeting("type", "page").setTargeting("title", "mcdonald8217shighschoolscholarathleteofthemonth").setCollapseEmptyDiv(true);
+		var ad_skin_1 = googletag.defineOutOfPageSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", "ad_skin_1").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags);
+		ads_cluster["ad_4"] = googletag.defineSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", [[728,90]], "ad_4").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "bottom").setTargeting("pos", 4).setTargeting("type", "page").setTargeting("title", "mcdonald8217shighschoolscholarathleteofthemonth").setCollapseEmptyDiv(true);
+		ads_cluster["ad_31"] = googletag.defineSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", [[1,6]], "ad_31").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 31).setTargeting("type", "page").setTargeting("title", "mcdonald8217shighschoolscholarathleteofthemonth").setCollapseEmptyDiv(true);
+		ads_cluster["ad_32"] = googletag.defineSlot("/4128/CBS.DALLAS/" + cbs_ads_zone + "", [[1,7]], "ad_32").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 32).setTargeting("type", "page").setTargeting("title", "mcdonald8217shighschoolscholarathleteofthemonth").setCollapseEmptyDiv(true);
+		
+		yieldbot.setSlotTargeting("ad_1", ads_cluster["ad_1"]);
+		yieldbot.setSlotTargeting("ad_2", ads_cluster["ad_2"]);
+
+		googletag.enableServices();
+
+		googletag.display("ad_10");
+		googletag.display("ad_1");
+		googletag.display("ad_skin_1");
+		googletag.display("ad_4");
+		googletag.display("ad_31");
+		googletag.display("ad_32");
+
+		ad_refresh_interval = setInterval(function(){
+			googletag.pubads().updateCorrelator();
+
+amznads.getAdsCallback("3063", function() {amznads.setTargetingForGPTAsync("amznslots");
+
+			yieldbot.setSlotTargeting("ad_1", ads_cluster["ad_1"]);
+		googletag.pubads().refresh([ads_cluster["ad_1"]], {changeCorrelator: false});
+			googletag.pubads().refresh([ad_skin_1], {changeCorrelator: false});
+			googletag.pubads().refresh([ads_cluster["ad_4"]], {changeCorrelator: false});
+
+});googletag.pubads().clearTargeting("amznslots");
+
+			cbs_ads.set_top_728x90_ad_adhesive_reset();
+		}, 120000);
+
+
+	}); });
+
+//]]></script>
+
+</body>
+</html>

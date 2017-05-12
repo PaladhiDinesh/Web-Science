@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+<head>
+<meta charset="shift_jis">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>McDonald's</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="/error/css/substyle.css">
+<script type="text/javascript" src="/common/js/jquery-1.11.2.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/common/js/jquery-1.7.1.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/common/js/html5shiv-printshiv.js"></script>
+<script type="text/javascript" src="/common/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/error/js/common.js"></script>
+</head>
+<body>
+<div id="wrapper">
+
+
+
+<!-- header for sp -->
+<header id="header_sp">
+	<div class="headerTop">
+		<h1><a href="http://sp.mdj.jp/"><img src="/common/images/header/logo01.png" width="44" height="31" alt="I'm lovin' it"></a></h1>
+		<a href="#sideMenu" class="btn_all"><img src="/common/images/header/btn_side_menu01.png" width="19" height="16" alt=""></a>
+	</div>
+	<nav id="gNavi" class="clearfix">
+	</nav>
+</header>
+<!-- /header for sp -->
+
+
+
+<!-- header for pc -->
+<header id="header_pc">
+	<div id="headerIn_pc">
+		<h1 id="headerLogo_pc"><a href="http://www.mcdonalds.co.jp/index.html"><img src="http://www.mcdonalds.co.jp/common/images/header/logo01.png" width="105" height="95" alt="I'm lovin' it"></a></h1>
+		<div class="inner">
+			<ul id="breadcrumb">
+				<li><a href="http://www.mcdonalds.co.jp/index.html">ホーム</a></li>
+				<li> </li>
+			</ul>
+			<div id="headerUtility">
+			</div>
+		<!-- /inner --></div>
+
+	<!-- <nav id="gNavi_pc">
+	</nav> -->
+	<!-- /gNavi -->
+	<!-- /headerIn --></div>
+</header>
+<!-- /header for pc -->
+
+
+
+<div id="contents"><!-- コンテンツここから -->
+
+
+
+	<!-- bodyArea -->
+	<div id="bodyArea" style="min-height: 300px;">
+
+		<!-- bodyContainerArea -->
+		<div class="bodyContainerArea">
+
+			<div id="title">
+				<h2><img src="/error/img/title_03.png" height="41" alt="Error&#13;&#10;Not Found"></h2>
+			</div>
+			<p class="image"><img src="/error/img/text_03.gif" height="12" alt="ページが見つかりません。"></p>
+			<p style="margin-top: 21px;">お客様がアクセスしようとしたページは、掲載期間が終了し削除されたか、<br>
+			別の場所に移動された可能性があります。<br>
+			<br>
+			メニューエリアを利用して、 引き続きマクドナルドのウェブサイトをお楽しみください。</p>
+<!--
+			<div class="navigation" style="margin-top: 12px;">
+				<ul class="previous">
+					<li><a href="http://www.mcdonalds.co.jp/index.html"><img class="hover" src="/error/shared/graphic/button_01.gif" width="56" height="16" alt="ホームへ"></a></li>
+				</ul>
+			</div>
+-->
+
+		</div>
+		<!-- /bodyContainerArea -->
+
+	</div>
+	<!-- /bodyArea -->
+
+
+
+		<!-- コンテンツここまで -->
+	<!-- /contents --></div>
+
+
+
+<!-- footer sp -->
+<footer id="footer_sp">
+	<p id="btnPc"><a href="http://www.mcdonalds.co.jp/">PCサイトへ</a></p>
+	<!-- <ul id="footerSns">
+	</ul> -->
+	<ul id="footerLinks">
+		<li><a href="http://sp.mdj.jp/Info/cservice/r/">ご意見・ご要望</a></li>
+		<li><a href="http://sp.mdj.jp/Info/privacy/r/">個人情報保護方針</a></li>
+		<li><a href="http://sp.mdj.jp/Info/policy/r/">サイト利用規約</a></li>
+	</ul>
+	<p id="copyright">&copy; 2016 McDonald's</p>
+<!-- /footer --></footer>
+<!-- /footer sp -->
+
+
+
+<!-- footer pc -->
+<div id="footer_pc_wrap">
+<footer id="footer_pc" class="clearfix">
+	<!-- <div id="footerShare">
+		<ul>
+		</ul>
+	</div> --><!-- /footerShare -->
+	<div id="footerUtility">
+		<ul id="footerLinks">
+			<li><a href="http://www.mcdonalds.co.jp/cservice/index2.html">ご意見・ご要望</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/privacy/index.html">個人情報保護方針</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/policy/index.html">サイト利用規約</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/sitemap/index.html">サイトマップ</a></li>
+		</ul>
+		<p id="copyright">&copy; 2016 McDonald's</p>
+	<!-- /footerUtility --></div>
+</footer>
+</div>
+<!-- /footer pc -->
+
+
+
+<!-- /wrapper --></div>
+
+<aside id="sideMenu">
+	<a href="/"><img src="/common/images/side/logo01.gif" width="61" height="49" alt="i'm lovin'it" class="logo"></a>
+	<nav>
+	</nav>
+</aside>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJV7WW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TJV7WW');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>

@@ -1,0 +1,627 @@
+   #[1]RSS [2]Podcasts
+
+   [3]Attention B2B Marketers: Access 30 Million IT Decision Makers with a
+   Custom Lead Generation Program · Click to Learn More!
+
+   [4]E-BUSINESS | [5]TECHNOLOGY | [6]CRM | [7]LINUX | [8]ECTNEWS.COM
+   Welcome Guest | [9]Sign In
+
+   [10]TechNewsWorld.com
+   [11][260x40-tnw.gif]
+   Search ____________________
+   [12]Software
+     * [13]Computing
+          + [14]Applications
+          + [15]Data Management
+          + [16]Hardware
+               o [17]Chips
+               o [18]Personal Computers
+               o [19]Servers
+          + [20]Operating Systems
+     * [21]Internet
+          + [22]Internet of Things
+          + [23]Online Entertainment
+          + [24]Search Tech
+          + [25]Social Networking
+          + [26]Web Apps
+     * [27]IT
+          + [28]Developers
+          + [29]IT Leadership
+          + [30]Network Management
+     * [31]Mobile Tech
+          + [32]Mobile Apps
+          + [33]Smartphones
+          + [34]Tablets
+          + [35]Wearable Tech
+          + [36]Wireless Networking
+     * [37]Reviews
+     * [38]Security
+          + [39]Cybersecurity
+          + [40]Hacking
+          + [41]Malware
+          + [42]Privacy
+     * [43]Technology
+          + [44]Audio/Video
+          + [45]Emerging Tech
+               o [46]Virtual Reality
+          + [47]Gaming
+          + [48]Home Tech
+          + [49]How-To
+          + [50]Photography
+          + [51]Science
+               o [52]Health
+               o [53]Space
+          + [54]Tech Buzz
+          + [55]Tech Law
+          + [56]Transportation
+     * [57]Tech Blog
+     *  Reader Services
+          + [58]Account Management
+          + [59]Discussion
+          + [60]News Alerts
+          + [61]Newsletters
+          + [62]Reader Surveys
+          + [63]RSS / XML Headline Feeds
+          + [64]Search ECT News Network
+          +
+          + [65]ECT News Network Map
+               o [66]CRM Buyer Site Map
+               o [67]E-Commerce Times Site Map
+               o [68]LinuxInsider Site Map
+               o [69]TechNewsWorld Site Map
+     * |
+     * [70]Software Buyers Guide
+
+   April 30, 2016 03:13:19 PM PDT
+   [71]TechNewsWorld > [72]Software | [73]Next Article in Software
+
+Walmart Opens OneOps Cloud Management to the Masses
+
+   By Jack M. Germain • [74]LinuxInsider • [75]ECT News Network
+   Jan 28, 2016 1:19 PM PT
+
+   [76]Walmart on Tuesday announced that it has posted the code for its
+   [77]OneOps cloud application life cycle management platform on GitHub.
+   Walmart Opens OneOps Cloud Management to the Masses
+
+   The company developed the OneOps platform for building and launching
+   cloud-based applications across varied storage environments that change
+   frequently. It lets e-commerce vendors deploy apps on platforms from
+   Microsoft Azure, Rackspace and CenturyLink public clouds to private or
+   hybrid environments built with OpenStack.
+
+   One of its chief features is letting organizations switch between
+   providers to take advantage of changes in pricing, features and
+   scalability, Walmart said. Developers can more easily build and deploy
+   cloud apps as a vendor-agnostic technology.
+
+   Open sourcing OneOps could be a gift that keeps on giving for Walmart.
+   If OneOps develops a significant user and contributor base, the company
+   can shed at least part of its reputation as an old-school retail
+   colossus, according to Charles King, principal analyst at [78]Pund-IT.
+
+   "This latest move is the result of an IT modernization effort that the
+   company began in 2011. Yet it hasn't received much credit for being
+   forward thinking," he told LinuxInsider.
+
+   "Success should polish Walmart's reputation, which could deflect some
+   of the recent challenges and criticism the company has suffered. It
+   wouldn't hurt for the company to be seen as a vanguard of retail
+   innovation," King added.
+
+What It Does
+
+   OneOps lets developers build and launch products faster and more easily
+   maintain them throughout their entire product life, Walmart said.
+
+   It enables developers to code their products in a hybrid, multicloud
+   environment, giving them the ability to test and switch between cloud
+   providers, according to the company.
+
+   Couchbase has integrated its NoSQL technology into the OneOps platform.
+   OneOps also supports Node.js, ElasticSearch, Docker and others.
+
+   One benefit is the ability to automatically manage the application when
+   unforeseen changes occur in the cloud, scaling or repairing it as
+   needed, Walmart said. Software engineers can quickly spin up virtual
+   machines and begin coding without having to spend hours specifying the
+   intricacies of a specific cloud environment, as OneOps models that for
+   them.
+
+Supply Chain
+
+   Walmart purchased the initial OneOps platform in 2013 from a startup
+   company founded two years earlier. That purchase fueled the conversion
+   of its own e-commerce software from a cumbersome monolithic application
+   into a global e-commerce platform.
+
+   Since then, Walmart has grown the platform on which its 3,000 engineers
+   build and manage new products. Walmart manages its e-commerce sites
+   with OneOps. Its engineers use the platform to commit more than 30,000
+   changes per month, it said.
+
+   Other features include monitoring tools, self-fixing capabilities and
+   auto-scaling tools to manage the size of a given cluster. For admins,
+   the platform offers integration with enterprise identity services,
+   quota management and a configuration management system.
+
+No-Compete Plan
+
+   OneOps poses no direct competitive threat to [79]Amazon's cloud
+   business --at least not overtly, Pund-IT's King said.
+
+   It's compatible with all the major public cloud services, including
+   Amazon Web Services, so broad use of the platform could lead to
+   additional business for Amazon. However, freely giving OneOps to other
+   businesses may have an impact, he noted.
+
+   "Walmart is providing them powerful options that lie well beyond
+   Amazon's sphere of influence. Some may consider that to be a thumb in
+   Amazon's eye, but I think it's a bit subtler than that," said King.
+
+   Open sourcing its cloud management platform is not an attempt to
+   compete with Amazon, according to Walmart. It's merely a way to extend
+   the usefulness of OneOps.
+
+   "We have no interest in competing with cloud providers or becoming one.
+   Our focus has always been on the millions of customers who shop Walmart
+   globally each week," Walmart spokesperson Bao Nguyen said.
+
+   What it gains is more powerful technology and new ways for OneOps to
+   adapt to existing and new technology, he told LinuxInsider.
+
+Couchbase Kudos for OneOps
+
+   [80]Couchbase developers were among the first to voice support for the
+   Walmart announcement this week. Couchbase is a distributed NoSQL
+   database engineered for performance, scalability and availability
+   offered via OneOps as a NoSQL database option.
+
+   Walmart is the model of a company smartly adapting to the digital
+   economy, according to Ravi Mayuram, senior vice president of products
+   and engineering at Couchbase.
+
+   It built its retail leadership on brick and mortar but became a
+   technology and e-commerce innovator, "establishing itself as an
+   influential Silicon Valley leader," he told LinuxInsider.
+
+   Walmart's move will help further the adoption of Couchbase database
+   technology. It is one of the primary databases used with OneOps,
+   Mayuram said.
+
+   "This will go a long way to making OneOps a world-class operation," he
+   added.
+
+Competitive Edge
+
+   Walmart should gain cost savings for development and faster time to
+   production. If competing with Amazon is has any part in the picture, it
+   will be through cost savings, according to Rob Enderle, principal
+   analyst at the [81]Enderle Group.
+
+   "This is new to them, so there will likely be a learning curve, and
+   this curve may have them run into problems like security risk they are
+   not yet equipped to handle," he told LinuxInsider.
+
+   The benefits are the same that any active open source participant
+   gains: capturing improvements to the platform that are developed by the
+   larger community and enhancing the momentum and longer-term health and
+   vitality of their OneOps investment, noted King.
+
+   "The risks seem relatively minimal as the company's investments in
+   OneOps have already paid back considerably," he concluded.
+   [end-enn.gif]
+     __________________________________________________________________
+
+   Jack M. Germain has been writing about computer technology since the
+   early days of the Apple II and the PC. He still has his original IBM
+   PC-Jr and a few other legacy DOS and Windows boxes. He left shareware
+   programs behind for the open source world of the Linux desktop. He runs
+   several versions of Windows and Linux OSes and often cannot decide
+   whether to grab his tablet, netbook or Android smartphone instead of
+   using his desktop or laptop gear. You can connect with him on
+   [82]Google+.
+     __________________________________________________________________
+
+   [83][ccc-button.png] Get Permission to License or Reproduce this
+   Article
+   [84]Print [85]Email [86]Reprints [87]More by Jack M. Germain
+   [88]Facebook [89]Twitter [90]LinkedIn [91]Google+
+   [92][navicon-stumbleupon_32x32.png] [93]RSS
+   [icon_mostpop_14x14roundcorner.png] [94]Most Popular
+   [icon_newsletter_16x12.png] [95]Newsletters [icon_alert_14x14.png]
+   [96]News Alerts
+   What best reflects your opinion on online privacy?
+   (*) We need new laws to curb government spying.
+   ( ) It's dead -- Google, Facebook and others killed it.
+   ( ) Personalized advertising is the worst -- it's creepy.
+   ( ) It's achievable through encryption and other tech.
+   ( ) It's an overblown issue -- I have nothing to hide.
+   (BUTTON) Vote to See Results
+   [97]E-Commerce Times
+   [98]New Facebook Stock Class to Keep Zuckerberg in Driver's Seat
+   [99]Get Ready for the Mobile Pay Explosion
+   [100]Yahoo Expands Board to Appease Contentious Investor
+   [101]Wall Street Pummels Apple After Weak Q2 Earnings Report
+   [102]FBI Says Its Hands Are Tied on Revealing iPhone Crack Details
+   [103]Nokia Buys Into Digital Health
+   [104]IT Execs Join Federal Cybersecurity Panel
+   [105]Regulators Impose Caveats on Charter TWC Merger Approval
+   [106]CRM Buyer
+   [107]Salesforce Brings Lightning to Government Cloud
+   [108]App Dev Today
+   [109]The Successful B2B Relationship: It's About Time
+   [110]Hospitalized Stossel Bemoans Sorry State of Healthcare Customer
+   Service
+   [111]Fusion Launches Enterprise Cloud Contact Center Solution
+   [112]Zuora Moves to the Center
+   [113]Chatbots Drive Shopify's Kit CRM Deal
+   [114]Fake Loyalty
+   [115]LinuxInsider
+   [116]Codenvy, Samsung Team to Power IoT Development
+   [117]Bodhi Linux 3.2 Promises Clearer Path to Enlightenment
+   [118]Red Hat Goes All-In on OpenStack
+   [119]Ubuntu 16.04 LTS Xenial Xerus Makes Its Debut
+   [120]LXLE Gives Aging Hardware a New Lease on Life
+   [121]Hortonworks Ramps Up Hadoop Security
+   [122]Robust New FreeOffice Suite Proves Free Can Be Just as Good
+   [123]Volkswagen Picks Mirantis to Build Massive OpenStack Cloud
+   SPONSOR SHOWCASE
+   Network Monitoring Software
+   [124][manage-engine_60x60.jpg] OpManager: Monitors network & servers
+   from a single console. Try it for free!
+   Marketers - Fill Your Sales Funnel Instantly
+   [125][sales-funnel_60x60.jpg] Access millions of IT and business
+   decision makers. Our full-service global marketing program delivers
+   sales-ready leads. Learn more.
+   CRM Software Buyer's Guide
+   [126]This free buyer's guide compares the best CRM software systems and
+   allows you to request a price or demo for the system that best fits
+   your needs.
+   [127]ECT News Network on Twitter
+   [128]Tweets about "TechNewsWorld"
+   TechNewsWorld Headlines
+   [129]TechNewsWorld
+   [130]Microsoft Curbs Cortana in Windows 10
+   [131]Apple Drops CareKit on GitHub
+   [132]TiVo's New Roamio for Cord Cutters Cuts the Subscription Fee
+   [133]Getty Images Takes Google Grievances to EU
+   [134]BlockIQ Escalates War on Ad Blockers
+   [135]Alexa Takes Up Residence in a Really Smart Fridge Magnet
+   [136]Gadget Ogling: Electric Nightmares, Cold Coffee, and a Smart
+   Clothespin
+   [137]Pentagon to Open New Cyberfront in War Against ISIS
+   Inside TechNewsWorld
+   [138]Applications
+     * [139]E2E Encryption Could Make WhatsApp a Spam Magnet
+     * [140]Disrupting Software Development in an On-Demand World
+     * [141]Commoditizing Software
+
+   [142]Computing
+     * [143]White Hat Finds Security Threats on Facebook's Corporate Net
+     * [144]EU Levels Antitrust Charges Against Abusive Android
+     * [145]Adobe Issues Emergency Patch to Head Off Flash Ransomware
+       Attacks
+
+   [146]Data Management
+     * [147]White House Puts Clamps on Data Center Development
+     * [148]SQL Server on Linux Shows Microsoft's More Flexible Side
+     * [149]German Authorities to Examine Facebook's Data Practices
+
+   [150]Emerging Tech
+     * [151]Tech, Auto Honchos Join Forces to Push Self-Driving Cars
+     * [152]Taking DIY to the Next Level
+     * [153]BMW, Daimler Steer Clear of Apple Car Project
+
+   [154]Exclusives
+     * [155]HP's Marten Mickos: Open Source Is Not a Business Model
+     * [156]Dan Allen and Sarah White: Documentation Dearth Dooms Open
+       Source Projects
+     * [157]PredictionIO's Simon Chan on Machine Learning by Devs for Devs
+
+   [158]Hardware
+     * [159]Why Is the PC Industry Trying to Kill the PC?
+     * [160]Intel Pivots From PCs to Cloud
+     * [161]Apple's MacBook Refresh Draws Tepid Response
+
+   [162]Internet of Things
+     * [163]Marketers Poised to Run the Customer Experience Show, Survey
+       Says
+     * [164]Apple, FBI Tussle Puts Bull's-Eye on iPhone
+     * [165]Microsoft Guns for Cloud Devs at Build 2016
+
+   [166]IT Leadership
+     * [167]A Dramatic 16 Years for 4 Tech Titans
+     * [168]Cryptography Pioneers Win Million-Dollar Turing Award
+     * [169]Chicago School Board Elevates Computer Science to Graduation
+       Requirement
+
+   [170]Mobile Tech
+     * [171]Facebook Messenger Lets 50 Friends Get In on a Call
+     * [172]Google Fattens Up Entertainment Programming Search Results
+     * [173]Viber Goes the Encryption Route
+
+   [174]Science
+     * [175]Tiny Nanocraft May Sail to Neighboring Star System
+     * [176]Next Apple Watch Will Be More 'S' Than 2
+     * [177]Samsung's AR Vision Includes Smart Contact Lenses
+
+   [178]Spotlight Features
+     * [179]Crafting an Online Strategy, Part 4: Homegrown Marketing
+     * [180]Sports Fans and Social Media, Part 2: Perils, Pitfalls and
+       Best Practices
+     * [181]Crafting an Online Strategy, Part 3: How to Get Paid for Your
+       Wares
+
+   [182]Tech Buzz
+     * [183]Google's 'Area 120' Incubator Aims to Keep Innovation In-House
+     * [184]Chromebooks May Get Avalanche of Android Apps
+     * [185]Apple's Q2 Report Expected to Be Light on Good News
+
+   [186]Publications
+     * [187]E-Commerce Times
+     * [188]TechNewsWorld
+     * [189]LinuxInsider
+     * [190]CRM Buyer
+
+   [191]ECT News Network
+   [192]Newsletters
+     * [193]E-Commerce Minute
+     * [194]Tech News Flash
+     * [195]ECT News Network Weekly
+     * [196]Editor's Pick
+     * [197]Subscribe
+
+   Reader Services
+     * [198]Account Management
+     * [199]Discussion
+     * [200]Linking Policy
+     * [201]Network Map
+     * [202]News Alerts
+     * [203]RSS / XML Feeds
+     * [204]Search ECT News Network
+
+
+   [205]Facebook [206]Twitter [207]LinkedIn [208]Google+
+   [209][navicon-stumbleupon_20x20-gray.png] [210]RSS
+   Company Info
+     * [211]About
+     * [212]Advertising
+     * [213]Business Development
+     * [214]Careers
+     * [215]Contact
+     * [216]Permissions
+     * [217]Reprint Information
+
+   [218]Terms of Service | [219]Privacy Policy | [220]How To Advertise
+   Copyright 1998-2016 ECT News Network, Inc. All Rights Reserved.
+
+   Quantcast
+
+References
+
+   Visible links
+   1. http://www.technewsworld.com/perl/syndication/rssfull.pl
+   2. http://www.ectnews.com/data/podcast.xml
+   3. http://www.technewsworld.com/story/83046.html?rss=1
+   4. http://www.ecommercetimes.com/
+   5. http://www.technewsworld.com/
+   6. http://www.crmbuyer.com/
+   7. http://www.linuxinsider.com/
+   8. http://www.ectnews.com/
+   9. http://www.technewsworld.com/perl/User.pl
+  10. http://www.technewsworld.com/
+  11. http://www.technewsworld.com/
+  12. http://www.technewsworld.com/perl/section/open-source-software/
+  13. http://www.technewsworld.com/perl/section/computing/
+  14. http://www.technewsworld.com/perl/section/software/
+  15. http://www.technewsworld.com/perl/section/data-management/
+  16. http://www.technewsworld.com/perl/section/hardware/
+  17. http://www.technewsworld.com/perl/section/chips/
+  18. http://www.technewsworld.com/perl/section/personal-computers/
+  19. http://www.technewsworld.com/perl/section/servers/
+  20. http://www.technewsworld.com/perl/section/operating-systems/
+  21. http://www.technewsworld.com/perl/section/internet/
+  22. http://www.technewsworld.com/perl/section/internet-of-things/
+  23. http://www.technewsworld.com/perl/section/online-entertainment/
+  24. http://www.technewsworld.com/perl/section/search-tech/
+  25. http://www.technewsworld.com/perl/section/social-networking/
+  26. http://www.technewsworld.com/perl/section/web-apps/
+  27. http://www.technewsworld.com/perl/section/IT/
+  28. http://www.technewsworld.com/perl/section/developers/
+  29. http://www.technewsworld.com/perl/section/it-leadership/
+  30. http://www.technewsworld.com/perl/section/network-management/
+  31. http://www.technewsworld.com/perl/section/mobile-tech/
+  32. http://www.technewsworld.com/perl/section/mobile-apps/
+  33. http://www.technewsworld.com/perl/section/smartphones/
+  34. http://www.technewsworld.com/perl/section/tablets/
+  35. http://www.technewsworld.com/perl/section/wearable-tech/
+  36. http://www.technewsworld.com/perl/section/wireless-networking/
+  37. http://www.technewsworld.com/perl/section/reviews/
+  38. http://www.technewsworld.com/perl/section/tech-security/
+  39. http://www.technewsworld.com/perl/section/cyber-security/
+  40. http://www.technewsworld.com/perl/section/hacking/
+  41. http://www.technewsworld.com/perl/section/viruses-malware/
+  42. http://www.technewsworld.com/perl/section/privacy/
+  43. http://www.technewsworld.com/perl/section/technology/
+  44. http://www.technewsworld.com/perl/section/audio-video/
+  45. http://www.technewsworld.com/perl/section/emerging-tech/
+  46. http://www.technewsworld.com/perl/section/virtual-reality/
+  47. http://www.technewsworld.com/perl/section/gaming/
+  48. http://www.technewsworld.com/perl/section/home-tech/
+  49. http://www.technewsworld.com/perl/section/how-to/
+  50. http://www.technewsworld.com/perl/section/photography/
+  51. http://www.technewsworld.com/perl/section/science/
+  52. http://www.technewsworld.com/perl/section/med-tech/
+  53. http://www.technewsworld.com/perl/section/space/
+  54. http://www.technewsworld.com/perl/section/tech-buzz/
+  55. http://www.technewsworld.com/perl/section/law/
+  56. http://www.technewsworld.com/perl/section/transportation/
+  57. http://www.technewsworld.com/perl/section/tech-blog/
+  58. http://www.ectnews.com/perl/User.pl
+  59. http://www.ectnews.com/perl/board/mboard.pl
+  60. http://www.ectnews.com/about/newsalerts/
+  61. http://www.ectnews.com/perl/newsletter_registration.pl
+  62. http://www.technewsworld.com/perl/surveys
+  63. http://www.ectnews.com/about/link-to-us.xhtml#rss
+  64. http://www.ectnews.com/perl/search.pl
+  65. http://www.ectnews.com/about/network_map.xhtml
+  66. http://www.crmbuyer.com/site_map/
+  67. http://www.ecommercetimes.com/site_map/
+  68. http://www.linuxinsider.com/site_map/
+  69. http://www.technewsworld.com/site_map/
+  70. http://www.technewsworld.com/buyers_guide.xhtml
+  71. http://www.technewsworld.com/
+  72. http://www.technewsworld.com/perl/section/open-source-software/
+  73. http://www.technewsworld.com/story/open-source-software/83031.html
+  74. http://www.linuxinsider.com/
+  75. http://www.ectnews.com/
+  76. http://www.walmart.com/
+  77. http://oneops.com/
+  78. http://www.pund-it.com/
+  79. http://www.amazon.com/
+  80. http://www.couchbase.com/
+  81. http://www.enderlegroup.com/
+  82. https://plus.google.com/116242401898170634809?rel=author
+  83. http://www.copyright.com/OpenURL/?sid=Pub_LinuxInsider&servicename=all&issn=4780030&date=2007&WT.mc_id=Pub_LinuxInsider
+  84. http://www.technewsworld.com/story/83046.html?rss=1
+  85. http://www.technewsworld.com/perl/mailit/?id=83046
+  86. http://www.ectnews.com/about/reprints.xhtml
+  87. http://www.technewsworld.com/story/83046.html?rss=1#searchbyline
+  88. https://www.facebook.com/ectnews
+  89. https://www.twitter.com/technewsworld
+  90. http://www.linkedin.com/company/ect-news-network
+  91. https://plus.google.com/108979104378490788701/posts
+  92. http://www.stumbleupon.com/submit
+  93. http://www.ectnews.com/about/link-to-us.xhtml#rss
+  94. http://www.technewsworld.com/perl/mostpop/
+  95. http://www.ectnews.com/perl/newsletter_registration.pl
+  96. http://www.ectnews.com/about/newsalerts/
+  97. http://www.ecommercetimes.com/
+  98. http://www.ecommercetimes.com/story/83442.html
+  99. http://www.ecommercetimes.com/story/83437.html
+ 100. http://www.ecommercetimes.com/story/83435.html
+ 101. http://www.ecommercetimes.com/story/83433.html
+ 102. http://www.ecommercetimes.com/story/83432.html
+ 103. http://www.ecommercetimes.com/story/83431.html
+ 104. http://www.ecommercetimes.com/story/83430.html
+ 105. http://www.ecommercetimes.com/story/83426.html
+ 106. http://www.crmbuyer.com/
+ 107. http://www.crmbuyer.com/story/83443.html
+ 108. http://www.crmbuyer.com/story/83427.html
+ 109. http://www.crmbuyer.com/story/83417.html
+ 110. http://www.crmbuyer.com/story/83411.html
+ 111. http://www.crmbuyer.com/story/83398.html
+ 112. http://www.crmbuyer.com/story/83392.html
+ 113. http://www.crmbuyer.com/story/83373.html
+ 114. http://www.crmbuyer.com/story/83363.html
+ 115. http://www.linuxinsider.com/
+ 116. http://www.linuxinsider.com/story/83439.html
+ 117. http://www.linuxinsider.com/story/83415.html
+ 118. http://www.linuxinsider.com/story/83406.html
+ 119. http://www.linuxinsider.com/story/83395.html
+ 120. http://www.linuxinsider.com/story/83374.html
+ 121. http://www.linuxinsider.com/story/83367.html
+ 122. http://www.linuxinsider.com/story/83349.html
+ 123. http://www.linuxinsider.com/story/83337.html
+ 124. http://www.technewsworld.com/story/83046.html?rss=1
+ 125. http://www.technewsworld.com/story/83046.html?rss=1
+ 126. http://www.technewsworld.com/story/83046.html?rss=1
+ 127. https://twitter.com/search/?q=TechNewsWorld
+ 128. https://twitter.com/search?q=TechNewsWorld
+ 129. http://www.technewsworld.com/
+ 130. http://www.technewsworld.com/story/83445.html
+ 131. http://www.technewsworld.com/story/83440.html
+ 132. http://www.technewsworld.com/story/83441.html
+ 133. http://www.technewsworld.com/story/83438.html
+ 134. http://www.technewsworld.com/story/83436.html
+ 135. http://www.technewsworld.com/story/83434.html
+ 136. http://www.technewsworld.com/story/83422.html
+ 137. http://www.technewsworld.com/story/83429.html
+ 138. http://www.technewsworld.com/perl/section/software/
+ 139. http://www.technewsworld.com/story/software/83370.html
+ 140. http://www.technewsworld.com/story/software/83341.html
+ 141. http://www.technewsworld.com/story/software/83281.html
+ 142. http://www.technewsworld.com/perl/section/computing/
+ 143. http://www.technewsworld.com/story/computing/83423.html
+ 144. http://www.technewsworld.com/story/computing/83391.html
+ 145. http://www.technewsworld.com/story/computing/83348.html
+ 146. http://www.technewsworld.com/perl/section/data-management/
+ 147. http://www.technewsworld.com/story/data-management/83278.html
+ 148. http://www.technewsworld.com/story/data-management/83213.html
+ 149. http://www.technewsworld.com/story/data-management/83187.html
+ 150. http://www.technewsworld.com/perl/section/emerging-tech/
+ 151. http://www.technewsworld.com/story/emerging-tech/83428.html
+ 152. http://www.technewsworld.com/story/emerging-tech/83418.html
+ 153. http://www.technewsworld.com/story/emerging-tech/83416.html
+ 154. http://www.technewsworld.com/perl/section/exclusives/
+ 155. http://www.technewsworld.com/story/exclusives/81732.html
+ 156. http://www.technewsworld.com/story/exclusives/81093.html
+ 157. http://www.technewsworld.com/story/exclusives/81054.html
+ 158. http://www.technewsworld.com/perl/section/hardware/
+ 159. http://www.technewsworld.com/story/hardware/83408.html
+ 160. http://www.technewsworld.com/story/hardware/83407.html
+ 161. http://www.technewsworld.com/story/hardware/83388.html
+ 162. http://www.technewsworld.com/perl/section/internet-of-things/
+ 163. http://www.technewsworld.com/story/internet-of-things/83356.html
+ 164. http://www.technewsworld.com/story/internet-of-things/83334.html
+ 165. http://www.technewsworld.com/story/internet-of-things/83318.html
+ 166. http://www.technewsworld.com/perl/section/it-leadership/
+ 167. http://www.technewsworld.com/story/it-leadership/83282.html
+ 168. http://www.technewsworld.com/story/it-leadership/83182.html
+ 169. http://www.technewsworld.com/story/it-leadership/83167.html
+ 170. http://www.technewsworld.com/perl/section/mobile-tech/
+ 171. http://www.technewsworld.com/story/mobile-tech/83400.html
+ 172. http://www.technewsworld.com/story/mobile-tech/83402.html
+ 173. http://www.technewsworld.com/story/mobile-tech/83399.html
+ 174. http://www.technewsworld.com/perl/section/science/
+ 175. http://www.technewsworld.com/story/science/83364.html
+ 176. http://www.technewsworld.com/story/science/83360.html
+ 177. http://www.technewsworld.com/story/science/83354.html
+ 178. http://www.technewsworld.com/perl/section/features/
+ 179. http://www.technewsworld.com/story/features/83424.html
+ 180. http://www.technewsworld.com/story/features/83405.html
+ 181. http://www.technewsworld.com/story/features/83401.html
+ 182. http://www.technewsworld.com/perl/section/tech-buzz/
+ 183. http://www.technewsworld.com/story/tech-buzz/83421.html
+ 184. http://www.technewsworld.com/story/tech-buzz/83420.html
+ 185. http://www.technewsworld.com/story/tech-buzz/83419.html
+ 186. http://www.ectnews.com/about/advertising/#publications
+ 187. http://www.ecommercetimes.com/
+ 188. http://www.technewsworld.com/
+ 189. http://www.linuxinsider.com/
+ 190. http://www.crmbuyer.com/
+ 191. http://www.ectnews.com/
+ 192. http://www.ectnews.com/perl/newsletter_registration.pl
+ 193. http://www.ectnews.com/perl/newsletter_registration.pl
+ 194. http://www.ectnews.com/perl/newsletter_registration.pl
+ 195. http://www.ectnews.com/perl/newsletter_registration.pl
+ 196. http://www.ectnews.com/perl/newsletter_registration.pl
+ 197. http://www.ectnews.com/perl/newsletter_registration.pl
+ 198. http://www.ectnews.com/perl/User.pl
+ 199. http://www.ectnews.com/perl/board/mboard.pl
+ 200. http://www.ectnews.com/about/link-to-us.xhtml
+ 201. http://www.ectnews.com/about/network_map.xhtml
+ 202. http://www.ectnews.com/about/newsalerts/
+ 203. http://www.ectnews.com/about/link-to-us.xhtml#rss
+ 204. http://www.ectnews.com/perl/search.pl
+ 205. https://www.facebook.com/ectnews
+ 206. https://www.twitter.com/technewsworld
+ 207. http://www.linkedin.com/company/ect-news-network
+ 208. https://plus.google.com/108979104378490788701/posts
+ 209. http://www.stumbleupon.com/submit
+ 210. http://www.ectnews.com/about/link-to-us.xhtml#rss
+ 211. http://www.ectnews.com/about/
+ 212. http://www.ectnews.com/about/advertising/
+ 213. http://www.ectnews.com/about/bizdev.xhtml
+ 214. http://www.ectnews.com/about/careers.xhtml
+ 215. http://www.ectnews.com/about/#contact
+ 216. http://www.ectnews.com/about/permissions.xhtml
+ 217. http://www.ectnews.com/about/reprints/
+ 218. http://www.ectnews.com/about/terms-of-service.xhtml
+ 219. http://www.ectnews.com/about/privacy.xhtml
+ 220. http://www.ectnews.com/about/advertising/
+
+   Hidden links:
+ 222. http://www.technewsworld.com/
+ 223. http://www.technewsworld.com/shared_cs/navsliceupdate.xhtml

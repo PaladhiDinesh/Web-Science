@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<title>Subway, кафе - Стерлитамак. Бизнес каталог ФанПромо.</title>
+<meta charset="utf-8" />
+<meta name="description" content="Subway, кафе" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="/jquery-1.11.2.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/jquery-ui.min.js"></script>
+<script src="/jquery.cookie.js"></script>
+<script src="/main.js"></script>
+<script type="text/javascript" src="//api-maps.yandex.ru/2.0/?load=package.standard&amp;lang=ru-RU"></script>
+<link rel="stylesheet" href="/jquery-ui.css" />
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/style.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+<header class="col-md-12 col-xs-12 marginbot10">
+<nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+		   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+           </button>
+           <a class="navbar-brand" href="https://funpromo.ru">ФанПромо</a>
+          </div>
+		  <div class="navbar-slogan">
+			Организации. Адреса. Телефоны.
+		  </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/registration">Регистрация</a></li><li><a href="/office">Личный кабинет</a></li>
+            </ul>
+          </div>
+        </div>
+</nav>
+<div id="search" class="col-md-12 col-xs-12 marginbot10">
+ <div id="citysel" class="col-xs-12">
+ <div id="cith">Москва</div>
+ <div id="cits" class="btn-link"><span class="glyphicon glyphicon glyphicon-expand glyfsel" aria-hidden="true"></span>выбрать</div>
+ <div id="fpup">
+ <span class="glyphicon glyphicon-remove glclose marginbot10 col-md-12 text-right" id="popclose" aria-hidden="true"></span>
+ <ul class="ulpop">
+ <li><a title="Справочник города Абакан" id="abakan">Абакан</a></li>
+ <li><a title="Справочник города Алматы" id="almaty">Алматы</a></li>
+ <li><a title="Справочник города Архангельск" id="arhangelsk">Архангельск</a></li>
+ <li><a title="Справочник города Астрахань" id="astrahan">Астрахань</a></li>
+ <li><a title="Справочник города Барнаул" id="barnaul">Барнаул</a></li>
+ <li><a title="Справочник города Белгород" id="belgorod">Белгород</a></li>
+ <li><a title="Справочник города Бийск" id="biysk">Бийск</a></li>
+ <li><a title="Справочник города Благовещенск" id="blagoveshchensk">Благовещенск</a></li>
+ <li><a title="Справочник города Братск" id="bratsk">Братск</a></li>
+ <li><a title="Справочник города Брянск" id="bryansk">Брянск</a></li>
+ <li><a title="Справочник города Великий Новгород" id="velikiy-novgorod">Великий Новгород</a></li>
+ <li><a title="Справочник города Владивосток" id="vladivostok">Владивосток</a></li>
+ <li><a title="Справочник города Владимир" id="vladimir">Владимир</a></li>
+ <li><a title="Справочник города Волгоград" id="volgograd">Волгоград</a></li>
+ <li><a title="Справочник города Вологда" id="vologda">Вологда</a></li>
+ </ul>
+ <ul class="ulpop">
+ <li><a title="Справочник города Воронеж" id="voronezh">Воронеж</a></li>
+ <li><a title="Справочник города Горно-Алтайск" id="gorno-altaysk">Горно-Алтайск</a></li>
+ <li><a title="Справочник города Екатеринбург" id="ekaterinburg">Екатеринбург</a></li>
+ <li><a title="Справочник города Иваново" id="ivanovo">Иваново</a></li>
+ <li><a title="Справочник города Ижевск" id="izhevsk">Ижевск</a></li>
+ <li><a title="Справочник города Иркутск" id="irkutsk">Иркутск</a></li>
+ <li><a title="Справочник города Йошкар-Ола" id="yoshkar-ola">Йошкар-Ола</a></li>
+ <li><a title="Справочник города Казань" id="kazan">Казань</a></li>
+ <li><a title="Справочник города Калининград" id="kaliningrad">Калининград</a></li>
+ <li><a title="Справочник города Калуга" id="kaluga">Калуга</a></li>
+ <li><a title="Справочник города Кемерово" id="kemerovo">Кемерово</a></li>
+ <li><a title="Справочник города Киров" id="kirov">Киров</a></li>
+ <li><a title="Справочник города Кострома" id="kostroma">Кострома</a></li>
+ <li><a title="Справочник города Краснодар" id="krasnodar">Краснодар</a></li>
+ <li><a title="Справочник города Красноярск" id="krasnoyarsk">Красноярск</a></li>
+ </ul>
+ <ul class="ulpop">
+ <li><a title="Справочник города Курган" id="kurgan">Курган</a></li>
+ <li><a title="Справочник города Курск" id="kursk">Курск</a></li>
+ <li><a title="Справочник города Липецк" id="lipeck">Липецк</a></li>
+ <li><a title="Справочник города Магнитогорск" id="magnitogorsk">Магнитогорск</a></li>
+ <li><a title="Справочник города Москва" id="moskva">Москва</a></li>
+ <li><a title="Справочник города Набережные Челны" id="naberezhnye-chelny">Набережные Челны</a></li>
+ <li><a title="Справочник города Нижневартовск" id="nizhnevartovsk">Нижневартовск</a></li>
+ <li><a title="Справочник города Нижний Новгород" id="nizhniy-novgorod">Нижний Новгород</a></li>
+ <li><a title="Справочник города Нижний Тагил" id="nizhniy-tagil">Нижний Тагил</a></li>
+ <li><a title="Справочник города Новокузнецк" id="novokuzneck">Новокузнецк</a></li>
+ <li><a title="Справочник города Новороссийск" id="novorossiysk">Новороссийск</a></li>
+ <li><a title="Справочник города Новосибирск" id="novosibirsk">Новосибирск</a></li>
+ <li><a title="Справочник города Норильск" id="norilsk">Норильск</a></li>
+ <li><a title="Справочник города Одесса" id="odessa">Одесса</a></li>
+ <li><a title="Справочник города Омск" id="omsk">Омск</a></li>
+ </ul>
+ <ul class="ulpop">
+ <li><a title="Справочник города Оренбург" id="orenburg">Оренбург</a></li>
+ <li><a title="Справочник города Пенза" id="penza">Пенза</a></li>
+ <li><a title="Справочник города Пермь" id="perm">Пермь</a></li>
+ <li><a title="Справочник города Ростов-на-Дону" id="rostov-na-donu">Ростов-на-Дону</a></li>
+ <li><a title="Справочник города Рязань" id="ryazan">Рязань</a></li>
+ <li><a title="Справочник города Самара" id="samara">Самара</a></li>
+ <li><a title="Справочник города Санкт-Петербург" id="sankt-peterburg">Санкт-Петербург</a></li>
+ <li><a title="Справочник города Саратов" id="saratov">Саратов</a></li>
+ <li><a title="Справочник города Смоленск" id="smolensk">Смоленск</a></li>
+ <li><a title="Справочник города Сочи" id="sochi">Сочи</a></li>
+ <li><a title="Справочник города Ставрополь" id="stavropol">Ставрополь</a></li>
+ <li><a title="Справочник города Старый Оскол" id="staryy-oskol">Старый Оскол</a></li>
+ <li><a title="Справочник города Стерлитамак" id="sterlitamak">Стерлитамак</a></li>
+ <li><a title="Справочник города Сургут" id="surgut">Сургут</a></li>
+ <li><a title="Справочник города Сыктывкар" id="syktyvkar">Сыктывкар</a></li>
+ </ul>
+ <ul class="ulpop">
+ <li><a title="Справочник города Тверь" id="tver">Тверь</a></li>
+ <li><a title="Справочник города Тольятти" id="tolyatti">Тольятти</a></li>
+ <li><a title="Справочник города Томск" id="tomsk">Томск</a></li>
+ <li><a title="Справочник города Тула" id="tula">Тула</a></li>
+ <li><a title="Справочник города Тюмень" id="tyumen">Тюмень</a></li>
+ <li><a title="Справочник города Улан-Удэ" id="ulan-ude">Улан-Удэ</a></li>
+ <li><a title="Справочник города Ульяновск" id="ulyanovsk">Ульяновск</a></li>
+ <li><a title="Справочник города Уфа" id="ufa">Уфа</a></li>
+ <li><a title="Справочник города Хабаровск" id="habarovsk">Хабаровск</a></li>
+ <li><a title="Справочник города Чебоксары" id="cheboksary">Чебоксары</a></li>
+ <li><a title="Справочник города Челябинск" id="chelyabinsk">Челябинск</a></li>
+ <li><a title="Справочник города Чита" id="chita">Чита</a></li>
+ <li><a title="Справочник города Якутск" id="yakutsk">Якутск</a></li>
+ <li><a title="Справочник города Ярославль" id="yaroslavl">Ярославль</a></li>
+ </ul>
+ </div>
+ </div>
+ <form action="/" method="GET" class="col-md-12 col-xs-12">
+ <input type="hidden" name="citys" id="citys" value="moskva" />
+ <input type="text" name="searching" id="searching" placeholder="Поисковый запрос" value="" />
+ <input type="submit" name="searchsub" id="searchsub" class="btn btn-sm btn-default" value="поиск" />
+ </form>
+</div>
+<div id="breadcrumbs" class="col-md-12 col-xs-12">
+<a href="/">Главная</a> › <a href="/sterlitamak">Стерлитамак</a> › <a href="kafe-restorany-bystrogo-pitaniya">Досуг / Развлечения / Общественное питание. Кафе / рестораны быстрого питания</a> › Subway, кафе
+</div>
+</header>
+<section id="page" class="col-md-9 col-xs-12">
+<header class="col-md-12">
+<h1>Subway, кафе</h1>
+<div id="ad1" class="marginbot10"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- morefunz 2nd -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7093008838264539"
+     data-ad-slot="6654025003"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></header>
+<article class="col-md-12">
+<h2 class="allpgs">Subway, кафе</h2>
+<div class="col-md-7 col-xs-12 marginbot10" id="social"><div class="insoc"><a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="фанпромо">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+<div class="insoc">
+<script type="text/javascript" src="https://vk.com/js/api/share.js?91" charset="windows-1251"></script>
+<script type="text/javascript"><!--
+document.write(VK.Share.button(false,{type: "round", text: "Сохранить"}));
+--></script>
+</div>
+<div class="insoc">
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'ru'}
+</script>
+<div class="g-plusone" data-size="tall" data-annotation="inline" data-width="120"></div>
+</div>
+</div>
+<div class="col-md-5 col-xs-12 marginbot15 text-right">
+	<button type="button" class="btn btn-primary btn-xs" id="pageedit">Редактировать</button>
+	<button type="button" class="btn btn-primary btn-xs" id="pageerror">Сообщить о ошибке</button>
+</div>
+<div class="col-md-5 col-xs-12 marginbot10" itemscope="" itemtype="https://schema.org/Organization">
+	<div style="display:none" itemprop="name">Subway, кафе, </div>
+	<div class="icat">
+		Раздел:</div>
+	<div class="mcat" itemprop="description">
+		Досуг / Развлечения / Общественное питание. Кафе / рестораны быстрого питания</div>
+	<div class="icat">
+		Адрес:</div>
+	<div class="mcat" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Салават, Октябрьская, 62а</span></div>
+	<div class="icat">
+		Cайт:</div>
+	<div class="mcat">
+		<a href="http://subway.ru" target="_blank" title="Subway, кафе ">http://subway.ru</a></div>
+	<div class="icat">
+		Телефоны:</div>
+	<div class="mcat">
+		<span itemprop="telephone">(3476) 36-20-00</span></div>
+	<div class="icat">
+		Факсы:</div>
+	<div class="mcat">
+		—</div>
+	<div class="icat">
+		Время работы:</div>
+	<div class="mcat">
+		—</div>	
+	<div class="icat">
+		E-mail:</div>
+	<div class="mcat">—</div>
+</div>
+<div class="col-md-7 col-xs-12 marginbot10">
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+        ymaps.ready(init);
+        function init () {
+	var myGeocoder = ymaps.geocode('Салават, Октябрьская, 62а');
+	myGeocoder.then(
+    function (res) {
+            var myMap = new ymaps.Map("map", {
+                    center: res.geoObjects.get(0).geometry.getCoordinates(),
+                    zoom: 16,behaviors: ['drag', 'scrollZoom']
+                });
+            myMap.controls.add('zoomControl'); myMap.balloon.open(
+                res.geoObjects.get(0).geometry.getCoordinates(), {
+                    contentBody: '<strong>Subway, кафе, <\/strong><br> Салават, Октябрьская, 62а'
+                }, {
+                    closeButton: true
+                });
+			});		
+        }
+//--><!]]>
+</script>
+<div id="map" class="col-md-12 col-xs-12"></div>
+</div>
+</article>
+		<div id="ad2" class="col-md-12 col-xs-12">
+		<!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 128144;
+yandex_site_bg_color = 'FFFFFF';
+yandex_ad_format = 'direct';
+yandex_font_size = 1;
+yandex_direct_type = 'flat';
+yandex_direct_limit = 1;
+yandex_direct_title_font_size = 3;
+yandex_direct_links_underline = false;
+yandex_direct_header_bg_color = 'FFFF66';
+yandex_direct_title_color = '0000CC';
+yandex_direct_url_color = '006600';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '0066FF';
+yandex_direct_sitelinks_color = '0000CC';
+yandex_direct_favicon = true;
+yandex_no_sitelinks = false;
+document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/context.js"></scr'+'ipt>');
+</script></div>
+
+</section>
+<aside id="ad3" class="col-md-3 col-xs-12 text-center"><iframe scrolling="no" width="240" height="535" frameborder="0" src="//www.travelpayouts.com/widgets/51b81c53a8dadf5f45000006.html?v=613"></iframe></aside>
+<footer class="col-md-12 col-xs-12 margin20">
+<div id="bspace">
+<strong>©2011-2016. ФанПромо</strong>
+"Организации. Адреса. Телефоны"
+</div>
+<div class="botmenu margintop15">
+<a href="/">Главная</a> <a href="/o-proekte">О проекте</a> <a href="/pomoshch">Помощь</a> <a href="/registration">Регистрация</a> <a href="/office">Личный кабинет</a> <a href="/callback">Обратная связь</a> <a href="https://twitter.com/hashtag/%D1%84%D0%B0%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D0%BE?src=hash" target="_blank">#фанпромо</a><img src="/img/twitter.png" style="height:23px;margin:0 1em 0 -0.7em" alt="twitter icon" /> <a href="https://vk.com/funpromo" target="_blank">ФанПромо</a><img src="/img/vk.png" style="height:23px;margin:0 1em 0 -0.7em" alt="VK icon" />
+</div>
+</footer>
+</div>
+<div id="funpromo-message"></div><div id="funpromo-errmessage"></div>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter35816025 = new Ya.Metrika({ id:35816025, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/35816025" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>

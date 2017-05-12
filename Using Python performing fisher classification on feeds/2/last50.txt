@@ -1,0 +1,368 @@
+﻿----- Begin automatic classification -----
+Title:     MBBS applications to be issued from May 9
+A total of 2655 seats are available in 20 government medical colleges.
+Predicted:  others
+Enter actual category: others
+Enter string classifier: colleges
+cprob:  0.0
+fisherprob:  0.5
+Title:     Sripad Naik admitted to hospital, discharged
+Union Minister of State for AYUSH(Independent charge) Sripad Naik who was admitt                                                                                                                                                             ed on Tuesday morning to Sub-District hospital in Ponda in south Goa after he co                                                                                                                                                             mplained of neck-pain and high blood p...
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Minister
+cprob:  0.0
+fisherprob:  0.4874
+Title:     Delhi govt impounds 18 taxis for overcharging
+A day after it warned app-based cab companies Ola and Uber against charging cust                                                                                                                                                             omers more than State-prescribed fares, 18 vehicles were impounded by the Transp                                                                                                                                                             ort Department here on Tuesday.
+A sou...
+Predicted:  transportation
+Enter actual category: transportation
+Enter string classifier: transport
+cprob:  1.0
+fisherprob:  0.8333
+Title:     Garment workers stir continues in Bengaluru, traffic hit for second d                                                                                                                                                             ay
+Traffic from Bommanahalli and Hosur Road Junction diverted to adjacent areas; pr                                                                                                                                                             otests reported at Yeshwanthpur, Gorguntepalya.
+Predicted:  transportation
+Enter actual category: transportation
+Enter string classifier: Traffic
+cprob:  0.0
+fisherprob:  0.8333
+Title:     Modis convocation address at Shri Mata Vaishno Devi University
+The Prime Minister is visiting visit Katra, in Jammu and Kashmir, on Tuesday. He                                                                                                                                                              will inaugurate the Shri Mata Vaishno Devi Narayana Superspeciality Hospital. H                                                                                                                                                             e will deliver the Convocation Address ...
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Prime Minister
+cprob:  0.0
+fisherprob:  0.7334
+Title:     Global economic situation grim, worrisome: Jaitley
+The global economic situation is “grim” and “worrisome” that has prompted the na                                                                                                                                                             tions to put up “firewalls” around their own systems to save themselves from the                                                                                                                                                              slowdown and grow within the limitatio...
+Predicted:  transportation
+Enter actual category: others
+Enter string classifier: economic
+cprob:  0.0
+fisherprob:  0.5
+Title:     Pak troops violate ceasefire
+Hours before Prime Minister Narendra Modi’s visit to Katra, Pakistani troops on                                                                                                                                                              Tuesday resorted to ceasefire violation along the International Border (IB) in S                                                                                                                                                             abma district of Jammu and Kashmir.
+P...
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Prime Minister
+cprob:  0.0
+fisherprob:  0.7334
+Title:     Local youth held in Handwara molestation case
+He was identified by the 16-year-old girl, who is at the centre of the Valley’s                                                                                                                                                              fresh unrest, in a statement.
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: molestation
+cprob:  0.0
+fisherprob:  0.5
+Title:     Adopt Periyar’s Self-Respect principles, Bhagwan tells deprived classes
+Rationalist and thinker K.S. Bhagwan has strongly condemned honour killings in society. When parents kill their child who opted for an inter-caste marriage, it means that they value their caste over ...
+Predicted:  politics
+Enter actual category: accident
+Enter string classifier: kill
+cprob:  0.0
+fisherprob:  0.5
+Title:     “Unstable academic calendar has made students’ life messy”
+Govt. announces summer vacation from April 16 onwards, but issues orders later to reopen schools from April 20, says TRSMA State general secretary
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Govt.
+cprob:  0.0
+fisherprob:  0.9
+Title:     Cops told to be on alert
+Superintendent of Police Navin Gulati instructed police officials and personnel on Tuesday to perform duties with alertness during Sri Seetha Rama kalyanam at Sri Kodandarama Swamy temple at Vontimitt...
+Predicted:  entertainment
+Enter actual category: others
+Enter string classifier: alertness
+cprob:  0.0
+fisherprob:  0.5
+Title:     Children need protection from heat and dehydration
+Children face a much greater risk of dehydration and heat-related illness because their body surface area is much greater when compared to their weight.Early signs of dehydration include fatigue, thir...
+Predicted:  others
+Enter actual category: accident
+Enter string classifier: illness
+cprob:  0.0
+fisherprob:  0.5
+Title:     Bengaluru Today
+Religion
+Hanumadvilasa:
+Discourse by Kallapura Pavamanacharya, Poornapragna Vidyapeeta, Kattariguppe Main Road, 6.30 p.m.
+Vishuddha Vedanta Saara:
+Discourse by Anantasharma...
+Predicted:  transportation
+Enter actual category: others
+Enter string classifier: Religion
+cprob:  0.0
+fisherprob:  0.5
+Title:     ‘Waive farm loans even if it means borrowing advance’
+Eshwarappa accuses govt. of not using drought relief funds given by Centre
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: govt.
+cprob:  0.0
+fisherprob:  0.9
+Title:     Kabini backwaters, a paradise for animals during drought
+The impact of the prevailing drought and water stress in Bandipur and Nagarahole region is cushioned to a large extent by the Kabini and Taraka reservoirs whose backwaters stretches deep into the Naga...
+Predicted:  others
+Enter actual category: others
+Enter string classifier: animals
+cprob:  0.0
+fisherprob:  0.5
+Title:     New pay still on paper for gazetted officers
+Delay in updating their service details in the Service and Payroll Administrative Repository for Kerala
+Predicted:  transportation
+Enter actual category: others
+Enter string classifier: officers
+cprob:  0.0
+fisherprob:  0.5
+Title:     Four killed in accident
+Two women and as many children were killed on Tuesday and 20 others, who all were part of a marriage party, injured when the mini-truck they were travelling in overturned in Chhattisgarh’s Rajnandgaon...
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: accident
+cprob:  0.0
+fisherprob:  0.5
+Title:     Case registered against polytechnic staff for beating student
+Police have registered a case against an external member of a squad of a private polytechnic college for beating up a polytechnic student, leading to a suicide attempt by the student.The student Anadh...
+Predicted:  politics
+Enter actual category: accident
+Enter string classifier: suicide
+cprob:  0.0
+fisherprob:  0.5
+Title:     Training programme on tilapia fish farming
+A free one-day training programme on ‘tilapia fish farming’ will be held on the Krishi Vigyan Kendra in Veterinary College and Research Institute premises on Mohanur Road on April 25.A press release f...
+Predicted:  politics
+Enter actual category: others
+Enter string classifier: fish farming
+cprob:  0.0
+fisherprob:  0.5966
+Title:     PEW busts spurious liquor-manufacturing unit
+Personnel attached to the Prohibition Enforcement Wing (PEW), Vaniyambadi on Tuesday busted a spurious liquor manufacturing unit at Ambur. Four persons, including a habitual offender were arrested.Rai...
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: arrested
+cprob:  0.0
+fisherprob:  0.5
+Title:     Tremors rock Andaman islands
+A medium intensity earthquake measuring 5.1 on the Richter Scale hit the Andaman islands in the wee hours on Wednesday.According to National Center for Seismology, the earthquake hit the Andaman and ...
+Predicted:  entertainment
+Enter actual category: accident
+Enter string classifier: earthquake
+cprob:  0.0
+fisherprob:  0.5
+Title:     JD(S) wins Hassan local body by-election
+Janata Dal (Secular) candidate Shreyas won in the by-election held for ward 6 of Hassan City Municipal Council. The seat was vacant with the death of Prasanna Krishnamurthy.
+The JD(S) had fielded P...
+Predicted:  entertainment
+Enter actual category: elections
+Enter string classifier: election
+cprob:  0.0
+fisherprob:  0.25
+Title:     Where the grass is green even in blazing summer
+Mysuru palace is a model in rainwater conservation
+Predicted:  transportation
+Enter actual category: others
+Enter string classifier: rainwater
+cprob:  0.0
+fisherprob:  0.5
+Title:     Tamil Nadu Assembly elections — Poll diary
+Committed to the ideology
+Communist Party of India leader A. Mohan, who is contesting the polls from Veerapandi in Salem district, hails from a traditional Communist family. Though the 48-year-old ...
+Predicted:  accident
+Enter actual category: elections
+Enter string classifier: elections
+cprob:  0.0
+fisherprob:  0.5
+Title:     Vasan to start his campaign from Papanasam
+Tamil Maanila Congress leader G.K. Vasan is all set to launch his election campaign from Papanasam on Wednesday.The TMC has fielded its candidate S.D. Jayakumar in the Papanasam constituency for whom ...
+Predicted:  transportation
+Enter actual category: elections
+Enter string classifier: election
+cprob:  0.0
+fisherprob:  0.25
+Title:     An occasion to build new relationships
+“Weddings have always been an occasion for building new relationships and renewing old ones. The ‘tirukkalyanam’ is an occasion for people to renew their relationship with god and their own families a...
+Predicted:  entertainment
+Enter actual category: entertainment
+Enter string classifier: occasion
+cprob:  0.0
+fisherprob:  0.5
+Title:     Bear’s nocturnal adventure triggers ‘beehive’ of activity
+After many tense moments police and zoo officials manage to tranquilise the animal that escaped from Nehru zoo
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: tranquilise
+cprob:  0.0
+fisherprob:  0.5
+Title:     CCTVs to be installed in parts of Karimnagar
+Installation to cost around Rs. 6 lakh
+Predicted:  entertainment
+Enter actual category: others
+Enter string classifier: installed
+cprob:  0.0
+fisherprob:  0.25
+Title:     Balineni scoffs at rumours
+Meanwhile, senior leader and former Minister Balineni Srinivas Reddy denied reports that he would switch his loyalties from the YSRC.Describing the reports as rumours, he said these reports did not ca...
+Predicted:  elections
+Enter actual category: politics
+Enter string classifier: former Minister
+cprob:  0.0
+fisherprob:  0.752
+Title:     Monkey dies after being attacked by dog
+The scorching summer this year is taking its toll not only on people, but also on animals. Monkeys are straying into villages in search of water to quench their thirst.In a heart-rending incident, a m...
+Predicted:  others
+Enter actual category: others
+Enter string classifier: animals
+cprob:  0.0
+fisherprob:  0.5
+Title:     Troubled by tradition
+Forest Department’s guidelines on use of elephants for Thrissur Pooram do not get much support
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Forest Department's
+cprob:  0.0
+fisherprob:  0.5966
+Title:     Red rebels kill Odisha villager
+Suspected Left wing extremists had on Monday killed a person, accusing him of being a police informer, in a hamlet of the Sunabeda-Patdarha plateau in Odisha’s Nuapada district.The victim, identified ...
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: kill
+cprob:  0.0
+fisherprob:  0.5
+Title:     Punjab CM approves Rs 750 crore for roads
+Punjab Chief Minister Parkash Singh Badal on Tuesday approved Rs 750 crore for the repair and strengthening of 6500 km link road in the State.While chairing a meeting to review the progress of strengt...
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Chief Minister
+cprob:  0.0
+fisherprob:  0.3289
+Title:     14 cases reported
+Flying squads seized around Rs. 1.96 crore cash. Of this, Rs. 1.93 crore was returned to the legal possessors after they submitted the required proof, according to the Collector and Election Officer M...
+Predicted:  entertainment
+Enter actual category: elections
+Enter string classifier: Election
+cprob:  0.0
+fisherprob:  0.25
+Title:     Dolphin washed ashore in Kilakkarai
+The highly decomposed carcass of an adult dolphin was found washed ashore at Seeniappa Dargah in Kilakkarai off Gulf of Mannar region on Tuesday.Forest Ranger S. Ganesalingam said that the marine mamm...
+Predicted:  politics
+Enter actual category: accident
+Enter string classifier: washed ashore
+cprob:  0.0
+fisherprob:  0.5966
+Title:     ‘Fill vacancies in High Court’
+The Hyderabad Karnataka Chapter of the Indian Association of Lawyers has demanded the immediate filling of vacant posts of judges in the High Court of Karnataka to enable the court to function in full...
+Predicted:  politics
+Enter actual category: law
+Enter string classifier: High Court
+cprob:  0.0
+fisherprob:  0.2904
+Title:     engagements
+Calicut Heritage Forum
+: Screening of movie on ‘Kozhikodan families in China’, Malabar Christian College, 11 a.m.
+Organising committee
+: ‘Harsham,’ exhibition of murals by...
+Predicted:  law
+Enter actual category: entertainment
+Enter string classifier: movie
+cprob:  0.0
+fisherprob:  0.5
+Title:     Remembered only during elections, they harbour no high hopes
+The Kani tribal people, who live on the hills of Mundanthurai, know what they want and what they are likely to get from the polls
+Predicted:  others
+Enter actual category: others
+Enter string classifier: tribal people
+cprob:  0.0
+fisherprob:  0.6407
+Title:     Three-time MLA to contest in Cumbum
+After a gap of one and a half decades, the Tamil Maanila Congress is contesting in Cumbum in the May 16 Assembly election. It has fielded its high-level committee member and three-time MLA O.R. Ramach...
+Predicted:  accident
+Enter actual category: elections
+Enter string classifier: contest
+cprob:  0.0
+fisherprob:  0.5
+Title:     TMC fields candidates for Vilathikulam, Srivaikuntam
+Tamil Maanila Congress (TMC), an ally of DMDK-PWF combine, has fielded its candidates to contest from Vilathikulam and Srivaikuntam Assembly constituencies in the upcoming polls. P. Kathirvel (68) has...
+Predicted:  transportation
+Enter actual category: elections
+Enter string classifier: contest
+cprob:  0.0
+fisherprob:  0.5
+Title:     High Court reserves order on Virbhadra’s children plea
+They had challenged ED’s attachment order of some of their properties
+Predicted:  politics
+Enter actual category: law
+Enter string classifier: High Court
+cprob:  0.0
+fisherprob:  0.2904
+Title:     Are there no rights violations in Union Territories, SC asks Centre
+Apex court rejects Centre's submission that Delhi does not need an SHRC as it is a UT
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: Centre
+cprob:  0.0
+fisherprob:  0.728
+Title:     Animation film to promote brand Amaravati
+In a bid to promote the brand name Amaravati, representing the people of the capital region and their talents on international space, a Hyderabad-based animation studio, Sun Animatics, is going to mak...
+Predicted:  others
+Enter actual category: entertainment
+Enter string classifier: Animation
+cprob:  0.0
+fisherprob:  0.5
+Title:     Seeking divine help to garner votes
+AIADMK, DMK candidates present at celestial wedding in Siva temples in Dindigul, Theni districts
+Predicted:  politics
+Enter actual category: politics
+Enter string classifier: AIADMK
+cprob:  0.0
+fisherprob:  0.75
+Title:     Kochi’s public transport to take new route
+Kochi Metro Rail Limited to re-engineer existing network by early 2017
+Predicted:  transportation
+Enter actual category: transportation
+Enter string classifier: transport
+cprob:  1.0
+fisherprob:  0.8333
+Title:     Ragi gruel centre launched for traffic police
+To provide some relief from the blistering heat, the City Police Commissioner G Sudheer Babu has introduced a ‘ragi soup’ dispensing centre for the traffic personnel here on Wednesday.Launching the ce...
+Predicted:  politics
+Enter actual category: transportation
+Enter string classifier: traffic
+cprob:  0.0
+fisherprob:  0.1667
+Title:     Cinema
+Film City (Ph: 4060002):
+The Jungle Book-3D (Eng., 8 shows), Fan (Hindi, 5 shows), King Liar (Mal., 5 shows), Kali (Mal., 4 shows), Theri (Tamil, 8 shows).
+Crown (2721896):
+...
+Predicted:  entertainment
+Enter actual category: entertainment
+Enter string classifier: Film
+cprob:  0.0
+fisherprob:  0.75
+Title:     Engagements
+TIRUNELVELI
+St. Sebastian’s Church:
+Silver Jubilee celebrations, Holy Mass by Rev. Fr. Antony A. Cruz, parish priest, Adaikkala Annai Church, Tirunelveli Town, homily by Rev. Fr. A. Jose...
+Predicted:  accident
+Enter actual category: entertainment
+Enter string classifier: celebrations
+cprob:  0.0
+fisherprob:  0.5
+Title:     Martyr’s chronicle: bringing together bits and pieces
+The death of constable Md. Ghouse on April 20, 1981 has not been documented properly as police say he wasbattered to death by an unruly mob while some others believe that a Gond woman killed him
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: death
+cprob:  0.0
+fisherprob:  0.5
+Title:     Nine arrested on murder charge
+The police have arrested nine people in connection with the murder of Praveen (32), who was killed in broad daylight in Hassan town on April 4. A pro-Kannada activist is one among the accused in the m...
+Predicted:  accident
+Enter actual category: accident
+Enter string classifier: killed
+cprob:  1.0
+fisherprob:  0.8333
+

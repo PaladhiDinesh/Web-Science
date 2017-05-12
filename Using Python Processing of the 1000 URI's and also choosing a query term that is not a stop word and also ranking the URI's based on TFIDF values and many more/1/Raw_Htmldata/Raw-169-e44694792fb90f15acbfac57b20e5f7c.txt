@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>This Raccoon Was The Most Polite Passenger On Toronto&#8217;s Subway | CNN LIFEHACKS 2015</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://cnn.lifehacks2015.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://cnn.lifehacks2015.com/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="CNN LIFEHACKS 2015 &raquo; Feed" href="http://cnn.lifehacks2015.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CNN LIFEHACKS 2015 &raquo; Comments Feed" href="http://cnn.lifehacks2015.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CNN LIFEHACKS 2015 &raquo; This Raccoon Was The Most Polite Passenger On Toronto&#8217;s Subway Comments Feed" href="http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/cnn.lifehacks2015.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.3"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='crazypills-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/crazy-pills/css/styles.css?ver=0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mashsb-styles-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/mashsharer/templates/mashsb.min.css?ver=2.5.2' type='text/css' media='all' />
+<style id='mashsb-styles-inline-css' type='text/css'>
+
+        .mashsb-count {
+        color: #cccccc;
+        }
+    .mashsb-buttons a {
+    min-width: 177px;}
+</style>
+<link rel='stylesheet' id='jquery.fancybox-1.3.4-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/popup-beast/inc/jquery.fancybox-1.3.4.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wbounce-style-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/wbounce/css/min/wbounce.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://cnn.lifehacks2015.com/wp-content/themes/twentytwelve/style.css?ver=4.3.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://cnn.lifehacks2015.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ggcl-style-css'  href='http://cnn.lifehacks2015.com/wp-content/plugins/grid-gallery-with-custom-links/css/grid-gallery-with-custom-links.css?ver=1.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"322","round_shares":"","animate_shares":"0","share_url":"http:\/\/cnn.lifehacks2015.com\/this-raccoon-was-the-most-polite-passenger-on-torontos-subway\/","title":"This+Raccoon+Was+The+Most+Polite+Passenger+On+Toronto%E2%80%99s+Subway","image":null,"desc":"Be more like this trash panda.\n\n\n\n\n\n\n\n\n\n\n \n\n \n\tThose little grabby hands aren't the only thing that make raccoons eerily people-like. They also know the daily slog of commuting on public transportation.\n\n   \n \n\t\n\n\n \u2026","hashtag":"","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-content/plugins/popup-beast/inc/jquery.fancybox-1.3.4.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-content/plugins/wbounce/js/min/wbounce.min.js?ver=1.5.1.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cnn.lifehacks2015.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cnn.lifehacks2015.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='These Spicy Slow Cooker Carnitas Are The Perfect Weeknight Dinner' href='http://cnn.lifehacks2015.com/these-spicy-slow-cooker-carnitas-are-the-perfect-weeknight-dinner/' />
+<link rel='next' title='10-Lb. Yorkie Helps Vietnam Vet Fight Off Bear' href='http://cnn.lifehacks2015.com/10-lb-yorkie-helps-vietnam-vet-fight-off-bear/' />
+<meta name="generator" content="WordPress 4.3.3" />
+<link rel='canonical' href='http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/' />
+<link rel='shortlink' href='http://cnn.lifehacks2015.com/?p=11781' />
+<link type="text/css" rel="stylesheet" href="http://cnn.lifehacks2015.com/wp-content/plugins/category-specific-rss-feed-menu/wp_cat_rss_style.css" />
+<style type="text/css">.wbounce-modal .modal { width: 900px; height: 600px; }
+.wbounce-modal .modal-body {
+   padding: 1px 1px;</style>	<style type="text/css" id="twentytwelve-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<!-- Custom CSS -->
+<style>
+body .site {
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	box-shadow: none;
+}
+.site-header {
+    margin-top: -23px;
+    padding: 0;
+}
+.site-content {
+    width: 70%;
+}
+.widget-area {
+    width: 30%;
+}
+.widget-area .widget{-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;margin-bottom:20px;
+}
+.widget-area .widget h3{margin-bottom:4px;
+}
+.entry-content h4{margin-top:8px;margin-bottom:8px;
+}
+table th, table td {
+    padding: 7px 7px;
+    text-align: center;
+}
+table, td, th {
+    border: none;
+}
+
+tbody {
+    background-color: #E89DBE;
+    color: white;
+ }
+table {
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+ table.cbox1 a {
+   text-decoration: none;
+    font-style: normal;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in 0s;
+    font-size: 14px;
+    padding: 5px;
+    font-weight: normal;
+    display: inline-block;
+    outline: 0px none;
+    border-radius: 6px;
+    border-bottom: 2px solid #BF581C;
+    color: #FFF;
+    background-color: #FB005F;
+    background-image: -moz-linear-gradient(center top , #FF5796, #FB005F);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.7);
+}
+table.cbox1 a:hover {
+    background-image: -moz-linear-gradient(center top , #FB005F, #CC004D);
+    background-color: #FB005F;
+}
+table.cbox1 td {
+    font-family: Oswald;
+    color: #FFF;
+    font-size: 25px;
+    font-style: italic;
+    vertical-align: middle;
+    padding: 5px 5px;  
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
+}
+::-moz-selection {
+    background: #FFF none repeat scroll 0% 0%;
+    text-shadow: none;
+    color: rgb(255, 255, 255);
+}
+
+
+</style>
+<!-- Generate by https://wordpress.org/plugins/theme-junkie-custom-css/ -->
+
+<!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+<style type="text/css" id="styles-plugin-css">
+@import '//fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic';@import '//fonts.googleapis.com/css?family=Francois+One:regular';@import '//fonts.googleapis.com/css?family=Crafty+Girls:regular';@import '//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,regular,italic,700,700italic';#searchsubmit,.styles .post-password-required input[type="submit"],#respond input#submit{background-image:none}body .site{padding-left:0;padding-right:0;max-width:74.285714285rem}#masthead,#main,#colophon{padding-left:2.857142857rem;padding-right:2.857142857rem}.styles #page{font-family:Roboto}.styles #page a{font-family:Roboto}.styles #page #masthead{background-color:#000}.styles .nav-menu{background-color:#000}.styles .main-navigation ul.nav-menu,.styles .main-navigation div.nav-menu > ul{border-color:#000}.styles #page .main-navigation li a{font-size:12px;font-family:Arial, Helvetica, sans-serif;color:#f7f7f7}.styles #page .main-navigation li a:hover{color:#4ad8e2}.styles #secondary .widget-title{font-size:18px;font-family:Roboto;color:#d33}.styles #secondary aside,.styles #secondary aside ul li,.styles #secondary aside a{font-size:18px;font-family:Roboto}.styles #secondary aside,.styles #secondary aside ul li{color:#000}.styles #secondary aside a{color:#000}.styles #secondary aside a:hover{color:#3d82bf}.styles .entry-title,.styles #page .entry-title a{font-size:38px;font-family:Francois One}.styles .entry-content h1{font-family:Roboto}.styles .entry-content h2{font-family:Roboto}.styles .entry-content h3{font-family:Roboto}.styles .entry-content h4{font-family:Roboto}.styles .entry-content h5{font-size:18px;font-family:Roboto}.styles .entry-content h6{font-family:Crafty Girls;color:#fff}.styles .archive-title{font-size:18px;font-family:Roboto Condensed}.styles article.sticky .featured-post{font-family:Roboto}.styles .page-links,.styles .page-links a{font-family:Arial, Helvetica, sans-serif}.styles footer[role='contentinfo']{background-color:#bfbfbf}
+</style>
+</head>
+
+<body class="single single-post postid-11781 single-format-standard styles custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://cnn.lifehacks2015.com/" title="CNN LIFEHACKS 2015" rel="home">CNN LIFEHACKS 2015</a></h1>
+			<h2 class="site-description">CNN LIFEHACKS 2015</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-menu-container"><ul id="menu-menu" class="nav-menu"><li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="http://cnn.lifehacks2015.com/category/lol/">LOL</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://cnn.lifehacks2015.com/category/cute/">Cute</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72"><a href="http://cnn.lifehacks2015.com/category/celebrity/">Celebrity</a></li>
+<li id="menu-item-932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-932"><a href="http://cnn.lifehacks2015.com/category/weird/">Weird</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a href="http://cnn.lifehacks2015.com/category/health/">Health</a></li>
+<li id="menu-item-933" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-933"><a href="http://cnn.lifehacks2015.com/category/cute-cats-and-dogs/">Animals</a></li>
+<li id="menu-item-8069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8069"><a href="http://cnn.lifehacks2015.com/category/lifehacks/">LifeHacks</a></li>
+<li id="menu-item-934" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-934"><a href="http://cnn.lifehacks2015.com/category/world-news/">World News</a></li>
+<li id="menu-item-8053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8053"><a href="http://cnn.lifehacks2015.com/category/food/">Food</a></li>
+<li id="menu-item-8057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8057"><a href="http://cnn.lifehacks2015.com/category/movies/">Movies</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-11781" class="post-11781 post type-post status-publish format-standard hentry category-cute-cats-and-dogs tag-most tag-passenger tag-polite tag-raccoon tag-subway tag-this tag-torontos">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">This Raccoon Was The Most Polite Passenger On Toronto&#8217;s Subway</h1>
+										<div class="comments-link">
+					<a href="http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count"><div class="counts mashsbcount">322</div><span class="mashsb-sharetext">SHARES</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=This+Raccoon+Was+The+Most+Polite+Passenger+On+Toronto%E2%80%99s+Subway&amp;url=http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><div class="onoffswitch"></div><div class="secondary-shares" style="display:none;"><a style="" class="mashicon-subscribe" href="#" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Subscribe</span></a><div class="onoffswitch2" style="display:none;"></div></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+                        <!-- Share buttons by mashshare.net - Version: 2.5.2--><p>Be more like this trash panda.</p>
+<h1>Those little grabby hands aren&#8217;t the only thing that make raccoons eerily people-like. They also know the daily slog of commuting on public transportation.</h1>
+<p><img src="https://ak-hdl.buzzfed.com/static/2016-02/2/11/enhanced/webdr09/enhanced-14439-1454430106-2.png" width="625" height="469" alt="Those little grabby hands aren't the only thing that make raccoons eerily people-like. They also know the daily slog of commuting on public transportation." /></p>
+<p><small>Carl Fernandez / Via <a rel="nofollow"  target="_blank"  href="https://twitter.com/Carlnandez">Twitter: @Carlnandez</a></small></p>
+<h1>This trash panda was spotted going for a casual ride on Toronto&#8217;s subway Tuesday morning.</h1>
+<p><img src="https://ak-hdl.buzzfed.com/static/2016-02/2/11/enhanced/webdr13/enhanced-15367-1454430107-13.png" width="625" height="472" alt="This trash panda was spotted going for a casual ride on Toronto's subway Tuesday morning." /></p>
+<p><small>Carl Fernandez / Via <a rel="nofollow"  target="_blank"  href="https://twitter.com/Carlnandez">Twitter: @Carlnandez</a></small></p>
+<hr />
+<p><a href="http://www.buzzfeed.com/laurenstrapagiel/toronto-trashpanda-commission">View Entire List &rsaquo;</a></p>
+<div class="awac-wrapper" id="ws_widget__ad_codes-64"><div class="awac widget ws_widget__ad_codes-64"><div style="margin: 0 auto 0 auto; text-align:center;">
+<aside class="mashsb-container mashsb-main"><div class="mashsb-box"><div class="mashsb-count" style="float:left;"><div class="counts">322</div><span class="mashsb-sharetext">SHARES</span></div><div class="mashsb-buttons"><a style="" class="mashicon-facebook" href="http://www.facebook.com/sharer.php?u=http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a style="" class="mashicon-twitter" href="https://twitter.com/intent/tweet?text=This+Raccoon+Was+The+Most+Polite+Passenger+On+Toronto%E2%80%99s+Subway&amp;url=http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><div class="onoffswitch"></div><div class="secondary-shares" style="display:none;"><a style="" class="mashicon-subscribe" href="#" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Subscribe</span></a><div class="onoffswitch2" style="display:none;"></div></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+                        <!-- Share buttons made by mashshare.net - Version: 2.5.2-->
+</div>
+</div></div><div class="awac-wrapper" id="ws_widget__ad_codes-57"><div class="awac widget ws_widget__ad_codes-57"><h4 class="widget-title">What Others Are Reading</h4><div style="margin: 0 auto 0 auto; text-align:center;">
+<iframe scrolling='no' src="http://lifehacks2015.com/below-articles-low/"  width="100%" height="2400" frameborder="0" marginheight="0" marginwidth="0">
+    </iframe>
+</div>
+</div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://cnn.lifehacks2015.com/category/cute-cats-and-dogs/" rel="category tag">Animals</a> and tagged <a href="http://cnn.lifehacks2015.com/tag/most/" rel="tag">Most</a>, <a href="http://cnn.lifehacks2015.com/tag/passenger/" rel="tag">Passenger</a>, <a href="http://cnn.lifehacks2015.com/tag/polite/" rel="tag">Polite</a>, <a href="http://cnn.lifehacks2015.com/tag/raccoon/" rel="tag">Raccoon</a>, <a href="http://cnn.lifehacks2015.com/tag/subway/" rel="tag">Subway</a>, <a href="http://cnn.lifehacks2015.com/tag/this/" rel="tag">This</a>, <a href="http://cnn.lifehacks2015.com/tag/torontos/" rel="tag">Toronto's</a> on <a href="http://cnn.lifehacks2015.com/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/" title="3:33 pm" rel="bookmark"><time class="entry-date" datetime="2016-02-08T15:33:06+00:00">February 8, 2016</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://cnn.lifehacks2015.com/author/Tanya/" title="View all posts by Tanya" rel="author">Tanya</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Post navigation</h3>
+					<span class="nav-previous"><a href="http://cnn.lifehacks2015.com/these-spicy-slow-cooker-carnitas-are-the-perfect-weeknight-dinner/" rel="prev"><span class="meta-nav">&larr;</span> These Spicy Slow Cooker Carnitas Are The Perfect Weeknight Dinner</a></span>
+					<span class="nav-next"><a href="http://cnn.lifehacks2015.com/10-lb-yorkie-helps-vietnam-vet-fight-off-bear/" rel="next">10-Lb. Yorkie Helps Vietnam Vet Fight Off Bear <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/this-raccoon-was-the-most-polite-passenger-on-torontos-subway/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://cnn.lifehacks2015.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8"  aria-required="true" required="required"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='11781' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://cnn.lifehacks2015.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="ws_widget__ad_codes-65" class="widget ad-codes"><h3 class="widget-title">Trending:</h3><div style="margin: 0 auto 0 auto; text-align:center;">
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href='http://go.mentormetoday.co/SH4f' target="_blank"><img class="size-full wp-image-7956" width="300" height="250" src="http://www.MyMillionaireMentor.co/images/banners/300X250_MMM_9.gif" border="0" alt="The Red Smoothie Detox Factor" title=""/></a></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/flat-belly-overnight/" target="_blank"><img class="size-full wp-image-7956" width="300" height="250" src="http://lifehacks2015.com/images/flatbellyovernight2.jpg" border="0" alt="Flat Belly Overnight" /></a><span style="text-decoration: underline;"><a href="http://lifehacks2015.com/2016/flat-belly-overnight/" target="_blank">
+</a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/odds-cruser/" target="_blank"><img class="size-full wp-image-7956" src="http://www.tablettraining.net/Banners/ipadbanner4.jpg" width="300" height="250"></a> </dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href='http://lifehacks2015.com/2016/vogenesis/' target="_blank"><img class="size-full wp-image-7956" width="300" height="250" src="http://lifehacks2015.com/images/wrwbaners/300x250-ce5f063ed82006197938801bb8b5ac62.gif" alt="VOGENESIS" title=""/></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href='http://lifehacks2015.com/2016/red-smoothie-detox/' target="_blank"><img class="size-full wp-image-7956" width="300" height="250" src="http://redsmoothiedetoxfactor.com/affiliate/images/smoothies.jpg" alt="The Red Smoothie Detox Factor" title=""/></a></dt><dt class="wp-caption-dt"></dt></dl><dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href='http://lifehacks2015.com/2016/vogenesis/' target="_blank"><img class="size-full wp-image-7956" width="300" height="250" src="http://lifehacks2015.com/images/wrwbaners/300x250-eca092c21175e3d5a2dbd94be0db4e60.jpg" border="1" alt="Vogenesis" title=""/></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/bow-legs-nomore/" target="_blank"><img class="size-full wp-image-7956" src="http://www.bowlegsnomore.com/images/leg-before-after.jpg" width="300" height="200" border="0" alt="Bow Legs Nomore
+" /></a>
+<a href="http://lifehacks2015.com/2016/bow-legs-nomore/" target="_blank">
+<h2>Looking for a Permanent Remedy for Bow Legs - Without the Need for Surgery?</h2></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank"><img class="size-full wp-image-7956" src="http://lifehacks2015.com/images/wrwbaners/300x250-d7b022041354a1156ea1f62d124c9670.jpg" border="0" alt="27 Habits" /></a><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank">
+<h2>Why Cell Phones Could Be Causing You To GAIN WEIGHT And The  15-Second "Earthing" Fix You Can Use TO Stop It !</h2></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank"><img class="size-full wp-image-7956" src="http://rbk.h-cdn.co/assets/15/17/980x490/landscape-1429716195-56405063.jpg" width="300" height="200" border="0" alt="Warning Signs" /></a><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank">
+<h2>The 45-Second "SHOWER TRICK" That Ignites Your Metabolism And Improves Sleep, Depression and Your Hormones</h2></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank"><img class="size-full wp-image-7956" src="https://media.mercola.com/ImageServer/Public/2015/April/burn-fat-while-you-sleep-fb.jpg" width="300" height="200" border="0" alt="27 Habits" /></a><a href="http://lifehacks2015.com/2016/27-body-transformation-habbits/" target="_blank">
+<h2>Why you Should NEVER Sleep For 8-Hours And The Best Way To Burn Fat While Sleeping</h2></a></dt><dt class="wp-caption-dt"></dt></dl>
+<dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/6-week-shred/" target="_blank"><img class="size-full wp-image-7956" src="http://lifehacks2015.com/images/wrwbaners/300x250-ddb4023477811470bbe16ed29a244d3e.gif" border="0" alt="6 Week Shredd" /></a><a href="http://lifehacks2015.com/2016/6-week-shred/" target="_blank">
+<h2></h2></a></dt><dt class="wp-caption-dt"></dt></dl><dl id="attachment_7956" class="wp-caption alignnone" style="width: 308px;"><dt class="wp-caption-dt"><a href="http://lifehacks2015.com/2016/the-amazing-you/" target="_blank"><img class="size-full wp-image-7956" src="http://www.theamazingyou.com/affiliatebanners/300x250a.gif" width="300" height="300"></a> </dt><dt class="wp-caption-dt"></dt></dl>
+</div>
+</aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://cnn.lifehacks2015.com/these-six-questions-will-determine-what-percent-melbourne-you-are/">These Six Questions Will Determine What Percent Melbourne You Are</a>
+						</li>
+					<li>
+				<a href="http://cnn.lifehacks2015.com/canned-food-roulette/">Canned Food Roulette</a>
+						</li>
+					<li>
+				<a href="http://cnn.lifehacks2015.com/lady-gaga-hits-high-note-in-electric-grammys-tribute-to-david-bowie/">Lady Gaga Hits High Note in Electric Grammys Tribute to David Bowie</a>
+						</li>
+					<li>
+				<a href="http://cnn.lifehacks2015.com/ice-cube-wants-you-to-know-he-dipped-out-after-presenting-at-the-grammys/">Ice Cube Wants You To Know He Dipped Out After Presenting At The Grammys</a>
+						</li>
+					<li>
+				<a href="http://cnn.lifehacks2015.com/kendrick-lamar-gives-a-powerful-and-political-performance-in-chains-after-winning-big-at-the-grammy-awards/">Kendrick Lamar Gives a Powerful and Political Performance in Chains After Winning Big at the Grammy Awards</a>
+						</li>
+				</ul>
+		</aside><aside id="ws_widget__ad_codes-66" class="widget ad-codes"><h3 class="widget-title">Best. Hosting. Ever.</h3><div style="margin: 0 auto 0 auto; text-align:center;">
+<form name="shareasale"  action="http://www.shareasale.com/m-formredirect.cfm" method=POST>
+	<input type=hidden name=specialID value="5041">
+	<input type=hidden name=userID value="1108649">
+	<input type=hidden name=merchantID value="55283">
+	<input type=hidden name=afftrack value="">
+
+	
+	
+
+	<object width="300" height="250" 
+data="https://www.lcwsoft.com/flashbanners/SAS/300x250_lcwsoft_SAS.swf">
+<param name="movie" value="https://www.lcwsoft.com/flashbanners/SAS/300x250_lcwsoft_SAS.swf">
+<param name="quality" value="high">
+<param name="allowScriptAccess" value="always">
+<embed src="https://www.lcwsoft.com/flashbanners/SAS/300x250_lcwsoft_SAS.swf" quality="high" width="300" height="250" allowScriptAccess="always"></embed>
+</object>
+	</form>
+</div>
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+		<div id="wbounce-modal" class="wbounce-modal underlay" style="display:none">
+			<div id="wbounce-modal-sub" class="wbounce-modal-sub modal">
+				<div class="modal-title">
+  <h3>↓Before You Leave...Grab it before it's too late ↓</h3>
+</div>
+
+<div class="modal-body">
+ <iframe src="http://lifehacks2015.com/popup9_millionaire_noyellow.html" width="100%" height="600px" frameborder="0" marginheight="-10px" marginwidth="0">
+    </iframe>
+</div>			</div>
+		</div>
+			<script>
+		(function ( $ ) {
+
+			if (typeof __gaTracker == 'function') {
+				__gaTracker( function() {
+				  window.ga = __gaTracker;
+				});
+			}
+
+			$(function() {
+				var cookieName = 'wBounce';
+				var aggressive = '';
+
+				if (typeof ouibounce !== 'undefined' && $.isFunction(ouibounce)) {
+			      var _ouibounce = ouibounce(document.getElementById('wbounce-modal'), {
+			      	sensitivity:20,sitewide:true,cookieName:cookieName,callback:function(){}			      });
+
+				};
+
+				$('body').on('click', function() {
+					$('#wbounce-modal').hide();
+									});
+
+				$('#wbounce-modal .modal-close').on('click', function() {
+					$('#wbounce-modal').hide();
+									});
+
+				$('#wbounce-modal .modal-footer').on('click', function() {
+					$('#wbounce-modal').hide();
+									});
+
+				$('#wbounce-modal-sub').on('click', function(e) {
+					e.stopPropagation();
+				});
+
+				/*
+				 * AUTOFIRE JS
+				 */
+				var autoFire = null;
+				
+				function isInteger(x) {
+					return (typeof x === 'number') && (x % 1 === 0);
+				}
+				function handleAutoFire( delay ) {
+					if ( _ouibounce.isDisabled() ) return;
+					setTimeout( _ouibounce.fire, delay );
+				}
+				if ( isInteger(autoFire) && autoFire !== null ) {
+				  handleAutoFire( autoFire );
+				}
+				/*** /AUTOFIRE JS ***/
+			});
+		})(jQuery);
+		</script>
+	<p>Powered by Yahoo! Answers</p><script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-includes/js/comment-reply.min.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://cnn.lifehacks2015.com/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+</body>
+</html>

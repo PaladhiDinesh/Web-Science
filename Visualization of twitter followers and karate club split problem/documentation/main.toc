@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Problem 1}{2}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Solution}{2}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1.2}Code Listing}{3}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {1.3}Code Listing}{4}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {1.4}Code Listing}{6}{subsection.0.1.4}
+\contentsline {subsection}{\numberline {1.5}Results}{8}{subsection.0.1.5}
+\contentsline {subsubsection}{Deleted Users}{8}{section*.2}
+\contentsline {subsubsection}{Sample output1}{8}{section*.3}
+\contentsline {subsubsection}{Sample output2}{9}{section*.4}
+\contentsline {subsubsection}{Sample final json file}{10}{section*.5}
+\contentsline {subsubsection}{D3 Graph}{11}{section*.6}
+\contentsline {section}{\numberline {2}Problem 2}{12}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Solution}{12}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Code Listing}{14}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {2.3}Code Listing}{15}{subsection.0.2.3}
+\contentsline {subsection}{\numberline {2.4}Results}{17}{subsection.0.2.4}
+\contentsline {subsubsection}{Final json}{18}{section*.7}
+\contentsline {subsubsection}{D3 Graph}{19}{section*.8}
+\contentsline {section}{\numberline {3}Problem 3}{20}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Solution}{20}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {3.2}Code Listing}{21}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {3.3}Code Listing}{22}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {3.4}Results}{24}{subsection.0.3.4}
+\contentsline {subsubsection}{Final json}{25}{section*.9}
+\contentsline {subsubsection}{D3 Graph}{26}{section*.10}
+\contentsline {subsubsection}{D3 Graph}{26}{section*.11}

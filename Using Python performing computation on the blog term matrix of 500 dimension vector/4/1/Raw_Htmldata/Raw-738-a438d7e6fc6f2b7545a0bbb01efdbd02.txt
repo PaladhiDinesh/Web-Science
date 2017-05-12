@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<!-- TESLA DESKTOP16 V1 -->
+<!-- RESPONSIVE_SNIPPET -->
+<html
+  itemscope=""
+  itemtype="http://schema.org/WebPage"
+  xmlns="http://www.w3.org/1999/xhtml"
+  lang="en-US"
+  data-env="prod"
+  data-site="wsj"
+  data-region="na,us"
+  data-layouttype="article">
+
+  <head>
+
+    <title>
+      Trump Hotel in Washington, D.C., to Open Ahead of Schedule - WSJ
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="dj.asn" content="i-61e3" />
+<meta name="user.type" content="nonsubscriber" />
+<meta name="user.exp" content="default" />
+<meta name="r12we4" content="true" />
+<meta name="testkeys" content="C" />
+<meta name="page.section" content="Article" />
+<meta name="page.content.type" content="article" />
+<meta name="page.content.format" content="responsive" />
+<meta name="og:type" content="article" />
+<meta name="page.content.source" content="WSJ Online Article" />
+<meta name="article.template" content="snippet" />
+<meta name="page.site" content="wsj" />
+<meta name="page.region" content="na,us" />
+<meta name="article.id" content="SB10346114644772494473104581527003696759810" />
+<meta name="article.type" content="U.S. News" />
+<meta name="article.access" content="paid" />
+<meta name="article.origheadline" content="Trump Hotel in Washington, D.C., to Open Ahead of Schedule" />
+<meta name="article.headline" content="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  " />
+<meta name="article.summary" content="Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer." />
+<meta name="apple-itunes-app" content="app-id=364387007,app-argument=wsj://launch?articleid=SB10346114644772494473104581527003696759810&headline=Trump%20luxury%20hotel%20in%20D.C.%u2019s%20Old%20Post%20Office%20building%20set%20to%20open%20ahead%20of%20schedule&weburl=http://www.wsj.com/articles/SB10346114644772494473104581527003696759810" />
+<meta name="al:ios:url" content="wsj://launch?articleid=SB10346114644772494473104581527003696759810&headline=Trump%20luxury%20hotel%20in%20D.C.%u2019s%20Old%20Post%20Office%20building%20set%20to%20open%20ahead%20of%20schedule&weburl=http://www.wsj.com/articles/SB10346114644772494473104581527003696759810" />
+<meta name="article.page" content="US" />
+<meta name="article.section" content="US" />
+<meta name="article.published" content="2016-02-08T03:10:00.000Z" />
+<meta itemprop="datePublished" content="2016-02-08T03:10:00.000Z" />
+<meta name="article.updated" content="2016-02-08T03:10:00.000Z" />
+<meta itemprop="dateModified" content="2016-02-08T03:10:00.000Z" />
+<meta name="article.created" content="2016-02-08T03:10:00.000Z" />
+<meta itemprop="dateCreated" content="2016-02-08T03:10:00.000Z" />
+<meta name="author" content="Peter Grant" />
+<meta name="keywords" content="Trump Organization,Donald Trump,plans,strategy,capacity,facilities,corporate,industrial news,facility openings,political,general news,politics,international relations,domestic politics,building construction,hotels,restaurants,lodgings,real estate transactions,construction,real estate,hotel construction,leisure,arts,hospitality" />
+<meta name="news_keywords" content="Trump Organization,Donald Trump,plans,strategy,capacity,facilities,corporate,industrial news,facility openings,political" />
+<meta name="description" content="Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer." />
+<meta itemprop="description" content="Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer." />
+<meta property="article:word_count" content="857" />
+<meta property="article:image_count" content="1" />
+<meta property="article:internal_link_count" content="1" />
+<meta name="robots" content="noarchive,noodp" />
+<meta name="language" content="en-US" />
+<meta itemprop="inLanguage" content="en-US" />
+<meta name="twitter:title" content="Trump Hotel in Washington, D.C., to Open Ahead of Schedule" />
+<meta name="twitter:description" content="Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer." />
+<meta name="twitter:image" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_D_20160207124740.jpg" />
+<meta name="twitter:image:src" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_G_20160207124740.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:alt" content="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  " />
+<meta name="twitter:site" content="@WSJ" />
+<meta name="twitter:domain" content="wsj.com" />
+<meta name="fb:app_id" content="368513495882" />
+<meta property="og:title" content="Trump Hotel in Washington, D.C., to Open Ahead of Schedule" />
+<meta property="og:description" content="Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer." />
+<meta property="og:url" content="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" />
+<meta itemprop="image" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_G_20160207124740.jpg" />
+<meta property="og:image" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_G_20160207124740.jpg" />
+<meta property="og:image:width" content="553" />
+<meta property="og:image:height" content="369" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="WSJ" />
+<meta property="article:publisher" content="https://www.facebook.com/wsj" />
+  <meta name="cXenseParse:poptart:image" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_D_20160207124740.jpg">
+  <meta name="cXenseParse:candybar:image" content="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_E_20160207124740.jpg">
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Trump Hotel in Washington, D.C., to Open Ahead of Schedule",
+    "url": "http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018",
+    "thumbnailUrl": "http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_E_20160207124740.jpg",
+    "dateCreated": "2016-02-08T03:10:00.000Z",
+    "articleSection": "US",
+    "creator": ["Peter Grant"],
+    "keywords": ["Trump Organization","Donald Trump"]
+  }
+</script>
+
+    <script type='text/javascript'>window.NREUM||(NREUM={});NREUM.info = {"agent":"","beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a29706356f","applicationID":"6453787","applicationTime":77.152876,"transactionName":"YVAAYxQDVkYCVUddWlgaIUIVFldYTFdBQFxVWQdESUg=","queueTime":0,"ttGuid":"11bd3bf95c8a390","agentToken":null}; (window.NREUM||(NREUM={})).loader_config={xpid:"UAEHUVBWGwUEUVJVDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+
+      <link rel="canonical" href="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" />
+
+    <!--[if lte IE 9]>
+      <script src="http://s.wsj.net/javascript/ie8-vendor-libs.js"></script>
+    <![endif]-->
+
+    <!-- Mobile Icon Assets -->
+    <link rel="apple-touch-icon" href="http://www.wsj.com/apple-touch-icon.png" />
+    <link rel="icon" sizes="192x192" href="http://www.wsj.com/android-chrome-192x192.png" />
+
+    <!-- H&Co Gziped Fonts -->
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/fonts/wsj-fonts.css"/>
+
+    <!-- Styles -->
+
+
+
+
+    <link href='//asset.wsj.net/public/snippet.production-45a9c38f.css' media='all' rel='stylesheet' type='text/css'/>
+
+
+
+
+
+
+  <!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/fonts/wsj-fonts-ie.css" />
+  <![endif]-->
+
+  <!--[if lte IE 8]>
+    <link href='//asset.wsj.net/public/lteIe8.production-7e0956ae.css' media='all' rel='stylesheet' type='text/css'/>
+  <![endif]-->
+
+
+    <!-- Structured markup (movie review, etc.) -->
+  </head>
+
+  <body
+    id="article_body"
+    class="pageFrame subType-unsubscribed logged-out useKeys"
+    intent
+    in-width="*"
+    in-interaction="*"
+    itemscope
+    itemtype="http://schema.org/NewsArticle">
+
+    <meta itemprop="publisher" content="wsj.com">
+
+    <div class="sliderBox">
+      <div class="full_width cookie_policy">
+        <div class="module">
+
+<div data-module-id="11" data-module-name="resp.module.cookie_policy.Module" data-module-zone="cookie_policy" class="zonedModule">
+<!-- empty cookie notice view -->
+
+</div> <!-- data-module-name="resp.module.cookie_policy.Module" -->
+
+        </div>
+      </div>
+
+  <header
+    class="mega-nav  articlePage new-hat"
+    data-agent="desktop"
+    data-env="prod"
+    intent
+    in-at4units-class="mobile"
+    in-at8units-class="mobile"
+    in-at12units-class=""
+    in-at16units-class="">
+    <section class="DJHat hide4 hide8">
+      <div class="sector">
+        <div class="DJHat-wrapper module">
+          <div class="DJHat-btn">
+            <span>DOW JONES, A NEWS CORP COMPANY</span>
+            <span class="DJHat-arrow"></span>
+          </div>
+        </div>
+      </div>
+      <div class="DJHat-inner">
+        <div class="sector">
+          <div class="DJHat-inner-wrapper module">
+            <div class="DJHat-close"></div>
+            <div class="DJHat-bio">News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.</div>
+            <div class="DJHat-products">
+              <div class="DJHat-title">DOW JONES</div>
+              <ul class="DJHat-col">
+                <li><a href="http://online.barrons.com/home-page">Barron's</a></li>
+                <li><a href="http://bigcharts.marketwatch.com">BigCharts</a></li>
+                <li><a href="http://www.wsj.com/public/page/wsj-x-marketing.html">DJX</a></li>
+                <li><a href="http://new.dowjones.com/products/dj-news">Dow Jones Newswires</a></li>
+                <li><a href="https://global.factiva.com/factivalogin/login.asp?productname=global">Factiva</a></li>
+                <li><a href="http://www.efinancialnews.com">Financial News</a></li>
+                <li><a href="http://www.mansionglobal.com/">Mansion Global</a></li>
+                <li><a href="http://www.marketwatch.com">MarketWatch</a></li>
+              </ul>
+              <ul class="DJHat-col">
+                <li><a href="https://www.getnewsmart.com/">Newsmart</a></li>
+                <li><a href="https://newsplus.wsj.com/">Newsplus</a></li>
+                <li><a href="http://pevc.dowjones.com">Private Markets</a></li>
+                <li><a href="https://djlogin.dowjones.com/login.asp?productname=rnc">Risk &amp; Compliance</a></li>
+                <li><a href="http://www.wsj.com">WSJ.com</a></li>
+                <li><a href="http://www.wsj.com/pro/centralbanking">WSJ Pro</a></li>
+                <li><a href="http://www.wsj.com/conferences">WSJ Conference</a></li>
+                <li><a href="http://live.wsj.com">WSJ Video</a></li>
+              </ul>
+            </div>
+            <div class="DJHat-products">
+              <div class="DJHat-title">NEWS CORP</div>
+              <ul class="DJHat-col">
+                <li><a href="http://www.bigdecisions.com/">Big Decisions</a></li>
+                <li><a href="http://www.businessspectator.com.au/">Business Spectator</a></li>
+                <li><a href="https://www.checkout51.com/?utm_source=wsj&utm_medium=digitalhousead&utm_campaign=wsjspotlight">Checkout51</a></li>
+                <li><a href="http://www.harpercollins.com/">Harper Collins</a></li>
+                <li><a href="http://nypost.com/">New York Post</a></li>
+                <li><a href="https://www.proptiger.com">PropTiger</a></li>
+                <li><a href="http://www.rea-group.com/">REA</a></li>
+              </ul>
+              <ul class="DJHat-col">
+                <li><a href="http://www.realtor.com">realtor.com</a></li>
+                <li><a href="http://storyful.com/">Storyful</a></li>
+                <li><a href="http://www.theaustralian.com.au">The Australian</a></li>
+                <li><a href="http://www.thesun.co.uk/sol/homepage/">The Sun</a></li>
+                <li><a href="http://www.thetimes.co.uk">The Times</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="marketDataHeader">
+      <div class="market-wrap sector">
+      <table class="mdStrip module">
+        <tbody>
+          <tr>
+            <td id="NIK" data-channel="/quotes/zigman/5986735/delayed" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="12:07 AM ET 02/16/16"
+            data-localtime="2:07 PM JST 02/16/16"
+            data-timezone="JST"
+            data-etoffsetmins="-300"
+            class="
+    ">
+                <a href="http://quotes.wsj.com/index/JP/NIK" rel="nofollow">
+    
+                <span class="mName">Nikkei</span>
+    
+                    <i class="up ">▲</i>
+    
+    
+                <div class="index">
+                    <span class="mValue hide4">16167.64</span>
+                    <span class="mChange">0.91%</span>
+                </div>
+            </a>
+            </td>
+            <td class="spacer hide4
+    ">&nbsp;</td>
+        <td id="HSI" data-channel="/quotes/zigman/2622475/delayed" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="12:12 AM ET 02/16/16"
+            data-localtime="1:12 PM HKST 02/16/16"
+            data-timezone="HKST"
+            data-etoffsetmins="-300"
+            class="
+            hide4 hide8
+">
+                <a href="http://quotes.wsj.com/index/HK/HSI" rel="nofollow">
+    
+                <span class="mName">Hang Seng</span>
+    
+                    <i class="up ">▲</i>
+    
+    
+                <div class="index">
+                    <span class="mValue hide4">19240.35</span>
+                    <span class="mChange">1.70%</span>
+                </div>
+            </a>
+            </td>
+            <td class="spacer hide4
+                 hide4 hide8
+">&nbsp;</td>
+        <td id="TMUBMUSD10Y" data-channel="/quotes/zigman/15866666/realtime" data-decimalPrecision="3" data-type="Bond" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="12:26 AM ET 02/16/16"
+            data-localtime="12:26 AM EST 02/16/16"
+            data-timezone="EST"
+            data-etoffsetmins="-300"
+            class="
+    ">
+                <a href="http://quotes.wsj.com/bond/BX/TMUBMUSD10Y" rel="nofollow">
+    
+                <span class="mName">U.S. 10 Yr</span>
+    
+                    <i class=" down">▲</i>
+    
+                <div class="index">
+                    <span class="mValue hide4">-12/32 yield</span>
+                    <span class="mChange">1.790%</span>
+                </div>
+
+                </a>
+            </td>
+            <td class="spacer hide4
+    ">&nbsp;</td>
+        <td id="Crude Oil - Electronic" data-channel="/quotes/zigman/2260836/delayed" data-decimalPrecision="2" data-type="Future" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="12:17 AM ET 02/16/16"
+            data-localtime="12:17 AM EST 02/16/16"
+            data-timezone="EST"
+            data-etoffsetmins="-300"
+            class="
+            hide4 hide8
+">
+                <a href="http://quotes.wsj.com/futures/Crude Oil - Electronic" rel="nofollow">
+    
+                <span class="mName">Crude Oil</span>
+    
+                    <i class="up ">▲</i>
+    
+    
+                <div class="index">
+                    <span class="mValue hide4">30.79</span>
+                    <span class="mChange">4.59%</span>
+                </div>
+            </a>
+            </td>
+            <td class="spacer hide4
+                 hide4 hide8
+">&nbsp;</td>
+        <td id="USDJPY" data-channel="/quotes/zigman/16008150/realtime/sampled" data-decimalPrecision="2" data-type="Currency" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="12:27 AM ET 02/16/16"
+            data-localtime="12:27 AM EST 02/16/16"
+            data-timezone="EST"
+            data-etoffsetmins="-300"
+            class="
+    ">
+                <a href="http://quotes.wsj.com/fx/USDJPY" rel="nofollow">
+    
+                <span class="mName">Yen</span>
+    
+                    <i class="up ">▲</i>
+    
+    
+                <div class="index">
+                    <span class="mValue hide4">114.79</span>
+                    <span class="mChange">0.17%</span>
+                </div>
+            </a>
+            </td>
+            <td class="spacer hide4
+    ">&nbsp;</td>
+        <td id="DJIA" data-channel="/quotes/zigman/627449/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-02-16T00:27:27-05:00"
+            data-time="4:40 PM ET 02/12/16"
+            data-localtime="4:40 PM EST 02/12/16"
+            data-timezone="EST"
+            data-etoffsetmins="-300"
+            class="
+            hide4 hide8
+        hide12
+            ">
+                <a href="http://quotes.wsj.com/index/DJIA" rel="nofollow">
+    
+                <span class="mName">DJIA</span>
+    
+                    <i class="up ">▲</i>
+    
+    
+                <div class="index">
+                    <span class="mValue hide4">15973.84</span>
+                    <span class="mChange">2.00%</span>
+                </div>
+            </a>
+            </td>
+            <td class="spacer hide4
+                 hide4 hide8
+             hide12
+                 ">&nbsp;</td>
+
+          </tr>
+        </tbody>
+      </table>
+    
+    </div>
+    </section>
+    <div class="header-wrap sector">
+      <div class="masthead module">
+        <div class="customerNav hide4 hide8">
+          <div class="module-navigation signin-container unsubNav">
+      
+      
+          <!-- DART removed here -->
+      
+      
+          <!-- end removed DART -->
+          <a class="temp-subscribe" ref="nofollow" href="https://subscribe.wsj.com/hpheaderlink">Subscribe Now</a>
+          <a class="login" href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" ref="nofollow" data-widget="LIFP.login">Sign In</a>
+      
+      
+          <div class="wsj-responsive-nav-circ-wrap">
+             <a href="https://store.wsj.com/US/5698074070?inttrackingCode=aaqmkpkb&amp;icid=WSJ_ON_SPG_ACQ_NA&amp;pageType=snippet"><img src="http://s.wsj.net/mktg/joinnow.png"></a>
+           </div>
+
+      
+      
+      </div>
+
+          </div>
+        <a class="main-logo" href="http://www.wsj.com/" title="The Wall Street Journal">The Wall Street Journal</a>
+        <a href="http://www.wsj.com/" class="main-logo slim"></a>
+  </div>
+    
+    <div class="hide12 hide16 drawer-nav-mobile">
+      <div class="mobileSwitchWrapper sectionsActive">
+        <h5 class="sectionSwitch">Sections</h5>
+        <div class="module-username">
+          <a>
+             <h5 class="account-name profileSwitch">
+              
+              My Journal
+            </h5>
+          </a>
+        </div>
+      </div>
+      <ul class="section-list-mobile">
+        <li class="home noHover "><a href="http://www.wsj.com/">
+        <span class="title">Home</span></a>
+        </li>
+    <li class="world  "><a href="http://www.wsj.com/news/world">
+        <span class="title">World</span></a>
+        </li>
+    <li class="us  active"><a href="http://www.wsj.com/news/us">
+        <span class="title">U.S.</span></a>
+        </li>
+    <li class="politics  "><a href="http://www.wsj.com/news/politics">
+        <span class="title">Politics</span></a>
+        </li>
+    <li class="economy  "><a href="http://www.wsj.com/news/economy">
+        <span class="title">Economy</span></a>
+        </li>
+    <li class="business  "><a href="http://www.wsj.com/news/business">
+        <span class="title">Business</span></a>
+        </li>
+    <li class="tech  "><a href="http://www.wsj.com/news/technology">
+        <span class="title">Tech</span></a>
+        </li>
+    <li class="markets  "><a href="http://www.wsj.com/news/markets">
+        <span class="title">Markets</span></a>
+        </li>
+    <li class="opinion  "><a href="http://www.wsj.com/news/opinion">
+        <span class="title">Opinion</span></a>
+        </li>
+    <li class="arts  "><a href="http://www.wsj.com/news/arts">
+        <span class="title">Arts</span></a>
+        </li>
+    <li class="life  "><a href="http://www.wsj.com/news/life">
+        <span class="title">Life</span></a>
+        </li>
+    <li class="realestate  "><a href="http://www.wsj.com/news/realestate">
+        <span class="title">Real Estate</span></a>
+        </li>
+    <li>
+          <a href="http://www.wsj.com/itp">Today's Paper</a>
+        </li>
+  <div class="showAllSections">
+        <span class="showAll">SHOW ALL SECTIONS</span>
+        <span class="hideAll">HIDE ALL SECTIONS</span>
+      </div>
+      <div class="allSections">
+        <ul>
+          <li class="world">
+            <a href="http://www.wsj.com/news/world">World Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/news/world/africa">Africa</a></li>
+            <li><a href="http://www.wsj.com/news/world/asia">Asia</a></li>
+            <li><a href="http://www.wsj.com/news/world/canada">Canada</a></li>
+            <li><a href="http://www.wsj.com/news/world/china">China</a></li>
+            <li><a href="http://www.wsj.com/news/world/europe">Europe</a></li>
+            <li><a href="http://www.wsj.com/news/world/latin-america">Latin America</a></li>
+            <li><a href="http://www.wsj.com/news/world/middle-east">Middle East</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://blogs.wsj.com/brussels/">Brussels Real Time</a></li>
+            <li><a href="http://blogs.wsj.com/chinarealtime/">China Real Time</a></li>
+            <li><a href="http://blogs.wsj.com/indiarealtime/">India Real Time</a></li>
+            <li><a href="http://blogs.wsj.com/japanrealtime/">Japan Real Time</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/news/economy">Economy</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/news/world-news">World Video</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="us">
+            <a href="http://www.wsj.com/news/us">U.S. Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/news/economy">Economy</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-law-legal.html">Law</a></li>
+            <li><a href="http://www.wsj.com/public/page/new-york-main.html">New York</a></li>
+            <li><a href="http://www.wsj.com/news/politics">Politics</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://blogs.wsj.com/economics/">Real Time Economics</a></li>
+            <li><a href="http://blogs.wsj.com/numbers/">The Numbers</a></li>
+            <li><a href="http://blogs.wsj.com/washwire/">Washington Wire</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+            <li><a href="http://www.wsj.com/video/browse/news/us-news">U.S. Video</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-whats-news">What&#39;s News Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="politics">
+            <a href="http://www.wsj.com/news/politics">Politics Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://blogs.wsj.com/washwire/category/think-tank/">Think Tank</a></li>
+            <li><a href="http://blogs.wsj.com/washwire/">Washington Wire</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/news/politics-and-campaign">Politics Video</a></li>
+            <li><a href="http://graphics.wsj.com/wsjnbcpoll/">WSJ/NBC News Poll</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="economy">
+            <a href="http://www.wsj.com/news/economy">Economy Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://blogs.wsj.com/economics/">Real Time Economics</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://projects.wsj.com/econforecast/">Economic Forecasting Survey</a></li>
+            <li><a href="http://www.wsj.com/video/browse/business/economy">Economy Video</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="business">
+            <a href="http://www.wsj.com/news/business">Business Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/news/business/defense-aerospace">Aerospace &amp; Defense</a></li>
+            <li><a href="http://www.wsj.com/news/business/transportation">Autos &amp; Transportation</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+            <li><a href="http://www.wsj.com/news/business/consumer-products">Consumer Products</a></li>
+            <li><a href="http://www.wsj.com/news/business/energy-oil-gas">Energy</a></li>
+            <li><a href="http://www.wsj.com/news/business/small-business-marketing">Entrepreneurship</a></li>
+            <li><a href="http://www.wsj.com/news/business/financial-services">Financial Services</a></li>
+            <li><a href="http://www.wsj.com/news/business/food-tobacco">Food &amp; Services</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-health-industry.html">Health Care</a></li>
+            <li><a href="http://www.wsj.com/news/business/hotels-casinos">Hospitality</a></li>
+            <li><a href="http://www.wsj.com/news/business/law-legal">Law</a></li>
+            <li><a href="http://www.wsj.com/news/business/management">Management</a></li>
+            <li><a href="http://www.wsj.com/news/business/industrial-services">Manufacturing</a></li>
+            <li><a href="http://www.wsj.com/news/business/media-marketing">Media &amp; Marketing</a></li>
+            <li><a href="http://www.wsj.com/news/business/natural-resources">Natural Resources</a></li>
+            <li><a href="http://www.wsj.com/news/business/retail-industry">Retail</a></li>
+            <li><a href="http://www.wsj.com/news/technology">Tech/WSJ.D</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/news/cfo-journal">CFO Journal</a></li>
+            <li><a href="http://www.wsj.com/news/cio-journal">CIO Journal</a></li>
+            <li><a href="http://www.wsj.com/news/cmo-today">CMO Today</a></li>
+            <li><a href="http://www.wsj.com/news/logistics-report">Logistics Report</a></li>
+            <li><a href="http://www.wsj.com/news/risk-compliance-journal">Risk &amp; Compliance</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://blogs.wsj.com/bankruptcy/">Bankruptcy Beat</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-wall-street-heard.html">Heard on the Street</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/business">Business Video</a></li>
+            <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-whats-news">Business Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="tech">
+            <a href="http://www.wsj.com/news/technology">Tech Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/cio-journal.html">CIO Journal</a></li>
+            <li><a href="http://www.wsj.com/news/topic/2514">E-Commerce</a></li>
+            <li><a href="http://www.wsj.com/news/topic/3307">Mobile</a></li>
+            <li><a href="http://www.wsj.com/news/personal-technology">Personal Tech</a></li>
+            <li><a href="http://www.wsj.com/news/topic/2449">Privacy &amp; Security</a></li>
+            <li><a href="http://www.wsj.com/news/topic/3961">Startups</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/news/author/8003">Christopher Mims</a></li>
+            <li><a href="http://blogs.wsj.com/digits/">Digits</a></li>
+            <li><a href="http://www.wsj.com/news/author/1345">Geoffrey Fowler</a></li>
+            <li><a href="http://www.wsj.com/news/author/7872">Joanna Stern</a></li>
+            <li><a href="http://blogs.wsj.com/personal-technology/">Personal Tech News</a></li>
+            <li><a href="http://blogs.wsj.com/venturecapital/">Venture Capital Dispatch</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://graphics.wsj.com/billion-dollar-club/">Billion Dollar Startup Club</a></li>
+            <li><a href="http://blogs.barrons.com/techtraderdaily/">Tech Trader Daily</a></li>
+            <li><a href="http://www.wsj.com/video/browse/tech">Tech Video</a></li>
+            <li><a href="http://blogs.wsj.com/accelerators/">The Accelerators</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-tech-news-briefing">Tech Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="markets">
+            <a href="http://www.wsj.com/news/markets">Markets Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/news-fixed-income-bonds.html">Bonds</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-oil-gold-commodities.html">Commodities</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-currency-currencies-trading.html">Currencies</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-financial-markets-deals.html">Deals</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-wall-street.html">Financial Services</a></li>
+            <li><a href="http://www.wsj.com/public/page/etf-mutual-funds.html">Funds</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-stock-market-movers.html">Stocks</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-personal-finance.html">Your Money</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/news/heard-on-the-street">Heard on the Street</a></li>
+            <li><a href="http://blogs.wsj.com/moneybeat/">MoneyBeat</a></li>
+            <li><a href="http://blogs.wsj.com/privateequity/">Private Equity Beat</a></li>
+            <li><a href="http://www.wsj.com/public/page/wealth-management-journal.html">Wealth Adviser</a></li>
+            <li><a href="http://www.wsj.com/news/types/ahead-of-the-tape">Ahead of the Tape</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/public/page/cfo-journal.html">CFO Journal</a></li>
+            <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+            <li><a href="http://markets.wsj.com/us">Market Data</a></li>
+            <li><a href="http://www.wsj.com/video/browse/business/markets">Markets Video</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-your-money-matters">Markets Podcast</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-moneybeat">MoneyBeat Podcast</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-heard-on-the-street">Heard on the Street Podcast</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-watching-your-wealth">Watching Your Wealth Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="opinion">
+            <a href="http://www.wsj.com/news/opinion">Opinion Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/leisure-arts.html">Arts in Review</a></li>
+            <li><a href="http://www.wsj.com/public/page/book-reviews.html">Book Reviews</a></li>
+            <li><a href="http://www.wsj.com/news/types/commentary-u-s">Commentary</a></li>
+            <li><a href="http://www.wsj.com/public/page/editorials.html">Editorials</a></li>
+            <li><a href="http://www.wsj.com/public/page/letters.html">Letters to the Editor</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/article/best_of_the_web_today.html">Best of the Web</a></li>
+            <li><a href="http://www.wsj.com/public/page/latest-opinion-analysis-columns.html">Columnists</a></li>
+            <li><a href="http://wsj.com/morning">Morning Editorial Report</a></li>
+            <li><a href="http://blogs.wsj.com/peggynoonan/">Peggy Noonan</a></li>
+            <li><a href="http://www.wsj.com/public/page/political-diary.html">Political Diary</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/opinion">Opinion Video</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-opinion-potomac-watch">Potomac Watch Podcast</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-opinion-foreign-edition">Foreign Edition Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="arts">
+            <a href="http://www.wsj.com/news/arts">Arts Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/leisure-arts.html">Arts in Review</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-books-best-sellers.html">Books</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://blogs.wsj.com/speakeasy/">Speakeasy</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/life-culture/arts-and-entertainment">Arts Video</a></li>
+            <li><a href="http://www.wsj.com/public/page/magazine-index.html">WSJ. Magazine</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-speakeasy">Speakeasy Podcast</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="life">
+            <a href="http://www.wsj.com/news/life">Life Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/news-career-jobs.html">Careers</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-autos-automotive.html">Cars</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-food-cooking-drink.html">Food &amp; Drink</a></li>
+            <li><a href="http://www.wsj.com/public/page/consumer-health-wellness.html">Health</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-books-best-sellers.html">Ideas</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-real-estate-homes.html">Real Estate</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-sports-scores.html">Sports</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-fashion-style-industry.html">Style &amp; Fashion</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-travel-vacation.html">Travel</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://blogs.wsj.com/expat/">Expat</a></li>
+            <li><a href="http://blogs.wsj.com/offduty/">Off Duty Daily</a></li>
+            <li><a href="http://blogs.wsj.com/dailyfix/">The Daily Fix</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/browse/life-culture">Life Video</a></li>
+            <li><a href="http://www.wsj.com/public/page/magazine-index.html">WSJ. Magazine</a></li>
+            <li><a href="http://blogs.wsj.com/puzzle/">WSJ Puzzles</a></li>
+            <li><a href="http://www.wsj.com/podcasts/latest/wsj-off-duty">Off Duty Podcast</a></li>
+            <li><a href="http://www.wsj.com/specialcoverage/the-future-of-everything">The Future of Everything</a></li>
+          </ul>
+        </div>
+          </li>
+      <li class="realestate">
+            <a href="http://www.wsj.com/news/realestate">Real Estate Home</a>
+            <div class="subSections mobile">
+              <ul>
+                <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+            <li><a href="http://www.wsj.com/houseoftheday">House of the Day</a></li>
+            <li><a href="http://www.wsj.com/public/page/real-estate-luxury.html">Mansion</a></li>
+          </ul>
+          <ul>
+                <li><a href="http://www.wsj.com/video/subject/mansion">Real Estate Video</a></li>
+          </ul>
+        </div>
+          </li>
+    </ul>
+        <div class="hideAllSectionsBottom">
+          <span>HIDE ALL SECTIONS</span>
+        </div>
+      </div>
+    </ul>
+    <div class="customernav-container unSub">
+  <div class="upper">
+    <span>Aim higher, reach further.</span>
+    <div class="subpromo">
+      Get the Wall Street Journal $12 for 12 weeks.
+      <a href="https://subscribe.wsj.com/hpheaderlink" rel="nofollow">Subscribe Now</a>
+    </div>
+  </div>
+    <div class="signin"><a href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" rel="nofollow">Sign In</a></div>
+</div>
+</div>
+    <button class="navBtn hide16 hide12">Reveal Navigation Options</button>
+    </div>
+    <nav class="sectionFronts us hide4 hide8">
+    <ul class="section-list">
+    <li class="home noHover "><a href="http://www.wsj.com/">
+      <span class="title">Home</span>
+    </a>
+    <div class="subSections">
+      <div class="inner">
+      </div>
+    </div>
+    </li>
+<li class="world  "><a href="http://www.wsj.com/news/world">
+      <span class="title">World</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Regions</li>
+          <li><a href="http://www.wsj.com/news/world/africa">Africa</a></li>
+      <li><a href="http://www.wsj.com/news/world/asia">Asia</a></li>
+      <li><a href="http://www.wsj.com/news/world/canada">Canada</a></li>
+      <li><a href="http://www.wsj.com/news/world/china">China</a></li>
+      <li><a href="http://www.wsj.com/news/world/europe">Europe</a></li>
+      <li><a href="http://www.wsj.com/news/world/latin-america">Latin America</a></li>
+      <li><a href="http://www.wsj.com/news/world/middle-east">Middle East</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Blogs</li>
+          <li><a href="http://blogs.wsj.com/brussels/">Brussels Real Time</a></li>
+      <li><a href="http://blogs.wsj.com/chinarealtime/">China Real Time</a></li>
+      <li><a href="http://blogs.wsj.com/indiarealtime/">India Real Time</a></li>
+      <li><a href="http://blogs.wsj.com/japanrealtime/">Japan Real Time</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/news/economy">Economy</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/news/world-news">World Video</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="us  active"><a href="http://www.wsj.com/news/us">
+      <span class="title">U.S.</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/news/economy">Economy</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-law-legal.html">Law</a></li>
+      <li><a href="http://www.wsj.com/public/page/new-york-main.html">New York</a></li>
+      <li><a href="http://www.wsj.com/news/politics">Politics</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Columns &amp; Blogs</li>
+          <li><a href="http://blogs.wsj.com/economics/">Real Time Economics</a></li>
+      <li><a href="http://blogs.wsj.com/numbers/">The Numbers</a></li>
+      <li><a href="http://blogs.wsj.com/washwire/">Washington Wire</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+      <li><a href="http://www.wsj.com/video/browse/news/us-news">U.S. Video</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-whats-news">What&#39;s News Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="politics  "><a href="http://www.wsj.com/news/politics">
+      <span class="title">Politics</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Blogs</li>
+          <li><a href="http://blogs.wsj.com/washwire/category/think-tank/">Think Tank</a></li>
+      <li><a href="http://blogs.wsj.com/washwire/">Washington Wire</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/news/politics-and-campaign">Politics Video</a></li>
+      <li><a href="http://graphics.wsj.com/wsjnbcpoll/">WSJ/NBC News Poll</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="economy  "><a href="http://www.wsj.com/news/economy">
+      <span class="title">Economy</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Blogs</li>
+          <li><a href="http://blogs.wsj.com/economics/">Real Time Economics</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://projects.wsj.com/econforecast/">Economic Forecasting Survey</a></li>
+      <li><a href="http://www.wsj.com/video/browse/business/economy">Economy Video</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="business  "><a href="http://www.wsj.com/news/business">
+      <span class="title">Business</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Industries</li>
+          <li><a href="http://www.wsj.com/news/business/defense-aerospace">Aerospace &amp; Defense</a></li>
+      <li><a href="http://www.wsj.com/news/business/transportation">Autos &amp; Transportation</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+      <li><a href="http://www.wsj.com/news/business/consumer-products">Consumer Products</a></li>
+      <li><a href="http://www.wsj.com/news/business/energy-oil-gas">Energy</a></li>
+      <li><a href="http://www.wsj.com/news/business/small-business-marketing">Entrepreneurship</a></li>
+      <li><a href="http://www.wsj.com/news/business/financial-services">Financial Services</a></li>
+      <li><a href="http://www.wsj.com/news/business/food-tobacco">Food &amp; Services</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-health-industry.html">Health Care</a></li>
+      <li><a href="http://www.wsj.com/news/business/hotels-casinos">Hospitality</a></li>
+      <li><a href="http://www.wsj.com/news/business/law-legal">Law</a></li>
+      <li><a href="http://www.wsj.com/news/business/management">Management</a></li>
+      <li><a href="http://www.wsj.com/news/business/industrial-services">Manufacturing</a></li>
+      <li><a href="http://www.wsj.com/news/business/media-marketing">Media &amp; Marketing</a></li>
+      <li><a href="http://www.wsj.com/news/business/natural-resources">Natural Resources</a></li>
+      <li><a href="http://www.wsj.com/news/business/retail-industry">Retail</a></li>
+      <li><a href="http://www.wsj.com/news/technology">Tech/WSJ.D</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">C-Suite</li>
+          <li><a href="http://www.wsj.com/news/cfo-journal">CFO Journal</a></li>
+      <li><a href="http://www.wsj.com/news/cio-journal">CIO Journal</a></li>
+      <li><a href="http://www.wsj.com/news/cmo-today">CMO Today</a></li>
+      <li><a href="http://www.wsj.com/news/logistics-report">Logistics Report</a></li>
+      <li><a href="http://www.wsj.com/news/risk-compliance-journal">Risk &amp; Compliance</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Columns &amp; Blogs</li>
+          <li><a href="http://blogs.wsj.com/bankruptcy/">Bankruptcy Beat</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-wall-street-heard.html">Heard on the Street</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/business">Business Video</a></li>
+      <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-whats-news">Business Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="tech  "><a href="http://www.wsj.com/news/technology">
+      <span class="title">Tech</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/cio-journal.html">CIO Journal</a></li>
+      <li><a href="http://www.wsj.com/news/topic/2514">E-Commerce</a></li>
+      <li><a href="http://www.wsj.com/news/topic/3307">Mobile</a></li>
+      <li><a href="http://www.wsj.com/news/personal-technology">Personal Tech</a></li>
+      <li><a href="http://www.wsj.com/news/topic/2449">Privacy &amp; Security</a></li>
+      <li><a href="http://www.wsj.com/news/topic/3961">Startups</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Columns &amp; Blogs</li>
+          <li><a href="http://www.wsj.com/news/author/8003">Christopher Mims</a></li>
+      <li><a href="http://blogs.wsj.com/digits/">Digits</a></li>
+      <li><a href="http://www.wsj.com/news/author/1345">Geoffrey Fowler</a></li>
+      <li><a href="http://www.wsj.com/news/author/7872">Joanna Stern</a></li>
+      <li><a href="http://blogs.wsj.com/personal-technology/">Personal Tech News</a></li>
+      <li><a href="http://blogs.wsj.com/venturecapital/">Venture Capital Dispatch</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://graphics.wsj.com/billion-dollar-club/">Billion Dollar Startup Club</a></li>
+      <li><a href="http://blogs.barrons.com/techtraderdaily/">Tech Trader Daily</a></li>
+      <li><a href="http://www.wsj.com/video/browse/tech">Tech Video</a></li>
+      <li><a href="http://blogs.wsj.com/accelerators/">The Accelerators</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-tech-news-briefing">Tech Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="markets  "><a href="http://www.wsj.com/news/markets">
+      <span class="title">Markets</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/news-fixed-income-bonds.html">Bonds</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-oil-gold-commodities.html">Commodities</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-currency-currencies-trading.html">Currencies</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-financial-markets-deals.html">Deals</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-wall-street.html">Financial Services</a></li>
+      <li><a href="http://www.wsj.com/public/page/etf-mutual-funds.html">Funds</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-stock-market-movers.html">Stocks</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-personal-finance.html">Your Money</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Columns &amp; Blogs</li>
+          <li><a href="http://www.wsj.com/news/heard-on-the-street">Heard on the Street</a></li>
+      <li><a href="http://blogs.wsj.com/moneybeat/">MoneyBeat</a></li>
+      <li><a href="http://blogs.wsj.com/privateequity/">Private Equity Beat</a></li>
+      <li><a href="http://www.wsj.com/public/page/wealth-management-journal.html">Wealth Adviser</a></li>
+      <li><a href="http://www.wsj.com/news/types/ahead-of-the-tape">Ahead of the Tape</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/public/page/cfo-journal.html">CFO Journal</a></li>
+      <li><a href="http://www.wsj.com/public/page/journal-report.html">Journal Report</a></li>
+      <li><a href="http://markets.wsj.com/us">Market Data</a></li>
+      <li><a href="http://www.wsj.com/video/browse/business/markets">Markets Video</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-your-money-matters">Markets Podcast</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-moneybeat">MoneyBeat Podcast</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-heard-on-the-street">Heard on the Street Podcast</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-watching-your-wealth">Watching Your Wealth Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="opinion  "><a href="http://www.wsj.com/news/opinion">
+      <span class="title">Opinion</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/leisure-arts.html">Arts in Review</a></li>
+      <li><a href="http://www.wsj.com/public/page/book-reviews.html">Book Reviews</a></li>
+      <li><a href="http://www.wsj.com/news/types/commentary-u-s">Commentary</a></li>
+      <li><a href="http://www.wsj.com/public/page/editorials.html">Editorials</a></li>
+      <li><a href="http://www.wsj.com/public/page/letters.html">Letters to the Editor</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Columns &amp; Blogs</li>
+          <li><a href="http://www.wsj.com/article/best_of_the_web_today.html">Best of the Web</a></li>
+      <li><a href="http://www.wsj.com/public/page/latest-opinion-analysis-columns.html">Columnists</a></li>
+      <li><a href="http://wsj.com/morning">Morning Editorial Report</a></li>
+      <li><a href="http://blogs.wsj.com/peggynoonan/">Peggy Noonan</a></li>
+      <li><a href="http://www.wsj.com/public/page/political-diary.html">Political Diary</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/opinion">Opinion Video</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-opinion-potomac-watch">Potomac Watch Podcast</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-opinion-foreign-edition">Foreign Edition Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="arts  "><a href="http://www.wsj.com/news/arts">
+      <span class="title">Arts</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/leisure-arts.html">Arts in Review</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-books-best-sellers.html">Books</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Blogs</li>
+          <li><a href="http://blogs.wsj.com/speakeasy/">Speakeasy</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/life-culture/arts-and-entertainment">Arts Video</a></li>
+      <li><a href="http://www.wsj.com/public/page/magazine-index.html">WSJ. Magazine</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-speakeasy">Speakeasy Podcast</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="life  "><a href="http://www.wsj.com/news/life">
+      <span class="title">Life</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/news-career-jobs.html">Careers</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-autos-automotive.html">Cars</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-food-cooking-drink.html">Food &amp; Drink</a></li>
+      <li><a href="http://www.wsj.com/public/page/consumer-health-wellness.html">Health</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-books-best-sellers.html">Ideas</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-real-estate-homes.html">Real Estate</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-sports-scores.html">Sports</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-fashion-style-industry.html">Style &amp; Fashion</a></li>
+      <li><a href="http://www.wsj.com/public/page/news-travel-vacation.html">Travel</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">Blogs</li>
+          <li><a href="http://blogs.wsj.com/expat/">Expat</a></li>
+      <li><a href="http://blogs.wsj.com/offduty/">Off Duty Daily</a></li>
+      <li><a href="http://blogs.wsj.com/dailyfix/">The Daily Fix</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/browse/life-culture">Life Video</a></li>
+      <li><a href="http://www.wsj.com/public/page/magazine-index.html">WSJ. Magazine</a></li>
+      <li><a href="http://blogs.wsj.com/puzzle/">WSJ Puzzles</a></li>
+      <li><a href="http://www.wsj.com/podcasts/latest/wsj-off-duty">Off Duty Podcast</a></li>
+      <li><a href="http://www.wsj.com/specialcoverage/the-future-of-everything">The Future of Everything</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+<li class="realestate  "><a href="http://www.wsj.com/news/realestate">
+      <span class="title">Real Estate</span>
+      <span class="triangle"></span>
+</a>
+    <div class="subSections">
+      <div class="inner">
+        <ul>
+          <li class="sectionLabel">Sections</li>
+          <li><a href="http://www.wsj.com/public/page/news-real-estate-commercial.html">Commercial Real Estate</a></li>
+      <li><a href="http://www.wsj.com/houseoftheday">House of the Day</a></li>
+      <li><a href="http://www.wsj.com/public/page/real-estate-luxury.html">Mansion</a></li>
+    </ul>
+    <ul>
+          <li class="sectionLabel">More</li>
+          <li><a href="http://www.wsj.com/video/subject/mansion">Real Estate Video</a></li>
+    </ul>
+  </div>
+    </div>
+    </li>
+</ul>
+    <div class="sector search-sector">
+    <div class="wsjSearchWrapper" intent in-at4units-append=".header-wrap" in-at8units-append=".header-wrap" in-at12units-append=".search-sector" in-at16units-append=".search-sector">
+    <div class="searchButtonSwitcher">
+      <span class="hide4 hide8 hide12">Search</span>
+    </div>
+    <div class="wsjSearch">
+      <div class="wsjSearchInput">
+        <form action="#" class="navSearch">
+          <input type="search" class="hdrSearchInput unUsed globalHatSearchInput" size="28" style="color: rgb(0, 0, 0);" placeholder="Enter News, Quotes, Companies or Videos" autocomplete="off">
+          <button type="button" class="searchButton"><span>SEARCH <i>&rarr;</i></span></button>
+        </form>
+      </div>
+      <div class="search-list epGlobalHeaderAutoComplete" data-symbol="Companies &amp; Quotes" data-private="Private Companies" data-recent="Recent Searches" data-all="Load More">
+      </div>
+    </div>
+    </div>
+    </div>
+    </nav>
+    <div class="unsubNav-mobile hide12 hide16">
+         <a href="https://subscribe.wsj.com/hpheaderlink" rel="nofollow">Subscribe</a>
+         <a href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" rel="nofollow">Sign In</a>
+</div>
+
+    <div class="article-tools-mobile">
+      <div class="mobile-article-tools-fixed"></div>
+    </div>
+  </header>
+
+      <!--[if gt IE 8]><!-->
+
+<div data-module-id="5" data-module-name="article.app/lib/module/articleTypeLogo" data-module-zone="articleTypeLogo" class="zonedModule">
+
+</div> <!-- data-module-name="article.app/lib/module/articleTypeLogo" -->
+
+        <div class="carousel-container hide4">
+
+<div data-module-id="9" data-module-name="article.app/lib/module/articleCarousel" data-module-zone="carousel" class="zonedModule">
+<div class="carousel-wrap carousel-init-loading full-width">
+  <div class="carousel-inner-wrap sector">
+
+    <div class="module">
+      <div class="carousel-prev"></div>
+      <div class="trans-gradient prev"></div>
+      <div class="trans-gradient next"></div>
+      <div class="carousel-next"></div>
+
+      <div class="carousel-list">
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581543200629372260">
+            <a class="carousel-link" href="http://www.wsj.com/articles/scalias-death-sets-up-collision-between-white-house-congress-1455586573">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Scalia’s Death Sets Up Collision" data-lazy=http://si.wsj.net/public/resources/images/BN-MP591_0215PO_Z120_20160215182345.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Scalia’s Death Sets Up Collision
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10235271132427374681004581534652237795850">
+            <a class="carousel-link" href="http://www.wsj.com/articles/terror-convicts-pose-dilemma-after-release-from-prison-1455560250">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Terror Convicts Pose Dilemma After Release From Prison" data-lazy=http://si.wsj.net/public/resources/images/BN-MO722_ISISRE_Z120_20160211202020.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Terror Convicts Pose Dilemma After Release From Prison
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10534371514278233437404581543063941251934">
+            <a class="carousel-link" href="http://www.wsj.com/articles/mount-st-marys-president-declines-to-resign-1455579954">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Embattled University President Declines to Resign" data-lazy=http://si.wsj.net/public/resources/images/BN-MP479_STMARY_Z120_20160215120244.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Embattled University President Declines to Resign
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB11423989102385004351304581492523962798228">
+            <a class="carousel-link" href="http://www.wsj.com/articles/millennial-wave-unsettles-presidential-race-1455577532">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Millennial Wave Unsettles Presidential Race" data-lazy=http://si.wsj.net/public/resources/images/BN-LX394_MILLEN_Z120_20151230165155.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Millennial Wave Unsettles Presidential Race
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581543040729391026">
+            <a class="carousel-link" href="http://www.wsj.com/articles/donald-trump-ramps-up-voter-turnout-effort-in-south-carolina-1455573325">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Trump Ramps Up Voter-Turnout Effort in South Carolina" data-lazy=http://si.wsj.net/public/resources/images/BN-MP543_TRUMPT_Z120_20160215162711.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Trump Ramps Up Voter-Turnout Effort in South Carolina
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581542691511298416">
+            <a class="carousel-link" href="http://www.wsj.com/articles/2016-campaign-rhetoric-shakes-markets-1455559708">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="2016 Campaign Rhetoric Shakes Markets" data-lazy=http://si.wsj.net/public/resources/images/BN-MP487_CAPJOU_Z120_20160215130243.jpg>
+                <div class="carousel-text">
+                    <div class="carousel-flash">
+                      Capital Journal
+                    </div>
+                  <div class="carousel-headline">
+                    2016 Campaign Rhetoric Shakes Markets
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581543270949646358">
+            <a class="carousel-link" href="http://www.wsj.com/articles/john-kasich-aims-to-keep-momentum-in-michigan-1455582411">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Kasich Aims to Keep Momentum in Michigan" data-lazy=http://si.wsj.net/public/resources/images/BN-MP578_KASICH_Z120_20160215175131.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Kasich Aims to Keep Momentum in Michigan
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581543190062595726">
+            <a class="carousel-link" href="http://www.wsj.com/articles/former-president-bush-hits-campaign-trail-to-support-brother-1455578324">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Former President Bush Hits Campaign Trail to Support Brother" data-lazy=http://si.wsj.net/public/resources/images/BN-MP602_BUSH2j_Z120_20160215184129.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Former President Bush Hits Campaign Trail to Support Brother
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10341819875828423297204581543410002987194">
+            <a class="carousel-link" href="http://www.wsj.com/articles/obama-opens-two-day-summit-with-southeast-asian-leaders-1455584314">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Obama Opens Two-Day Summit with Southeast Asian Leaders" data-lazy=http://si.wsj.net/public/resources/images/BN-MP615_ASEAN__Z120_20160215201350.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Obama Opens Two-Day Summit with Southeast Asian Leaders
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10235271132427374681004581537173372152958">
+            <a class="carousel-link" href="http://www.wsj.com/articles/remittances-to-latin-america-caribbean-hit-68-3-billion-in-2015-1455598863">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Remittances to Latin America, Caribbean Hit $68.3 billion in 2015" data-lazy=http://si.wsj.net/public/resources/images/BN-MP509_REMIT0_Z120_20160215140002.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Remittances to Latin America, Caribbean Hit $68.3 billion in 2015
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB12630390755209223968704581537131364767262">
+            <a class="carousel-link" href="http://www.wsj.com/articles/business-of-albany-stirs-in-capitol-coffee-shop-1455588933">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Business of Albany Stirs in Capitol Coffee Shop" data-lazy=http://si.wsj.net/public/resources/images/BN-MP569_NYDUNK_Z120_20160215174051.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    Business of Albany Stirs in Capitol Coffee Shop
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+</div> <!-- data-module-name="article.app/lib/module/articleCarousel" -->
+
+        </div>
+        <div class="sector breakingnews">
+          <div id="BNcontainer" class="hide">
+
+<div data-module-id="12" data-module-name="resp.module.breakingnews.Module" data-module-zone="breakingnews" class="zonedModule">
+
+</div> <!-- data-module-name="resp.module.breakingnews.Module" -->
+
+          </div>
+        </div>
+      <!--<![endif]-->
+
+      <div class="middleBlock">
+        <!--[if lte IE 8]>
+
+<div data-module-id="10" data-module-name="article.app/lib/module/ieWarning" data-module-zone="ie_warning" class="zonedModule">
+<div class="ie-flag">
+  <button class="ie-button"></button>
+
+  <div class="ie-warning-wrapper">
+    <p><span id="warning-label">BROWSER UPDATE</span> To gain access to the full experience, please upgrade your browser: </p>
+    <ul>
+      <li><a href="https://www.google.com/intl/en_us/chrome/browser/">Chrome</a> | </li>
+      <li><a href="http://support.apple.com/downloads/#safari">Safari</a> | </li>
+      <li><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> | </li>
+      <li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+    </ul><br>
+    <p><span id="warning-note">Note: If you are running Internet Explorer 9 and above, make sure it is not in compatibility mode</span></p>
+  </div>
+</div>
+
+</div> <!-- data-module-name="article.app/lib/module/ieWarning" -->
+
+        <![endif]-->
+
+        <div id="article_sector" class="sector">
+          <div id="article_tools" class="column empty disableScroll at8-col8 at12-col1 at16-col1">
+            <div class="module toggle-parent">
+
+<div data-module-id="8" data-module-name="article.app/lib/module/shareTools" data-module-zone="article_tools" class="zonedModule">
+<ul class="article_tools clearFix">
+  <li
+    data-url="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"
+    data-text="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  "
+    data-total="1818"
+    title="Facebook" aria-label="Facebook"
+    class="icon facebook">
+      1818
+      <meta itemprop="interactionCount" content="UserLikes:1818">
+   </li>
+
+  <li
+    data-url="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"
+    data-text="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  "
+    data-total=""
+    title="Twitter" aria-label="Twitter"
+    class="icon twitter">
+  </li>
+
+
+  <li class="icon email mobile-scrim"
+    title="Email" aria-label="Email"
+    data-scrim='{&quot;type&quot;:&quot;email&quot;,&quot;header&quot;:&quot;Email this article&quot;,&quot;list&quot;:[{&quot;type&quot;:&quot;mailto&quot;,&quot;icon&quot;:&quot;email&quot;,&quot;url&quot;:&quot;http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018&quot;,&quot;text&quot;:&quot;Email Article&quot;,&quot;subjectText&quot;:&quot;Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  &quot;,&quot;bodytext&quot;:&quot;Here is something from WSJ.com that might interest you:&quot;}],&quot;info&quot;:{&quot;image&quot;:&quot;http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_D_20160207124740.jpg&quot;,&quot;headline&quot;:&quot;Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  &quot;,&quot;timestamp&quot;:&quot;Feb. 7, 2016 10:10 p.m. ET&quot;}}'
+    data-sharetext='Share via email or copy link'
+    data-headline="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  "
+    data-url="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"
+    data-timestamp="Feb. 7, 2016 10:10 p.m. ET"
+    
+    data-emailimgsrc="http://si.wsj.net/public/resources/images/BN-MM390_TRUMPH_D_20160207124740.jpg">
+  </li>
+
+  <li class="icon article-save mobile-scrim hasMenu contextualMenu" id="article-save" data-scrim='{"id":"article-save", "header":"Save Article","list":[{"type":"link","text":"Log In to Save", "url": "https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"},{"type":"link","text":"Subscribe to WSJ", "url": "https://subscribe.wsj.com/default"}]}'
+    title="Save Article" aria-label="Save Article"
+  >
+    <menu>
+      <li class="tri"></li>
+      <li class="menu-header">Save Article</li>
+        <li class="option sign-in"><a href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" ref="nofollow" data-widget="LIFP.login">Sign In to Save</a></li>
+        <li class="option subscribe"><a href="https://subscribe.wsj.com/default">Subscribe to WSJ</a></li>
+    </menu>
+  </li>
+
+  <li class="icon evernote evernote-clip-button"
+    data-id="SB10346114644772494473104581527003696759810"
+    data-headline="Trump Hotel in Washington, D.C., to Open Ahead of Schedule"
+    data-url="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"
+    data-authors="Peter Grant"
+    data-date="Feb. 7, 2016 10:10 p.m. ET"
+    data-summary="The high-profile project to convert the Old Post Office building has, at times, been drawn into campaign politics"
+    title="Evernote" aria-label="Evernote"
+    ></li>
+
+  <li class="icon text-size mobile-scrim hasMenu contextualMenu hide4" id="text-size" data-scrim='{"id":"text-size","header":"Text Size","list":[{"type":"option","class":"selected regular","text":"Regular"},{"type":"option","class":"medium","text":"Medium"},{"type":"option","class":"large","text":"Large"}]}'
+    title="Text Resize" aria-label="Text Resize"
+  >
+    <menu>
+      <li class="tri"></li>
+      <li class="menu-header">Text Size</li>
+      <li class="option regular selected">Regular</li>
+      <li class="option medium">Medium</li>
+      <li class="option large">Large</li>
+    </menu>
+  </li>
+
+  <li class="icon more mobile-scrim hasMenu" data-scrim='{"header":"More Tools","list":[{"type":"share","icon":"google","url":"example_url","text":"Google+"}
+  
+  
+  ,{"type":"link","icon":"print","url":"javascript:window.print();","text":"Print"},{"type":"tool", "icon":"text-size","text":"Text Size",
+  "options":[{"type":"button", "class":"selected", "value":"regular", "text":"Regular"}
+            ,{"type":"button", "value":"medium", "text":"Medium"}
+            ,{"type":"button", "value":"large", "text":"Large"}]}]}'
+    title="More" aria-label="More">
+    <menu>
+      <li class="tri"></li>
+      <li
+        title="Google+" aria-label="Google+"
+        data-url="http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"
+        data-text="Trump luxury hotel in D.C.’s Old Post Office building set to open ahead of schedule  "
+        data-total=""
+        class="icon google">Google+
+      </li>
+      <li class="border"></li>
+      <li title="Print" aria-label="Print" class="icon print">Print</li>
+    </menu>
+  </li>
+</ul>
+
+</div> <!-- data-module-name="article.app/lib/module/shareTools" -->
+
+            </div>
+          </div>
+
+          <article
+            class="column at8-col8 at12-col11 at16-col15"
+            mainContentOfPage>
+
+            <header class="article_header module">
+
+<div data-module-id="7" data-module-name="article.app/lib/module/articleHeadline" data-module-zone="article_header" class="zonedModule">
+<div class="wsj-article-headline-wrap ">
+  <div class="category">
+
+    <span class="article-breadCrumb-wrapper">
+      <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+            <li class="article-breadCrumb" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+              <a itemprop="item" href="http://www.wsj.com/news/us">U.S.</a>
+            </li>
+
+
+
+
+      </ul>
+
+    </span>
+
+
+  </div>
+
+  <h1 class="wsj-article-headline" itemprop="headline">Trump Hotel in Washington, D.C., to Open Ahead of Schedule</h1>
+
+    <h2 class="sub-head" itemprop="description">The high-profile project to convert the Old Post Office building has, at times, been drawn into campaign politics</h2>
+
+
+
+</div>
+
+</div> <!-- data-module-name="article.app/lib/module/articleHeadline" -->
+
+            </header>
+
+            <div class="column at8-col8 at12-col7 at16-col9 at16-offset1">
+              <div class="module">
+
+<div data-module-id="6" data-module-name="article.app/lib/module/articleSnippet" data-module-zone="article_snippet" class="zonedModule">
+
+
+<div class="snippet">
+
+
+<div class="byline">
+
+
+    <span>By</span>
+          <div class="author  hasMenu" data-scrim='{"type":"author","header":"Peter Grant","subhead":"The Wall Street Journal","list":[]}' itemscope itemprop="author" itemtype="http://schema.org/Person">
+              <span itemprop="name">Peter Grant</span>
+          </div>
+
+</div>
+
+<time class="timestamp">
+  Feb. 7, 2016 10:10 p.m. ET
+</time>
+  <div class="wsj-snippet-body">
+    
+
+ <p> Donald Trump’s real-estate company is planning to open its closely watched Washington, D.C., hotel project ahead of schedule, a move that could help underscore the Republican presidential candidate’s skills as a real-estate developer.</p> <p>The Trump Organization, which has been converting the Old Post Office building with its soaring clock tower into a luxury 263-room hotel, is set to open it in early September, according to Ivanka...
+  </div>
+
+<div class="wsj-snippet-login">
+  <span class="wsj-snippet-login-text">
+    To Read the Full Story,
+  </span>
+  <span>
+    <a class="logInLink" href="https://subscribe.wsj.com/wsjsnippet">
+      Subscribe
+    </a>
+    or
+    <a class="logInLink" href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" ref="nofollow" data-widget="LIFP.login">
+      Sign In
+    </a>
+  </span>
+</div>
+
+</div>
+
+
+</div> <!-- data-module-name="article.app/lib/module/articleSnippet" -->
+
+              </div>
+
+              <div id="cx-snippetad" class="module wsj-snippet-ad">
+              </div>
+
+            </div>
+
+            <div id="right-rail" class="column hide4 hide8 col4 at16-offset1">
+              <div class="module snippet-right-ad">
+
+<div data-module-id="4" data-module-name="article.app/lib/module/responsiveAd" data-module-zone="rightRailAd1" class="zonedModule">
+  <div
+    class="wsj-responsive-ad-wrap"
+    id='AD_G'
+    data-ad-options='{&quot;adId&quot;:&quot;AD_G&quot;,&quot;adUnitPath&quot;:&quot;/2/interactive.wsj.com/news_story&quot;,&quot;adSize&quot;:[[336,280],[300,250],[336,850],[300,600],[300,1050]],&quot;adSizeMap&quot;:null,&quot;autoRefresh&quot;:false,&quot;adTargeting&quot;:{&quot;metazone&quot;:null,&quot;msrc&quot;:null,&quot;circ&quot;:&quot;snippet&quot;,&quot;bkuuid&quot;:null,&quot;p39&quot;:null},&quot;disableRefresh&quot;:false}'
+    data-tracking="interactive.wsj.com/news_story"
+    data-cb-ad-id="TopRectangle">
+  </div>
+
+</div> <!-- data-module-name="article.app/lib/module/responsiveAd" -->
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="full_width strap top-stories-strap hide12 hide16">
+          <div class="sector">
+            <h4 class="subhead module">
+              Popular on WSJ
+            </h4>
+          </div>
+        </div>
+
+        <div
+          class="sector"
+          id="trending_now_sector">
+          <div
+            class="column col4 at8-col8"
+            id="trending_now"
+            intent
+            in-at4units-append="#trending_now_sector"
+            in-at8units-append="#trending_now_sector"
+            in-base-append="#right-rail">
+
+<div data-module-id="16" data-module-name="resp.module.trendingNow.DesktopModule" data-module-zone="trending" class="zonedModule">
+<div class="module trending_now  ">
+
+  <div class="trending_videos">
+    <div class="strap secondary">
+      <h2 class="subhead">Most Popular Videos</h2>
+    </div>
+    <ul class="video">
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160215/021516drake/021516drake_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/playstation-4-breathes-life-into-uncharted-4s-nathan-drake/F996E17A-49C6-4614-8B58-842CB6366750.html?mod=trending_now_video_1" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20160215/021516drake/021516drake_167x94.jpg]" src="http://m.wsj.net/video/20160215/021516drake/021516drake_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/playstation-4-breathes-life-into-uncharted-4s-nathan-drake/F996E17A-49C6-4614-8B58-842CB6366750.html?mod=trending_now_video_1">PlayStation 4 Breathes Life Into Uncharted 4’s Nathan Drake</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160214/021316scgopdebate/021316scgopdebate_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/the-south-carolina-gop-debate-in-90-seconds/37DE0055-981B-4B19-BBB1-F1AAC3CBDD85.html?mod=trending_now_video_2" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20160214/021316scgopdebate/021316scgopdebate_167x94.jpg]" src="http://m.wsj.net/video/20160214/021316scgopdebate/021316scgopdebate_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/the-south-carolina-gop-debate-in-90-seconds/37DE0055-981B-4B19-BBB1-F1AAC3CBDD85.html?mod=trending_now_video_2">The South Carolina GOP Debate in 90 Seconds</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160215/021516ausdrug/021516ausdrug_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/australian-police-seize-900-million-worth-of-drugs/0100E99B-9A86-4E68-91F2-03B9E7B16179.html?mod=trending_now_video_3" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20160215/021516ausdrug/021516ausdrug_167x94.jpg]" src="http://m.wsj.net/video/20160215/021516ausdrug/021516ausdrug_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/australian-police-seize-900-million-worth-of-drugs/0100E99B-9A86-4E68-91F2-03B9E7B16179.html?mod=trending_now_video_3">Australian Police Seize $900 Million Worth of Drugs</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160210/021016deadpool/021016deadpool_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/is-deadpool-ryan-reynolds-superhero-redemption/BC0774F9-A393-450E-8499-89A61DFB9F60.html?mod=trending_now_video_4" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20160210/021016deadpool/021016deadpool_167x94.jpg]" src="http://m.wsj.net/video/20160210/021016deadpool/021016deadpool_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/is-deadpool-ryan-reynolds-superhero-redemption/BC0774F9-A393-450E-8499-89A61DFB9F60.html?mod=trending_now_video_4">Is 'Deadpool' Ryan Reynolds's Superhero Redemption?</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160215/021516pakshariav3/021516pakshariav3_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/mixing-finance-with-religion-in-pakistan/5C9EB16B-DDBF-452C-A1B6-B5E021C095F5.html?mod=trending_now_video_5" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20160215/021516pakshariav3/021516pakshariav3_167x94.jpg]" src="http://m.wsj.net/video/20160215/021516pakshariav3/021516pakshariav3_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/mixing-finance-with-religion-in-pakistan/5C9EB16B-DDBF-452C-A1B6-B5E021C095F5.html?mod=trending_now_video_5">Mixing Finance With Religion in Pakistan</a></h4>
+          </div>
+        </li>
+    </ul>
+  </div>
+
+  <div class="trending_articles">
+    <div class="strap secondary">
+      <h2 class="subhead">Most Popular Articles</h2>
+    </div>
+    <ul class="clear">
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MP371_panmkt_C_20160215040309.jpg" />
+            <a href="http://www.wsj.com/articles/european-stocks-rally-following-surge-in-japan-1455527565?mod=trending_now_1" class="image">
+              <img alt="Stocks Rise as Banking Shares Rally" src="http://s.wsj.net/public/resources/images/BN-MP371_panmkt_C_20160215040309.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/european-stocks-rally-following-surge-in-japan-1455527565?mod=trending_now_1">Stocks Rise as Banking Shares Rally</a>
+          </h4>
+        </li>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-LX394_MILLEN_C_20151230165155.jpg" />
+            <a href="http://www.wsj.com/articles/millennial-wave-unsettles-presidential-race-1455577532?mod=trending_now_2" class="image">
+              <img alt="Millennial Wave Unsettles Presidential Race" src="http://s.wsj.net/public/resources/images/BN-LX394_MILLEN_C_20151230165155.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/millennial-wave-unsettles-presidential-race-1455577532?mod=trending_now_2">Millennial Wave Unsettles Presidential Race</a>
+          </h4>
+        </li>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MO134_0215YH_C_20160210172156.jpg" />
+            <a href="http://www.wsj.com/articles/a-controversial-treatment-for-peanut-allergies-1455565119?mod=trending_now_3" class="image">
+              <img alt="A Controversial Treatment for Peanut Allergies" src="http://s.wsj.net/public/resources/images/BN-MO134_0215YH_C_20160210172156.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/a-controversial-treatment-for-peanut-allergies-1455565119?mod=trending_now_3">A Controversial Treatment for Peanut Allergies</a>
+          </h4>
+        </li>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MP567_2schum_C_20160215174016.jpg" />
+            <a href="http://www.wsj.com/articles/the-schumer-precedent-1455580421?mod=trending_now_4" class="image">
+              <img alt="The Schumer Precedent" src="http://s.wsj.net/public/resources/images/BN-MP567_2schum_C_20160215174016.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/the-schumer-precedent-1455580421?mod=trending_now_4">Opinion: The Schumer Precedent</a>
+          </h4>
+        </li>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/MI-CO215_OPEC_C_20160215180115.jpg" />
+            <a href="http://www.wsj.com/articles/saudi-russian-oil-ministers-head-to-qatar-to-discuss-production-1455566388?mod=trending_now_5" class="image">
+              <img alt="Saudi, Russian Oil Ministers Head to Qatar to Discuss Production" src="http://s.wsj.net/public/resources/images/MI-CO215_OPEC_C_20160215180115.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/saudi-russian-oil-ministers-head-to-qatar-to-discuss-production-1455566388?mod=trending_now_5">Saudi, Russian Oil Ministers Head to Qatar to Discuss Production</a>
+          </h4>
+        </li>
+    </ul>
+  </div>
+
+</div>
+
+</div> <!-- data-module-name="resp.module.trendingNow.DesktopModule" -->
+
+          </div>
+        </div>
+
+        <div class="full_width strap top-stories-strap">
+          <div class="sector">
+            <h2 class="subhead module">
+              Editors&rsquo; Picks
+            </h2>
+          </div>
+        </div>
+
+        <div class="sector">
+          <div class="column">
+            <div class="module">
+
+<div data-module-id="15" data-module-name="article.app/lib/module/topStories" data-module-zone="top_stories" class="zonedModule">
+<ul class="top_stories showvideo clear">
+
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/new-supreme-court-nominee-to-face-polarized-judiciary-committee-1455532202?mod=WSJ_article_EditorsPicks_0"><img alt="High Court Nominee to Face Polarized Judiciary Committee" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MP486_0215ju_E_20160215125121.jpg" src="http://s.wsj.net/public/resources/images/BN-MP486_0215ju_D_20160215125121.jpg"></a>
+      <h4 class="category section-politics">Politics</h4>
+      <h3><a href="http://www.wsj.com/articles/new-supreme-court-nominee-to-face-polarized-judiciary-committee-1455532202?mod=WSJ_article_EditorsPicks_0" class="headline"><p>High Court Nominee to Face Polarized Judiciary Committee</p></a></h3>
+    </li>
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/2016-campaign-rhetoric-shakes-markets-1455559708?mod=WSJ_article_EditorsPicks_1"><img alt="2016 Campaign Rhetoric Shakes Markets" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MP487_CAPJOU_E_20160215130243.jpg" src="http://s.wsj.net/public/resources/images/BN-MP487_CAPJOU_D_20160215130243.jpg"></a>
+      <h4 class="category section-politics">Capital Journal</h4>
+      <h3><a href="http://www.wsj.com/articles/2016-campaign-rhetoric-shakes-markets-1455559708?mod=WSJ_article_EditorsPicks_1" class="headline"><p>2016 Campaign Rhetoric Shakes Markets</p></a></h3>
+    </li>
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/modest-wage-requests-reflect-sagging-expectations-in-japan-1455542077?mod=WSJ_article_EditorsPicks_2"><img alt="Big in Japan: Higher Profits, Not Wages" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MP414_0215jw_E_20160215073652.jpg" src="http://s.wsj.net/public/resources/images/BN-MP414_0215jw_D_20160215073652.jpg"></a>
+      <h4 class="category section-world">Japan</h4>
+      <h3><a href="http://www.wsj.com/articles/modest-wage-requests-reflect-sagging-expectations-in-japan-1455542077?mod=WSJ_article_EditorsPicks_2" class="headline"><p>Big in Japan: Higher Profits, Not Wages</p></a></h3>
+    </li>
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/why-resilience-is-good-for-your-health-and-career-1455560111?mod=WSJ_article_EditorsPicks_3"><img alt="Why Resilience Is Good for Your Health and Your Career" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MP441_0215in_E_20160215103022.jpg" src="http://s.wsj.net/public/resources/images/BN-MP441_0215in_D_20160215103022.jpg"></a>
+      <h4 class="category section-life">The Informed Patient</h4>
+      <h3><a href="http://www.wsj.com/articles/why-resilience-is-good-for-your-health-and-career-1455560111?mod=WSJ_article_EditorsPicks_3" class="headline"><p>Why Resilience Is Good for Your Health and Your Career</p></a></h3>
+    </li>
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/why-are-some-people-more-ticklish-than-others-1455560232?mod=WSJ_article_EditorsPicks_4"><img alt="Why Are Some People More Ticklish Than Others?" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MO969_0215fi_E_20160212145117.jpg" src="http://s.wsj.net/public/resources/images/BN-MO969_0215fi_D_20160212145117.jpg"></a>
+      <h4 class="category section-life">Burning Question</h4>
+      <h3><a href="http://www.wsj.com/articles/why-are-some-people-more-ticklish-than-others-1455560232?mod=WSJ_article_EditorsPicks_4" class="headline"><p>Why Are Some People More Ticklish Than Others?</p></a></h3>
+    </li>
+
+    <li class=" isBlog">
+      <a href="http://blogs.wsj.com/moneybeat/2016/02/15/expect-low-returns-even-if-this-bull-market-survives/?mod=WSJ_article_EditorsPicks_5"><img alt="Expect Low Returns Even If This Bull Market Survives" intent in-at4units-src="http://s.wsj.net/public/resources/images/DE-AS092_bulleu_E_20130605121109.jpg" src="http://s.wsj.net/public/resources/images/DE-AS092_bulleu_D_20130605121109.jpg"></a>
+      <h4 class="category section-">MoneyBeat</h4>
+      <h3><a href="http://blogs.wsj.com/moneybeat/2016/02/15/expect-low-returns-even-if-this-bull-market-survives/?mod=WSJ_article_EditorsPicks_5" class="headline"><p>Expect Low Returns Even If This Bull Market Survives</p></a></h3>
+    </li>
+
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/emerging-market-debt-how-big-a-threat-is-it-1455560073?mod=WSJ_article_EditorsPicks_6"><img alt="Emerging-Market Debt: How Big a Threat Is It?" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MP484_CREDIT_E_20160215124637.jpg" src="http://s.wsj.net/public/resources/images/BN-MP484_CREDIT_D_20160215124637.jpg"></a>
+      <h4 class="category section-markets">Heard on the Street</h4>
+      <h3><a href="http://www.wsj.com/articles/emerging-market-debt-how-big-a-threat-is-it-1455560073?mod=WSJ_article_EditorsPicks_6" class="headline"><p>Emerging-Market Debt: How Big a Threat Is It?</p></a></h3>
+    </li>
+
+  <li class="video subPrev">
+    <a class="image" href="http://www.wsj.com/video/grammy-awards-2016-red-carpet-fashion/8BDD7846-B9F2-40CE-9807-B2F60F0E44B9.html"
+        intent
+        in-touch-href="http://m.wsj.net/video/20160215/20160216grammyredcarpet1/20160216grammyredcarpet1_v2_ec464k.mp4"
+        in-mouse-href="http://www.wsj.com/video/grammy-awards-2016-red-carpet-fashion/8BDD7846-B9F2-40CE-9807-B2F60F0E44B9.html">
+      <div class="center-image">
+       <img alt="Grammy Awards 2016 Red Carpet Fashion" src="http://m.wsj.net/video/20160215/20160216grammyredcarpet1/20160216grammyredcarpet1_512x288.jpg">
+      </div>
+      <span class="video-play">PLAY</span>
+    </a>
+  <h4 class="category">Arts & Entertainment </h4>
+    <h3><a href="http://www.wsj.com/video/grammy-awards-2016-red-carpet-fashion/8BDD7846-B9F2-40CE-9807-B2F60F0E44B9.html" class="headline"
+        intent
+        in-touch-href="http://m.wsj.net/video/20160215/20160216grammyredcarpet1/20160216grammyredcarpet1_v2_ec464k.mp4"
+        in-mouse-href="http://www.wsj.com/video/grammy-awards-2016-red-carpet-fashion/8BDD7846-B9F2-40CE-9807-B2F60F0E44B9.html">
+        <p>Grammy Awards 2016 Red Carpet Fashion</p>
+    </a></h3>
+  </li>
+
+</ul>
+
+</div> <!-- data-module-name="article.app/lib/module/topStories" -->
+
+            </div>
+          </div>
+        </div>
+
+        <div class="sponsored-links">
+          <div class="sector">
+            <div class="module">
+
+<div data-module-id="14" data-module-name="resp.module.msn_links.module" data-module-zone="sponsored_links" class="zonedModule">
+<div id="623653805">
+</div>
+
+</div> <!-- data-module-name="resp.module.msn_links.module" -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Placeholder div for cxense -->
+    <div id="cx-scrim"></div>
+
+<footer class="mega-footer" data-agent="desktop" intent
+    in-at4units-class="mobile"
+    in-at8units-class="mobile"
+    in-at12units-class=""
+    in-at16units-class="">
+<div class="footer-wrap">
+  <!--TOP BAR LINKS-->
+  <div class="top-links-wrapper">
+    <div class="sector">
+      <menu class="top-links clearFix module">
+        <li class="wsj-logo"><a href="http://www.wsj.com/">Wall Street Journal</a></li>
+        <li class="editionDropdown hide4 hide8 expandable"><span class="selected-edition">U.S. Edition</span>
+        <ul class="editionSwitch dropdown">
+            <li id="na,us" data-selectedlabel="U.S. Edition"><a href="http://www.wsj.com/">U.S.</a></li>
+            <li id="asia" data-selectedlabel="Asia Edition"><a href="http://www.wsj.com/">Asia</a></li>
+            <li id="europe" data-selectedlabel="Europe Edition"><a href="http://www.wsj.com/">Europe</a></li>
+            <li id="asia,india" data-selectedlabel="India Edition"><a href="http://www.wsj.com/">India</a></li>
+            <li id="na,lat" data-selectedlabel="América Latina"><a href="http://lat.wsj.com">América Latina</a></li>
+            <li id="na,br" data-selectedlabel="Brasil"><a href="http://br.wsj.com">Brasil</a></li>
+            <li id="asia,cn" data-selectedlabel="中国 (China)"><a href="http://cn.wsj.com/gb/index.asp">中国 (China)</a></li>
+            <li id="asia,jp" data-selectedlabel="日本 (Japan)"><a href="http://jp.wsj.com/">日本 (Japan)</a></li>
+        </ul>
+        </li>
+        <div class="footerOps hide16 hide12">
+          <div class="editionSwitch">
+            <label for="edition">Edition:</label>
+            <select id="edition">
+                <option value="na,us" id="na,us" data-domain="http://www.wsj.com/" selected>U.S.</option>
+                <option value="asia" id="asia" data-domain="http://www.wsj.com/" >Asia</option>
+                <option value="europe" id="europe" data-domain="http://www.wsj.com/" >Europe</option>
+                <option value="asia,india" id="asia,india" data-domain="http://www.wsj.com/" >India</option>
+                <option value="na,lat" id="na,lat" data-domain="http://lat.wsj.com" >América Latina</option>
+                <option value="na,br" id="na,br" data-domain="http://br.wsj.com" >Brasil</option>
+                <option value="asia,cn" id="asia,cn" data-domain="http://cn.wsj.com/gb/index.asp" >中国 (China)</option>
+                <option value="asia,jp" id="asia,jp" data-domain="http://jp.wsj.com/" >日本 (Japan)</option>
+            </select>
+          </div>
+          <div class="fontSwitch" title="click to change font size ">
+            <label for="fontController">Text Size:</label>
+            <select id="fontController">
+                <option value="small" id="small" >Small</option>
+                <option value="medium" id="medium" >Medium</option>
+                <option value="large" id="large" >Large</option>
+            </select>
+          </div>
+        </div>
+         <div class="folio hide16 hide12">
+              <p>
+                <span class="loginOps"><a href="https://subscribe.wsj.com/hpfooterlink" rel="nofollow">Subscribe Now</a></span><span class="loginOps"><a href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" rel="nofollow">Sign In</a></span>
+              </p>
+            <li><a href="http://www.wsjplus.com/?mod=wsjfooter" rel="nofollow">WSJ Membership Benefits</a></li>
+            <li><a href="http://now.wsj.com/mobile/?mod=wsjfooter" rel="nofollow">Download WSJ Apps</a></li>
+            <li class="nav-About"><a href="http://help.wsj.com/customer-service" rel="nofollow">Customer Center</a></li>
+            <li class="nav-Home"><a href="http://www.wsj.com/policy/legal-policies">Legal Policies</a></li>
+          </div>
+        <li class="login_sub">
+          <menu class="clearFix">
+            <li class="subscribe"><a href="https://subscribe.wsj.com/hpfooterlink" rel="nofollow">Subscribe</a></li>
+            <li class="login"><a href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Ftrump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018" ref="nofollow" data-widget="LIFP.login">Sign In</a></li>
+          </menu>
+        </li>
+        <li class="back-2-top"><a>TOP<span class="rotate">«</span></a></li>
+      </menu>
+    </div>
+  </div>
+
+  <!--MIDDLE COLUMN LINKS-->
+  <div class="content-wrap sector">
+    <menu class="content-links clearFix module">
+      <li class="link-col hide4 hide8"><p class="column-name">WSJ Membership</p>
+        <menu>
+          <li><a href="http://www.wsjplus.com/?mod=wsjfooter">WSJ+ Membership Benefits</a></li>
+          <li><a href="http://subscribe.wsj.com/digitalpack">Digital Subscription</a></li>
+          <li><a href="http://subscribe.wsj.com/printpack">Print Subscription</a></li>
+          <li><a href="http://subscribe.wsj.com/printanddigitalpack">Print and Digital Subscription</a></li>
+          <li><a href="http://subscription.wsj.com/?mod=wsjfooter">Why Subscribe?</a></li>
+
+          <li><a href="http://now.wsj.com/mobile/?mod=wsjfooter">Download WSJ Apps for iOS and Android</a></li>
+          <li><a href="http://subscription.wsj.com/corporate/?mod=wsjfooter">Corporate Subscriptions</a></li>
+          <li><a href="http://professor.wsj.com/?mod=wsjfooter">Professor Journal</a></li>
+          <li><a href="http://wsjstudent.com/?mod=wsjfooter">Student Journal</a></li>
+        </menu>
+      </li>
+
+      <li class="link-col hide4 hide8"><p class="column-name">Customer Service</p>
+        <menu>
+          <li><a href="https://customercenter.wsj.com/public/view/contactinformation.html">Customer Center</a></li>
+          <li><a href="https://customercenter.wsj.com/livechat/chat?product=WSJ" class="liveChat">Live Help</a></li>
+          <li><a href="http://www.wsj.com/guidedtour/">Redesign Guided Tour</a></li>
+        </menu>
+      </li>
+
+      <li class="link-col hide4 hide8"><p class="column-name">Tools &amp; Features</p>
+        <menu>
+          <li><a href="http://www.wsj.com/public/page/email-setup.html" rel="nofollow">Emails &amp; Alerts</a></li>
+          <li><a href="http://www.wsj.com/public/page/guides.html">Guides</a></li>
+          <li><a href="http://www.wsj.com/watchlist/news">My News</a></li>
+          <li><a href="http://portfolio.wsj.com">Portfolio</a></li>
+          <li><a href="http://www.wsj.com/public/page/rss_news_and_feeds.html">RSS Feeds</a></li>
+          <li><a href="http://topics.wsj.com">Topics</a></li>
+          <li><a href="http://www.wsj.com/video">Video Center</a></li>
+          <li><a href="http://www.wsj.com/watchlist">Watchlist</a></li>
+          <li><a href="http://www.wsj.com/podcasts">Podcasts</a></li>
+          </menu>
+      </li>
+
+      <li class="link-col hide4 hide8"><p class="column-name">Ads</p>
+        <menu>
+          <li><a href="http://www.wsjmediakit.com" rel="nofollow">Advertise</a></li>
+          <li><a href="http://www.wsjlocal.com" rel="nofollow">Advertise Locally</a></li>
+          <li><a href="https://classifieds.wsj.com/ad/Commercial-Real-Estate-Ads" rel="nofollow">Commercial Real Estate Ads</a></li>
+          <li><a href="http://classifieds.wsj.com" rel="nofollow">Place a Classified Ad</a></li>
+          <li><a href="https://classifieds.wsj.com/ad/Business-For-Sale-Ads" rel="nofollow">Sell Your Business</a></li>
+          <li><a href="https://classifieds.wsj.com/ad/Residential-Real-Estate-Ads" rel="nofollow">Sell Your Home</a></li>
+          <li><a href="https://classifieds.wsj.com/ad/Job-Ads" rel="nofollow">Recruitment &amp; Career Ads</a></li>
+       </menu>
+      </li>
+
+      <li class="link-col hide4 hide8"><p class="column-name">More</p>
+        <menu>
+          <li><a href="http://wsj.com/partner" rel="nofollow">Content Partnerships</a></li>
+          <li><a href="http://www.wsj.com/news/column/Corrections" rel="nofollow">Corrections</a></li>
+          <li><a href="http://www.dowjones.com/careers.asp" rel="nofollow">Jobs at WSJ</a></li>
+          <li><a href="http://www.wsj.com/public/page/archive.html">News Archive</a></li>
+          <li><a class="registerUserClass" rel="nofollow" href="https://id.wsj.com/access/509b1a086458232f6e000002/latest/register_standalone.html" ref="nofollow" data-widget="LIFP.freeregistration">Register for Free</a></li>
+          <li><a href="http://www.djreprints.com" rel="nofollow">Reprints</a></li>
+        </menu>
+      </li>
+
+    <ul class="social-links">
+      <li class="social-logo"><a title="Facebook" href="http://www.facebook.com/wsj" class="facebook">Facebook</a></li>
+      <li class="social-logo"><a title="Twitter" href="http://twitter.com/WSJ" class="twitter">Twitter</a></li>
+      <li class="social-logo"><a title="Google+" href="https://plus.google.com/117720626238470886461/posts" class="gplus" rel="publisher">Google+</a></li>
+      <li class="social-logo"><a title="YouTube" href="http://www.youtube.com/user/WSJDigitalNetwork" class="youtube">YouTube</a></li>
+      <li class="social-logo"><a title="Podcasts" href="http://www.wsj.com/public/page/podcast.html" class="podcast">Podcasts</a></li>
+
+      <li class="social-logo"><a title="GooglePlay" href="https://play.google.com/store/apps/details?id=wsj.reader_sp" class="googleplay">GooglePlay</a></li>
+      <li class="social-logo"><a title="AppStore" href="https://itunes.apple.com/us/app/the-wall-street-journal./id364387007?mt=8" class="appstore">AppStore</a></li>
+      <li class="social-logo"><a title="Windows10" href="https://www.microsoft.com/store/apps/9wzdncrfj4nb?ocid=badge" class="windowsbadge">Windows10</a></li>
+    </ul>
+
+    </menu>
+  </div>
+
+  <!--BOTTOM PRODUCT LINKS-->
+  <div class="product-links-wrapper hide4 hide8">
+    <menu class="product-links clearFix">
+      <li class="DJProduct">Dow Jones Products</li>
+      <li><a href="http://online.barrons.com/home-page" rel="nofollow">Barron's</a></li>
+      <li><a href="http://bigcharts.marketwatch.com" rel="nofollow">BigCharts</a></li>
+      <li><a href="http://www.wsj.com/public/page/wsj-x-marketing.html" rel="nofollow">DJX</a></li>
+      <li><a href="http://new.dowjones.com/products/dj-news" rel="nofollow">Dow Jones Newswires</a></li>
+      <li><a href="https://global.factiva.com/factivalogin/login.asp?productname=global" rel="nofollow">Factiva</a></li>
+      <li><a href="http://www.efinancialnews.com" rel="nofollow">Financial News</a></li>
+      <li><a href="http://mansionglobal.com" rel="nofollow">Mansion Global</a></li>
+      <li><a href="http://www.marketwatch.com" rel="nofollow">MarketWatch</a></li>
+      <li><a href="http://pevc.dowjones.com" rel="nofollow">Private Markets</a></li>
+      <li><a href="http://www.realtor.com" rel="nofollow">realtor.com</a></li>
+      <li><a href="https://djlogin.dowjones.com/login.asp?productname=rnc" rel="nofollow">Risk &amp; Compliance</a></li>
+      <li><a href="http://www.wsj.com/conferences" rel="nofollow">WSJ Conference</a></li>
+      <li><a href="http://www.wsj.com/pro/centralbanking">WSJ Pro Central Banking</a></li>
+      <li><a href="http://live.wsj.com" rel="nofollow">WSJ Video</a></li>
+      <li><a href="http://www.wsjwine.com" rel="nofollow">WSJ Wine</a></li>
+    </menu>
+  </div>
+
+  <!--FOOTNOTE LINKS-->
+  <div class="footnote-wrap sector">
+    <menu class="footnote-links clearFix module">
+      <li><a href="http://www.wsj.com/policy/privacy-policy" rel="nofollow">Privacy Policy</a></li>
+      <li><a href="http://www.wsj.com/policy/cookie-policy" rel="nofollow">Cookie Policy</a></li>
+      <li><a href="http://www.wsj.com/policy/copyright-policy" rel="nofollow">Copyright Policy</a></li>
+      <li><a href="http://www.wsj.com/policy/data-policy" rel="nofollow">Data Policy</a></li>
+      <li><a href="http://www.wsj.com/policy/subscriber-agreement" rel="nofollow">Subscriber Agreement &amp; Terms of Use</a></li>
+      <li><a href="http://www.wsj.com/policy/cookie-policy#cookies_advertising" rel="nofollow">Your Ad Choices</a></li>
+
+      <li class="copyright">Copyright &copy;2016 <a href="http://www.dowjones.com">Dow Jones &amp; Company</a>, Inc. All Rights Reserved.</li>
+    </menu>
+  </div>
+</div>
+
+</footer>
+
+    <!--proximix script-->
+    <script async src="http://segment-data.zqtk.net/dowjones-d8s23j?url=http://www.wsj.com/articles/trump-hotel-in-washington-d-c-to-open-ahead-of-schedule-1454901018"></script>
+
+    <script type='text/javascript'>
+      var googletag = googletag ? googletag : {};
+          googletag.cmd = googletag.cmd ? googletag.cmd : [];
+          (function() {
+          var gads = document.createElement('script');
+          gads.async = true;
+          gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+          })();
+    </script>
+
+    <script type='text/javascript'>
+      var googleAdSlots = {};
+    </script>
+
+    <script type='text/javascript'>
+      googletag.cmd.push(function() {
+        googletag.pubads().setTargeting("page","article");
+        googletag.companionAds().setRefreshUnfilledSlots(true);
+        googletag.enableServices();
+      });
+    </script>
+
+    <!-- Require.js from CDN -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js " type="text/javascript"></script>
+
+    <!-- Scripts -->
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=a491080d5b3785e9fb7859fc5fff9684ea1b1a3a"></script>
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=ea746bb5d0b8ccb3dfc68473ac9475a4fd818d56"></script>
+
+    <!-- Module to initialize all require modules -->
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=aa16773806f6cd3cd9a6c824898cd4f1ed4318ba"></script>
+
+  </body>
+</html>

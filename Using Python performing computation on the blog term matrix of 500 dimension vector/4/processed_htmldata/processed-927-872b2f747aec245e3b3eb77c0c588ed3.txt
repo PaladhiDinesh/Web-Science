@@ -1,0 +1,408 @@
+   #[1]CTOvision.com » Feed [2]CTOvision.com » Comments Feed
+   [3]CTOvision.com » iCal Feed [4]CTOvision.com » The real Gigabit
+   Challenge is getting ISPs to think like tech firms, The Web-Deprived
+   Study at McDonald's and more Comments Feed [5]alternate [6]alternate
+
+     * [7]About
+          + [8]A Users Guide To CTOvision Pro
+          + [9]Register for CTOvision Pro
+          + [10]Request Special Access to CTOvision Pro
+          + [11]Analyst Briefing Request
+          + [12]Industry Update Submission
+          + [13]Submit A Technology Or Company For Review
+          + [14]Submit News
+          + [15]Disclaimers and Bias
+          + [16]Privacy Policy
+          + [17]Our Other Web Properties
+          + [18]Contributing to the CTOvision.com Blog
+          + [19]Guidance for the PR Professional
+          + [20]CTOvision Mobile App
+          + [21]Media Partnerships
+     * [22]Contact Us
+     * [23]Subscribe
+          + [24]The CTOvision.com Monthly
+          + [25]Newsletter Subscriptions
+          + [26]Top Technology News Ticker
+          + [27]Federal Technology News Ticker
+     * [28]Join CTOvision Pro
+          + [29]Enterprise Membership
+     * [30]Ask The CTO
+     * [31]About Cognitio
+
+   [32]CTOvision.com
+
+   Context for the CTO, CIO, CISO and Data Scientist
+   Search this website  Search
+     * [33]Categorized Content
+          + [34]Cloud Computing
+          + [35]Artificial Intelligence
+          + [36]Mobile
+          + [37]Big Data
+          + [38]Robots
+          + [39]Internet of Things
+          + [40]Cyber Security
+     * [41]Research Reports
+          + [42]Tech Reviews
+          + [43]Federal Enterprise Reviews
+               o [44]Department of Agriculture (USDA)
+               o [45]Department of Commerce (Commerce)
+               o [46]Department of Defense (DOD)
+               o [47]Department of the Treasury (Treasury)
+               o [48]Department of Education (ED)
+               o [49]Department of Energy (DOE)
+               o [50]Health and Human Services (HHS)
+               o [51]Department of Homeland Security (DHS)
+               o [52]National Aeronautics and Space Administration (NASA)
+               o [53]National Intelligence Program (Intelligence
+                 Community)
+               o [54]Department of Justice (DOJ)
+               o [55]Department of State
+               o [56]Social Security Administration (SSA)
+               o [57]Department of Transportation (DOT)
+               o [58]Department of Veterans Affairs (VA)
+     * [59]Research Library
+
+The real Gigabit Challenge is getting ISPs to think like tech firms, The
+Web-Deprived Study at McDonald's and more
+
+   February 4, 2013 By [60]Ryan Kamauff
+
+   logoimage Here are the top tech news and stories of the day.
+     * PBS tweet entices SuperBowl watchers to Downton Abbey: how it
+       happened - During last night's epic Super Bowl blackout, Marketing
+       and Communications director of PBS, Kevin Dando, used Twitter to
+       grab viewers for their network. The Super Bowl (the most watched
+       television event of all time) was blacked out for 34 minutes. PBS's
+       tweet was their second most popular tweet of the year.  Via Paid
+       Content, more here.
+     * The real Gigabit Challenge is getting ISPs to think like tech firms
+       - More and more cities are looking to make gigabit connections to
+       households a municipal matter. In this article, the author argues
+       that Telcos need to increase R&D and operational investment, to
+       push the threshold of the services they can offer. However, since
+       Telcos believe they are just delivering a commodity, to do little
+       to differentiate on quality but rather on price. Via GigaOM, more
+       [61]here.
+     * The Web-Deprived Study at McDonald's - In many families and
+       communities, broadband internet is not accessible. I've often
+       mentioned how close to (or more than) 50% of the internet using
+       population uses it primarily from mobile devices, so this should be
+       no surprise. In these neighborhoods, children congregate at the
+       local McDonald's to take advantage of the free broadband. It seems
+       sometimes that the digital divide, even as mobile and other costs
+       go down, is staying the same (or growing) due to a lack of
+       broadband in many rural communities. Via WSJ, more [62]here.
+     * This Text String Crashes Almost Any App on a Mac Running Mountain
+       Lion - Apparently there is a little "easter egg" of sorts in OS X
+       Mountain Lion. The string: "File:///" automatically stops most apps
+       in the OS. It seems to only work on Mountain Lion versions (not
+       older versions) check it out for yourself. Via Gizmodo, more
+       [63]here.
+     * Another Microsoft partner plays the field: HP outs a $329
+       Chromebook - HP is releasing details on their forthcoming
+       Chromebook. I've been using a Chromebook for a few months, and have
+       to say I am very impressed with what Samsung and Google teamed up
+       to deliver. HP's will be $329, with a 14" screen (the largest among
+       all Chromebooks). The device is around 4 lbs with a 4-hour battery
+       (very different than the ARM Chromebook I use). Clearly the
+       ChromeOS is gaining traction among OEMs, schools and other outfits,
+       and may soon take the "Wintel" world by storm. Via GigaOM, more
+       [64]here.
+
+     * [65]About
+     * [66]Latest Posts
+
+[67]Ryan Kamauff
+
+   Ryan Kamauff is a senior analyst with Crucial Point LLC. He produces
+   technology focused content for [68]CTOvision.com and reports on
+   analytical megatrends at the new analysis focused [69]Analyst One.
+
+Latest posts by Ryan Kamauff ([70]see all)
+
+     * [71]Hackers go phishing with Obamacare, NSA goes on the record
+       about Tor attacks and more - October 7, 2013
+     * [72]Powerbag: one accessory we all need - October 2, 2013
+     * [73]Did Amazon knock one out of the park with the Kindle Fire HDX?
+       - October 1, 2013
+
+Share this:
+
+     * [74]LinkedIn
+     * [75]Facebook
+     * [76]Twitter
+     * [77]More
+     *
+
+     * [78]Pinterest
+     * [79]Google
+     *
+     * [80]Print
+     * [81]Tumblr
+     *
+     * [82]Reddit
+     * [83]Email
+     *
+     * [84]Pocket
+     *
+
+Related
+
+   Filed Under: [85]Cloud Computing, [86]CTO Tagged With: [87]Chromebook,
+   [88]Google, [89]Hewlett-Packard, [90]microsoft, [91]samsung, [92]Super
+   Bowl
+   About Ryan Kamauff
+
+   Ryan Kamauff is a senior analyst with Crucial Point LLC. He produces
+   technology focused content for [93]CTOvision.com and reports on
+   analytical megatrends at the new analysis focused [94]Analyst One.
+
+Leave a Reply [95]Cancel reply
+
+   IFRAME: [96]jetpack_remote_comment
+
+Pro Members Login
+
+   Username:
+   ____________________
+   Password:
+   ____________________
+   [97]signup now | [98]forgot password?
+   [ ] Remember Me
+   Log Me In
+   [99]Cognitio
+   [100]CTOevents
+   [101]CTOvision Mobile
+   [102]CTOvision Newsletterss
+
+Top Posts
+
+     * [103]Big Data is Here and Getting Bigger
+       [104]Big Data is Here and Getting Bigger
+     * [105]Truly Useful Artificial Intelligence Tools You Can Use Today
+       [106]Truly Useful Artificial Intelligence Tools You Can Use Today
+     * [107]The Best Practices are No Longer the “Best” Practices
+       [108]The Best Practices are No Longer the “Best” Practices
+     * [109]RBAC’s Not Against the Wall: Role-based access control creates
+       automation opportunities
+       [110]RBAC’s Not Against the Wall: Role-based access control creates
+       automation opportunities
+     * [111]Anti-Access Area-Denial (A2AD) in Military Domains and in
+       Cyberspace
+       [112]Anti-Access Area-Denial (A2AD) in Military Domains and in
+       Cyberspace
+     * [113]The Greatest Danger to Our Infrastructure Might Be Physical
+       [114]The Greatest Danger to Our Infrastructure Might Be Physical
+     * [115]Protecting Data with Quantum Technology
+       [116]Protecting Data with Quantum Technology
+
+What You Get With CTOvision Pro
+
+   Joining [117]CTOvision Pro provides you with unlimited access to our in
+   depth market research, technology trends analysis, company reviews and
+   special reports.
+     * If you are from the technology community you will gain insights
+       into your market and enterprise mission needs.
+     * Enterprise architects, program managers and acquisition
+       professionals gain insights into the rapidly shifting technology
+       landscape.
+
+   Start your 7 day free trial of [118]CTOvision Pro today!
+
+Help Us Find The Greatest Technologies
+
+   We evaluate technologies in the light of mission needs. We find these
+   companies by engaging with the tech community, reviewing investments of
+   Venture Capital firms, and tracking the R&D of the major IT Tech
+   Titans. We appreciate community help as well. If you have or know of a
+   company we should evaluate please submit it via our [119]Submission
+   Form.
+
+Featured Downloads
+
+     * [120]Examining New Mission-Enabling Design Patterns Made Possible
+       By The Cloudera-Intel Partnership (7650 downloads)
+     * [121]Reference Poster: Do You Know Big Data? (6414 downloads)
+     * [122]Automating Removal Of Advanced Threats (3839 downloads)
+     * [123]Detect and Analyze Changes Through Space and Time with
+       Recorded Future (3494 downloads)
+     * [124]What You Need To Know About Hadoop (3442 downloads)
+     * [125]Big Data Blueprints (3411 downloads)
+     * [126]Federal Strategies for the Startup CEO (3374 downloads)
+     * [127]Evaluating Big Data Analytical Tools For Government Use (3312
+       downloads)
+     * [128]Model-Enabled Analysis: Factors for Evaluation (3113
+       downloads)
+     * [129]Integrating Web Intelligence Into Cyber Security Operations
+       (2712 downloads)
+
+   CTOvision is published by the research arm at [130]Cognitio Corp
+
+                   [131]Free Newsletters and Tech Reports
+
+                    [132]CTOVision Pro: Exclusive Content
+
+                               [133]CTO Events
+
+                            [134]CTOs on Facebook
+
+                            [135]CTOs on LinkedIn
+
+                          [136]CTOvision Mobile App
+
+   [137]Return to top of page
+
+   Copyright © 2016 CTOvision.com ·
+
+   Send to Email Address ____________________ Your Name
+   ____________________ Your Email Address ____________________
+   _________________________ loading Send Email [138]Cancel
+   Post was not sent - check your email addresses!
+   Email check failed, please try again
+   Sorry, your blog cannot share posts by email.
+
+References
+
+   Visible links
+   1. https://ctovision.com/feed/
+   2. https://ctovision.com/comments/feed/
+   3. https://ctovision.com/cto-events/?ical=1
+   4. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/feed/
+   5. https://ctovision.com/wp-json/oembed/1.0/embed?url=https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/
+   6. https://ctovision.com/wp-json/oembed/1.0/embed?url=https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/&format=xml
+   7. https://ctovision.com/about/
+   8. https://ctovision.com/about/users-guide-ctovision-pro/
+   9. https://ctovision.com/ctovision-pro/
+  10. https://ctovision.com/request-special-access-ctovision-pro/
+  11. https://ctovision.com/analyst-briefing-request/
+  12. https://ctovision.com/industry-update-submission/
+  13. https://ctovision.com/about/submit-tech-company/
+  14. https://ctovision.com/submit/
+  15. https://ctovision.com/about/disclaimers-and-bias/
+  16. https://ctovision.com/privacy-policy/
+  17. https://ctovision.com/other-web-properties/
+  18. https://ctovision.com/about/contributing-to-the-ctovision-com-blog/
+  19. https://ctovision.com/guidance-for-the-pr-professional/
+  20. https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/
+  21. https://ctovision.com/about/media-partnerships/
+  22. https://ctovision.com/contact-us/
+  23. https://ctovision.com/subscribe/
+  24. https://ctovision.com/subscribe/the-ctovision-com-monthly/
+  25. https://ctovision.com/newsletter-subscriptions/
+  26. https://ctovision.com/top-technology-news-ticker/
+  27. https://ctovision.com/federal-technology-news-ticker/
+  28. https://ctovision.com/pro
+  29. https://ctovision.com/about/enterprise-memberships-ctovision-pro/
+  30. https://ctovision.com/ctovision-pro-research-analysis/ask-the-cto/
+  31. http://cognitiocorp.com/
+  32. https://ctovision.com/
+  33. https://ctovision.com/hot-tech-topics/
+  34. https://ctovision.com/cloud-computing-2/
+  35. https://ctovision.com/artificial-intelligence-2/
+  36. https://ctovision.com/mobile-3/
+  37. https://ctovision.com/big-data-tech-2/
+  38. https://ctovision.com/robots-2/
+  39. https://ctovision.com/internet-of-things-2/
+  40. https://ctovision.com/cyber-initiative/
+  41. https://ctovision.com/ctovision-pro-research-analysis/ctovision-pro-research-library/
+  42. https://ctovision.com/ctovision-pro-research-analysis/special-technology-reviews/
+  43. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/
+  44. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-agriculture/
+  45. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-commerce/
+  46. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-defense/
+  47. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-treasury-treasury/
+  48. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-education/
+  49. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-energy/
+  50. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/health-human-services/
+  51. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-homeland-security-dhs/
+  52. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/national-aeronautics-space-administration-nasa/
+  53. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/national-intelligence-program/
+  54. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-justice-doj/
+  55. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-state/
+  56. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/social-security-administration-ssa/
+  57. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-transportation-dot/
+  58. https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-veterans-affairs-va/
+  59. https://ctovision.com/research-library/
+  60. https://ctovision.com/author/ryankamauff/
+  61. http://gigaom.com/2013/02/03/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms/
+  62. http://online.wsj.com/article/SB10001424127887324731304578189794161056954.html
+  63. http://gizmodo.com/5981370/this-text-string-crashes-almost-any-app-on-a-mac-running-mountain-lion
+  64. http://gigaom.com/2013/02/04/another-microsoft-partner-plays-the-field-hp-outs-a-329-chromebook/
+  65. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#abh_about
+  66. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#abh_posts
+  67. https://ctovision.com/author/ryankamauff/
+  68. http://ctovision.com/
+  69. http://analystone.com/
+  70. https://ctovision.com/author/ryankamauff/
+  71. https://ctovision.com/2013/10/hackers-go-phishing-obamacare-nsa-goes-record-tor-attacks/
+  72. https://ctovision.com/2013/10/powerbag-one-accessory-need/
+  73. https://ctovision.com/2013/10/amazon-knock-one-park-kindle-fire-hdx/
+  74. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=linkedin
+  75. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=facebook
+  76. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=twitter
+  77. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/
+  78. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=pinterest
+  79. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=google-plus-1
+  80. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#print
+  81. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=tumblr
+  82. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=reddit
+  83. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=email
+  84. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=pocket
+  85. https://ctovision.com/cloud-computing-2/
+  86. https://ctovision.com/cto/
+  87. https://ctovision.com/tag/chromebook/
+  88. https://ctovision.com/tag/google/
+  89. https://ctovision.com/tag/hewlett-packard/
+  90. https://ctovision.com/tag/microsoft/
+  91. https://ctovision.com/tag/samsung/
+  92. https://ctovision.com/tag/super-bowl/
+  93. http://ctovision.com/
+  94. http://analystone.com/
+  95. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#respond
+  96. https://jetpack.wordpress.com/jetpack-comment/?blogid=21495280&postid=23247&comment_registration=0&require_name_email=0&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=blank&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%s&color_scheme=light&lang=en-US&jetpack_version=4.0.2&sig=6cff9ff441ae8ff6efefe6196159f42c33660fad#parent=https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/
+  97. https://ctovision.com/about/ctovision-membership-options/
+  98. https://ctovision.com/wp-login.php?action=lostpassword
+  99. http://www.cognitiocorp.com/
+ 100. https://www.ctovision.com/cto-events
+ 101. https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/
+ 102. https://ctovision.com/newsletter-subscriptions/
+ 103. https://ctovision.com/2016/04/big-data-getting-bigger/
+ 104. https://ctovision.com/2016/04/big-data-getting-bigger/
+ 105. https://ctovision.com/2015/12/the-complete-list-of-truly-useful-artificial-intelligence-tools-you-can-use-today/
+ 106. https://ctovision.com/2015/12/the-complete-list-of-truly-useful-artificial-intelligence-tools-you-can-use-today/
+ 107. https://ctovision.com/2016/04/best-practices-no-longer-best-practices/
+ 108. https://ctovision.com/2016/04/best-practices-no-longer-best-practices/
+ 109. https://ctovision.com/2016/04/rbacs-not-wall-role-based-access-control-creates-automation-opportunities/
+ 110. https://ctovision.com/2016/04/rbacs-not-wall-role-based-access-control-creates-automation-opportunities/
+ 111. https://ctovision.com/2012/12/anti-access-area-denial-a2ad-in-military-domains-and-in-cyberspace/
+ 112. https://ctovision.com/2012/12/anti-access-area-denial-a2ad-in-military-domains-and-in-cyberspace/
+ 113. https://ctovision.com/2015/07/greatest-danger-infrastructure-might-physical/
+ 114. https://ctovision.com/2015/07/greatest-danger-infrastructure-might-physical/
+ 115. https://ctovision.com/2016/04/protecting-data-quantum-technology/
+ 116. https://ctovision.com/2016/04/protecting-data-quantum-technology/
+ 117. https://ctovision.com/ctovision-pro/
+ 118. https://ctovision.com/ctovision-pro/
+ 119. https://ctovision.com/submit-tech-company/
+ 120. https://ctovision.com/download/examining-new-mission-enabling-design-patterns-made-possible-by-the-cloudera-intel-partnership/
+ 121. https://ctovision.com/download/know-big-data/
+ 122. https://ctovision.com/download/automating-removal-advanced-threats/
+ 123. https://ctovision.com/download/detect-analyze-changes-space-time-recorded-future/
+ 124. https://ctovision.com/download/need-know-hadoop/
+ 125. https://ctovision.com/download/big-data-blueprints/
+ 126. https://ctovision.com/download/federal-strategies-startup-ceo/
+ 127. https://ctovision.com/download/evaluating-big-data-analytical-tools-government-use/
+ 128. https://ctovision.com/download/model-enabled-analysis-factors-evaluation/
+ 129. https://ctovision.com/download/integrating-web-intelligence-cyber-security-operations/
+ 130. https://cognitiocorp.com/
+ 131. https://ctovision.com/newsletter-subscriptions/
+ 132. https://ctovision.com/pro/
+ 133. https://ctovision.com/cto-events/
+ 134. http://www.facebook.com/pages/CTOvisioncom/252581947038
+ 135. http://www.linkedin.com/groups?gid=4347141
+ 136. https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/
+ 137. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#wrap
+ 138. https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#cancel
+
+   Hidden links:
+ 140. https://ctovision.com/author/ryankamauff/
+ 141. https://ctovision.com/author/ryankamauff/

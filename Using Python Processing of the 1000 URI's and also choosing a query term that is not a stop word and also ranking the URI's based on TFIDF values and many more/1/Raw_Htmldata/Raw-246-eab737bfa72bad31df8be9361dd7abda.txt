@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html class="ie ie6 no-js" lang="en"><![endif]-->
+<!--[if IE 7]><html class="ie ie7 no-js" lang="en"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 no-js" lang="en"><![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html class="no-js" lang="en">
+<head>
+	<!-- WordPress header -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+	
+	<!-- Startuply favicon -->
+		<link rel="shortcut icon" href="http://www.inthekloud.com/wp-content/uploads/2016/01/Emblem.png">
+
+	<!-- Wordpress head functions -->
+	<title>Track cell service along your subway route with this new app &#8211; InTheKloud</title>
+<link rel="alternate" type="application/rss+xml" title="InTheKloud &raquo; Feed" href="http://www.inthekloud.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="InTheKloud &raquo; Comments Feed" href="http://www.inthekloud.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="InTheKloud &raquo; Track cell service along your subway route with this new app Comments Feed" href="http://www.inthekloud.com/ms/track-cell-service-along-your-subway-route-with-this-new-app/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.inthekloud.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='startuply_lineicons_1-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/fonts/LineIcons/font-lineicons.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.inthekloud.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpclef-main-css'  href='http://www.inthekloud.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='http://www.inthekloud.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.inthekloud.com/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/css/lib/bootstrap.min.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_animate-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/css/animate.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_prettyphoto-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/css/lib/prettyPhoto.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='revolution-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/css/revolution-styles.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_custom-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/style.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_theme_option-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/cache/theme-option.css?ver=1452688564' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_ptsans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_lato-css'  href='http://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic&#038;ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_fontawesome-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/fonts/FontAwesome/font-awesome.min.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='startuply_lineicons-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/fonts/LineIcons/font-lineicons.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='vsc-animation-style-css'  href='http://www.inthekloud.com/wp-content/themes/startuply/engine/extend/animations/css/vivaco-animations.css?ver=4.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.inthekloud.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/engine/extend/animations/js/vivaco-animations.js?ver=4.4'></script>
+<link rel='https://api.w.org/' href='http://www.inthekloud.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.inthekloud.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.inthekloud.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tommy Hilfiger&#8217;s next fashion show to offer &#8216;fast lane&#8217; for Apple Watch wearers' href='http://www.inthekloud.com/apple/tommy-hilfigers-next-fashion-show-to-offer-fast-lane-for-apple-watch-wearers/' />
+<link rel='next' title='Pagaré Smartstrap Plans to Bring Contactless Payments to Pebble Time' href='http://www.inthekloud.com/apple/pagare-smartstrap-plans-to-bring-contactless-payments-to-pebble-time/' />
+<meta name="generator" content="WordPress 4.4" />
+<link rel="canonical" href="http://www.inthekloud.com/ms/track-cell-service-along-your-subway-route-with-this-new-app/" />
+<link rel='shortlink' href='http://www.inthekloud.com/?p=10332' />
+<link rel="alternate" type="application/json+oembed" href="http://www.inthekloud.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inthekloud.com%2Fms%2Ftrack-cell-service-along-your-subway-route-with-this-new-app%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.inthekloud.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.inthekloud.com%2Fms%2Ftrack-cell-service-along-your-subway-route-with-this-new-app%2F&#038;format=xml" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '9c4d07910e';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.inthekloud.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.inthekloud.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.inthekloud.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><link rel="icon" href="http://www.inthekloud.com/wp-content/uploads/2015/12/cropped-HugeEmblem-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.inthekloud.com/wp-content/uploads/2015/12/cropped-HugeEmblem-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.inthekloud.com/wp-content/uploads/2015/12/cropped-HugeEmblem-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.inthekloud.com/wp-content/uploads/2015/12/cropped-HugeEmblem-270x270.png" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body id="landing-page" class="single single-post postid-10332 single-format-standard wpb-js-composer js-comp-ver-4.7.4 vc_responsive">
+
+	<div id="mask">
+
+			<div class="preloader"><div class="spin base_clr_brd"><div class="clip left"><div class="circle"></div></div><div class="gap"><div class="circle"></div></div><div class="clip right"><div class="circle"></div></div></div></div>
+		
+	</div>
+
+	<header>
+		<nav class="navigation navigation-header inner-menu "  role="navigation">
+			<div class="container">
+				<div class="navigation-brand">
+					<div class="brand-logo">
+						<a href="http://www.inthekloud.com" class="logo"><img src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_med_white_space.png" width="609" height="169" alt="logo" /><img src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_med_white_space.png" width="304" height="84" alt="logo" class="retina" /><img src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_med_space.png" width="609" height="169" alt="logo" class="sticky-logo"/><img src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_med_space.png" width="304" height="84" alt="logo" class="sticky-logo retina" /></a>
+						<span class="sr-only">InTheKloud</span>
+					</div>
+					<button class="navigation-toggle visible-xs" type="button" data-target=".navbar-collapse">
+						<span class="icon-bar base_clr_bg"></span>
+						<span class="icon-bar base_clr_bg"></span>
+						<span class="icon-bar base_clr_bg"></span>
+					</button>
+				</div>
+				<div class="navbar-collapse collapsed">
+					<div class="menu-wrapper">
+						<!-- Left menu -->
+						<div class="menu-main-menu-container"><ul id="menu-main-menu" class="navigation-bar navigation-bar-left"><li id="menu-item-3140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3140"><a title="HOME" href="/">HOME</a></li><li id="menu-item-3134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3134"><a title="ABOUT US" href="/#about">ABOUT US</a></li><li id="menu-item-3135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3135"><a title="OUR SERVICES" href="/#features">OUR SERVICES</a></li><li id="menu-item-3139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3139"><a title="DELIVERED VALUE" href="/#facts">DELIVERED VALUE</a></li><li id="menu-item-3136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3136"><a title="CUSTOMERS" href="/#clients">CUSTOMERS</a></li><li id="menu-item-3238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3238"><a title="CONTACT US" href="http://www.inthekloud.com/contactus/">CONTACT US</a></li><li id="menu-item-3188" class="external menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3188"><a title="BLOG" href="http://www.inthekloud.com/blog/">BLOG</a></li></ul></div>						<!-- Right menu -->
+						<div class="right-menu-wrap">
+
+						
+							
+												</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+<div id="main-content">
+	<div class="container inner">
+		<div class="col-sm-8 blogs">
+			<article id="post-10332" class="post-10332 post type-post status-publish format-standard hentry category-ms tag-ifttt tag-microsoft tag-the-verge-all-posts" >
+
+				<header class="entry-header">
+					<h2 class="entry-title">Track cell service along your subway route with this new app </h2>
+				</header><!-- .entry-header -->
+
+				<div class="post-meta">
+					<span class="post-date base_clr_bg sticky-post-date">
+												<span class="day">8</span>
+						<span class="month">Feb</span>
+						<span class="year">2016</span>
+					</span>
+					<span class="post-author"><i class="fa fa-user"></i> InTheKloud</span>
+					<span class="post-cat"><i class="fa fa-folder-o"></i><a href="http://www.inthekloud.com/category/ms/" rel="category tag">Microsoft</a></span>
+				</div>
+
+				<div class="entry-content">
+
+					
+					<p><img alt="" src="http://ift.tt/1Qncx7z" /></p>
+<p>&#8220;Being miserable and treating other people like dirt is every New Yorker&#8217;s God-given right,&#8221; fictional New York City Mayor Lenny Clotch famously said in 1989&#8217;s <i>Ghostbusters II</i>. So is complaining about every and anything, especially fancy new stuff like cell service in the subway. We&#8217;ve barely had it for more than a year, and already it&#8217;s the source of many complaints. It&#8217;s here for one station, gone the next, which leaves you with barely enough time to post that wicked rejoinder on Facebook.</p>
+<p>Along comes <a href="http://ift.tt/1XdoXEv">Subspotting</a>, a new app to help track Wi-Fi service and cell reception for the four major carriers — AT&amp;T, T-Mobile, Verizon, and Sprint — along your daily route. Say you&#8217;re traveling on the Q train from Astoria to Coney Island&#8230;.</p>
+<p>
+    <a href="http://ift.tt/1RiKM5a">Continue reading&hellip;</a>
+  </p>
+<p>from The Verge &#8211;  All Posts <a href="http://ift.tt/1RiKM5a" class="autohyperlink" title="http://ift.tt/1RiKM5a" target="_blank">ift.tt/1RiKM5a</a></p>
+
+				</div>
+
+				
+				<div class="tags-box">
+					<i class="icon icon-shopping-08"></i> <span class="tags-links"><a href="http://www.inthekloud.com/tag/ifttt/" rel="tag">IFTTT</a> <a href="http://www.inthekloud.com/tag/microsoft/" rel="tag">Microsoft</a> <a href="http://www.inthekloud.com/tag/the-verge-all-posts/" rel="tag">The Verge - All Posts</a></span>				</div><!--end tags-->
+
+				<div class="entry-navigation aligncenter">
+					<div class="prev-post"><i class="icon icon-arrows-03"></i><strong><a href="http://www.inthekloud.com/apple/tommy-hilfigers-next-fashion-show-to-offer-fast-lane-for-apple-watch-wearers/" rel="prev">Tommy Hilfiger's next fas...</a></strong></div>						<div class="share-box">
+							<p class="title">
+								<a href="javascript:;" class="share facebook img-circle" onClick="FacebookShare()"><i class="fa fa-facebook"></i></a>
+								<a href="javascript:;" class="share twitter img-circle" onClick="TwitterShare()"><i class="fa fa-twitter"></i></a>
+								<a href="javascript:;" class="share google img-circle" onClick="GoogleShare()"><i class="fa fa-google-plus"></i></a>
+								<a href="javascript:;" class="share linkedin img-circle" onClick="LinkedinShare()"><i class="fa fa-linkedin"></i></a>
+								<a href="javascript:;" class="share pinterest img-circle" onClick="PinterestShare()"><i class="fa fa-pinterest"></i></a>
+							</p>
+						</div>
+					<div class="next-post"><strong><a href="http://www.inthekloud.com/apple/pagare-smartstrap-plans-to-bring-contactless-payments-to-pebble-time/" rel="next">Pagaré Smartstrap Plans ...</a></strong><i class="icon icon-arrows-04"></i></div>				</div><!--end navigation & social sharing-->
+
+				<div class="author-box">
+					<div class="avatar-wrap"><span class="avatar rounded"><img alt='' src='http://2.gravatar.com/avatar/57267f039da00c7452d3943d89623bf7?s=100&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/57267f039da00c7452d3943d89623bf7?s=200&amp;d=mm&amp;r=g 2x' class='avatar img-circle avatar-100 photo' height='100' width='100' /></span></div>
+						<span class="author name"><strong>ITK</strong></span>
+							<p>
+															</p>
+				</div><!--end author bio-->
+
+				<h4 class="comments-count">This entry has <span class="comments-count base_clr_txt">0</span> replies</h4>
+				
+<!-- You can start editing here. -->
+
+	<div id="comments">
+			<p>Comments open</p>
+
+	 	</div>
+
+
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"><span class="base_clr_txt title-reply">Leave</span> a reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/ms/track-cell-service-along-your-subway-route-with-this-new-app/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://www.inthekloud.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<div class="col-md-12"><div class="comment-form-comment"><fieldset><textarea id="comment" placeholder="Your reply *" name="comment" cols="45" rows="8" aria-required="true"></textarea></fieldset></div></div><p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <span>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </span></p>
+<div class="col-md-4"><div class="comment-form-author"><fieldset><input id="author" name="author" type="text" placeholder="Name *" value="" aria-required='true' /></fieldset></div></div>
+<div class="col-md-4"><div class="comment-form-email"><fieldset><input id="email" name="email" type="text" value="" placeholder="Email *"  aria-required='true' /></fieldset></div></div>
+<div class="col-md-4"><div class="comment-form-url"><fieldset><input id="url" name="url" type="text" value="" placeholder="Website"  /></fieldset></div></div>
+<p class="form-submit"><input name="submit" type="submit" id="submit_my_comment" class="submit" value="submit" /> <input type='hidden' name='comment_post_ID' value='10332' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+						<!--end comments-->
+
+			</article>
+
+			</div><!-- end col-sm-8 -->
+
+		<!-- right side [sidebar] -->
+<div id="sidebar" class="sidebar col-md-4 col-xs-12">
+	<div id="sidebar-content">
+
+			<div id="masonry-sidebar" class="sidebar-inner-content">
+				
+					
+					<aside id="search-2" class="widget widget_search"><div class="widgetBody clearfix"><div class="search-form">
+	<form class="search-form" method="get" action="http://www.inthekloud.com/">
+		<input type="text" placeholder="Search..." id="s" name="s" value="" />
+		<button type="submit" value="Search"><i class="fa fa-search"></i></button>
+	</form>
+</div>
+</div></aside><aside id="archives-2" class="widget widget_archive"><div class="widgetBody clearfix"><header class="widgetHeader"><h3>Archives</h3></header>		<ul>
+			<li><a href='http://www.inthekloud.com/2016/02/'>February 2016</a></li>
+	<li><a href='http://www.inthekloud.com/2016/01/'>January 2016</a></li>
+	<li><a href='http://www.inthekloud.com/2015/12/'>December 2015</a></li>
+		</ul>
+		</div></aside><aside id="categories-2" class="widget widget_categories"><div class="widgetBody clearfix"><header class="widgetHeader"><h3>Categories</h3></header>		<ul>
+	<li class="cat-item cat-item-66"><a href="http://www.inthekloud.com/category/apple/" >Apple</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://www.inthekloud.com/category/biz/" title="Business Related IT News from around the world">Business</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.inthekloud.com/category/design-2/" title="Posts about creativity and ideas. Latest new trends and solutions. Famous artists and their works.">Design</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://www.inthekloud.com/category/ms/" >Microsoft</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://www.inthekloud.com/category/reviews/" >Reviews</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.inthekloud.com/category/tech-on-the-fly/" >Tech On The Fly</a>
+</li>
+		</ul>
+</div></aside><aside id="meta-2" class="widget widget_meta"><div class="widgetBody clearfix"><header class="widgetHeader"><h3>Meta</h3></header>			<ul>
+						<li><a href="http://www.inthekloud.com/wp-login.php">Log in</a></li>
+			<li><a href="http://www.inthekloud.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.inthekloud.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div></aside>
+
+
+			</div>
+		<!-- end sidebar inner -->
+	</div>
+	<!-- end sidebar content -->
+</div><!-- end sidebar -->
+	</div><!--end container-inner-->
+
+</div><!--end main-content-->
+
+<footer id="footer" class="footer light">
+		<div class="container">
+
+			
+			<div class="footer-content row">
+
+			<div class="col-sm-4"><aside id="about_sply_widget-77" class="widget widget_about"><div class="widgetBody clearfix">
+			<div class="logo-wrapper">
+				<div class="brand-logo">
+					<a href="/" class="logo">
+						<img src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_small_white.png" alt="">						<img class="retina" src="http://www.inthekloud.com/wp-content/uploads/2015/12/logo_small_white.png" alt="">					</a>
+				</div>
+			</div>
+			<p>
+				InTheKloud - We innovate technical solutions for you to innovate within your business. 			<br>
+				<strong></strong>
+			</p>
+
+		</div></aside></div><div class="col-sm-4"><aside id="socials_sply_widget-77" class="widget widget_socials"><div class="widgetBody clearfix"><div class="footer-title"><div class="footer-title">Social Networks</div></div>
+		<ul class="list-inline socials">
+									<li><a href="https://www.facebook.com/inthekloud/" target="_blank"><span class="icon icon-socialmedia-08"></span></a></li>
+										<li><a href="http://twitter.com/inthekloud" target="_blank"><span class="icon icon-socialmedia-07"></span></a></li>
+										<li><a href="https://www.linkedin.com/company/inthekloud" target="_blank"><span class="icon icon-socialmedia-05"></span></a></li>
+										<li><a href="https://www.youtube.com/channel/UCmzNymgogbAFSiuUdxTaudA" target="_blank"><span class="icon icon-socialmedia-29"></span></a></li>
+						</ul>
+		</div></aside></div><div class="col-sm-4"><aside id="contacts_sply_widget-77" class="widget widget_contacts"><div class="widgetBody clearfix"><div class="footer-title"><div class="footer-title">Our Contacts</div></div>		<ul class="list-unstyled">
+						<li>
+				<span class="icon icon-chat-messages-14"></span>
+				<a href="mailto:Sales@InTheKloud.com">Sales@InTheKloud.com</a>
+			</li>
+									<li>
+				<span class="icon icon-seo-icons-34"></span>
+				2nd Floor 9Z4 Sayed Dawoud st.,<br/> Laselki, Maadi<br/>Cairo, Egypt 			</li>
+									<li>
+				<span class="icon icon-seo-icons-17"></span>
+				+0201000888223			</li>
+					</ul>
+		</div></aside></div>
+			</div>
+
+			
+			<div class="copyright">InTheKloud.com &copy; All rights reserved.</div>
+        </div>
+
+
+	</footer>
+
+	<div class="back-to-top"><a href="#"><i class="fa fa-angle-up fa-3x"></i></a></div>
+
+	<script type='text/javascript' src='http://www.inthekloud.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.inthekloud.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-includes/js/comment-reply.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/bootstrap.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/jquery.nav.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/social-share.js?ver=4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var locale = {"templateUrl":"http:\/\/www.inthekloud.com\/wp-content\/themes\/startuply"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/custom-mailing-list.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/jquery.parallax.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/custom-parallax.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/jquery.isotope.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vals = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/custom-isotope-portfolio.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/headhesive.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeOptions = {"stickyMenu":"all_pages","menuPosition":"600","mobileMainMenuMod":"","0":"","mobileMenuMod":"","smoothScroll":"","smoothScrollSpeed":"800","1":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/custom.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-includes/js/wp-embed.min.js?ver=4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ga = {"ga_id":"UA-71882224-1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.inthekloud.com/wp-content/themes/startuply/js/lib/google-analytics.js?ver=1.0'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: www.inthekloud.com @ 2016-02-16 05:16:33 by W3 Total Cache -->

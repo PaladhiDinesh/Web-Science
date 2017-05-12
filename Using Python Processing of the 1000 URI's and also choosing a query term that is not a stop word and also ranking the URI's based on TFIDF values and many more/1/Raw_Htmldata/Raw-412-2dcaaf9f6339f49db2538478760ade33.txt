@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
+<meta name="author" content="">
+<link rel="icon" href="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/favicon.png">
+<title>Auxiliar / Cajero - Medio tiempo</title>
+<meta name="title" content="Auxiliar / Cajero - Medio tiempo"/>
+<meta name="description" content="Ejecutar los procesos operativos de cobro de mercaderia y servicios en la rienda, siguiendo los lineamientos establecidos para el registro y recepcion d ..."/>
+<meta property="og:title" content="Auxiliar / Cajero - Medio tiempo"/>
+<meta property="og:description" content="Ejecutar los procesos operativos de cobro de mercaderia y servicios en la rienda, siguiendo los lineamientos establecidos para el registro y recepcion d ..."/>
+<meta property="og:site_name" content="Bolsatrabajo"/>
+<meta name="twitter:title" content="Auxiliar / Cajero - Medio tiempo"/>
+<meta name="twitter:description" content="Ejecutar los procesos operativos de cobro de mercaderia y servicios en la rienda, siguiendo los lineamientos establecidos para el registro y recepcion d ..."/>
+<meta name="twitter:domain" content="Bolsatrabajo"/>
+<meta name="twitter:card" content="summary"/> <link rel="shortcut icon" type="image/x-icon" href="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/favicon.png"/>
+<link href='//fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'/>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'/>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style><style id='wsl-widget-css' media='all'>.wp-social-login-provider-list{padding:10px}.wp-social-login-provider-list a{text-decoration:none}.wp-social-login-provider-list img{border:0}</style><link rel='stylesheet' id='font-awesome-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/font-awesome/css/A.font-awesome.min.css,qver=4.4.1.pagespeed.cf.fUv_37LnGW.css' type='text/css' media='all'/><link rel='stylesheet' id='bootstrap-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.bootstrap.min.css,qver=4.4.1.pagespeed.cf.7qDaAYp5mZ.css' type='text/css' media='all'/><link rel='stylesheet' id='formsmain-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.formsmain.min.css,qver=4.4.1.pagespeed.cf.ShIaEwYvqO.css' type='text/css' media='all'/><link rel='stylesheet' id='fancybox-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.jquery.fancybox.css,qver=4.4.1.pagespeed.cf.XJATvMrMIH.css' type='text/css' media='all'/><link rel='stylesheet' id='readyclass-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.readyclass.css,qver=4.4.1.pagespeed.cf.RkW_RTOrPt.css' type='text/css' media='all'/><link rel='stylesheet' id='chosen-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/tags/A.chosen.css,qver=4.4.1.pagespeed.cf.yZDTQb6Lti.css' type='text/css' media='all'/><link rel='stylesheet' id='jquery-ui-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/A.jquery-ui.css,qver=4.4.1.pagespeed.cf.fw0WDPxj9s.css' type='text/css' media='all'/><style id='owl.carousel-css' media='all'>.owl-carousel .owl-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel{display:none;position:relative;width:100%;-ms-touch-action:pan-y}.owl-carousel .owl-wrapper{display:none;position:relative;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-wrapper-outer{overflow:hidden;position:relative;width:100%}.owl-carousel .owl-wrapper-outer.autoHeight{-webkit-transition:height 500ms ease-in-out;-moz-transition:height 500ms ease-in-out;-ms-transition:height 500ms ease-in-out;-o-transition:height 500ms ease-in-out;transition:height 500ms ease-in-out}.owl-carousel .owl-item{float:left}.owl-controls .owl-page,.owl-controls .owl-buttons div{cursor:pointer}.owl-controls{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}.grabbing{cursor:url(/wp-content/themes/jobportal/images/grabbing.png) 8 8 , move}.owl-carousel .owl-wrapper,.owl-carousel .owl-item{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}</style><link rel='stylesheet' id='jquery.mmenu.all-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/mmenu-master/css/A.jquery.mmenu.all.css,qver=4.4.1.pagespeed.cf.2OrKrQKnB_.css' type='text/css' media='all'/><link rel='stylesheet' id='jquery-autocomplete-ui-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.jquery-autocomplete-ui.css,qver=4.4.1.pagespeed.cf.GuzMwcqWPL.css' type='text/css' media='all'/><link rel='stylesheet' id='style-css-css' href='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/css/A.style.css,qver=4.4.1.pagespeed.cf.g8nUcdEvhO.css' type='text/css' media='all'/><style>button[readonly],input[readonly],select[readonly],textarea[readonly]{cursor:default;opacity:.5}</style><style>.adslot_bottom{display:none}@media (max-width:728px){.adslot_bottom{min-width:280px;max-width:1200px;min-height:250px;width:100%;height:100px;margin-top:-7px;margin-bottom:-25px}}</style><style>.adslot_above{min-width:250px;max-width:440px;width:100%;height:100px;margin-top:-20px}@media (max-width:728px){.adslot_above{min-width:250px;max-width:440px;min-height:115px;width:100%;margin-top:-20px}}</style><style>.adslot_below2{display:none}@media (min-width:728px){.adslot_below2{min-width:250px;max-width:1200px;width:100%;height:100px;margin-top:6px}}</style><style>.adslot_1{display:none}@media (max-width:728px){.adslot_1{min-width:250px;max-width:1200px;min-height:250px;width:100%;height:100%;margin-top:-16px}}</style><style>.adslot_side{display:none}@media (min-width:728px){.adslot_side{width:160px;height:600px}}</style><style type="text/css">.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style><style type="text/css">.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style><style type="text/css">.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style><script type="text/javascript">var ajaxurl='http://www.bolsatrabajo.sv/wp-admin/admin-ajax.php';</script>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.bolsatrabajo.sv\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<script type='text/javascript'>var siteVars={"tempPath":"http:\/\/www.bolsatrabajo.sv\/wp-content\/themes\/jobportal","ajaxURL":"http:\/\/www.bolsatrabajo.sv\/wp-admin\/admin-ajax.php","userloggedIn":"no","excudeId":null,"providerName":"Email","homeurl":"http:\/\/www.bolsatrabajo.sv","indusArray2":{"59":"RRHH \/ Personal","51":"Salud \/ Medicina","60":"Telecomunicacionas","63":"Venta"},"categoryArray2":{"77":"Marketing \/ Ventas","73":"T\u00e9cnico"}};</script>
+<script type='text/javascript' src='http://www.bolsatrabajo.sv/wp-includes/js/jquery/jquery.js,qver=1.11.3.pagespeed.jm.zixJPNMRNN.js'></script>
+<script type='text/javascript' src='http://www.bolsatrabajo.sv/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.2.1.pagespeed.jm.mhpNjdU8Wl.js'></script>
+<link rel='https://api.w.org/' href='http://www.bolsatrabajo.sv/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bolsatrabajo.sv/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bolsatrabajo.sv/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Cliente incógnito en San Salvador' href='http://www.bolsatrabajo.sv/job/cliente-incognito-en-san-salvador/'/>
+<link rel='next' title='Cajero &#8211; Medio tiempo' href='http://www.bolsatrabajo.sv/job/cajero-medio-tiempo/'/>
+<meta name="generator" content="WordPress 4.4.1"/>
+<link rel="canonical" href="http://www.bolsatrabajo.sv/job/auxiliar-cajero-medio-tiempo/"/>
+<link rel='shortlink' href='http://www.bolsatrabajo.sv/?p=45137'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.bolsatrabajo.sv/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.bolsatrabajo.sv/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F&#038;format=xml"/>
+<script type="text/javascript">var $postVar='';var $userRegVar='';jQuery(function(){$postVar='null';$postVar=JSON.parse($postVar);console.log($postVar);$userRegVar='null';$userRegVar=JSON.parse($userRegVar);if($userRegVar instanceof Array&&typeof $userRegVar!=='undefined'){jQuery(document).bind("gform_post_render",function(event,form){if(typeof $userRegVar[form]!=='undefined'){var action_field=jQuery("#gform_"+form).find("#input_"+form+"_"+$userRegVar[form]);if(action_field.length>0&&action_field.val()!=''&&!action_field.parents("li.gfield").hasClass("gfield_error")){action_field.attr("readonly",true).addClass('field-disabled');console.log("field id is : "+$userRegVar[form]);}}});}});</script>
+<script>var job_tags=[{"label":"Asistente Administrativa","id":91},{"label":"Asistente Administrativo","id":92},{"label":"Atenci\u00f3n Al cliente","id":89},{"label":"Cajero","id":90},{"label":"Call Center","id":95},{"label":"Content Writer","id":36},{"label":"Customer Service Adviser","id":38},{"label":"Customer Service Representative","id":41},{"label":"Data Entry Operator","id":37},{"label":"HR","id":42},{"label":"Office Coordinator","id":35},{"label":"Public Relations Clerk","id":40},{"label":"Recepcionista","id":93},{"label":"Secretaria","id":97},{"label":"Telecommunications","id":39},{"label":"Telemarketing","id":94},{"label":"Vendedor","id":96}];var jobsLoc=[{"label":"Ahuachap\u00e1n","id":336},{"label":"Ahuachap\u00e1n, Ahuachap\u00e1n","id":337},{"label":"Apopa, San Salvador","id":361},{"label":"Atiquizaya, Ahuachap\u00e1n","id":338},{"label":"Caba\u00f1as","id":339},{"label":"Chalatenango","id":341},{"label":"Chalatenango, Chalatenango","id":342},{"label":"Chalchuapa, Santa Ana","id":357},{"label":"Ciudad Arce, La Libertad","id":349},{"label":"Cojutepeque, Cuscatl\u00e1n","id":344},{"label":"Col\u00f3n, La Libertad","id":347},{"label":"Cuscatancingo, San Salvador","id":362},{"label":"Cuscatl\u00e1n","id":343},{"label":"Delgado, San Salvador","id":363},{"label":"Ilobasco, Caba\u00f1as","id":340},{"label":"Ilopango, San Salvador","id":364},{"label":"Izalco, Sonsonate","id":377},{"label":"Jiquilisco, Usulut\u00e1n","id":381},{"label":"La Libertad","id":345},{"label":"La Paz","id":350},{"label":"La Uni\u00f3n","id":352},{"label":"La Uni\u00f3n, La Uni\u00f3n","id":353},{"label":"Mejicanos, San Salvador","id":365},{"label":"Metap\u00e1n, Santa Ana","id":359},{"label":"Moraz\u00e1n","id":354},{"label":"Nahuizalco, Sonsonate","id":378},{"label":"Nueva San Salvador, La Libertad","id":346},{"label":"Opico, La Libertad","id":348},{"label":"San Francisco, Moraz\u00e1n","id":355},{"label":"San Marcos, San Salvador","id":366},{"label":"San Mart\u00edn, San Salvador","id":367},{"label":"San Miguel","id":371},{"label":"San Miguel, San Miguel","id":372},{"label":"San Salvador","id":360},{"label":"San Salvador, San Salvador","id":368},{"label":"San Vicente","id":373},{"label":"San Vicente, San Vicente","id":374},{"label":"Santa Ana","id":356},{"label":"Santa Ana, Santa Ana","id":358},{"label":"Sonsonate","id":375},{"label":"Sonsonate, Sonsonate","id":376},{"label":"Soyapango, San Salvador","id":369},{"label":"Tonacatepeque, San Salvador","id":370},{"label":"Usulut\u00e1n","id":379},{"label":"Usulut\u00e1n, Usulut\u00e1n","id":380},{"label":"Zacatecoluca, La Paz","id":351}];</script>
+<!--[if lt IE 9]>
+            <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+          <![endif]-->
+</head>
+<body class="single single-job postid-45137 pageClass user_nonlogged_in safari iphone">
+<div id="page">
+<div class="wrapper">
+<div class="inner_wrapper">
+<header class="header_sec defaultHeader">
+<div class="topSection">
+<div class="topSectionInner">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3 logo_info">
+<div class="logo">
+<a href="http://www.bolsatrabajo.sv"><img src="http://www.bolsatrabajo.sv/wp-content/uploads/2015/10/bolsatrabojo-logo.png.pagespeed.ce.gaeIAhVTaA.png" alt="" title=""/></a>
+</div>
+<div class="topUserInfo">
+<span class="userIcon">
+<span class="jobAlert open_submenu">
+<span class="mobileHide" style="font-size:15px;">Menu&nbsp;</span>
+<i class="fa fa-reorder"></i>
+<ul style="display: none" class="sub-menu">
+<li><a class="fancybox" href="#loginPopup">Iniciar sesión</a></li>
+<li><a class="fancybox" href="#signupPopup">Enviar CV</a></li>
+<li><a class="fancybox" href="#regCompanyPopup">Enviar empleo</a></li>
+</ul>
+</span>
+</span>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-9 sideMenuInfo">
+<div class="searchSecL">
+<div class="searchTextDiv">
+<form method="GET" action="http://www.bolsatrabajo.sv/buscar-empleo/" class="searchForm">
+<div class="searchProText">
+<div class="searchInput1">
+<input type="text" placeholder="Buscar por puesto, empresa o ciudad" name="f" class="jobTagLabel"/>
+<input type="hidden" name="tagTermId" class="jobTagValue"/>
+<button type="submit" class="searchBtn"><i class="fa fa-search iconH"></i> </button>
+<div class="clear"></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="stripeBg"></div>
+</div>
+</header>
+<div class="mainContainer top_15">
+<div class="container">
+<div class="breadcrumbSec">
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<ul id="crumbs" class="breadcrumbs"><li><a href="http://www.bolsatrabajo.sv">Bolsatrabajo</a></li> <li><a href="http://www.bolsatrabajo.sv/categoria/atencion-al-cliente/">Atención al Cliente</a></li></ul> </div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-10">
+<div class="pageLeftArea">
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<div class="pageTitle">
+<div class="postName">
+Auxiliar / Cajero &#8211; Medio tiempo<span class="comp_name desktopView"> en Walmart El Salvador</span> </div>
+<div class="postDate">Hace 1 week </div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-4 col-sm-4 leftSec">
+<div class="sideBarL">
+<div class="job_details_featured_box withshadow">
+<div class="featured-company-logo"><a href="#"><img src="http://www.bolsatrabajo.sv/wp-content/uploads/2016/01/xwalmartlogocentr.jpg,qh=120.pagespeed.ic.1dMmBIWLOh.jpg"></a></div>
+<div class="featured-company-text"><a href="#">Walmart El Salvador (San Salvador)</a></div>
+<div class="similar-jobs desktopHide"><i class="downArrow">&darr;</i> Ver mas detalles abajo <i class="downArrow">&darr;</i></div>
+</div>
+<div class="subscribeSec withshadow mobileHide">
+<div class="secHeading">Recibir ofertas similares:</div>
+<form action="#" method="post" class="newsletter_form">
+<input type="hidden" name="n_category" value="" id="n_category"/>
+<input type="hidden" name="n_type" value="" id="n_type"/>
+<input type="hidden" name="n_keyword" value="['tiempo']" id="n_keyword"/>
+<input type="hidden" name="n_location" value="" id="n_location"/>
+<input type="hidden" name="n_company" value="" id="n_company"/>
+<input type="hidden" name="post_id" value="45137" id="post_id"/>
+<div class="formField"><input type="text" name="emailId" placeholder="Tu email" class="oEmailId" value=""/></div>
+<div class="loadGif_news"><img src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/images/formLoading.GIF.pagespeed.ce.sj4NgEiv-n.gif"/></div>
+<div class="success">¡Éxito!</div>
+<div class="already">Ya suscrito.</div>
+<div class="failure">Error... :(</div>
+<div class="formSubmit"><input type="submit" name="Submit" value="Enviar" class="newsletter_button"/></div>
+</form>
+<div class="bottomLine"></div> </div>
+<div class="ad_300 desktopHide">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_bottom" style="display:inline-block;" data-ad-client="ca-pub-8160391072102130" data-ad-region="test" data-ad-slot="7059600567"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-8 col-sm-8 rightSec">
+<div class="contentArea paddingBottom ">
+<div class="jobSec clearfix">
+<div class="row">
+<div class="col-xs-12 col-md-6 col-sm-6 ">
+<div class="jobInfoCol">
+<div class="totalJob2">Resumen de empleo</div>
+<div class="infogroup">
+<div class="label-left">Salario</div>
+<div class="info-right">$160/mes</div>
+</div><div class="infogroup">
+<div class="label-left">Industría</div>
+<div class="info-right"> Consumo Masivo</div>
+</div><div class="infogroup">
+<div class="label-left">Ubicación</div>
+<div class="info-right"> San Salvador</div>
+</div><div class="infogroup">
+<div class="label-left">Tipo</div>
+<div class="info-right">Medio tiempo</div>
+</div> </div>
+</div>
+<div class="col-xs-12 col-md-6 col-sm-6">
+<div class="jobInfoCol">
+<div class="totalJob2">Requerimientos</div>
+<div class="infogroup">
+<div class="label-left">Experiencía</div>
+<div class="info-right">Sin experiencia</div>
+</div><div class="infogroup">
+<div class="label-left">Educación</div>
+<div class="info-right"> Bachillerato</div>
+</div> <div class="infogroup">
+<div class="label-left">Edad, Sexo</div>
+<div class="info-right">
+18-40, Indiferente</div>
+</div>
+<div class="infogroup">
+<div class="label-left">Idiomas</div>
+<div class="info-right">Español</div>
+</div>
+<div class="infogroup">
+<div class="label-left">&nbsp;</div>
+<div class="info-right"><a href="#" onclick="clicky.goal('Similar jobs');" class="simJobsSingle"><span>Ver empleos similares</span> <i class="downArrow">&#8595; </i></a> </div>
+</div>
+</div>
+</div>
+</div>
+<hr class="greySepJob">
+<div class="job-description">
+<ul class="social-client-list">
+<li><a class="facebook-icon" target="_blank" href="https://www.facebook.com/sharer/sharer.php?&u=http://www.bolsatrabajo.sv/job/auxiliar-cajero-medio-tiempo/&display=popup&ref=plugin"></a></li>
+<li><a class="linkedin-icon" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.bolsatrabajo.sv/job/auxiliar-cajero-medio-tiempo/&title=Auxiliar / Cajero &#8211; Medio tiempo"></a></li>
+<li><a class="twitter-icon" target="_blank" href="http://www.twitter.com/share?url=http://www.bolsatrabajo.sv/job/auxiliar-cajero-medio-tiempo/&text=Check out this job posted on Bolstrabajo: Auxiliar / Cajero &#8211; Medio tiempo"></a></li>
+<li><a class="gplus-icon" target="_blank" href="https://plus.google.com/share?url=http://www.bolsatrabajo.sv/job/auxiliar-cajero-medio-tiempo/"></a></li>
+</ul>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_above" style="display:inline-block;" data-ad-client="ca-pub-8160391072102130" data-ad-region="test" data-ad-slot="6502916969"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+<div class="totalJob2">Descripción de empleo</div><p>Ejecutar los procesos operativos de cobro de mercaderia y servicios en la rienda, siguiendo los lineamientos establecidos para el registro y recepcion de cualquier medio de pago autorizado ( efectivo, tarjetas entre otros), con el objetivo de brindar un excelente servicio y atencion al cliente. Colaborar con otras funciones operativas, relacionadas con la presentacion de la tienda y actualizacion de los inventarios.</p>
+<div class="employment-date">Fecha de empleo &nbsp;&nbsp;&nbsp;<span>25 Mar 2016</span></div>
+<div class="postBottom">
+<div class="applybtn-large">
+<a class="fancybox applyBtnFirst" href="#registerPopup" onclick="clicky.goal('Apply (job)');" data-postid="45137">Solicitar empleo</a>
+</div> </div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_below2" style="display:inline-block;" data-ad-region="test" data-ad-client="ca-pub-8160391072102130" data-ad-slot="5327234964"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_1" style="display:block;" data-ad-region="test" data-ad-client="ca-pub-8160391072102130" data-ad-slot="6195775768"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+</div>
+</div>
+<div class="subscribeSec withshadow tabletHide desktopHide">
+<div class="secHeading">Recibir ofertas similares:</div>
+<form action="#" method="post" class="newsletter_form">
+<input type="hidden" name="n_category" value="" id="n_category"/>
+<input type="hidden" name="n_type" value="" id="n_type"/>
+<input type="hidden" name="n_keyword" value="['tiempo']" id="n_keyword"/>
+<input type="hidden" name="n_location" value="" id="n_location"/>
+<input type="hidden" name="n_company" value="" id="n_company"/>
+<input type="hidden" name="post_id" value="45137" id="post_id"/>
+<div class="formField"><input type="text" name="emailId" placeholder="Tu email" class="oEmailId" value=""/></div>
+<div class="loadGif_news"><img src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/images/formLoading.GIF.pagespeed.ce.sj4NgEiv-n.gif"/></div>
+<div class="success">¡Éxito!</div>
+<div class="already">Ya suscrito.</div>
+<div class="failure">Error... :(</div>
+<div class="formSubmit"><input type="submit" name="Submit" value="Enviar" class="newsletter_button"/></div>
+</form>
+<div class="bottomLine"></div> </div>
+<div class="contentArea similarJobSingle">
+<div class="jobSec clearfix">
+<div class="totalJob">Empleos similares</div>
+</div>
+<div class="jobGridSec">
+<div class="jobGridSecIn">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block;min-width:280px;max-width:1200px;min-height:126px;width:100%;height:100%" data-ad-region="test" data-ad-client="ca-pub-8160391072102130" data-ad-slot="9307316964"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+<div class="jobBlock clearfix 46907">
+<div class="companyImg"><a href="http://www.bolsatrabajo.sv/job/recepcionistas-cajeras/"> <img src="http://www.bolsatrabajo.sv/wp-content/uploads/2016/02/xhospitalmujerlogo.gif,qw=240.pagespeed.ic.LBus64dWbL.png" alt="" title=""/></a></div>
+<div class="jobContent">
+<div class="jobTitle"><a href="http://www.bolsatrabajo.sv/job/recepcionistas-cajeras/">Recepcionistas / Cajeras <span>, $300/mes</span></a></div>
+<div class="jobPostedOn">Hace 6 days </div>
+<div class="jobDesc"> San Salvador, +1 año, Tiempo completo</div>
+</div>
+</div>
+<div class="jobBlock clearfix 46099">
+<div class="companyImg"><a href="http://www.bolsatrabajo.sv/job/cajero-medio-tiempo/"> <img src="http://www.bolsatrabajo.sv/wp-content/uploads/2016/01/xwalmartlogocentr.jpg,qw=240.pagespeed.ic.1dMmBIWLOh.jpg" alt="" title=""/></a></div>
+<div class="jobContent">
+<div class="jobTitle"><a href="http://www.bolsatrabajo.sv/job/cajero-medio-tiempo/">Cajero &#8211; Medio tiempo <span>, $165/mes</span></a></div>
+<div class="jobPostedOn">Hace 1 week </div>
+<div class="jobDesc"> San Salvador, Sin experiencia, Tiempo completo</div>
+</div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block;min-width:280px;max-width:1200px;min-height:126px;width:100%;height:100%;" data-ad-client="ca-pub-8160391072102130" data-ad-region="test" data-ad-slot="9307316964"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<div class="btn_sec similarButton ">
+<div class="loadMore_btn " paged="2" data-posttype="job" data-haspost="yes">Más empleos similares <i class="downArrow">&darr;</i></div>
+<div class="no_prop_disp noProperties" style="display:none">No más empleos para cargar</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-2 mobileHide tabletHide">
+<div class="sideBarR">
+<div class="widget">
+<div class="">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_side" style="display:inline-block;" data-ad-client="ca-pub-8160391072102130" data-ad-region="test" data-ad-slot="4827707369"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">(function($){var status=0;var load_gif="<div class=\"load_gif lgiftop\" style=\"display: block;\"></div>";var paged="",total_page="",searchVal="",resultProp="",call="",sortVal,postTags,posttype,excudeId;$(function(){$("body").on("click",".loadMore_btn",function(e){jQuery('.loadMore_btn').hide();jQuery(".load_gif").show();var $this=jQuery(this);paged=jQuery(this).attr('paged');posttype=jQuery(this).attr('data-posttype');postTags=siteVars.postTags;excudeId=siteVars.excudeId;total_page=Number(15);if(paged<=total_page){jQuery('.jobGridSec').append(load_gif);ajaxLoad();}else{jQuery(".load_gif").hide();jQuery(".no_prop_disp").show();}e.preventDefault();})});function ajaxLoad(){resultProp='';jQuery.ajax({type:'POST',dataType:'json',url:siteVars.ajaxURL,data:{'action':'load_more','paged':paged,'posttype':posttype,'total_page':total_page,'postTags':postTags,'excudeId':excudeId},success:function(resultProp){jQuery(".lgiftop").remove();if(resultProp.paged==0){jQuery('.loadMore_btn').hide();jQuery(".no_prop_disp").show();}else{jQuery('.loadMore_btn').show();jQuery('.loadMore_btn').attr('paged',Number(resultProp.paged));}jQuery('.jobGridSecIn').append(resultProp.retHtml);}});}})(jQuery);</script>
+<script type="text/javascript">(function($){var load_gif="<div class=\"load_gif lgiftop\" style=\"display: block;\"></div>";var resultProp="",commentText,jobId,candidateId,companyId;$(function(){$("body").on("click",".tabApplyBtn",function(e){var load_gif="<div class=\"loadGif\" style=\"display: inline-block;\"></div>";var tabID=$(this).parents('.jobTabSec').find('.currentTabC').attr('id');if(tabID=='tabs-1'){commentText=$('textarea[name="apply_job_text"]').val();}jobId=jQuery(this).attr('data-postid');candidateId=jQuery(this).attr('data-candidateid');companyId=jQuery(this).attr('data-companyid');jQuery(this).parents('.job-description').find('.tabBtmButton').append(load_gif);ajaxApplyJob();e.preventDefault();})});function ajaxApplyJob(){resultProp='';jQuery.ajax({type:'POST',dataType:'json',url:siteVars.ajaxURL,data:{'action':'job_apply_action','jobId':jobId,'commentText':commentText,'candidateId':candidateId,'companyId':companyId,},success:function(resultProp){jQuery('.tabApplyBtn').parents('.job-description').find('.loadGif').remove();if(resultProp.status=='Success'){jQuery('.tabContent1').html(resultProp.successHtml);jQuery('.tabBtmButton').html(resultProp.BtnHtml);jQuery('.topBarNote').html(resultProp.successMsg).fadeIn(500);setTimeout(function(){jQuery('.topBarNote').fadeOut(500);},3000);setTimeout(function(){jQuery('.topBarNote').empty();},4000);}else{}}});}})(jQuery);</script></div>
+<footer class="footer">
+<div class="inner_footer">
+<div class="inner_footerB">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-5 col-md-4 footerL">
+<div class="copyright">&copy; 2015, Bolsatrabajo. All rights are reserved. </div>
+</div>
+<div class="col-xs-12 col-sm-7 col-md-8 footerR">
+<nav class="footer_menu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="http://www.bolsatrabajo.sv/ofertas-empleo/">Ofertas de empleo</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.bolsatrabajo.sv/contacto/">Contacto</a></li>
+</ul></nav> <div class="footerRytText">
+<a href="#regCompanyPopup" class="fancybox com_reg">Por empresas</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="stripeBg"></div>
+</div>
+</footer>
+</div>
+</div>
+<div id="signupPopup" style="width:100%;display: none;">
+<div class="popupTopHead">
+<div class="heading">Registrarse como candidato</div>
+<div class="clear"></div>
+</div>
+<div class="popupContent">
+<div class="popupContentIn">
+<div class="socialH" style="margin-bottom:5px;">Opciones de registro:</div>
+<form action="http://www.bolsatrabajo.sv/register/" method="POST" name="registerEmail">
+<input type="hidden" name="providerName" value="Email">
+</form>
+<a href="javascript:void(0)" class="wp-social-login-provider emailProvider" data-providername="Email">
+<span>
+Enviar con email
+</span>
+</a>
+<div class="wp-social-login-widget">
+<div class="wp-social-login-connect-with"></div>
+<div class="wp-social-login-provider-list">
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Facebook&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Facebook" class="wp-social-login-provider wp-social-login-provider-facebook">
+<span>
+<i class="fa fa-facebook"></i> Enviar con Facebook </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Twitter&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Twitter" class="wp-social-login-provider wp-social-login-provider-twitter">
+<span>
+<i class="fa fa-twitter"></i> Enviar con Twitter </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=LinkedIn&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="LinkedIn" class="wp-social-login-provider wp-social-login-provider-linkedin">
+<span>
+<i class="fa fa-linkedin"></i> Enviar con LinkedIn </span>
+</a>
+</div>
+<div class="wp-social-login-widget-clearing"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="registerPopup" style="width:100%;display: none;">
+<div class="popupTopHead">
+<div class="headingLink" style="width:135px;margin-top:20px;"><a href="#loginPopup" class="fancybox">Ya usas Bolsatrabajo?</a></div>
+<div class="heading">Enviar CV</div>
+<div class="clear"></div>
+</div>
+<div class="popupContent">
+<div class="popupContentIn">
+<div class="socialH" style="margin-bottom:5px;">Opciones de registro</div>
+<form action="http://www.bolsatrabajo.sv/register/" method="POST" name="registerEmail">
+<input type="hidden" name="providerName" value="Email">
+</form>
+<a href="javascript:void(0)" class="wp-social-login-provider emailProvider" data-providername="Email">
+<span>
+Enviar con email
+</span>
+</a>
+<div class="wp-social-login-widget">
+<div class="wp-social-login-connect-with"></div>
+<div class="wp-social-login-provider-list">
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Facebook&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Facebook" class="wp-social-login-provider wp-social-login-provider-facebook">
+<span>
+<i class="fa fa-facebook"></i> Enviar con Facebook </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Twitter&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Twitter" class="wp-social-login-provider wp-social-login-provider-twitter">
+<span>
+<i class="fa fa-twitter"></i> Enviar con Twitter </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=LinkedIn&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="LinkedIn" class="wp-social-login-provider wp-social-login-provider-linkedin">
+<span>
+<i class="fa fa-linkedin"></i> Enviar con LinkedIn </span>
+</a>
+</div>
+<div class="wp-social-login-widget-clearing"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="loginPopup" style="width:100%;display: none;">
+<div class="popupTopHead">
+<div class="headingLink" style="margin-top:20px;margin-right:-15px;"><a href="#logCompanyPopup" class="fancybox">Empresa?</a></div>
+<div class="heading">Iniciar sesión</div>
+<div class="clear"></div>
+</div>
+<div class="popupContent">
+<div class="popupContentIn">
+<div class="socialH" style="margin-bottom:5px;">Opciones de login</div>
+<form action="http://www.bolsatrabajo.sv/register/" method="POST" name="registerEmail">
+<input type="hidden" name="providerName" value="Email">
+</form>
+<a href="javascript:void(0)" class="wp-social-login-provider  emailLogin" data-providername="Email">
+<span>
+Iniciar sesión con email
+</span>
+</a>
+<div class="signInForm popupForm">
+<div id="ajaxResponse1"></div>
+<form class="register" action="" method="post" id="login_mail">
+<div class="formRow">
+<label>Email</label>
+<input type="text" name="user_login" class="sign_in_field required">
+</div>
+<div class="formRow">
+<label>Clave</label>
+<input type="password" name="user_password" class="sign_in_field required" placeholder="*********">
+</div>
+<div class="formRow">
+<span class="checkBox">
+<label class="checkbox_text" for="remember_me">
+<input type="checkbox" value="remember_me" id="remember_me" class="css_checkbox" name="user_remember">
+Recuérdame</label>
+</span>
+</div>
+<input type="submit" class="sign_in_submit" value="Iniciar sesión" name="login">
+<img src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/images/formLoading.GIF.pagespeed.ce.sj4NgEiv-n.gif" class="reg_login_loading" style="visibility: hidden;"/>
+<div class="formRow f_pass_area">
+<a href="http://www.bolsatrabajo.sv/olvidaste-tu-contrasena/">¿Olvidaste tu contraseña?</a>
+</div>
+</form>
+</div>
+<div class="wp-social-login-widget">
+<div class="wp-social-login-connect-with"></div>
+<div class="wp-social-login-provider-list">
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Facebook&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Facebook" class="wp-social-login-provider wp-social-login-provider-facebook">
+<span>
+<i class="fa fa-facebook"></i> Enviar con Facebook </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Twitter&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="Twitter" class="wp-social-login-provider wp-social-login-provider-twitter">
+<span>
+<i class="fa fa-twitter"></i> Enviar con Twitter </span>
+</a>
+<a rel="nofollow" href="http://www.bolsatrabajo.sv/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=LinkedIn&#038;redirect_to=http%3A%2F%2Fwww.bolsatrabajo.sv%2Fjob%2Fauxiliar-cajero-medio-tiempo%2F" data-provider="LinkedIn" class="wp-social-login-provider wp-social-login-provider-linkedin">
+<span>
+<i class="fa fa-linkedin"></i> Enviar con LinkedIn </span>
+</a>
+</div>
+<div class="wp-social-login-widget-clearing"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="regCompanyPopup" style="width:100%;display: none;">
+<div class="popupTopHead">
+<div class="heading" style="margin-top:-15px;">Registrarse como empresa</div>
+<div class="headingLink" style="width:135px;margin-top:-39px;"><a href="#logCompanyPopup" class="fancybox">Ya usas Bolsatrabajo?</a></div>
+<div class="clear"></div>
+</div>
+<div class="popupContent">
+<div class="popupContentIn">
+<div class="popupForm companySignupForm">
+<div id="ajaxResponse1"></div>
+<form class="register" action="/" method="post" id="signupCompany">
+<div class="formRow">
+<label>Empresa</label>
+<input type="text" name="user_login" class="sign_in_field requiredC"/>
+</div>
+<div class="formRow">
+<label>Email</label>
+<input type="text" name="user_email" class="sign_in_field requiredC"/>
+</div>
+<div class="formRow">
+<label>Telefóno</label>
+<input type="text" name="user_phone" class="sign_in_field requiredC"/>
+</div>
+<div class="formRow">
+<label>Clave</label>
+<input type="password" name="user_password" class="sign_in_field requiredC" placeholder="*********"/>
+</div>
+<input type="submit" class="sign_in_submit" value="Enviar empresa" name="Register"/>
+<img src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/images/formLoading.GIF.pagespeed.ce.sj4NgEiv-n.gif" class="reg_login_loading" style="visibility: hidden;"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="logCompanyPopup" style="width:100%;display: none;">
+<div class="popupTopHead">
+<div class="heading">Iniciar sesión como empresa</div>
+<div class="clear"></div>
+</div>
+<div class="popupContent">
+<div class="popupContentIn">
+<div class="popupForm companyLoginForm">
+<div id="ajaxResponse1"></div>
+<form class="register" action="/" method="post" id="loginCompany">
+<div class="formRow">
+<label>Email</label>
+<input type="text" name="user_email" class="sign_in_field required_c_l"/>
+</div>
+<div class="formRow">
+<label>Clave</label>
+<input type="password" name="user_password" class="sign_in_field required_c_l" placeholder="*********"/>
+</div>
+<input type="submit" class="sign_in_submit" value="Iniciar sesión" name="login"/>
+<img src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/images/formLoading.GIF.pagespeed.ce.sj4NgEiv-n.gif" class="reg_login_loading" style="visibility: hidden;"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="topBarNote"></div>
+<script>jQuery(window).load(function(){g_form_password_insert_values();make_json_for_all_types();make_json_on_click_and_select();get_the_search_parameters_for_search_page();if(jQuery('.formTopHead').length>0){jQuery('.formTopHead').children('.headingsSec').children('.heading1').append('<div class="applied_job_title">Es necesario completar este paso por solicitar  "Cajero &#8211; Medio tiempo"</div>');}});jQuery(document).ready(function(){jQuery(".emailProvider").click(function(e){e.preventDefault();jQuery("form[name='registerEmail']").submit();})});jQuery(function($){jQuery(document).bind('gform_pre_render',function(event,form_id){jQuery('.formTopHead').children('.heading1').find('span').html(siteVars.providerName);console.log(siteVars.providerName);});});function g_form_password_insert_values(){if(jQuery('.edit_candidate_settings .password_fields').length>0){jQuery('.edit_candidate_settings .password_fields span input').each(function(){jQuery(this).val('random');});}}function make_json_on_click_and_select(){jQuery(document).on('click','.category_type li, .job_type li',function(){make_json_for_all_types();});jQuery(document).on('change','.selectRegion',function(){make_json_for_all_types();});}function make_json_for_all_types(){if(typeof page_type!='undefined'){var page=page_type[0];console.log('pageid = '+page);}if(page=='0'){category_json();}else if(page=='1'){category_json();}else if(page=='2'){category_json();}else if(page=='3'){var posttype=post_type[0];if(posttype=='job'){single_job_json();}else if(posttype=='company'){single_company_json();}console.log('posttype = '+posttype);}}function sanitize_title_with_dashes(str){str=str.replace(/^\s+|\s+$/g,'');str=str.toLowerCase();var from="àáäâèéëêìíïîòóöôùúüûñç·/_,:;";var to="aaaaeeeeiiiioooouuuunc------";for(var i=0,l=from.length;i<l;i++){str=str.replace(new RegExp(from.charAt(i),'g'),to.charAt(i));}str=str.replace(/[^a-z0-9 -]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-');return str;}function category_json(){setTimeout(function(){var n_category=[];var n_type=[];var n_location=[];var re=new RegExp('"','g');jQuery('.category_type .jcf-label-active').each(function(){n_category.push(sanitize_title_with_dashes(jQuery(this).text()));});n_category=JSON.stringify(n_category);n_category=n_category.replace(re,"'");console.log(n_category);jQuery('.desktopView #n_category, .mobileHide #n_category').val(n_category);jQuery('.mobileView #n_category, .desktopHide #n_category').val(n_category);jQuery('.job_type .jcf-label-active').each(function(){n_type.push(sanitize_title_with_dashes(jQuery(this).text()));});n_type=JSON.stringify(n_type);n_type=n_type.replace(re,"'");console.log(n_type);jQuery('.desktopView #n_type, .mobileHide #n_type').val(n_type);jQuery('.mobileView #n_type, .desktopHide #n_type').val(n_type);n_location.push(jQuery('.selectRegion').val());n_location=JSON.stringify(n_location);n_location=n_location.substring(1,n_location.length-1);n_location=n_location.replace(re,"'");console.log(n_location);jQuery('.desktopView #n_location').val(n_location);jQuery('.mobileView #n_location').val(n_location);jQuery('.mobileHide #n_location').val(n_location);jQuery('.desktopHide #n_location').val(n_location);},500);}function single_job_json(){setTimeout(function(){var re=new RegExp('"','g');if(job_categories){var job_cat=JSON.stringify(job_categories);job_cat=job_cat.replace(re,"'");console.log(job_cat);jQuery('.desktopHide #n_category').val(job_cat);jQuery('.mobileHide #n_category').val(job_cat);}if(job_types){var job_typ=JSON.stringify(job_types);job_typ=job_typ.replace(re,"'");console.log(job_typ);jQuery('.desktopHide #n_type').val(job_typ);jQuery('.mobileHide #n_type').val(job_typ);}if(job_locations){var job_loc=JSON.stringify(job_locations);job_loc=job_loc.replace(re,"'");console.log(job_loc);jQuery('.desktopHide #n_location').val(job_loc);jQuery('.mobileHide #n_location').val(job_loc);}if(company_name){var comp_nam=JSON.stringify(company_name);comp_nam=comp_nam.replace(re,"'");console.log(comp_nam);jQuery('.desktopHide #n_company').val(comp_nam);jQuery('.mobileHide #n_company').val(comp_nam);}},500);}function single_company_json(){setTimeout(function(){console.log(JSON.stringify(company_name));console.log(JSON.stringify(company_country));},500);}function get_the_search_parameters_for_search_page(){var params=getSearchParameters();var re=new RegExp('"','g');if((params['f']&&params['f']!='')&&(params['jobLoc']&&params['jobLoc']!='')){var n_keyword=[];n_keyword.push(params['f']);n_keyword.push(params['jobLoc']);n_keyword=JSON.stringify(n_keyword);n_keyword=n_keyword.replace(re,"'");console.log(n_keyword);jQuery('.desktopHide .newsletter_form input#n_keyword').val(n_keyword);jQuery('.mobileHide .newsletter_form input#n_keyword').val(n_keyword);}else if(params['f']&&params['f']!=''){var n_keyword=[];n_keyword.push(params['f']);n_keyword=JSON.stringify(n_keyword);n_keyword=n_keyword.replace(re,"'");console.log(n_keyword);jQuery('.desktopHide .newsletter_form input#n_keyword').val(n_keyword);jQuery('.mobileHide .newsletter_form input#n_keyword').val(n_keyword);}else if(params['jobLoc']&&params['jobLoc']!=''){var n_keyword=[];n_keyword.push(params['jobLoc']);n_keyword=JSON.stringify(n_keyword);n_keyword=n_keyword.replace(re,"'");console.log(n_keyword);jQuery('.desktopHide .newsletter_form input#n_keyword').val(n_keyword);jQuery('.mobileHide .newsletter_form input#n_keyword').val(n_keyword);}}function getSearchParameters(){var prmstr=window.location.search.substr(1);return prmstr!=null&&prmstr!=""?transformToAssocArray(prmstr):{};}function transformToAssocArray(prmstr){var params={};var prmarr=prmstr.split("&");for(var i=0;i<prmarr.length;i++){var tmparr=prmarr[i].split("=");params[tmparr[0]]=tmparr[1];}return params;}</script>
+<script src="http://www.bolsatrabajo.sv/wp-includes,_js,_wp-embed.min.js,qver==4.4.1+wp-content,_themes,_jobportal,_js,_bootstrap.min.js,qver==4.4.1+wp-content,_themes,_jobportal,_js,_fancybox,_jquery.fancybox.pack.js,qver==4.4.1+wp-content,_themes,_jobportal,_js,_jcf,_jcf.js,qver==4.4.1+wp-content,_themes,_jobportal,_js,_jcf,_jcf.checkbox.js,qver==4.4.1+wp-content,_themes,_jobportal,_js,_jcf,_jcf.radio.js,qver==4.4.1.pagespeed.jc.HwRPxkViot.js"></script><script>eval(mod_pagespeed_e2JkpYUuAp);</script>
+<script>eval(mod_pagespeed_ZWXlT2MG8V);</script>
+<script>eval(mod_pagespeed_miZ90R26Q4);</script>
+<script>eval(mod_pagespeed_vcpUTcATuo);</script>
+<script>eval(mod_pagespeed_G9FBU80Ixe);</script>
+<script>eval(mod_pagespeed_xV4J0$1tqa);</script>
+<script src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/js,_jcf,_jcf.select.js,qver==4.4.1+js,_owl.carousel.min.js,qver==4.4.1+mmenu-master,_js,_jquery.mmenu.min.all.js,qver==4.4.1.pagespeed.jc.X3eFbA66KA.js"></script><script>eval(mod_pagespeed__RYL_Ke1Ou);</script>
+<script>eval(mod_pagespeed_2$xugbxZh5);</script>
+<script>eval(mod_pagespeed_170kVgBtz2);</script>
+<script src="http://www.bolsatrabajo.sv/wp-content/themes/jobportal/js/jquery-autocomplete-ui.js,qver==4.4.1+jquery.lazyload.min.js,qver==4.4.1.pagespeed.jc.jkNu-Y2l7q.js"></script><script>eval(mod_pagespeed_95F46X27AP);</script>
+<script>eval(mod_pagespeed_wJo62iDbsH);</script>
+<script type='text/javascript' src='http://www.bolsatrabajo.sv/wp-content/themes/jobportal/js/custom.js,qver=4.4.1.pagespeed.jm.HDVt9jtbx7.js'></script>
+<script type="text/javascript">var clicky_site_ids=clicky_site_ids||[];clicky_site_ids.push(100905077);(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='//static.getclicky.com/js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(s);})();</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100905077ns.gif"/></p></noscript>
+<script type="text/javascript">var clicky_site_ids=clicky_site_ids||[];clicky_site_ids.push(95355);(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='//static.getclicky.com/js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(s);})();</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/95355ns.gif"/></p></noscript>
+</body>
+</html>

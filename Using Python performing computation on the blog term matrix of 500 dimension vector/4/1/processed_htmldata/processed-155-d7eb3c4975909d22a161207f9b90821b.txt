@@ -1,0 +1,1680 @@
+   #[1]Steve Munro » Feed [2]Steve Munro » Comments Feed [3]Steve Munro »
+   Metrolinx Fare Integration: Get Ready to Pay More For Subway Trips
+   Comments Feed [4]TTC’s 2016 Customer Charter Reviewed [5]How Will
+   SmartTrack and GO/RER Co-exist? [6]alternate [7]alternate [8]Steve
+   Munro [9]WordPress.com
+
+[10]Steve Munro
+
+Transit & Politics
+
+Menu
+
+   [11]Skip to content
+     * [12]A Grand Plan
+          + [13]Commuter Rail Electrification
+          + [14]Don Mills LRT
+          + [15]Downtown Relief Line
+          + [16]Eglinton LRT
+          + [17]Finch West LRT
+          + [18]GO Transit
+          + [19]Jane LRT
+          + [20]Sheppard East LRT
+          + [21]Scarborough-Malvern LRT
+          + [22]Scarborough RT/LRT/Subway
+          + [23]SmartTrack
+          + [24]Union Station
+          + [25]Waterfront
+     * [26]Finance
+          + [27]Fares & Fare Collection
+     * [28]Service Cost and Quality
+          + [29]Service Analysis
+               o [30]Bathurst Bus
+               o [31]Bathurst Car
+               o [32]Carlton Car
+               o [33]Dufferin Bus
+               o [34]Dundas Car
+               o [35]King Car
+               o [36]Kingston Road
+               o [37]Lawrence East Bus
+               o [38]Queen Car
+               o [39]Spadina Car
+               o [40]St. Clair Car
+          + [41]Accessibility
+     * [42]Vehicles
+          + [43]Buses
+          + [44]Streetcars
+          + [45]Subway Cars
+     * [46]Subways
+          + [47]Spadina Subway
+          + [48]Sheppard Subway
+     * [49]Beyond 416
+          + [50]Hamilton
+          + [51]Hurontario-Main LRT
+          + [52]Kitchener-Waterloo
+          + [53]Ottawa
+          + [54]Vancouver
+          + [55]York Region
+     * [56]Urban Affairs
+          + [57]Elections
+          + [58]Fantasy
+          + [59]Jane’s Walk
+     * [60]Looking Back
+     * [61]About
+          + [62]About Me
+          + [63]Reviews
+          + [64]Email
+
+   [65]February 6, 2016 by [66]Steve
+
+Metrolinx Fare Integration: Get Ready to Pay More For Subway Trips
+
+   One of the great mysteries surrounding the roll out of Presto on the
+   TTC has been the whole debate about “Regional Fare Integration”. Now
+   and then, discussion papers surface at Metrolinx, but folks at the TTC,
+   especially the politicians, are strangely silent on the subject. “Wait
+   and see” is the order of the day.
+
+   Well, folks, we have waited and now we are beginning to see the
+   direction Metrolinx is heading in for a consolidated GTHA-wide fare
+   structure. The results will not please folks in suburban Toronto or the
+   inner 905 for whom long subway trips are a routine part of their
+   commutes.
+
+   The Metrolinx Board will consider [67]an update on this subject at its
+   [68]meeting on February 10.
+
+   The presentation is in a sadly familiar Metrolinx format: lots of
+   wonderful talk about consultation and fairness, and philosophical
+   musings about what a fare system should look like. One big omission is
+   any evaluation of the relative numbers of riders who would be affected
+   by various schemes, and even worse of any sense of calibration of the
+   fares to produce different results.
+
+   This comes at a time when we know from SmartTrack demand studies the
+   importance of fare levels in attracting ridership. It is important here
+   to remember that we are not talking the relatively small differences
+   between types of TTC fares, or year-by-year increments, but the much
+   larger deltas between TTC fares and those on GO Transit.
+
+   The problem begins with the arbitrary segmentation of the travel market
+   into “local”, “rapid transit” and “regional transit”.
+
+   [69]201602_DefiningServiceTypes
+
+   This is a wonderful theoretical view of the world that might find a
+   home in a sophomoric academic paper, but it ignores the very real world
+   in which (a) “rapid transit” today only exists within Toronto and (b)
+   Toronto decided over 40 years ago that “local” trips paid one fare
+   regardless of the mode they used. The entire system is designed on this
+   principle, one that has consistently evaded Metrolinx planners.
+
+   If only the world were so simple. Why is Bus Rapid Transit omitted from
+   this list? Why is a streetcar (aka LRT) on right of way “rapid
+   transit”, but not a bus? How close must subway or LRT stops be to each
+   other for the service to drop back to a lower tier? Conversely, if
+   someone slaps a “19x” route number on a bus, should it become “rapid
+   transit”?
+
+   The basic problem with this world view is that transit modes,
+   especially bus and streetcar/LRT, have a wide range of overlapping
+   implementations.
+
+   The Principles
+
+   Now comes a basic principle about trip length which, in the Metrolinx
+   world, is the foundation for all fares.
+
+   [70]201602_ContinuityPrinciple
+
+   If trips are possible by two forms of transit within their primary
+   market, the fares should be equal. Hence a short bus and subway trip
+   should cost the same, and at the medium range, regional and rapid
+   transit fares should be equal.
+
+   This is a wonderful theory, but it fails on basic issues:
+     * What do the terms “short”, “medium” and “long” represent? The only
+       way the current TTC fare structure fits within this scheme would be
+       to define all of Toronto as a “short trip”, but that is patent
+       nonsense the moment we get into cross-border travel.
+     * If specific distances are assigned to the screen lines in this
+       model, what proportion of trips now taken on the TTC, and on GTHA
+       systems in general fall into each category?
+     * If “rapid transit” and “regional rail” are comparably priced, what
+       happens to demand patterns? Indeed we often hear that there is no
+       room on the regional system for more comparatively short-haul
+       traffic.
+     * If fares between modes are to be normalized, in which direction
+       will they move? Will rapid transit trips become more expensive at
+       “medium” or longer distances?
+     * What are the implications for fares on the various long-haul subway
+       extensions proposed or under construction? The TYSSE to Vaughan.
+       The Scarborough Subway. The Richmond Hill subway.
+     * Should a Richmond Hill subway fare cost the same as a GO fare, and
+       if not, how does that fit into the model above? A challenge for
+       anyone trying to pick the boundary values is that Toronto is
+       rectangular, and a trip from northeastern Scarborough to downtown
+       is actually longer than one from the inner 905 on Yonge Street.
+     * How will this scheme fit into GO’s fare structure which is
+       [71]decidedly tilted in favour of its long-distance riders and
+       discourages shorter trips?
+
+   It gets better as we delve into more “principles” behind this scheme.
+
+   [72]201602_ConnectedNetPrinciple
+
+   Exactly what the avoidance of penalties for using multiple service
+   types might translate to in practice is unclear. If we begin with the
+   premise that “higher order” types of service should cost more because
+   they provide greater speed (and implied value), then it is impossible
+   for trips of comparable lengths using various mixtures of modes to cost
+   the same. The need to use multiple modes is a fundamental result of the
+   network design (especially in Toronto), and of GO’s abdication of
+   responsibility for “local” transit. Now with the emergence of
+   SmartTrack, will it be considered a regional service or (merely) rapid
+   transit service? How does this fit together with Mayor Tory’s claim
+   that SmartTrack would operate at TTC fares unless, of course, “TTC
+   fares” change substantially to make “rapid transit” more expensive.
+
+   [73]201602_GeneralizedCostPrinciple
+
+   This chart is quite clear: if a mode gets you somewhere faster, you
+   invest less time in the journey and should be prepared to pay more to
+   “buy” that speed. On some TTC routes (the extra-fare Downtown Express
+   lines), people pay for comfort and speed, but on other routes (the
+   “rockets”), regular fares are used because it is actually cheaper for
+   the TTC to carry people “express” between major nodes in the network.
+   What is missing from this chart is any sense of the cost of providing a
+   service, and we see only its imputed worth as a function of speed.
+
+   [74]201602_GradualIncrementsPrinciple
+
+   This chart is a general illustration of the problem with coarse fare
+   zones such as the situation where the 416 is one big zone, and there is
+   a major cost increment when crossing the 416/905 boundary including the
+   one between GO and the TTC which is conveniently ignored in most
+   discussions. This principle underpins the concept that “more zones are
+   better than fewer zones”, and creates a catch-22 where zones within
+   Toronto are almost inevitable in order to achieve the desired
+   granularity at the boundary. The illustration below shows that
+   Metrolinx is already thinking of zones on a scale considerably smaller
+   than the City of Toronto.
+
+   [75]201602_ZonesPrinciple
+
+   Things start to get woolly when we dive into actual construction of
+   possible fare policies.
+
+   [76]201602_FareByDistanceApproaches
+
+   Note that a flat fare scheme is “applicable” only to local service.
+   Once again this gets us into the thorny question of just when a service
+   ceases to be “local” using the Metrolinx definition.
+
+   [77]201602_FareStructureDesign
+
+   A vital statement here is “Local … has the most trips”. That’s an
+   intriguing concept considering the vast number of riders on the TTC
+   subway network which, by definitions used here, is “rapid transit”, not
+   local. Every so often, Metrolinx’ blinkered view of transit with
+   “Toronto” and “everyone else” occupying a different space emerges, and
+   this is a good example. The problem, of course, is that “Rapid Transit”
+   is a very well used mode, on a par with all of the “local” travel in
+   the entire network, and dwarfing “regional” travel by an order of
+   magnitude or more. A fundamental assumption behind this process is,
+   quite bluntly, wrong.
+
+   The details begin with a chart showing the general character of the
+   existing fare structure. Following sections will use the same chart as
+   a basis to diagram proposed changes.
+
+   [78]201602_StatusQuo
+
+   Now we get a sense of what the new fare structures could look like.
+
+   Concept 1: Modified Status Quo
+
+   [79]201602_Concept1
+
+   In this scheme, transfer fares between adjacent local transit systems
+   would be low and standardized. This preserves agency boundaries as we
+   know them, and offers only a small disincentive to cross-border travel.
+   Another change would be to standardize transfer fares to and from GO, a
+   change that benefits both inside-416 travel and cross-border trips.
+   Those whose trips originate in the 905 would get a cheaper
+   “distributor” service from the TTC system, and those travelling within
+   Toronto would have a more attractive option for riding GO Transit as
+   part of their journey (providing, of course, that capacity were
+   available).
+
+   The kicker is here: “Regional base fare and Rapid Transit fares more
+   closely aligned to improve continuity for medium length trips”. If you
+   think this means you will ride GO (or SmartTrack) for today’s subway
+   fare, think again. This is a clear statement that subway fares would
+   rise for “medium length trips”, whatever those are. This is directly
+   contrary to decades of Toronto Council fare policy and a kick in the
+   teeth to those who complain that suburban riders are penalized to use
+   the TTC.
+
+   Concept 2: Local and Rapid Transit Zones
+
+   [80]201602_Concept2
+
+   A zone structure would be implemented, likely with the same geography
+   for both “local” and “rapid” transit. For the longest of trips via
+   regional services, fares would continue to rise with distance
+   travelled. A transfer charge between local and rapid transit services
+   is a matter for a policy decision — does Toronto lose its long-standing
+   free-transfer between subway and surface routes which is the heart of
+   the network design?
+
+   Concept 3: Hybrid
+
+   [81]201602_Concept3
+
+   A region wide flat fare would be implemented for “local” service. The
+   obvious question here is “what is local”, and the underlying assumption
+   that this embraces all service provided by city buses (highway coaches
+   are an exception so that they can charge “regional” fares).
+
+   Rapid transit fares would match local fares for “short” trips (again,
+   an undefined concept), but would rise on a distance basis once the
+   “medium” tier was entered. The rate of increase would become even
+   steeper for “long” trips on regional service.
+
+   Missing Pieces of the Puzzle
+
+   Many issues are not addressed in this report, and there is not even the
+   basis for public consultation. The whole question of how this would
+   work in practice is punted to the future. We could well see “public
+   participation” sessions in which the logical first question anyone
+   might ask is “what does this mean for my fares”, but Metrolinx won’t be
+   able to answer. Won’t be able, or won’t want to confront the rage of
+   Toronto-based riders whose fares may go up.
+
+   This ties in with the “three cities” map and basic questions of transit
+   equity. Affluent people can afford to live downtown and have short
+   transit trips as their standard, daily travel. Less affluent are forced
+   into the suburbs either for economic reasons or to get housing big
+   enough for a family. Meanwhile, the job market is concentrating in a
+   few locations, notably downtown, and commutes generally are not
+   half-hour jaunts within a community. A similar issue exists for
+   students who have only a few post-secondary institutions to choose
+   from, and who face long commutes to get to and from class on a transit
+   network that is, generally, not oriented to their destinations.
+
+   Another vital point the report ignores is the question of
+   implementation costs — not for the hardware, but for new fare
+   structures. How much will Queen’s Park shell out to make this scheme
+   work, or conversely how much will local municipalities have to pony up
+   to participate in the great plan without hitting up their riders for
+   greatly increased fares? If Toronto wants cheaper “rapid transit”
+   fares, how much would Council have to pay for the privilege, one that
+   would also benefit residents of the 905?
+
+   What Is Really Going On Here?
+
+   This is the point where I have to think about motive and the “behind
+   the scenes” machinations at Metrolinx. It is no secret that provincial
+   planners have been strong-arming the local agencies to accept their
+   world view of “fare integration”, and that some form of distance-based
+   fares was inevitable. That this has been going on for so long begs
+   important questions:
+     * How much do local politicians responsible for their transit
+       agencies know about the direction this work is headed? Do they
+       understand the implications for their fare structures, particularly
+       in Toronto’s suburbs? Has their management bothered to tell them?
+     * Do Metrolinx Board members understand the implications of what is
+       put before them? They are usually a docile lot content to praise
+       anything their management tables with only the most superficial of
+       comment. Either they have done a lot of work in advance in private
+       discussion (in which case the report reflects a Board view of
+       policy), or they do not understand (or want to understand) the
+       implications.
+     * Why are Metrolinx management allowed to repeatedly bring a major
+       policy issue like fare structure before the board with only
+       superficial analysis and no specifics of what the proposed
+       structures would actually look like, and how riders would benefit
+       from or be hurt by the new schemes?
+
+   A good precept when considering the development of new policies is that
+   Machiavellian plotting is rarely found, and sheer incompetence explains
+   how things work so much better.
+
+   Work on fare integration policy has been underway for a long time. We
+   have precious little to show for it, especially in the specifics of how
+   it would work (an actual fare tariff), how it would affect riders, and
+   what the subsidy requirements would be for each scheme. There isn’t a
+   shred of Business Case Analysis (a methodology so beloved of Metrolinx)
+   nor any sensitivity tests to determine the effect of “turning the
+   knobs” on various plans. Most importantly, there is no sense of the
+   broader political and social context in which transit operations and
+   pricing exist.
+
+   Instead, we have a continuation of general statements and principles,
+   warm fuzzy stuff that a Metrolinx Board might approve because it reads
+   like motherhood until you look closely. Under the pretense of approving
+   principles, the stage is set for a massive shift in fare policy notably
+   within the City of Toronto where most transit riding occurs. It masks a
+   revenue grab from “rapid transit” users (conveniently omitting the most
+   common form of this mode outside of Toronto) and paves the way for an
+   “integrated” SmartTrack fare that will most definitely not be at
+   current TTC levels, the way the system was sold to voters in the first
+   place.
+
+   My analysis may be totally out to lunch, but if that’s the case, then
+   Metrolinx should pony up a much more detailed description of the plans
+   to prove me wrong. The unmistakable odour of equine effluent is in the
+   air.
+
+   The Metrolinx Board should reject this proposal and demand that it be
+   reworked to better explain its implications beyond the level of
+   “principles”, and state clearly how it will actually affect riders with
+   dollars and cents examples. Anything less is an abdication of the
+   Board’s responsibility.
+
+
+Share this:
+
+     * [82]Twitter
+     * [83]Facebook
+     * [84]Google
+     *
+
+Like this:
+
+   Like Loading...
+   This entry was posted in [85]Beyond 416, [86]Fares & Fare Collection,
+   [87]GO Transit, [88]Transit. Bookmark the [89]permalink.
+
+Post navigation
+
+   [90]← TTC’s 2016 Customer Charter Reviewed
+   [91]How Will SmartTrack and GO/RER Co-exist? →
+
+35 thoughts on “Metrolinx Fare Integration: Get Ready to Pay More For
+Subway Trips”
+
+    1. [92]Richard White | [93]February 6, 2016 at 10:49 pm
+       I have said it before and I will say it again. For this to work we
+       need ZONE fares. York, Peel, Halton, Durham and Toronto need to be
+       separate zones.
+       Outside Toronto persons should be required to pay more to ride the
+       subway. This should also apply to cross-boundary travels.
+       Fare by distance will NEVER work for local transit services. I
+       would not be willing to pay 6 bucks or whatever it is to ride from
+       Warden to Yorkdale Mall for example. I can however see paying more
+       money to ride from Warden to VMC
+       Sorry if you mentioned this in your post. It is rather long and I
+       did not have time to read everything.
+       [94]LikeLiked by [95]1 person
+    2. Steven | [96]February 7, 2016 at 12:17 am
+       I generally agree the TTC should move towards a zone based system.
+       Concept 2 seems like the only concept that fits the TTC. Paying
+       more just because it’s rapid transit makes no sense. If we build
+       the Finch West LRT to replace the 36 Finch West, anyone taking the
+       bus from Highway 27 to Keele would pay a higher fare than
+       previously. It wouldn’t be effective to keep a parallel bus running
+       so the poorest residents can actually take the bus. The 97 Yonge
+       doesn’t run into downtown except rush hour nor there is a bus along
+       Bloor. If you live on those corridors, you’re automatically forced
+       to pay more.
+       [97]LikeLiked by [98]1 person
+    3. Moaz Ahmad | [99]February 7, 2016 at 12:52 am
+       We already have 2 zones in the local transit system. TTC and
+       everyone else. Maintaining that structure within a system of
+       so-called “integration” helps no one.
+       The very least Metrolinx could do is find a way to make co-fares
+       work for the thousands of people living in the 905 who have to use
+       the TTC to get to their destinations. No need to overhaul the fare
+       structure itself. Just keep it simple.
+       Personally I’d be more interested in seeing a slightly different
+       fare curve that was a bit more arch like. Instead of fares rising
+       for longer regional and rapid transit trips, the fares should be
+       slightly higher for the medium distance. After all, the goal of
+       long distance transit is to give people the option to travel
+       without driving. Having a slightly lower relative fare for long
+       distances encourages transit use which means fewer cars on the
+       road…especially if the relatively lower long distance transit fare
+       is introduced at the same time as road pricing on the highways.
+       Cheers, Moaz
+       Steve: The arch you describe is how GO fares actually work already.
+       Despite Metrolinx claims, they do not go up proportionally to
+       distance, but grow at a slower rate for longer journeys. The
+       problem for shorter journeys is that they start at a high level
+       relative to “local” fares.
+       I agree that a co-fare arrangement with the TTC, GO and the 905
+       systems would correct much of the problem the current system has
+       for riders. All that is needed is the will to subsidize this.
+       The fundamental flaw at Metrolinx is that they don’t want to
+       confront the issue of increasing subsidies for cross-border travel,
+       of paying TTC (primarily) to carry riders from the 905 at a low
+       marginal fare. The last time this issue was at the board, Rob
+       Prichard observed that they originally hoped for a situation where
+       they could just shuffle revenues around, but that proved
+       impossible. This implies that Metrolinx has been looking at actual
+       tariff structures and modelling them against actual travel
+       patterns, but there is no hint of such work in the current report.
+       The worst problem here is that if Metrolinx approves this, there
+       will be an “official” sanction for higher subway fares that has had
+       absolutely no public input or discussion.
+       [100]LikeLiked by [101]1 person
+    4. Brent | [102]February 7, 2016 at 2:09 am
+       If “rapid transit” becomes a separate fare category, does that mean
+       the concept of a monthly (or weekly) pass is obsolete? Or that
+       you’ll have to buy a “rapid transit + local” pass if you have any
+       expectation of having to ride the subway (or ride the subway for a
+       distance greater than Metrolinx’s threshold)?
+       It would be quite helpful if the presentation had included a slide
+       documenting what exactly the problem is that they are trying to
+       solve. My interpretation is that there are two things: (1) riders
+       dislike having to pay two fares to cross a boundary on local
+       transit (especially crossing Steeles Avenue), and (2) they are
+       trying to figure out how to reconcile GO’s commuter-based fares
+       with the desire to increase use of GO for different types of trips,
+       or as a relief for the subway.
+       For (1), implement a time-based fare with free transfers between
+       agencies. There is an issue of how to make up the revenue that
+       would be lost from those trips, but if the priority is supposed to
+       be on rider convenience, then the “behind the scenes” policies are
+       a secondary issue.
+       For (2), allow me to propose something radical. Make GO travel a
+       flat fare at the same level as local trips. Make up the revenue by
+       charging for parking. If you charge for parking proportionally by
+       distance, you mimic the fare zones while rewarding riders that
+       travel to/from the station by bus and while allowing GO to serve a
+       variety of roles, and eliminating the discrepancy between GO’s
+       existing fare structure and Tory’s promise that SmartTrack will
+       have the same fares as TTC. An example: Newmarket to Union is
+       currently $17.60 round trip using PRESTO, with free parking. You
+       could change that to $3 each way, plus $11.60 for parking.
+       [103]LikeLiked by [104]3 people
+    5. DiCK | [105]February 7, 2016 at 2:24 am
+       Interesting the Metrolinx principles don’t consider the quality
+       (comfort?) of the service provided in addition to speed of service
+       (rapid or not). Should there be a fare premium or discount whether
+       or not a seat is available? A deeper discount when riding as
+       sardine-in-a-can?
+       Should the fare structure require the transit provider to pay a
+       penalty to the passenger when a vehicle is short turned, a subway
+       is delayed, a connection is missed or route management is
+       indifferent?
+       Hmm . . .
+       Steve: Once upon a time, GO had a passenger service target that
+       involved most riders getting a seat most of the time. They never
+       achieved this and didn’t even come close. The metric has
+       disappeared from their goals with the result that, finally, they
+       get a nice row of check marks all the way down the column.
+       Why show your ongoing failure when you can just ignore it?
+       [106]LikeLike
+    6. [107]Brian J. Bentley | [108]February 7, 2016 at 7:53 am
+       It would seem to me that if Metrolinx wants to consider that the
+       subway system should have a fare system similar to the GO system
+       but the TTC surface system would operate at a lower fare system,
+       many people would want to stay on the surface system and in order
+       to give those people the opportunity to do so would require
+       re-establishing surface routes on Yonge and Bloor. The could be so
+       many people desiring to do this that the TTC would have to put
+       streetcars back on these routes!
+       I live near Royal York and Dundas and am able to see the large
+       number of people from Mississauga who transfer to and from
+       Mississauga Transit to the subway at Islington presumably because
+       this a cheaper trip than riding GO. I suggest that a very great
+       number of residences of Toronto would do likewise.
+       [109]LikeLike
+    7. [110]OgtheDim (@OgtheDim) | [111]February 7, 2016 at 8:51 am
+       Like all Metrolinx discussions, this can be subject to political
+       pressure from Queen’s Park.
+       There are two variables in that.
+       1. Inner suburb MPP’s have shown they can be subject to and then
+       apply pressure on transit issues – see the Scarborough MPP’s who
+       banded together to shape the transit discussions for the last few
+       years to the point where the City had to go to Brad Duguid first to
+       create a plan.
+       I can imagine what the swath of Liberal MPP’s from Etobicoke, North
+       York and Scarborough would think when told that there constituents
+       are going to have to pay extra to ride the subway, and that this is
+       a provincial decision that they will own.
+       2. There is little to no transit talk from the opposition. In
+       particular, the NDP, who you would think would have the most to
+       gain by stirring up trouble in Toronto for the Libs, seem focused,
+       once again, on the esoteric morass of the electricity file. Where
+       is the provincial discussion on this? Does Andrea Horwath even KNOW
+       there is a transit discussion going on here? Would at least 1 of
+       the parties actually get out there with a “This is wrong.” message?
+       I don’t know if they care, to be honest.
+       **************
+       IF word of this were to get out via the media, I can tell you what
+       most people in the inner suburbs would say, “This is Bullshit.” As
+       you indicated Steve, most of us live in these inner suburbs because
+       we can’t afford to live anywhere else in this city – can’t afford a
+       home in the 905 or a condo downtown and priced out of the rental
+       market in the core. In the Premier’s own riding, this is going to
+       create social upheaval. Like, are they that thick?!
+       As an employer, I’m even more worried. First of all, my pool of
+       potential employees is going to shrink significantly. Secondly, the
+       average commute for people coming to our work in the inner suburbs
+       is over an hour via transit. If people have to take buses to go
+       north south or east west depending upon where they come from, those
+       employees are going to be more tired and thus less productive then
+       they currently are.
+       Lost productivity and less stable employees.
+       Thanks Metrolinx.
+       Thanks Liberal Government.
+       Steve: An additional irony here is the number of people who think
+       Metrolinx would do so much better a job of providing transit than
+       the TTC. This is a taste of just what provincial “expertise” brings
+       to the transit file.
+       [112]LikeLiked by [113]2 people
+    8. Andrew | [114]February 7, 2016 at 12:23 pm
+       I think that zone fares won’t work very well on surface LRT. In
+       order to have zone fares, passengers have to tap their Presto card
+       twice, but at a busy surface LRT stop there would be large crowds
+       of people tapping off, and the platform is narrow. Would the Presto
+       machines be on the platform or on the light rail vehicle? If they
+       are are on the platform, there would need to be a large number of
+       machines on the platform at a busy surface stop. It is easier to
+       implement on the subway or the underground portion of the Eglinton
+       LRT where there are turnstiles.
+       On the other hand, it would be undesirable to apply zone fares to
+       the subway but not to LRT. This would result in the LRT being
+       cheaper than the subway (e.g. a trip to Kennedy would be cheaper on
+       the Eglinton LRT than the subway) which would mean increased
+       overcrowding on the LRT.
+       Also I presume that “streetcars” and LRT are considered to be
+       different by Metrolinx and zone fares will not apply on
+       “streetcars”?
+       Steve: Yes, “streetcars” are “local” transit, but try explaining to
+       someone why an “LRT” running on a reserved lane is not a
+       “streetcar”.
+       [115]LikeLike
+    9. [116]Suhail Barot | [117]February 7, 2016 at 1:17 pm
+       Thank you for your analysis. I’m a frequent reader but this is my
+       first time commenting. What I’m taking away from this is:
+       (a) Metrolinx’s primary objective is to lower the cost to GO train
+       users who want to transfer to the TTC to complete their trips. For
+       consistency, this also requires them them to arrange for a lowering
+       of the cost of transferring between other municipalities and the
+       TTC.
+       (b) In accomplishing the above, Metrolinx wants to protect its
+       revenue. They initially hoped that they could find a way to do this
+       where the net revenue transfer between GO and TTC would be close to
+       zero. But the number of people outside Toronto who would take
+       advantage of the above reduced costs is much much larger than those
+       in Toronto. So they would have to provide money to the TTC in
+       compensation for serving all these new riders.
+       (c) To make this work out, they need GTA wide fare structures
+       rejigged such that “regional transit” is considered the highest
+       value component of a trip with multiple transit modes (so they
+       collect most of the money). Thus they would end up with most of the
+       revenue with any trip involving both TTC and GO. This would prevent
+       them from having to actually pay anything to the TTC to serve
+       additional riders coming in from the ‘905’.
+       (d) The fare structures being discussed are an attempt to justify
+       such a re-alignment, as well as drive up TTC fares to get the
+       additional revenues to serve 905 customers without any significant
+       contribution from Metrolinx.
+       (e) In such a re-alignment, the winners are 905 who get to use TTC
+       for little extra money, TTC customers adding GO to their trip
+       (those currently using both modes would see a fare reduction).
+       Losers would be Torontonians making long trips inside the city
+       using the subways and future LRTs. This also sets the stage for
+       obtaining increased revenue from Smart Track customers. And as
+       Metrolinx “owns” the LRTs, it may be able to squeeze out some
+       revenue from them, despite their being operated by the TTC and part
+       of the TTC network.
+       (f) In general, the idea of lowering costs for GO transit users
+       coming into Toronto is a good one – it increases transit usage by a
+       population whose carbon emissions from driving would be the highest
+       in the GTA. And all of these folks are not wealthy by any means and
+       are paying higher costs for transit use than Torontonians. But it
+       should not be done on the back of TTC users.
+       Steve: That’s a fair summary of the situation. It’s a revenue grab
+       by Metrolinx from Toronto riders who make up the bulk of GTHA
+       travel.
+       [118]LikeLiked by [119]1 person
+   10. Jamie | [120]February 7, 2016 at 1:44 pm
+       In Japan all fares are distance based … from local buses (charge
+       increase by stop) all the way to Shinkansen bullet trains. They’ve
+       had this for decades and seems to work well for them. Don’t see why
+       something similar wouldn’t work here too, especially with mobile
+       apps making it easier than ever to plan your route ahead of time.
+       Steve: If this were the long-standing tradition of fares in
+       Toronto, I would agree with you, but it is not. There was a big
+       fight in the early seventies to get rid of zones so that suburban
+       riders would travel for the same fare as “downtowners”. When I
+       consider the vitriol that has been poured on anyone who isn’t a
+       born-again believer in the Scarborough Subway, I cannot imagine the
+       result if we told people “yes, you can get your subway, but it will
+       cost you more to ride it than the folks downtown”. That is
+       political suicide.
+       A related issue is that as a matter of municipal policy, we are
+       trying to use transit to improve access to jobs, education and
+       other major parts of urban life without requiring that people spend
+       a fortune to do this. Changing existing flat fares to some form of
+       fare-by-distance works directly contrary to this principle.
+       [121]LikeLike
+   11. [122]Kevin Richardson | [123]February 7, 2016 at 1:49 pm
+       1: I wish the examples used in the .pdf presentation were real. I
+       wish we had actual trips under the current system and under the
+       proposed changes. Something like…
+       Ashley commutes from her home at Burnamthorpe and Hurontario to her
+       office at King and University. Her current trip is A and takes her
+       B amount of time and cost C dollars. Her alternate option is X and
+       takes her Y amount of time and costs Z dollars.
+       Under fare integration proposal 1, A trip would cost ___ and X trip
+       would cost ___. Under proposal 2, A trip would cost ___ and X trip
+       would cost ___.
+       That way we could understand exactly what is being proposed.
+       Instead we get “local” and “regional” and scenario so vague and
+       reassuring that, without careful examination, they sound
+       reasonable.
+       2: The slide on page 20 seems to show that Metrolinx has decided to
+       stick with its plan to price trips on rail higher than trips on
+       buses the only difference seems to be that they are now refusing to
+       say this out loud and are now substituting the word “local” for the
+       word “bus” and the word “regional” for “train.”
+       3: On page 21, the section on value stood out and “Minimizes fare
+       underpayment” was the kicker. I wonder why getting transit user to
+       pay as close to the full cost of the service they use is a
+       fundamental principle of transit when it’s not a guiding principle
+       for road users, healthcare users, library users, students in
+       elementary or high schools. Why is user pay so more important than
+       getting users on the system? Isn’t the goal to get people out of
+       cars? I know cost recovery is important but I’ve never seen it
+       pursued so zealously in a government service, with the possible
+       exception of University tuitions, and even then, I don’t believe
+       students pay +70% of the cost of their schooling.
+       Steve: This is a basic problem with Metrolinx. Their doublespeak
+       masks both their real intent and it completely avoids the issue of
+       transit as a social good, not as a balance sheet where revenue
+       should be maximized.
+       [124]LikeLiked by [125]1 person
+   12. [126]Richard White | [127]February 7, 2016 at 1:56 pm
+       I doubt that any of the MPPs elected by the citzens of Toronto
+       would risk their futures on a separate fare for the subway system
+       in Toronto. It would be political suicide.
+       What I earlier proposed a separate zone for the 905 and a separate
+       zone for the 416. I am not talking individual zones for each region
+       but one for the entire 905. This would streamline transit and make
+       life easier.
+       I take Miway to work everyday from Islington and it is preferable
+       over GO transit simply because of the high fare. I cannot justify
+       paying $6.00 each way when I can ride Miway for $2.90 each way.
+       I wonder if the idea of separate fares for the subway has anything
+       to do with SmartTrack? I am curious to know if they singled out
+       rapid transit for a higher fare so that when SmartTrack is up and
+       running they can charge a “TTC fare” albeit a higher one equivalent
+       to GO trains in Toronto.
+       Steve: I want to know how they got Andy Byford to buy into
+       replacing all of the TTC’s subway fare gates to permit “tap out”
+       and hence distance based fares without giving one more nickel of
+       provincial subsidy to pay for them, and why Byford has been so
+       disingenuous about explaining why we actually need this capability.
+       The TTC board has never voted, at least not publicly, to support a
+       change in fare structure.
+       [128]LikeLiked by [129]2 people
+   13. Will L | [130]February 7, 2016 at 1:56 pm
+       A key problem with the Metrolinx fare integration exercise is that
+       it is, as you hint at, almost totally divorced from the design of
+       the services that will be covered. (The potential Richmond Hill
+       Subway / GO integration is probably the issue that could have been
+       most useful as a exemplar of how an improved fare system would
+       impact travel in the region.) Instead of being a fare and service
+       integration study, it’s focused on the fares only. This is absurd,
+       but appears to be typical among government agencies totally
+       isolated from economic realities.
+       While I think you’re overly pessimistic on the potential adverse
+       effects of changes to the fare system, I totally understand your
+       frustration with this process. That it’s also taken a decade to get
+       to this, as you say, sophomoric report is a sign of the incredible
+       lack of commitment or level of incompetence in Metrolinx on this
+       issue.
+       [131]LikeLiked by [132]1 person
+   14. [133]Colin Olford (@TorontoColin) | [134]February 7, 2016 at 3:36
+       pm
+       I hope City Council slaps this inane notion of premium fares for
+       rapid transit right down. I’m sure I’m biased, as someone who lives
+       on Bloor and takes the subway almost exclusively, but the idea of
+       paying a premium for subway travel seems ridiculous to me. Firstly,
+       as I understand it, subways in the denser part of the city are the
+       cheapest (per rider) to operate. Secondly, as I travel mostly
+       against peak demand, or at least on the lower demand segments of
+       the subway, it seems ridiculous to pay extra for the privilege.
+       This whole idea is also riddled with functional issues. Streetcars
+       are local, but LRTs are rapid. So, do you charge a premium for the
+       509, 510, and 512, because they run on dedicated ROWs? What about
+       the 511, which runs partially on a dedicated ROW? Do we charge
+       suburban commuters a premium for their LRTs essentially because
+       their lines are newer and run through areas with less density?
+       What do we do about night buses on Bloor and Yonge? Are we in a
+       situation where it is actually cheaper to travel after the subway
+       shuts down? What happens when a line is out of service, and shuttle
+       buses are used in place?
+       This seems like an extreme over-complication of a simple problem. A
+       reasonable co-fare system would, I think, satisfy most commuters. I
+       think most people can understand why they should have to pay
+       separately to ride different transit systems subsidized by
+       different municipalities. This plan will encourage transit for a
+       small minority, while discouraging it for the vast majority.
+       [135]LikeLiked by [136]1 person
+   15. Erick | [137]February 7, 2016 at 4:06 pm
+       I agree that this is setting up the table to increase fares within
+       Toronto I believe that this is in preparation for privatization of
+       services.
+       Local service meaning bus service means you can do like London
+       where routes and sectors are given to private contractors.
+       Typically on those contracts the private operator gets a percentage
+       of fares. So to make the routes appealing fares have to go up.
+       Subways: either maintenance only or maintenance and operations go
+       together. And while it makes no sense from a public policy, I can
+       see where someone interested only in giving the private sector
+       juicy contracts would make subways a separate fare (read higher) to
+       appeal to private operators.
+       LRT? No different and deemed more comfortable than buses so they
+       too will commend higher and separate fares.
+       Then it becomes clear why you have to have Presto. And important
+       for Presto to have access to your credit card or bank account.
+       That’s why on GO there’s no tickets or passes. So you never know
+       what you are paying unless you keep track. You never feel it
+       because as your Presto is on auto-reload you don’t have to do
+       anything it’s painless…
+       Then yearly fare increases will happen but on different dates ( for
+       the different types of services : regional, rapid and local) so you
+       cannot clearly see that they pick your pockets.
+       Of course I do not support those aims at all. I oppose it, but I
+       can see where this falls all in place.
+       Steve: And whatever the motivation or eventual goal, it is a plan
+       by stealth that has no business in what is supposed to be a public,
+       and largely Toronto enterprise.
+       [138]LikeLike
+   16. Justin Bernard | [139]February 7, 2016 at 4:32 pm
+       If I used Metrolinx’s crazy logic, I guess I should pay less to use
+       GO transit, because my GO bus to work is really slow in the
+       mornings? It takes nearly an hour from Yorkdale to Square One some
+       days.
+       [140]LikeLiked by [141]2 people
+   17. buschic | [142]February 7, 2016 at 5:30 pm
+       A huge amount of implications could result from any of the above
+       theories.
+       1. Accessibility of transit without using all 3 nodes of transit,
+       especially within old city of Toronto, could be absolutely
+       disastrous for those with physical disabilities.
+       There are vast parts of Toronto that have no bus routes covering
+       either streetcar or subway services. 75% of people with
+       disabilities live on fixed incomes, usually ODSP, who no longer
+       have allowances for transit passes. 90% of those with multiple
+       disabilities, cannot work, also with sheltered workshop closures in
+       the imminent future, this would leave them even more destitute.
+       2. 95% of soup kitchens and homelessness services are located in an
+       area east of Dundas West station & west of Broadview, south of
+       Davisville. With the continued push out to the suburbs of homeless
+       shelters with no accompanied movement of accessible soup
+       kitchens/meal programs, it’s even more important than ever to have
+       accessible & even more importantly, affordable, public transit.
+       3. Go Transit (Metrolinx) are not used to or even willing to
+       service the poorest of people who live in cities.
+       4. I on a regular basis (daily) travel from Markham/Lawrence to
+       City Hall & surrounding area, for various reasons, including most
+       importantly the ability to get a hot meal. It’s an average of
+       90/120 mins each way, with a lot of it trying to just get out of
+       Scarborough (West of Vic Park).
+       5. NONE of the Metrolinx board lives in poverty, none of them are
+       physically disabled, nor do they really listen to the so called
+       accessibility advisory committee (same with TTC). People with
+       disabilities are an afterthought to most of society.
+       [143]LikeLiked by [144]2 people
+   18. Michael Greason | [145]February 7, 2016 at 11:24 pm
+       I remember only too well when the “Zone System” was eliminated. I
+       lived in Northern Etobicoke and took the Islington 37 to the subway
+       whereupon I “sometimes” paid another fair. Students did not have to
+       pay for Zone 2, but only if the transfer to or from Zone 2 was
+       before 4:30 and only on a weekday. On Saturdays – adult tickets for
+       me – though the Zone Fare was mitigated because I bought combo
+       tickets – Zone 1 on one side and Zone 2 on the other – at a
+       discount. Boy, were we pleased when the Zone System was eliminated.
+       I think what contributed to the feeling of unfairness at that times
+       that the Zones were arbitrarily divided between the old City of
+       Toronto and what is now called the inner suburbs. It wasn’t fare by
+       distance – it was paying for the privilege of crossing City Limits.
+       I have no recollection or knowledge about who paid for the
+       Metropolitan Toronto portion of the TTC at that time or the
+       distribution between tax support from the old City and Etobicoke,
+       Scarborough, North York, York and East York.
+       What I do remember is that at that time the TTC had the highest per
+       capita ridership of any transit system in North America and was the
+       third largest behind MTA and CTA. We were pretty proud of that.
+       It seems, that over the years, the underfunded TTC has still
+       remained a pretty good transit system. In fact, in its cash starved
+       existence it has been able to enhance service the inner suburbs,
+       though not, I think, commensurate with the growth in those areas. I
+       recently took the 37B to the Woodbine Racetrack and was favourably
+       impressed by the service level. It easily eclipsed my memories of
+       service in the 70’s.
+       Where we went wrong was a regional problem coupled with a changing
+       suburban demographic. Instead of building on the TTC’s relative
+       success in our inner suburbs, when we built the outer suburbs we
+       did not include transit at all. This may have been due to the fact
+       that while our inner suburbs were populated by no car or one car
+       families, the outer suburbs had one car for every person. Also, as
+       you have pointed out the crescents, cut de sacs and obscure low
+       density travel patterns did not help.
+       Now Metrolinx is trying to overlay a pricing model that might be
+       appropriate in an older city such as London or Paris. However, our
+       “Zone 6” is not the same and transit usage is really low.
+       When I envisage Fare by Distance (FBD) I like to think of a trip
+       from Scarborough costing the same as today and a 2 km. trip on the
+       King Car costing less. Mike Harris seemed to believe that when he
+       amalgamated Toronto (against our wishes) that the employees would
+       end up accepting the lowest level of wages from the former
+       municipalities across the board. One of those beliefs has been
+       shown to be naive and ill-informed. Probably both of them are.
+       [146]LikeLiked by [147]1 person
+   19. [148]Mapleson | [149]February 8, 2016 at 9:09 am
+       Looking at the “Principle: Generalized Cost” slide, it’s clearly
+       not based on actual numbers.
+       The Regional line should be very choppy. If your source and
+       destination are close to the stations, it’s better travel time. If
+       not, you actually have a longer trip due to the need to double back
+       a few kilometres.
+       Looking at the “Principle: Large/Small Zones” slide, could they be
+       more general? “Both large and small zones are widely used
+       throughout the world”?!? All the possible types of fares are widely
+       used throughout the world (except possibly ‘free local fares’).
+       Looking at the “Fare by Distance Approaches” slide, you realise
+       what the desired Fare Integration is: geographic zones. Is there
+       any reason that a region-wide flat fare can’t have rapid transit?
+
+     Steve said:
+     The Metrolinx Board should reject this proposal and demand that it
+     be reworked to better explain its implications beyond the level of
+     “principles”, and state clearly how it will actually affect riders
+     with dollars and cents examples. Anything less is an abdication of
+     the Board’s responsibility.
+       I can definitely say that ‘third-party consultants’ aren’t given a
+       free hand or a blank slate to work with. There is always policy
+       direction that leads the reports (and the analysis is developed in
+       such a way as to promote the preferred choice). When that policy
+       direction isn’t clear, the analysis needs to be equally muddy to
+       allow Metrolinx to make-up their minds later down the road.
+       [150]LikeLiked by [151]1 person
+   20. [152]Mapleson | [153]February 8, 2016 at 10:40 am
+       @Kevin Richardson,
+       Specific examples do give a clearer picture, but the selection of
+       specific examples allows for the glass to be tinted rosy. For
+       example, if I wanted to make “local” distance-based transit look
+       good, I give a short 1-2 stop example. If I want to make “regional”
+       zonal-based transit look good, I give a long example that’s need
+       the outer edges of each zone. Also, the largest lack is what
+       proportion of riders would use each type. Does everyone just pay
+       more, or do some riders subsidize others more? What is the actual
+       intent? Making “inter-zonal” travel easier or increasing overall
+       transit ridership?
+       [154]LikeLike
+   21. Mark Earley | [155]February 8, 2016 at 10:45 am
+       Can’t help thinking in terms of TfL, and that the intent here is a
+       TfT. Keep in mind that TfL includes all transport including roads.
+       TTC might break down eventually into a tendered subway, streetcar
+       and several bus ‘franchises’ (groups of routes), combining MiWay
+       and YRT etc,
+       To integrate GO requires the separation of parking so users pay a
+       zone (distance) based fare, plus parking if they wish. Making
+       parking charges visible may well reduce parking demand, and
+       encourage feeder bus development. Furthernore, separating parking
+       would bring GO fares closer to current TTC.
+       The idea of paying less for a slower service encourages riders onto
+       a vehicle that, because of its slow speed, costs (vehicle, fuel and
+       driver cost) more. Fast and slow should be same fare, incentivizing
+       the rider to take the faster (and cheaper to the operator) option.
+       That is why TTC’s express bus, at same fare, is an excellent but
+       obvious service.
+       As for GO service, I am reminded of a morning commute from St.
+       Albans to London, a 20 minute non stop journey at mostly 100mph,
+       crammed beyond anything on TTC, whereas GO aims to seat most
+       riders. This is a luxury, and represents a significant hidden extra
+       capacity which should be used, or we need higher standards on (TTC)
+       buses and subways. Compare the night and day difference between GO
+       and TTC buses!
+       Zones should reflect distance, with Toronto zone 1 say Eglinton,
+       Dufferin and Don, with zone 2 stretching to Sheppard. Zones need
+       not reflect municipal boundaries. All services, including GO should
+       charge the same zonal fares.
+       Presto should charge the lowest possible fare based on the users’
+       actual route,
+       Fare increases should be a Metrolinx task for entire GTHA, yearly.
+       Increasing fares for crossing zones (that are currently free)
+       should be spread over several years.
+       [156]LikeLiked by [157]1 person
+   22. [158]James Schofield (@skofz) | [159]February 8, 2016 at 10:57 am
+       This presentation is so full of vague generalizations and
+       contradictory statements that it’s hard to get a true sense of
+       which way the wind is blowing. Faster service should demand higher
+       fares — except “fares for different service types should be
+       comparable when the services serve the same market.” And “travel
+       Time based fares are variable and unpredictable and are not being
+       investigated further” — except for the possibility of a region-wide
+       “local” fare, which would presumably be implemented as some sort of
+       a time-based transfer.
+       If I may speculate: They’ll ultimately propose something as
+       depicted in Concept 3. For a base fare of about $3, you’ll be able
+       to go as far as you want on any local bus or streetcar (including
+       TTC/YRT/MiWay connections). For the same base fare, you’ll also be
+       able to go about 10 km on subway/RT/crosstown. A second fare tier
+       of about $5 becomes the minimum fare for GO
+       train/bus/RER/smarttrack, and gets you up to 20 km on any
+       combination of services. Trips >20 km are tiered by zone or
+       distance.
+       I don’t believe GO will ever allow a $3 flat fare for travel on any
+       of their trains within the 416, including SmartTrack. For
+       SmartTrack to cost the same as the subway, subway fares will need
+       to rise, at least for longer distance trips.
+       Of course, this will not please those who take the position that
+       there should continue to be a flat fare within the city of Toronto.
+       Someone commuting from Malvern to the core pays more. Someone
+       commuting from Mississauga to Etobicoke likely pays less. I
+       empathize with many of the arguments in favour of a flat Toronto
+       wide fare. However, I will also note that poverty does not stop at
+       the 416/905 boundary, and that a fare concept like this would
+       remedy some of the injustices around that line on the map.
+       Steve: If Queen’s Park showed any sign of contributing money to
+       transit operations, one might argue that the 416/905 boundary is
+       meaningless as far as fares (and service) go. However, the TTC
+       operating subsidy is paid almost entirely by the City of Toronto
+       taxpayers. We don’t even want to help our own poor.
+       [160]LikeLiked by [161]1 person
+   23. David Weil | [162]February 8, 2016 at 11:15 am
+       Given that this is exactly as bad as I predicted, I am finding it a
+       challenge to come up with an adequately cynical response…
+       But I think ultimately our excellent mayor will come out in support
+       of this, as nothing else will make it possible for “SmartTrack” to
+       operate at “TTC” fares.
+       Steve: I think that is a major piece, unstated, of what is
+       happening here. Finding a model that integrates SmartTrack with
+       more revenue than just making it another TTC route. Tory will have
+       a lot of explaining to do when folks in Scarborough discover that
+       their ride downtown won’t be as cheap as they expected.
+       [163]LikeLiked by [164]1 person
+   24. Kevin Plautz | [165]February 8, 2016 at 11:34 am
+       This idea of charging more for taking the subway or a rapid LRT
+       line is a poor one, for all the reasons other people have stated. I
+       guess one reason why Metrolinx might propose it is that it might
+       divert people from taking subways and, therefore, reduce the need
+       to build new subways, such as the relief line. But, forcing people
+       to take longer to travel anywhere by persuading them to take buses
+       instead is a losing proposition in the long-run as, as other people
+       have stated, it will not create a more productive work force or
+       bring better employees, jobs and businesses to Toronto.
+       Hands-down it is unfair that people who simply cross a municipal
+       border have to pay more for a transit fare. The solution is to have
+       medium-sized zones and to allow people to travel anywhere within 2
+       zones for a regular fare but an additional half a fare for a third
+       zone, and perhaps an additional 3/4 fare for 4 zones, and so on
+       upwards. An extra dollar above the fare based on zones travelled
+       should be charged for GO trains as they are obviously a premium
+       service.
+       The following zones would make sense:
+       Central Toronto – south of Lawrence, east of Humber and generally
+       west of Victoria Park or Don Valley Parkway
+       Etobicoke
+       Scarbrough
+       North York – remainder of Toronto north of Lawrence, west of Vic
+       Park and east of Humber
+       Eastern Mississauga
+       Western Mississauga
+       Oakville
+       Brampton
+       Woodbridge
+       Thornhill/Richmond Hill
+       Markham
+       Pickering Ajax
+       Whitby
+       Oshawa
+       Aurora
+       Newmarket
+       In this way, a person in Western Mississauga could travel to
+       Etobicoke for just one fare, but would pay the extra 1/2 fare for a
+       trip to the Central Toronto zone (downtown).
+       A person in Richmond Hill could travel to North York could for a
+       regular fare but an extra 1/2 fare would be needed to go the
+       Central Toronto.
+       The only fare within the present Toronto that would require the
+       extra half fare would be to go from Etobicoke to Scarborough, or
+       vice-versa. That seems fine to me as that is a long trip.
+       Your Presto Card would automatically charge you for the regular
+       fare trips within the home zone where you buy the Card (an address
+       would be registered) and any adjacent zone. If you travel to a
+       third zone that would be an additional charge on your “monthly”
+       Presto card purchase, unless you bought a three-zone monthly card
+       at the start of the month.
+       I think this plan would make a lot of sense.
+       [166]LikeLiked by [167]1 person
+   25. [168]Malcolm N | [169]February 8, 2016 at 5:53 pm
+       Bottom line, I really believe that the issue with charging more of
+       longer trips, is that you are at the margin encouraging more car
+       use, and increasing the disadvantage of those who are stretched to
+       meet this cost. While I appreciate the concept of marginal costs
+       associated with longer trips, on the subway it only really applies
+       if the trip involves an area where the system is capacity
+       constrained. So would it not make more sense to charge for trips
+       that required a transit through say Yonge/Bloor? During the morning
+       rush the marginal costs of extra riders from Keele to Kipling is
+       trivial, as is the cost from say Eglinton to FInch. However from
+       Rosedale to Wellesley at say 8:10, well that is a different story,
+       the cost of one more rider, is very high, even though it is a very
+       short trip, you must displace or delay another rider to make that
+       trip (whereas the same trip the other way well is nearly free for
+       the system). The distance is not the real issue.
+       I would say, if you are using multiple systems, then yes, there
+       needs to be care taken, so that tax payers from one municipality
+       are not carrying the freight for another, however, this is also
+       what Provincial transfers are about. Creating a complex fare system
+       within Toronto, will likely increase costs, and have many
+       unforeseen effects, many of which will not be positive.
+       [170]LikeLike
+   26. [171]tmainframedino (@tmainframedino) | [172]February 8, 2016 at
+       6:29 pm
+       Transit fares should be set up like no fault insurance, where your
+       vehicle’s insurance company pays for the damage to your vehicle no
+       matter who was at fault. Translated to transit, that means that the
+       municipality where the fare originates should collect the proceeds
+       of all local fares (Subway, LRT, buses, SmartTrack) through all
+       jurisdictions.
+       For example, if a “local” trip begins in York Region and ends in up
+       Toronto, then York Region will the initial fare. On the return
+       trip, the reverse will be true where Toronto will collect the
+       initial fare. This will eliminate the need to double charge a
+       commuter for travelling across municipal boundaries.
+       For trips on GO buses and GO trains, the existing fares will
+       remain. Therefore, when a trip is a blend of GO and local service,
+       the the revenue will be split between the province (GO) and the
+       “first” municipality where the local service was boarded.
+       It is futile to try to collect the revenues for “each trip” to a
+       every municipality. Since most people use transit for round trips,
+       the municipalities will be fairly compensated at the end of each
+       day since the fare box credits and debits will offset each other.
+       This approach will work for most situations. We shouldn’t worry
+       about the exceptions where a commuter travels via local service
+       between 3 municipalities. The second municipality will not get
+       their cut of the proceeds, but that should be very rare.
+       Finally, a modest price adjustment may be needed to make up for
+       loss in overall revenues since commuters will no longer be double
+       charged. This can be achieved by paying a “premium” for trips that
+       occur in whole, or in part, during rush hour periods (7 am to 9 am,
+       4 pm to 6 pm)
+       [173]LikeLike
+   27. hamish wilson | [174]February 8, 2016 at 8:12 pm
+       We really need to somehow boost transit; and I’m thinking this
+       might be far more of a shift and shaft move than actually setting
+       the stages for increased use. Going beyond merely the fares to
+       overall mobility costs should occur – specifically how well cars
+       are subsidized and otherwise avoid their full costs. An older
+       Vancouver study reference Jan. 10, 1996 Globe found these car
+       costs/subsidies were a full SEVEN times higher than what was given
+       to transit, which is often a fairly easily found target/line item.
+       So if we actually had more user pay for the vehicles, including say
+       a 4 cent a litre health care tax, and maybe a drainage tax for the
+       asphalt, maybe we’d have less worry about what fares were devolving
+       to. Except of course, the less-dense areas of the GTA are not only
+       subsidized, but they tend to outvote the denser areas so at least
+       the Liberals will be tilted to the votorists, and we see the same
+       issues within Toronto with the older suburbs keeping the denser
+       core in a prone and paying position, along with ‘caronic’ denial of
+       subsidies to cars.
+       [175]LikeLike
+   28. Julian | [176]February 8, 2016 at 10:17 pm
+       This fundamental assumption that service costs are directly
+       proportional to distance are just plain wrong. An additional rider
+       on the king streetcar in peak hours between Spadina and Yonge has a
+       far greater marginal cost than an additional subway rider on the
+       Sheppard line. It essentially costs “nothing” to allow one extra
+       person on an empty bus. Why is there such insistence on distance
+       based fares rather than congestion pricing if we are aiming or
+       “fairness”?
+       Secondly how can you blur the municipal boundaries when the funding
+       sources of the different agencies come mostly from the local
+       residents? Toronto property tax funds the TTC so why should a non
+       Toronto resident pay the same fare as a Toronto resident who
+       additionally pays for the TTC through taxes? Especially if that
+       extra passenger pushes the service to capacity. I’m not against
+       fare integration but there cannot be a disparity between funding
+       sources of the different agencies unless the separate
+       municipalities can somehow accurately balance out the service and
+       availability costs.
+       Thirdly without an equivalent change in road pricing a change in
+       fare structure will be a disincentive to take transit. It’s still
+       unclear what problems Metrolinx are trying to solve with these
+       changes. It’s skipping the first steps of any fundamental decision
+       making process: root cause analysis, defining the problem, defining
+       metrics to measure the problem, generate alternatives and evaluate
+       their effectiveness bases on those metrics. Metrolinx seems to be
+       blindly chasing a solution without any exploration of the actual
+       “problem”.
+       [177]LikeLiked by [178]1 person
+   29. Zach H. | [179]February 8, 2016 at 10:30 pm
+       I think a simple zoned system with relatively large zones could
+       work well to address the actual problems (penalizing short
+       cross-border trips). However, the base fare would buy you travel
+       across two zones. Toronto would be set up with the greater core
+       area as one zone, and then a series of zones radiating around it.
+       Maybe 3 big ones, or perhaps 4. But there would be one full zone
+       between the 416/905 border and the greater core area.
+       Commuters from 416 would still get downtown with one fare, with the
+       added benefit that they could now also get to the first zone in
+       their neighbouring 905 municipality for one fare as well,
+       effectively opening up the job market a little bit more.
+       Core-bound trips originating in the 905 would have to touch at
+       least 3 zones, so would still have to pay a premium for a longer
+       trip.
+       Does this make sense? I think I’ve seen it in practice, but I’m not
+       much of a fare policy expert.
+       [180]LikeLike
+   30. Giancarlo | [181]February 9, 2016 at 7:17 am
+
+     Steve writes
+     … as a matter of municipal policy, we are trying to use transit to
+     improve access to jobs, education and other major parts of urban
+     life without requiring that people spend a fortune to do this.
+       Not to mention to do something about crippling gridlock. Have any
+       of these provincial experts realized that convoluted high prices
+       are not going to attract people to transit? I was originally mildly
+       in favor of fare by mode if the implementation was as simple as
+       other cities (Boston, Philly etc) but this is fare by mode _and_
+       distance. Stupid. It’s worth noting that in the cities the price
+       difference is not extreme for rapid/local service and since all
+       rapid service is flat fare it’s easy to know what your fare is and
+       inner burb riders are not gouged. I thought fare by mode could be a
+       lesser evil, since it would levy the price increase on short and
+       long haul riders. Clearly Metrolinx has certain prices in mind for
+       certain trips and has made up some after-the-fact nice sounding
+       descriptions of how their mystics came to these prices.
+       It would be one thing if all the new money was going to new
+       vehicles new lines and better service (sooner than 2025), but it’s
+       paying more for the same. The price hike will occur years before
+       the improved service, if it ever occurs at all. This will
+       definitely keep people in their cars.
+       [182]LikeLike
+   31. Kevin Reidy | [183]February 9, 2016 at 10:55 am
+       It looks like the people at Metrolinx don’t know the history of
+       local transit in and around Toronto. For over 100 years there have
+       been zones of one sort or another. Within the zone you could travel
+       on a single fare regardless of distance. What has changed is where
+       the boundaries are. Have they never seen the pictures with the vast
+       number of streetcars on Yonge Street before the subway was built?
+       That indicates that the Yonge subway was built in part to solve
+       problems with local transit.(The northernmost stop was at Eglinton,
+       not Glen Echo, the city’s northern boundary.)
+       [184]LikeLike
+   32. [185]Mapleson | [186]February 9, 2016 at 10:58 am
+       So I’ve read the Board presentation in detail and a few more things
+       became clear.
+       There are three ‘fare structure concepts’ that will be carried
+       forward:
+         1. Local flat-fares + distance-based non-local
+         2. Zone-based long-distance/rapid fares
+         3. “Hybrid”
+       Refining the ‘fare structures’ by service categories, zone size and
+       design, price structure, and transfer policies.
+          + Time-based transfers were thrown out as ‘variable and
+            unpredictable’ along with time-based fares.
+          + Region-wide flat fares are thrown out as they ‘do not reflect
+            value of longer trips’.
+       Steve: There is a bit of sophistry in the Metrolinx argument about
+       “time based” fares. They say that time-based transfers could be
+       implemented (as they already are in much of the 905), but somehow
+       this is different from a time based fare which they seem to be
+       interpreting as a metered trip value based on elapsed time. This
+       deliberate misrepresentation means that an important component of a
+       “flat” fare structure is not part of their discussion.
+       Some of their basic “principles” are contradictory:
+          + “For customer convenience and efficient use of the available
+            network, fares for different service types should be
+            comparable when the services serve the same market.”
+          + But “Where there is a significant difference in travel time,
+            fares should be lower for slower service types than for faster
+            service types”.
+          + Also, “To provide integrated use of the network, fares should
+            not penalise trips that require the use of multiple service
+            types”.
+       Steve: This piece of double-speak (or is it triple-speak?) is a
+       good example of the woolly thinking at Metrolinx. Each statement by
+       itself is reasonable, but in combination they don’t work and serve
+       only to provide a reference point for just about any fare scheme
+       they might come up with.
+       Smart Track is grouped with RER as “Regional Transit”, so it’s
+       assumed at GO fares, not TTC ‘local’.
+       Note: GO “long distance” fares aren’t being changed.
+       Base Case: GO ‘flat’ fare for short and medium and increases for
+       long distance; TTC et al. flat plus a high inter-system transfer*
+       (TTC and everyone else).
+          + Option 1: Lower GO ‘flat’ fare for short trips, increasing,
+            but cheaper price by distance for medium fares; Lower
+            inter-system transfer cost; higher base fare for all local
+            trips.
+          + Option 2: Lower short for local; GO fares at local levels for
+            short and medium trips; long distance lower than current
+            TTC+inter-system. Note: this option is operationally
+            impossible unless all the price reductions are underwritten
+            with new subsidy as no prices are higher than current.
+          + Option 3: Compared to Option 1 the definition of GO ‘short’
+            fares is expanded to middle of ‘medium’, but the increase in
+            costs of medium distances is faster to meet normal
+            long-distance fares; ‘rapid’ transit is priced at the same as
+            local transit for short trips, and same rate of increase as GO
+            ‘medium’ trips for anything longer.
+       From the introductory text and the general arrangement of options
+       provided, it’s clear that Option 3 will be the recommendation.
+       Using their Chart from slide 6, a ‘short’ trip would be under 6km;
+       and a medium trip would be 6-16km.
+       This ‘hybrid’ system seems like it will create new barriers, namely
+       at price inflection point distances. Smart Track would be at “GO
+       prices”, which would match “TTC Rapid prices” for distances around
+       10km to 16km (equal to a double TTC fare at 10km, and “TTC prices”
+       increasing from double to the 16km point).
+       For comparison, to the East:
+          + From Union on the TTC, 6km is between Chester & Pape (on
+            Bloor-Danforth); 10km is Main; 16km is Kennedy Rd (not the
+            actual station at 16.2km).
+          + From Union on GO Stouffville, 6km is between Greenwood (5.6km)
+            and Coxwell (6.4km); 10km is between Victoria Park (9.4km) and
+            Warden (10.6km); and 16km is Kennedy.
+          + From Union on GO Lakeshore East, 6km is between Greenwood
+            (5.6km) and Coxwell (6.4km); 10km is between Victoria Park
+            (9.4km) and Warden (10.6km); and 16km is east of McCowan
+            (16.2km).
+       To the North-East:
+          + From Union on the TTC, 6km is short of Davisville Station;
+            10km is between Lawrence and Wilson; 16km is to Finch (15.5km)
+            or west of Bessarion (16.2km).
+       To the North-West:
+          + From Union on the TTC, 6km is St. Clair; 10km is south of
+            Lawrence (10.6km); 16km is east of Downsview Park Station
+            (16.4km).
+          + From Union on GO Barrie, 6km is between Dundas (5.4km) and
+            Bloor (6.3km); 10km is south of Eglinton (10.4km); and Wilson
+            (14.6km) and Sheppard (17.5km).
+          + From Union on GO Kitchener, 6km is south of Bloor Station
+            (6.6km); 10km is south of Eglinton (10.4km); and 16km is
+            Kennedy.
+       To the West:
+          + From Union on the TTC, 6km is east of Dufferin (6.4km); 10km
+            is west of Runnymede (9.9km); 16km is west of Kipling
+            (15.3km).
+          + From Union on GO Milton, 6km is south of Bloor Station
+            (6.6km); 10km is east of Jane (10.2km); and 16km is west of
+            Kipling (15.5km).
+          + From Union on GO Kitchener, 6km is south of Bloor Station
+            (6.6km); 10km is at Rogers Rd / south of Eglinton (11.0km);
+            and 16km is east of Islington (16.7km).
+          + From Union on GO Lakeshore West, 6km is east of Parkside
+            (6.2km); 10km is east of Royal York (10.8km); and 16km is east
+            of Dixie (16.4km).
+       Steve: This is precisely the sort of sample calculation Metrolinx
+       should have provided in their report as an example of what happens
+       when specific values are plugged into their formulae. The
+       implications for TTC riders are horrendous.
+       Either they don’t understand what they are doing, or they are
+       deliberately hiding the effects.
+       [187]LikeLiked by [188]1 person
+   33. Jonathan | [189]February 9, 2016 at 11:10 am
+       I understand why Metrolinx should have it’s own fare policy, but I
+       don’t understand why it would apply to the TTC (except for
+       SmartTrack), unless Metrolinx was planning to meaningfully
+       subsidize TTC service. Am I missing something? What could Metrolinx
+       do to make the TTC adopt a regional fare policy?
+       [190]LikeLike
+   34. Mapleson | [191]February 10, 2016 at 11:07 am
+       @Jonathan,
+       Metrolinx has a lot of leverage with the TTC directly and
+       indirectly. They hold the purse strings for many major capital
+       projects. They can have the TTC subsidy from Queen’s Park adjusted.
+       They can make the TTC ‘look bad’ by advertising how they are the
+       only regional transit system that doesn’t play well with others.
+       They can unilaterally shut down SmartTrack plans.
+       [192]LikeLike
+   35. jason | [193]February 10, 2016 at 8:48 pm
+       Hopefully there will finally be a Co-fare with GO and TTC so I
+       don’t have to pay the full TTC fare before or after using GO train.
+       Steve: This is long overdue, but GO has always resisted the extra
+       subsidy this would require.
+       [194]LikeLike
+
+Leave a Reply [195]Cancel reply
+
+   Enter your comment here...
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Fill in your details below or click an icon to log in:
+     *
+     *
+     *
+     *
+     *
+
+   [196]Gravatar
+   Email (required) (Address never made public)
+   ____________________
+   Name (required)
+   ____________________
+   Website
+   ____________________
+   WordPress.com Logo
+
+   You are commenting using your WordPress.com account.
+   ( [197]Log Out / [198]Change )
+   Twitter picture
+
+   You are commenting using your Twitter account.
+   ( [199]Log Out / [200]Change )
+   Facebook photo
+
+   You are commenting using your Facebook account.
+   ( [201]Log Out / [202]Change )
+   Google+ photo
+
+   You are commenting using your Google+ account.
+   ( [203]Log Out / [204]Change )
+   [205]Cancel
+
+   Connecting to %s
+
+   [ ] Notify me of new comments via email.
+
+   Post Comment
+
+Recent Updates
+
+   January 29, 2016: [206]TTC Board Meeting January 21, 2016. Information
+   about presentations at the board meeting has been added. (CEO's Report,
+   Spadina Subway costs, Computer Aided Dispatching and Vehicle
+   Management, New Express Bus Routes)
+
+Search
+
+   Search ____________________ Search
+     * [207]RSS - Posts
+     * [208]RSS - Comments
+
+   CAPTION: February 2016
+
+      S      M      T      W       T      F      S
+   [209]« Jan
+           [210]1 2     [211]3  [212]4  [213]5 [214]6
+   7       [215]8 [216]9 [217]10 [218]11 12     13
+   [219]14 15     16    17      18      19     20
+   21      22     23    24      25      26     27
+   28      29
+
+Welcome to My New Site for 2015
+
+   The migration from my previous service provider is now complete, and
+   the domain name stevemunro.ca will bring readers here.
+
+   For more information about the migration, please read
+   [220]this article.
+
+   A note about broken links:
+
+   This site uses a different naming convention for posts than the
+   original version. Posts here are named, not numbered, and old links
+   using the numbers might fail with a "404 page not found" error.
+
+   To locate a post by its new identity, go to the [221]Archive Directory.
+   [222]Blog at WordPress.com. | [223]The Misty Lake Theme.
+
+   [224]Follow
+
+Follow “Steve Munro”
+
+   Get every new post delivered to your Inbox.
+
+   Join 107 other followers
+
+   ____________________
+
+   Sign me up
+   [225]Build a website with WordPress.com
+
+   IFRAME: [226]likes-master
+
+   %d bloggers like this:
+
+References
+
+   Visible links
+   1. http://stevemunro.ca/feed/
+   2. http://stevemunro.ca/comments/feed/
+   3. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/feed/
+   4. http://stevemunro.ca/2016/02/06/ttcs-2016-customer-charter-reviewed/
+   5. http://stevemunro.ca/2016/02/08/how-will-smarttrack-and-gorer-co-exist/
+   6. https://public-api.wordpress.com/oembed/1.0/?format=json&url=http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/&for=wpcom-auto-discovery
+   7. https://public-api.wordpress.com/oembed/1.0/?format=xml&url=http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/&for=wpcom-auto-discovery
+   8. http://stevemunro.ca/osd.xml
+   9. https://s1.wp.com/opensearch.xml
+  10. http://stevemunro.ca/
+  11. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#content
+  12. http://stevemunro.ca/category/transit/a-grand-plan/
+  13. http://stevemunro.ca/category/vehicles/commuter-rail-electrification/
+  14. http://stevemunro.ca/category/transit/don-mills-lrt/
+  15. http://stevemunro.ca/category/transit/subways/downtown-relief-line/
+  16. http://stevemunro.ca/category/transit/eglinton-lrt/
+  17. http://stevemunro.ca/category/transit/finch-west-lrt/
+  18. http://stevemunro.ca/category/beyond-416/go-transit/
+  19. http://stevemunro.ca/category/transit/jane-lrt/
+  20. http://stevemunro.ca/category/transit/sheppard-east-lrt/
+  21. http://stevemunro.ca/category/transit/scarborough-malvern-lrt/
+  22. http://stevemunro.ca/category/transit/scarborough-rt/
+  23. http://stevemunro.ca/category/transit/smarttrack/
+  24. http://stevemunro.ca/category/transit/union-station/
+  25. http://stevemunro.ca/category/transit/waterfront/
+  26. http://stevemunro.ca/category/transit/finance/
+  27. http://stevemunro.ca/category/transit/fares-fare-collection/
+  28. http://stevemunro.ca/category/transit/service-cost-and-quality/
+  29. http://stevemunro.ca/category/transit/service-analysis/
+  30. http://stevemunro.ca/category/transit/service-analysis/bathurst-bus/
+  31. http://stevemunro.ca/category/transit/service-analysis/bathurst-car/
+  32. http://stevemunro.ca/category/transit/service-analysis/carlton-car/
+  33. http://stevemunro.ca/category/transit/service-analysis/dufferin-bus/
+  34. http://stevemunro.ca/category/transit/service-analysis/dundas-car/
+  35. http://stevemunro.ca/category/transit/service-analysis/king-car/
+  36. http://stevemunro.ca/category/transit/kingston-road/
+  37. http://stevemunro.ca/category/transit/service-analysis/lawrence-east-bus/
+  38. http://stevemunro.ca/category/transit/service-analysis/queen-car/
+  39. http://stevemunro.ca/category/transit/service-analysis/spadina-car/
+  40. http://stevemunro.ca/category/transit/service-analysis/st-clair-car/
+  41. http://stevemunro.ca/category/transit/accessibility/
+  42. http://stevemunro.ca/category/vehicles/
+  43. http://stevemunro.ca/category/vehicles/buses/
+  44. http://stevemunro.ca/category/vehicles/streetcars/
+  45. http://stevemunro.ca/category/vehicles/subway-cars/
+  46. http://stevemunro.ca/category/transit/subways/
+  47. http://stevemunro.ca/category/transit/subways/spadina-subway/
+  48. http://stevemunro.ca/category/transit/subways/sheppard-subway/
+  49. http://stevemunro.ca/category/beyond-416/
+  50. http://stevemunro.ca/category/beyond-416/hamilton/
+  51. http://stevemunro.ca/category/beyond-416/hurontario-main-lrt/
+  52. http://stevemunro.ca/category/beyond-416/kitchener-waterloo/
+  53. http://stevemunro.ca/category/beyond-416/ottawa/
+  54. http://stevemunro.ca/category/beyond-416/vancouver/
+  55. http://stevemunro.ca/category/beyond-416/york-region/
+  56. http://stevemunro.ca/category/urban-affairs/
+  57. http://stevemunro.ca/category/urban-affairs/elections/
+  58. http://stevemunro.ca/category/transit/fantasy/
+  59. http://stevemunro.ca/category/urban-affairs/janes-walk/
+  60. http://stevemunro.ca/category/urban-affairs/looking-back/
+  61. http://stevemunro.ca/category/site-news/
+  62. http://stevemunro.ca/category/site-news/about-me/
+  63. http://stevemunro.ca/category/reviews/
+  64. http://stevemunro.ca/category/site-news/email/
+  65. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+  66. http://stevemunro.ca/author/stevemunrotoronto/
+  67. http://www.metrolinx.com/en/docs/pdf/board_agenda/20160210/20160210_BoardMtg_Fare_Integration_EN.pdf
+  68. http://www.metrolinx.com/en/docs/agendas/agendas_2016_02_10.aspx
+  69. https://swanboatsteve.files.wordpress.com/2016/02/201602_definingservicetypes.jpg
+  70. https://swanboatsteve.files.wordpress.com/2016/02/201602_continuityprinciple.jpg
+  71. http://seanmarshall.ca/2015/11/19/not-so-fair-by-distance-go-transits-problematic-fare-system/
+  72. https://swanboatsteve.files.wordpress.com/2016/02/201602_connectednetprinciple.jpg
+  73. https://swanboatsteve.files.wordpress.com/2016/02/201602_generalizedcostprinciple.jpg
+  74. https://swanboatsteve.files.wordpress.com/2016/02/201602_gradualincrementsprinciple.jpg
+  75. https://swanboatsteve.files.wordpress.com/2016/02/201602_zonesprinciple.jpg
+  76. https://swanboatsteve.files.wordpress.com/2016/02/201602_farebydistanceapproaches.jpg
+  77. https://swanboatsteve.files.wordpress.com/2016/02/201602_farestructuredesign.jpg
+  78. https://swanboatsteve.files.wordpress.com/2016/02/201602_statusquo.jpg
+  79. https://swanboatsteve.files.wordpress.com/2016/02/201602_concept1.jpg
+  80. https://swanboatsteve.files.wordpress.com/2016/02/201602_concept2.jpg
+  81. https://swanboatsteve.files.wordpress.com/2016/02/201602_concept3.jpg
+  82. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?share=twitter
+  83. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?share=facebook
+  84. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?share=google-plus-1
+  85. http://stevemunro.ca/category/beyond-416/
+  86. http://stevemunro.ca/category/transit/fares-fare-collection/
+  87. http://stevemunro.ca/category/beyond-416/go-transit/
+  88. http://stevemunro.ca/category/transit/
+  89. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+  90. http://stevemunro.ca/2016/02/06/ttcs-2016-customer-charter-reviewed/
+  91. http://stevemunro.ca/2016/02/08/how-will-smarttrack-and-gorer-co-exist/
+  92. http://transit.toronto.on.ca/
+  93. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47645
+  94. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47645&_wpnonce=8b71964cb1
+  95. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+  96. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47647
+  97. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47647&_wpnonce=de8f84a082
+  98. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+  99. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47648
+ 100. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47648&_wpnonce=3500782155
+ 101. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 102. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47649
+ 103. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47649&_wpnonce=92bdc98d53
+ 104. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 105. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47650
+ 106. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47650&_wpnonce=f2ad326704
+ 107. http://n/a
+ 108. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47654
+ 109. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47654&_wpnonce=0e45efae17
+ 110. http://twitter.com/OgtheDim
+ 111. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47655
+ 112. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47655&_wpnonce=ef044b5af4
+ 113. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 114. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47657
+ 115. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47657&_wpnonce=4af9310c73
+ 116. https://www.facebook.com/app_scoped_user_id/10105911224445640/
+ 117. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47660
+ 118. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47660&_wpnonce=03eb6ddf1a
+ 119. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 120. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47661
+ 121. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47661&_wpnonce=e52c07cd29
+ 122. http://korichardson.wordpress.com/
+ 123. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47662
+ 124. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47662&_wpnonce=6d10826df9
+ 125. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 126. http://transit.toronto.on.ca/
+ 127. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47663
+ 128. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47663&_wpnonce=0f836e309b
+ 129. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 130. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47664
+ 131. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47664&_wpnonce=aea0bf9186
+ 132. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 133. http://twitter.com/TorontoColin
+ 134. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47666
+ 135. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47666&_wpnonce=26b0b03312
+ 136. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 137. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47668
+ 138. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47668&_wpnonce=050fc44c7c
+ 139. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47669
+ 140. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47669&_wpnonce=104f586537
+ 141. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 142. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47670
+ 143. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47670&_wpnonce=6bf9d72b05
+ 144. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 145. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47672
+ 146. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47672&_wpnonce=82ff1b2d8a
+ 147. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 148. https://groups.google.com/d/forum/sosta
+ 149. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47673
+ 150. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47673&_wpnonce=9e2fbd7fad
+ 151. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 152. https://groups.google.com/d/forum/sosta
+ 153. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47675
+ 154. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47675&_wpnonce=fb8c30abbc
+ 155. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47676
+ 156. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47676&_wpnonce=94f8cce977
+ 157. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 158. http://twitter.com/skofz
+ 159. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47677
+ 160. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47677&_wpnonce=eb2dec7db6
+ 161. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 162. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47678
+ 163. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47678&_wpnonce=bc847b8e8b
+ 164. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 165. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47680
+ 166. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47680&_wpnonce=93c36cea70
+ 167. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 168. http://malcolmn65.wordpress.com/
+ 169. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47682
+ 170. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47682&_wpnonce=fbb00ca0fb
+ 171. http://twitter.com/tmainframedino
+ 172. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47684
+ 173. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47684&_wpnonce=597cd0b5fd
+ 174. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47685
+ 175. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47685&_wpnonce=ed9dfa3058
+ 176. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47686
+ 177. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47686&_wpnonce=8bc3fd0be7
+ 178. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 179. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47687
+ 180. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47687&_wpnonce=4483ce6b07
+ 181. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47695
+ 182. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47695&_wpnonce=4fc8ce25b6
+ 183. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47704
+ 184. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47704&_wpnonce=76c79d8c4f
+ 185. https://groups.google.com/d/forum/sosta
+ 186. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47705
+ 187. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47705&_wpnonce=1a3fd836be
+ 188. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 189. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47706
+ 190. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47706&_wpnonce=2e0febda85
+ 191. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47733
+ 192. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47733&_wpnonce=43a3134df8
+ 193. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-47747
+ 194. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/?like_comment=47747&_wpnonce=ad2711ad2b
+ 195. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#respond
+ 196. https://gravatar.com/site/signup/
+ 197. javascript:HighlanderComments.doExternalLogout( 'wordpress' );
+ 198. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 199. javascript:HighlanderComments.doExternalLogout( 'twitter' );
+ 200. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 201. javascript:HighlanderComments.doExternalLogout( 'facebook' );
+ 202. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 203. javascript:HighlanderComments.doExternalLogout( 'googleplus' );
+ 204. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/
+ 205. javascript:HighlanderComments.cancelExternalWindow();
+ 206. http://stevemunro.ca/2016/01/18/ttc-board-meeting-january-21-2016/
+ 207. http://stevemunro.ca/feed/
+ 208. http://stevemunro.ca/comments/feed/
+ 209. http://stevemunro.ca/2016/01/
+ 210. http://stevemunro.ca/2016/02/01/
+ 211. http://stevemunro.ca/2016/02/03/
+ 212. http://stevemunro.ca/2016/02/04/
+ 213. http://stevemunro.ca/2016/02/05/
+ 214. http://stevemunro.ca/2016/02/06/
+ 215. http://stevemunro.ca/2016/02/08/
+ 216. http://stevemunro.ca/2016/02/09/
+ 217. http://stevemunro.ca/2016/02/10/
+ 218. http://stevemunro.ca/2016/02/11/
+ 219. http://stevemunro.ca/2016/02/14/
+ 220. https://swanboatsteve.wordpress.com/2014/12/29/welcome-for-2015/
+ 221. http://swanboatsteve.wordpress.com/archive-directory/
+ 222. https://wordpress.com/?ref=footer_blog
+ 223. https://wordpress.com/themes/misty-lake/
+ 224. javascript:void(0)
+ 225. https://wordpress.com/?ref=lof
+ 226. http://widgets.wp.com/likes/master.html?ver=20151208#ver=20151208&mp6=1
+
+   Hidden links:
+ 228. http://stevemunro.ca/
+ 229. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-form-guest
+ 230. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-form-load-service:WordPress.com
+ 231. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-form-load-service:Twitter
+ 232. http://stevemunro.ca/2016/02/06/metrolinx-fare-integration-get-ready-to-pay-more-for-subway-trips/#comment-form-load-service:Facebook

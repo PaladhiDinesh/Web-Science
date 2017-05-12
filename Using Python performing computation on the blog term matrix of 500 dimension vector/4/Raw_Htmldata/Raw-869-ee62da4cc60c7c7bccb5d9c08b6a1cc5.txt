@@ -1,0 +1,948 @@
+
+<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="imagetoolbar" content="false"><meta name="viewport" content="width=device-width, user-scalable=yes"><meta name="robots" content="noodp,noydir" /><meta property="fb:app_id" content="81242742459" /><meta property="og:type" content="article" /><meta property="og:site_name" content="NBC Connecticut" /><meta property="og:description" content="McDonald’s has put a lot of marketing dollars behind revamping their image to become a “healthy” fast food option, but one of their newest “simple” and “fresh” options for clean-eaters will do more caloric..." /><meta property="og:title" content="New McDonald's Salad Has More Fat, Calories Than a Big Mac" /><meta property="og:url" content="http://www.nbcconnecticut.com/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html"/><meta property="og:image" content="http://media.nbcconnecticut.com/images/1200*675/McDonalds2.png" /><meta property="article:publisher" content="http://www.facebook.com/NBCConnecticut" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@nbcconnecticut" /><meta name="twitter:creator" content="@nbcconnecticut" /><meta name="twitter:url" content="http://www.nbcconnecticut.com/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html" /><meta name="twitter:title" content="New McDonald's Salad Has More Fat, Calories Than a Big Mac" /><meta name="twitter:description" content="McDonald’s has put a lot of marketing dollars behind revamping their image to become a “healthy” fast food option, but one of their newest “simple” and “fresh” options for clean-eaters will do more caloric..." /><meta name="twitter:image" content="http://media.nbcconnecticut.com/images/1200*675/McDonalds2.png?ak=bc" /><meta http-equiv="last-modified" content="2016-02-5@10:40:34 PST" /><meta name="tp:preferredRuntimes" content="Flash,HTML5"><meta name="tp:preferredFormats" content="mpeg4,m3u,webm,ogg,flv,F4M"><meta name="tp:FlashBlacklist" content="None|None"><script src="http://www.nbcconnecticut.com/includes/third_party_vendors.js?r=-1214624806" type="text/javascript"></script><script src="http://www.nbcudigitaladops.com/hosted/global_header.js"></script><script src="//cdn.optimizely.com/js/3203540553.js"></script><script type="text/javascript"></script><script type="text/javascript">
+
+// Stop older versions of IE from choking on calls to the console.
+if(typeof console == "undefined") {
+
+    console = {};
+    console.log = function(msg) {
+    // fail silently
+    }
+
+    console.warn = function(msg) {
+    // fail silently
+    }
+
+    console.error = function(msg) {
+    // fail silently
+    }
+
+    console.info = function(msg) {
+    // fail silently
+    }
+
+}
+</script><script type="text/javascript">
+  var nbc = {
+    brand:               "NBC Connecticut",           
+    cityName:            "Hartford",            
+    domain:              "www.nbcconnecticut.com",           
+    host:                "nbcconnecticut.com",             
+    market:              "nbcconnecticut",           
+    gmtOffset:           "4",      
+    path:                "/entertainment/the-scene",             
+    sectionType:         "AlphaSection",   
+    section:             "entertainment",         
+    subsection:          "the-scene",      
+    subsectionPageTitle: "Dining, shopping and nightlife",      
+    fullDomain:          "http://www.nbcconnecticut.com",      
+    fullPath:            "http://www.nbcconnecticut.com/entertainment/the-scene",            
+    env:                 "",         
+    siteKey:             "har", 
+    globalSiteKey:       "nbc",           
+    mediaDomain:         "http://media.nbcconnecticut.com", 
+    debug:               false,                  
+    roadblockOrdNumber:  614973632,
+    defaultLat:          "41.76",    
+    defaultLong:         "-72.67",   
+    tremorKey:           "52289094b872c",                 tremorSyndKey:       "5239b2feaee2e",                 tremorHTMLKey:       "5239c44e7e9e1",                 tremorHTMLSyndKey:   "5239c48490096",                 htmlPreroll:          true,                      
+
+    pdkPath:             "http://www.nbcconnecticut.com/assets/pdk565",              
+    pdkAcct:             "Yh1nAC",               
+
+    gmapKey:             "ABQIAAAAqVLuG7bZfizR7HmRA5SLvRRj84rCHBURYEZwx6fasPuzOpt8nRSpL5MJL7paTsTZL0c7QEF792OhAA",       
+    isMobile:            "false",       
+    contentID:           "367832631",
+    desktopContScroll:   "false",
+    mobileContScroll:    "true",
+    twitterVia:          "nbcconnecticut",
+    twitter:             "nbcconnecticut",
+    isWhiteLabel:        false, 
+    fbApiKey:            "e258a480740bb53cc9961db1794cc20d",
+    callLetters:         "WVIT",
+    newSiteLayout:       false,
+    mobileIntercept:      "" ,
+    mobileInterceptContent: 0,
+    mobileArticleGallery: true
+  };
+nbc.omniture = {firedRegistration: "test",ageRange: "",userGender: "",postalCode: "",playerType: "articleplayer",pageType: "article",suite:"nbculimdivisionprod,nbculimhartfordprod"};
+
+var zoneSec = nbc.section.replace(/-/g,"_");
+var zoneSubsec = nbc.subsection.replace(/-/g,"_");
+nbc.zone = zoneSec + "-" + zoneSubsec + "-" + nbc.omniture.pageType;
+
+
+nbc.video = {
+  fwSSID: "ots_wvit_entertainment_the-scene",
+  fwSSID_liveNoPre: "ots_wvit_live_nopreroll",
+  fwNetworkID : "382114",
+  fwManager :  {
+    network: "_live",
+    siteKey : ""
+  },
+  config: {
+    volume: 100 ,
+    htmlPreRoll: true,
+     htmlOmniture: false,    tremorFlashKey: "52289094b872c",
+    tremorFlashSyndKey: "5239b2feaee2e",
+    tremorHTMLKey: "5239c44e7e9e1",
+    tremorHTMLSyndKey: "5239c48490096"
+  },
+  pdkPath: "http://www.nbcconnecticut.com/assets/pdk565",
+  playerType: "articleplayer"
+};
+
+var partner_xfinity = false;
+
+
+var xfinityIsPersistant = false;
+var partnerXfinityValue = "";
+function getThePartnerCookie (cookieName) {
+    var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+    if(exp.test (document.cookie + ";")) {
+        exp.exec (document.cookie + ";");
+        return unescape(RegExp.$1);
+    }
+}
+if(getThePartnerCookie("partnerCookie")=="xfinity" && getThePartnerCookie("partnerSessionCookie")=="xfinity"){
+    xfinityIsPersistant = true;
+} else {
+    xfinityIsPersistant = false;
+}
+
+if(xfinityIsPersistant == true){
+    partnerXfinityValue = "xfinity";
+    console.log("partner xfinity");
+} else {
+    partnerXfinityValue = "";
+}
+
+var _oSourceParam = "";
+nbc.getReferrer = function(useAgentString){
+  var capturedUA = null;
+  var subDomainPresent = false;
+  var capturedReferral = "";
+  if(useAgentString==true){
+    var capturedUA = window.navigator.userAgent;
+    if(capturedUA.indexOf("FBAN") != -1 || capturedUA.indexOf("FBAV") != -1 || capturedUA.indexOf("FBDV") != -1 || capturedUA.indexOf("FBSV") != -1){
+      var cameFromFBUA = true;
+      var finalRef = "facebook.com";
+    }
+  }
+  if(!cameFromFBUA){
+    var capturedReferral = document.referrer;
+    if(capturedReferral != ""){
+      friendlyRef = capturedReferral.match(/:\/\/(.[^/]+)/)[1];
+      rSplit = friendlyRef.split(".");
+      if(rSplit.length == 2){
+        subDomainPresent = false;
+      } else if(rSplit.length == 3){
+        subDomainPresent=true;
+      }
+      if(subDomainPresent == true){
+        finalRef = friendlyRef.replace(/^[^.]+\./g,"");
+      } else {
+        finalRef = friendlyRef;
+      }
+    } else if(_oSourceParam != ""){
+      var finalRef = "facebook.com";
+    } else {
+      finalRef="";
+    }
+  }
+  return finalRef;
+};
+
+//have to put this here ticket 28958
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') {
+      c = c.substring(1,c.length);
+    }
+    if (c.indexOf(nameEQ) == 0) {
+      return c.substring(nameEQ.length,c.length);
+    }
+  }
+  return null;
+}
+
+  if(readCookie("zipCode")) {
+      weatherAdZipCode =  readCookie("zipCode");
+   }
+   else {
+      weatherAdZipCode = "06101";
+   }
+
+nbc.gptParams = {};
+nbc.referrer = nbc.getReferrer(true);
+    nbc.gptParams.gptZone = "entertainment/the-scene";
+    nbc.gptParams.suitenumber ="2620";
+      nbc.gptParams.suitename = "ots_web/wvit";
+  nbc.gptParams.slotData = [];
+nbc.gptParams.pageData = {
+      stage:"false",
+        adtest:"",
+    referrer:nbc.referrer,
+  sensitive : "false",
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      sensitiveCategory: false,
+    pagetype : "article",
+  contentid : "367832631",
+  feature : "Uncategorized",
+    sponsor: "",
+    searchkw: "",
+  adContentType: "Article",
+  zipcode : weatherAdZipCode,
+      category: "",
+        partner: partnerXfinityValue
+  };
+nbc.articlePage = {};
+nbc.articlePage.continuousScroll = false;
+nbc.articlePage.thisArticleID = 367832631;
+nbc.articlePage.targetedArticles = ['376740001', '376082771', '376118961', '376045511', '375828341', '375288001', '374646761', '373986231'];
+nbc.articlePage.targetedArticlesNonSponsored =  ['376740001', '376082771', '376118961', '376045511', '375828341', '375288001', '374646761', '373986231'];
+nbc.articlePage.ra = null;
+nbc.articlePage.foundSponsorCtype = "";
+
+
+nbc.loadVideoPlugins = ['akamaiHD','FreeWheel','comscore','conviva','captions','capcon','liveCaptions', 'streamsense'];
+
+
+
+var gigya_enabled = false;
+
+var enableTaboola = true;
+var enableTaboolaNewsroom = true;
+</script><script src="http://www.nbcconnecticut.com/includes/nbc.freewheelpolicy_map.js?r=985727183" type="text/javascript"></script><!-- Facebook Pixel Code --><script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1497632700532728');
+    fbq('track', "ViewContent");
+        </script><noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1497632700532728&ev=PageView&noscript=1"
+    /></noscript><!-- End Facebook Pixel Code --><script type="text/javascript">
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement("script");gads.async = true;gads.type = "text/javascript";var useSSL = "https:" == document.location.protocol;gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";var node =document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads, node);})();
+</script><script language="JavaScript">
+s_linkInternalFilters="javascript:,nbcconnecticut.com,media.nbcconnecticut.com,events.nbcconnecticut.com,tsn.nbcconnecticut.com,autos.nbcconnecticut.com";
+var nbcu_account="nbcuotsdivisiontotal,nbcuotsconnecticuttotal";
+var nbcu_prop8 ="nbc";
+var nbcu_prop9 ="CT";
+var nbcu_prop10 ="WVIT";nbc.callLetters = "WVIT";
+nbc.contentType = "";
+</script><script src="http://www.nbcconnecticut.com/includes/ots_omniture_code.js?r=1871588855" type="text/javascript"></script><script type="text/javascript">
+    var nbcVideoPageUtils = {}; // Iniitialize the global video object.
+</script><title>McDonald's New Kale Salad Has More Fat, Calories Than a Big Mac  | NBC Connecticut</title><link rel="canonical" href="http://www.nbcchicago.com/news/local/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html" /><meta name="description" content="McDonald’s has put a lot of marketing dollars behind revamping their image to become a “healthy” fast food option, but one of their newest “simple” and “fresh” options for clean-eaters will do more caloric..." /><meta itemprop="description" content="McDonald’s has put a lot of marketing dollars behind revamping their image to become a “healthy” fast food option, but one of their newest “simple” and “fresh” options for clean-eaters will do more caloric..."><meta name="keywords" content="McDonald's, Salad, Kale, Caesar, Bowl, Healthy, Nutrition, Menu" /><meta name="news_keywords" content="McDonald's, Salad, Kale, Caesar, Bowl, Healthy, Nutrition, Menu"><meta itemprop="keywords" content="McDonald's, Salad, Kale, Caesar, Bowl, Healthy, Nutrition, Menu"/><meta itemprop="name" content="McDonald's New Kale Salad Has More Fat, Calories Than a Big Mac"><meta name="title" content="McDonald's New Kale Salad Has More Fat, Calories Than a Big Mac" /><meta property="title" content="McDonald's New Kale Salad Has More Fat, Calories Than a Big Mac"/><link rel="image_src" href="http://media.nbcconnecticut.com/images/133*75/McDonalds2.png" /><meta itemprop="image" content="http://media.nbcconnecticut.com/images/133*75/McDonalds2.png"/><link rel="shortcut icon" href="http://media.nbcconnecticut.com/designimages/favicon.ico"><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_shared_global.css?r=583054724" type="text/css" /><!--startclickprintexclude--><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_v3_global_alt_tv.css?r=-873528045" type="text/css" /><!--endclickprintexclude--><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_v3.css?r=-1469207265" type="text/css" /><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_article.css?r=1674595118" type="text/css" /><script type="text/javascript">var thisIsAGalleryPage = false;</script><script type="text/javascript">
+  // mmModule is now deprecated, do not add to object.
+  mmModule = {}
+  mmModule.omni = "nbculimdivisionprod,nbculimhartfordprod";
+  nbc.omniture.suite = "nbculimdivisionprod,nbculimhartfordprod";
+</script><script src="http://www.nbcconnecticut.com/includes/jquery.validate190.min.js?r=-1947125988" type="text/javascript"></script><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/jqmodal2.css?r=-84437044" type="text/css" /><script src="http://www.nbcconnecticut.com/includes/jqModal.js?r=763204199" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/jqDnR.js?r=1894925958" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/jquery.easing.1.3.js?r=837681975" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_carousel_v3.js?r=-1923829739" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_global_common.js?r=-64916377" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_common_init.js?r=-1861400" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/swfobject-41.js?r=-841213525" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/thePlatform-omniture-core.js?r=-985780855" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_v3_major.js?r=-1666285436" type="text/javascript"></script><script type="text/javascript" src="http://www.nbcconnecticut.com/assets/pdk565/pdk/tpPdk.js"></script><script src="http://www.nbcconnecticut.com/includes/nbc_videoplayer_unified.js?r=-321527713" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/ots_omniture_tracker.js?r=-2123242642" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/waypoints.min.2.0.4.js?r=1637183002" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_article_desktop.js?r=-1268242807" type="text/javascript"></script><script type="text/javascript">
+// Random number generator for DART
+var randDARTNumber=0;
+
+function genSetRandDARTNumber() {
+    randDARTNumber = Math.round(Math.random()*1000000000000);
+}
+
+genSetRandDARTNumber();
+
+</script><script type="text/javascript">
+if(U.readCookie("zipCode")) {
+    weatherAdZipCode =  U.readCookie("zipCode");
+    nbc.gptParams.pageData.zipcode = weatherAdZipCode;
+ }
+ else {
+    weatherAdZipCode = "06101";
+ }
+
+nbc.weather= {
+  validatedZip: "",
+  adZipCode:weatherAdZipCode
+ };
+</script><script>
+var $buoop = {vs:{i:10,f:25,o:12.1,s:7},c:2};
+function $buo_f(){
+ var e = document.createElement("script");
+ e.src = "//browser-update.org/update.min.js";
+ document.body.appendChild(e);
+};
+try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+catch(e){window.attachEvent("onload", $buo_f)}
+</script><style>
+.buorg {
+    position:absolute;
+    width:100%;
+    top:0px;
+    left:0px;
+    border-bottom:1px solid #A29330;
+    background:#FDF2AB no-repeat 1em 0.55em url(http://browser-update.org/img/dialog-warning.gif);
+    text-align:left;
+    cursor:pointer;
+    font-family: Arial,Helvetica,sans-serif; color:#000;
+    font-size: 12px;
+    z-index: 1000;
+}
+.buorg div {
+    padding:5px 36px 5px 40px;
+}
+.buorg a {
+    color:#E25600;
+}
+#buorgclose {
+    position: absolute;
+    right: .5em;
+    top:.2em;
+    height: 20px;
+    width: 12px;
+    font-weight: bold;
+    font-size:14px;
+    padding:0;
+}
+</style><script type="text/javascript">
+   (function() {
+     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+     po.src = 'https://apis.google.com/js/plusone.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+   })();
+</script><script type="text/javascript">
+ var nbcinfoTools = nbcinfoTools || new nbc.tools('nbcinfoTools');
+            nbcinfoTools.iframeChatter();
+</script><script src="http://www.nbcconnecticut.com/includes/jquery.zclip.min.js?r=1244993093" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/jquery.carouFredSel-5.5.0-packed.js?r=-902484819" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/jquery.mousewheel-3.0.4.pack.js?r=-987626265" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/jquery.fancybox-1.3.4.pack.js?r=547073869" type="text/javascript"></script><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/jquery.fancybox-1.3.4.css?r=954862844" type="text/css" /><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><script type="text/javascript">
+// Get Cookie Value
+function getPartnerCookieValue (cookieName) {
+   var exp = new RegExp (escape(cookieName) + "=([^;]+)");
+   if(exp.test (document.cookie + ";")) {
+      exp.exec (document.cookie + ";");
+      return unescape(RegExp.$1);
+   }
+}
+// Write Cookie
+function writePartnerCookie (CookieName, CookieValue, periodType, offset) {
+   var expireDate = new Date ();
+   offset = offset / 1;
+   var myPeriodType = periodType;
+   switch (myPeriodType.toLowerCase()) {
+      case "years":
+         var year = expireDate.getYear();
+         // Note some browsers give only the years since 1900, and some since 0.
+         if (year < 1000) year = year + 1900;
+         expireDate.setYear(year + offset);
+      break;
+      case "months":
+         expireDate.setMonth(expireDate.getMonth() + offset);
+      break;
+      case "days":
+         expireDate.setDate(expireDate.getDate() + offset);
+      break;
+      case "hours":
+         expireDate.setHours(expireDate.getHours() + offset);
+      break;
+      case "minutes":
+         expireDate.setMinutes(expireDate.getMinutes() + offset);
+      break;
+      default:
+         // alert ("Invalid periodType parameter for writePartnerCookie()");
+      break;
+   }
+   try{
+      document.cookie = escape(CookieName ) + "=" + escape(CookieValue) + "; expires=" + expireDate.toGMTString() + "; path=/";
+         }catch(e){
+         }
+   try{
+      document.cookie = "partnerSessionCookie=xfinity; path=/";
+         }catch(ee){
+         }
+}
+</script><script type="text/javascript">
+    function checkPartnerCookie () {
+      if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+                           document.write('<scr'+'ipt src="http://shared.comcast.net/js-api/galacticvendor.js?signin=false&tab=email&profile=vendorcode&ft=true&id=xfinityNavBar"></scr'+'ipt>');         $(document).ready(function(){
+            $('body').addClass('xfinity');
+         });
+         xfinityOmniValue = "xfinity";// referenced in nbc_tracking_revamped
+      }
+    }
+   var xfinityOmniValue = "";
+    checkPartnerCookie();
+   </script><link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300,100' rel='stylesheet' type='text/css'><link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300' rel='stylesheet' type='text/css'><link href='http://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_global_rr.css?r=-1375058866" type="text/css" /><script src="http://www.nbcconnecticut.com/includes/nbc_global_rr.js?r=-696152606" type="text/javascript"></script><script type="text/javascript">
+var disableDownloadApp = false;
+</script><script type="text/javascript">
+  window._taboola = window._taboola || [];
+      _taboola.push({article:'auto', tracking:'_osource=taboola-recirc'});
+    !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/nbcots-network/loader.js');
+</script><script>
+  window._newsroom = window._newsroom || [];
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/nbcots-wvit/newsroom.js');
+</script>
+                  <script type="text/javascript">
+                    var w=window;
+                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"53333",ustr:"cs",originlat:0,clientrtt:2,ghostip:"70.186.31.39",
+                    ipv6:false,pct:10,clientip:"128.82.4.182",requestid:"aeb304",protocol:"",blver:6,akM:"dscb",akN:"",akTT:"O",akTX:"1",akTI:"aeb304",ai:"233040",re:"false"};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-
+                    1];a.parentNode.insertBefore(b,a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                  </script>
+                  </head><body id="article" class="article-har  har entertainment    breaking_red  nbc "><div id="adBackgroundContainer"></div><div id="leftLink" style="display:none;"><div class="linkButton"></div><a><div class="header">Previous:</div><img height="81" width="144"><span class="title"></span></a></div><div id="rightLink" style="display:none;"><a><div class="header">Up Next:</div><img height="81" width="144"><span class="title"></span></a><div class="linkButton"></div></div><!-- \\ GPT out-of-page // --><div id="gptoop" style="width:auto; height:auto; position:absolute; top:0px;"></div><script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('gptoop'); });
+</script><!-- \\ GPT out-of-page // --><script type="text/javascript">
+  var nbcfacebook = {
+    connected: "no"
+  };
+</script><script>
+    function callTransitional() {
+      window.location.href = nbc.fullDomain + '/transitional_ad/transitional_ad.html';
+    }
+  </script><script language="javascript1.2">var trkcid=367832631;var partnerID=1340511; var _hb=1;</script><script language="javascript1.2" src="http://www.nbcconnecticut.com/g/g/button/button_1.js"></script><script src="http://www.nbcconnecticut.com/includes/jquery.transit.js?r=-595949293" type="text/javascript"></script><script src="http://www.nbcconnecticut.com/includes/nbc_articleGallery.js?r=1865876410" type="text/javascript"></script><link rel="stylesheet" href="http://www.nbcconnecticut.com/templates/nbc_articleGallery.css?r=-2038207688" type="text/css" /><!-- // header \\ --><div id="header"><!-- // masthead \\ --><div id="dd_wrap"><div class="dd_news dd_top_pos"><div class="dd_div"><ul><li><a href="/news/local/"   title=""  name="&lpos=navigation hover&lid=local">Local</a></li><li><a href="/news/national-international/"   title=""  name="&lpos=navigation hover&lid=u.s. & world">U.S. & World</a></li><li><a href="/news/sports"   title=""  name="&lpos=navigation hover&lid=sports">Sports</a></li><li><a href="/news/health"   title=""  name="&lpos=navigation hover&lid=health">Health</a></li><li><a href="/news/tech/"   title=""  name="&lpos=navigation hover&lid=tech">Tech</a></li><li><a href="/news/weird/"   title=""  name="&lpos=navigation hover&lid=weird">Weird</a></li><li><a href="/weather/"   title=""  name="&lpos=navigation hover&lid=weather">Weather</a></li><li class="last"><a href="http://www.nbcconnecticut.com/news/local/Clear-The-Shelters-Animal-Adoption-Dogs-Cats-Pets-Event-NBC-Telemundo-315502721.html"    title=""  name="&lpos=navigation hover&lid=clear the shelters">Clear the Shelters</a></li></ul></div><div class="dd_div right"><span class="nav_blogs_hdr">Blogs</span><ul class="franchise"><li><a href="/blogs/dog-house/"   title="" name="&lpos=navigation hover&lid=dog house">Dog House</a></li><li><a href="/news/sports/new-york-giants.html"   title="Giants" name="&lpos=navigation hover&lid=giants">Giants</a></li><li class="last"><a href="/sports/new-england-patriots.html"   title="Patriots" name="&lpos=navigation hover&lid=patriots">Patriots</a></li></ul></div></div><div class="dd_entertainment dd_top_pos"><div class="dd_div"><ul><li><a href="/entertainment/entertainment-news"   title="" name="&lpos=navigation hover&lid=entertainment news">Entertainment News</a></li><li><a href="/entertainment/the-scene"   title="" name="&lpos=navigation hover&lid=the scene">The Scene</a></li><li><a href="/the-scene/real-estate/George-To-The-Rescue-Home-Renovation-LX-137496358.html"   title="" name="&lpos=navigation hover&lid=george to the rescue">George to the Rescue</a></li><li class="last"><a href="http://www.nbcnewyork.com/blogs/open-house/BreakfastWithOpenHouse-364168021.html"   title="" name="&lpos=navigation hover&lid=breakfast with open house">Breakfast With Open House</a></li></ul></div></div><div class="dd_the-scene dd_top_pos"><div class="dd_div"><ul><li class="last"><a href="/the-scene/events/This-Weekend.html"   title="" name="&lpos=navigation hover&lid=this weekend">This Weekend</a></li></ul></div><div class="dd_div right"><span class="nav_blogs_hdr">Blogs</span><ul class="franchise"><li><a href="/on-air/shows/1st-Look-LXTV-Best-in-Food-Nightlife-Travel-167601135.html"   title="" name="&lpos=navigation hover&lid=1st look">1st Look</a></li><li class="last"><a href="/blogs/open-house/"   title="" name="&lpos=navigation hover&lid=open house">Open House</a></li></ul></div></div><div class="dd_weather dd_top_pos"><div class="dd_div"><ul><li><a href="/weather/"   title="" name="&lpos=navigation hover&lid=forecast">Forecast</a></li><li><a href="/weather/maps/"   title="" name="&lpos=navigation hover&lid=maps & radar">Maps & Radar</a></li><li><a href="/weather/severe-weather-alerts"   title="" name="&lpos=navigation hover&lid=weather alerts">Weather Alerts</a></li><li><a href="/weather/school-closings"   title="" name="&lpos=navigation hover&lid=school closing alerts">School Closing Alerts</a></li><li class="last"><a href="/weather/stories/"   title="" name="&lpos=navigation hover&lid=weather news">Weather News</a></li></ul></div></div><div class="dd_offers dd_top_pos"><div class="dd_div"><ul><li class="last"><a href="/on-air/contests/"   title="" name="&lpos=navigation hover&lid=contests">Contests</a></li></ul></div></div><div class="dd_contact dd_top_pos"><div class="dd_div"><ul><li><a href="/contact-us/social-directory"   title="" name="&lpos=navigation hover&lid=social directory">Social Directory</a></li><li><a href="/contact-us/about-us/"   title="" name="&lpos=navigation hover&lid=about us">About Us</a></li><li><a href="/contact-us/community/"   title="" name="&lpos=navigation hover&lid=community">Community</a></li><li class="last"><a href="/contact-us/tv-listings/"   title="" name="&lpos=navigation hover&lid=tv listings">TV Listings</a></li></ul></div></div><div class="dd_troubleshooters dd_top_pos"><div class="dd_div"><ul><li><a href="/troubleshooters"   title="" name="&lpos=navigation hover&lid=troubleshooters">Troubleshooters</a></li><li class="last"><a href="/troubleshooters/NBC-Connecticut-Responds-365454081.html"   title="" name="&lpos=navigation hover&lid=nbc connecticut responds">NBC Connecticut Responds</a></li></ul></div></div></div><div id="masthead" style="position:relative;"><div id="mastheadLinks" style="position:relative;"><div id="mastheadLeftLinks"><div class="nojsv" id="logocont"><a href="/" title="NBC Connecticut" id="logo" target="_parent" name="&lpos=logo&lid=nbc connecticut"><img alt="NBC Connecticut " title="NBC Connecticut " src="http://media.nbcbayarea.com/designimages/oly-rings-Connecticut-desktop-logo-400x501.png" /></a></div></div><script type="text/javascript">
+            //<![CDATA[
+            function createCookieHour(name, value) {
+              var date = new Date();
+              date.setTime(date.getTime() + (1 * 60 * 60 * 1000));
+              var expires = "; expires="+date.toGMTString();
+              document.cookie = name + "=" + value+expires + "; path=/";
+            }
+            $(document).ready(function() {
+              // U.log(" cookie for full site "+U.getQueryParam("fullSite"));
+              if(U.getQueryParam("fullSite") == "y") {
+                if(U.readCookie("mobileFullSite")) {
+                  // dont store cookie
+                }
+                else {
+                  createCookieHour('mobileFullSite', 'y');   
+                }
+              }
+            });   
+            //]]></script><script type="text/javascript">
+      //<![CDATA[
+      $(document).ready(function(event) {
+        $("#sponsoredBackgrd").click(function(event) {
+          if( event.stopPropagation ) { event.stopPropagation(); } //For 'Good' browsers
+          else { event.cancelBubble = true; } //For IE
+        });
+      });
+      //]]></script><div id="mastheadRightLinks"><div id="mastheadWeatherModule"></div><script type="text/javascript">
+          //<![CDATA[
+                if(typeof randomValue == "undefined") {
+                    randomValue = "&rndm=" + Math.random()*10000000000000000;
+                };
+                $(document).ready(function() {
+                                      if(U.readCookie("zipCode")) { 
+                      weatherZipCode =  U.readCookie("zipCode");
+                    }
+                    else {
+                      weatherZipCode = "06101";
+                    }
+                                    dataString="h=weather_home_widget&zipCode="+weatherZipCode +"&moduleType=header" + randomValue;
+                  var urlpost='http://www.nbcconnecticut.com/i/dispatcher/';
+                  jQuery.ajax({
+                    type: "GET",
+                    url: urlpost,
+                    data: dataString,
+                    cache:false,
+                    dataType: "html",
+                    success: function(data){
+                      trimdata = jQuery.trim(data);
+                                            $("#mastheadWeatherModule").html(trimdata);
+                      $("#mastheadWeatherModule1").show();
+                    }
+                  });
+                });
+                //]]></script><div id="ugcBox"><a href="/newsletters" name="&lpos=masthead&lid=Newsletters">Newsletters</a> | <a href="/ugc/" class="ugcLink" name="&lpos=masthead&lid=submit photos">Share It</a> | <a href="mailto:news@nbcconnecticut.com?body=Thanks%20for%20contacting%20NBC Connecticut.%20Please%20use%20this%20e-mail%20to%20send%20us%20news%20tips.%20Be%20sure%20to%20include%20a%20phone%20number,%20so%20we%20can%20contact%20you%20quickly,%20if%20necessary.%20If%20your%20tip%20is%20urgent,%20call%20%20our%20news%20desk%20at%20860-313-6300." class="tipsLink">Tips</a></div><form id="searchForm" action="http://www.nbcconnecticut.com/results/" method="get" target="_parent"><input type="text" tabindex="1" size="24" value="Search" name="keywords" id="searchText" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;" /><input type="image" value="Go" src="http://media.nbcconnecticut.com/designimages/nbc_v3_search_mag.gif" class="submit" id="searchSubmit"></form></div></div></div><!-- \\ masthead // --><!-- // nav \\ --><div id="nav"><ul><li class="navItem_home" id="navItem_0"><a target="_parent" class="home" title="Home" href="/" name="&lpos=section navigation&lid=home">home</a></li><li id="navItem_1" class="navItem_news news first"><a href="/news/" title="News"  target="_parent" name="&lpos=section navigation&lid=news">news</a></li><li id="navItem_2" class="navItem_weather weather"><a href="/weather/" title="Weather"  target="_parent" name="&lpos=section navigation&lid=weather">Weather</a></li><li id="navItem_3" class="navItem_entertainment entertainment"><a href="/entertainment/" title="Entertainment"  target="_parent" name="&lpos=section navigation&lid=entertainment">Entertainment</a></li><li id="navItem_4" class="navItem_troubleshooters troubleshooters"><a href="/troubleshooters" title="Troubleshooters"  target="_parent" name="&lpos=section navigation&lid=troubleshooters">Troubleshooters</a></li><li id="navItem_5" class="navItem_nbc ct responds nbc ct responds"><a href="/troubleshooters/NBC-Connecticut-Responds-365454081.html" title="NBC CT Responds"  target="_parent" name="&lpos=section navigation&lid=nbc ct responds">NBC CT Responds</a></li><li id="navItem_6" class="navItem_aca aca"><a href="/traffic/" title="Traffic"  target="_parent" name="&lpos=section navigation&lid=traffic">Traffic</a></li><li id="navItem_7" class="navItem_contact contact last"><a href="/contact-us/" title="Contact Us"  target="_parent" name="&lpos=section navigation&lid=contact">Contact Us</a></li><li class="watchTV"><a href="http://www.nbc.com/app_link/nbctve" name="&lpos=nav&lid=Watch Live TV Now" target="_blank">Watch Live TV Now</a></li><li class="socialNavButtons"><div id="followLinks"><ul><li><a href="http://www.facebook.com/NBCConnecticut" id="fbLink" target="_blank" name="&lpos=section navigation&lid=facebook button"></a></li><li><a href="http://twitter.com/nbcconnecticut" id="twitterLink" target="_blank" name="&lpos=section navigation&lid=twitter button"></a></li><li><a href="http://instagram.com/nbcconnecticut" id="instagramLink" target="_blank" name="&lpos=section navigation&lid=instagram button"></a></li></ul></div></li></ul></div><div id="sectionNav" class="subnav-item-dropnav the-scene"><ul><li><a href="/entertainment/entertainment-news" title="Entertainment News"  class="entertainment-news"  target="_parent" name="&lpos=subsection navigation&lid=entertainment news">Entertainment News</a></li><li><a href="/entertainment/the-scene" title="The Scene"  class="the-scene"  target="_parent" name="&lpos=subsection navigation&lid=the scene">The Scene</a></li><li><a href="/the-scene/real-estate/George-To-The-Rescue-Home-Renovation-LX-137496358.html" title="George to the Rescue"  class=""  target="_parent" name="&lpos=subsection navigation&lid=george to the rescue">George to the Rescue</a></li><li><a href="http://www.nbcnewyork.com/blogs/open-house/BreakfastWithOpenHouse-364168021.html" title="Breakfast With Open House"  class=""  target="_parent" name="&lpos=subsection navigation&lid=breakfast with open house">Breakfast With Open House</a></li></ul></div><script src="http://www.nbcconnecticut.com/includes/nbc_v3_top_nav_dropdown.js?r=-1064437513" type="text/javascript"></script><style type="text/css">
+#canvas #breakingShare, #header #breakingShare {text-align:center;top:12px;overflow:hidden;left:950px;}
+.tlmd #canvas #breakingShare{ left:936px;}
+#breakingShare p {color:#bf8f89;font-family:Arial,Sans-Serif;font-weight:bold;text-align:center;font-size:14px;padding:0 0 6px;margin:0;}
+#breakingShare a {float:left;width:18px;height:18px;margin:0 2px;position:relative;}
+#breakingShare a span {background:url('http://media.nbcconnecticut.com/designimages/nbc-ots-sprite-021413.png') -100px -630px;float:left;width:18px;height:18px;text-indent:-9999em;}
+#breakingShare a#breakingTweet span {background-position:-125px -630px;}
+#breaking-news .breaking-news p, #breaking-news .details p {margin:0;}
+#breaking-news .breaking-news p a{color:#fff;}
+</style><style type="text/css">#article #body, #blog #body {margin-top:0;border:none;}</style><div id="breaking-news" class="warTopDisabled" data-tb-region="breaking news"><div id="breaking-container"><div class="breaking-news"><p><a href="http://www.nbcconnecticut.com/on-air/as-seen-on/Watch-NBC-Connecticuts-Newscasts-129162318.html" name="&lpos=Breaking News Bar&lid=Watch NBC Connecticut Live">WATCH LIVE</a></p></div><div class="details"><p><a href="http://www.nbcconnecticut.com/on-air/as-seen-on/Watch-NBC-Connecticuts-Newscasts-129162318.html" name="&lpos=Breaking News Bar&lid=Watch NBC Connecticut Live">Watch NBC Connecticut Live</a></p></div><div id="breakingShare"><p>Share</p><a id="breakingFBShare" href="http://www.facebook.com/share.php?u=http://www.nbcconnecticut.com/on-air/as-seen-on/Watch-NBC-Connecticuts-Newscasts-129162318.html" target="_blank"><span>Facebook</span></a><a id="breakingTweet" href="http://twitter.com/share?url=http://www.nbcconnecticut.com/on-air/as-seen-on/Watch-NBC-Connecticuts-Newscasts-129162318.html&text=Watch+NBC+Connecticut+Live" target="_blank"><span>Twitter</span></a></div></div></div><!-- GPT 3 --><div id="ad_hdr_2" class="ad"><div id="leaderboard1" class="adSlot adLeaderboard" data-sizes="970,66|970,90|728,90" data-ord="1" data-pos="top" data-module="" data-gptcollapse="true"></div></div></div><div id="stickyNav"><div id="pHeader"><div class="pLogo"><div class="img"><a href="/"><img alt="NBC Connecticut"  src="http://media.nbcbayarea.com/designimages/oly-rings-Connecticut-desktop-logo-400x501.png"></a></div><ul><li id="navItem_1" data-navnum="1" class="navItem_1"><a href="/news/" title="News" name="&lpos=section navigation&lid=">News</a></li><li id="navItem_2" data-navnum="2" class="navItem_2"><a href="/weather/" title="Weather" name="&lpos=section navigation&lid=">Weather</a></li><li id="navItem_3" data-navnum="3" class="navItem_3"><a href="/entertainment/" title="Entertainment" name="&lpos=section navigation&lid=">Entertainment</a></li><li id="navItem_4" data-navnum="4" class="navItem_4"><a href="/troubleshooters" title="Troubleshooters" name="&lpos=section navigation&lid=">Troubleshooters</a></li><li id="navItem_5" data-navnum="5" class="navItem_5"><a href="/troubleshooters/NBC-Connecticut-Responds-365454081.html" title="NBC CT Responds" name="&lpos=section navigation&lid=">NBC CT Responds</a></li><li id="navItem_6" data-navnum="6" class="navItem_6"><a href="/traffic/" title="Traffic" name="&lpos=section navigation&lid=">Traffic</a></li><li id="navItem_7" data-navnum="7" class="navItem_7 last"><a href="/contact-us/" title="Contact Us" name="&lpos=section navigation&lid=">Contact Us</a></li><li class="searchButton"><img src="http://media.nbcconnecticut.com/images/nbc-white-search.png" class="mag-grey"></li></ul></div><div class="search-field-bg" style=""><form id="stickyForm" action="http://www.nbcconnecticut.com/results/"  name="form_name" method="get"><input type="text" placeholder="Search..." value="Search" name="keywords" class="searchField" id="stickySearchField" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Search':this.value;"><input type="image" value="Go" src="http://media.nbcconnecticut.com/images/nbc-grey-search.png" class="submit" id="searchSubmitSticky" ></form></div><img width="12" height="12" alt="" src="http://media.nbcconnecticut.com/images/cancel-search-icon.png" class="stickySearchCancel"></div><div id="pVidHeader"><h5> Top Videos</h5><ol id="topVideo"><li class="  l1"><a href="http://www.nbcconnecticut.com/news/local/4-Students-Banned-Following-University-of-Hartford-Attempted-Robbery-377639451.html" name="&lpos=top videos article top nav click&lid=4 Students Banned Following Univ. of Hartford Attempted Robbery"><div class="topVideoContainer"><div class="thumb"><span class="video_icon"></span><img src="http://media.nbcconnecticut.com/images/133*75/university-of-hartford.jpg" /></div><h3>4 Students Banned Following Univ. of Hartford Attempted Robbery</h3></div></a></li><li class="  l2"><a href="http://www.nbcconnecticut.com/news/national-international/NYC-Parents-Break-Down-Cruise-Ship-Leaves-Port-With-Kids-Bahamas-377383161.html" name="&lpos=top videos article top nav click&lid=Cruise Ship Leaves Port With Kids After Parents Miss the Boat"><div class="topVideoContainer"><div class="thumb"><span class="video_icon"></span><img src="http://media.nbcconnecticut.com/images/133*75/CRUISE+SHIP+MOM1.jpg" /></div><h3>Cruise Ship Leaves Port With Kids After Parents Miss the Boat</h3></div></a></li><li class="  l3"><a href="http://www.nbcconnecticut.com/news/national-international/Teenager-Four-Fingers-Piano-Carnegie-Hall-377367181.html" name="&lpos=top videos article top nav click&lid=Self-Taught Teen Pianist With 4 Fingers Performs at Carnegie Hall"><div class="topVideoContainer"><div class="thumb"><span class="video_icon"></span><img src="http://media.nbcconnecticut.com/images/133*75/darrius+carnegie+hall.jpg" /></div><h3>Self-Taught Teen Pianist With 4 Fingers Performs at Carnegie Hall</h3></div></a></li><li class="  l4"><a href="http://www.nbcconnecticut.com/news/local/Severe-Respiratory-Infection-Outbreak-at-Windsor-Kennel-CVMA-377501601.html" name="&lpos=top videos article top nav click&lid=Severe Respiratory Infection Outbreak at Windsor Kennel: CVMA"><div class="topVideoContainer"><div class="thumb"><span class="video_icon"></span><img src="http://media.nbcconnecticut.com/images/133*75/image2136.jpg" /></div><h3>Severe Respiratory Infection Outbreak at Windsor Kennel: CVMA</h3></div></a></li></ol></div></div><body id="article_0"><section id="article-sec_0"><!--[if lte IE 8 ]><div class="article_section"><![endif]--><div id="article_0" class="article_elements  medium  "><!--startclickprintinclude--><article id="article_0_elements"><div id="article_0_headline_byline" class="headline_region"><h1 class="headline" itemprop="headline">New McDonald's Salad Has More Fat, Calories Than a Big Mac</h1><h2 class="subtitle">“A salad so delicious, it might be hard to stay calm,” McDonald’s website reads of the new menu item</h2><div class="socialNetworks-top"><div class="social-icon facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.nbcconnecticut.com/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html" onclick="window.open(this.href, 'facebookWindow',
+            'width=500,height=500'); return false;" title="Facebook"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></i></a></div><div class="social-icon twitter"><a href="http://twitter.com/share?url=http://www.nbcconnecticut.com/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html&text=New+McDonald%27s+Salad+Has+More+Fat%2C+Calories+Than+a+Big+Mac&via=nbcconnecticut" onclick="window.open(this.href, 'twitterWindow', 'width=500,height=500'); return false;" title="Twitter"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></div><div class="social-icon comment"><a href="#comments" title="Comment"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-comments-o fa-stack-1x fa-inverse"></i></span></a></div><div class="social-icon email" onmouseout="return(ETMouseOut());" onmouseover="return(ETMouseOver());" onclick="nbc.updatePrintCall(this);return(ET());" title="Email"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i></span></div><div class="social-icon print" onmouseout="return(PTMouseOut());" onmouseover="return(PTMouseOver());" onclick="nbc.updatePrintCall(this);return(PT());" title="Print"><span class="fa-stack"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-print fa-stack-1x fa-inverse"></i></span></div></div><!--startclickprintinclude--></div><!--endclickprintinclude--><div class="article rightrail"><div class="rail adunit rect1" data-size="300x250" style="position:relative;"><span id="tp-ad-slot_300x250" class="_fwph freewheelRightRail"><form id="_fw_form_tp-ad-slot_300x250" style="display:none"><input type="hidden" name="_fw_input_tp-ad-slot_300x250" id="_fw_input_tp-ad-slot_300x250" value="w=300&h=250&envp=g_js"></form><span id="_fw_container_tp-ad-slot_300x250" class="_fwac"></span></span><div id="rect1" class="adSlot adRect" data-sizes="50,50|300,250|300,600" data-ord="1" data-pos="top" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div></div><div class="rail topstories"><h3 id="storyListHeader-0" class="rightrail title"></h3><div class="blackdivider1"></div><ul id="storyList-0" class="${optimizelyTest}"></ul></div><div class="rail weatherbug" style="margin: 25px 0;"><div class="rail weatherbug"><div id="top-stories-weather"><div class="weather-module"><div id="weather-module-data-0"><div id="processingWeatherLoading"><img alt="processing..." src="http://media.nbcconnecticut.com/designimages/nbc-ajax-loader.gif"/></div></div></div><script src="http://www.nbcconnecticut.com/includes/nbc_weather_module.js?r=1394217557" type="text/javascript"></script><script type="text/javascript">
+  //<![CDATA[
+  /* Load weather data for the homepage */
+
+  jQuery(document).ready(function() {
+    jQuery("#processingWeatherLoading").show();
+
+    if(U.readCookie("zipCode")) {
+      weatherZipCode =  U.readCookie("zipCode");
+    } else {
+            weatherZipCode = "06101";
+    }
+
+          dataString="h=weather_home_widget&zipCode="+weatherZipCode;
+      nbc_adIframePartner = "";
+    
+    var urlpost='/i/dispatcher/';
+    jQuery.ajax({
+      type: "GET",
+      url: urlpost,
+      data: dataString,
+      cache:false,
+      dataType: "html",
+
+      success: function(data){
+        trimdata = jQuery.trim(data);
+        jQuery("#weather-module-data-0").html(trimdata);
+        if( jQuery(".changeLocation").length > 0 ) {
+            nbcWeatherChangeLoc.init("#weather-module-data-0");
+        };
+        jQuery("#processingWeatherLoading").hide();
+        if(nbc.omniture.pageType == "article") {
+            try{
+              nbc.weatherModuleUpdate.activateTracking(0);
+            } catch(e){
+              if(nbc.env !== ""){console.log(e);}
+            }
+            if(nbc.market == "nbcphiladelphia" || nbc.market == "nbcmiami") {
+                nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            }
+        } else {
+            nbcgptengine.buildAnAdSlot("#weather_ad_0", "88,31", 1,"top","weather",false, nbc_adIframePartner);
+            jQuery('#weather-module-data-0 .weather-module-wrapper a').click(function(e){
+                e.preventDefault();
+                var target = (jQuery(this).attr('target')) ? jQuery(this).attr('target') : '';
+
+                var omniTrack = jQuery(this).data('tracking');
+                nbcu.linkTrackVars="eVar7";
+                nbcu.eVar7 = 'weather-rightrail|' + omniTrack;
+
+                if(target.length > 0) {
+                    var targetURL = jQuery(this).attr('href');
+                    nbcu.tl(this,'o',nbcu.eVar7,null, function() {
+  		            window.open(targetURL,target);
+  		        });
+                } else {
+                    nbcu.tl(this,'o',nbcu.eVar7,null,'navigate');
+                }
+
+            })
+        }
+      }
+    }); // END AJAX call
+  }); // END document.ready
+  //]]></script></div></div></div><div class="rail adunit rect2" data-size="300x160"><div id="rectSmall1" class="adSlot adRectSmall" data-sizes="300,160" data-ord="1" data-pos="top" data-module="" style="width: 300px; height: 160px;"></div></div><!-- loadInlineNwsModule | false --><!-- nwsLetterEmbedded  | false --><!-- nwsModuleAttached | false --><div class="newsletterSignupBox"><div class="nsBox"><h3 class="rightrail title"><a href="/newsletters"> NEWSLETTERS </a></h3><a href="/newsletters"><span style="display:block" class="icon envelope"></span></a><div class="blackdivider1"></div><h3 class="newsletter copy">Receive the latest the-scene  updates in your inbox</h3><form method="post" id="newsletterBox-0" class="nsForm" name="ns-subscribe-form" class="validate" target="_blank" data-nsHandlerKey = ""><fieldset><input class="required nsEmail" name="EMAIL" type="text" value="" onfocus="nsu.clearSignup(this)" /><input class="nsSubscribe" name="subscribe" type="submit" value="Sign up" /></fieldset></form></div><div class="nsFooter"><a href="http://www.nbcuniversal.com/privacy/" name="&lpos=Newsletter Sign Up&lid=Privacy policy">Privacy policy</a> | <a href="/newsletters/" name="&lpos=Newsletter Sign Up&lid=More Newsletters">More Newsletters</a></div></div><script type="text/javascript">
+            jQuery(document).ready(function() {
+
+                nbc.validateEmail = function(submittedAddr, currentArticle) {
+                    if( (submittedAddr.length > 0) && (submittedAddr != "Email") ) {
+                        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                        return emailReg.test(submittedAddr);
+                    } else {
+                        jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                        return false;
+                    }
+                }
+
+                nsu = {};
+                nsu.hasOmnitureFired = false;
+
+                nsu.clearSignup = function(dasEle){
+                    var str=dasEle.value;
+                    var clearId = jQuery(dasEle).parent().parent().attr('id');
+                    if((str.toLowerCase() == "email") || (str.toLowerCase() == "correo electronico") || (str.toLowerCase() == "please enter a valid e-mail address") || (str.toLowerCase() == "invalid email address") || (str.toLowerCase() == "there was an error subscribing")){
+                        dasEle.value="";
+                        $('#' + clearId + " .nsEmail").css({"color":"#333"});
+                    }
+                }
+
+                nsu.signUserUp = function(email, nsHandlerKey, currentArticle) {
+                    var isAddressValid = nbc.validateEmail(email, currentArticle);
+                    thisNewsletterID = nsHandlerKey;
+                    if(isAddressValid != true) {
+                        return false;
+                    } else {
+                        nsu.subscribeUser(email, nsHandlerKey, currentArticle);
+                    }
+                }
+
+
+                nsu.fireOmniValues = function() {
+                    nbcu.un = nbcu_account;
+                    nbcu.prop7 = 'News Newsletter Sign Up';
+                    nbcu.eVar7 = 'News Newsletter Sign Up';
+                    nbcu.events = 'event19';
+                    nbcu.linkTrackVars = 'prop7,eVar7,events';
+                    nbcu.linkTrackEvents = 'event19';
+                    U.log(nbcu.prop7 + ' | ' + nbcu.eVar7 + ' | ' + nbcu.events + ' | ' + nbcu.linkTrackVars);
+                    try {
+                    nbcu.tl(true,'o','News Newsletter Sign Up Complete');
+                    }
+
+                    catch(e) {
+                    U.log(e);
+                    }
+                    nsu.hasOmnitureFired = true;
+                    return false;
+                }
+
+                nsu.subscribeUser = function(email, nsHandlerKey, currentArticle) {
+                    var ajaxUrl = "/i/dispatcher/?h=newsletter&subscribe=yes&email="+email+"&subscribeIds=" + nsHandlerKey;
+                    jQuery.ajax({
+                        type: 'POST',
+                        url: ajaxUrl,
+                        dataType: 'json',
+                        success: function(data) {
+                            if(data.status == 200) {
+                                nsu.fireOmniValues();
+                                jQuery('#newsletterBox-'+ currentArticle + '.nsForm').html('<span class="nsConfirm">Thank you for signing up!</span>');
+                            } else {
+                                if(nbc.env == "dev."){console.log(data.detailResponse)};
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+                                jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                            }
+                        },
+                        error: function(data) {
+                            if(nbc.env == "dev."){console.log(data.detailResponse)};
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("There was an error subscribing");
+                            jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').css({"color":"red","text-transform":"none"});
+                        }
+                    });
+                }
+
+                var currentArticle = 0;
+                var nsHandlerKey = "";
+                jQuery('#newsletterBox-'+ currentArticle + '.nsForm' ).submit(function() {
+                    nsHandlerKey = jQuery(this).attr('data-nsHandlerKey');
+                    capturedEmail = jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val();
+                    nsu.signUserUp(capturedEmail, nsHandlerKey, currentArticle);
+                    return false;
+                });
+            });
+
+        </script><div class="rail adunit rect1" data-size="300x250"><div id="rect2" class="adSlot adRect" data-sizes="300,250" data-ord="2" data-pos="bottom" data-module="" data-gptcollapse="false" style="width: auto; height: auto;"></div></div></div><!--startclickprintinclude--><figure><div class="leadMediaRegion image"><div class="leadMediaThumbnail image" data-cid="227447161"><img itemprop="thumbnailUrl" src="http://media.nbcconnecticut.com/images/652*367/McDonalds2.png" width="100%"></div><div class="leadMediaCredit"><span>McDonald's Corp.</span></div></div><div class="leadMediaCaption">McDonald's website boasts the "Keep Calm, Caesar On" salad bowl as "a nutrient-rich lettuce blend with baby kale, delicately topped with delicious crispy bacon, real parmesan petals and roasted garlic focaccia croutons."</div></figure><div id="at_0" class="articleText" itemprop="articleBody"><p class="paragraph" data-pnum="1">McDonald&rsquo;s has put a lot of marketing dollars behind <a target="_blank" href="http://www.nbcchicago.com/news/local/McDonalds-Unveils-New-Sleek-Modern-Packaging-364524921.html">revamping their image</a> to <a target="_blank" href="http://www.nbcchicago.com/news/health/Fast-Food-Chains-2015-Artificial-Preservatives-287356471.html">become a &ldquo;healthy&rdquo; fast food option</a>, but one of their newest &ldquo;simple&rdquo; and &ldquo;fresh&rdquo; options for clean-eaters will do more caloric damage than a Big Mac, according to the chain's nutrition information.</p><p class="paragraph" data-pnum="2">The fast-food giant recently unveiled a new line of salad bowls that contain kale, a leafy &ldquo;superfood&rdquo; that has become a sensation for its nutritional value and being packed-full of vitamins.</p><p class="paragraph" data-pnum="3">&ldquo;A salad so delicious, it might be hard to stay calm,&rdquo; McDonald&rsquo;s <a target="_blank" href="http://www.mcdonalds.ca/ca/en/menu/full_menu/salads/keep_calm_caesar_on.html/#/">website reads</a> of the new menu item, the &ldquo;Keep Calm, Caesar On&rdquo; salad. But dieters might have a hard time keeping calm after finding their bowl of greens has more fat, calories, cholesterol and sodium than most of the other items on the entire menu.</p><p class="paragraph" data-pnum="4">McDonald&rsquo;s promotes the salad with crispy chicken as &ldquo;a nutrient-rich lettuce blend with baby kale, delicately topped with delicious crispy bacon, real parmesan petals and roasted garlic focaccia croutons.&rdquo;</p><p class="paragraph" data-pnum="5">Although McDonald&rsquo;s leaves out the dressing the salad comes with in its initial calculation of&nbsp;<a target="_blank" href="http://www.mcdonalds.ca/ca/en/food/nutrition_centre.html#/">nutritional information listed online</a>, all-in-all this is the how the new &ldquo;Keep Calm, Caesar On&rdquo; salad with crispy chicken stacks up against other popular meals:</p><p class="paragraph" data-pnum="6"><strong>Kale Caesar Salad Crispy Chicken<br /></strong>730 calories (with dressing)<br />
+10g saturated fat<br />
+100mg cholesterol<br />
+1140 mg sodium</p><p class="paragraph" data-pnum="7"><strong>Bacon McDouble Sandwich<br /></strong>420 calories<br />
+9g saturated fat<br />
+70mg cholesterol<br />
+1050mg sodium</p><p class="paragraph" data-pnum="8"><strong>Big Mac<br /></strong>520 calories<br />
+10g saturated fat<br />
+70mg cholesterol<br />
+950mg sodium</p><p class="paragraph" data-pnum="9"><strong>10-Piece Chicken Nugget<br /></strong>460 calories<br />
+5g saturated fat<br />
+70mg cholesterol<br />
+820mg sodium</p><p class="paragraph" data-pnum="10"><strong>Large French Fries<br /></strong>560 calories<br />
+3.5g saturated fat<br />
+0mg cholesterol <br />
+420mg sodium</p><p class="paragraph" data-pnum="11"><strong>Regular Oreo McFlurry<br /></strong>560 calories<br />
+12g saturated fat<br />
+45mg cholesterol<br />
+390mg sodium</p><p class="paragraph" data-pnum="12">Swapping out the &ldquo;crispy&rdquo; chicken for grilled is an option, but will only save you 160 calories. The American Heart Association recommends eating just 2,000 milligrams of sodium and 1,200 to 1,500 calories per day.</p><p class="paragraph" data-pnum="13">McDonald's does offer other salad options that are not as hard-hitting to the waistline. McDonald's Southwest Salad only contains 280 calories and 490 milligrams of sodium, <a target="_blank" href="http://www.cnbc.com/2016/02/04/mcdonalds-salad-has-more-calories-than-big-mac.html">CNBC points out</a>, which includes a creamy southwest dressing. A side salad without dressing is only 15 calories and 10 milligrams of sodium.</p><p class="paragraph" data-pnum="14">A spokesperson for McDonald&rsquo;s did not immediately respond Friday to a request for comment.</p><div class="dateline bottom">Published at 3:45 PM EST on Feb 5, 2016</div><div class="articleAutoFooter"></div><h5 class="copyright"></h5><div id="taboola-below-article-thumbnails" style="margin-top:50px;"></div><script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                       mode: 'thumbnails-a',                      container: 'taboola-below-article-thumbnails',
+                      placement: 'Below Article Thumbnails',
+                      target_type: 'text'
+                    });
+                  </script><div id="taboola-below-article-text-links" style="clear:none"></div><script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({
+                       mode: 'hybrid-text-links-a',                        container: 'taboola-below-article-text-links',
+                      placement: 'Below Article Text Links',
+                      target_type: 'text'
+                    });
+                  </script></div></article><!--endclickprintinclude--><aside><div id="article-comments" itemprop="comment"><a name="comments"><span id="article-comments-header"> Leave Comments </span></a><div class="fb-comments" data-href="http://www.nbcconnecticut.com/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html" data-num-posts="6" data-width="650" style="clear:both;"></div></div><div class="ad" id="ad_3"><div id="leaderboard2" class="adSlot adLeaderboard" data-sizes="728,90" data-ord="2" data-pos="bottom" data-module="" data-gptcollapse="true"></div></div></aside><!--[if lte IE 8 ]></div><![endif]--></section><div id="contentTrigger" class="clear"></div><div id="loader"></div><div id="cScrollIndicatorRect"><div class="cScrollIndicatorContainer"><span id="cScrollIndicator"></span></div></div><div id="upwardScrollFixedRect"><div class="upwardScrollContainer"><span id="upwardScrollArrow"></span></div></div><div id="footer"><script async src='//www.adreadytractions.com/rt/677831?p=59061'></script><div id="footerDiv"><div id="footerLinks"><div class="footCol"><ul class="news"><li class="header"><a href="/news/" name="&lpos=footer&lid=news">News</a></li><li><a href="/news/local/" title="Local" name="&lpos=footer&lid=local">Local</a></li><li><a href="/news/national-international/" title="U.S. & World" name="&lpos=footer&lid=u.s. & world">U.S. & World</a></li><li><a href="/news/sports" title="Sports" name="&lpos=footer&lid=sports">Sports</a></li><li><a href="/news/health" title="Health" name="&lpos=footer&lid=health">Health</a></li><li><a href="/news/tech/" title="Tech" name="&lpos=footer&lid=tech">Tech</a></li><li><a href="/news/weird/" title="Weird" name="&lpos=footer&lid=weird">Weird</a></li><li><a href="/weather/" title="Weather" name="&lpos=footer&lid=weather">Weather</a></li><li><a href="http://www.nbcconnecticut.com/news/local/Clear-The-Shelters-Animal-Adoption-Dogs-Cats-Pets-Event-NBC-Telemundo-315502721.html" title="Clear the Shelters" name="&lpos=footer&lid=clear the shelters">Clear the Shelters</a></li><li><a href="/blogs/dog-house/" title="Dog House" name="&lpos=footer&lid=dog house">Dog House</a></li><li><a href="/news/sports/new-york-giants.html" title="Giants" name="&lpos=footer&lid=giants">Giants</a></li><li><a href="/sports/new-england-patriots.html" title="Patriots" name="&lpos=footer&lid=patriots">Patriots</a></li></ul></div><div class="footCol"><ul class="weather"><li class="header"><a href="/weather/" name="&lpos=footer&lid=weather">Weather</a></li><li><a href="/weather/" title="Forecast" name="&lpos=footer&lid=forecast">Forecast</a></li><li><a href="/weather/maps/" title="Maps & Radar" name="&lpos=footer&lid=maps & radar">Maps & Radar</a></li><li><a href="/weather/severe-weather-alerts" title="Weather Alerts" name="&lpos=footer&lid=weather alerts">Weather Alerts</a></li><li><a href="/weather/school-closings" title="School Closing Alerts" name="&lpos=footer&lid=school closing alerts">School Closing Alerts</a></li><li><a href="/weather/stories/" title="Weather News" name="&lpos=footer&lid=weather news">Weather News</a></li></ul></div><div class="footCol"><ul class="entertainment"><li class="header"><a href="/entertainment/" name="&lpos=footer&lid=entertainment">Entertainment</a></li><li><a href="/entertainment/entertainment-news" title="Entertainment News" name="&lpos=footer&lid=entertainment news">Entertainment News</a></li><li><a href="/entertainment/the-scene" title="The Scene" name="&lpos=footer&lid=the scene">The Scene</a></li><li><a href="/the-scene/real-estate/George-To-The-Rescue-Home-Renovation-LX-137496358.html" title="George to the Rescue" name="&lpos=footer&lid=george to the rescue">George to the Rescue</a></li><li><a href="http://www.nbcnewyork.com/blogs/open-house/BreakfastWithOpenHouse-364168021.html" title="Breakfast With Open House" name="&lpos=footer&lid=breakfast with open house">Breakfast With Open House</a></li><li style="margin-top:10px;border-top:1px dotted #A2C5F4;padding-top:10px;"><a href="http://www.cozitv.com" target="_blank" title="CoziTV" name="&lpos=footer&lid=CoziTV.com">CoziTV</a></li></ul></div><div class="footCol"><ul class="contact-us"><li class="header"><a href="/contact-us/" name="&lpos=footer&lid=contact us">Contact Us</a></li><li><a href="/contact-us/social-directory" title="Social Directory" name="&lpos=footer&lid=social directory">Social Directory</a></li><li><a href="/contact-us/about-us/" title="About Us" name="&lpos=footer&lid=about us">About Us</a></li><li><a href="/contact-us/community/" title="Community" name="&lpos=footer&lid=community">Community</a></li><li><a href="/contact-us/tv-listings/" title="TV Listings" name="&lpos=footer&lid=tv listings">TV Listings</a></li><li><a href="https://sjobs.brassring.com/tgwebhost/searchresults.aspx?PartnerId=25354&SiteId=5108&Function=LinkQuery&LinkId=3385144" title="Careers" name="Careers" target="_blank">Careers</a></li></ul></div><div class="footCol last"><ul class="traffic"><li class="header"><a href="/traffic/" name="&lpos=footer&lid=traffic" name="&lpos=footer&lid=[natl-chi] mcdonald's new kale salad has more fat, calories than a big mac">Traffic</a></li></ul></div></div><div id="footerLogo"><div class="right"><div id="leftShare"><ul><li><a href="http://www.facebook.com/NBCConnecticut" id="fb_footer" name="&lpos=footer&lid=facebook"></a></li><li><a href="$twId" id="tw_footer" name="&lpos=footer&lid=twitter"></a></li><li><a href="https://instagram.com/nbcconnecticut" id="instagram_footer" target="_blank" name="&lpos=section navigation&lid=instagram button"></a></li><li><a href="/mobile/" id="ph_footer" name="&lpos=footer&lid=mobile"></a></li><li><a href="/rss/" id="rss_footer" name="&lpos=footer&lid=rss"></a></li><li style="border:0px;"><a href="/newsletters/" id="em_footer" name="&lpos=footer&lid=newsletters"></a></li></ul></div><div class="leftTerms about"><a href="/send-feedback/" name="&lpos=footer&lid=send feedback">Send Feedback</a><a>|</a><a href="/terms/" name="&lpos=footer&lid=Terms of service">Terms of service</a><a>|</a><a href="http://www.nbcuniversal.com/privacy/" name="&lpos=footer&lid=Privacy policy">Privacy policy</a></div></div><div class="left"><div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming" target="_blank">FCC Independent Programming Report</a></div><div class="leftTerms"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/news-and-information-programming">FCC News and Information Programming Report</a></div><div class="leftTerms" style="width:358px;"><a href="/non-profit-reports/NBC-Non-Profit-News-Partnership-Reports-138336674.html" name="&lpos=footer&lid=non-profit news partnership reports">NBC Non-Profit News Partnership Reports</a></div><div class="leftTerms"><a href="https://stations.fcc.gov/station-profile/wvit" target="_blank">WVIT Public Inspection File</a></div><div class="leftTerms"><a href="/21stCenturySolutions/" target="_blank">21st Century Solutions</a></div><!-- Evidon tag cid: 908 pid: 209--><a id="_bapw-link" href="#" class="leftTerms" target="_blank" style="cursor:pointer !important;text-decoration:none !important;float:left;margin-top:10px;color: #B6D4EE;font: 11px arial;"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;"/><span style="vertical-align:middle !important">AdChoices</span></a><script type="text/javascript">
+          (function() {
+            var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 209); ev.setAttribute('data-ev-tag-ocid', 908);
+            ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+          })();
+          </script></div><div id="leftCopy">
+          &copy; 2016 NBCUniversal Media, LLC. All rights reserved.
+        </div></div></div></div><script type="text/javascript">
+if(getPartnerCookieValue("partnerCookie")=="xfinity" && getPartnerCookieValue("partnerSessionCookie")=="xfinity"){
+  $('body #footer').remove();
+  document.write('<iframe src="http://www.nbcconnecticut.com/templates/nbc_iframe_footer_xfinity" id="nbc_xfinity_footer" height="170" frameborder="0" scrolling="no" style="height:170px;width:100%;overflow:hidden;display:block;"></iframe>');
+};
+</script></div><script type="text/javascript">
+// jQuery(document).ready(function(){
+(function($) {
+    nbc.updateTopStories();
+    try {
+        if($("#article-sec_0 .embedded.gallery").length != 0 ){
+            var a2Galleries = 0;
+            $("#article-sec_0 .embedded.gallery").each(function(a, b) {
+                $(this).attr("id", "pgA2-" + a);
+                $(this).attr("data-galleyindex", a);
+                var thisA2GalleryTitle = $(this).data("title");
+                var thisA2GalleryID = parseInt($(this).data('cid'));
+                console.log("GALLERY CODE | "+thisA2GalleryID);
+                var thisA2GalleryURL = $(this).data("permloc");
+                console.log("GALLERY CODE | "+thisA2GalleryURL);
+                //thisA2GalleryID = thisA2GalleryID[thisA2GalleryID.length-1].replace(".html","");
+                thisA2GalleryTitle = thisA2GalleryTitle.replace('"','&quot;');
+                $("#pgA2-" + a).click(function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    if($(this).find(".pg_article").length == 0){
+                        pg.init("#pgA2-" + a, thisA2GalleryID, thisA2GalleryURL, thisA2GalleryTitle, true, "a2","", true);
+                        return false;
+                    }
+                });
+                a2Galleries = a2Galleries + 1;
+            });
+
+        }
+    } catch(e) {console.warn(e);}
+}(jQuery));
+// });
+
+nbc.validateEmail = function(submittedAddr, currentArticle) {
+    if( (submittedAddr.length > 0) && (submittedAddr != "Email") ) {
+        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+        return emailReg.test(submittedAddr);
+    } else {
+        jQuery('#newsletterBox-'+ currentArticle + ' .nsEmail').val("Invalid email address");
+        return false;
+    }
+}
+
+nsuInline = {};
+nsuInline.hasOmnitureFired = false;
+
+nsuInline.clearSignup = function(dasEle){
+    var str=dasEle.value;
+    var clearId = jQuery(dasEle).parent().parent().attr('id');
+    if((str.toLowerCase() == "email") || (str.toLowerCase() == "correo electronico") || (str.toLowerCase() == "please enter a valid e-mail address") || (str.toLowerCase() == "invalid email address") || (str.toLowerCase() == "there was an error subscribing")){
+        dasEle.value="";
+        $('#' + clearId + " .nsEmail").css({"color":"#333"});
+    }
+}
+
+nsuInline.signUserUp = function(email, nsHandlerKey, currentArticle) {
+    var isAddressValid = nbc.validateEmail(email, currentArticle);
+    thisNewsletterID = nsHandlerKey;
+    if(isAddressValid != true) {
+        return false;
+    } else {
+        nsuInline.subscribeUser(email, nsHandlerKey, currentArticle);
+    }
+}
+
+
+nsuInline.fireOmniValues = function() {
+    nbcu.un = nbcu_account;
+    nbcu.prop7 = 'News Newsletter Sign Up';
+    nbcu.eVar7 = 'News Newsletter Sign Up';
+    nbcu.events = 'event19';
+    nbcu.linkTrackVars = 'prop7,eVar7,events';
+    nbcu.linkTrackEvents = 'event19';
+    U.log(nbcu.prop7 + ' | ' + nbcu.eVar7 + ' | ' + nbcu.events + ' | ' + nbcu.linkTrackVars);
+    try {
+    nbcu.tl(true,'o','News Newsletter Sign Up Complete');
+    }
+
+    catch(e) {
+    U.log(e);
+    }
+    nsuInline.hasOmnitureFired = true;
+    return false;
+}
+
+nsuInline.subscribeUser = function(email, nsHandlerKey, currentArticle) {
+    var ajaxUrl = "/i/dispatcher/?h=newsletter&subscribe=yes&email="+email+"&subscribeIds=" + nsHandlerKey;
+    jQuery.ajax({
+        type: 'POST',
+        url: ajaxUrl,
+        dataType: 'json',
+        success: function(data) {
+            if(data.status == 200) {
+                nsuInline.fireOmniValues();
+                jQuery('.articleText .newsletterSignupBox .nsForm').html('<span class="nsConfirm">Thank you for signing up!</span>');
+            } else {
+                if(nbc.env == "dev."){console.log(data.detailResponse)};
+                jQuery('.articleText .newsletterSignupBox .nsEmail').val("Invalid email address");
+                jQuery('.articleText .newsletterSignupBox .nsEmail').css({"color":"red","text-transform":"none"});
+            }
+        },
+        error: function(data) {
+            if(nbc.env == "dev."){console.log(data.detailResponse)};
+            jQuery('.articleText .newsletterSignupBox .nsEmail').val("There was an error subscribing");
+            jQuery('.articleText .newsletterSignupBox .nsEmail').css({"color":"red","text-transform":"none"});
+        }
+    });
+}
+
+var currentArticle = 0;
+var nsHandlerKey = "";
+jQuery('.articleText .newsletterSignupBox .nsForm' ).submit(function() {
+    nsHandlerKey = jQuery(this).attr('data-nsHandlerKey');
+    capturedEmail = jQuery('.articleText .newsletterSignupBox .nsEmail').val();
+    nsuInline.signUserUp(capturedEmail, nsHandlerKey, currentArticle);
+    return false;
+});
+
+
+</script><script>
+if(typeof webpackJsonp === "function") {
+console.log('fireing nbcgptengine.init()');
+window.nbcgptengine.init();
+googletag.cmd.push(function() { googletag.display('gptoop'); });
+}
+</script><script language="Javascript" >var js="0.0";</script><script language="Javascript1.0" >js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2" >js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4" >js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"><!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=367832631";_q+="&7=1340511";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}//--></script><noscript><img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=367832631&7=1340511&25=0&18=0.22744036874032092"></noscript><script src="http://www.nbcconnecticut.com/includes/blockadblock.js?r=2042017172" type="text/javascript"></script><script language="JavaScript">
+
+                  nbcu.pageName="entertainment:the-scene:detail content page";
+            nbcu.pageType=""; // used for 404 Error message page only
+nbcu_siteID="nbcconnecticut";
+nbcu.list1="weather:news newsletter sign up";
+nbcu.prop8=nbcu_prop8; // division
+nbcu.prop9=nbcu_prop9; // station market
+nbcu.prop10=nbcu_prop10; // call letters
+nbcu.prop21="367832631";// content id
+  
+        nbcu.prop22="McDonald's New Kale Salad Has More Fat, Calories Than a Big Mac"; // content title
+          nbcu.prop23="article"; // content type
+          nbcu.prop40="false";
+  nbcu.prop24=""; // content group
+nbcu.prop25=""; // author name
+nbcu.prop26="04/30/2016";  nbcu.prop27="uncategorized"; //Content: feature step 2
+        nbcu.prop28=""; //content source
+nbcu.prop30 = "Chicago";
+
+nbcu.eVar70 = "Feb 5, 2016";
+  nbcu.prop48 = "desktop";
+/* E-commerce Variables */
+if(typeof nbc.articlePage.continuousScroll !== "undefined") {
+  if(nbc.articlePage.continuousScroll) {
+      nbcu.eVar56 = "batch 1";
+        nbcu.eVar58 = "1";
+      nbcu.eVar57 = 1;
+      nbcu.events="event1,event2,event8,event18";; // filled with an event # as needed - example event1, or event19
+  } else {
+     nbcu.events="event2";
+  }
+} else {
+    nbcu.events="event2";
+}
+nbcu.eVar1 = 'Non-Registered'; // Registration
+// Xfinity Omniture Value
+if(typeof xfinityOmniValue != "undefined") {
+if(xfinityOmniValue == "xfinity"){
+  nbcu.prop29=xfinityOmniValue;
+  nbcu.eVar29=xfinityOmniValue;
+} else{
+  nbcu.prop29="";
+  nbcu.eVar29="";
+}
+}
+var nbcSocialIcon = jQuery(".social-icon");
+if(nbcSocialIcon.length > 0 && nbc.isMobile == "false") {
+  var envTracking = "floating ";
+  nbcSocialIcon.on('click touchstart', function (){
+    nbcu.linkTrackVars="eVar7";
+    nbcu.eVar7 = envTracking + "sharebar " + this.className.replace(/social-icon | /g,'');
+    nbcu.tl(this,'o',nbcu.eVar7,null);
+  })
+};
+
+blockAdBlock.on(true, function(){
+  nbcu.linkTrackVars="eVar19";
+  nbcu.eVar19 = "adblock true";
+  nbcu.tl(this,'o',nbcu.eVar19,null);
+});
+if(typeof U == "object") {
+    if(typeof U.sessionVideoPVTracker == "function") {U.sessionVideoPVTracker("pv");}
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+      var s_code=nbcu.t();if(s_code)document.write(s_code)//--></script><script language="JavaScript">if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')</script>
+  
+ ￼￼￼
+        
+      <script src="http://www.nbcudigitaladops.com/hosted/global.js"></script><script type="text/javascript">
+  //<![CDATA[
+
+      var _sf_async_config={uid:15527,domain:"www.nbcconnecticut.com"};
+         _sf_async_config.path = "/entertainment/the-scene/McDonalds-New-Kale-Salad-Does-More-Damage-Than-Big-Mac-367832631.html";
+  
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+  //for newsbeat
+      _sf_async_config.sections = "entertainment,the-scene";
+             _sf_async_config.authors = "";
+      }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+
+  //]]></script><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><div id="fb-root" style="display:none;"></div><script type="text/javascript">
+  //<![CDATA[
+  var api_key = "e258a480740bb53cc9961db1794cc20d";
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : "81242742459", // App ID
+        version    : 'v2.0',
+        channelUrl : '//www.nbcconnecticut.com/templates/channel.html', // Channel File
+        status     : true, // check login status
+        cookie     : true, // enable cookies to allow the server to access the session
+        xfbml      : true  // parse XFBML
+      });
+              FB.Event.subscribe('xfbml.render', function(){
+           if(nbc.articlePage.continuousScroll){
+               jQuery.waypoints('refresh');
+           }
+        });
+            // Additional initialization code here
+    };
+
+    // Load the SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+              js.src = "//connect.facebook.net/en_US/sdk.js";
+              ref.parentNode.insertBefore(js, ref);
+     }(document));
+  //]]></script><script type="text/javascript">
+  $("#masthead form#searchForm input#searchText, #searchPage #fullSearchForm input#fullSearchText").bind("keyup",function(){
+      this.value = this.value.replace(/[^a-zA-ZáéíñóúüÁÉÍÑÓÚÜ0-9\'\"\s\-]/g,'');
+  });
+  </script><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+
+
+</script></body></html>
+

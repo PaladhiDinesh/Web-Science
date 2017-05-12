@@ -1,0 +1,4 @@
+https://github.com/cataska/programming-collective-intelligence-code/tree/master/chapter3
+https://pypi.python.org/pypi/feedparser
+https://github.com/Unode/python-feedparser/tree/master/feedparser
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf

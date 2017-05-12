@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	
+	<link rel="pingback" href="http://musikariosworld.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://musikariosworld.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Marc Anthony envió un fuerte mensaje a Donald Trump &laquo; Musikario&#039;s World</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Marc Anthony envió un fuerte mensaje a Donald Trump &laquo; Musikario&#039;s World" />
+<meta property="og:description" content="El cantante Marc Anthony le dedicó fuertes palabras al candidato presidencial a las primarias del Partido Republicano de Estados Unidos, Donald Trump, durante un concierto realizado el sábado en la noche en Nueva York. “Todos estamos orgullosos de nuestra cultura, estoy orgulloso de ser puertorriqueño, se que tú estás orgulloso de ser colombiano, se que &hellip;" />
+<meta property="og:url" content="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/" />
+<meta property="og:site_name" content="Musikario&#039;s World" />
+<meta property="article:section" content="Últimas Noticias" />
+<meta property="article:published_time" content="2016-02-07T15:59:30+00:00" />
+<meta property="og:image" content="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="El cantante Marc Anthony le dedicó fuertes palabras al candidato presidencial a las primarias del Partido Republicano de Estados Unidos, Donald Trump, durante un concierto realizado el sábado en la noche en Nueva York. “Todos estamos orgullosos de nuestra cultura, estoy orgulloso de ser puertorriqueño, se que tú estás orgulloso de ser colombiano, se que [&hellip;]"/>
+<meta name="twitter:title" content="Marc Anthony envió un fuerte mensaje a Donald Trump &laquo; Musikario&#039;s World"/>
+<meta name="twitter:image" content="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony.jpg"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Musikario&#039;s World &raquo; Feed" href="http://musikariosworld.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Musikario&#039;s World &raquo; RSS de los comentarios" href="http://musikariosworld.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Musikario&#039;s World &raquo; Marc Anthony envió un fuerte mensaje a Donald Trump RSS de los comentarios" href="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/musikariosworld.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Musikario&#039;s World Pie v.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='category-posts-css'  href='http://musikariosworld.com/wp-content/plugins/category-posts/cat-posts.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://musikariosworld.com/wp-content/themes/Extra/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-style-css'  href='http://musikariosworld.com/wp-content/themes/DiviSpace_3rd_Jan_09_55/style.css?ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=1.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://musikariosworld.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://musikariosworld.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://musikariosworld.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://musikariosworld.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://musikariosworld.com/?p=1045' />
+<link rel="alternate" type="application/json+oembed" href="http://musikariosworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmusikariosworld.com%2Fmarc-anthony-envio-un-fuerte-mensaje-a-donald-trump%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://musikariosworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmusikariosworld.com%2Fmarc-anthony-envio-un-fuerte-mensaje-a-donald-trump%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+<style type="text/css" id="extra-dynamic-styles-accent_color-color">
+.widget_et_recent_tweets .widget_list a,
+.widget_et_recent_tweets .et-extra-icon,
+.widget_et_recent_tweets .widget-footer .et-extra-social-icon,
+.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,
+.project-details .project-details-title,
+.et_filterable_portfolio .filterable_portfolio_filter a.current,
+.et_extra_layout .et_pb_column .module-head h1,
+.et_pb_extra_column .module-head h1,
+#portfolio_filter a.current,
+.woocommerce div.product div.summary .product_meta a,
+.woocommerce-page div.product div.summary .product_meta a,
+.et_pb_widget.woocommerce .product_list_widget li .amount,
+.et_pb_widget li a:hover, .et_pb_widget.woocommerce .product_list_widget li a:hover,
+.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,
+.et_pb_widget.widget_et_recent_videos .widget_list .title.active,
+.woocommerce .woocommerce-info:before {
+	color: #87147a;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-accent_color-background-color">
+.single .score-bar,
+.widget_et_recent_reviews .review-breakdowns .score-bar,
+.et_pb_extra_module .posts-list article .post-thumbnail,
+.et_extra_other_module .posts-list article .post-thumbnail,
+.et_pb_widget .widget_list_portrait,
+.et_pb_widget .widget_list_thumbnail,
+.quote-format,
+.link-format,
+.audio-format .audio-wrapper,
+.paginated .pagination li.active,
+.score-bar,
+.review-summary-score-box,
+.post-footer .rating-stars #rating-stars img.star-on,
+.post-footer .rating-stars #rated-stars img.star-on,
+.author-box-module .author-box-avatar,
+.timeline-menu li.active a:before,
+.woocommerce div.product form.cart .button,
+.woocommerce-page div.product form.cart .button,
+.woocommerce div.product form.cart .read-more-button,
+.woocommerce-page div.product form.cart .read-more-button,
+.woocommerce div.product form.cart .post-nav .nav-links .button,
+.woocommerce-page div.product form.cart .post-nav .nav-links .button,
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+	background-color: #87147a;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-accent_color-border-color">
+#et-menu > li > ul,
+#et-menu li > ul,
+#et-menu > li > ul > li > ul,
+.et-top-search-primary-menu-item .et-top-search,
+.et_pb_module,
+.module,
+.page article,
+.authors-page .page,
+#timeline-sticky-header,
+.et_extra_other_module,
+.woocommerce .woocommerce-info {
+	border-color: #87147a;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-primary_nav_font_size-font-size">
+#et-menu li a {
+	font-size: 15px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-primary_nav_text_color-color">
+#et-menu > li a,
+#et-menu > li.menu-item-has-children > a:after,
+#et-menu > li.mega-menu-featured > a:after,
+#et-extra-mobile-menu > li.mega-menu-featured > a:after {
+	color: #eeee22;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-primary_nav_background_color-background-color">
+#main-header {
+	background-color: #0a0a0a;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-primary_nav_dropdown_text_color-color">
+#et-menu li > ul li a,
+#et-menu li.mega-menu > ul > li > a,
+#et-menu .sub-menu li.mega-menu-featured > a:after,
+#et-menu .sub-menu li.menu-item-has-children > a:after,
+#et-extra-mobile-menu .sub-menu li.mega-menu-featured > a:after,
+#et-menu li.mega-menu-featured > ul li .title,
+#et-extra-mobile-menu li.mega-menu-featured > ul li .title,
+#et-menu li.mega-menu-featured > ul li .featured-post h2,
+#et-extra-mobile-menu li.mega-menu-featured > ul li .featured-post h2,
+#et-menu li.mega-menu-featured > ul li .featured-post .post-meta a,
+#et-extra-mobile-menu li.mega-menu-featured > ul li .featured-post .post-meta a,
+#et-menu li.mega-menu-featured > ul li.menu-item .recent-list .recent-post .post-content .post-meta,
+#et-extra-mobile-menu li.mega-menu-featured > ul li.menu-item .recent-list .recent-post .post-content .post-meta,
+#et-menu li.mega-menu-featured > ul li.menu-item .recent-list .recent-post .post-content .post-meta a,
+#et-extra-mobile-menu li.mega-menu-featured > ul li.menu-item .recent-list .recent-post .post-content .post-meta a {
+	color: #eeee22;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_background_color-background-color">
+#top-header {
+	background-color: #ffffff;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_text_color-color">
+#et-secondary-menu a,
+#et-secondary-menu li.menu-item-has-children > a:after {
+	color: rgba(0,0,0,0.94);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_active_link_color-color">
+#et-secondary-menu li a:hover,
+#et-secondary-menu > li > a:hover:before,
+#et-secondary-menu li.menu-item-has-children > a:hover:after,
+#et-secondary-menu li.current-menu-item > a {
+	color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_active_link_color-text-shadow">
+#et-secondary-menu > li > a:hover:before {
+	text-shadow: 10px 0 #000000, -10px 0 #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_dropdown_background_color-background-color">
+#et-secondary-menu li > ul {
+	background-color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_dropdown_text_color-color">
+#et-secondary-menu ul a,
+#et-secondary-menu li > ul li.menu-item-has-children > a:after {
+	color: rgba(255,255,255,0.89);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_trending_label_text_color-color">
+#et-trending-label,
+#et-trending-button {
+	color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_trending_label_text_color-background-color">
+#et-trending-button span {
+	background-color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_trending_title_text_color-color">
+header.header .et-trending-post a,
+header.header .et-trending-post a:visited {
+	color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_icon_search_cart_background_color-background-color">
+#et-info .et-cart,
+#et-info .et-top-search .et-search-field,
+#et-info .et-extra-social-icons .et-extra-icon {
+	background-color: rgba(0,0,0,0.1);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-secondary_nav_icon_search_cart_text_color-color">
+#et-info .et-cart,
+#et-info .et-top-search .et-search-field,
+#et-info .et-top-search .et-search-submit:before,
+#et-info .et-extra-social-icons .et-extra-icon,
+#et-info .et-extra-social-icons .et-extra-icon:before {
+	color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-fixed_nav_font_size-font-size">
+.et-fixed-header #et-menu li a {
+	font-size: 13px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-fixed_primary_nav_background_color-background-color">
+.et-fixed-header #main-header {
+	background-color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_background_color-background-color">
+#footer-bottom {
+	background-color: #000000;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_social_icon_size-font-size">
+#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon {
+	font-size: 22px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_social_icon_size-line-height">
+#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon {
+	line-height: 22px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_social_icon_size-height">
+#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon {
+	height: 22px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_social_icon_size-width">
+#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon {
+	width: 22px;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-footer_bottom_social_icon_color-color">
+#footer #footer-bottom #footer-nav ul.et-extra-social-icons .et-extra-icon:before {
+	color: #ffffff;
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-button_text_color-color">
+#page-container .button,
+#page-container button,
+#page-container button[type="submit"],
+#page-container input[type="submit"],
+#page-container input[type="reset"],
+#page-container input[type="button"],
+.read-more-button,
+.comment-body .comment_area .comment-content .reply-container .comment-reply-link,
+.widget_tag_cloud a,
+.widget_tag_cloud a:visited,
+.post-nav .nav-links .button,
+a.read-more-button,
+a.read-more-button:visited,
+#footer .widget_tag_cloud a,
+#footer .widget_tag_cloud a:visited,
+#footer a.read-more-button,
+#footer a.read-more-button:visited,
+#footer .button,
+#footer button,
+#footer button[type="submit"],
+#footer input[type="submit"],
+#footer input[type="reset"],
+#footer input[type="button"] {
+	color: rgba(0,0,0,0.6);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-button_hover_text_color-color">
+#page-container .button:hover,
+#page-container button:hover,
+#page-container button[type="submit"]:hover,
+#page-container input[type="submit"]:hover,
+#page-container input[type="reset"]:hover,
+#page-container input[type="button"]:hover,
+.read-more-button:hover,
+.comment-body .comment_area .comment-content .reply-container .comment-reply-link:hover,
+.widget_tag_cloud a:hover,
+.widget_tag_cloud a:visited:hover,
+.post-nav .nav-links .button:hover,
+a.read-more-button:hover,
+a.read-more-button:visited:hover,
+#footer .widget_tag_cloud a:hover,
+#footer .widget_tag_cloud a:visited:hover,
+#footer a.read-more-button:hover,
+#footer a.read-more-button:visited:hover,
+#footer .button:hover,
+#footer button:hover,
+#footer button[type="submit"]:hover,
+#footer input[type="submit"]:hover,
+#footer input[type="reset"]:hover,
+#footer input[type="button"]:hover {
+	color: rgba(0,0,0,0.6);
+}
+
+</style>
+
+<style type="text/css" id="extra-dynamic-styles-extra_nav_height_value">
+
+			@media only screen and (min-width: 768px) {
+				#main-header .logo {
+					height: 66.99px;
+					margin: 10.005px 0;
+				}
+				.header.left-right #et-navigation > ul > li > a {
+					padding-bottom: 36px;
+				}
+			}
+			@media only screen and (min-width: 768px) {
+				.et-fixed-header #main-header .logo {
+					height: 56.1px;
+					margin: 4.95px 0;
+				}
+				.et-fixed-header .header.left-right #et-navigation > ul > li > a {
+					padding-bottom: 26.5px;
+				}
+			}</style>
+<link rel="shortcut icon" href="http://musikariosworld.com/wp-content/uploads/2016/01/caramusikario.png" /><style type="text/css" id="extra-custom-background-css">
+body.custom-background { background-image: url('http://musikariosworld.com/wp-content/uploads/2016/01/Untitled-1.1.jpg'); background-repeat: repeat; background-position: top center; background-attachment: fixed; }
+</style>
+<style type="text/css" id="et-custom-css">
+.et_pb_widget .widgettitle {
+background: #A74593;
+}
+h2.widgettitle {color: #000000;}
+.single .nav-link span.button {
+color: #ffd900 !important;
+}
+.post-nav .nav-links .button:before, .post-nav .nav-links .read-more-button:before, .post-nav .nav-links .post-nav .nav-links .button:before {
+color: #ffd900 !important;
+}
+#et-info .et-top-search .et-search-field:focus {
+color: #000000;
+}
+#comment-wrap {
+background: #ffffff none repeat scroll 0 0;
+padding: 10px 20px;
+}
+</style></head>
+<body class="single single-post postid-1045 single-format-standard custom-background et_extra et_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_flipInX et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right unknown et_includes_sidebar">
+	<div id="page-container">
+				<!-- Header -->
+		<header class="header left-right">
+						<!-- #top-header -->
+			<div id="top-header" style="">
+				<div class="container">
+
+					<!-- Secondary Nav -->
+											<div id="et-secondary-nav" class="">
+						<ul id="et-secondary-menu" class="nav"><li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-141"><a href="http://musikariosworld.com/">Inicio</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="http://musikariosworld.com/ultimas-noticias/">Últimas Noticias</a></li>
+<li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395"><a href="http://musikariosworld.com/micro-news/">Micro News</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="http://musikariosworld.com/tips-3/">Tips</a></li>
+</ul>						</div>
+					
+					<!-- #et-info -->
+					<div id="et-info">
+
+						
+						<!-- .et-extra-social-icons -->
+						<ul class="et-extra-social-icons" style="">
+																																														<li class="et-extra-social-icon facebook">
+									<a href="https://facebook.com/musikariosworld" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-facebook"></a>
+								</li>
+																																															<li class="et-extra-social-icon twitter">
+									<a href="https://twitter.com/musikariosworld" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-twitter"></a>
+								</li>
+																																																																																																																																																																																																										<li class="et-extra-social-icon instagram">
+									<a href="https://instagram.com/musikariosworld" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-instagram"></a>
+								</li>
+																																																																																																																																																																																																																																																																								<li class="et-extra-social-icon youtube">
+									<a href="https://youtube.com/musikariosworld" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-youtube"></a>
+								</li>
+																																																																																																																																																																																</ul>
+						
+						<!-- .et-top-search -->
+												<div class="et-top-search" style="">
+							<form role="search" class="et-search-form" method="get" action="http://musikariosworld.com/">
+			<input type="search" class="et-search-field" placeholder="Search" value="" name="s" title="Search for:" />
+			<button class="et-search-submit"></button>
+		</form>						</div>
+						
+						<!-- cart -->
+											</div>
+				</div><!-- /.container -->
+			</div><!-- /#top-header -->
+
+			
+			<!-- Main Header -->
+			<div id="main-header-wrapper">
+				<div id="main-header" data-fixed-height="66">
+					<div class="container">
+					<!-- ET Ad -->
+						
+						
+						<!-- Logo -->
+						<a class="logo" href="http://musikariosworld.com/" data-fixed-height="85">
+							<img src="http://musikariosworld.com/wp-content/uploads/2016/01/Logo-Pag-Mantenimiento-blanco.png" alt="Musikario&#039;s World" id="logo" />
+						</a>
+
+						
+						<!-- ET Navigation -->
+						<div id="et-navigation" class="">
+							<ul id="et-menu" class="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-141"><a href="http://musikariosworld.com/">Inicio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="http://musikariosworld.com/ultimas-noticias/">Últimas Noticias</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395"><a href="http://musikariosworld.com/micro-news/">Micro News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="http://musikariosworld.com/tips-3/">Tips</a></li>
+</ul>							<div id="et-mobile-navigation">
+			<span class="show-menu">
+				<div class="show-menu-button">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<p>Select Page</p>
+			</span>
+			<nav>
+			</nav>
+		</div> <!-- /#et-mobile-navigation -->						</div><!-- /#et-navigation -->
+					</div><!-- /.container -->
+				</div><!-- /#main-header -->
+			</div><!-- /#main-header-wrapper -->
+
+		</header>
+
+				<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div class="et_pb_extra_column_main">
+																<article id="post-1045" class="module single-post-module post-1045 post type-post status-publish format-standard has-post-thumbnail hentry category-ultimas-noticias et-has-post-format-content et_post_format-et-post-format-standard">
+														<div class="post-header">
+								<h1 class="entry-title">Marc Anthony envió un fuerte mensaje a Donald Trump</h1>
+								<div class="post-meta">
+									<p>Posted by <a href="http://musikariosworld.com/author/daniela-urdaneta/" class="url fn" title="Entradas de Daniela Urdaneta" rel="author">Daniela Urdaneta</a> | <span class="updated">Feb 7, 2016</span> | <a href="http://musikariosworld.com/category/ultimas-noticias/" rel="tag">Últimas Noticias</a> | <a class="comments-link" href="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/#comments">0 <span title="comment count" class="comment-bubble post-meta-icon"></span></a> | <span class="rating-stars" title="Rating: 0.00"><span class="post-meta-icon rating-star rating-star-empty rating-star-1"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-2"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-3"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-4"></span>
+<span class="post-meta-icon rating-star rating-star-empty rating-star-5"></span>
+</span></p>
+								</div>
+							</div>
+							
+														<div class="post-thumbnail header">
+								<a href="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/" title="Marc Anthony envió un fuerte mensaje a Donald Trump" class="featured-image">
+				<img src="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony.jpg" alt="Marc Anthony envió un fuerte mensaje a Donald Trump" />
+			</a>							</div>
+							
+														
+							<div class="post-wrap">
+															<div class="post-content entry-content">
+									<p style="text-align: justify"><a href="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony.jpg" rel="attachment wp-att-1046"><img class="alignnone wp-image-1046" src="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony-300x168.jpg" alt="Marc Anthony" width="755" height="422" srcset="http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony-300x168.jpg 300w, http://musikariosworld.com/wp-content/uploads/2016/02/Marc-Anthony.jpg 460w" sizes="(max-width: 755px) 100vw, 755px" /></a></p>
+<p style="text-align: justify">El cantante Marc Anthony le dedicó fuertes palabras al candidato presidencial a las primarias del Partido Republicano de Estados Unidos, Donald Trump, durante un concierto realizado el sábado en la noche en Nueva York.</p>
+<p style="text-align: justify">“Todos estamos orgullosos de nuestra cultura, estoy orgulloso de ser puertorriqueño, se que tú estás orgulloso de ser colombiano, se que estás orgulloso de ser venezolano”, comentó mientras apreciaba las banderas de diferentes países de Centro y Sur América entre el público del Madison Square Garden.</p>
+<p style="text-align: justify">“Soy latino de los Estados Unidos de América”, continuó.</p>
+<p style="text-align: justify">Durante la presentación insultó fuertemente a Trumpo y agregó: “Aquí, no importa de donde vengas somos latinos y tenemos que cuidarnos entre nosotros”.</p>
+<p style="text-align: justify">No es la primera vez que el salsero hace referencias políticas en sus conciertos, de hecho, en una de sus presentaciones del 2015, el intérprete de “Vivir mi vida” invitó a la candidata Hillary Clinton a compartir tarima con él.</p>
+																	</div>
+														</div>
+														<div class="post-footer">
+								<div class="social-icons ed-social-share-icons">
+									<p class="share-title">Share:</p>
+									
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<a href="http://www.facebook.com/sharer.php?u=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;t=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Facebook" data-network-name="facebook" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-facebook et-extra-icon-background-hover" ></span>
+			</a><a href="http://twitter.com/home?status=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump%20http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Twitter" data-network-name="twitter" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-hover" ></span>
+			</a><a href="https://plus.google.com/share?url=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;t=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Google +" data-network-name="googleplus" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-googleplus et-extra-icon-background-hover" ></span>
+			</a><a href="https://www.tumblr.com/share?v=3&#038;u=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;t=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Tumblr" data-network-name="tumblr" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-tumblr et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.pinterest.com/pin/create/button/?url=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;description=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Pinterest" data-network-name="pinterest" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-pinterest et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;title=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via LinkedIn" data-network-name="linkedin" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-linkedin et-extra-icon-background-hover" ></span>
+			</a><a href="https://bufferapp.com/add?url=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;title=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Buffer" data-network-name="buffer" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-buffer et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.stumbleupon.com/badge?url=http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/&#038;title=Marc%20Anthony%20envi%C3%B3%20un%20fuerte%20mensaje%20a%20Donald%20Trump" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Stumbleupon" data-network-name="stumbleupon" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-stumbleupon et-extra-icon-background-hover" ></span>
+			</a><a href="#" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Email" data-network-name="basic_email" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-basic_email et-extra-icon-background-hover" ></span>
+			</a><a href="#" class="social-share-link" title="Share &quot;Marc Anthony envió un fuerte mensaje a Donald Trump&quot; via Print" data-network-name="basic_print" data-share-title="Marc Anthony envió un fuerte mensaje a Donald Trump" data-share-url="http://musikariosworld.com/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/">
+				<span class="et-extra-icon et-extra-icon-basic_print et-extra-icon-background-hover" ></span>
+			</a>								</div>
+																<div class="rating-stars">
+									<p id="rate-title" class="rate-title">Rate:</p><div id="rating-stars"></div><input type="hidden" id="post_id" value="1045" />								</div>
+																<style type="text/css" id="rating-stars">
+									.post-footer .rating-stars #rated-stars img.star-on,
+									.post-footer .rating-stars #rating-stars img.star-on {
+										background-color: #87147a;
+									}
+								</style>
+							</div>
+
+																				</article>
+
+						<nav class="post-nav">
+							<div class="nav-links clearfix">
+								<div class="nav-link nav-link-prev">
+									<a href="http://musikariosworld.com/enfermedad-de-ozzy-osbourne-obliga-a-black-sabbath-a-posponer-otro-concierto/" rel="prev"><span class="button">Previous</span><span class="title">Enfermedad de Ozzy Osbourne obliga a Black Sabbath a posponer otro concierto</span></a>								</div>
+								<div class="nav-link nav-link-next">
+									<a href="http://musikariosworld.com/1048-2/" rel="next"><span class="button">Next</span><span class="title">Kate del Castillo decide declarar sobre &#8220;El Chapo&#8221; pero no en México</span></a>								</div>
+							</div>
+						</nav>
+						<div class="et_extra_other_module author-box vcard">
+							<div class="author-box-header">
+								<h3>About The Author</h3>
+							</div>
+							<div class="author-box-content clearfix">
+								<div class="author-box-avatar photo">
+									<img alt='' src='http://2.gravatar.com/avatar/b1932e33f582e5e6dd2217d03a4a30da?s=170&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b1932e33f582e5e6dd2217d03a4a30da?s=340&amp;d=mm&amp;r=g 2x' class='avatar avatar-170 photo' height='170' width='170' />								</div>
+								<div class="author-box-description">
+									<h4><a class="author-link url fn" href="http://musikariosworld.com/author/daniela-urdaneta/" rel="author" title="View all posts by Daniela Urdaneta">Daniela Urdaneta</a></h4>
+									<p class="note"></p>
+									<ul class="social-icons">
+																			</ul>
+								</div>
+							</div>
+						</div>
+
+												<div class="et_extra_other_module related-posts">
+							<div class="related-posts-header">
+								<h3>Related Posts</h3>
+							</div>
+							<div class="related-posts-content clearfix">
+																<div class="related-post">
+									<div class="featured-image"><a href="http://musikariosworld.com/1322-2/" title="“Chino” responde a Winston Vallenilla tras críticas a “Nacho”" class="post-thumbnail">
+				<img src="http://musikariosworld.com/wp-content/uploads/2016/02/Chino-440x264.jpg" alt="“Chino” responde a Winston Vallenilla tras críticas a “Nacho”" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="http://musikariosworld.com/1322-2/">“Chino” responde a Winston Vallenilla tras críticas a “Nacho”</a></h4>
+									<p class="date"><span class="updated">13 febrero, 2016</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="http://musikariosworld.com/839-2/" title="James Franco estrena otro tema de su banda inspirada en The Smiths" class="post-thumbnail">
+				<img src="http://musikariosworld.com/wp-content/uploads/2016/01/James-440x264.jpg" alt="James Franco estrena otro tema de su banda inspirada en The Smiths" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="http://musikariosworld.com/839-2/">James Franco estrena otro tema de su banda inspirada en The Smiths</a></h4>
+									<p class="date"><span class="updated">17 enero, 2016</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="http://musikariosworld.com/hilary-duff-se-niega-a-volver-a-la-vida-de-casada/" title="Hilary Duff se niega a volver a la vida de casada" class="post-thumbnail">
+				<img src="http://musikariosworld.com/wp-content/uploads/2016/01/hilary-duff.jpg" alt="Hilary Duff se niega a volver a la vida de casada" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="http://musikariosworld.com/hilary-duff-se-niega-a-volver-a-la-vida-de-casada/">Hilary Duff se niega a volver a la vida de casada</a></h4>
+									<p class="date"><span class="updated">9 enero, 2016</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="http://musikariosworld.com/gwen-stefani-anuncia-primer-disco-10-anos/" title="Gwen Stefani anuncia primer disco en 10 años" class="post-thumbnail">
+				<img src="http://musikariosworld.com/wp-content/uploads/2016/02/Gwen-Stefani-440x264.jpg" alt="Gwen Stefani anuncia primer disco en 10 años" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="http://musikariosworld.com/gwen-stefani-anuncia-primer-disco-10-anos/">Gwen Stefani anuncia primer disco en 10 años</a></h4>
+									<p class="date"><span class="updated">10 febrero, 2016</span></p>
+								</div>
+																							</div>
+						</div>
+										
+				<!-- You can start editing here. -->
+
+<section id="comment-wrap">
+			<div id="comments" class="nocomments">
+			 <!-- If comments are open, but there are no comments. -->
+
+					</div>
+								<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"><span>Leave a reply</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/marc-anthony-envio-un-fuerte-mensaje-a-donald-trump/?platform=hootsuite#respond" style="display:none;">Cancelar respuesta</a></small></h3>				<form action="http://musikariosworld.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes"><span id="email-notes">Tu dirección de correo electrónico no será publicada.</span> Los campos necesarios están marcados <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">COMMENT</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Correo electrónico <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1045' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+			</section>
+			</div><!-- /.et_pb_extra_column.et_pb_extra_column_main -->
+
+			<div class="et_pb_extra_column_sidebar">
+			<div id="et-recent-videos-2" class="et_pb_widget widget_et_recent_videos">		<h4 class="widgettitle">Videos Recientes</h4>		<div class="widget_video_wrapper">
+			<img src="http://musikariosworld.com/wp-content/themes/Extra/images/pagination-loading.gif" alt="Loading..." class="widget_video_loading">
+		</div><!-- .widget_video_wrapper -->
+		<div class="widget_content">
+							<script type="text/template" class="widget-video-item widget-video-item-1437">
+					<iframe width="1080" height="608" src="https://www.youtube.com/embed/sHhpcct8bzc?feature=oembed" frameborder="0" allowfullscreen></iframe>							<div class="video-overlay" style="background-image: url(http://musikariosworld.com/wp-content/uploads/2016/02/Maelo-Ruíz.jpg);">
+								<div class="video-overlay-hover">
+									<a href="#" class="video-play-button"></a>
+								</div>
+							</div>
+											</script><!-- .widget-video-item -->
+							<script type="text/template" class="widget-video-item widget-video-item-1432">
+					<iframe width="1080" height="608" src="https://www.youtube.com/embed/pavp9zVV5xo?feature=oembed" frameborder="0" allowfullscreen></iframe>							<div class="video-overlay" style="background-image: url(http://musikariosworld.com/wp-content/uploads/2016/02/forever.png);">
+								<div class="video-overlay-hover">
+									<a href="#" class="video-play-button"></a>
+								</div>
+							</div>
+											</script><!-- .widget-video-item -->
+						<script type="text/template" class="widget-video-item widget-video-item-empty">
+				<h4 class="no-video-title">No Video Found</h4>
+			</script>
+		</div><!-- .widget_content -->
+				<ul class="widget_list">
+					<li>
+									<a href="http://musikariosworld.com/1437-2/" data-video-id="1437" class="title">Familiares de ex de Maelo Ruíz la defiende con video de pruebas (VIDEO)</a>
+			</li>
+					<li>
+									<a href="http://musikariosworld.com/el-forever-dedica-tema-a-los-estudiantes-venezolanos/" data-video-id="1432" class="title">&#8220;El Forever&#8221; dedica tema a los estudiantes venezolanos</a>
+			</li>
+						</ul>
+		</div> <!-- end .et_pb_widget -->		<div id="category-posts-2" class="et_pb_widget cat-post-widget"><h4 class="widgettitle"><a href="http://musikariosworld.com/category/tips/">Tips</a></h4><ul>
+				
+				<li class="cat-post-item" >
+					
+										
+					
+					<a class="post-title  cat-post-title" 
+						href="http://musikariosworld.com/atencion-mujeres-7-tips-sexo-inolvidable/" rel="bookmark">¡Atención, mujeres! 7 tips para un sexo inolvidable					</a>
+
+												<a class="cat-post-thumbnail"								href="http://musikariosworld.com/atencion-mujeres-7-tips-sexo-inolvidable/" title="¡Atención, mujeres! 7 tips para un sexo inolvidable">
+								<img width="300" height="250" src="http://musikariosworld.com/wp-content/uploads/2016/01/sexo1-300x250.jpg" class="attachment-300x250 size-300x250 wp-post-image" alt="IDEAS SEXO PAREJA" />							</a>
+									</li>
+				</ul>
+</div> <!-- end .et_pb_widget --><div id="et_recent_tweets-2" class="et_pb_widget widget_et_recent_tweets"><h4 class="widgettitle">Tweets Recientes</h4>		<div class="widget_content">
+			<ul class="widget_list">
+						<li>
+				<a href="https://twitter.com/MusikariosWorld/status/699449407004155905" class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-none et-extra-social-icon social-icon"></a>
+				<div class="post-tweet">
+					Sofía Reyes y Prince Royce estrenaron el video de “Sólo <a href="http://ow.ly/YmhVm" target="_blank">ow.ly/YmhVm</a>MquRoT					<div class="post-meta">
+						1 hora ago • <a href="https://twitter.com/intent/tweet?in_reply_to=699449407004155905" target="_blank">Reply</a> • <a href="https://twitter.com/intent/retweet?tweet_id=699449407004155905" target="_blank">Retweet</a> • <a href="https://twitter.com/intent/favorite?tweet_id=699449407004155905"target="_blank">Favorite</a>
+					</div>
+				</div>
+			</li>
+						<li>
+				<a href="https://twitter.com/MusikariosWorld/status/699448169042731009" class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-none et-extra-social-icon social-icon"></a>
+				<div class="post-tweet">
+					La academia de la grabación se prepara para premiar lo mejor de la músic<a href="http://ow.ly/YmjhA" target="_blank">ow.ly/YmjhA</a>6n					<div class="post-meta">
+						1 hora ago • <a href="https://twitter.com/intent/tweet?in_reply_to=699448169042731009" target="_blank">Reply</a> • <a href="https://twitter.com/intent/retweet?tweet_id=699448169042731009" target="_blank">Retweet</a> • <a href="https://twitter.com/intent/favorite?tweet_id=699448169042731009"target="_blank">Favorite</a>
+					</div>
+				</div>
+			</li>
+						<li>
+				<a href="https://twitter.com/MusikariosWorld/status/699443203892711424" class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-none et-extra-social-icon social-icon"></a>
+				<div class="post-tweet">
+					Gustavo Aguado sueña con cantar junto a Bruno Mars<a href="http://ow.ly/YmiOX" target="_blank">ow.ly/YmiOX</a>6					<div class="post-meta">
+						1 hora ago • <a href="https://twitter.com/intent/tweet?in_reply_to=699443203892711424" target="_blank">Reply</a> • <a href="https://twitter.com/intent/retweet?tweet_id=699443203892711424" target="_blank">Retweet</a> • <a href="https://twitter.com/intent/favorite?tweet_id=699443203892711424"target="_blank">Favorite</a>
+					</div>
+				</div>
+			</li>
+						</ul>
+
+						<div class="widget_footer">
+				<a href="http://twitter.com/MusikariosWorld" target="_blank"><span class="et-extra-icon et-extra-icon-twitter et-extra-social-icon et-extra-icon-background-none social-icon"></span> Follow @MusikariosWorld</a>
+			</div>
+		</div>
+		</div> <!-- end .et_pb_widget --><div id="text-2" class="et_pb_widget widget_text"><h4 class="widgettitle"> </h4>			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Prueba1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9717745561562784"
+     data-ad-slot="6762360358"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div> <!-- end .et_pb_widget --><div id="et_social_followers-2" class="et_pb_widget widget_et_social_followers"><h4 class="widgettitle">Síguenos</h4>
+		<div class="widget_content">
+			<ul class="widget_list">
+								<li>
+						<a class="et-extra-icon et-extra-icon-facebook et-extra-icon-background social-icon" href="https://www.facebook.com/MusikariosWorld"></a>
+						<a href="https://www.facebook.com/MusikariosWorld" class="widget_list_social">
+							<h3 class="title">Facebook</h3>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-twitter et-extra-icon-background social-icon" href="http://twitter.com/musikariosworld"></a>
+						<a href="http://twitter.com/musikariosworld" class="widget_list_social">
+							<h3 class="title">Twitter</h3>
+														<span class="post-meta">33,531 followers</span>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-instagram et-extra-icon-background social-icon" href="http://instagram.com/musikariosworld"></a>
+						<a href="http://instagram.com/musikariosworld" class="widget_list_social">
+							<h3 class="title">Instagram</h3>
+													</a>
+					</li>
+								</ul>
+		</div>
+		</div> <!-- end .et_pb_widget --></div>
+
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+			<footer id="main-footer">
+										<div id="footer-bottom">
+					<div class="container clearfix">
+										<p id="footer-info">
+                            Created By <a href='http://musikariosworld.com'>Musikario's World C.A.</a>
+                        </p>
+					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+	</div> <!-- #page-container -->
+	<script type="text/javascript">/* <![CDATA[ */ jQuery(document).ready( function() { jQuery.post( "http://musikariosworld.com/wp-admin/admin-ajax.php", { action : "entry_views", _ajax_nonce : "85e651a671", post_id : 1045 } ); } ); /* ]]> */</script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-global-functions.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/scripts/ext/imagesloaded.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/scripts/ext/jquery.waypoints.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/scripts/ext/jquery.fitvids.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"http:\/\/musikariosworld.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"http:\/\/musikariosworld.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","rating_nonce":"d458e23867","timeline_nonce":"c7c6a2a1fa","blog_feed_nonce":"75c0d8a363","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/scripts/ext/jquery.raty.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/scripts/jquery.fitvids.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/scripts/jquery.magnific-popup.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/scripts/jquery.mobile.custom.min.js?ver=1.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"http:\/\/musikariosworld.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/musikariosworld.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"http:\/\/musikariosworld.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_load_nonce":"d6e7b45362","subscription_failed":"Por favor, revise los campos a continuaci\u00f3n para asegurarse de que la informaci\u00f3n introducida es correcta.","fill_message":"Por favor, rellene los siguientes campos:","contact_error_message":"Por favor, arregle los siguientes errores:","invalid":"De correo electr\u00f3nico no v\u00e1lida","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Siguiente","wrong_captcha":"Ha introducido un n\u00famero equivocado de captcha.","is_builder_plugin_used":"","is_divi_theme_used":"","widget_search_selector":".widget_search"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-scripts.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://musikariosworld.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+</body>
+</html>

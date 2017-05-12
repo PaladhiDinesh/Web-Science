@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+ 
+
+
+
+
+
+ 
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '554196944693635']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=554196944693635&amp;ev=PixelInitialized" /></noscript>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51331902-1', 'auto');
+ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9LDNj1a8wt00oU", domain:"metroeasy.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9LDNj1a8wt00oU" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Belo Horizonte Metro — Map, Lines, Route, Hours, Tickets</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://metroeasy.metromates.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://metroeasy.metromates.com/wp-content/themes/iconic-one/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name="revised" content="Thursday, March 5, 2015, 8:29 pm" />
+				<script type="text/javascript">
+					var bhittani_plugin_kksr_js = {"nonce":"8023d011d3","grs":true,"ajaxurl":"http:\/\/metroeasy.metromates.com\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"","fuelspeed":400,"thankyou":" ","error_msg":" ","tooltip":"1","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};
+				</script>
+				
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Belo Horizonte Metro Map with information about its route lines, plan, hours, tickets, fares, stations and schedule. Download PDF."/>
+<link rel="canonical" href="http://metroeasy.metromates.com/belo-horizonte-metro.html" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Feed" href="http://metroeasy.metromates.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Comments Feed" href="http://metroeasy.metromates.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="MetroEasy.com &raquo; Belo Horizonte Metro Comments Feed" href="http://metroeasy.metromates.com/belo-horizonte-metro.html/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/metroeasy.metromates.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wiki-embed-style-css'  href='http://metroeasy.metromates.com/wp-content/plugins/wiki-embed/resources/css/wiki-embed.css?ver=0.9' type='text/css' media='screen' />
+<link rel='stylesheet' id='prettyPhoto.css-css'  href='http://metroeasy.metromates.com/wp-content/plugins/wp-instagram-bank/assets/css/prettyPhoto.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bhittani_plugin_kksr-css'  href='http://metroeasy.metromates.com/wp-content/plugins/kk-star-ratings/css.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='http://metroeasy.metromates.com/wp-content/plugins/monarch/css/style.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wprc-style-css'  href='http://metroeasy.metromates.com/wp-content/plugins/report-content/static/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themonic-fonts-css'  href='http://fonts.googleapis.com/css?family=Ubuntu:400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='themonic-style-css'  href='http://metroeasy.metromates.com/wp-content/themes/iconic-one/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://metroeasy.metromates.com/wp-content/themes/iconic-one/custom.css?ver=4.4.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='themonic-ie-css'  href='http://metroeasy.metromates.com/wp-content/themes/iconic-one/css/ie.css?ver=20130305' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='http://metroeasy.metromates.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://metroeasy.metromates.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wgmnp-style-css'  href='http://metroeasy.metromates.com/wp-content/plugins/layero-google-map-neighbourhood-plugin/css/wgmnp_style.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/wp-instagram-bank/assets/js/jquery.prettyPhoto.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/kk-star-ratings/js.min.js?ver=2.4'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3&#038;sensor=true&#038;libraries=places&#038;ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprcajaxhandler = {"ajaxurl":"http:\/\/metroeasy.metromates.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/report-content/static/js/scripts.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://metroeasy.metromates.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://metroeasy.metromates.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://metroeasy.metromates.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://wp.me/p4oBx8-13d' />
+<link rel="alternate" type="application/json+oembed" href="http://metroeasy.metromates.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html" />
+<link rel="alternate" type="text/xml+oembed" href="http://metroeasy.metromates.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;format=xml" />
+<script type="text/javascript">
+             jQuery(document).bind("keydown", function(e) {
+               if(e.ctrlKey && (e.which == 65 || e.which == 67 || e.which == 88 || e.which == 83 ||e.which == 85)) {
+                 e.preventDefault();
+                 return false;
+                 }
+             });
+
+         jQuery(document).on( "mousedown", function(event) {
+             if(event.which=="3")
+             {
+             document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
+
+             }
+             });
+            </script>
+
+            <style type="text/css">
+            body{
+                    -webkit-touch-callout: none;
+                    -webkit-user-select: none;
+                    -khtml-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none;
+               }
+            </style><style>.kk-star-ratings { width:120px; }.kk-star-ratings .kksr-stars a { width:24px; }.kk-star-ratings .kksr-stars, .kk-star-ratings .kksr-stars .kksr-fuel, .kk-star-ratings .kksr-stars a { height:24px; }.kk-star-ratings .kksr-star.gray { background-image: url(http://metroeasy.metromates.com/wp-content/plugins/kk-star-ratings/gray.png); }.kk-star-ratings .kksr-star.yellow { background-image: url(http://metroeasy.metromates.com/wp-content/plugins/kk-star-ratings/yellow.png); }.kk-star-ratings .kksr-star.orange { background-image: url(http://metroeasy.metromates.com/wp-content/plugins/kk-star-ratings/orange.png); }</style><style type="text/css" id="et-social-custom-css">
+				 
+			</style>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Belo Horizonte Metro" />
+<meta property="og:url" content="http://metroeasy.metromates.com/belo-horizonte-metro.html" />
+<meta property="og:description" content="Belo Horizonte Metro Information The Metro service in Belo Horizonte is well known for an ignominious reason- it transports commuters from seemingly nothing to nowhere, owing to the fact that the n…" />
+<meta property="article:published_time" content="2015-03-05T20:29:41+00:00" />
+<meta property="article:modified_time" content="2015-03-05T20:29:41+00:00" />
+<meta property="og:site_name" content="MetroEasy.com" />
+<meta property="og:image" content="http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg?resize=800%2C600" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="600" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg?resize=800%2C600&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<style id="custom-css-css">#page{width:80.5%}a:link{color:#EB652E}a:visited{color:#EB652E}a:hover{color:#EB652E}a:active{color:#EB652E}</style>
+</head>
+<body class="single single-post postid-4043 single-format-standard et_monarch custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+					<hgroup>
+			<a href="http://metroeasy.metromates.com/" title="MetroEasy.com" rel="home">MetroEasy.com</a>
+				<br .../> <a class="site-description">Public Transportation and Metro Rail Information</a>
+		</hgroup>
+			<div class="socialmedia">
+							<a href="https://twitter.com/MetroEasy" target="_blank"><img src="http://metroeasy.metromates.com/wp-content/themes/iconic-one/img/twitter.png" alt="Follow us on Twitter"/></a> 
+											<a href="http://facebook.com/metroeasyinformation" target="_blank"><img src="http://metroeasy.metromates.com/wp-content/themes/iconic-one/img/facebook.png" alt="Follow us on Facebook"/></a>
+											<a href="https://plus.google.com/+Metroeasy/posts" rel="author" target="_blank"><img src="http://metroeasy.metromates.com/wp-content/themes/iconic-one/img/gplus.png" alt="Follow us on Google Plus"/></a>
+									<a class="rss" href="http://metroeasy.metromates.com/feed" target="_blank"><img src="http://metroeasy.metromates.com/wp-content/themes/iconic-one/img/rss.png" alt="Follow us on rss"/></a>			
+					</div>
+		
+		
+		<nav id="site-navigation" class="themonic-nav" role="navigation">
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-menu-bar-container"><ul id="menu-top" class="nav-menu"><li id="menu-item-2995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2995"><a href="http://metroeasy.metromates.com">Metro Guides</a></li>
+<li id="menu-item-5456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5456"><a href="http://metroeasy.metromates.com/nearest-metro">Nearest Metro Stations</a></li>
+<li id="menu-item-5556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5556"><a href="http://routes.metroeasy.com">Metro Route Finder</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://metroeasy.metromates.com/contact-us">Contact</a></li>
+<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://metroeasy.metromates.com/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="http://metroeasy.metromates.com/terms-use">Terms</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+		<div class="clear"></div>
+	</header><!-- #masthead -->
+ 
+<div class="clear"></div>
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+
+	<article id="post-4043" class="post-4043 post type-post status-publish format-standard has-post-thumbnail hentry category-brazil">
+				<header class="entry-header">
+			 
+<p id="breadcrumbs">
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><a href="http://metroeasy.metromates.com" rel="v:url" property="v:title">Home</a></span> &gt; <span typeof="v:Breadcrumb"><a href="http://metroeasy.metromates.com/brazil" rel="v:url" property="v:title">Brazil</a></span> &gt; <span typeof="v:Breadcrumb"><strong class="breadcrumb_last" property="v:title">Belo Horizonte Metro</strong></span>
+		</span></p><hr>			<h1 class="entry-title">Belo Horizonte Metro</h1>
+			
+						
+	<div class="below-title-meta">
+		<div class="adt">
+		By        <span class="author">
+         <a href="http://metroeasy.metromates.com/author/jacob" title="Posts by Admin" rel="author">Admin</a>        </span>
+         <span class="meta-sep">|</span> 
+         March 5, 2015 
+         </div>
+		 <div class="adt-comment">
+		 <a class="link-comments" href="http://metroeasy.metromates.com/belo-horizonte-metro.html#respond">0 Comment</a> 
+         </div>       
+     </div><!-- below title meta end -->
+			
+						
+			</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div class="wprc-container red-colorscheme">
+	<button type="button" class="wprc-switch">Report an Error </button>
+	<div class="wprc-content">
+		<div class="wprc-message">
+		</div>
+		<div class="wprc-form">
+						<div class="left-section">
+				<li class="list-item-reason">
+					<label for="input-reason-4043">Issue: <span class="required-sign">*</span></label><br/>
+					<select id="input-reason-4043" class="input-reason">
+													<option>Timings are outdates</option>
+													<option>Map is Outdates</option>
+													<option>Route is Outdates</option>
+													<option>Hours are Outdates</option>
+													<option>Others</option>
+											</select>
+				</li>
+				<li class="list-item-name">
+										<label for="input-name-4043">
+						Your Name:
+						<span class="required-sign">*</span>					</label><br/>
+					<input type="text" id="input-name-4043" class="input-name wprc-input"/>
+									</li>
+				<li class="list-item-email">
+										<label for="input-email-4043">
+						Your Email:
+						<span class="required-sign">*</span>					</label><br/>
+					<input type="text" id="input-email-4043" class="input-email wprc-input"/>
+									</li>
+			</div>
+			<div class="right-section">
+				<li class="list-item-details">
+										<label for="input-details-4043">
+						Details:
+						<span class="required-sign">*</span>					</label><br/>
+					<textarea id="input-details-4043" class="input-details wprc-input"></textarea>
+									</li>
+			</div>
+			<div  class="clear"></div>
+			<input type="hidden" class="post-id" value="4043">
+			 <button type="button" class="wprc-submit">Submit Report</button>
+			<div class="et_social_media_wrapper"><img class="loading-img" style="display:none;" src="http://i1.wp.com/metroeasy.metromates.com/wp-content/plugins/report-content/static/img/loading.gif?w=665" title="loading" alt="loading Belo Horizonte Metro brazil " data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_on">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;media=http%3A%2F%2Fmetroeasy.metromates.com%2Fwp-content%2Fplugins%2Freport-content%2Fstatic%2Fimg%2Floading.gif&#038;description=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div>
+		</div>
+	</div>
+	</div><div class="kk-star-ratings  top-left lft" data-id="4043">
+			    <div class="kksr-stars kksr-star gray">
+			        <div class="kksr-fuel kksr-star yellow" style="width:0%;"></div>
+			        <!-- kksr-fuel --><a href="#1" target="_blank"  rel="nofollow" ></a><a href="#2" target="_blank"  rel="nofollow" ></a><a href="#3" target="_blank"  rel="nofollow" ></a><a href="#4" target="_blank"  rel="nofollow" ></a><a href="#5" target="_blank"  rel="nofollow" ></a>
+			    </div>
+			    <!-- kksr-stars -->
+			    <div class="kksr-legend"></div>
+			    <!-- kksr-legend -->
+			</div>
+			<!-- kk-star-ratings -->
+			<!--Ad Injection:top-->
+<div style='clear:both;'><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Resp MM 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="7855146557"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div><h2><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Belo Horizonte Metro Information</span></span></h2>
+<p><span style="color: #000000;">The Metro service in Belo Horizonte is well known for an ignominious reason- it transports commuters from seemingly nothing to nowhere, owing to the fact that the network does not run close to any of the numerous places of interest, popular neighborhoods and avenues around the city. The Metro service has only one line with nineteen stations to its credit, some of which have connections to other places by means of bus service.</span><br style="color: #000000;" /><br style="color: #000000;" /></p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM LU 3 new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:15px"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="7715545755"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<!--Ad Injection:random-->
+<div style='float:left;clear:both;'><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div><br clear='all' />
+<p>As per the proposals of the Government, there will be an extension of the Metro service with the addition of two more lines. It forecasts that upon completion of the work, the service will witness a jump in daily commuter traffic by nearly a million passengers as the network will reach a total coverage of forty-four kilometers. Belo Horizonte Metro has an annula ridership of 57.42 million as in 2013.</p>
+<h2><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Belo Horizonte Metro Lines and Hours</span></span></h2>
+<h3><span style="text-decoration: underline;">Current Lines</span></h3>
+<table class="wikitable" style="color: black;">
+<tbody>
+<tr>
+<th align="center"><span style="color: #000000;">Line</span></th>
+<th align="center"><span style="color: #000000;">Terminals</span></th>
+<th align="center"><span style="color: #000000;">Inauguration</span></th>
+<th align="center"><span style="color: #000000;">Length (km)</span></th>
+<th align="center"><span style="color: #000000;">Stations</span></th>
+<th align="center"><span style="color: #000000;">Length of trip (min)</span></th>
+<th align="center"><span style="color: #000000;">Operation Hours</span></th>
+</tr>
+<tr>
+<td align="center"><span style="color: #000000;">1</span></td>
+<td align="center"><span style="color: #000000;">Eldorado ↔ Vilarinho</span></td>
+<td align="center"><span style="color: #000000;">1 August 1986</span></td>
+<td align="center"><span style="color: #000000;">28.1</span></td>
+<td align="center"><span style="color: #000000;">19</span></td>
+<td align="center"><span style="color: #000000;">44 minutes</span></td>
+<td align="center"><span style="color: #000000;">Daily, from 05:45 to 23:00</span></td>
+</tr>
+</tbody>
+</table>
+<h3><span style="text-decoration: underline;">Planned Lines</span></h3>
+<table class="wikitable" style="color: black;">
+<tbody>
+<tr>
+<th align="center"><span style="color: #000000;">Line</span></th>
+<th align="center"><span style="color: #000000;">Terminals</span></th>
+<th align="center"><span style="color: #000000;">Inauguration</span></th>
+<th align="center"><span style="color: #000000;">Length (km)</span></th>
+<th align="center"><span style="color: #000000;">Stations</span></th>
+<th align="center"><span style="color: #000000;">Length of trip (min)</span></th>
+<th align="center"><span style="color: #000000;">Posture</span></th>
+</tr>
+<tr>
+<td align="center"><span style="color: #000000;">2</span></td>
+<td align="center"><span style="color: #000000;">Nova Suiça ↔ Barreiro</span></td>
+<td align="center"><span style="color: #000000;">&#8212;</span></td>
+<td align="center"><span style="color: #000000;">17.5</span></td>
+<td align="center"><span style="color: #000000;">7</span></td>
+<td align="center"><span style="color: #000000;">&#8212;</span></td>
+<td align="center"><span style="color: #000000;"><i>Planned</i></span></td>
+</tr>
+<tr>
+<td align="center"><span style="color: #000000;">3</span></td>
+<td align="center"><span style="color: #000000;">Lagoinha ↔ Savassi</span></td>
+<td align="center"><span style="color: #000000;">&#8212;</span></td>
+<td align="center"><span style="color: #000000;">12.5</span></td>
+<td align="center"><span style="color: #000000;">5</span></td>
+<td align="center"><span style="color: #000000;">&#8212;</span></td>
+<td align="center"><span style="color: #000000;"><i>Planned</i></span></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="text-decoration: underline;">Belo Horizonte Metro Map</span></h2>
+<p>Map of Belo Horizonte Metro showing various lines and stations. Click on the map to enlarge it or <a href="http://metroeasy.metromates.com/wp-content/uploads/2014/07/Belo-Horizonte-Metro-Map.pdf">Download Belo Horizonte Metro map in PDF.</a></p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM Res 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="9331879750"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div id="attachment_4044" style="width: 710px" class="wp-caption aligncenter"><a href="http://metroeasy.metromates.com/wp-content/uploads/2014/07/Belo-Horizonte-Metro-Map.jpg"><div class="et_social_media_wrapper"><img class="size-full wp-image-4044" src="http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo-Horizonte-Metro-Map.jpg?resize=665%2C760" alt="Belo Horizonte Metro Map Belo Horizonte Metro brazil " title="Belo Horizonte Metro Map" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_on">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;media=http%3A%2F%2Fmetroeasy.metromates.com%2Fwp-content%2Fuploads%2F2014%2F07%2FBelo-Horizonte-Metro-Map.jpg&#038;description=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div></a><p class="wp-caption-text">Belo Horizonte Metro Map</p></div>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM LU 1 new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:15px"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="1669012158"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<h2><span style="text-decoration: underline;">Belo Horizonte Metro Pictures</span></h2>
+<div id="attachment_4047" style="width: 810px" class="wp-caption aligncenter"><a href="http://metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg"><div class="et_social_media_wrapper"><img class="size-full wp-image-4047" src="http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg?resize=665%2C499" alt="Belo Horizonte metro train Belo Horizonte Metro brazil " srcset="http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg?resize=300%2C225 300w, http://i2.wp.com/metroeasy.metromates.com/wp-content/uploads/2014/07/Belo_Horizonte_metro_train.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" title="Belo Horizonte metro train" data-recalc-dims="1" /><div class="et_social_media et_social_media_hidden et_social_mobile_on">
+				<div class="et_social_networks et_social_autowidth et_social_simple et_social_left et_social_rounded et_social_outer_dark et_social_withnetworknames">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<div data-social_link="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="facebook" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_twitter">
+									<div data-social_link="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" rel="nofollow" class="et_social_share" data-social_name="twitter" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_googleplus">
+									<div data-social_link="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="googleplus" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_digg">
+									<div data-social_link="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="digg" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_pinterest">
+									<div data-social_link="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;media=http%3A%2F%2Fmetroeasy.metromates.com%2Fwp-content%2Fuploads%2F2014%2F07%2FBelo_Horizonte_metro_train.jpg&#038;description=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="pinterest" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_delicious">
+									<div data-social_link="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="delicious" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_reddit">
+									<div data-social_link="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="reddit" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_linkedin">
+									<div data-social_link="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="linkedin" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li><li class="et_social_stumbleupon">
+									<div data-social_link="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" rel="nofollow" class="et_social_share" data-social_name="stumbleupon" data-social_type="media" data-post_id="4043">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										<span class="et_social_overlay"></span>
+									</div>
+								</li></ul>
+				</div>
+			</div></div></a><p class="wp-caption-text">Belo Horizonte Metro Train</p></div>
+<h3><span style="text-decoration: underline;">Belo Horizonte Metro Resources</span></h3>
+<ul>
+<li><a href="http://www.cbtu.gov.br/operadoras/sites/menuprincbh.htm" target="_blank"  rel="nofollow" >Official website of Belo Horizonte Metro</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Belo_Horizonte_Metro" target="_blank"  rel="nofollow" >Belo Horizonte Metro on Wikipedia</a></li>
+</ul>
+<!--Ad Injection:bottom-->
+<div style='float:left;clear:both;'><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div><br clear='all' /><div class='a2k-container'><p class='a2k-sources'>Sources:</p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM LU 2 new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:15px"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="9192278958"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p><span class='a2k-title'><a href='http://metroeasy.metromates.com/belo-horizonte-metro.html/belo-horizonte-metro-map'>Belo Horizonte Metro Map</a></span> <span class='a2k-copyright'>by</span> <span class='a2k-author'>ArthurBaz</a></div><div class="et_social_inline et_social_mobile_off et_social_inline_bottom">
+				<div class="et_social_networks et_social_4col et_social_simple et_social_circle et_social_left et_social_no_animation et_social_withcounts et_social_withnetworknames et_social_outer_dark">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a href="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_digg"><a href="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="digg" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_digg"></i><div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_pinterest"><a href="#" class="et_social_share_pinterest et_social_display_count" rel="nofollow" data-social_name="pinterest" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_pinterest"></i><div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_delicious"><a href="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="delicious" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_delicious"></i><div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_reddit"><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_reddit"></i><div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_stumbleupon"><a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="stumbleupon" data-post_id="4043" data-social_type="share"data-min_count="2" target="_blank" ><i class="et_social_icon et_social_icon_stumbleupon"></i><div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div><span class="et_social_overlay"></span></a></li></ul>
+				</div>
+			</div>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MM Resp 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1599614883199821"
+     data-ad-slot="1808612955"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><hr><h6><b><i> Tags :belo horizonte metro, belo horizonte public transportation, metro in belo horizonte, public transportation belo horizonte</i></b></h6><hr><div class="post-meta">Copyright © Metroeasy.com 5/03/15</div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><span class="et_social_bottom_trigger"></span>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+		<span>Category: <a href="http://metroeasy.metromates.com/brazil" rel="category tag">Brazil</a></span> <span></span> 
+           						</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				<nav class="nav-single">
+					<div class="assistive-text">Post navigation</div>
+					<span class="nav-previous"><a href="http://metroeasy.metromates.com/red-line-cleveland.html" rel="prev"><span class="meta-nav">&larr;</span> Red Line (Cleveland)</a></span>
+					<span class="nav-next"><a href="http://metroeasy.metromates.com/bangkok-metro.html" rel="next">Bangkok Metro (MRT) <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+			
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Have any questions? Let us know : <small><a rel="nofollow" id="cancel-comment-reply-link" href="/belo-horizonte-metro.html#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&#038;postid=4043&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=wavatar&#038;greeting=Have+any+questions%3F+Let+us+know+%3A&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.8.1&#038;sig=ba45a794df289ae23beac6ca41a789295a11d9f5#parent=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</div><!-- #comments .comments-area -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-37" class="widget widget_text"><p class="widget-title">Search</p>			<div class="textwidget">
+
+<form action="http://www.google.com" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1599614883199821:9657430159" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+		</aside><aside id="listcategorypostswidget-2" class="widget widget_listcategorypostswidget"><p class="widget-title">Related Metro Guides</p><ul><li><a href="http://metroeasy.metromates.com/public-transport-rio-de-janeiro.html" title="Public Transportation In Rio de Janeiro">Public Transportation In Rio de Janeiro</a>  </li><li><a href="http://metroeasy.metromates.com/recife-metro.html" title="Recife Metro">Recife Metro</a>  </li><li><a href="http://metroeasy.metromates.com/brasilia-metro.html" title="Brasília Metro">Brasília Metro</a>  </li><li><a href="http://metroeasy.metromates.com/salvador-metro.html" title="Salvador Metro">Salvador Metro</a>  </li><li><a href="http://metroeasy.metromates.com/fortaleza-metro.html" title="Fortaleza Metro">Fortaleza Metro</a>  </li><li class = current ><a href="http://metroeasy.metromates.com/belo-horizonte-metro.html" title="Belo Horizonte Metro">Belo Horizonte Metro</a>  </li><li><a href="http://metroeasy.metromates.com/teresina-metro.html" title="Teresina Metro">Teresina Metro</a>  </li><li><a href="http://metroeasy.metromates.com/rio-de-janeiro-metro.html" title="Rio de Janeiro Metro">Rio de Janeiro Metro</a>  </li><li><a href="http://metroeasy.metromates.com/public-transport-brasilia.html" title="Public Transportation In Brasilia">Public Transportation In Brasilia</a>  </li><li><a href="http://metroeasy.metromates.com/sao-paulo-metro.html" title="São Paulo Metro">São Paulo Metro</a>  </li><li><a href="http://metroeasy.metromates.com/public-transport-sao-paulo.html" title="Public Transportation In Sao Paulo">Public Transportation In Sao Paulo</a>  </li><li><a href="http://metroeasy.metromates.com/porto-alegre-metro.html" title="Porto Alegre Metro">Porto Alegre Metro</a>  </li></ul><a href="http://metroeasy.metromates.com/brazil" > </a></aside><aside id="text-38" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+ var placement_id = "VZN997066VB0B682";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script>
+<br>
+<script type="text/javascript">
+ var placement_id = "VZN997066VB0B682";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></div>
+		</aside>		</div><!-- #secondary -->
+	
+ 
+	</div><!-- #main .wrapper -->
+<center>
+ </center>
+
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+		<div class="footercopy">Copyright MetroEasy.com 2015</div>
+		<div class="footercredit">All rights reserved</div>
+		<div class="clear"></div>
+		</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+		<div class="site-wordpress">
+				
+				</div><!-- .site-info -->
+				<div class="clear"></div>
+
+</div><!-- #page -->
+
+
+
+<!--Ad Injection:footer-->
+<div style='clear:both;padding-bottom:3px;'><center><script type="text/javascript">
+ var placement_id = "VZW478638VG686CF";
+ vertoz_ad_width = 300;
+ vertoz_ad_height = 250;
+ var _vzR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+ var _url = "http://ads.vertoz.com/scripts/pageads.js";
+ var _param = "?hn="+escape(location.hostname)+"&pid="+escape(placement_id)+"&vzR="+escape(_vzR);
+ var url = _url+_param;
+ document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+ </script></center></div><div class="et_social_pin_images_outer">
+					<div class="et_social_pinterest_window">
+						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
+						<div class="et_social_pin_images" data-permalink="http://metroeasy.metromates.com/belo-horizonte-metro.html" data-title="Belo Horizonte Metro" data-post_id="4043"></div>
+					</div>
+				</div><div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_on">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_googleplus">
+									<a href="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_digg">
+									<a href="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="digg" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_pinterest">
+									<a href="#" class="et_social_share_pinterest" rel="nofollow" data-social_name="pinterest" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_delicious">
+									<a href="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="delicious" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_reddit">
+									<a href="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_linkedin">
+									<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_stumbleupon">
+									<a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="stumbleupon" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li></ul>
+					<span class="et_social_hide_sidebar et_social_icon"></span>
+				</div><div class="et_social_mobile_button"></div>
+					<div class="et_social_mobile et_social_fadein">
+						<div class="et_social_heading">Share This</div>
+						<span class="et_social_close"></span>
+						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
+							<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_googleplus">
+									<a href="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_digg">
+									<a href="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="digg" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_digg"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_pinterest">
+									<a href="#" class="et_social_share_pinterest" rel="nofollow" data-social_name="pinterest" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_pinterest"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_delicious">
+									<a href="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="delicious" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_delicious"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_reddit">
+									<a href="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_linkedin">
+									<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_stumbleupon">
+									<a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share" rel="nofollow" data-social_name="stumbleupon" data-post_id="4043" data-social_type="share">
+										<i class="et_social_icon et_social_icon_stumbleupon"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li></ul>
+						</div>
+					</div>
+					<div class="et_social_mobile_overlay"></div><div class="et_social_popup et_social_mobile_off et_social_scroll" data-cookie_duration="1" data-scroll_pos="50">
+								<div class="et_social_popup_content et_social_resize et_social_fadein">
+									<a href="#" class="et_social_icon et_social_icon_cancel"></a>
+									<div class="et_social_header">
+										<h3>Share This</h3>
+										<p>Share this post with your friends!</p>
+									</div>
+									<div class="et_social_networks et_social_3col et_social_slide et_social_rounded et_social_left et_social_withcounts et_social_withnetworknames">
+										
+										<ul class="et_social_icons_container"><li class="et_social_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a href="http://twitter.com/share?text=Belo%20Horizonte%20Metro&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;via=metroeasy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a href="https://plus.google.com/share?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;t=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_digg"><a href="http://digg.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="digg" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_digg"></i><div class="et_social_network_label"><div class="et_social_networkname">Digg</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_pinterest"><a href="#" class="et_social_share_pinterest et_social_display_count" rel="nofollow" data-social_name="pinterest" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_pinterest"></i><div class="et_social_network_label"><div class="et_social_networkname">Pinterest</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_delicious"><a href="https://delicious.com/post?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="delicious" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_delicious"></i><div class="et_social_network_label"><div class="et_social_networkname">Delicious</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_reddit"><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_reddit"></i><div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_stumbleupon"><a href="http://www.stumbleupon.com/badge?url=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html&#038;title=Belo%20Horizonte%20Metro" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="stumbleupon" data-post_id="4043" data-social_type="share"data-min_count="0"><i class="et_social_icon et_social_icon_stumbleupon"></i><div class="et_social_network_label"><div class="et_social_networkname">StumbleUpon</div></div><span class="et_social_overlay"></span></a></li></ul>
+									</div>
+								</div>
+							</div><script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.7'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"http:\/\/metroeasy.metromates.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/metroeasy.metromates.com\/belo-horizonte-metro.html","stats_nonce":"1dbc5d69f5","share_counts":"c3a9e66b3b","follow_counts":"25ecc4d50a","total_counts":"546f666763","media_single":"7fe1d85e19","media_total":"84c29b9da8","generate_all_window_nonce":"e93557b904","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/plugins/monarch/js/custom.js?ver=1.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-content/themes/iconic-one/js/selectnav.js?ver=1.0'></script>
+<script type='text/javascript' src='http://metroeasy.metromates.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&postid=4043&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=Have+any+questions%3F+Let+us+know+%3A&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.8.1&sig=ba45a794df289ae23beac6ca41a789295a11d9f5#parent=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=64969498&postid=4043&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wavatar&greeting=Have+any+questions%3F+Let+us+know+%3A&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.8.1&sig=ba45a794df289ae23beac6ca41a789295a11d9f5#parent=http%3A%2F%2Fmetroeasy.metromates.com%2Fbelo-horizonte-metro.html";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.1',blog:'64969498',post:'4043',tz:'0',srv:'metroeasy.metromates.com'} ]);
+	_stq.push([ 'clickTrackerInit', '64969498', '4043' ]);
+</script>
+<script src="//my.hellobar.com/07194bf4deb5222823cdaea0ce86a7318321bcb5.js" type="text/javascript" charset="utf-8" async="async"></script>
+
+ 
+
+</body>
+</html>

@@ -1,0 +1,667 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The real Gigabit Challenge is getting ISPs to think like tech firms, The Web-Deprived Study at McDonald&#039;s and more - CTOvision.com</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="news_keywords" content="chromebook, google, hewlett-packard, microsoft, samsung, super bowl, cto, cio, technology, computing, internet, security, cybersecurity" />
+<link rel="original-source" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/" />
+<link rel="canonical" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The real Gigabit Challenge is getting ISPs to think like tech firms, The Web-Deprived Study at McDonald&#039;s and more - CTOvision.com" />
+<meta property="og:description" content="Here are the top tech news and stories of the day. PBS tweet entices SuperBowl watchers to Downton Abbey: how it happened - During last night&#039;s epic Super Bowl blackout, Marketing and Communications director of PBS, Kevin Dando, used Twitter to grab viewers for their network. The Super Bowl (the most watched television event of all &hellip;" />
+<meta property="og:url" content="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/" />
+<meta property="og:site_name" content="CTOvision.com" />
+<meta property="article:publisher" content="https://www.facebook.com/ctovision" />
+<meta property="article:tag" content="Chromebook" />
+<meta property="article:tag" content="Google" />
+<meta property="article:tag" content="Hewlett-Packard" />
+<meta property="article:tag" content="microsoft" />
+<meta property="article:tag" content="samsung" />
+<meta property="article:tag" content="Super Bowl" />
+<meta property="article:section" content="Cloud Computing" />
+<meta property="article:published_time" content="2013-02-04T17:17:54-04:00" />
+<meta property="article:modified_time" content="2016-02-08T14:16:21-04:00" />
+<meta property="og:updated_time" content="2016-02-08T14:16:21-04:00" />
+<meta property="og:image" content="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/logoimage.png" />
+<meta property="og:image" content="http://img.zemanta.com/pixy.gif?x-id=9e9bbc6f-f682-4ed7-9230-2bfdaacc5b52" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Here are the top tech news and stories of the day. PBS tweet entices SuperBowl watchers to Downton Abbey: how it happened - During last night&#039;s epic Super Bowl blackout, Marketing and Communications director of PBS, Kevin Dando, used Twitter to grab viewers for their network. The Super Bowl (the most watched television event of all [&hellip;]" />
+<meta name="twitter:title" content="The real Gigabit Challenge is getting ISPs to think like tech firms, The Web-Deprived Study at McDonald&#039;s and more - CTOvision.com" />
+<meta name="twitter:site" content="@ctovision" />
+<meta name="twitter:image" content="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/logoimage.png" />
+<meta name="twitter:creator" content="@RyanKamauff" />
+<meta property="DC.date.issued" content="2013-02-04T17:17:54-04:00" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="CTOvision.com &raquo; Feed" href="https://ctovision.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CTOvision.com &raquo; Comments Feed" href="https://ctovision.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="CTOvision.com &raquo; iCal Feed" href="https://ctovision.com/cto-events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="CTOvision.com &raquo; The real Gigabit Challenge is getting ISPs to think like tech firms,  The Web-Deprived Study at McDonald&#039;s and more Comments Feed" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/ctovision.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ayvpp-style-css'  href='https://ctovision.com/wp-content/plugins//automatic-video-posts/css/style.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-page-addon-frontend-css'  href='https://ctovision.com/wp-content/plugins/download-monitor-page-addon/assets/css/page.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://ctovision.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prose_minified_stylesheet-css'  href='https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/prose/minified.css?ver=1458410679' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='https://ctovision.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-top-posts-widget-css'  href='https://ctovision.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-this-week-pro-style-css'  href='https://ctovision.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-full.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe_events-widget-this-week-pro-style-css'  href='https://ctovision.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-theme.min.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://ctovision.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://ctovision.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ws-plugin--s2member-css'  href='https://ctovision.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&#038;qcABC=1&#038;ver=160424-160424-785867286' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.4.9 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-64471883-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='https://ctovisionpull-cognitio.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='https://ctovisionpull-cognitio.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_this_week = {"ajaxurl":"https:\/\/ctovision.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/events-calendar-pro/src/resources/js/widget-this-week.min.js?ver=4.1.2'></script>
+<link rel='https://api.w.org/' href='https://ctovision.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ctovision.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ctovision.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.1" />
+<link rel='shortlink' href='http://ctolink.us/1T0ATsI' />
+<link rel="alternate" type="application/json+oembed" href="https://ctovision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctovision.com%2F2013%2F02%2Fthe-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ctovision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fctovision.com%2F2013%2F02%2Fthe-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more%2F&#038;format=xml" />
+<style type="text/css">
+	.addw2p {
+		list-style-type: none;
+		list-style-image: none;
+	}
+</style>
+<script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":23247,"post_name":"the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more","post_title":"The real Gigabit Challenge is getting ISPs to think like tech firms,  The Web-Deprived Study at McDonald&#039;s and more","post_type":"post","post_author":"4","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":7,"name":"Cloud Computing","slug":"cloud-computing-2","term_group":0,"term_taxonomy_id":7,"taxonomy":"category","description":"There are seven key megatrends driving the future of enterprise IT. You can remember them all with the helpful mnemonic acronym CAMBRIC, which stands for\u00a0<a href=\"https:\/\/ctovision.com\/cloud-computing\/\"><strong>C<\/strong>loud Computing<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/artificial-intelligence\/\"><strong>A<\/strong>rtificial Intelligence<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/mobile\/\"><strong>M<\/strong>obility<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/big-data-tech\/\"><strong>B<\/strong>ig Data<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/robots\/\"><strong>R<\/strong>obotics<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/internet-of-things\/\"><strong>I<\/strong>nternet of Things<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/cyber-initiative\/\"><strong>C<\/strong>yberSecurity<\/a>.\r\n\r\n<img src=\"https:\/\/ctovision.com\/wp-content\/uploads\/Cloud-Computing-Service-1024x683.jpg\" alt=\"Cloud-Computing-Service\" width=\"1024\" height=\"683\" class=\"aligncenter size-large wp-image-91407\" \/>Cloud computing refers to the on-demand provision of computational resources (data, software) via a computer network, rather than from a local computer. The bad news is that enterprise CTOs, the people who created the construct and business model of cloud computing, are now suffering through an onslaught of over the top hype. Most are getting sick of the cloud computing term. Our goal is report critically important operational use cases and non-biased technology reviews in this field, while avoiding the typical cloud computing hype.\r\n<p>\u00a0<\/p>\r\n<p>\u00a0<\/p>","parent":0,"count":471,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"},"cat_ID":7,"category_count":471,"category_description":"There are seven key megatrends driving the future of enterprise IT. You can remember them all with the helpful mnemonic acronym CAMBRIC, which stands for\u00a0<a href=\"https:\/\/ctovision.com\/cloud-computing\/\"><strong>C<\/strong>loud Computing<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/artificial-intelligence\/\"><strong>A<\/strong>rtificial Intelligence<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/mobile\/\"><strong>M<\/strong>obility<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/big-data-tech\/\"><strong>B<\/strong>ig Data<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/robots\/\"><strong>R<\/strong>obotics<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/internet-of-things\/\"><strong>I<\/strong>nternet of Things<\/a>,\u00a0<a href=\"https:\/\/ctovision.com\/cyber-initiative\/\"><strong>C<\/strong>yberSecurity<\/a>.\r\n\r\n<img src=\"https:\/\/ctovision.com\/wp-content\/uploads\/Cloud-Computing-Service-1024x683.jpg\" alt=\"Cloud-Computing-Service\" width=\"1024\" height=\"683\" class=\"aligncenter size-large wp-image-91407\" \/>Cloud computing refers to the on-demand provision of computational resources (data, software) via a computer network, rather than from a local computer. The bad news is that enterprise CTOs, the people who created the construct and business model of cloud computing, are now suffering through an onslaught of over the top hype. Most are getting sick of the cloud computing term. Our goal is report critically important operational use cases and non-biased technology reviews in this field, while avoiding the typical cloud computing hype.\r\n<p>\u00a0<\/p>\r\n<p>\u00a0<\/p>","cat_name":"Cloud Computing","category_nicename":"cloud-computing-2","category_parent":0},{"term_id":11,"name":"CTO","slug":"cto","term_group":0,"term_taxonomy_id":11,"taxonomy":"category","description":"The enterprise Chief Technology Officer (CTO) is the whole reason for this site. We appreciate you visiting! Be sure to let us know how we can bring more focus to the site. ","parent":0,"count":2014,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"},"cat_ID":11,"category_count":2014,"category_description":"The enterprise Chief Technology Officer (CTO) is the whole reason for this site. We appreciate you visiting! Be sure to let us know how we can bring more focus to the site. ","cat_name":"CTO","category_nicename":"cto","category_parent":0}]; _mmunch['postTags'] = [{"term_id":675,"name":"Chromebook","slug":"chromebook","term_group":0,"term_taxonomy_id":677,"taxonomy":"post_tag","description":"","parent":0,"count":8,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}},{"term_id":1667,"name":"Google","slug":"google","term_group":0,"term_taxonomy_id":1673,"taxonomy":"post_tag","description":"","parent":0,"count":283,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}},{"term_id":1823,"name":"Hewlett-Packard","slug":"hewlett-packard","term_group":0,"term_taxonomy_id":1830,"taxonomy":"post_tag","description":"","parent":0,"count":22,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}},{"term_id":2608,"name":"microsoft","slug":"microsoft","term_group":0,"term_taxonomy_id":2616,"taxonomy":"post_tag","description":"","parent":0,"count":173,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}},{"term_id":3557,"name":"samsung","slug":"samsung","term_group":0,"term_taxonomy_id":3569,"taxonomy":"post_tag","description":"","parent":0,"count":80,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}},{"term_id":3932,"name":"Super Bowl","slug":"super-bowl","term_group":0,"term_taxonomy_id":3949,"taxonomy":"post_tag","description":"","parent":0,"count":4,"filter":"raw","term_icon":null,"object_id":23247,"meta":{"headline":"","intro_text":"","display_title":"0","display_description":"0","doctitle":"","description":"","keywords":"","layout":"","noindex":"0","nofollow":"0","noarchive":"0"}}]; _mmunch['postAuthor'] = {"name":"Ryan Kamauff","ID":4};</script><script data-cfasync="false" src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="7622" async></script>
+<!-- StarBox - the Author Box for Humans 1.2.6, visit: http://wordpress.org/plugins/starbox/ -->
+<!-- /StarBox - the Author Box for Humans -->
+
+<link rel='stylesheet' id='frontend.css-css'  href='https://ctovision.com/wp-content/plugins/starbox-pro//themes/business/css/frontend.css?ver=1.2.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/starbox-pro//themes/business/js/frontend.js?ver=1.2.6'></script>
+<link rel='stylesheet' id='hidedefault.css-css'  href='https://ctovision.com/wp-content/plugins/starbox-pro//themes/admin/css/hidedefault.css?ver=1.2.6' type='text/css' media='all' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel="Shortcut Icon" href="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/themes/prose/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="https://ctovision.com/xmlrpc.php" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6587918-2', 'auto');
+  ga('send', 'pageview');
+
+</script><style type="text/css">#header { background: url(https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/themes/prose/images/header.png) no-repeat !important; }</style>
+				<!-- WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'https://ctovision.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=12ab1ba4e1&wpp_id=23247';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.3 -->
+				<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
+<body class="single single-post postid-23247 single-format-standard content-sidebar"><div id="wrap"><div id="nav"><div class="wrap"><ul id="menu-main-menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-38247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38247"><a href="https://ctovision.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-56458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56458"><a href="https://ctovision.com/about/users-guide-ctovision-pro/">A Users Guide To CTOvision Pro</a></li>
+	<li id="menu-item-52454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52454"><a href="https://ctovision.com/ctovision-pro/">Register for CTOvision Pro</a></li>
+	<li id="menu-item-49688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49688"><a href="https://ctovision.com/request-special-access-ctovision-pro/">Request Special Access to CTOvision Pro</a></li>
+	<li id="menu-item-48218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48218"><a href="https://ctovision.com/analyst-briefing-request/">Analyst Briefing Request</a></li>
+	<li id="menu-item-48219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48219"><a href="https://ctovision.com/industry-update-submission/">Industry Update Submission</a></li>
+	<li id="menu-item-48220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48220"><a href="https://ctovision.com/about/submit-tech-company/">Submit A Technology Or Company For Review</a></li>
+	<li id="menu-item-48221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48221"><a href="https://ctovision.com/submit/">Submit News</a></li>
+	<li id="menu-item-38249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38249"><a href="https://ctovision.com/about/disclaimers-and-bias/">Disclaimers and Bias</a></li>
+	<li id="menu-item-38252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38252"><a href="https://ctovision.com/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-38253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38253"><a href="https://ctovision.com/other-web-properties/">Our Other Web Properties</a></li>
+	<li id="menu-item-38254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38254"><a href="https://ctovision.com/about/contributing-to-the-ctovision-com-blog/">Contributing to the CTOvision.com Blog</a></li>
+	<li id="menu-item-38258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38258"><a href="https://ctovision.com/guidance-for-the-pr-professional/">Guidance for the PR Professional</a></li>
+	<li id="menu-item-38264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38264"><a href="https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/">CTOvision Mobile App</a></li>
+	<li id="menu-item-38265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38265"><a href="https://ctovision.com/about/media-partnerships/">Media Partnerships</a></li>
+</ul>
+</li>
+<li id="menu-item-38248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38248"><a href="https://ctovision.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-38250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38250"><a href="https://ctovision.com/subscribe/">Subscribe</a>
+<ul class="sub-menu">
+	<li id="menu-item-38251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38251"><a href="https://ctovision.com/subscribe/the-ctovision-com-monthly/">The CTOvision.com Monthly</a></li>
+	<li id="menu-item-38257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38257"><a href="https://ctovision.com/newsletter-subscriptions/">Newsletter Subscriptions</a></li>
+	<li id="menu-item-90360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90360"><a href="https://ctovision.com/top-technology-news-ticker/">Top Technology News Ticker</a></li>
+	<li id="menu-item-90361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90361"><a href="https://ctovision.com/federal-technology-news-ticker/">Federal Technology News Ticker</a></li>
+</ul>
+</li>
+<li id="menu-item-56352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-56352"><a href="https://ctovision.com/pro">Join CTOvision Pro</a>
+<ul class="sub-menu">
+	<li id="menu-item-89685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89685"><a href="https://ctovision.com/about/enterprise-memberships-ctovision-pro/">Enterprise Membership</a></li>
+</ul>
+</li>
+<li id="menu-item-56081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56081"><a href="https://ctovision.com/ctovision-pro-research-analysis/ask-the-cto/">Ask The CTO</a></li>
+<li id="menu-item-58349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58349"><a href="http://cognitiocorp.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://cognitiocorp.com', 'About Cognitio');">About Cognitio</a></li>
+</ul></div></div><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="https://ctovision.com/">CTOvision.com</a></p><p id="description">Context for the CTO, CIO, CISO and Data Scientist</p></div><div class="widget-area header-widget-area"><div id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="https://ctovision.com/" role="search" ><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+</div></div></div><div id="subnav"><div class="wrap"><ul id="menu-categories" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-93461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93461"><a href="https://ctovision.com/hot-tech-topics/">Categorized Content</a>
+<ul class="sub-menu">
+	<li id="menu-item-93464" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-93464"><a href="https://ctovision.com/cloud-computing-2/">Cloud Computing</a></li>
+	<li id="menu-item-93462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93462"><a href="https://ctovision.com/artificial-intelligence-2/">Artificial Intelligence</a></li>
+	<li id="menu-item-93467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93467"><a href="https://ctovision.com/mobile-3/">Mobile</a></li>
+	<li id="menu-item-93463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93463"><a href="https://ctovision.com/big-data-tech-2/">Big Data</a></li>
+	<li id="menu-item-93468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93468"><a href="https://ctovision.com/robots-2/">Robots</a></li>
+	<li id="menu-item-93466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93466"><a href="https://ctovision.com/internet-of-things-2/">Internet of Things</a></li>
+	<li id="menu-item-93465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93465"><a href="https://ctovision.com/cyber-initiative/">Cyber Security</a></li>
+</ul>
+</li>
+<li id="menu-item-48261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48261"><a href="https://ctovision.com/ctovision-pro-research-analysis/ctovision-pro-research-library/">Research Reports</a>
+<ul class="sub-menu">
+	<li id="menu-item-48315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48315"><a href="https://ctovision.com/ctovision-pro-research-analysis/special-technology-reviews/">Tech Reviews</a></li>
+	<li id="menu-item-51055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51055"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/">Federal Enterprise Reviews</a>
+	<ul class="sub-menu">
+		<li id="menu-item-51076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51076"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-agriculture/">Department of Agriculture (USDA)</a></li>
+		<li id="menu-item-51075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51075"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-commerce/">Department of Commerce (Commerce)</a></li>
+		<li id="menu-item-51074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51074"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-defense/">Department of Defense (DOD)</a></li>
+		<li id="menu-item-51056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51056"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-treasury-treasury/">Department of the Treasury (Treasury)</a></li>
+		<li id="menu-item-51072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51072"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-education/">Department of Education (ED)</a></li>
+		<li id="menu-item-51071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51071"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-energy/">Department of Energy (DOE)</a></li>
+		<li id="menu-item-51070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51070"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/health-human-services/">Health and Human Services (HHS)</a></li>
+		<li id="menu-item-51069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51069"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-homeland-security-dhs/">Department of Homeland Security (DHS)</a></li>
+		<li id="menu-item-51060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51060"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/national-aeronautics-space-administration-nasa/">National Aeronautics and Space Administration (NASA)</a></li>
+		<li id="menu-item-51061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51061"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/national-intelligence-program/">National Intelligence Program (Intelligence Community)</a></li>
+		<li id="menu-item-51068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51068"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-justice-doj/">Department of Justice (DOJ)</a></li>
+		<li id="menu-item-51067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51067"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-state/">Department of State</a></li>
+		<li id="menu-item-51062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51062"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/social-security-administration-ssa/">Social Security Administration (SSA)</a></li>
+		<li id="menu-item-51057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51057"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-transportation-dot/">Department of Transportation (DOT)</a></li>
+		<li id="menu-item-51058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51058"><a href="https://ctovision.com/ctovision-pro-research-analysis/federal-enterprise-reviews/department-veterans-affairs-va/">Department of Veterans Affairs (VA)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-58350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58350"><a href="https://ctovision.com/research-library/">Research Library</a></li>
+</ul></div></div><div id="inner"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-23247 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud-computing-2 category-cto tag-chromebook tag-google tag-hewlett-packard tag-microsoft tag-samsung tag-super-bowl entry"><h1 class="entry-title">The real Gigabit Challenge is getting ISPs to think like tech firms,  The Web-Deprived Study at McDonald&#039;s and more</h1> 
+<div class="post-info"> <span class="date published time" title="2013-02-04T17:17:54+00:00">February 4, 2013</span>  By <span class="author vcard"><span class="fn"><a href="https://ctovision.com/author/ryankamauff/" rel="author">Ryan Kamauff</a></span></span>  </div>
+
+	
+<div class="entry-content"><div class='mailmunch-forms-before-post' style='display: none !important;'></div><p><em><img class="alignleft size-full wp-image-23264" alt="logoimage" src="https://i0.wp.com/ctovision.com/wp-content/uploads/logoimage.png?resize=113%2C98" data-recalc-dims="1" />Here are the top tech news and stories of the day</em>.</p><div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+<ul>
+<li><strong>PBS tweet entices SuperBowl watchers to Downton Abbey: how it happened</strong> - During last night's epic Super Bowl blackout, Marketing and Communications director of PBS, Kevin Dando, used Twitter to grab viewers for their network. The Super Bowl (the most watched television event of all time) was blacked out for 34 minutes. PBS's tweet was their second most popular tweet of the year.  Via Paid Content, more here.</li>
+<li><strong>The real Gigabit Challenge is getting ISPs to think like tech firms</strong> - More and more cities are looking to make gigabit connections to households a municipal matter. In this article, the author argues that Telcos need to increase R&amp;D and operational investment, to push the threshold of the services they can offer. However, since Telcos believe they are just delivering a commodity, to do little to differentiate on quality but rather on price. Via GigaOM, more <a href="http://gigaom.com/2013/02/03/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://gigaom.com/2013/02/03/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms/', 'here');">here</a>.</li>
+<li><strong>The Web-Deprived Study at McDonald's</strong> - In many families and communities, broadband internet is not accessible. I've often mentioned how close to (or more than) 50% of the internet using population uses it primarily from mobile devices, so this should be no surprise. In these neighborhoods, children congregate at the local McDonald's to take advantage of the free broadband. It seems sometimes that the digital divide, even as mobile and other costs go down, is staying the same (or growing) due to a lack of broadband in many rural communities. Via WSJ, more <a href="http://online.wsj.com/article/SB10001424127887324731304578189794161056954.html" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://online.wsj.com/article/SB10001424127887324731304578189794161056954.html', 'here');">here</a>.</li>
+<li><strong>This Text String Crashes Almost Any App on a Mac Running Mountain Lion</strong> - Apparently there is a little "easter egg" of sorts in OS X Mountain Lion. The string: "File:///" automatically stops most apps in the OS. It seems to only work on Mountain Lion versions (not older versions) check it out for yourself. Via Gizmodo, more <a href="http://gizmodo.com/5981370/this-text-string-crashes-almost-any-app-on-a-mac-running-mountain-lion" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://gizmodo.com/5981370/this-text-string-crashes-almost-any-app-on-a-mac-running-mountain-lion', 'here');">here</a>.</li>
+<li><strong>Another Microsoft partner plays the field: HP outs a $329 Chromebook</strong> - HP is releasing details on their forthcoming Chromebook. I've been using a Chromebook for a few months, and have to say I am very impressed with what Samsung and Google teamed up to deliver. HP's will be $329, with a 14" screen (the largest among all Chromebooks). The device is around 4 lbs with a 4-hour battery (very different than the ARM Chromebook I use). Clearly the ChromeOS is gaining traction among OEMs, schools and other outfits, and may soon take the "Wintel" world by storm. Via GigaOM, more <a href="http://gigaom.com/2013/02/04/another-microsoft-partner-plays-the-field-hp-outs-a-329-chromebook/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://gigaom.com/2013/02/04/another-microsoft-partner-plays-the-field-hp-outs-a-329-chromebook/', 'here');">here</a>.</li>
+</ul>
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><img class="zemanta-pixie-img" style="border: none; float: right;" alt="" src="https://i1.wp.com/img.zemanta.com/pixy.gif" data-recalc-dims="1" /></div>
+</p><div class='mailmunch-forms-after-post' style='display: none !important;'></div>
+                         <div class="abh_box abh_box_down abh_box_"><ul class="abh_tabs"> <li class="abh_about abh_active"><a href="#abh_about">About</a></li> <li class="abh_posts"><a href="#abh_posts">Latest Posts</a></li></ul><div class="abh_tab_content"><section class="vcard abh_about_tab abh_tab" style="display:block"><div class="abh_image"><a href="https://ctovision.com/author/ryankamauff/" class="url" title="Ryan Kamauff"><img alt='' src='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=80&#038;d=blank&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=160&amp;d=blank&amp;r=pg 2x' class='avatar avatar-80 photo' height='80' width='80' /></a></a></div><div class="abh_social"> </div><div class="abh_text"><h3 class="fn name" ><a href="https://ctovision.com/author/ryankamauff/" class="url">Ryan Kamauff</a></h3><div class="abh_job" ></div><div class="description note abh_description" >Ryan Kamauff is a senior analyst with Crucial Point LLC. He produces technology focused content for <a href="http://ctovision.com">CTOvision.com </a> and reports on analytical megatrends at the new analysis focused <a href="http://analystone.com" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://analystone.com', 'Analyst One');">Analyst One</a>.</div></div> </section><section class="abh_posts_tab abh_tab" ><div class="abh_image"><a href="https://ctovision.com/author/ryankamauff/" class="url" title="Ryan Kamauff"><img alt='' src='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=80&#038;d=blank&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=160&amp;d=blank&amp;r=pg 2x' class='avatar avatar-80 photo' height='80' width='80' /></a></a></div><div class="abh_social"> </div><div class="abh_text"><h4 >Latest posts by Ryan Kamauff <span class="abh_allposts">(<a href="https://ctovision.com/author/ryankamauff/">see all</a>)</span></h4><div class="abh_description note" ><ul>				<li>					<a href="https://ctovision.com/2013/10/hackers-go-phishing-obamacare-nsa-goes-record-tor-attacks/">Hackers go phishing with Obamacare, NSA goes on the record about Tor attacks and more</a><span> - October 7, 2013</span>				</li>				<li>					<a href="https://ctovision.com/2013/10/powerbag-one-accessory-need/">Powerbag: one accessory we all need</a><span> - October 2, 2013</span>				</li>				<li>					<a href="https://ctovision.com/2013/10/amazon-knock-one-park-kindle-fire-hdx/">Did Amazon knock one out of the park with the Kindle Fire HDX?</a><span> - October 1, 2013</span>				</li></ul></div></div> </section></div> </div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-23247" class="share-linkedin sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-23247" class="share-facebook sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-23247" class="share-twitter sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-23247" class="share-pinterest sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-23247" class="share-google-plus-1 sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon" href="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/"
+    dc:identifier="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/"
+    dc:title="The real Gigabit Challenge is getting ISPs to think like tech firms,  The Web-Deprived Study at McDonald&#039;s and more"
+    trackback:ping="https://ctovision.com/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/trackback/" />
+</rdf:RDF>-->
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="https://ctovision.com/cloud-computing-2/" rel="category tag">Cloud Computing</a>, <a href="https://ctovision.com/cto/" rel="category tag">CTO</a></span> <span class="tags">Tagged With: <a href="https://ctovision.com/tag/chromebook/" rel="tag">Chromebook</a>, <a href="https://ctovision.com/tag/google/" rel="tag">Google</a>, <a href="https://ctovision.com/tag/hewlett-packard/" rel="tag">Hewlett-Packard</a>, <a href="https://ctovision.com/tag/microsoft/" rel="tag">microsoft</a>, <a href="https://ctovision.com/tag/samsung/" rel="tag">samsung</a>, <a href="https://ctovision.com/tag/super-bowl/" rel="tag">Super Bowl</a></span></div></div><div class="author-box"><div><img alt='' src='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=70&#038;d=blank&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4f8745cde2b9ef5a3a8a32b3b02e61de?s=140&amp;d=blank&amp;r=pg 2x' class='avatar avatar-70 photo' height='70' width='70' /> <strong>About Ryan Kamauff</strong><br /><p>Ryan Kamauff is a senior analyst with Crucial Point LLC. He produces technology focused content for <a href="http://ctovision.com">CTOvision.com </a> and reports on analytical megatrends at the new analysis focused <a href="http://analystone.com">Analyst One</a>.</p>
+</div></div>		
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<form id="commentform" class="comment-form">
+				<iframe src="https://jetpack.wordpress.com/jetpack-comment/?blogid=21495280&#038;postid=23247&#038;comment_registration=0&#038;require_name_email=0&#038;stc_enabled=0&#038;stb_enabled=0&#038;show_avatars=1&#038;avatar_default=blank&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=4.0.2&#038;sig=6cff9ff441ae8ff6efefe6196159f42c33660fad#parent=https%3A%2F%2Fctovision.com%2F2013%2F02%2Fthe-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more%2F" allowtransparency="false" style="width:100%; height: 430px;border:0;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		</div><div id="sidebar" class="sidebar widget-area"><div id="ws_plugin__s2member_pro_login_widget-2" class="widget colors"><div class="widget-wrap"><h4 class="widget-title widgettitle">Pro Members Login</h4>
+<div class="ws-plugin--s2member-pro-login-widget">
+<form method="post" action="https://ctovision.com/wp-login.php" class="ws-plugin--s2member-pro-login-widget-form">
+<div class="ws-plugin--s2member-pro-login-widget-username">
+<label for="ws-plugin--s2member-pro-login-widget-username">Username:</label><br />
+<input type="text" name="log" id="ws-plugin--s2member-pro-login-widget-username" class="form-control" title="Username" />
+</div>
+<div class="ws-plugin--s2member-pro-login-widget-password">
+<label for="ws-plugin--s2member-pro-login-widget-password">Password:</label><br />
+<input type="password" name="pwd" id="ws-plugin--s2member-pro-login-widget-password" class="form-control" title="Password" />
+</div>
+<div class="ws-plugin--s2member-pro-login-widget-lost-password">
+<a href="https://ctovision.com/about/ctovision-membership-options/" tabindex="-1">signup now</a> | <a href="https://ctovision.com/wp-login.php?action=lostpassword" tabindex="-1">forgot password?</a>
+</div>
+<div class="ws-plugin--s2member-pro-login-widget-remember-me">
+<label><input type="checkbox" name="rememberme" value="forever" />Remember Me</label>
+</div>
+<div class="ws-plugin--s2member-pro-login-widget-submit">
+<input type="submit" class="btn btn-primary" value="Log Me In" />
+</div>
+</form>
+<div class="ws-plugin--s2member-pro-login-widget-code">
+</div>
+<div style="clear:both;"></div>
+</div>
+</div></div>
+<div id="text-27" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><br>
+<a href="http://www.cognitiocorp.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.cognitiocorp.com', '');" title='Cognitio Corp'><img width="250" src="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/CognitioCorpCTOvision-1.jpg" class="attachment-medium" alt="Cognitio" /></a>
+<br>
+<br>
+<a href='https://www.ctovision.com/cto-events' title='CTO events'><img width="250" src="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/CTOvision-events.png" class="attachment-medium" alt="CTOevents" /></a>
+<br>
+<br>
+<a href='https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/' title='CTOvision Mobile'><img width="250" src="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/CTOvision-Mobile-Apps.png" class="attachment-medium" alt="CTOvision Mobile" /></a>
+<br>
+<br>
+<a href='https://ctovision.com/newsletter-subscriptions/' title='CTOvision Newsletters'><img width="250" src="https://ctovisionpull-cognitio.netdna-ssl.com/wp-content/uploads/CTOvision-Newsletters.png" class="attachment-medium" alt="CTOvision Newsletterss" /></a>
+<br></div>
+		</div></div>
+<div id="top-posts-2" class="widget widget_top-posts"><div class="widget-wrap"><h4 class="widget-title widgettitle">Top Posts</h4>
+<ul class='widgets-list-layout no-grav'>
+					<li>
+												<a href="https://ctovision.com/2016/04/big-data-getting-bigger/" title="Big Data is Here and Getting Bigger" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i1.wp.com/ctovision.com/wp-content/uploads/data-shutterstock_122832445.jpg?fit=1000%2C667&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="Big Data is Here and Getting Bigger" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2016/04/big-data-getting-bigger/" class="bump-view" data-bump-view="tp">
+								Big Data is Here and Getting Bigger							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2015/12/the-complete-list-of-truly-useful-artificial-intelligence-tools-you-can-use-today/" title="Truly Useful Artificial Intelligence Tools You Can Use Today" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i0.wp.com/ctovision.com/wp-content/uploads/artificial-intelligence-machine-learning.jpg?fit=1000%2C750&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="Truly Useful Artificial Intelligence Tools You Can Use Today" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2015/12/the-complete-list-of-truly-useful-artificial-intelligence-tools-you-can-use-today/" class="bump-view" data-bump-view="tp">
+								Truly Useful Artificial Intelligence Tools You Can Use Today							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2016/04/best-practices-no-longer-best-practices/" title="The Best Practices are No Longer the “Best” Practices" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i0.wp.com/ctovision.com/wp-content/uploads/Screen-Shot-2016-03-30-at-3.25.43-PM.png?fit=662%2C406&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="The Best Practices are No Longer the “Best” Practices" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2016/04/best-practices-no-longer-best-practices/" class="bump-view" data-bump-view="tp">
+								The Best Practices are No Longer the “Best” Practices							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2016/04/rbacs-not-wall-role-based-access-control-creates-automation-opportunities/" title="RBAC’s Not Against the Wall: Role-based access control creates automation opportunities" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i1.wp.com/ctovision.com/wp-content/uploads/data-shutterstock_112158140.jpg?fit=1000%2C816&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="RBAC’s Not Against the Wall: Role-based access control creates automation opportunities" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2016/04/rbacs-not-wall-role-based-access-control-creates-automation-opportunities/" class="bump-view" data-bump-view="tp">
+								RBAC’s Not Against the Wall: Role-based access control creates automation opportunities							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2012/12/anti-access-area-denial-a2ad-in-military-domains-and-in-cyberspace/" title="Anti-Access Area-Denial (A2AD) in Military Domains and in Cyberspace" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i1.wp.com/ctovision.com/wp-content/uploads/220px-B-2_leading_Valiant_Shield1.jpg?resize=40%2C40&#038;ssl=1" class='widgets-list-layout-blavatar' alt="Anti-Access Area-Denial (A2AD) in Military Domains and in Cyberspace" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2012/12/anti-access-area-denial-a2ad-in-military-domains-and-in-cyberspace/" class="bump-view" data-bump-view="tp">
+								Anti-Access Area-Denial (A2AD) in Military Domains and in Cyberspace							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2015/07/greatest-danger-infrastructure-might-physical/" title="The Greatest Danger to Our Infrastructure Might Be Physical" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i2.wp.com/ctovision.com/wp-content/uploads/images-3.jpeg?fit=229%2C220&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="The Greatest Danger to Our Infrastructure Might Be Physical" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2015/07/greatest-danger-infrastructure-might-physical/" class="bump-view" data-bump-view="tp">
+								The Greatest Danger to Our Infrastructure Might Be Physical							</a>
+						</div>
+											</li>
+									<li>
+												<a href="https://ctovision.com/2016/04/protecting-data-quantum-technology/" title="Protecting Data with Quantum Technology" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i0.wp.com/ctovision.com/wp-content/uploads/Screen-Shot-2015-10-09-at-9.30.34-AM-e1444397473714.png?fit=1200%2C905&#038;ssl=1&#038;resize=40%2C40" class='widgets-list-layout-blavatar' alt="Protecting Data with Quantum Technology" data-pin-nopin="true" />
+						</a>
+						<div class="widgets-list-layout-links">
+							<a href="https://ctovision.com/2016/04/protecting-data-quantum-technology/" class="bump-view" data-bump-view="tp">
+								Protecting Data with Quantum Technology							</a>
+						</div>
+											</li>
+				</ul>
+</div></div>
+<div id="text-14" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">What You Get With CTOvision Pro</h4>
+			<div class="textwidget"><p>Joining  <a href="https://ctovision.com/ctovision-pro/">CTOvision Pro</a> provides you with unlimited access to our in depth market research, technology trends analysis, company reviews and special reports. </p>
+<ul>
+<li>If you are from the technology community you will gain insights into your market and enterprise mission needs. </li>
+<li>Enterprise architects, program managers and acquisition professionals gain insights into the rapidly shifting technology landscape. </li>
+</ul>
+<p>Start your 7 day free trial of <a href="https://ctovision.com/ctovision-pro/">CTOvision Pro</a> today!</p>
+<p>
+</div>
+		</div></div>
+<div id="text-15" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Help Us Find The Greatest Technologies</h4>
+			<div class="textwidget">We evaluate technologies in the light of mission needs. We find these companies by engaging with the tech community, reviewing investments of Venture Capital firms, and tracking the R&D of the major IT Tech Titans. We appreciate community help as well. If you have or know of a company we should evaluate please submit it via our <a href="https://ctovision.com/submit-tech-company/"> Submission Form. </a> 
+</div>
+		</div></div>
+<div id="dlm_widget_downloads-2" class="widget dlm_widget_downloads"><div class="widget-wrap"><h4 class="widget-title widgettitle">Featured Downloads</h4>
+<ul class="dlm-downloads"><li><a class="download-link" title="" href="https://ctovision.com/download/examining-new-mission-enabling-design-patterns-made-possible-by-the-cloudera-intel-partnership/" rel="nofollow">
+	Examining New Mission-Enabling Design Patterns Made Possible By The Cloudera-Intel Partnership	(7650 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/know-big-data/" rel="nofollow">
+	Reference Poster: Do You Know Big Data?	(6414 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/automating-removal-advanced-threats/" rel="nofollow">
+	Automating Removal Of Advanced Threats	(3839 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/detect-analyze-changes-space-time-recorded-future/" rel="nofollow">
+	Detect and Analyze Changes Through Space and Time with Recorded Future	(3494 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/need-know-hadoop/" rel="nofollow">
+	What You Need To Know About Hadoop	(3442 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/big-data-blueprints/" rel="nofollow">
+	Big Data Blueprints	(3411 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/federal-strategies-startup-ceo/" rel="nofollow">
+	Federal Strategies for the Startup CEO	(3374 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/evaluating-big-data-analytical-tools-government-use/" rel="nofollow">
+	Evaluating Big Data Analytical Tools For Government Use	(3312 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/model-enabled-analysis-factors-evaluation/" rel="nofollow">
+	Model-Enabled Analysis: Factors for Evaluation	(3113 downloads)
+</a></li><li><a class="download-link" title="" href="https://ctovision.com/download/integrating-web-intelligence-cyber-security-operations/" rel="nofollow">
+	Integrating Web Intelligence Into Cyber Security Operations	(2712 downloads)
+</a></li></ul></div></div>
+<div id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><p>CTOvision is published by the research arm at <a href="https://cognitiocorp.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://cognitiocorp.com/', 'Cognitio Corp ');" target="_blank">Cognitio Corp </a></p>
+<p><H1><center><a href="https://ctovision.com/newsletter-subscriptions/" target="_blank">Free Newsletters and Tech Reports</a></center></H1></p>
+<p><H1><center><a href="https://ctovision.com/pro/" target="_blank">CTOVision Pro: Exclusive Content</a></center></H1></p>
+<p><H1><center><a href="https://ctovision.com/cto-events/" target="_blank">CTO Events</a></center></H1></p>
+<p><H1><center><a href="http://www.facebook.com/pages/CTOvisioncom/252581947038" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.facebook.com/pages/CTOvisioncom/252581947038', 'CTOs on Facebook');" target="_blank">CTOs on Facebook</a></center></H1></p>
+<p><H1><center><a href="http://www.linkedin.com/groups?gid=4347141" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.linkedin.com/groups?gid=4347141', 'CTOs on LinkedIn');" target="_blank">CTOs on LinkedIn</a></center></H1></p>
+<p><H1><center><a href="https://ctovision.com/ctovision-mobile-application-for-iphone-ipad-and-android/" target="_blank">CTOvision Mobile App</a></center></H1></p>
+</div>
+		</div></div>
+</div></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2016 CTOvision.com  · </p></div></div></div>	<div style="display:none">
+	<div class="grofile-hash-map-4f8745cde2b9ef5a3a8a32b3b02e61de">
+	</div>
+	<div class="grofile-hash-map-4f8745cde2b9ef5a3a8a32b3b02e61de">
+	</div>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+						<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/2013/02/the-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="https://ctovision.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.10'></script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins//automatic-video-posts/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201617'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2016Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.1'></script>
+<script type='text/javascript' src='https://ctovisionpull-cognitio.netdna-ssl.com/wp-includes/js/comment-reply.min.js?ver=4.5.1'></script>
+<script type='text/javascript' src='https://ctovision.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&#038;qcABC=1&#038;ver=160424-160424-785867286'></script>
+<script type='text/javascript' src='https://ctovisionpull-cognitio.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.5.1'></script>
+<script type="text/css" id="tmpl-tribe_events_pro_customizer_css"></script><style type="text/css" id="tribe_events_pro_customizer_css"></style>
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=21495280&postid=23247&comment_registration=0&require_name_email=0&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=blank&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=4.0.2&sig=6cff9ff441ae8ff6efefe6196159f42c33660fad#parent=https%3A%2F%2Fctovision.com%2F2013%2F02%2Fthe-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=21495280&postid=23247&comment_registration=0&require_name_email=0&stc_enabled=0&stb_enabled=0&show_avatars=1&avatar_default=blank&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=4.0.2&sig=6cff9ff441ae8ff6efefe6196159f42c33660fad#parent=https%3A%2F%2Fctovision.com%2F2013%2F02%2Fthe-real-gigabit-challenge-is-getting-isps-to-think-like-tech-firms-the-web-deprived-study-at-mcdonalds-and-more%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='https://stats.wp.com/e-201617.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.2',blog:'21495280',post:'23247',tz:'-4',srv:'ctovision.com'} ]);
+	_stq.push([ 'clickTrackerInit', '21495280', '23247' ]);
+</script>
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Content Delivery Network via ctovisionpull-cognitio.netdna-ssl.com
+
+ Served from: ctovision.com @ 2016-04-30 18:25:37 by W3 Total Cache -->

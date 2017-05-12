@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/Article">
+<head profile="http://gmpg.org/xfn/11">
+<script> var _sf_startpt=(new Date()).getTime(); </script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="alternate" type="application/rss+xml" title="RocketNews24 RSS Feed" href="http://en.rocketnews24.com/feed/" />
+<link rel="pingback" href="http://en.rocketnews24.com/xmlrpc.php" />
+<link rel="icon" type="image/png" href="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_logo.png" />
+<link rel="publisher" href="https://plus.google.com/110155186130480885931" />
+<link rel="dns-prefetch" href="//r-login.wordpress.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<meta name="msvalidate.01" content="9426F7A26B5008ED16EA3B4452019752" />
+<meta name="p:domain_verify" content="7e231f6a397311115c322327fe31f2f3" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=en.rocketnews24.com&amp;id=35270051&amp;t=1455599872&amp;back=http%3A%2F%2Fen.rocketnews24.com%2F2016%2F02%2F01%2Felevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba%2F%3Fplatform%3Dhootsuite' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="RocketNews24 &raquo; Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba Comments Feed" href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s0.wp.com/_static/??-eJx9kNFKxTAMhl/IGMSxgxfis3RdTpeztClrZvHt7Tyok+FuSv7wffyhWDN4TUbJMK6QZQ2cCgrPVPBGlp2f4Ss9+lIecIcPouFX0BBo1NXgqiJasfIYyA7SrsPrQm0fs7ONiDSyI6HYsDMt5v7b2sapHXi8bcfX3GgYhrxQKdDeyGsEm1rR0buv8Z0zLupnskS1ACUs9iF0xxmTGjej/Axn/YEURL0z1vQnwFUcL2fqQtsftzFgo3bxv7unDoPo4GQD3uLrU9e99M+X/tLdPgEQu7bu' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sranalytics = {"version":"0.1.4","pid":"5422ce1897b0c9c6b10001fc","iframe":"0","title":"Elevate your next Subway sandwich with the great taste of yakisoba","url":"http:\/\/en.rocketnews24.com\/2016\/02\/01\/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba\/","date":"2016-02-01 03:00:46","channels":["japan"],"tags":["fast food","sandwich","Subway","yakisoba"],"authors":["Master Blaster"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyFkF1uAyEMhC9UgjZNH/pQ9SyEdYg3YFNsFiWnL1k1UX9WjYRk5PlmbNm2bJB8rCOInfr7qFDOX2UzyZP9DzAJQ3EKm4R0gz2TAumVTbzHCKYKFBd6rwcdeIXLLJpApEMr6s+VkGaE9hCbQLPzJ1NA8PIndR85mBxrQBLb/wFGrmoOHCM323AMoL89eoS+o50x28L+BErQxABdZwOtXeCbQ9gj3ycugnEioMtNF/VBws0rmHK/aQHnj8aRi2dF31Pc7MQXzD1Ryr3fA9/T27DbPW+3w+vwMn0CYle6pA=='></script>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sociorocketnewsen.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='These chicks have something they really want to get across to Fate/Stay Night&#8217;s&nbsp;Saber【Video】' href='http://en.rocketnews24.com/2016/02/01/this-brood-of-chicks-have-something-they-really-want-to-get-across-to-saber%e3%80%90video%e3%80%91/' />
+<link rel='next' title='Think you can match the training regimen of a champion sumo wrestler?&nbsp;【Video】' href='http://en.rocketnews24.com/2016/02/01/think-you-can-match-the-training-regimen-of-a-champion-sumo-wrestler-%e3%80%90video%e3%80%91/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" />
+<link rel='shortlink' href='http://wp.me/p2nZlN-1fys' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fen.rocketnews24.com%2F2016%2F02%2F01%2Felevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fen.rocketnews24.com%2F2016%2F02%2F01%2Felevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba%2F&amp;for=wpcom-auto-discovery" /><link rel='openid.server' href='http://sociorocketnewsen.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://sociorocketnewsen.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.rocketnews24.com/osd.xml" title="RocketNews24" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<link rel="author" href="https://plus.google.com/103793684967211700574" /><link rel="alternate" hreflang="en" href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" /><link rel="alternate" hreflang="ja" href="http://rocketnews24.com/2016/01/29/701140/" /><title>Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba | RocketNews24</title>
+<meta name="description" content="Our reporter Meg ventures waist-deep in carbs to discover a new way to enjoy Subway -- and she may never turn back." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site:id" content="259572063" />
+<meta name="twitter:creator" content="@StubbsLeBlanc" />
+<meta name="thumbnail" content="https://sociorocketnewsen.files.wordpress.com/2016/01/030.jpg" />
+<meta property="fb:app_id" content="194809430543946" />
+<meta property="og:site_name" content="RocketNews24" />
+<meta property="og:description" itemprop="description" content="Our reporter Meg ventures waist-deep in carbs to discover a new way to enjoy Subway -- and she may never turn back." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" itemprop="name headline" content="Elevate your next Subway sandwich with the great taste of yakisoba" />
+<meta property="og:url" content="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" />
+<meta property="og:image" itemprop="image thumbnailUrl" content="https://sociorocketnewsen.files.wordpress.com/2016/01/030.jpg" />
+<meta property="og:image:width" content="580" />
+<meta property="og:image:height" content="435" />
+<meta property="article:published_time" itemprop="datePublished" content="2016-02-01T03:00:46+00:00" />
+<meta property="article:modified_time" itemprop="dateModified" content="2016-02-01T03:00:49+00:00" />
+<meta property="article:author" content="http://en.rocketnews24.com/author/master-blaster/" />
+<meta property="article:publisher" content="https://www.facebook.com/RocketNews24En" />
+<script>
+window.fbAsyncInit = function() { FB.init({ appId: "194809430543946", xfbml: true, version: 'v2.3' }); };
+var dataLayer = dataLayer || [];
+dataLayer.push({
+	'socio.page.id': 298124,
+	'socio.page.path': "\/2016\/02\/01\/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba\/",
+	'socio.page.title': "Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba",
+	'socio.author.id': 35206064,
+	'socio.author.gaId': "UA-41328956-5",
+	'socio.relatedLinksType': "newzia",
+	'socio.now_utc': 1455599872,
+	'socio.isSingle': 'true',
+	'socio.isUserMemberOfBlog': 'false'
+});
+</script>
+<script>
+var fjs = document.getElementsByTagName('script')[0], js = document.createElement('script'), cache = jQuery.ajaxSettings.cache, googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+js.async = 'async';
+js.src = '//www.googletagservices.com/tag/js/gpt.js';
+fjs.parentNode.insertBefore(js, fjs);
+</script>
+<script>
+googletag.cmd.push(function() {
+	googletag.defineSlot('/19153562/RN24En_Header_468x60', [468, 60], 'div-gpt-ad-header').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_SideTop_300x250', [[300, 250], [300, 600]], 'div-gpt-ad-sidetop').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_SideMiddle2_300x250', [[300, 600], [300, 250]], 'div-gpt-ad-sidemiddle2').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_SideMiddle_300x250', [[300, 600], [300, 250]], 'div-gpt-ad-sidemiddle').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_SideBottom_300x250', [300, 250], 'div-gpt-ad-sidebottom').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_PageBottom_336x280', [[336, 280], [300, 250]], 'div-gpt-ad-pagebottom').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_RelatedBottom', [300, 250], 'div-gpt-ad-relatedbottom-1').addService(googletag.pubads());
+	googletag.defineSlot('/19153562/RN24En_RelatedBottom', [250, 250], 'div-gpt-ad-relatedbottom-2').addService(googletag.pubads());
+	googletag.pubads().setTargeting('EnableGAS', 'True');
+	googletag.pubads().setTargeting('IsSingular', 'True');
+	googletag.pubads().setTargeting('AuthorID', '35206064');
+	googletag.pubads().setTargeting('PostID', '298124');
+	googletag.pubads().set('page_url', 'http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/');
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script>
+<meta name="application-name" content="RocketNews24" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Bringing you yesterday&#039;s news from Japan and Asia, today." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://en.rocketnews24.com/feed/;icon-uri=http://0.gravatar.com/blavatar/8ed487bacc9c8f54dafa712357202917?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="single single-post postid-298124 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light">
+<div id="container">
+<div id="header">
+	<h1><a href="http://en.rocketnews24.com/"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="" class="sprite" />RocketNews24</a></h1>
+	<p class="description">Bringing you yesterday's news from Japan and Asia, today.</p>
+	<div class="misc">
+				<p class="social-badge">
+			<a href="http://www.facebook.com/RocketNews24En" class="fb-badge"  title="RocketNews24 on Facebook" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Facebook" class="sprite" /></a>
+			<a href="http://twitter.com/RocketNews24En" class="tw-badge" title="RocketNews24 on Twitter" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Twitter" class="sprite" /></a>
+			<a href="http://www.youtube.com/user/rocketnews24" class="yt-badge" target="_blank" title="RocketNews24 on YouTube"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="YouTube" class="sprite" /></a>
+			<a href="https://plus.google.com/110155186130480885931?prsrc=3" rel="publisher" class="gp-badge" title="RocketNews24 on Google+" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Google+" class="sprite" /></a>
+			<a href="http://pinterest.com/rocketnews/" class="pinterest-badge" title="RocketNews24 on Pinterest" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Google+" class="sprite" /></a>
+			<a href="http://en.rocketnews24.com/feed/" class="rss-badge" title="RSS Feed" target="_blank"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="RSS" class="sprite" /></a>
+		</p>
+		<p class="languages"><a href="http://rocketnews24.com" target="_blank">RocketNews24 Japanese</a></p>
+		<div class="ad ad468x60" id="div-gpt-ad-header"><!-- RN24En_Header_468x60 --><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-header'); });</script></div>
+		<form method="get" action="/" id="searchform">
+		<div>
+			<input type="text" class="search-box" value="" name="s" id="s" />
+			<input type="submit" value="Search" id="searchsubmit" />
+		</div>
+	</form>	</div>
+</div>
+<div id="page-nav">
+<ul class="breadcrumb"><li><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url" class="breadcrumb-home"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="" class="sprite" /><span itemprop="title">TOP</span></a><div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb-cats"> &raquo; <a href="http://en.rocketnews24.com/category/japan/" itemprop="url"><span itemprop="title">Japan</span></a></div></div></li><li class="title"> &raquo; Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba</li></ul>
+	<dl id="sub-page-nav">
+		<dt>Featured</dt>
+		<dd>
+		<ul id="sub_page_nav_list" class="menu"><li id="menu-item-13692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13692"><a href="http://en.rocketnews24.com/tag/weird/">Weird</a></li>
+<li id="menu-item-6922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6922"><a href="http://en.rocketnews24.com/tag/studio-ghibli/">Studio Ghibli</a></li>
+<li id="menu-item-14129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14129"><a href="http://en.rocketnews24.com/jobs/">Jobs</a></li>
+</ul>		</dd>
+	</dl>
+</div>
+<div id="content">
+	<div id="main-content">
+		<div id="post-298124" class="hidden_share post-298124 post type-post status-publish format-standard has-post-thumbnail category-japan tag-fast-food tag-sandwich tag-subway tag-yakisoba">
+			<div class="post-header">
+				<h2 class="entry-title">Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba</h2>
+				<ul class="post-meta">
+					<li class="post-metas">
+						<span class="author" itemprop="author"><span itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="http://en.rocketnews24.com/author/master-blaster/" rel="author"><img src="https://sociorocketnewsen.files.wordpress.com/2013/03/35206064.jpg?w=100&#038;h=100&#038;crop=1" alt="Master Blaster" class="author-image" /></a><a href="http://en.rocketnews24.com/author/master-blaster/" title="Posts by Master Blaster" class="author url fn" rel="author">Master Blaster</a></span></span></span>
+						<span class="date">Feb 1, 2016</span>
+					</li>
+					<li id="share-298124" class="share-btns">
+						<span class="share-btn comment"><a href="#comments"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Comments" class="sprite" /><fb:comments-count href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/"></fb:comments-count></a></span>
+						<span class="share-btn fb-like-btn"><fb:like href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" send="false" layout="button_count" show_faces="false" width="90"></fb:like></span>
+						<span class="share-btn tweet-btn"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" data-text="Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba" data-count="horizontal" data-via="RocketNews24En" data-lang="en">Tweet</a></span>
+						<!--[if gte IE 8]><!--><span class="share-btn gp-btn"><g:plusone size="medium" annotation="bubble" href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/"></g:plusone></span><!--<![endif]-->
+						<span class="share-btn pin-btn"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fen.rocketnews24.com%2F2016%2F02%2F01%2Felevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba%2F&amp;media=https%3A%2F%2Fsociorocketnewsen.files.wordpress.com%2F2016%2F01%2F030.jpg&amp;description=Elevate+your+next+Subway+sandwich+with+the+great+taste+of%26nbsp%3Byakisoba" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" alt="Pin it" /></a></span>
+						<span class="share-btn su-btn"><su:badge layout="2" location="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/"></su:badge></span>
+						<span class="share-btn reddit-btn"><script> reddit_url = "http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/";
+reddit_title = "Elevate your next Subway sandwich with the great taste of&nbsp;yakisoba"; reddit_newwindow='1'; </script><script src="http://www.reddit.com/static/button/button3.js"></script></span>
+					</li>
+				</ul>
+			</div>
+			<div class="post-content">
+				<div class="entry-content cXenseParse" itemprop="articleBody"><p><img class="aligncenter size-full wp-image-298129" src="https://sociorocketnewsen.files.wordpress.com/2016/01/030.jpg?w=580&#038;h=435" alt="" width="580" height="435" /></p>
+<p><span style="font-size:large;">Our reporter Meg ventures waist-deep in carbs to discover a new way to enjoy Subway &#8212; and she may never turn back.</span></p>
+<p><span id="more-298124"></span></p>
+<p>Even in Japan, the global sub chain Subway markets itself as a more health-conscious alternative to fast food. So, it was with a small pang of guilt that Meg constructed <em>Kyukyoku no Yakisoba Pan</em> (Ultimate Yakisoba Bread) using the delectably greasy fried noodles of yakisoba.</p>
+<p>Yakisoba in sandwich form isn&#8217;t anything new, and can easily be found in most convenience stores and supermarkets. Known more as a cheap and tasty snack, it is hardly considered healthy eating.</p>
+<p>Nevertheless, a while back, there was an April Fools joke going around that Subway was going to sell yakisoba sandwiches. The store denied the report, however, implying that it would never stoop so low health-wise.</p>
+<p>Meg, however, certainly would.</p>
+<p><img class="aligncenter size-full wp-image-298131" src="https://sociorocketnewsen.files.wordpress.com/2016/01/1166.jpg?w=580&#038;h=396" alt="" width="580" height="396" /></p>
+<p>Construction of the Ultimate Yakisoba Bread was simple enough. Meg first purchased a 6-inch Veggie Delight sub from Subway without dressing. Then she bought a pack of pre-made yakisoba and proceeded to stuff the noodles into the opened Veggie Delight.</p>
+<p><img class="aligncenter size-full wp-image-298130" src="https://sociorocketnewsen.files.wordpress.com/2016/01/2621.jpg?w=580&#038;h=435" alt="" width="580" height="435" /></p>
+<p><img class="aligncenter size-full wp-image-298132" src="https://sociorocketnewsen.files.wordpress.com/2016/01/451.jpg?w=580&#038;h=435" alt="" width="580" height="435" /></p>
+<p>If looks alone were anything to go by this was shaping up to be an excellent sandwich, but, of course, Meg would have to go in for a taste.</p>
+<p><img class="aligncenter size-full wp-image-298133" src="https://sociorocketnewsen.files.wordpress.com/2016/01/543.jpg?w=580&#038;h=452" alt="" width="580" height="452" /></p>
+<p>And it tasted even better than she expected! As we said before, yakisoba sandwiches are not new, but the Ultimate Yakisoba Bread clearly stood out as a superior sandwich.</p>
+<p>Usually when eating yakisoba with bread, it creates a dry sensation inside your mouth. And the occasional scrap of soggy cabbage does little to relieve this feeling. The Ultimate Yakisoba Bread, however, uses the very fresh and plentiful vegetables from Subway to completely eliminate that unpleasant dry feeling for a highly enjoyable eating experience.</p>
+<p><img class="aligncenter size-full wp-image-298129" src="https://sociorocketnewsen.files.wordpress.com/2016/01/030.jpg?w=580&#038;h=435" alt="" width="580" height="435" /></p>
+<p>Meg would like to remind everyone that this isn&#8217;t an officially sanctioned Subway sandwich&#8230;but it should be added to their menu because it&#8217;s pretty awesome. Even if it does go against their healthy eating image, the taste is so good she thinks the general public would be willing to look the other way this one time.</p>
+<p><em>Original article by <a href="https://twitter.com/Megmi381" target="_blank">Meg Sawaii</a></em><br />
+<em>Photos: RocketNews24</em><br />
+[ <a href="http://rocketnews24.com/2016/01/29/701140/" target="_blank">Read in Japanese</a> ]</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_7452566_post_298124"></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-35270051-298124-56c2b100137f9' data-src='//widgets.wp.com/likes/#blog_id=35270051&amp;post_id=298124&amp;origin=sociorocketnewsen.wordpress.com&amp;obj_id=35270051-298124-56c2b100137f9' data-name='like-post-frame-35270051-298124-56c2b100137f9'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div></div>
+			</div>
+			<div class="post-footer">
+				<ul class="post-meta">
+					<li class="categories"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="Categories" class="sprite" /> <a href="http://en.rocketnews24.com/category/japan/" rel="category tag">Japan</a></li>
+					<li class="tags">(<a href="http://en.rocketnews24.com/tag/fast-food/" rel="tag">fast food</a> &bull; <a href="http://en.rocketnews24.com/tag/sandwich/" rel="tag">sandwich</a> &bull; <a href="http://en.rocketnews24.com/tag/subway/" rel="tag">Subway</a> &bull; <a href="http://en.rocketnews24.com/tag/yakisoba/" rel="tag">yakisoba</a>)</li>				</ul>
+				<div id="related-posts">
+									<h3>Related Stories</h3>
+					<ul>
+<li><a href="http://en.rocketnews24.com/2015/11/20/supercute-cooking-expert-yuki-teaches-us-how-to-make-spirited-aways-no-face-yakisoba/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/11/17.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />&#8220;Supercute cooking&#8221; expert Yuki teaches us how to make Spirited Away&#8217;s &#8220;No-Face&#8221; yakisoba</a></li>
+<li><a href="http://en.rocketnews24.com/2016/01/21/we-try-new-yakisoba-noodles-with-chocolate-sauce-spoiler-its-awful/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2016/01/choco2.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We try new yakisoba noodles with chocolate sauce (Spoiler: it&#8217;s&nbsp;awful)</a></li>
+<li><a href="http://en.rocketnews24.com/2014/04/15/we-try-thai-and-indonesian-ethnic-cup-noodles-one-of-them-tastes-like-spicy-fruit-loops/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/04/top7.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We try Thai and Indonesian “Ethnic” Cup Noodles, one of them tastes like spicy Fruit&nbsp;Loops</a></li>
+<li><a href="http://en.rocketnews24.com/2015/08/13/subway-japan-launches-cheesy-pizza-subs-but-will-they-destroy-its-fresh-and-healthy-image/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/08/86.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Subway Japan launches cheesy pizza squares, but will they destroy its fresh and healthy&nbsp;image?</a></li>
+<li><a href="http://en.rocketnews24.com/2014/12/31/this-months-slightly-bizarre-japanese-twitter-trend-is-showing-off-overly-full-subway-sandwiches/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/12/subcover.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />This month&#8217;s slightly bizarre Japanese Twitter trend is showing off overly full Subway&nbsp;sandwiches</a></li>
+</ul>
+<div class="poweredby">powered by <a href="http://connect.newzia.jp/" target="_blank" rel="nofollow">newzia connect</a></div>								</div>
+				<div class="ad ad-relatedbottom"><div class="ad ad300x250" id="div-gpt-ad-relatedbottom-1"><!-- RN24En_RelatedBottom --><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-relatedbottom-1'); });</script></div><div class="ad ad250x250" id="div-gpt-ad-relatedbottom-2"><!-- RN24En_RelatedBottom --><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-relatedbottom-2'); });</script></div></div>
+				<ul class="post-nav">
+					<li class="newer"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="&raquo;" class="sprite" /><a href="http://en.rocketnews24.com/2016/02/01/think-you-can-match-the-training-regimen-of-a-champion-sumo-wrestler-%e3%80%90video%e3%80%91/" rel="next">Think you can match the training regimen of a champion sumo wrestler?&nbsp;【Video】</a></li>					<li class="older"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="&laquo;" class="sprite" /><a href="http://en.rocketnews24.com/2016/02/01/this-brood-of-chicks-have-something-they-really-want-to-get-across-to-saber%e3%80%90video%e3%80%91/" rel="prev">These chicks have something they really want to get across to Fate/Stay Night&#8217;s&nbsp;Saber【Video】</a></li>				</ul>
+			</div>
+		</div>
+<div id="responses">
+	<div id="responses-tabs">
+		<ul>
+			<li><a href="#comments">Comments (<fb:comments-count href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/"></fb:comments-count>)</a></li>
+			<li><a href="#trackbacks">Trackbacks (0)</a></li>
+		</ul>
+		<div itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+			<div id="comments">
+				<h3>Leave a Reply</h3>
+				<div class="fb-comment"><fb:comments href="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" num_posts="10" width="590"></fb:comments></div>
+							</div>
+			<div id="trackbacks">
+				<h3>Trackbacks</h3>
+				<ol>
+				<li class="messagebox">There are no trackbacks yet.</li><li>Trackback URL<br /><input value="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/trackback/" readonly="readonly" /></li>				</ol>
+			</div>
+		</div>
+	</div>
+</div>
+<div data-src="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/" class="OUTBRAIN"></div>
+<div class="post-misc">
+	<div class="ad ad336x280" id="div-gpt-ad-pagebottom"><!-- RN24En_PageBottom_336x280 --><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-pagebottom'); });</script></div>
+	<div class="ranking">
+		<h2>Trending Now</h2>
+		<ol><li><a href="http://en.rocketnews24.com/2016/02/15/slam-dunk-fans-rejoice-after-spotting-a-real-life-anzai-sensei-on-american-tv/">Slam Dunk fans rejoice after spotting a real-life Anzai-sensei on American&nbsp;TV</a> <span>57views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/bikini-clad-sailor-moon-cosplayer-hits-the-slopes-for-sexy-snowboarding-fun-times%e3%80%90video%e3%80%91/">Bikini-clad Sailor Moon cosplayer hits the slopes for sexy snowboarding fun&nbsp;times【Video】</a> <span>22views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/vr-visit-to-japanese-swimsuit-models-apartment-provides-joy-for-dateless-men-on-valentines-day/">VR visit to Japanese swimsuit model’s apartment provides joy for dateless men on Valentine’s&nbsp;Day</a> <span>19views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/japanese-designers-goldfish-bags-are-as-elegant-as-the-long-tailed-beauties-theyre-styled-after/">Japanese designer’s goldfish bags are as elegant as the long-tailed beauties they’re styled&nbsp;after</a> <span>18views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/grumpy-cat-cant-compete-with-this-angry-looking-japanese-feline/">Move over, Grumpy Cat, you&#8217;ve got competition in&nbsp;Japan!</a> <span>18views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/sakura-season-comes-early-to-starbucks-with-two-new-japan-exclusive-dessert-beverages/">Sakura season comes early to Starbucks with two new Japan-exclusive dessert&nbsp;beverages</a> <span>17views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/fans-of-hit-sports-manga-bury-creators-office-with-valentines-chocolate-for-its-characters/">Fans of hit sports manga bury creator’s office with Valentine’s chocolate for its&nbsp;characters</a> <span>15views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/how-to-get-valentines-day-chocolate-in-tokyo-even-if-you-dont-have-a-girlfriend/">How to get Valentine’s Day chocolate in Tokyo even if you don’t have a&nbsp;girlfriend</a> <span>14views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/trending-technique-for-breaking-apart-chopsticks-turns-out-to-be-clever-new-design-by-muji/">Trending technique for breaking apart chopsticks turns out to be clever new design by&nbsp;Muji</a> <span>13views</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/from-mooing-to-collecting-bellybutton-lint-15-of-the-worlds-weirdest-hobbies/">From mooing to collecting bellybutton lint: 15 of the world&#8217;s weirdest&nbsp;hobbies</a> <span>12views</span></li>
+</ol>	</div>
+</div>
+		<ul class="post-nav">
+			<li class="newer"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="&raquo;" class="sprite" /><a href="http://en.rocketnews24.com/2016/02/01/think-you-can-match-the-training-regimen-of-a-champion-sumo-wrestler-%e3%80%90video%e3%80%91/" rel="next">Think you can match the training regimen of a champion sumo wrestler?&nbsp;【Video】</a></li>			<li class="older"><img src="https://s0.wp.com/wp-content/themes/vip/rocketnews-en/img/pts_pixel.png" alt="&laquo;" class="sprite" /><a href="http://en.rocketnews24.com/2016/02/01/this-brood-of-chicks-have-something-they-really-want-to-get-across-to-saber%e3%80%90video%e3%80%91/" rel="prev">These chicks have something they really want to get across to Fate/Stay Night&#8217;s&nbsp;Saber【Video】</a></li>		</ul>
+	</div>
+	<div id="sub-content">
+	<ul>
+	<li id="text-2" class="widget widget_text">			<div class="textwidget"><div id="div-gpt-ad-sidetop" style="min-height:250px;"><!-- RN24En_SideTop_300x250 --><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidetop'); });</script></div>
+</div>
+		</li><li id="socio_ranking-2" class="widget widget_socio_ranking"><h2>MOST POPULAR</h2>	<script> jQuery(function($){ $('#widget_rankings').tabs(); }); </script>
+<div id="widget_rankings"><ul><li><a href="#widget_realtimeranking">Now</a></li><li><a href="#widget_weeklyranking">Weekly</a></li><li><a href="#widget_monthlyranking">Monthly</a></li><li><a href="#widget_yearlyranking">Yearly</a></li></ul><div id="widget_realtimeranking" class="ranking"><h3>Now</h3><ol><li><a href="http://en.rocketnews24.com/2016/02/15/slam-dunk-fans-rejoice-after-spotting-a-real-life-anzai-sensei-on-american-tv/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/anzaifi.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Slam Dunk fans rejoice after spotting a real-life Anzai-sensei on American&nbsp;TV</a><span>1</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/bikini-clad-sailor-moon-cosplayer-hits-the-slopes-for-sexy-snowboarding-fun-times%e3%80%90video%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/sailrosnow.gif?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Bikini-clad Sailor Moon cosplayer hits the slopes for sexy snowboarding fun&nbsp;times【Video】</a><span>2</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/vr-visit-to-japanese-swimsuit-models-apartment-provides-joy-for-dateless-men-on-valentines-day/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/vr-20.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />VR visit to Japanese swimsuit model’s apartment provides joy for dateless men on Valentine’s&nbsp;Day</a><span>3</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/japanese-designers-goldfish-bags-are-as-elegant-as-the-long-tailed-beauties-theyre-styled-after/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/gb-0.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japanese designer’s goldfish bags are as elegant as the long-tailed beauties they’re styled&nbsp;after</a><span>4</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/grumpy-cat-cant-compete-with-this-angry-looking-japanese-feline/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/c112.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Move over, Grumpy Cat, you&#8217;ve got competition in&nbsp;Japan!</a><span>5</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/sakura-season-comes-early-to-starbucks-with-two-new-japan-exclusive-dessert-beverages/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/sb-0.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Sakura season comes early to Starbucks with two new Japan-exclusive dessert&nbsp;beverages</a><span>6</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/fans-of-hit-sports-manga-bury-creators-office-with-valentines-chocolate-for-its-characters/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/pt-1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Fans of hit sports manga bury creator’s office with Valentine’s chocolate for its&nbsp;characters</a><span>7</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/15/how-to-get-valentines-day-chocolate-in-tokyo-even-if-you-dont-have-a-girlfriend/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/sv-01.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />How to get Valentine’s Day chocolate in Tokyo even if you don’t have a&nbsp;girlfriend</a><span>8</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/trending-technique-for-breaking-apart-chopsticks-turns-out-to-be-clever-new-design-by-muji/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/f5622915793783-562970e9da49b.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Trending technique for breaking apart chopsticks turns out to be clever new design by&nbsp;Muji</a><span>9</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/16/from-mooing-to-collecting-bellybutton-lint-15-of-the-worlds-weirdest-hobbies/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/top10.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />From mooing to collecting bellybutton lint: 15 of the world&#8217;s weirdest&nbsp;hobbies</a><span>10</span></li>
+</ol></div><div id="widget_weeklyranking" class="ranking"><h3>Weekly</h3><ol><li><a href="http://en.rocketnews24.com/2014/02/10/final-fantasy-chocolates-the-gift-your-gaming-valentine-actually-wants/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2014/02/fc-1.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Final Fantasy Chocolates: The gift your gaming Valentine actually&nbsp;wants</a><span>1</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/11/japanese-twitter-artist-illustrates-six-differences-between-imagined-ideals-and-reality-for-women/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/wi-0.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japanese Twitter artist illustrates six differences between imagined ideals and reality for&nbsp;women</a><span>2</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/13/hey-you-cant-do-that-10-things-that-will-get-you-on-chinas-no-fly-list-for-life/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/planes-1.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Hey, you can&#8217;t do that! — 10 things that will get you on China&#8217;s no-fly list for&nbsp;life</a><span>3</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/10/hairdresser-creates-unique-formulations-to-match-clients-hair-colour-with-their-favourite-anime-star/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/lovelive1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Hairdresser creates unique formulations to match clients’ hair colour with their favourite anime&nbsp;star</a><span>4</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/11/madonna-gaffe-reminds-us-how-tricky-it-can-be-to-hold-a-concert-in-asia/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/top6.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Madonna gaffe reminds us how tricky it can be to hold a concert in&nbsp;Asia</a><span>5</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/12/japanese-university-student-makes-stunning-wooden-clock-that-literally-writes-the-time-%e3%80%90video%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/clock.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japanese university student makes stunning wooden clock that literally writes the time&nbsp;【Video】</a><span>6</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/09/adidas-collaborates-with-singer-rita-ora-to-create-geisha-inspired-collection/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/173.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Adidas collaborates with singer Rita Ora to create geisha-inspired&nbsp;collection</a><span>7</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/14/deadpool-opening-a-huge-success-but-we-wouldnt-know-because-were-in-japan/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/top9.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Deadpool opening a huge success&#8230;but we wouldn&#8217;t know because we&#8217;re in&nbsp;Japan</a><span>8</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/12/and-the-winner-of-the-street-fighter-v-miss-chun-li-cosplay-contest-is-zangief/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/zangief-chun-li-04.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />And the winner of the Street Fighter V &#8220;Miss Chun-Li Cosplay Contest&#8221; is&#8230;&nbsp;Zangief?!</a><span>9</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/14/japanese-artists-comic-about-fathers-unexpected-confession-is-both-awkward-and-heartwarming/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/02/dad-confession-top.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japanese artist&#8217;s comic about father&#8217;s unexpected &#8220;confession&#8221; is both awkward and&nbsp;heartwarming</a><span>10</span></li>
+</ol></div><div id="widget_monthlyranking" class="ranking"><h3>Monthly</h3><ol><li><a href="http://en.rocketnews24.com/2016/01/25/clever-and-cute-cat-keyhole-bra-is-only-one-fourth-of-lingerie-sets-feline-charms-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/toptop.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Clever and cute cat keyhole bra is only one-fourth of lingerie set’s feline charms&nbsp;【Photos】</a><span>1</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/22/censored-cosplay-tights-a-new-concept-in-keeping-your-undies-hidden-at-anime-conventions/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/15.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Censored cosplay tights: A new concept in keeping your undies hidden at anime&nbsp;conventions</a><span>2</span></li>
+<li><a href="http://en.rocketnews24.com/2014/02/10/final-fantasy-chocolates-the-gift-your-gaming-valentine-actually-wants/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2014/02/fc-1.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Final Fantasy Chocolates: The gift your gaming Valentine actually&nbsp;wants</a><span>3</span></li>
+<li><a href="http://en.rocketnews24.com/2015/02/18/literal-breastplate-will-give-you-a-cosplay-ready-anime-class-bust-in-seconds-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/02/db-1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Literal breastplate will give you a cosplay-ready, anime-class bust in seconds&nbsp;【Photos】</a><span>4</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/18/cosplayers-grandmother-joins-photo-shoot-for-most-heartwarming-howls-moving-castle-cosplay-ever/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/screen-shot-2016-01-15-at-11-22-59-pm1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Cosplayer&#8217;s grandmother joins photo shoot for most heartwarming Howl&#8217;s Moving Castle cosplay&nbsp;ever</a><span>5</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/21/japans-train-otaku-ruin-the-sweet-story-of-the-lone-school-girl-and-her-train-station/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/sad-story-1.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japan&#8217;s train otaku ruin the sweet story of the lone schoolgirl and her train&nbsp;station</a><span>6</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/30/mothers-cute-note-in-final-bento-of-sons-high-school-life-gives-twitter-the-feels/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/czslv5qw0aieekg-1-e1453967624228.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Mother&#8217;s note to son in the final bento of his high school life gives Twitter the&nbsp;feels</a><span>7</span></li>
+<li><a href="http://en.rocketnews24.com/2016/02/01/forget-dog-earing-and-bookmarks-that-fall-make-your-own-easy-origami-bookmark-instead/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/origami-bookmark-top.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Forget dog-earing and bookmarks that fall, make your own easy origami bookmark&nbsp;instead!</a><span>8</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/20/new-line-of-skirts-promises-to-give-you-the-slim-waist-and-long-legs-of-an-anime-heroine-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/as-01.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />New line of skirts promises to give you the slim waist and long legs of an anime heroine&nbsp;【Photos】</a><span>9</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/27/underboob-challenge-explodes-in-china-pens-and-makeup-brushes-never-been-happier%e3%80%90nsfw%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/underboob-1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Underboob challenge explodes in China, pens and makeup brushes never been&nbsp;happier【NSFW】</a><span>10</span></li>
+</ol></div><div id="widget_yearlyranking" class="ranking"><h3>Yearly</h3><ol><li><a href="http://en.rocketnews24.com/2015/12/01/japanese-netizens-moved-to-tears-over-story-of-dad-teaching-daughter-how-to-handle-alcohol/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/12/8912070568_4fd24e6bbe_z.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Japanese dad teaches daughter how to handle alcohol, has Twitter in&nbsp;tears</a><span>1</span></li>
+<li><a href="http://en.rocketnews24.com/2015/12/09/you-can-now-buy-sliced-chocolate-in-japan-and-sandwiches-will-never-be-the-same/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/12/slice.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />You can now buy sliced chocolate in Japan—sandwiches will never be the&nbsp;same!</a><span>2</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/25/clever-and-cute-cat-keyhole-bra-is-only-one-fourth-of-lingerie-sets-feline-charms-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/toptop.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Clever and cute cat keyhole bra is only one-fourth of lingerie set’s feline charms&nbsp;【Photos】</a><span>3</span></li>
+<li><a href="http://en.rocketnews24.com/2015/12/16/the-venice-of-japan-in-kyoto-a-secret-destination-tourists-dont-know-about-yet/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/12/screen-shot-2015-12-15-at-3-16-52-pm.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />The &#8220;Venice of Japan&#8221; in Kyoto: a secret destination tourists don&#8217;t know about&nbsp;yet</a><span>4</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/22/censored-cosplay-tights-a-new-concept-in-keeping-your-undies-hidden-at-anime-conventions/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/15.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Censored cosplay tights: A new concept in keeping your undies hidden at anime&nbsp;conventions</a><span>5</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/13/upskirt-umbrellas-as-now-a-thing-in-japan/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/26.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Upskirt umbrellas are now a thing in&nbsp;Japan</a><span>6</span></li>
+<li><a href="http://en.rocketnews24.com/2016/01/08/driver-is-all-smiles-as-woman-who-crashed-into-his-car-turns-out-to-be-av-star-maria-ozawa%e3%80%90video%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2016/01/screen-shot-2016-01-07-at-12-38-581.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Man overjoyed as woman who crashed into his car turns out to be AV star Maria&nbsp;Ozawa【Video】</a><span>7</span></li>
+<li><a href="http://en.rocketnews24.com/2014/02/10/final-fantasy-chocolates-the-gift-your-gaming-valentine-actually-wants/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2014/02/fc-1.jpg?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Final Fantasy Chocolates: The gift your gaming Valentine actually&nbsp;wants</a><span>8</span></li>
+<li><a href="http://en.rocketnews24.com/2015/12/16/samurai-hoodies-are-a-bushido-blend-of-old-school-style-and-modern-fashion-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/12/sp-02.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Samurai hoodies are a bushido blend of old-school style and modern fashion&nbsp;【Photos】</a><span>9</span></li>
+<li><a href="http://en.rocketnews24.com/2015/02/18/literal-breastplate-will-give-you-a-cosplay-ready-anime-class-bust-in-seconds-%e3%80%90photos%e3%80%91/"><img width="100" height="100" src="https://sociorocketnewsen.files.wordpress.com/2015/02/db-1.png?w=100&amp;h=100&amp;crop=1" class=" wp-post-image" alt="" title="" />Literal breastplate will give you a cosplay-ready, anime-class bust in seconds&nbsp;【Photos】</a><span>10</span></li>
+</ol></div></div></li><li id="text-4" class="widget widget_text">			<div class="textwidget"><div id="div-gpt-ad-sidemiddle2" style="min-height:250px;"><!-- RN24En_SideMiddle2_300x250 --><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidemiddle2'); });</script></div>
+
+</div>
+		</li><li id="socio_recommendation-2" class="widget widget_socio_recommendation"><h2>RECOMMENDED STORIES</h2><ol><li><a href="http://en.rocketnews24.com/2015/12/22/brace-yourself-chocolate-flavored-instant-noodles-are-coming-to-japan/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/12/cy-1.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Brace yourself – Chocolate-flavored instant noodles are coming to&nbsp;Japan!</a></li>
+<li><a href="http://en.rocketnews24.com/2014/08/07/the-fantastic-feast-of-festival-food-in-japan/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/08/yf-17.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />The fantastic feast of festival food in&nbsp;Japan</a></li>
+<li><a href="http://en.rocketnews24.com/2014/02/20/we-try-mcdonalds-american-funky-bbq-chicken-smells-much-nicer-than-the-name-implies/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/02/top14.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We try McDonald’s American Funky BBQ Chicken, smells much nicer than the name&nbsp;implies</a></li>
+<li><a href="http://en.rocketnews24.com/2014/10/24/how-to-make-ghost-forest-yakisoba-and-haunt-your-noodles-for-halloween/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/10/gy-10.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />How to make Ghost Forest Yakisoba and haunt your noodles for&nbsp;Halloween</a></li>
+<li><a href="http://en.rocketnews24.com/2014/02/01/toast-with-fermented-soybeans-and-honey-may-not-be-good-looking-but-it-is-good-eating/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/01/nt-1.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Toast with fermented soybeans and honey may not be good-looking, but it is good&nbsp;eating</a></li>
+<li><a href="http://en.rocketnews24.com/2014/01/12/give-your-loved-ones-stag-beetle-larvae-and-more-this-valentines/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/01/198738855_1.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Give your loved ones stag beetle larvae and more this&nbsp;Valentine’s</a></li>
+<li><a href="http://en.rocketnews24.com/2014/03/24/where-to-find-the-ultimate-melon-bread-in-japan/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/03/64.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Where to find the &#8220;ultimate melon bread&#8221; in&nbsp;Japan</a></li>
+<li><a href="http://en.rocketnews24.com/2014/03/25/subway-cuts-prices-for-two-days-helps-out-those-watching-their-weight-and-unable-to-cook-alike/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/03/sw-4.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Subway cuts prices for two days, helps out those watching their weight and unable to cook&nbsp;alike</a></li>
+<li><a href="http://en.rocketnews24.com/2015/12/10/we-try-the-latest-crazy-chip-flavour-from-japan-strawberry-shortcake-%e3%80%90taste-test%e3%80%91/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/12/115.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We try the latest crazy chip flavour from Japan: Strawberry shortcake 【Taste&nbsp;test】</a></li>
+<li><a href="http://en.rocketnews24.com/2016/01/20/make-your-own-castle-in-the-sky-have-an-excuse-to-play-with-your-food-with-this-simple-trick/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2016/01/screenhunter_311-jan-19-17-54.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Make your own Castle in the Sky, have an excuse to play with your food with this simple&nbsp;trick</a></li>
+<li><a href="http://en.rocketnews24.com/2015/03/28/it-all-came-out-debate-ensues-over-whether-schoolgirl-ad-is-just-talking-about-mayonnaise/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/03/zd-0.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />“It all came out?” Debate ensues over whether schoolgirl ad is just talking about&nbsp;mayonnaise</a></li>
+<li><a href="http://en.rocketnews24.com/2015/06/30/we-tried-the-expensive-but-delicious-curry-at-ishikawas-go-go-curry-but-is-it-worth-the-trip/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/06/awabi-2.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We tried the expensive but delicious curry at Ishikawa&#8217;s Go! Go! Curry! But is it worth the&nbsp;trip?</a></li>
+<li><a href="http://en.rocketnews24.com/2015/09/21/bread-noodles-and-rice-we-try-all-the-carbs-together-with-interesting-results-%e3%80%90rocket-kitchen%e3%80%91/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/09/a-bab-bab1.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Bread, noodles, and rice. We try ALL THE CARBS together with interesting results 【Rocket&nbsp;Kitchen】</a></li>
+<li><a href="http://en.rocketnews24.com/2016/01/30/we-chow-down-on-new-cheesecake-ice-cream-bar-with-real-cream-cheese/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2016/01/18.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />We chow down on new cheesecake ice cream bar made with real cream&nbsp;cheese</a></li>
+<li><a href="http://en.rocketnews24.com/2014/04/24/gari-gari-kun-finally-releases-a-delicious-specialty-flavor-frozen-snack-we-still-dont-trust-them/" onclick="_nc_en_clicked(this.href);"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/04/photo25.jpg?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Gari Gari Kun finally releases a delicious specialty flavor frozen snack, we still don’t trust&nbsp;them</a></li>
+</ol><script> var _nc_en_contents_length = 20; </script></li>		<li id="secondary-widgets">
+					<div id="secondary-1-widget">
+				<ul>
+					<li id="categories-2" class="secondary-widget widget_categories"><h2>Categories</h2><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="2214">Africa&nbsp;&nbsp;(33)</option>
+	<option class="level-0" value="4330">Australia&nbsp;&nbsp;(22)</option>
+	<option class="level-0" value="19090041">C America&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="86864613">C Asia&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="2443">Canada&nbsp;&nbsp;(42)</option>
+	<option class="level-0" value="1470">China&nbsp;&nbsp;(1,367)</option>
+	<option class="level-0" value="4328">Europe&nbsp;&nbsp;(302)</option>
+	<option class="level-0" value="21656">Global&nbsp;&nbsp;(1,168)</option>
+	<option class="level-0" value="22">Internet&nbsp;&nbsp;(2,699)</option>
+	<option class="level-0" value="419">Italy&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="2062">Japan&nbsp;&nbsp;(12,715)</option>
+	<option class="level-0" value="3956">Korea&nbsp;&nbsp;(429)</option>
+	<option class="level-0" value="13467775">N Asia&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="5833">New Zealand&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="4333">North Korea&nbsp;&nbsp;(65)</option>
+	<option class="level-0" value="12145">Oceania&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="10759">Russia&nbsp;&nbsp;(84)</option>
+	<option class="level-0" value="954365">S America&nbsp;&nbsp;(33)</option>
+	<option class="level-0" value="5254389">S Asia&nbsp;&nbsp;(73)</option>
+	<option class="level-0" value="165888">SE Asia&nbsp;&nbsp;(396)</option>
+	<option class="level-0" value="174">Space&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="1495">Taiwan&nbsp;&nbsp;(236)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="699">USA&nbsp;&nbsp;(610)</option>
+	<option class="level-0" value="57402732">W Asia&nbsp;&nbsp;(25)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://en.rocketnews24.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</li>				</ul>
+			</div>
+					<div id="secondary-2-widget">
+				<ul>
+					<li id="archives-2" class="secondary-widget widget_archive"><h2>Archives</h2>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://en.rocketnews24.com/2016/02/'> February 2016 &nbsp;(210)</option>
+	<option value='http://en.rocketnews24.com/2016/01/'> January 2016 &nbsp;(384)</option>
+	<option value='http://en.rocketnews24.com/2015/12/'> December 2015 &nbsp;(378)</option>
+	<option value='http://en.rocketnews24.com/2015/11/'> November 2015 &nbsp;(393)</option>
+	<option value='http://en.rocketnews24.com/2015/10/'> October 2015 &nbsp;(452)</option>
+	<option value='http://en.rocketnews24.com/2015/09/'> September 2015 &nbsp;(451)</option>
+	<option value='http://en.rocketnews24.com/2015/08/'> August 2015 &nbsp;(396)</option>
+	<option value='http://en.rocketnews24.com/2015/07/'> July 2015 &nbsp;(440)</option>
+	<option value='http://en.rocketnews24.com/2015/06/'> June 2015 &nbsp;(439)</option>
+	<option value='http://en.rocketnews24.com/2015/05/'> May 2015 &nbsp;(397)</option>
+	<option value='http://en.rocketnews24.com/2015/04/'> April 2015 &nbsp;(410)</option>
+	<option value='http://en.rocketnews24.com/2015/03/'> March 2015 &nbsp;(421)</option>
+	<option value='http://en.rocketnews24.com/2015/02/'> February 2015 &nbsp;(427)</option>
+	<option value='http://en.rocketnews24.com/2015/01/'> January 2015 &nbsp;(448)</option>
+	<option value='http://en.rocketnews24.com/2014/12/'> December 2014 &nbsp;(414)</option>
+	<option value='http://en.rocketnews24.com/2014/11/'> November 2014 &nbsp;(428)</option>
+	<option value='http://en.rocketnews24.com/2014/10/'> October 2014 &nbsp;(468)</option>
+	<option value='http://en.rocketnews24.com/2014/09/'> September 2014 &nbsp;(409)</option>
+	<option value='http://en.rocketnews24.com/2014/08/'> August 2014 &nbsp;(435)</option>
+	<option value='http://en.rocketnews24.com/2014/07/'> July 2014 &nbsp;(403)</option>
+	<option value='http://en.rocketnews24.com/2014/06/'> June 2014 &nbsp;(446)</option>
+	<option value='http://en.rocketnews24.com/2014/05/'> May 2014 &nbsp;(448)</option>
+	<option value='http://en.rocketnews24.com/2014/04/'> April 2014 &nbsp;(441)</option>
+	<option value='http://en.rocketnews24.com/2014/03/'> March 2014 &nbsp;(433)</option>
+	<option value='http://en.rocketnews24.com/2014/02/'> February 2014 &nbsp;(383)</option>
+	<option value='http://en.rocketnews24.com/2014/01/'> January 2014 &nbsp;(366)</option>
+	<option value='http://en.rocketnews24.com/2013/12/'> December 2013 &nbsp;(320)</option>
+	<option value='http://en.rocketnews24.com/2013/11/'> November 2013 &nbsp;(349)</option>
+	<option value='http://en.rocketnews24.com/2013/10/'> October 2013 &nbsp;(357)</option>
+	<option value='http://en.rocketnews24.com/2013/09/'> September 2013 &nbsp;(317)</option>
+	<option value='http://en.rocketnews24.com/2013/08/'> August 2013 &nbsp;(359)</option>
+	<option value='http://en.rocketnews24.com/2013/07/'> July 2013 &nbsp;(314)</option>
+	<option value='http://en.rocketnews24.com/2013/06/'> June 2013 &nbsp;(324)</option>
+	<option value='http://en.rocketnews24.com/2013/05/'> May 2013 &nbsp;(337)</option>
+	<option value='http://en.rocketnews24.com/2013/04/'> April 2013 &nbsp;(258)</option>
+	<option value='http://en.rocketnews24.com/2013/03/'> March 2013 &nbsp;(235)</option>
+	<option value='http://en.rocketnews24.com/2013/02/'> February 2013 &nbsp;(166)</option>
+	<option value='http://en.rocketnews24.com/2013/01/'> January 2013 &nbsp;(194)</option>
+	<option value='http://en.rocketnews24.com/2012/12/'> December 2012 &nbsp;(203)</option>
+	<option value='http://en.rocketnews24.com/2012/11/'> November 2012 &nbsp;(241)</option>
+	<option value='http://en.rocketnews24.com/2012/10/'> October 2012 &nbsp;(252)</option>
+	<option value='http://en.rocketnews24.com/2012/09/'> September 2012 &nbsp;(201)</option>
+	<option value='http://en.rocketnews24.com/2012/08/'> August 2012 &nbsp;(163)</option>
+	<option value='http://en.rocketnews24.com/2012/07/'> July 2012 &nbsp;(113)</option>
+	<option value='http://en.rocketnews24.com/2012/06/'> June 2012 &nbsp;(107)</option>
+	<option value='http://en.rocketnews24.com/2012/05/'> May 2012 &nbsp;(100)</option>
+	<option value='http://en.rocketnews24.com/2012/04/'> April 2012 &nbsp;(100)</option>
+	<option value='http://en.rocketnews24.com/2012/03/'> March 2012 &nbsp;(92)</option>
+	<option value='http://en.rocketnews24.com/2012/02/'> February 2012 &nbsp;(65)</option>
+	<option value='http://en.rocketnews24.com/2012/01/'> January 2012 &nbsp;(59)</option>
+	<option value='http://en.rocketnews24.com/2011/12/'> December 2011 &nbsp;(50)</option>
+	<option value='http://en.rocketnews24.com/2011/11/'> November 2011 &nbsp;(44)</option>
+	<option value='http://en.rocketnews24.com/2011/10/'> October 2011 &nbsp;(31)</option>
+	<option value='http://en.rocketnews24.com/2011/09/'> September 2011 &nbsp;(19)</option>
+	<option value='http://en.rocketnews24.com/2011/08/'> August 2011 &nbsp;(16)</option>
+	<option value='http://en.rocketnews24.com/2011/07/'> July 2011 &nbsp;(9)</option>
+	<option value='http://en.rocketnews24.com/2011/06/'> June 2011 &nbsp;(29)</option>
+	<option value='http://en.rocketnews24.com/2011/05/'> May 2011 &nbsp;(27)</option>
+	<option value='http://en.rocketnews24.com/2011/04/'> April 2011 &nbsp;(37)</option>
+	<option value='http://en.rocketnews24.com/2011/03/'> March 2011 &nbsp;(27)</option>
+	<option value='http://en.rocketnews24.com/2011/02/'> February 2011 &nbsp;(3)</option>
+	<option value='http://en.rocketnews24.com/2010/12/'> December 2010 &nbsp;(2)</option>
+	<option value='http://en.rocketnews24.com/2010/11/'> November 2010 &nbsp;(1)</option>
+	<option value='http://en.rocketnews24.com/2009/02/'> February 2009 &nbsp;(2)</option>
+	<option value='http://en.rocketnews24.com/2009/01/'> January 2009 &nbsp;(1)</option>
+
+		</select>
+		</li>				</ul>
+			</div>
+				</li>
+	<li id="text-10" class="widget widget_text">			<div class="textwidget"><div id="div-gpt-ad-sidemiddle" style="min-height:250px;"><!-- RN24En_SideMiddle_300x250 --><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidemiddle'); });</script></div>
+</div>
+		</li><li id="blog_subscription-2" class="widget widget_blog_subscription"><h2><label for="subscribe-field">Follow via email</label></h2>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Enter your email address to follow RocketNews24 and receive notifications of new posts by email.</p>
+<p>Join 23,080 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" placeholder="Enter your email address" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="35270051"/>
+						<input type="hidden" name="source" value="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/?platform=hootsuite"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="1e6e2cc937" />						<input type="submit" value="Follow" />
+					</p>
+				</form>
+			
+</li><li id="text-12" class="widget widget_text"><h2>THE TEAM</h2>			<div class="textwidget"><table style="border-spacing:0;border-collapse:collapse;width:100%;" border="0">
+<tbody>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/philip-kendall/"><img style="vertical-align:middle;margin-right:3px;" src="https://sociorocketnewsen.files.wordpress.com/2015/05/philip-kendall-profile-pic-2.jpg" alt="" width="20" height="20" />Philip Kendall</a></th>
+<td><a href="https://twitter.com/otokonomiyaki" target="_blank">Twitter</a> / <a href="https://plus.google.com/116472658253850963198" target="_blank">Google+</a></td>
+</tr>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/casey-baseel/"><img style="vertical-align:middle;margin-right:3px;" src="https://sociorocketnewsen.files.wordpress.com/2015/05/casey-baseel-profile1.jpg" alt="" width="20" height="20" />Casey Baseel</a></th>
+<td><a href="https://twitter.com/NatsuKazeOtoko" target="_blank">Twitter</a></td>
+</tr>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/evie-lund/"><img style="vertical-align:middle;margin-right:3px;" src="https://sociorocketnewsen.files.wordpress.com/2015/05/unnamed-2.jpg" alt="" width="20" height="20" />Evie Lund</a></th>
+<td><a href="https://twitter.com/evienyan" target="_blank">Twitter</a> / <a href="https://plus.google.com/113651942970896750899" target="_blank">Google+</a></td>
+</tr>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/master-blaster/"><img style="vertical-align:middle;margin-right:3px;" src="https://sociorocketnewsen.files.wordpress.com/2015/05/35206064.jpg" alt="" width="20" height="20" />Master Blaster</a></th>
+<td><a href="https://twitter.com/StubbsLeBlanc" target="_blank">Twitter</a> / <a href="https://plus.google.com/103793684967211700574" target="_blank">Google+</a></td>
+</tr>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/kk-miller/"><img style="vertical-align:middle;margin-right:3px;" src="https://sociorocketnewsen.files.wordpress.com/2015/06/img_2218-1.jpg" alt="" width="20" height="20" />KK Miller</a></th>
+<td><a href="https://twitter.com/yennylievable">Twitter</a> / <a href="https://plus.google.com/114401096456570206296" target="_blank">Google+</a></td>
+</tr>
+<tr>
+<th style="width:1px;padding:0 15px 3px 0;white-space:nowrap;"><a href="http://en.rocketnews24.com/author/preston-phro/"><img class="aligncenter wp-image-252513" src="https://sociorocketnewsen.files.wordpress.com/2015/07/preston-1.png" alt="preston (1)" width="20" height="20" />Preston Phro</a></th>
+<td><a href="https://twitter.com/phrometal" target="_blank">Twitter</a> / <a href="https://plus.google.com/106100604219278782582/" target="_blank">Google+</a></td>
+</tr>
+</tbody>
+</table></div>
+		</li><li id="linkcat-6363619" class="widget widget_links"><h2>Featured Partners</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.buzzfeed.com/en.rocketnews24.com">Buzzfeed</a></li>
+<li><a href="http://gizmodo.com/search?q=rocketnews24">GIZMODO</a></li>
+<li><a href="http://www.japantoday.com/" target="_blank">Japan Today</a></li>
+<li><a href="http://foodbeast.com/content/" target="_blank">Foodbeast</a></li>
+<li><a href="http://www.weirdasianews.com/" target="_blank">Weird Asia News</a></li>
+
+	</ul>
+</li>
+	</ul>
+	<ul id="fixed-widgets">
+		<li id="socio_recommendation-3" class="widget widget_socio_recommendation"><ol><li><a href="http://en.rocketnews24.com/2015/12/22/brace-yourself-chocolate-flavored-instant-noodles-are-coming-to-japan/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2015/12/cy-1.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />Brace yourself – Chocolate-flavored instant noodles are coming to&nbsp;Japan!</a></li>
+<li><a href="http://en.rocketnews24.com/2014/08/07/the-fantastic-feast-of-festival-food-in-japan/"><img width="95" height="70" src="https://sociorocketnewsen.files.wordpress.com/2014/08/yf-17.png?w=95&amp;h=70&amp;crop=1" class=" wp-post-image" alt="" title="" />The fantastic feast of festival food in&nbsp;Japan</a></li>
+</ol></li><li id="text-7" class="widget widget_text">			<div class="textwidget"><p style="font-size:81%;color:#808080;margin-bottom:10px;"><strong>Follow RocketNews24</strong></p> 
+<div style="margin-bottom:5px;"><fb:like  href="http://facebook.com/RocketNews24En" show_faces="false"></fb:like></div>
+<div style="margin-bottom:5px;"><a href="https://twitter.com/RocketNews24En" class="twitter-follow-button">Follow @RocketNews24En</a></div>
+<div id="div-gpt-ad-sidebottom" class="ad" style="height:250px;margin-bottom:10px;"><!-- RN24En_SideBottom_300x250 --><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidebottom'); });</script></div>
+<a href="/about/">About Us</a> | <a href="/jobs/">Jobs</a> | <a href="/contact/">Contact</a> | <a href="/about/partner/">Contribution</a> | <a href="/partnerwithus/">Partner with US</a></div>
+		</li>	</ul>
+</div>
+</div>
+<div id="footer">
+	<div id="footer-nav">
+		<p class="copyright">&copy; <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><a href="http://en.rocketnews24.com/" itemprop="name url">RocketNews24</a><link itemprop="logo" href="https://s0.wp.com/wp-content/themes/vip/rocketnews-enimg/pts_logo_300x300.png" /></span> / <span itemprop="provider" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">SOCIO CORPORATION</span></span></p>
+		<ul id="footer_link" class="menu"><li id="menu-item-6964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6964"><a href="http://en.rocketnews24.com/about/">About Us</a> | </li>
+<li id="menu-item-14137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14137"><a href="http://en.rocketnews24.com/jobs/">Jobs</a> | </li>
+<li id="menu-item-6965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6965"><a href="http://en.rocketnews24.com/contact/">Contact</a> | </li>
+<li id="menu-item-49162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49162"><a href="http://en.rocketnews24.com/about/partner/">Contribution</a> | </li>
+</ul>	</div>
+	<div id="footer-powered">
+		<p style="text-align:right;"><a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom"><img src="https://s0.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP" /></a></p>
+			</div>
+</div>
+
+</div>
+<!-- wpcom_wp_footer -->
+<div id="fb-root"></div>
+<script>
+window._sf_endpt = (new Date()).getTime();
+(function (url) {
+	setTimeout(function () {
+		var iframe = document.createElement('iframe');
+		(iframe.frameElement || iframe).style.cssText = 'display:none';
+		iframe.src = 'javascript:false';
+		var where = document.getElementById('fb-root');
+		where.parentNode.insertBefore(iframe, where);
+		var doc = iframe.contentWindow.document;
+		doc.open().write('<body onload="' +
+		'var js = document.createElement(\'script\');' +
+		'js.src = \'' + url + '\';' +
+		'document.body.appendChild(js);">');
+		doc.close();
+	}, 0);
+}('https://s0.wp.com/wp-content/themes/vip/rocketnews-en/js/load_scripts.min.js'));
+</script>
+<script type="application/ld+json">
+{"@context" : "http://schema.org",
+"@graph" :
+[
+{
+"@type": "Organization",
+"name": "RocketNews24",
+"logo": "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/rocketnews-en\/img\/pts_logo_300x300.png",
+"url": "http:\/\/en.rocketnews24.com\/"},
+{
+"@type": "WebSite",
+"url": "http:\/\/en.rocketnews24.com\/",
+"potentialAction": {
+ "@type": "SearchAction",
+ "target": "http:\/\/en.rocketnews24.com\/?s={search_term}",
+ "query-input": "required name=search_term"
+ }
+}
+]}
+</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201607y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/sociorocketnewsen.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/sociorocketnewsen.wordpress.com\/wp-login.php?action=logout&_wpnonce=86ce9635a5","homeURL":"http:\/\/en.rocketnews24.com\/","postID":"298124","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;RocketNews24&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 23,080 other followers</p>
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="35270051"/>
+			<input type="hidden" name="source" value="http://en.rocketnews24.com/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/?platform=hootsuite"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="1e6e2cc937" /><input type="hidden" name="_wp_http_referer" value="/2016/02/01/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba/?platform=hootsuite" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+<script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_7452566_post_298124={"id":7452566,"unique_id":"wp-post-298124","title":"Elevate%20your%20next%20Subway%20sandwich%20with%20the%20great%20taste%20of%26nbsp%3Byakisoba","permalink":"http:\/\/en.rocketnews24.com\/2016\/02\/01\/elevate-your-next-subway-sandwich-with-the-great-taste-of-yakisoba\/","item_id":"_post_298124"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_7452566_post_298124 == 'undefined' ){PDRTJS_7452566_post_298124 = new PDRTJS_RATING( PDRTJS_settings_7452566_post_298124 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='http://i0.poll.fm/js/rating/rating.js'></script>		<iframe src='http://widgets.wp.com/likes/master.html?ver=20151208#ver=20151208&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'clickReblogFlair' == event.event ) {
+					wpcom_reblog.toggle_reblog_box_flair( event.obj_id );
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFjkEOwiAQRS8kndiQho3xLAiTZghMsTO09vbShYkrXf3Fey/5sFcTFlZkhSQQcaOA9TUkuUBHxCG3iHKy9Gy4HtAIwrLiUIh/WzvFGfW/p/4h39bnTmmm5jYTC4xmo3pWfYxnnw+lID24l9vVWmenybkxvQGI6Uo5'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?51" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'35270051','blog_tz':'9','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'35270051','v':'wpcom','tz':'9','user_id':'0','post':'298124','subd':'sociorocketnewsen'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=35270051&v=wpcomvt&tz=9&user_id=0&post=298124&subd=sociorocketnewsen&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdZSkZvZy4uY0RIME5ZTjhBdDVibzUvdkUtdz9kUWg2TjhHQ24/S0ZxLSVLJVp2V21ob3Emc1BKVktFWz9RQiZ2dWFxSk1wdTZKUU5BYl8sTWxZNHM9VFl8U11Dd3NsQmdLJmI9UXN8MGxjN1JqLkI3Z1pndSY0Rzg5d3hrTEx6ZV1pJWxUPTZacC1DfjdJcT03aCx5VHQ2eTZ6flZQTVRoZ1pMTmV6JkkzclpdTFctZW5LWG4/VkVJMHpqL0JHUFMrTj0tW3YmdVVHckk0fGIlMVI0WSxJTTk='}]);
+_stq.push([ 'clickTrackerInit', '35270051', '298124' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+\bibitem{a1}
+Friendship paradox :
+\newblock
+https://en.wikipedia.org/wiki/Friendship\_paradox , Wikipedia, 2015
+\bibitem{a2}
+MiniDom :
+\newblock
+https://wiki.python.org/moin/MiniDom, MartinvonLoewis, 2012
+\bibitem{a3}
+Python – Read XML file :
+\newblock
+http://www.mkyong.com/python/python-read-xml-file-dom-example/, mkyong, 2014
+
+\bibitem{a4}
+Add Text to a Plot :
+\newblock https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/text.html, The R Graphics Package, 2013
+
+\bibitem{a5}
+Add Arrows to a Plot :
+\newblock https://docs.python.org/2/library/math.html, The R Graphics Package, 2013
+
+\bibitem{a6}
+GET followers/list :
+\newblock https://dev.twitter.com/rest/reference/get/followers/list, Twitter Incorporation, 2015
+
+\bibitem{a7}
+The best way to get a list of followers in Python with Tweepy :
+\newblock http://stackoverflow.com/questions/17455107/the-best-way-to-get-a-list-of-followers-in-python-with-tweepy, alecxe, 2013
+
+\bibitem{a8}
+How to use linkedin API with python :
+\newblock http://stackoverflow.com/questions/17600244/how-to-use-linkedin-api-with-python, user1681664, 2013
+
+
+\end{thebibliography}

@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Slash City by Matthew Hennessey, City Journal February 3, 2016</title>
+	<meta name="description" content="New Yorkers are on edge following a spate of knife crimes on the subway." />
+	<meta name="keywords" content="matthew hennessey" />
+	<!-- FEEDS -->
+
+<link rel="alternate" type="application/rss+xml" title="City Journal" href="http://feeds.feedburner.com/city-journal" />
+<link rel="alternate" type="application/rss+xml" title="City Journal Podcasts" href="http://feeds.feedburner.com/CityJournalPodcasts" />
+<link rel="alternate" type="application/rss+xml" title="City Journal California" href="http://feeds.feedburner.com/CityJournalCalifornia" />
+
+
+<!-- END FEEDS -->
+
+
+<!-- FOR TEXT RESIZE FUNCTION ON STORY PAGES -->
+
+<script type="text/javascript">
+	function resizeText(multiplier) {
+		if (document.body.style.fontSize == "") {
+			document.body.style.fontSize = "1.0em";
+		}
+		document.body.style.fontSize = parseFloat
+		(document.body.style.fontSize) + (multiplier * 0.2) + "em";
+	}
+</script>
+
+<link href="/assets/images/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="/assets/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/assets/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/assets/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+
+<!-- GOOGLE ANALYTICS - updated to Universal version 10-28-2014 -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2478261-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- END OF GOOGLE ANALYTICS -->
+
+<!-- Facebook Pixel Code -->
+ <script>
+ !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+ n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+ n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+ document,'script','//connect.facebook.net/en_US/fbevents.js');
+ 
+fbq('init', '999610026767896');
+ fbq('track', "PageView");</script>
+ <noscript><img height="1" width="1" style="display:none"
+ src="https://www.facebook.com/tr?id=999610026767896&ev=PageView&noscript=1"
+ /></noscript>
+ <!-- End Facebook Pixel Code -->
+
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<!--<script type="text/javascript" src="/includes/js/jquery-slideShow/jquery.min.js"></script>-->
+
+	<!-- jquery 
+	<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+	<script type="text/javascript">
+        google.load("jquery", "1.3.2");
+	</script>-->
+
+
+	<!-- Nav Bar commented out 6-12-12, does not seem to be in use.
+	<script type="text/javascript" src="/dev/nav_bar/SimplejQueryDropdowns/js/jquery.dropdownPlain.js"></script>-->
+	<!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen" />
+   <![endif]-->
+
+
+	<!-- Random image plugin, used for ipad Ad on all pages -->
+	<script type="text/javascript" src="/includes/js/jquery.robwalsh.randomImageOnload.js"></script>
+	<script type="text/javascript" src="/includes/js/randomImage.js"></script>
+
+
+	<!-- image Cycle plugin, used for quotes animation (REMOVE AFTER ALL FILES CONVERTED TO NEW 2014 DESIGN, BUT ADD TO HOMEPAGE IF QUOTES ARE STILL THERE)-->
+	<style type="text/css"> 
+		.quotes { height:167px;width:160px;}
+		.quotes img { }
+	</style>
+	<script type="text/javascript" src="/includes/js/jquery.cycle.lite.min.js"></script>
+	<script type="text/javascript"> 
+		$(document).ready(function() {
+			$('.quotes').cycle({
+				timeout: 8000,
+				fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+			});
+		});
+	</script>
+
+
+	<link href="../css/cj-2014.css?v=2" rel="stylesheet" type="text/css" />
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".collapseLink").toggle();
+			$(".flipText").click(function(){
+				$(".selected_responses").toggle();
+				$(".moreLink").toggle();
+				$(".collapseLink").toggle();
+			});
+		});
+	</script>
+
+</head>
+<body>
+
+	<div id="page">
+
+				<div id="banner">
+			<img src="/assets/images/city_journal_banner.jpg" title="Illustration by Heads of State" usemap="#logo" alt="Illustration by Heads of State" />
+			<map id="logo" name="logo"><area title="City Journal" href="http://www.city-journal.org/index.html" coords="10,20,246,170" alt="Home" shape="rect"></map>
+		</div> 
+		<div id="navbar">
+			<ul class="dropdown">
+				<li><a href="/index.html">Home</a></li>
+				<li><a href="/html/about.html">About</a></li>
+				<li><a href="/html/books.html">Books</a></li>
+				<li><a href="/california/">California</a></li>
+				<li><a href="/html/search.html">Archives</a></li>
+				<li><a href="/html/alerts.html">E-mail Alerts </a></li>
+				<li><a href="/html/contact.html">Contact</a></li>
+				<li style="padding-right: 24px;"><a href="/html/advertise.html">Advertise</a></li>
+				<li id="facebook"><a target="new" title="Like us on Facebook" href="http://www.facebook.com/CityJournal"></a></li>
+				<li id="twitter"><a target="new" title="Follow us on Twitter" href="http://twitter.com/cityjournal"></a></li>
+				<li id="googleplus"><a target="new" title="Follow us on Google +" href="https://plus.google.com/106997144081086861648/posts"></a></li>
+				<li id="rss"><a title="Subscribe via RSS" href="http://www.city-journal.org/html/rss.html"></a></li>
+        	</ul>
+		</div>
+
+
+		<div id="inner">
+
+			<div id="left-col">
+
+								<div class="box" id="cover">
+
+
+			<a href="/2016/issue_26_1.html" title="Winter 2016 Table of Contents"><img src="/assets/images/CJ_26_1.jpg" alt="City Journal Winter 2016" width="180" /></a>
+			<div id="current-issue">
+				<p style="font-size: 13px; color: #467CB9;margin: 0 0 4px 0;font-family: arial">Current Issue:</p>
+				<span>Winter 2016</span><br />
+				<a href="/2016/issue_26_1.html">Table of Contents</a><br />
+				<a href="/html/subscribe.html">Subscribe</a><br />
+				<a href="/index.html#footer">Tablet Editions</a>
+			</div>
+
+
+				</div>
+
+				<!-- a file to include in the right column of articles 2008 and later -->
+
+<!--			<div align="center"><a href="https://www.ezsubscription.com/cty/subscribe.asp?type=gift" onclick="popup = window.open('https://www.ezsubscription.com/cty/subscribe.asp?type=gift', 'PopupPage', 'height=550,width=530,scrollbars=yes,resizable=yes'); return false" target="_blank"><img  src="http://www.city-journal.org/assets/images/xmas-ad.jpg" border="0" alt="City Journal." style="border: 2px solid #cc0000;margin: 18px 0;" /></a></div> -->
+
+			<div style="text-align:center;margin-bottom: 24px;"><a href="/california/" title="Click to visit City Journal California"><img src="/assets/images/CA-banner-vertical-180w.jpg" alt="Click to visit City Journal California" /></a></div>
+
+
+
+				<div id="author-material">
+									</div>
+
+			</div><!-- end left col -->
+
+
+			<div class="box" id="wrapper">
+
+				<div id="middle-col">
+
+					<h2 class="h2-4">Eye on the News</h2>
+					<div class="author">Matthew Hennessey</div>
+					<div class="title">Slash City</div>
+					<div class="dek">New Yorkers are on edge following a spate of knife crimes on the subway.</div>
+					<div class="date">February 3, 2016</div>
+
+					
+					<div id="story_text" class="s-12497"><!-- BEGIN IMAGE -->
+<div class="story-image lede">
+<img src="/assets/images/20160203-mh.jpg" alt="" />
+<div class="credit">Photo by <a href="https://www.flickr.com/photos/yourdon/3615452442/in/photolist-6vu93W-p3fFcb-4UzC1A-aHf1XD-kXViQe-efQty5-asx4oq-f5MDfA-2bgKP-eE1Lph-nBKBnU-4f78qe-mYaUoY-f5xpbR-5anLVz-5PSVvz-4x3TE-5cnpxW-d4iZpb-4aNz7Y-izWzT5-8TvgL4-a3etig-bwjoiR-95boSR-rXRo-5dzvZL-5Rei9N-93M1sd-rXNR-rXQr-6nUtSC-dm44Gv-boYe6T-4u3dce-4qK9W-oden-3811YM-4shNEn-6aZqXF-2XSSXH-fSF5-7nHsnu-5vhp7o-7buVD-k4QQaA-rXJj-8xTT3-rbBk-mxiU" target="new">Ed Yourdon</a></div>
+</div>
+<!-- END IMAGE -->
+
+<p>In his 1951 poem &ldquo;Subway Rush Hour,&rdquo; the Harlem Renaissance writer Langston Hughes sketched a portrait of an underground world, where people of all colors, ethnicities, and backgrounds are packed so tightly together that there&rsquo;s &ldquo;no room for fear.&rdquo; Late last week&mdash;in an effort to convince New Yorkers that the subways are safe despite a rash of recent stabbings and slashings on the transit system&mdash;NYPD commissioner Bill Bratton made a similar point. &ldquo;It&rsquo;s amazing anybody can assault anybody because you can&rsquo;t really move on some of those cars,&rdquo; he said. </p>
+
+<p>Bratton&rsquo;s attempts at reassurance clash with the growing sense among New Yorkers that the city&rsquo;s celebrated public-safety gains are increasingly under threat. Ten people have been slashed or stabbed so far this year on the subways. Overall, such crimes are up nearly 20 percent. &ldquo;I&rsquo;ll chop you up right on this f&mdash;-ing train!&rdquo; 37-year-old Ras Alula Nagarit allegedly <a href="http://gothamist.com/2016/01/29/slasher_3_train_arrest.php" target="new">yelled</a> at two women after bumping into them on a crowded platform in Brooklyn. &ldquo;The police aren&rsquo;t here now. You&rsquo;re trying to get help from the crowd. They can&rsquo;t help you! I can just chop you and they can&rsquo;t do nothing!&rdquo; The argument continued on the train, where Nagarit <a href="http://www.nydailynews.com/new-york/nyc-crime/cops-bust-man-hacked-woman-hand-brooklyn-train-article-1.2513352" target="new">pulled out a machete</a> and slashed one of the women on the hand. </p>
+
+<p>After several slashings over the weekend, Bratton appeared on the John Gambling radio show, again trying to tamp down concern. &ldquo;This is New York and occasionally the media and police get focused on a series of incidents, and that&rsquo;s what happened here,&rdquo; the chief told Gambling. An hour later, cops arrested a 37-year-old schizophrenic who picked a fight with two strangers, slashing one in the face with a folding knife. <span class="smallcap">SLASH AND SPURN</span>, blared the front-page headline of Wednesday&rsquo;s New York <i>Daily News</i>: &ldquo;Just 1 hour after commish dismisses rash of random attacks as &lsquo;abberation,&rsquo; 10th victim in just a month is sliced on subway.&rdquo; </p>
+
+<p>Subway crimes always strike a nerve with New Yorkers. As the Hughes poem reminds us, an underground train is an intimate, shared space. There&rsquo;s no place to hide. &ldquo;The subway isn&rsquo;t Greenwich Village or Coney Island or Harlem or the South Bronx,&rdquo; said Transit Authority police chief James B. Meehan in 1981. &ldquo;The subway is all of those places . . . If a New Yorker lives in Brooklyn, he may not care about a crime that occurs in the streets in the Bronx or Queens, but if he rides the subway every day he cares very much if the same crimes occur in the subway anywhere in the city. In a real sense, the whole system is his neighborhood.&rdquo; Things got so bad in the 1980s that even MTA chief Richard Ravitch said that he wouldn&rsquo;t let his teenage sons ride the trains at night. The system lost hundreds of million riders over the course of that decade. But New York&rsquo;s reclamation of public order began in the subways. </p>
+
+<p>What&rsquo;s causing the surge in knife crimes now? Mayor Bill de Blasio&rsquo;s progressive administration insists that it has nothing to do with the highly publicized move away from <a href="http://www.city-journal.org/2012/eon0723hm.html" target="new">stop-and-frisk</a> as a crime-prevention tool. The city has never been safer, de Blasio and his supporters say, and statistically speaking that&rsquo;s true. In every major category&mdash;murders, rapes, robberies&mdash;crime remains down by massive percentages from the bad old days. Total crime <a href="http://www.nyc.gov/html/nypd/downloads/pdf/crime_statistics/cs-en-us-city.pdf" target="new">is down</a> by <i>80 percent</i> since 1990. New Yorkers, though, are savvy enough to know that statistics never tell the whole story. And they don&rsquo;t mean much when someone pulls a knife on you in the subway. </p>
+
+<p>Maybe, despite these reassuring crime numbers, the subway is becoming a more troubled space because bad guys (and the mentally ill) have gotten a message from the first two years of the de Blasio administration: go ahead and carry a knife or a gun, there&rsquo;s a new sheriff in town&mdash;but this one puts handcuffs on the cops. &ldquo;[Criminals] just don&rsquo;t fear us,&rdquo; a police officer <a href="http://observer.com/2016/02/they-just-dont-fear-us/" target="new">told</a> the <i>Observer</i>. &ldquo;They know we&rsquo;re unlikely to stop and question people acting in suspicious ways. And we&rsquo;re not. It&rsquo;s not worth getting called on the carpet and risking our livelihoods.&rdquo; </p>
+
+<p>The outbreak of subway slashings and stabbings may have as much to do with the city&rsquo;s abysmal record of dealing with the violent mentally ill as it does with policing methods. What is abundantly clear, however, is that these crimes aren&rsquo;t causeless; nor are they nothing to worry about. They are the proverbial canary in the coalmine&mdash;the first sign that things may be turning ugly, at least underground.    </p>
+
+<p class="byline"><i>Matthew Hennessey (<a href="https://twitter.com/MattHennessey" target="new">@matthennessey</a>) is an associate editor of </i>City Journal.</p>
+
+</div>
+
+
+				</div><!-- end middle col -->
+
+
+				<div id="right-col" style="width: 210px; padding: 0; background-color: #fff">
+
+					<div style="background-color: #DBE7F3;margin-bottom: 30px;padding: 8px;width: 194px;">
+
+										<div class="box" id="storytools">
+<!-- SEE NOTES -->
+
+<script type="text/javascript">
+function Start2(page) {
+OpenWin = this.open(page, "ResWindow", "toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=0,width=430,height=560,left=140,top=50");
+}
+function Start3(page) {
+OpenWin = this.open(page, "PrtWindow", "toolbar=yes,menubar=yes,location=no,scrollbars=yes,resizable=yes,width=700,height=500,left=190,top=50");
+}
+function Start4(page) {
+OpenWin = this.open(page, "Odiogo", "toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=0,width=500,height=375,left=80,top=50");
+}
+</script>
+<div style="background-color: #fff; font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 10px;padding-bottom: 4px;">
+
+<div style="padding:10px 5px 10px 8px;border-bottom: 1px dotted #dbdbdb;" class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_facebook" style="cursor:pointer;padding: 0px 8px 0px 0px;"><img src="../assets/images/Facebook-24x24.gif" style="vertical-align:middle;" alt="" /></a>
+<a class="addthis_button_twitter" style="cursor:pointer;padding: 0px 8px 0px 0px;"><img src="../assets/images/Twitter-24x24.gif" style="vertical-align:middle;" alt="" /></a>
+<a class="addthis_button_google_plusone" style="padding: 2px 8px 0px 0px;" g:plusone:size="medium" g:plusone:count="false"></a>
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=cityjournal" class="addthis_button_compact" style="color: #cc0000;padding: 2px 0px 0px 0px;"><img src="../assets/images/More-24x24.gif" style="vertical-align:middle;margin-right: 8px;" alt="" />SHARE</a>
+
+<script type="text/javascript">
+	var addthis_config = {
+		data_track_clickback: true,
+		services_exclude: 'print',
+      data_ga_property: 'UA-2478261-1', 
+      data_ga_social: true 
+	}
+	var addthis_share = {
+		templates: { twitter: '{{title}} {{url}} from @CityJournal' }
+	}
+	var addthis_brand = "City Journal";
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=cityjournal"></script>
+<!-- AddThis Button END -->
+</div>
+
+<div style="padding:8px 0 2px 14px;"><a class="addthis_button_email" style="text-decoration:none;color: rgb(204,0,0);"><img src="../assets/images/st-email.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" alt="email article" />EMAIL ARTICLE</a>
+</div>
+
+<div style="padding:2px 0 2px 14px;"><a href="javascript:Start3('../printable.php?id=12497')" style="text-decoration:none;color: rgb(204,0,0);" title="view a printer friendly version"><img src="../assets/images/st-print.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" alt="print" />PRINTER FRIENDLY</a></div>
+
+
+<div style="padding:2px 0 2px 14px;"><a href="../comments/index.php?story=12497" style="text-decoration:none;color: rgb(204,0,0);" title="comment on this article"><img src="../assets/images/st-comment.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" alt="Comment" />COMMENTS (14)</a></div>
+
+
+
+<div style="padding: 2px 0 2px 14px;color: #cc0000;">
+<a href="javascript:void(0);" onclick="resizeText(1)" id="plustext" style="font-size: 14px;" title="size text up"><img src="../assets/images/st-sizeup.png" style="margin-bottom:2px;margin-right:0px;vertical-align:middle;" alt="respond" /></a><a style="font-size: 14px;" id="minustext" onclick="resizeText(-1)" href="javascript:void(0);" title="size text down"><img src="../assets/images/st-sizedown.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" alt="respond" /></a>TEXT SIZE
+</div>
+
+<div style="padding:2px 0 2px 14px;"><a href="javascript:Start3('../printable.php?id=12497')" style="text-decoration:none;color: rgb(204,0,0);" title="translate with BabelFish"><img src="../assets/images/st-translate.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" alt="translate" />TRANSLATE</a></div>
+
+<div style="padding:2px 0 2px 14px;">
+<!-- AddThis Subscribe BEGIN -->
+<a href="http://feeds.feedburner.com/city-journal" title="Subscribe using any feed reader!" target="_blank" style="text-decoration:none;color: rgb(204,0,0);"><img src="http://www.city-journal.org/assets/images/st-rss.png" alt="Share" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" />SUBSCRIBE TO FEED</a>
+<!-- AddThis Subscribe END -->
+</div>
+
+<!--<div style="padding:2px 0 2px 14px;">
+<a href="javascript:Start4('../odiogo.php?story=12497')" style="text-decoration:none;color: rgb(204,0,0);" title="Listen to story"><img src="../assets/images/st-listen.png" style="margin-bottom:2px;margin-right:6px;vertical-align:middle;" title="Listen to this article. Powered by Odiogo.com" alt="Listen  to this article. Powered by Odiogo.com" />LISTEN</a>
+</div>-->
+</div>
+
+					</div>
+
+
+<!-- THREE MOST RECENT ARTICLES BY AUTHOR(S) see also cj_rightnav.php -->
+
+<div class="box" style="line-height: 13px;padding:3px 15px 15px 10px;margin-bottom: 20px;"><div style="padding: 6px 6px 7px 2px;"><span class="dek" style="font-style: normal;font-weight:bold; color: #666;">More by Matthew Hennessey:</span></div>
+
+<div style="padding: 2px 2px 2px 8px;"><a href="http://www.city-journal.org/2016/eon0209mh.html" style="font-family:verdana; font-size:11px;">Bloomberg&rsquo;s Opening</a></div>
+
+<div style="padding: 2px 2px 2px 8px;"><a href="http://www.city-journal.org/2015/eon1228mh.html" style="font-family:verdana; font-size:11px;">Don&rsquo;t Take Stupid Vacations</a></div>
+
+<div style="padding: 2px 2px 2px 8px;"><a href="http://www.city-journal.org/2015/eon1217mh.html" style="font-family:verdana; font-size:11px;">The Year Without Winter?</a></div>
+
+<div style="padding: 6px 2px 2px 8px;"><a href="../author_index.php?author=829" style="font-family:verdana; font-size:11px;" rel="nofollow"><i>More . . .</i></a></div>
+
+</div>					<div id="search" class="box">
+		<h2>Search:</h2>
+		<form id="cse-search-box" style="margin: 2px 0 6px;" action="http://www.city-journal.org/html/search.html">
+			<input type="hidden" value="010085638868707497598:cmoasvt_j1u" name="cx" />
+			<input type="hidden" value="FORID:10" name="cof" />
+     		<input type="hidden" value="UTF-8" name="ie" />
+			<input type="text" size="20" name="q" /><br />
+			<input type="submit" name="sa" value="Search" style="margin-top: 4px;" />
+		</form>
+
+		<div style="margin: 14px 0 0 0; overflow: hidden;">
+<!-- TOPICAL INDEX -->
+<div id="topical-index-menu">
+<script language="JavaScript" type="text/javascript">function GMFormd3be1cLink(){ if(document.GMFormd3be1c.GoMenu.options[document.GMFormd3be1c.GoMenu.selectedIndex].value != ''){ top.location.href = document.GMFormd3be1c.GoMenu.options[document.GMFormd3be1c.GoMenu.selectedIndex].value; document.GMFormd3be1c.GoMenu.selectedIndex=0; } }</script>
+<form name="GMFormd3be1c" style="margin-bottom:8px;margin-top:0px;" action="">
+<select style="font: 8pt Verdana, Arial, Helvetica, sans-serif; padding: 4px;" lang="JavaScript" onchange="GMFormd3be1cLink()" name="GoMenu">
+<option value="" selected="selected">Search by Topic:</option>
+<option value="">-------------------------------</option>
+<option value="/topical_index.php?topic=59" rel="nofollow">Advocacy Groups</option>
+<option value="/topical_index.php?topic=60" rel="nofollow">Affirmative Action</option>
+<option value="/topical_index.php?topic=1" rel="nofollow">Architecture</option>
+<option value="/topical_index.php?topic=32" rel="nofollow">Arts and Literature</option>
+<option value="/topical_index.php?topic=61" rel="nofollow">Barriers to Building</option>
+<option value="/topical_index.php?topic=62" rel="nofollow">Bilingual Education</option>
+<option value="/topical_index.php?topic=63" rel="nofollow">Business and Economy</option>
+<option value="/topical_index.php?topic=106" rel="nofollow">California</option>
+<option value="/topical_index.php?topic=31" rel="nofollow">Charter Schools</option>
+<option value="/topical_index.php?topic=30" rel="nofollow">Children and Family</option>
+<option value="/topical_index.php?topic=64" rel="nofollow">Compassionate Conservatism</option>
+<option value="/topical_index.php?topic=47" rel="nofollow">Counter-Terrorism</option>
+<option value="/topical_index.php?topic=29" rel="nofollow">Crime</option>
+<option value="/topical_index.php?topic=28" rel="nofollow">Culture and Society</option>
+<option value="/topical_index.php?topic=98" rel="nofollow">Drugs</option>
+<option value="/topical_index.php?topic=27" rel="nofollow">Economic Development</option>
+<option value="/topical_index.php?topic=26" rel="nofollow">Education</option>
+<option value="/topical_index.php?topic=48" rel="nofollow">Energy</option>
+<option value="/topical_index.php?topic=65" rel="nofollow">Environment</option>
+<option value="/topical_index.php?topic=25" rel="nofollow">Ethnicity</option>
+<option value="/topical_index.php?topic=24" rel="nofollow">Faith Based Programs</option>
+<option value="/topical_index.php?topic=66" rel="nofollow">Feminism</option>
+<option value="/topical_index.php?topic=67" rel="nofollow">Foreign Affairs</option>
+<option value="/topical_index.php?topic=23" rel="nofollow">Government Reform</option>
+<option value="/topical_index.php?topic=68" rel="nofollow">Ground Zero</option>
+<option value="/topical_index.php?topic=22" rel="nofollow">Healthcare</option>
+<option value="/topical_index.php?topic=21" rel="nofollow">Higher Education</option>
+<option value="/topical_index.php?topic=20" rel="nofollow">History</option>
+<option value="/topical_index.php?topic=36" rel="nofollow">Homeland Security</option>
+<option value="/topical_index.php?topic=19" rel="nofollow">Homelessness</option>
+<option value="/topical_index.php?topic=18" rel="nofollow">Housing and Redevelopment</option>
+<option value="/topical_index.php?topic=49" rel="nofollow">Immigration</option>
+<option value="/topical_index.php?topic=69" rel="nofollow">Islam</option>
+<option value="/topical_index.php?topic=70" rel="nofollow">Law Enforcement</option>
+<option value="/topical_index.php?topic=17" rel="nofollow">Legal Issues</option>
+<option value="/topical_index.php?topic=71" rel="nofollow">Love and Sex</option>
+<option value="/topical_index.php?topic=16" rel="nofollow">Media</option>
+<option value="/topical_index.php?topic=72" rel="nofollow">Mental Illness</option>
+<option value="/topical_index.php?topic=73" rel="nofollow">Monuments</option>
+<option value="/topical_index.php?topic=74" rel="nofollow">National Politics</option>
+<option value="/topical_index.php?topic=75" rel="nofollow">New York City</option>
+<option value="/topical_index.php?topic=76" rel="nofollow">New York State</option>
+<option value="/topical_index.php?topic=77" rel="nofollow">NYC Economy</option>
+<option value="/topical_index.php?topic=78" rel="nofollow">NYC Politics</option>
+<option value="/topical_index.php?topic=79" rel="nofollow">NYC Schools</option>
+<option value="/topical_index.php?topic=80" rel="nofollow">NYPD</option>
+<option value="/topical_index.php?topic=81" rel="nofollow">NYS Politics</option>
+<option value="/topical_index.php?topic=82" rel="nofollow">Obituaries</option>
+<option value="/topical_index.php?topic=83" rel="nofollow">Other Cities</option>
+<option value="/topical_index.php?topic=84" rel="nofollow">Parks</option>
+<option value="/topical_index.php?topic=15" rel="nofollow">Philanthropy</option>
+<option value="/topical_index.php?topic=34" rel="nofollow">Policing</option>
+<option value="/topical_index.php?topic=85" rel="nofollow">Political Correctness</option>
+<option value="/topical_index.php?topic=14" rel="nofollow">Politics</option>
+<option value="/topical_index.php?topic=86" rel="nofollow">Poverty</option>
+<option value="/topical_index.php?topic=87" rel="nofollow">Prisons</option>
+<option value="/topical_index.php?topic=13" rel="nofollow">Quality of Life</option>
+<option value="/topical_index.php?topic=99" rel="nofollow">Race</option>
+<option value="/topical_index.php?topic=100" rel="nofollow">Race and Ethnicity</option>
+<option value="/topical_index.php?topic=12" rel="nofollow">Race Issues</option>
+<option value="/topical_index.php?topic=101" rel="nofollow">Race Relations</option>
+<option value="/topical_index.php?topic=11" rel="nofollow">Regulation</option>
+<option value="/topical_index.php?topic=88" rel="nofollow">Religion</option>
+<option value="/topical_index.php?topic=10" rel="nofollow">School Curriculum and Programs</option>
+<option value="/topical_index.php?topic=89" rel="nofollow">School Discipline</option>
+<option value="/topical_index.php?topic=9" rel="nofollow">School Finance and Management</option>
+<option value="/topical_index.php?topic=3" rel="nofollow">School Vouchers</option>
+<option value="/topical_index.php?topic=8" rel="nofollow">Schools and Ethnicity</option>
+<option value="/topical_index.php?topic=90" rel="nofollow">Special Education</option>
+<option value="/topical_index.php?topic=91" rel="nofollow">Subsidized Housing</option>
+<option value="/topical_index.php?topic=7" rel="nofollow">Taxes and Budget</option>
+<option value="/topical_index.php?topic=6" rel="nofollow">Teachers Unions</option>
+<option value="/topical_index.php?topic=5" rel="nofollow">Tech and Environment</option>
+<option value="/topical_index.php?topic=92" rel="nofollow">Technology</option>
+<option value="/topical_index.php?topic=33" rel="nofollow">Telecommunications</option>
+<option value="/topical_index.php?topic=93" rel="nofollow">Terrorism</option>
+<option value="/topical_index.php?topic=35" rel="nofollow">Transportation</option>
+<option value="/topical_index.php?topic=94" rel="nofollow">Underclass</option>
+<option value="/topical_index.php?topic=95" rel="nofollow">Unions</option>
+<option value="/topical_index.php?topic=4" rel="nofollow">Urban Issues</option>
+<option value="/topical_index.php?topic=96" rel="nofollow">War on Terror</option>
+<option value="/topical_index.php?topic=2" rel="nofollow">Welfare</option>
+<option value="/topical_index.php?topic=97" rel="nofollow">WTC</option>
+
+</select>
+</form>
+</div>
+<!-- END TOPICAL INDEX -->
+<!-- ISSUE INDEX -->
+<div id="issue-index-menu">
+<script language="JavaScript" type="text/javascript">function GMFormd4be1cLink(){ if(document.GMFormd4be1c.GoMenu.options[document.GMFormd4be1c.GoMenu.selectedIndex].value != ''){ top.location.href = document.GMFormd4be1c.GoMenu.options[document.GMFormd4be1c.GoMenu.selectedIndex].value; document.GMFormd4be1c.GoMenu.selectedIndex=0; } }</script>
+<form name="GMFormd4be1c" style="margin-bottom:8px;margin-top:0px;" action="">
+<select style="font: 8pt Verdana, Arial, Helvetica, sans-serif;padding: 4px;" lang="JavaScript" onchange="GMFormd4be1cLink()" name="GoMenu"> 
+<option value="" selected="selected">Search by Issue:</option>
+<option value="">-------------------------------</option>
+<option value="/2016/issue_26_1.html">2016 Winter v26 n1</option>
+<option value="/2015/issue_25_4.html">2015 Autumn v25 n4</option>
+<option value="/2015/issue_25_3.html">2015 Summer v25 n3</option>
+<option value="/2015/issue_25_2.html">2015 Spring v25 n2</option>
+<option value="/2015/issue_25_1.html">2015 Winter v25 n1</option>
+<option value="/2014/issue_24_4.html">2014 Autumn v24 n4</option>
+<option value="/2014/issue_24_3.html">2014 Summer v24 n3</option>
+<option value="/2014/issue_24_2.html">2014 Spring v24 n2</option>
+<option value="/2014/issue_24_1.html">2014 Winter v24 n1</option>
+<option value="/2013/issue_special.html">2013 Special Issue</option>
+<option value="/2013/issue_23_4.html">2013 Autumn v23 n4</option>
+<option value="/2013/issue_23_3.html">2013 Summer v23 n3</option>
+<option value="/2013/issue_23_2.html">2013 Spring v23 n2</option>
+<option value="/2013/issue_23_1.html">2013 Winter v23 n1</option>
+<option value="/2012/issue_22_4.html">2012 Autumn v22 n4</option>
+<option value="/2012/issue_22_3.html">2012 Summer v22 n3</option>
+<option value="/2012/issue_22_2.html">2012 Spring v22 n2</option>
+<option value="/2012/issue_22_1.html">2012 Winter v22 n1</option>
+<option value="/2011/issue_21_4.html">2011 Autumn v21 n4</option>
+<option value="/2011/issue_21_3.html">2011 Summer v21 n3</option>
+<option value="/2011/issue_21_2.html">2011 Spring v21 n2</option>
+<option value="/2011/issue_21_1.html">2011 Winter v21 n1</option>
+<option value="/2010/issue_20_4.html">2010 Autumn v20 n4</option>
+<option value="/2010/issue_20_3.html">2010 Summer v20 n3</option>
+<option value="/2010/issue_20_2.html">2010 Spring v20 n2</option>
+<option value="/2010/issue_20_1.html">2010 Winter v20 n1</option>
+<option value="/2009/issue_19_4.html">2009 Autumn v19 n4</option>
+<option value="/2009/issue_19_3.html">2009 Summer v19 n3</option>
+<option value="/2009/issue_nytom.html">2009 Special Issue</option>
+<option value="/2009/issue_19_2.html">2009 Spring v19 n2</option>
+<option value="/2009/issue_19_1.html">2009 Winter v19 n1</option>
+<option value="/2008/issue_18_4.html">2008 Autumn v18 n4</option>
+<option value="/2008/issue_18_3.html">2008 Summer v18 n3</option>
+<option value="/2008/issue_18_2.html">2008 Spring v18 n2</option>
+<option value="/2008/issue_18_1.html">2008 Winter v18 n1</option>
+<option value="/html/issue_17_4.html">2007 Autumn v17 n4</option>
+<option value="/html/issue_17_3.html">2007 Summer v17 n3</option>
+<option value="/html/issue_17_2.html">2007 Spring v17 n2</option>
+<option value="/html/issue_17_1.html">2007 Winter v17 n1</option>
+<option value="/html/issue_16_4.html">2006 Autumn v16 n4</option>
+<option value="/html/issue_16_3.html">2006 Summer v16 n3</option>
+<option value="/html/issue_16_2.html">2006 Spring v16 n2</option>
+<option value="/html/issue_16_1.html">2006 Winter v16 n1</option>
+<option value="/html/issue_15_4.html">2005 Autumn v15 n4</option>
+<option value="/html/issue_15_3.html">2005 Summer v15 n3</option>
+<option value="/html/issue_15_2.html">2005 Spring v15 n2</option>
+<option value="/html/issue_15_1.html">2005 Winter v15 n1</option>
+<option value="/html/issue_14_4.html">2004 Autumn v14 n4</option>
+<option value="/html/issue_14_3.html">2004 Summer v14 n3</option>
+<option value="/html/issue_14_2.html">2004 Spring v14 n2</option>
+<option value="/html/issue_14_1.html">2004 Winter v14 n1</option>
+<option value="/html/issue_13_4.html">2003 Autumn v13 n4</option>
+<option value="/html/issue_13_3.html">2003 Summer v13 n3</option>
+<option value="/html/issue_13_2.html">2003 Spring v13 n2</option>
+<option value="/html/issue_13_1.html">2003 Winter v13 n1</option>
+<option value="/html/issue_12_4.html">2002 Autumn v12 n4</option>
+<option value="/html/issue_12_3.html">2002 Summer v12 n3</option>
+<option value="/html/issue_12_2.html">2002 Spring v12 n2</option>
+<option value="/html/issue_12_1.html">2002 Winter v12 n1</option>
+<option value="/html/issue_11_4.html">2001 Autumn v11 n4</option>
+<option value="/html/issue_11_3.html">2001 Summer v11 n3</option>
+<option value="/html/issue_11_2.html">2001 Spring v11 n2</option>
+<option value="/html/issue_11_1.html">2001 Winter v11 n1</option>
+<option value="/html/issue10_4.html">2000 Autumn v10 n4</option>
+<option value="/html/issue10_3.html">2000 Summer v10 n3</option>
+<option value="/html/issue10_2.html">2000 Spring v10 n2</option>
+<option value="/html/issue10_1.html">2000 Winter v10 n1</option>
+<option value="/html/issue9_4.html">1999 Autumn v9 n4</option>
+<option value="/html/issue9_3.html">1999 Summer v9 n3</option>
+<option value="/html/issue9_2.html">1999 Spring v9 n2</option>
+<option value="/html/issue9_1.html">1999 Winter v9 n1</option>
+<option value="/html/issue8_4.html">1998 Autumn v8 n4</option>
+<option value="/html/issue8_3.html">1998 Summer v8 n3</option>
+<option value="/html/issue8_2.html">1998 Spring v8 n2</option>
+<option value="/html/issue8_1.html">1998 Winter v8 n1</option>
+<option value="/html/issue7_4.html">1997 Autumn v7 n4</option>
+<option value="/html/issue7_3.html">1997 Summer v7 n3</option>
+<option value="/html/issue7_2.html">1997 Spring v7 n2</option>
+<option value="/html/issue7_1.html">1997 Winter v7 n1</option>
+<option value="/html/issue6_4.html">1996 Autumn v6 n4</option>
+<option value="/html/issue6_3.html">1996 Summer v6 n3</option>
+<option value="/html/issue6_2.html">1996 Spring v6 n2</option>
+<option value="/html/issue6_1.html">1996 Winter v6 n1</option>
+<option value="/html/issue5_4.html">1995 Autumn v5 n4</option>
+<option value="/html/issue5_3.html">1995 Summer v5 n3</option>
+<option value="/html/issue5_2.html">1995 Spring v5 n2</option>
+<option value="/html/issue5_1.html">1995 Winter v5 n1</option>
+<option value="/html/issue4_4.html">1994 Autumn v4 n4</option>
+<option value="/html/issue4_3.html">1994 Summer v4 n3</option>
+<option value="/html/issue4_2.html">1994 Spring v4 n2</option>
+<option value="/html/issue4_1.html">1994 Winter v4 n1</option>
+<option value="/html/issue3_4.html">1993 Autumn v3 n4</option>
+<option value="/html/issue3_3.html">1993 Summer v3 n3</option>
+<option value="/html/issue3_2.html">1993 Spring v3 n2</option>
+<option value="/html/issue3_1.html">1993 Winter v3 n1</option>
+<option value="/html/issue2_4.html">1992 Autumn v2 n4</option>
+<option value="/html/issue2_3.html">1992 Summer v2 n3</option>
+<option value="/html/issue2_2.html">1992 Spring v2 n2</option>
+<option value="/html/issue2_1.html">1992 Winter v2 n1</option>
+<option value="/html/issue1_5.html">1991 Autumn v1 n5</option>
+<option value="/html/issue1_4.html">1991 Summer v1 n4</option>
+<option value="/html/issue1_3.html">1991 Spring v1 n3</option>
+<option value="/html/issue1_2.html">1991 Winter v1 n2</option>
+<option value="/html/issue1_1.html">1990 Autumn v1 n1</option>
+
+</select>
+</form>
+</div>
+<!-- END ISSUE INDEX -->
+<!-- AUTHOR INDEX -->
+<div id="author-index-menu">
+<script language="JavaScript" type="text/javascript">function GMFormd2be1cLink(){ if(document.GMFormd2be1c.GoMenu.options[document.GMFormd2be1c.GoMenu.selectedIndex].value != ''){ top.location.href = document.GMFormd2be1c.GoMenu.options[document.GMFormd2be1c.GoMenu.selectedIndex].value; document.GMFormd2be1c.GoMenu.selectedIndex=0; } }</script>
+<form name="GMFormd2be1c" style="margin-bottom:8px;margin-top:0px;" action="">
+<select style="font: 8pt Verdana, Arial, Helvetica, sans-serif;padding: 4px;" lang="JavaScript" onchange="GMFormd2be1cLink()" name="GoMenu"> 
+<option value="" selected="selected">Search by Author:</option>
+<option value="">-------------------------------</option>
+
+	<option value="/author_index.php?author=722" rel="nofollow">Abadi, Cameron</option>
+	<option value="/author_index.php?author=2" rel="nofollow">Abraham, Spencer</option>
+	<option value="/author_index.php?author=385" rel="nofollow">Ackerman, Ray</option>
+	<option value="/author_index.php?author=3" rel="nofollow">Adam, Robert</option>
+	<option value="/author_index.php?author=904" rel="nofollow">Adams, Ian</option>
+	<option value="/author_index.php?author=782" rel="nofollow">Ahmari, Sohrab</option>
+	<option value="/author_index.php?author=832" rel="nofollow">Alesina, Alberto</option>
+	<option value="/author_index.php?author=4" rel="nofollow">Allen, Brooke</option>
+	<option value="/author_index.php?author=5" rel="nofollow">Allen, Charlotte</option>
+	<option value="/author_index.php?author=6" rel="nofollow">Anderson, Brian C.</option>
+	<option value="/author_index.php?author=7" rel="nofollow">Andrews, William</option>
+	<option value="/author_index.php?author=8" rel="nofollow">Anemone, Louis</option>
+	<option value="/author_index.php?author=701" rel="nofollow">Anton, Michael</option>
+	<option value="/author_index.php?author=313" rel="nofollow">Antongiavanni, Nicholas</option>
+	<option value="/author_index.php?author=705" rel="nofollow">Apostolou, Andrew</option>
+	<option value="/author_index.php?author=11" rel="nofollow">Arkin, Marc</option>
+	<option value="/author_index.php?author=893" rel="nofollow">Armlovich, Alex</option>
+	<option value="/author_index.php?author=874" rel="nofollow">Armstrong, John</option>
+	<option value="/author_index.php?author=881" rel="nofollow">Arredondo, Colette </option>
+	<option value="/author_index.php?author=947" rel="nofollow">Asness, Clifford S. </option>
+	<option value="/author_index.php?author=13" rel="nofollow">Atamian, Christopher</option>
+	<option value="/author_index.php?author=945" rel="nofollow">Auslin, Michael</option>
+	<option value="/author_index.php?author=238" rel="nofollow">Austin, D. Andrew</option>
+	<option value="/author_index.php?author=635" rel="nofollow">Avlon, John P.</option>
+	<option value="/author_index.php?author=367" rel="nofollow">Badillo, Herman</option>
+	<option value="/author_index.php?author=636" rel="nofollow">Barbash, Shepard</option>
+	<option value="/author_index.php?author=16" rel="nofollow">Barnes, John A.</option>
+	<option value="/author_index.php?author=928" rel="nofollow">Baron, Joanna</option>
+	<option value="/author_index.php?author=699" rel="nofollow">Barro, Josh</option>
+	<option value="/author_index.php?author=878" rel="nofollow">Barron, Seth </option>
+	<option value="/author_index.php?author=933" rel="nofollow">Bates, Suzanne</option>
+	<option value="/author_index.php?author=750" rel="nofollow">Baudet, Thierry</option>
+	<option value="/author_index.php?author=576" rel="nofollow">Bawer, Bruce</option>
+	<option value="/author_index.php?author=758" rel="nofollow">Beck, Charlie</option>
+	<option value="/author_index.php?author=445" rel="nofollow">Begun, Martin</option>
+	<option value="/author_index.php?author=821" rel="nofollow">Bellin, Judah</option>
+	<option value="/author_index.php?author=428" rel="nofollow">Bender, Bruce</option>
+	<option value="/author_index.php?author=431" rel="nofollow">Bendiner, Robert</option>
+	<option value="/author_index.php?author=305" rel="nofollow">Beran, Michael Knox</option>
+	<option value="/author_index.php?author=318" rel="nofollow">Berger, Stephen</option>
+	<option value="/author_index.php?author=638" rel="nofollow">Berlinski, Claire</option>
+	<option value="/author_index.php?author=735" rel="nofollow">Berman, Paul</option>
+	<option value="/author_index.php?author=739" rel="nofollow">Bernhard, Brendan</option>
+	<option value="/author_index.php?author=22" rel="nofollow">Bertsch, Jason</option>
+	<option value="/author_index.php?author=561" rel="nofollow">Beston, Paul</option>
+	<option value="/author_index.php?author=390" rel="nofollow">Betanzos, Amalia</option>
+	<option value="/author_index.php?author=856" rel="nofollow">Beyer, Scott</option>
+	<option value="/author_index.php?author=884" rel="nofollow">Bhide, Amar</option>
+	<option value="/author_index.php?author=494" rel="nofollow">Bidinotto, Robert James</option>
+	<option value="/author_index.php?author=412" rel="nofollow">Biederman, Daniel</option>
+	<option value="/author_index.php?author=440" rel="nofollow">Biller, Aaron</option>
+	<option value="/author_index.php?author=655" rel="nofollow">Billet, David</option>
+	<option value="/author_index.php?author=792" rel="nofollow">Billingsley, Lloyd</option>
+	<option value="/author_index.php?author=961" rel="nofollow">Black, David</option>
+	<option value="/author_index.php?author=831" rel="nofollow">Blecker, Robert</option>
+	<option value="/author_index.php?author=449" rel="nofollow">Blohm, Marilyn</option>
+	<option value="/author_index.php?author=25" rel="nofollow">Boot, Max</option>
+	<option value="/author_index.php?author=497" rel="nofollow">Bork, Charles</option>
+	<option value="/author_index.php?author=26" rel="nofollow">Bovard, James</option>
+	<option value="/author_index.php?author=719" rel="nofollow">Boychuk, Ben</option>
+	<option value="/author_index.php?author=649" rel="nofollow">Boyle, Brendan</option>
+	<option value="/author_index.php?author=363" rel="nofollow">Boyles, Denis</option>
+	<option value="/author_index.php?author=868" rel="nofollow">Brabyn, Photographs by David</option>
+	<option value="/author_index.php?author=942" rel="nofollow">Brannon, Ike</option>
+	<option value="/author_index.php?author=27" rel="nofollow">Bratton, William J.</option>
+	<option value="/author_index.php?author=409" rel="nofollow">Brooke-Hitchins, Harley</option>
+	<option value="/author_index.php?author=29" rel="nofollow">Brookhiser, Richard</option>
+	<option value="/author_index.php?author=575" rel="nofollow">Brooks, Arthur C.</option>
+	<option value="/author_index.php?author=30" rel="nofollow">Brooks, David</option>
+	<option value="/author_index.php?author=733" rel="nofollow">Bruckner, Pascal</option>
+	<option value="/author_index.php?author=565" rel="nofollow">Brunie, Charles H.</option>
+	<option value="/author_index.php?author=438" rel="nofollow">Bruno, Joseph L.</option>
+	<option value="/author_index.php?author=720" rel="nofollow">Bryce, Robert</option>
+	<option value="/author_index.php?author=841" rel="nofollow">Buntin, John</option>
+	<option value="/author_index.php?author=839" rel="nofollow">Burnett, Guy F.</option>
+	<option value="/author_index.php?author=572" rel="nofollow">Butcher, Jonathan</option>
+	<option value="/author_index.php?author=949" rel="nofollow">Buttaro, Andrew</option>
+	<option value="/author_index.php?author=387" rel="nofollow">Cadou, Bettie</option>
+	<option value="/author_index.php?author=762" rel="nofollow">Calle, Brian</option>
+	<option value="/author_index.php?author=890" rel="nofollow">Cannato, Vincent J.</option>
+	<option value="/author_index.php?author=888" rel="nofollow">Canto-Sperber, Monique</option>
+	<option value="/author_index.php?author=470" rel="nofollow">Cantwell, Mary</option>
+	<option value="/author_index.php?author=33" rel="nofollow">Carlson, Tucker</option>
+	<option value="/author_index.php?author=714" rel="nofollow">Carpenter, Dick</option>
+	<option value="/author_index.php?author=559" rel="nofollow">Carr, Matthew</option>
+	<option value="/author_index.php?author=34" rel="nofollow">Carroll, Thomas W.</option>
+	<option value="/author_index.php?author=35" rel="nofollow">Carroll, Vincent</option>
+	<option value="/author_index.php?author=926" rel="nofollow">Cass, Oren</option>
+	<option value="/author_index.php?author=240" rel="nofollow">Castro, David</option>
+	<option value="/author_index.php?author=721" rel="nofollow">Cavalli, Dimitri</option>
+	<option value="/author_index.php?author=844" rel="nofollow">Cavanaugh, Tim</option>
+	<option value="/author_index.php?author=870" rel="nofollow">Chatfield, Tom</option>
+	<option value="/author_index.php?author=952" rel="nofollow">Chati, Nicole</option>
+	<option value="/author_index.php?author=36" rel="nofollow">Chavez, Linda</option>
+	<option value="/author_index.php?author=937" rel="nofollow">Cherry, Robert</option>
+	<option value="/author_index.php?author=596" rel="nofollow">Chesler, Phyllis</option>
+	<option value="/author_index.php?author=811" rel="nofollow">Chieppo, Charles</option>
+	<option value="/author_index.php?author=498" rel="nofollow">Chubb, John</option>
+	<option value="/author_index.php?author=724" rel="nofollow">Clausen, Christopher</option>
+	<option value="/author_index.php?author=299" rel="nofollow">Clavel, Matthew</option>
+	<option value="/author_index.php?author=835" rel="nofollow">Clayfield, Matthew</option>
+	<option value="/author_index.php?author=241" rel="nofollow">Coats, Dan</option>
+	<option value="/author_index.php?author=675" rel="nofollow">Coburn, Tom</option>
+	<option value="/author_index.php?author=899" rel="nofollow">Cohen, Rory</option>
+	<option value="/author_index.php?author=688" rel="nofollow">Cohen, Steve</option>
+	<option value="/author_index.php?author=474" rel="nofollow">Cohn, Jules</option>
+	<option value="/author_index.php?author=738" rel="nofollow">Cole, Ryan L.</option>
+	<option value="/author_index.php?author=38" rel="nofollow">Coles, Anthony P.</option>
+	<option value="/author_index.php?author=39" rel="nofollow">Colt, Suzanne K.</option>
+	<option value="/author_index.php?author=40" rel="nofollow">Colvin, Geoffrey</option>
+	<option value="/author_index.php?author=671" rel="nofollow">Congdon, Tim</option>
+	<option value="/author_index.php?author=41" rel="nofollow">Conner, Roger</option>
+	<option value="/author_index.php?author=526" rel="nofollow">Connors, Tim</option>
+	<option value="/author_index.php?author=391" rel="nofollow">Cooper, Bruce</option>
+	<option value="/author_index.php?author=502" rel="nofollow">Copland, James R.</option>
+	<option value="/author_index.php?author=406" rel="nofollow">Cornuelle, Richard</option>
+	<option value="/author_index.php?author=382" rel="nofollow">Costikyan, Edward N.</option>
+	<option value="/author_index.php?author=602" rel="nofollow">Coulson, Andrew J.</option>
+	<option value="/author_index.php?author=42" rel="nofollow">Cove, Peter</option>
+	<option value="/author_index.php?author=43" rel="nofollow">Cowin, Andrew J.</option>
+	<option value="/author_index.php?author=686" rel="nofollow">Cox, Wendell</option>
+	<option value="/author_index.php?author=44" rel="nofollow">Craig, Edward John</option>
+	<option value="/author_index.php?author=45" rel="nofollow">Craig, Stephen G.</option>
+	<option value="/author_index.php?author=692" rel="nofollow">Crespo, Alphonse</option>
+	<option value="/author_index.php?author=403" rel="nofollow">Crouch, Stanley</option>
+	<option value="/author_index.php?author=490" rel="nofollow">Crovitz, L. Gordon</option>
+	<option value="/author_index.php?author=495" rel="nofollow">Cunningham, Mark</option>
+	<option value="/author_index.php?author=767" rel="nofollow">Cunningham, Matthew</option>
+	<option value="/author_index.php?author=46" rel="nofollow">Daley, Janet</option>
+	<option value="/author_index.php?author=772" rel="nofollow">Dalmia, Shikha</option>
+	<option value="/author_index.php?author=47" rel="nofollow">Dalrymple, Theodore</option>
+	<option value="/author_index.php?author=897" rel="nofollow">Darwall, Rupert</option>
+	<option value="/author_index.php?author=656" rel="nofollow">Davis, Michael</option>
+	<option value="/author_index.php?author=670" rel="nofollow">de Botton, Alain</option>
+	<option value="/author_index.php?author=49" rel="nofollow">deFiebre, Conrad</option>
+	<option value="/author_index.php?author=50" rel="nofollow">Demaree, Allan T.</option>
+	<option value="/author_index.php?author=51" rel="nofollow">DeRussy, Candace</option>
+	<option value="/author_index.php?author=658" rel="nofollow">DesRosiers, David</option>
+	<option value="/author_index.php?author=52" rel="nofollow">Dhondy, Farrukh</option>
+	<option value="/author_index.php?author=53" rel="nofollow">Diamond, Joe</option>
+	<option value="/author_index.php?author=384" rel="nofollow">Dickens, Charles</option>
+	<option value="/author_index.php?author=54" rel="nofollow">DiIulio, Jr., John J.</option>
+	<option value="/author_index.php?author=693" rel="nofollow">DiSalvo, Daniel</option>
+	<option value="/author_index.php?author=927" rel="nofollow">Doar, Robert</option>
+	<option value="/author_index.php?author=292" rel="nofollow">Dockery, Matthew J.</option>
+	<option value="/author_index.php?author=281" rel="nofollow">Domanico, Raymond</option>
+	<option value="/author_index.php?author=828" rel="nofollow">Domenech, Benjamin</option>
+	<option value="/author_index.php?author=796" rel="nofollow">Domitrovic, Brian</option>
+	<option value="/author_index.php?author=632" rel="nofollow">Donnelly, Kevin</option>
+	<option value="/author_index.php?author=473" rel="nofollow">Donohue, William A.</option>
+	<option value="/author_index.php?author=555" rel="nofollow">Dreher, Rod</option>
+	<option value="/author_index.php?author=778" rel="nofollow">Dunphy, Jack</option>
+	<option value="/author_index.php?author=763" rel="nofollow">Eastman, John C.</option>
+	<option value="/author_index.php?author=503" rel="nofollow">Eddy, R. P.</option>
+	<option value="/author_index.php?author=487" rel="nofollow">Editors, The</option>
+	<option value="/author_index.php?author=774" rel="nofollow">Eha, Brian Patrick</option>
+	<option value="/author_index.php?author=476" rel="nofollow">Ehrenhalt, Alan</option>
+	<option value="/author_index.php?author=819" rel="nofollow">Eide, Stephen</option>
+	<option value="/author_index.php?author=243" rel="nofollow">Eimicke, William</option>
+	<option value="/author_index.php?author=917" rel="nofollow">Einspruch, Franklin</option>
+	<option value="/author_index.php?author=402" rel="nofollow">Eisland, June</option>
+	<option value="/author_index.php?author=393" rel="nofollow">Elwell, John</option>
+	<option value="/author_index.php?author=604" rel="nofollow">Enlow, Robert</option>
+	<option value="/author_index.php?author=697" rel="nofollow">Epstein, Edward Jay</option>
+	<option value="/author_index.php?author=757" rel="nofollow">Epstein, Ethan</option>
+	<option value="/author_index.php?author=566" rel="nofollow">Epstein, Marc</option>
+	<option value="/author_index.php?author=822" rel="nofollow">Eriksen, Jens-Martin</option>
+	<option value="/author_index.php?author=520" rel="nofollow">Ernst, Katherine</option>
+	<option value="/author_index.php?author=59" rel="nofollow">Etzioni, Amitai</option>
+	<option value="/author_index.php?author=826" rel="nofollow">Evers, Bill</option>
+	<option value="/author_index.php?author=929" rel="nofollow">Ezrati, Milton</option>
+	<option value="/author_index.php?author=465" rel="nofollow">Fallon, Beth</option>
+	<option value="/author_index.php?author=522" rel="nofollow">Feser, Edward</option>
+	<option value="/author_index.php?author=834" rel="nofollow">Feyman, Yevgeniy</option>
+	<option value="/author_index.php?author=397" rel="nofollow">Fielden, Edward</option>
+	<option value="/author_index.php?author=457" rel="nofollow">Filer, Randall K.</option>
+	<option value="/author_index.php?author=289" rel="nofollow">Finkelstein, Daniel</option>
+	<option value="/author_index.php?author=60" rel="nofollow">Fischel, William A.</option>
+	<option value="/author_index.php?author=416" rel="nofollow">Fitzgerald, F. Scott</option>
+	<option value="/author_index.php?author=415" rel="nofollow">Fitzgerald, Zelda</option>
+	<option value="/author_index.php?author=694" rel="nofollow">Fleisher, Adam</option>
+	<option value="/author_index.php?author=726" rel="nofollow">Fleming, John V.</option>
+	<option value="/author_index.php?author=354" rel="nofollow">Fliegel, Seymour</option>
+	<option value="/author_index.php?author=617" rel="nofollow">Flynn, Daniel J.</option>
+	<option value="/author_index.php?author=61" rel="nofollow">Foreman, Jonathan</option>
+	<option value="/author_index.php?author=274" rel="nofollow">Franck, Michael</option>
+	<option value="/author_index.php?author=514" rel="nofollow">Franck Lohsen McCrery, </option>
+	<option value="/author_index.php?author=838" rel="nofollow">Freedman, Adam</option>
+	<option value="/author_index.php?author=622" rel="nofollow">Freedman, Daniel</option>
+	<option value="/author_index.php?author=741" rel="nofollow">Friedersdorf, Conor</option>
+	<option value="/author_index.php?author=417" rel="nofollow">Frigand, Sid</option>
+	<option value="/author_index.php?author=818" rel="nofollow">Frisk, David B.</option>
+	<option value="/author_index.php?author=454" rel="nofollow">Fuchs, Ester R.</option>
+	<option value="/author_index.php?author=743" rel="nofollow">Fuller, Brandon</option>
+	<option value="/author_index.php?author=510" rel="nofollow">Fund, John</option>
+	<option value="/author_index.php?author=650" rel="nofollow">Furchtgott-Roth, Diana</option>
+	<option value="/author_index.php?author=63" rel="nofollow">Gallagher, Maggie</option>
+	<option value="/author_index.php?author=448" rel="nofollow">Garaufis, Nicholas</option>
+	<option value="/author_index.php?author=549" rel="nofollow">Garibaldi, Gerry</option>
+	<option value="/author_index.php?author=812" rel="nofollow">Gass, Jamie</option>
+	<option value="/author_index.php?author=896" rel="nofollow">Gattis, Tory</option>
+	<option value="/author_index.php?author=608" rel="nofollow">Geisel, Christopher D.</option>
+	<option value="/author_index.php?author=64" rel="nofollow">Gelernter, David</option>
+	<option value="/author_index.php?author=519" rel="nofollow">Gelinas, Nicole</option>
+	<option value="/author_index.php?author=392" rel="nofollow">Genn, Colman</option>
+	<option value="/author_index.php?author=471" rel="nofollow">George, Robert P.</option>
+	<option value="/author_index.php?author=65" rel="nofollow">Georgia, Paul</option>
+	<option value="/author_index.php?author=66" rel="nofollow">Gilder, George</option>
+	<option value="/author_index.php?author=67" rel="nofollow">Gilder, Richard</option>
+	<option value="/author_index.php?author=68" rel="nofollow">Giuliani, Rudolph W.</option>
+	<option value="/author_index.php?author=70" rel="nofollow">Glaeser, Edward L.</option>
+	<option value="/author_index.php?author=421" rel="nofollow">Glastris, Paul</option>
+	<option value="/author_index.php?author=71" rel="nofollow">Glazer, Nathan</option>
+	<option value="/author_index.php?author=707" rel="nofollow">Glazov, Jamie</option>
+	<option value="/author_index.php?author=324" rel="nofollow">Glick, Adam P.</option>
+	<option value="/author_index.php?author=587" rel="nofollow">Glucksmann, Andr&eacute;</option>
+	<option value="/author_index.php?author=446" rel="nofollow">Golden, Howard</option>
+	<option value="/author_index.php?author=74" rel="nofollow">Goldsmith, Stephen</option>
+	<option value="/author_index.php?author=953" rel="nofollow">Goldwyn, Eric</option>
+	<option value="/author_index.php?author=930" rel="nofollow">Grabar, Mary</option>
+	<option value="/author_index.php?author=645" rel="nofollow">Graham, Ruth</option>
+	<option value="/author_index.php?author=837" rel="nofollow">Gratz, Jennifer</option>
+	<option value="/author_index.php?author=501" rel="nofollow">Gratzer, David</option>
+	<option value="/author_index.php?author=297" rel="nofollow">Gray, Christopher</option>
+	<option value="/author_index.php?author=770" rel="nofollow">Gray, Tom</option>
+	<option value="/author_index.php?author=813" rel="nofollow">Greenberg, Allan</option>
+	<option value="/author_index.php?author=439" rel="nofollow">Greenberg, Keith Elliot</option>
+	<option value="/author_index.php?author=78" rel="nofollow">Greene, Jay P.</option>
+	<option value="/author_index.php?author=704" rel="nofollow">Greenhut, Steven</option>
+	<option value="/author_index.php?author=618" rel="nofollow">Greenwald, Richard</option>
+	<option value="/author_index.php?author=419" rel="nofollow">Grinker, William</option>
+	<option value="/author_index.php?author=806" rel="nofollow">Groseclose, Tim</option>
+	<option value="/author_index.php?author=80" rel="nofollow">Gruen, Michael S.</option>
+	<option value="/author_index.php?author=607" rel="nofollow">Gryphon, Marie</option>
+	<option value="/author_index.php?author=442" rel="nofollow">Gunther, Charles</option>
+	<option value="/author_index.php?author=81" rel="nofollow">Gutmann, Stephanie</option>
+	<option value="/author_index.php?author=729" rel="nofollow">Hallen, Jay</option>
+	<option value="/author_index.php?author=82" rel="nofollow">Hanson, Victor Davis</option>
+	<option value="/author_index.php?author=83" rel="nofollow">Harnett, Patrick J.</option>
+	<option value="/author_index.php?author=84" rel="nofollow">Harrington, Scott</option>
+	<option value="/author_index.php?author=580" rel="nofollow">Harris, Lee</option>
+	<option value="/author_index.php?author=745" rel="nofollow">Hart, Oliver</option>
+	<option value="/author_index.php?author=931" rel="nofollow">Hartley, Jon</option>
+	<option value="/author_index.php?author=434" rel="nofollow">Hawes, Elizabeth</option>
+	<option value="/author_index.php?author=646" rel="nofollow">Hay, William Anthony</option>
+	<option value="/author_index.php?author=854" rel="nofollow">Hayward, Steven F.</option>
+	<option value="/author_index.php?author=282" rel="nofollow">Hazlett, Thomas W.</option>
+	<option value="/author_index.php?author=410" rel="nofollow">Heinemann, H. Erich</option>
+	<option value="/author_index.php?author=87" rel="nofollow">Hellman, Peter</option>
+	<option value="/author_index.php?author=760" rel="nofollow">Henderson, David R.</option>
+	<option value="/author_index.php?author=616" rel="nofollow">Hendrickson, Kimberly</option>
+	<option value="/author_index.php?author=935" rel="nofollow">Hendrix, Michael</option>
+	<option value="/author_index.php?author=829" rel="nofollow">Hennessey, Matthew</option>
+	<option value="/author_index.php?author=955" rel="nofollow">Hernroth-Rothstein, Annika</option>
+	<option value="/author_index.php?author=680" rel="nofollow">Hessler, Stephanie</option>
+	<option value="/author_index.php?author=755" rel="nofollow">Hicks, Joe R.</option>
+	<option value="/author_index.php?author=606" rel="nofollow">Hirsch, Jr., E. D.</option>
+	<option value="/author_index.php?author=88" rel="nofollow">Hirschfeld, Thomas P.</option>
+	<option value="/author_index.php?author=483" rel="nofollow">Hirsh, Dennis</option>
+	<option value="/author_index.php?author=554" rel="nofollow">Hitchens, Christopher</option>
+	<option value="/author_index.php?author=753" rel="nofollow">Hoefer, Tim</option>
+	<option value="/author_index.php?author=89" rel="nofollow">Hollander, Anne</option>
+	<option value="/author_index.php?author=568" rel="nofollow">Hollander, Paul</option>
+	<option value="/author_index.php?author=560" rel="nofollow">Holley, Marc</option>
+	<option value="/author_index.php?author=677" rel="nofollow">Holtz-Eakin, Douglas</option>
+	<option value="/author_index.php?author=388" rel="nofollow">Hood, Clifton</option>
+	<option value="/author_index.php?author=592" rel="nofollow">Horowitz, David</option>
+	<option value="/author_index.php?author=249" rel="nofollow">Horowitz, Michael</option>
+	<option value="/author_index.php?author=542" rel="nofollow">Howard, Paul</option>
+	<option value="/author_index.php?author=541" rel="nofollow">Howard, Philip K.</option>
+	<option value="/author_index.php?author=781" rel="nofollow">Hrabe, John</option>
+	<option value="/author_index.php?author=90" rel="nofollow">Huber, Peter W.</option>
+	<option value="/author_index.php?author=92" rel="nofollow">Husock, Howard</option>
+	<option value="/author_index.php?author=93" rel="nofollow">Hymowitz, Kay S.</option>
+	<option value="/author_index.php?author=94" rel="nofollow">Iannone, Carol</option>
+	<option value="/author_index.php?author=95" rel="nofollow">Isikoff, Erin</option>
+	<option value="/author_index.php?author=485" rel="nofollow">Jacobs, James B.</option>
+	<option value="/author_index.php?author=583" rel="nofollow">Jacobs, Joanne</option>
+	<option value="/author_index.php?author=749" rel="nofollow">Jacobs, Laura</option>
+	<option value="/author_index.php?author=273" rel="nofollow">Jacoby, Jeff</option>
+	<option value="/author_index.php?author=96" rel="nofollow">Jacoby, Tamar</option>
+	<option value="/author_index.php?author=751" rel="nofollow">Jaffe, D. J.</option>
+	<option value="/author_index.php?author=777" rel="nofollow">James, Kevin</option>
+	<option value="/author_index.php?author=550" rel="nofollow">Janko, Edmund</option>
+	<option value="/author_index.php?author=827" rel="nofollow">Janowski, Zachary</option>
+	<option value="/author_index.php?author=727" rel="nofollow">Johnson, Charles C.</option>
+	<option value="/author_index.php?author=773" rel="nofollow">Johnson, Daniel</option>
+	<option value="/author_index.php?author=940" rel="nofollow">Johnson, Scott W.</option>
+	<option value="/author_index.php?author=458" rel="nofollow">Judd, Peter</option>
+	<option value="/author_index.php?author=681" rel="nofollow">Julian, Liam</option>
+	<option value="/author_index.php?author=319" rel="nofollow">Kagann, Stephen</option>
+	<option value="/author_index.php?author=477" rel="nofollow">Kamarck, Elaine</option>
+	<option value="/author_index.php?author=99" rel="nofollow">Kanfer, Stefan</option>
+	<option value="/author_index.php?author=747" rel="nofollow">Kaplan, Johanna</option>
+	<option value="/author_index.php?author=295" rel="nofollow">Kaplowitz, Joshua</option>
+	<option value="/author_index.php?author=418" rel="nofollow">Kasinitz, Philip</option>
+	<option value="/author_index.php?author=251" rel="nofollow">Kass, Jody</option>
+	<option value="/author_index.php?author=500" rel="nofollow">Kasson, John F.</option>
+	<option value="/author_index.php?author=435" rel="nofollow">Kaus, Mickey</option>
+	<option value="/author_index.php?author=456" rel="nofollow">Kean, Patricia</option>
+	<option value="/author_index.php?author=467" rel="nofollow">Keating, Raymond</option>
+	<option value="/author_index.php?author=101" rel="nofollow">Keegan, Lisa Graham</option>
+	<option value="/author_index.php?author=102" rel="nofollow">Kekes, John</option>
+	<option value="/author_index.php?author=103" rel="nofollow">Kelling, George L.</option>
+	<option value="/author_index.php?author=833" rel="nofollow">Kennedy, Sean</option>
+	<option value="/author_index.php?author=105" rel="nofollow">Kerik, Bernard B.</option>
+	<option value="/author_index.php?author=784" rel="nofollow">Kesler, Bruce</option>
+	<option value="/author_index.php?author=642" rel="nofollow">Key, Harrison Scott</option>
+	<option value="/author_index.php?author=712" rel="nofollow">Kiechel, Conrad</option>
+	<option value="/author_index.php?author=106" rel="nofollow">Kimball, Roger</option>
+	<option value="/author_index.php?author=304" rel="nofollow">King, Marjorie</option>
+	<option value="/author_index.php?author=322" rel="nofollow">King, Nicholas</option>
+	<option value="/author_index.php?author=586" rel="nofollow">Kirchick, James</option>
+	<option value="/author_index.php?author=954" rel="nofollow">Kirkpatrick, Melanie</option>
+	<option value="/author_index.php?author=639" rel="nofollow">Kirsch, Adam</option>
+	<option value="/author_index.php?author=571" rel="nofollow">Kisida, Brian</option>
+	<option value="/author_index.php?author=527" rel="nofollow">Klavan, Andrew</option>
+	<option value="/author_index.php?author=429" rel="nofollow">Klein, Amy</option>
+	<option value="/author_index.php?author=478" rel="nofollow">Klein, Joe</option>
+	<option value="/author_index.php?author=108" rel="nofollow">Klein, Maury</option>
+	<option value="/author_index.php?author=799" rel="nofollow">Klowden, Kevin</option>
+	<option value="/author_index.php?author=109" rel="nofollow">Kontorovich, Eugene</option>
+	<option value="/author_index.php?author=110" rel="nofollow">Kotkin, Joel</option>
+	<option value="/author_index.php?author=111" rel="nofollow">Kramer, Hilton</option>
+	<option value="/author_index.php?author=112" rel="nofollow">Kramer, Rita</option>
+	<option value="/author_index.php?author=113" rel="nofollow">Krikorian, Mark</option>
+	<option value="/author_index.php?author=491" rel="nofollow">Kudlow, Lawrence</option>
+	<option value="/author_index.php?author=296" rel="nofollow">Kurtz, Stanley</option>
+	<option value="/author_index.php?author=605" rel="nofollow">Ladner, Matthew</option>
+	<option value="/author_index.php?author=794" rel="nofollow">Laffer, Arthur B.</option>
+	<option value="/author_index.php?author=115" rel="nofollow">LaGrasse, Carol W.</option>
+	<option value="/author_index.php?author=591" rel="nofollow">Laksin, Jacob</option>
+	<option value="/author_index.php?author=887" rel="nofollow">Lane, Charles</option>
+	<option value="/author_index.php?author=116" rel="nofollow">Lane, Eric</option>
+	<option value="/author_index.php?author=946" rel="nofollow">Latzer, Barry</option>
+	<option value="/author_index.php?author=613" rel="nofollow">Lawler, Peter</option>
+	<option value="/author_index.php?author=866" rel="nofollow">Leaf, Jonathan</option>
+	<option value="/author_index.php?author=633" rel="nofollow">Lebl, Leslie S.</option>
+	<option value="/author_index.php?author=756" rel="nofollow">Lehrer, David A.</option>
+	<option value="/author_index.php?author=615" rel="nofollow">Leigh, Catesby</option>
+	<option value="/author_index.php?author=475" rel="nofollow">Lejeune, Anthony</option>
+	<option value="/author_index.php?author=119" rel="nofollow">Leo, John</option>
+	<option value="/author_index.php?author=789" rel="nofollow">Levin, John-Clark</option>
+	<option value="/author_index.php?author=121" rel="nofollow">Lindsey, Lawrence B.</option>
+	<option value="/author_index.php?author=122" rel="nofollow">Lochhead, Carolyn</option>
+	<option value="/author_index.php?author=276" rel="nofollow">Lohsen, Arthur</option>
+	<option value="/author_index.php?author=614" rel="nofollow">Lomborg, Bj&oslash;rn</option>
+	<option value="/author_index.php?author=123" rel="nofollow">London, Herbert</option>
+	<option value="/author_index.php?author=684" rel="nofollow">Lopate, Phillip</option>
+	<option value="/author_index.php?author=124" rel="nofollow">Lowe, David Garrard</option>
+	<option value="/author_index.php?author=425" rel="nofollow">Lukacs, John</option>
+	<option value="/author_index.php?author=126" rel="nofollow">Mac Donald, Heather</option>
+	<option value="/author_index.php?author=436" rel="nofollow">Macchiarola, Frank J.</option>
+	<option value="/author_index.php?author=464" rel="nofollow">MacGuire, James</option>
+	<option value="/author_index.php?author=469" rel="nofollow">Mack, Dana</option>
+	<option value="/author_index.php?author=589" rel="nofollow">Magnet, Alec</option>
+	<option value="/author_index.php?author=294" rel="nofollow">Magnet, Julia</option>
+	<option value="/author_index.php?author=127" rel="nofollow">Magnet, Myron</option>
+	<option value="/author_index.php?author=579" rel="nofollow">Mahoney, Daniel J.</option>
+	<option value="/author_index.php?author=405" rel="nofollow">Mahoney, Margaret</option>
+	<option value="/author_index.php?author=653" rel="nofollow">Mahtani, Sahil</option>
+	<option value="/author_index.php?author=427" rel="nofollow">Main, Thomas</option>
+	<option value="/author_index.php?author=128" rel="nofollow">Malanga, Steven</option>
+	<option value="/author_index.php?author=809" rel="nofollow">Manent, Pierre</option>
+	<option value="/author_index.php?author=252" rel="nofollow">Manno, Bruno</option>
+	<option value="/author_index.php?author=761" rel="nofollow">Mansfield, Harvey</option>
+	<option value="/author_index.php?author=698" rel="nofollow">Manshel, Andrew M.</option>
+	<option value="/author_index.php?author=648" rel="nofollow">Manzi, Jim</option>
+	<option value="/author_index.php?author=906" rel="nofollow">Marcus, David</option>
+	<option value="/author_index.php?author=959" rel="nofollow">Mattix, Micah</option>
+	<option value="/author_index.php?author=433" rel="nofollow">McCarthy, Jane</option>
+	<option value="/author_index.php?author=411" rel="nofollow">McCaughey, Elizabeth</option>
+	<option value="/author_index.php?author=669" rel="nofollow">McCloskey, Patrick J.</option>
+	<option value="/author_index.php?author=603" rel="nofollow">McCluskey, Neal</option>
+	<option value="/author_index.php?author=468" rel="nofollow">McConville, Daniel J.</option>
+	<option value="/author_index.php?author=277" rel="nofollow">McCrery, James</option>
+	<option value="/author_index.php?author=886" rel="nofollow">McGinnis, John O.</option>
+	<option value="/author_index.php?author=359" rel="nofollow">McGowan, William</option>
+	<option value="/author_index.php?author=130" rel="nofollow">McMahon, E. J.</option>
+	<option value="/author_index.php?author=847" rel="nofollow">McManus, Bob</option>
+	<option value="/author_index.php?author=640" rel="nofollow">McQuillan, Lawrence J.</option>
+	<option value="/author_index.php?author=133" rel="nofollow">McWhorter, John H.</option>
+	<option value="/author_index.php?author=462" rel="nofollow">Mead, Lawrence</option>
+	<option value="/author_index.php?author=869" rel="nofollow">Menon, Rajan </option>
+	<option value="/author_index.php?author=905" rel="nofollow">Menton, Francis</option>
+	<option value="/author_index.php?author=447" rel="nofollow">Messinger, Ruth</option>
+	<option value="/author_index.php?author=879" rel="nofollow">Meyer, Jared</option>
+	<option value="/author_index.php?author=564" rel="nofollow">Meyer, Peter</option>
+	<option value="/author_index.php?author=683" rel="nofollow">Meyers, William</option>
+	<option value="/author_index.php?author=253" rel="nofollow">Mildner, Gerard</option>
+	<option value="/author_index.php?author=958" rel="nofollow">Milikh, Arthur</option>
+	<option value="/author_index.php?author=573" rel="nofollow">Miller, Judith</option>
+	<option value="/author_index.php?author=894" rel="nofollow">Mills, M. Anthony</option>
+	<option value="/author_index.php?author=255" rel="nofollow">Mills, Mark P.</option>
+	<option value="/author_index.php?author=711" rel="nofollow">Miniter, Paulette</option>
+	<option value="/author_index.php?author=135" rel="nofollow">Miniter, Richard</option>
+	<option value="/author_index.php?author=867" rel="nofollow">Modarres, Ali</option>
+	<option value="/author_index.php?author=499" rel="nofollow">Moe, Terry</option>
+	<option value="/author_index.php?author=734" rel="nofollow">Mokyr, Joel</option>
+	<option value="/author_index.php?author=285" rel="nofollow">Mone, Lawrence</option>
+	<option value="/author_index.php?author=875" rel="nofollow">Monjardino, Miguel</option>
+	<option value="/author_index.php?author=395" rel="nofollow">Monroe, Lorraine</option>
+	<option value="/author_index.php?author=136" rel="nofollow">Moore, Stephen</option>
+	<option value="/author_index.php?author=511" rel="nofollow">Moore, Steven E.</option>
+	<option value="/author_index.php?author=137" rel="nofollow">Morgan, Richard E.</option>
+	<option value="/author_index.php?author=404" rel="nofollow">Morris, Charles</option>
+	<option value="/author_index.php?author=800" rel="nofollow">Morrisey, Will</option>
+	<option value="/author_index.php?author=138" rel="nofollow">Morrison, James</option>
+	<option value="/author_index.php?author=139" rel="nofollow">Morrone, Francis</option>
+	<option value="/author_index.php?author=140" rel="nofollow">Moss, Mitchell L.</option>
+	<option value="/author_index.php?author=430" rel="nofollow">Moynihan, Daniel Patrick</option>
+	<option value="/author_index.php?author=690" rel="nofollow">Moynihan, Eamon</option>
+	<option value="/author_index.php?author=895" rel="nofollow">Mulligan, Casey B.</option>
+	<option value="/author_index.php?author=141" rel="nofollow">Murdoch, Rupert</option>
+	<option value="/author_index.php?author=386" rel="nofollow">Murdock, Deroy</option>
+	<option value="/author_index.php?author=451" rel="nofollow">Murphy, Peter</option>
+	<option value="/author_index.php?author=142" rel="nofollow">Murphy, Philip</option>
+	<option value="/author_index.php?author=691" rel="nofollow">Murphy, Robert P.</option>
+	<option value="/author_index.php?author=321" rel="nofollow">Murray, Charles</option>
+	<option value="/author_index.php?author=558" rel="nofollow">Murray, Douglas</option>
+	<option value="/author_index.php?author=307" rel="nofollow">Murray, Iain</option>
+	<option value="/author_index.php?author=619" rel="nofollow">Murtagh, John M.</option>
+	<option value="/author_index.php?author=143" rel="nofollow">Naipaul, Sir V.S.</option>
+	<option value="/author_index.php?author=408" rel="nofollow">Nathan, Richard</option>
+	<option value="/author_index.php?author=394" rel="nofollow">Nelson, Diana</option>
+	<option value="/author_index.php?author=725" rel="nofollow">Nemo, Philippe</option>
+	<option value="/author_index.php?author=144" rel="nofollow">Netzer, Dick</option>
+	<option value="/author_index.php?author=657" rel="nofollow">Nicholson, Adam</option>
+	<option value="/author_index.php?author=145" rel="nofollow">Nordlinger, Pia</option>
+	<option value="/author_index.php?author=146" rel="nofollow">Norquist, John O.</option>
+	<option value="/author_index.php?author=380" rel="nofollow">Norton, Rob</option>
+	<option value="/author_index.php?author=652" rel="nofollow">Nowlin, Jack Wade</option>
+	<option value="/author_index.php?author=466" rel="nofollow">Noyelle, Thierry</option>
+	<option value="/author_index.php?author=256" rel="nofollow">O'Connell, Paul E.</option>
+	<option value="/author_index.php?author=149" rel="nofollow">O'Neill, Dave M.</option>
+	<option value="/author_index.php?author=836" rel="nofollow">Oder, Norman</option>
+	<option value="/author_index.php?author=151" rel="nofollow">Olsen, Henry</option>
+	<option value="/author_index.php?author=154" rel="nofollow">Olson, Walter</option>
+	<option value="/author_index.php?author=400" rel="nofollow">Pagan, Antonio</option>
+	<option value="/author_index.php?author=155" rel="nofollow">Page, Charles</option>
+	<option value="/author_index.php?author=663" rel="nofollow">Paletta, Anthony</option>
+	<option value="/author_index.php?author=257" rel="nofollow">Palubinsky, Beth Z.</option>
+	<option value="/author_index.php?author=654" rel="nofollow">Panero, James</option>
+	<option value="/author_index.php?author=689" rel="nofollow">Parente, Stephen T.</option>
+	<option value="/author_index.php?author=846" rel="nofollow">Park, Sokeel</option>
+	<option value="/author_index.php?author=787" rel="nofollow">Parulekar, Shashi</option>
+	<option value="/author_index.php?author=444" rel="nofollow">Pawel, Michael</option>
+	<option value="/author_index.php?author=803" rel="nofollow">Penman, Ian</option>
+	<option value="/author_index.php?author=505" rel="nofollow">Pennoyer, Peter</option>
+	<option value="/author_index.php?author=661" rel="nofollow">Peterson, Pete</option>
+	<option value="/author_index.php?author=396" rel="nofollow">Philips, Steven</option>
+	<option value="/author_index.php?author=588" rel="nofollow">Phillips, Melanie</option>
+	<option value="/author_index.php?author=696" rel="nofollow">Pinto, Edward</option>
+	<option value="/author_index.php?author=160" rel="nofollow">Pipes, Daniel</option>
+	<option value="/author_index.php?author=768" rel="nofollow">Pitney, Jr., John J.</option>
+	<option value="/author_index.php?author=534" rel="nofollow">Plotinsky, Benjamin A.</option>
+	<option value="/author_index.php?author=161" rel="nofollow">Podhoretz, Norman</option>
+	<option value="/author_index.php?author=742" rel="nofollow">Pol&egrave;se, Mario</option>
+	<option value="/author_index.php?author=452" rel="nofollow">Polan, Steven M.</option>
+	<option value="/author_index.php?author=547" rel="nofollow">Poller, Nidra</option>
+	<option value="/author_index.php?author=882" rel="nofollow">Pondiscio, Robert</option>
+	<option value="/author_index.php?author=163" rel="nofollow">Presser, Stephen B.</option>
+	<option value="/author_index.php?author=880" rel="nofollow">Pulliam, Mark</option>
+	<option value="/author_index.php?author=481" rel="nofollow">Randolph, Allen</option>
+	<option value="/author_index.php?author=164" rel="nofollow">Ravitch, Diane</option>
+	<option value="/author_index.php?author=530" rel="nofollow">Raymond, Ray</option>
+	<option value="/author_index.php?author=165" rel="nofollow">Rector, Robert</option>
+	<option value="/author_index.php?author=790" rel="nofollow">Reed, Chris</option>
+	<option value="/author_index.php?author=166" rel="nofollow">Reed, Henry Hope</option>
+	<option value="/author_index.php?author=167" rel="nofollow">Regan, Ned</option>
+	<option value="/author_index.php?author=168" rel="nofollow">Reinharz, Peter</option>
+	<option value="/author_index.php?author=715" rel="nofollow">Reinsch, Richard M.</option>
+	<option value="/author_index.php?author=437" rel="nofollow">Reisinger, Anne Lenhard</option>
+	<option value="/author_index.php?author=169" rel="nofollow">Rendell, Hon. Edward G.</option>
+	<option value="/author_index.php?author=631" rel="nofollow">Renehan, John</option>
+	<option value="/author_index.php?author=795" rel="nofollow">Renn, Aaron M.</option>
+	<option value="/author_index.php?author=453" rel="nofollow">Reppetto, Thomas</option>
+	<option value="/author_index.php?author=567" rel="nofollow">Reynolds, Glenn</option>
+	<option value="/author_index.php?author=845" rel="nofollow">Rider, Richard</option>
+	<option value="/author_index.php?author=171" rel="nofollow">Ridley, Jane</option>
+	<option value="/author_index.php?author=482" rel="nofollow">Riebling, Mark</option>
+	<option value="/author_index.php?author=479" rel="nofollow">Rieder, Jonathan</option>
+	<option value="/author_index.php?author=920" rel="nofollow">Riley, Jason L.</option>
+	<option value="/author_index.php?author=637" rel="nofollow">Riley, Naomi Schaefer</option>
+	<option value="/author_index.php?author=759" rel="nofollow">Ring, Ed</option>
+	<option value="/author_index.php?author=320" rel="nofollow">Rivlin, Alice M.</option>
+	<option value="/author_index.php?author=574" rel="nofollow">Robb, John</option>
+	<option value="/author_index.php?author=172" rel="nofollow">Robinson, Matthew</option>
+	<option value="/author_index.php?author=793" rel="nofollow">Rohac, Dalibor</option>
+	<option value="/author_index.php?author=737" rel="nofollow">Romer, Paul</option>
+	<option value="/author_index.php?author=509" rel="nofollow">Rose, Jonathan</option>
+	<option value="/author_index.php?author=459" rel="nofollow">Rose, Joseph B.</option>
+	<option value="/author_index.php?author=902" rel="nofollow">Rosen, Armin</option>
+	<option value="/author_index.php?author=174" rel="nofollow">Rosen, Gary</option>
+	<option value="/author_index.php?author=389" rel="nofollow">Rosenberg, Jan</option>
+	<option value="/author_index.php?author=531" rel="nofollow">Rosenberg, Matt</option>
+	<option value="/author_index.php?author=716" rel="nofollow">Ross, John K.</option>
+	<option value="/author_index.php?author=814" rel="nofollow">Rozansky, Jeremy</option>
+	<option value="/author_index.php?author=672" rel="nofollow">Rua&ntilde;o, Gualberto</option>
+	<option value="/author_index.php?author=261" rel="nofollow">Rubenstein, Edwin</option>
+	<option value="/author_index.php?author=620" rel="nofollow">Russello, Gerald J.</option>
+	<option value="/author_index.php?author=851" rel="nofollow">Rust, Sean</option>
+	<option value="/author_index.php?author=422" rel="nofollow">Ryan, Richard</option>
+	<option value="/author_index.php?author=335" rel="nofollow">Rybczynski, Witold</option>
+	<option value="/author_index.php?author=175" rel="nofollow">Saffran, Dennis</option>
+	<option value="/author_index.php?author=176" rel="nofollow">Safir, Howard</option>
+	<option value="/author_index.php?author=523" rel="nofollow">Sager, Ryan</option>
+	<option value="/author_index.php?author=177" rel="nofollow">Sahm, Charles Upton</option>
+	<option value="/author_index.php?author=179" rel="nofollow">Salins, Peter</option>
+	<option value="/author_index.php?author=506" rel="nofollow">Sammons, Richard</option>
+	<option value="/author_index.php?author=740" rel="nofollow">Samuelson, Robert</option>
+	<option value="/author_index.php?author=703" rel="nofollow">Sand, Larry</option>
+	<option value="/author_index.php?author=180" rel="nofollow">Sandler, Ross</option>
+	<option value="/author_index.php?author=662" rel="nofollow">Sapienza, Paola</option>
+	<option value="/author_index.php?author=181" rel="nofollow">Satel, Sally</option>
+	<option value="/author_index.php?author=182" rel="nofollow">Savas, E. S.</option>
+	<option value="/author_index.php?author=594" rel="nofollow">Schaub, Diana</option>
+	<option value="/author_index.php?author=489" rel="nofollow">Schiff, Arthur</option>
+	<option value="/author_index.php?author=329" rel="nofollow">Schiffren, Lisa</option>
+	<option value="/author_index.php?author=185" rel="nofollow">Schiller, Erin</option>
+	<option value="/author_index.php?author=922" rel="nofollow">Schmalhofer, Stephen</option>
+	<option value="/author_index.php?author=785" rel="nofollow">Schneider, Christian</option>
+	<option value="/author_index.php?author=263" rel="nofollow">Schoenbrod, David</option>
+	<option value="/author_index.php?author=850" rel="nofollow">Schoenfeld, Gabriel</option>
+	<option value="/author_index.php?author=590" rel="nofollow">Schramm, Carl J.</option>
+	<option value="/author_index.php?author=533" rel="nofollow">Schulz, Max</option>
+	<option value="/author_index.php?author=424" rel="nofollow">Schundler, Bret</option>
+	<option value="/author_index.php?author=189" rel="nofollow">Schwartz, Joel</option>
+	<option value="/author_index.php?author=769" rel="nofollow">Schwartz, Stephen</option>
+	<option value="/author_index.php?author=484" rel="nofollow">Schwarz, Mary Elizabeth</option>
+	<option value="/author_index.php?author=190" rel="nofollow">Scruton, Roger</option>
+	<option value="/author_index.php?author=383" rel="nofollow">Scully, Vincent</option>
+	<option value="/author_index.php?author=191" rel="nofollow">Segal, Lydia G.</option>
+	<option value="/author_index.php?author=944" rel="nofollow">Seiler, John</option>
+	<option value="/author_index.php?author=192" rel="nofollow">Seligman, Daniel</option>
+	<option value="/author_index.php?author=709" rel="nofollow">Senik, Troy</option>
+	<option value="/author_index.php?author=687" rel="nofollow">Shaffer, Matthew</option>
+	<option value="/author_index.php?author=801" rel="nofollow">Shah, Hemal</option>
+	<option value="/author_index.php?author=193" rel="nofollow">Shalit, Wendy</option>
+	<option value="/author_index.php?author=194" rel="nofollow">Shaw, Peter</option>
+	<option value="/author_index.php?author=443" rel="nofollow">Shectman, Paul</option>
+	<option value="/author_index.php?author=488" rel="nofollow">Shefter, Martin</option>
+	<option value="/author_index.php?author=644" rel="nofollow">Shermer, Michael</option>
+	<option value="/author_index.php?author=597" rel="nofollow">Shock, Catherine</option>
+	<option value="/author_index.php?author=595" rel="nofollow">Short, Edward</option>
+	<option value="/author_index.php?author=609" rel="nofollow">Siegel, Charles</option>
+	<option value="/author_index.php?author=195" rel="nofollow">Siegel, Fred</option>
+	<option value="/author_index.php?author=578" rel="nofollow">Siegel, Harry</option>
+	<option value="/author_index.php?author=196" rel="nofollow">Silber, Kenneth</option>
+	<option value="/author_index.php?author=197" rel="nofollow">Silver, Harris</option>
+	<option value="/author_index.php?author=876" rel="nofollow">Simon, Roger L.</option>
+	<option value="/author_index.php?author=507" rel="nofollow">Simpson, John</option>
+	<option value="/author_index.php?author=423" rel="nofollow">Skerry, Peter</option>
+	<option value="/author_index.php?author=480" rel="nofollow">Sleeper, Jim</option>
+	<option value="/author_index.php?author=710" rel="nofollow">Sloterdijk, Peter</option>
+	<option value="/author_index.php?author=570" rel="nofollow">Smith, Bradley A.</option>
+	<option value="/author_index.php?author=420" rel="nofollow">Smith, Dennis</option>
+	<option value="/author_index.php?author=736" rel="nofollow">Smith, Lee</option>
+	<option value="/author_index.php?author=198" rel="nofollow">Smith, Shepard</option>
+	<option value="/author_index.php?author=508" rel="nofollow">Smith, Thomas Gordon</option>
+	<option value="/author_index.php?author=264" rel="nofollow">Smith, Van</option>
+	<option value="/author_index.php?author=399" rel="nofollow">Sniderman, Paul M.</option>
+	<option value="/author_index.php?author=455" rel="nofollow">Solomon, Barbara Probst</option>
+	<option value="/author_index.php?author=562" rel="nofollow">Sorman, Guy</option>
+	<option value="/author_index.php?author=265" rel="nofollow">Sousa, William H.</option>
+	<option value="/author_index.php?author=401" rel="nofollow">Spigner, Archie</option>
+	<option value="/author_index.php?author=432" rel="nofollow">Sprung, Laurence</option>
+	<option value="/author_index.php?author=643" rel="nofollow">Stangler, Dane</option>
+	<option value="/author_index.php?author=840" rel="nofollow">Starobin, Paul</option>
+	<option value="/author_index.php?author=200" rel="nofollow">Starr, Roger</option>
+	<option value="/author_index.php?author=201" rel="nofollow">Stein, Harry</option>
+	<option value="/author_index.php?author=810" rel="nofollow">Stergios, James</option>
+	<option value="/author_index.php?author=610" rel="nofollow">Stern, Bezalel</option>
+	<option value="/author_index.php?author=202" rel="nofollow">Stern, Sol</option>
+	<option value="/author_index.php?author=203" rel="nofollow">Stern, William J.</option>
+	<option value="/author_index.php?author=667" rel="nofollow">Stevens, Philip</option>
+	<option value="/author_index.php?author=960" rel="nofollow">Stewart, Matthew</option>
+	<option value="/author_index.php?author=540" rel="nofollow">Steyn, Mark</option>
+	<option value="/author_index.php?author=823" rel="nofollow">Stjernfelt, Frederik</option>
+	<option value="/author_index.php?author=267" rel="nofollow">Stoddart, Alexander</option>
+	<option value="/author_index.php?author=611" rel="nofollow">Stossel, Thomas P.</option>
+	<option value="/author_index.php?author=702" rel="nofollow">Stotsky, Sandra</option>
+	<option value="/author_index.php?author=786" rel="nofollow">Stratton, Bert</option>
+	<option value="/author_index.php?author=204" rel="nofollow">Straub, Frank</option>
+	<option value="/author_index.php?author=843" rel="nofollow">Strauss, Barry</option>
+	<option value="/author_index.php?author=901" rel="nofollow">Stupp, Herbert W.</option>
+	<option value="/author_index.php?author=957" rel="nofollow">Swaim, Barton</option>
+	<option value="/author_index.php?author=413" rel="nofollow">Sylvester, Kathleen</option>
+	<option value="/author_index.php?author=713" rel="nofollow">Szoka, Berin</option>
+	<option value="/author_index.php?author=460" rel="nofollow">Tallmer, Matthew</option>
+	<option value="/author_index.php?author=206" rel="nofollow">Taranto, James</option>
+	<option value="/author_index.php?author=207" rel="nofollow">Taylor, Flagg</option>
+	<option value="/author_index.php?author=807" rel="nofollow">Taylor, John B.</option>
+	<option value="/author_index.php?author=492" rel="nofollow">Teachout, Terry</option>
+	<option value="/author_index.php?author=209" rel="nofollow">Thernstrom, Abigail</option>
+	<option value="/author_index.php?author=563" rel="nofollow">Thierer, Adam D.</option>
+	<option value="/author_index.php?author=381" rel="nofollow">Thomas, The Honorable Clarence</option>
+	<option value="/author_index.php?author=584" rel="nofollow">Thornton, Bruce S.</option>
+	<option value="/author_index.php?author=314" rel="nofollow">Tinsley, Ed</option>
+	<option value="/author_index.php?author=746" rel="nofollow">Tobey, William H.</option>
+	<option value="/author_index.php?author=634" rel="nofollow">Torres, Justin</option>
+	<option value="/author_index.php?author=211" rel="nofollow">Torrey, E. Fuller</option>
+	<option value="/author_index.php?author=612" rel="nofollow">Totten, Michael J.</option>
+	<option value="/author_index.php?author=212" rel="nofollow">Trachtenberg, Leo</option>
+	<option value="/author_index.php?author=783" rel="nofollow">Trim, Ashley</option>
+	<option value="/author_index.php?author=214" rel="nofollow">Trollope, Frances</option>
+	<option value="/author_index.php?author=706" rel="nofollow">Troy, Tevi</option>
+	<option value="/author_index.php?author=441" rel="nofollow">Trujillo, Manuel</option>
+	<option value="/author_index.php?author=472" rel="nofollow">Tubbs, David L.</option>
+	<option value="/author_index.php?author=450" rel="nofollow">Tucker, William</option>
+	<option value="/author_index.php?author=215" rel="nofollow">Unz, Ron K.</option>
+	<option value="/author_index.php?author=268" rel="nofollow">Useem, Bert</option>
+	<option value="/author_index.php?author=216" rel="nofollow">Vacco, Dennis C.</option>
+	<option value="/author_index.php?author=824" rel="nofollow">Valdez, Roger</option>
+	<option value="/author_index.php?author=218" rel="nofollow">Vander Weele, Maribeth</option>
+	<option value="/author_index.php?author=623" rel="nofollow">Vanderkam, Laura</option>
+	<option value="/author_index.php?author=659" rel="nofollow">Veronesi, Pietro</option>
+	<option value="/author_index.php?author=463" rel="nofollow">Vigilante, Richard</option>
+	<option value="/author_index.php?author=398" rel="nofollow">Vigilante, Susan</option>
+	<option value="/author_index.php?author=723" rel="nofollow">Villanti, Benjamin</option>
+	<option value="/author_index.php?author=219" rel="nofollow">Vincent, Norah</option>
+	<option value="/author_index.php?author=221" rel="nofollow">Viteritti, Dr. Joseph</option>
+	<option value="/author_index.php?author=223" rel="nofollow">Vitullo-Martin, Julia</option>
+	<option value="/author_index.php?author=695" rel="nofollow">Voegeli, William</option>
+	<option value="/author_index.php?author=496" rel="nofollow">Wagner, David</option>
+	<option value="/author_index.php?author=317" rel="nofollow">Wagner Jr., Robert F.</option>
+	<option value="/author_index.php?author=493" rel="nofollow">Waldinger, Roger</option>
+	<option value="/author_index.php?author=889" rel="nofollow">Walpin, Gerald</option>
+	<option value="/author_index.php?author=849" rel="nofollow">Wang, Photographs by Harvey</option>
+	<option value="/author_index.php?author=630" rel="nofollow">Wapshott, Nicholas</option>
+	<option value="/author_index.php?author=775" rel="nofollow">Ward, Cynthia</option>
+	<option value="/author_index.php?author=224" rel="nofollow">Ward, Robert</option>
+	<option value="/author_index.php?author=599" rel="nofollow">Warraq, Ibn</option>
+	<option value="/author_index.php?author=951" rel="nofollow">Warren, David </option>
+	<option value="/author_index.php?author=853" rel="nofollow">Warren, Michael</option>
+	<option value="/author_index.php?author=798" rel="nofollow">Washington, Emily</option>
+	<option value="/author_index.php?author=225" rel="nofollow">Watkin, David</option>
+	<option value="/author_index.php?author=852" rel="nofollow">Watkins, Bill</option>
+	<option value="/author_index.php?author=943" rel="nofollow">Weaver, Bryan</option>
+	<option value="/author_index.php?author=414" rel="nofollow">Weeks, Steve</option>
+	<option value="/author_index.php?author=883" rel="nofollow">Weigel, George</option>
+	<option value="/author_index.php?author=577" rel="nofollow">Weinberger, Jerry</option>
+	<option value="/author_index.php?author=956" rel="nofollow">Weingarten, Benjamin</option>
+	<option value="/author_index.php?author=664" rel="nofollow">Weiss, Michael</option>
+	<option value="/author_index.php?author=461" rel="nofollow">Wells, David</option>
+	<option value="/author_index.php?author=934" rel="nofollow">Wennstr&ouml;m, Johan</option>
+	<option value="/author_index.php?author=323" rel="nofollow">Wharton, Edith</option>
+	<option value="/author_index.php?author=598" rel="nofollow">Whelan, David</option>
+	<option value="/author_index.php?author=700" rel="nofollow">Whelton, Clark</option>
+	<option value="/author_index.php?author=848" rel="nofollow">White, Adam</option>
+	<option value="/author_index.php?author=730" rel="nofollow">White, Brent T.</option>
+	<option value="/author_index.php?author=227" rel="nofollow">Whitehead, Barbara Dafoe</option>
+	<option value="/author_index.php?author=779" rel="nofollow">Whittle, Peter</option>
+	<option value="/author_index.php?author=332" rel="nofollow">Will, George F.</option>
+	<option value="/author_index.php?author=486" rel="nofollow">Williams, Terry</option>
+	<option value="/author_index.php?author=229" rel="nofollow">Wilson, James Q.</option>
+	<option value="/author_index.php?author=230" rel="nofollow">Winkler, Franz K.</option>
+	<option value="/author_index.php?author=426" rel="nofollow">Winnick, Louis</option>
+	<option value="/author_index.php?author=873" rel="nofollow">Winship, Scott</option>
+	<option value="/author_index.php?author=269" rel="nofollow">Winters, Marcus A.</option>
+	<option value="/author_index.php?author=871" rel="nofollow">Wise, J. Eric</option>
+	<option value="/author_index.php?author=877" rel="nofollow">Wood, Peter</option>
+	<option value="/author_index.php?author=353" rel="nofollow">Wriston, Walter B.</option>
+	<option value="/author_index.php?author=825" rel="nofollow">Wurman, Ze&#146;ev</option>
+	<option value="/author_index.php?author=232" rel="nofollow">Wylde, Kathryn</option>
+	<option value="/author_index.php?author=270" rel="nofollow">Yarbrough, Jean M.</option>
+	<option value="/author_index.php?author=857" rel="nofollow">Yoo, John </option>
+	<option value="/author_index.php?author=271" rel="nofollow">Zdanowicz, Mary T.</option>
+	<option value="/author_index.php?author=885" rel="nofollow">Zinberg, Joel</option>
+	<option value="/author_index.php?author=660" rel="nofollow">Zingales, Luigi</option>
+	<option value="/author_index.php?author=235" rel="nofollow">Zremski, Jerry</option>
+	<option value="/author_index.php?author=407" rel="nofollow">Zuckerman, Mortimer</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</select> 
+</form>
+</div>
+<!-- END AUTHOR INDEX -->
+		</div>
+
+					</div>
+						<div style="clear: both;"></div>
+					</div>
+
+										<div id="subscribe-all-ad">
+
+		<div style="border:1px solid #CABCDD;width:166px;">
+		<div style="border:1px solid #ffffff; margin:1px; padding:10px 6px 6px;background: url(/assets/images/subscription_ad_bg.jpg);background-repeat: no-repeat;background-color: #CABCDD;">
+		If you enjoyed <br />
+		this article, <br />
+		why not <a href="https://www.ezsubscription.com/cty/subscribe.asp" onclick="popup = window.open('https://www.ezsubscription.com/cty/subscribe.asp', 'PopupPage', 'height=550,width=530,scrollbars=yes,resizable=yes'); return false" target="_blank">subscribe</a> <br />
+		to <i>City Journal</i>?
+<a href="https://www.ezsubscription.com/cty/subscribe.asp" onclick="popup = window.open('https://www.ezsubscription.com/cty/subscribe.asp', 'PopupPage', 'height=550,width=530,scrollbars=yes,resizable=yes'); return false" target="_blank"><img src="/assets/images/subscribe-animation.gif" width="140" style="margin: 14px 0px 10px 0px;" alt="subscribe" /></a>
+
+	<a href="http://itunes.apple.com/us/app/city-journal/id420931366?mt=8" target="new" title="Get the Free App on iTunes"><img class="shuffle" src="" alt="Get the Free App on iTunes" style="width: 94%;margin-top: 8px; margin-bottom: 20px;height: 300px;" /></a>
+
+
+Or sign up for free online updates:
+
+<!-- BEGIN FORM  email signup at bottom of all pages in right column -->
+
+
+
+
+	<form action="/2016/eon0203mh.html#ad" method="post" style="margin-top:10px;margin-bottom: 14px;">
+
+		<input type="text" name="email" size="16" maxlength="60" value="e-mail address" onfocus="if(this.value==this.defaultValue) this.value='';" style="padding: 4px;" /><br />
+
+		<input type="submit" name="submit" value="Subscribe!" style="font-family: arial; font-size: 13px; padding:4px;font-weight:bold;margin-top: 10px;" />
+	</form>
+	
+
+<!-- END FORM -->
+
+
+
+	</div>
+	</div>
+
+					</div>
+
+				</div><!-- end right col -->
+
+
+
+			</div><!-- end wrapper -->
+			<div style="clear: both;"></div>
+
+						<div id="comment-form">
+				<a name="cform" id="cform"></a>
+<!-- FORM -->
+
+				<form action="/2016/eon0203mh.html#cform" method="post" enctype="multipart/form-data">
+					<input type="hidden" name="pub_id" value="12497" />
+					<table border="0" cellpadding="0" cellspacing="0" style="background-color: #d4dce2;">
+						<tr valign="top">
+							<td colspan="2" class="replyH1" style="font-size: 15px;padding: 10px 0px 4px 10px;border-top: 1px solid rgb(126, 165, 202);">
+<p style="margin: 0px 0px 6px 0px;"><a href="/comments/index.php?story=12497#comments" title="view comments">View Comments (14)</a></p>								<p style="margin: 0px 0px 4px 0px;">Add New Comment:</p>
+							</td>
+							<td width="300" rowspan="4" style="padding-top:10px;padding-right: 17px;border-top: 1px solid rgb(126, 165, 202);">
+								<div style="font-family: verdana; font-size: 11px;line-height: 17px;">To send your message, please enter the words you see in the distorted image below, in order and separated by a space, and click "Submit." If you cannot read the words below, please click <a href="javascript:Recaptcha.reload();">here</a> to receive a new challenge.</div>
+								<div align="center" style="text-align: center;width: 310px;margin-top: 10px;">
+<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LcwhgQAAAAAAJNVKaR2Ph7clKppJL-51A9Chi0Q"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LcwhgQAAAAAAJNVKaR2Ph7clKppJL-51A9Chi0Q" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>								<input type="submit" name="comm" value="Submit" id="comm" style="margin: 16px;"/></div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" style="padding: 0 10px 0 10px;">
+								<div style="-moz-border-radius-bottomleft:3px; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:3px; -moz-border-radius-topright:3px;;border:1px solid #999999; margin:3px 0; padding:3px 5px; background: #FFFFFF url(/comments/inputshadow.gif) no-repeat scroll left top">
+			<textarea style="border:0 none; width:100%;" id="comment" name="comment" rows="9" cols="36" onfocus="if(this.value==this.defaultValue) this.value='';">Type your comment here.</textarea>
+								</div>
+							</td>
+						</tr>
+
+						<tr>
+							<td style="padding-left: 10px;">
+								<div style="-moz-border-radius-bottomleft:3px; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:3px; -moz-border-radius-topright:3px;;border:1px solid #999999; margin:3px 3px 3px 0; padding:3px 5px; background: #FFFFFF url(/comments/inputshadow.gif) no-repeat scroll left top; width: 164px;">
+			<input style="border:0 none; color: #888888;" type="text" name="comname" size="20" maxlength="100" value="Name" onfocus="if(this.value==this.defaultValue) this.value='';" />
+								</div>
+							</td>
+
+							<td style="padding-right: 10px;">
+								<div style="-moz-border-radius-bottomleft:3px; -moz-border-radius-bottomright:3px; -moz-border-radius-topleft:3px; -moz-border-radius-topright:3px;;border:1px solid #999999; margin:3px 0; padding:3px 5px; background: #FFFFFF url(/comments/inputshadow.gif) no-repeat scroll left top; width: 164px;">
+			<input style="border:0 none; color: #888888;" type="text" name="email" size="20" maxlength="100" value="Email" onfocus="if(this.value==this.defaultValue) this.value='';" />
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" style="padding: 0 10px 10px 10px;">	<p style="font-family: verdana; font-size: 11px;line-height: 17px;margin:7px 0 0 0;">Comments will appear online. Please do not submit comments containing advertising or obscene language. Comments containing certain content, such as URLs, may not appear online until they have been reviewed by a moderator. </p>
+</td>
+						</tr>
+					</table>
+				</form>
+
+
+<!-- END FORM -->
+
+</div>
+			<div style="clear: both;"></div>
+
+		</div><!-- end inner div -->
+
+		
+	<div id="footer">
+		<div class="cj">
+			<h4>City Journal</h4>
+			<p style="font-size: 15px;font-family: georgia;margin-bottom: 8px;line-height: 19px;">A quarterly magazine of urban affairs, published by the <a href="http://www.manhattan-institute.org/">Manhattan Institute,</a> edited by <a href="http://www.manhattan-institute.org/html/anderson.htm">Brian C. Anderson</a>.</p>
+			<p>&copy; The Manhattan Institute</p>
+		</div>
+		<div class="subscribe">
+			<h4>Subscribe</h4>
+			<p><a href="/html/subscribe.html">Print</a></p>
+			<p><a href="http://itunes.apple.com/us/app/city-journal/id420931366?mt=8">iPad</a></p>
+			<p><a href="https://play.google.com/store/apps/details?id=com.maz.cityjournal">Android</a></p>
+			<p><a href="http://www.amazon.com/exec/obidos/ASIN/B0038M2RJO/manhattaninstitu/">Kindle</a></p>
+			<p><a href="http://www.amazon.com/dp/B00BWS3JXE/ref=cm_sw_su_dp">Kindle Fire</a></p>
+			<p><a href="/html/alerts.html">E-mail Alerts</a></p>
+			<p><a href="/html/rss.html">RSS</a></p>
+		</div>
+		<div class="contact">
+			<h4>Contact Us</h4>
+			<p><a href="http://city-journal.org/html/contact.html">E-mail</a></p>
+			<p>Subscriptions: (800) 562-1973</p>
+			<p>Editorial: (212) 599-7000</p>
+			<p>Fax: (212) 599-0371</p>
+		</div>
+		<div class="archives">
+			<h4>Archives</h4>
+			<p><a href="/html/archives-print.html">Print</a></p>
+			<p><a href="/html/archives-eon.html">Eye on the News</a></p>
+			<p><a href="/html/archives-bc.html">Books and Culture</a></p>
+			<p><a href="/california/">California</a></p>
+			<p><a href="/html/books.html">Books</a></p>
+			<p><a href="/html/archives-multimedia.html">Multimedia</a></p>
+			<p><a href="/html/archives-itn.html">In the News</a></p>
+		</div>
+		<div class="more">
+			<h4>More</h4>
+			<p><a href="/html/privacy-policy.html">Privacy Policy</a></p>
+			<p><a href="/mobile/index.php">Mobile</a></p>
+			<p><a href="http://www.facebook.com/CityJournal">Facebook</a></p>
+			<p><a href="http://twitter.com/cityjournal">Twitter</a></p>
+			<p><a href="https://plus.google.com/106997144081086861648/posts">Google Plus</a></p>
+		</div>
+		<div style="clear: both"></div>
+	</div><!-- end footer div -->
+
+<!-- Qualaroo for city-journal.org -->
+ 
+<!-- Paste this code right after the <body> tag on every page of your site. -->
+ 
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/56281/csI.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+
+
+<!-- CLICKY Asynchronous tracking code -->
+
+
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100573844);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100573844ns.gif" /></p></noscript>
+
+<!-- END CLICKY Asynchronous tracking code --> 
+
+	</div><!-- end page div -->
+
+</body>
+</html>

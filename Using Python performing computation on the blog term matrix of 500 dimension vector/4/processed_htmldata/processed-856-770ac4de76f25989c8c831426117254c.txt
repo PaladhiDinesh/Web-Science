@@ -1,0 +1,177 @@
+[1]I'm lovin' it
+
+     * [2]ホーム
+     * エラー
+
+     * [3]メニュー
+          + [4]バーガーメニュー
+          + [5]バリューセット
+          + [6]朝マック
+          + [7]おてごろマック
+          + [8]ハッピーセット
+          + [9]サイドメニュー
+          + [10]ドリンク
+          + [11]デザート
+          + [12]マックカフェ バイ バリスタ
+     * [13]キャンペーン
+          + [14]クラブハウスバーガー
+          + [15]BurgerLove
+          + [16]おてごろマック
+          + [17]マックフルーリー 宇治抹茶&あずき
+          + [18]選べるDVDセット
+          + [19]チキンマックナゲット 48ピース
+          + [20]チョコバナナ
+            （McCafé by Barista）
+          + [21]マックデリバリー スプリングキャンペーン
+          + [22]dカード/DCMXでのiD決済で、3％OFFキャンペーン
+          + [23]dポイントがたまる、使える
+          + [24]クーポンアプリ
+          + [25]タッチでハッピー
+          + [26]KODOアプリ
+     * [27]見える、マクドナルド品質
+          + [28]見える、マクドナルド品質
+          + [29]100%のこだわり
+          + [30]マクドナルドのまるごとQ&A
+          + [31]ママがチェックしたマクドナルド
+          + [32]食材の道のり
+          + [33]アレルギー・栄養・原産国情報
+          + [34]アレルギー検索
+          + [35]栄養バランスチェック
+          + [36]安全・安心への取り組み
+     * [37]ファミリーサービス
+          + [38]ファミリーサービス
+          + [39]ハッピーセット おもちゃ紹介
+          + [40]マックアドベンチャー
+          + [41]バースディパーティ
+          + [42]ドナルドパーティ
+          + [43]プレイランド
+     * [44]お店をさがす
+          + ____________________ 検索する
+          + [45]店舗検索
+          + [46]マックデリバリー
+          + [47]お支払い方法
+     * [48]採用情報
+          + [49]アルバイト採用
+          + [50]新卒採用
+          + [51]中途採用
+          + [52]障害者採用
+          + [53]フラインチャイズ社員採用
+     * [54]会社情報
+          + [55]マクドナルドからのメッセージ
+          + [56]会社案内
+          + [57]ハンバーガー大学
+          + [58]土地・建物募集
+          + [59]フランチャイズオーナー募集
+          + [60]ニュースリリース
+     * [61]社会とのつながり
+          + [62]食育支援
+          + [63]キャリア教育支援
+          + [64]スポーツ支援
+          + [65]ドナルド・マクドナルド・ハウス支援
+          + [66]地域貢献
+          + [67]障害者雇用
+          + [68]環境への取り組み
+          + [69]CSRレポート
+     * [70]マックデリバリー
+     * [71]ページを検索
+          + ____________________ 検索
+
+Error Not Found
+
+   ページが見つかりません。
+
+   お客様がアクセスしようとしたページは、掲載期間が終了し削除されたか、
+   別の場所に移動された可能性があります。
+   メニューエリアを利用して、 引き続きマクドナルドのウェブサイトをお楽しみください。
+     *
+     * [72]ツイート
+     *
+
+     * [73]ご意見・ご要望
+     * [74]個人情報保護方針
+     * [75]サイト利用規約
+     * [76]サイトマップ
+
+   © 2016 McDonald's
+
+   IFRAME: [77]//www.googletagmanager.com/ns.html?id=GTM-TJV7WW
+
+References
+
+   1. http://www.mcdonalds.co.jp/index.html
+   2. http://www.mcdonalds.co.jp/index.html
+   3. http://www.mcdonalds.co.jp/menu/burger/index.html
+   4. http://www.mcdonalds.co.jp/menu/burger/index.html
+   5. http://www.mcdonalds.co.jp/menu/set/index.html
+   6. http://www.mcdonalds.co.jp/menu/morning/index.html
+   7. http://www.mcdonalds.co.jp/menu/otegoro/index.html
+   8. http://www.mcdonalds.co.jp/menu/happyset/index.html
+   9. http://www.mcdonalds.co.jp/menu/side/index.html
+  10. http://www.mcdonalds.co.jp/menu/drink/index.html
+  11. http://www.mcdonalds.co.jp/menu/dessert/index.html
+  12. http://www.mcdonalds.co.jp/menu/barista/index.html
+  13. http://www.mcdonalds.co.jp/campaign/goodnight_morning/
+  14. http://www.mcdonalds.co.jp/campaign/clubhouseburger/index.html
+  15. http://burgerlove.jp/?refid=ow160425-2
+  16. http://www.mcdonalds.co.jp/campaign/otegoro/index.html
+  17. http://www.mcdonalds.co.jp/campaign/bymcsweets/#mcflurry-green-tea-azuki-beans
+  18. http://www.mcdonalds.co.jp/family/dvdset/index.html
+  19. http://www.mcdonalds.co.jp/campaign/ngt48/index.html
+  20. http://www.mcdonalds.co.jp/campaign/barista/index.html
+  21. http://www.mcdonalds.co.jp/shop/mcdelivery/index.html
+  22. http://www.mcdonalds.co.jp/campaign/d-point/index.html
+  23. http://www.mcdonalds.co.jp/campaign/d-point/tokyo.html
+  24. http://www.mcdonalds.co.jp/campaign/coupon/mobile/index.html
+  25. http://www.mcdonalds.co.jp/family/touchdehappy/index.html
+  26. http://www.mcdonalds.co.jp/campaign/kodo/index.html
+  27. http://www.mcdonalds.co.jp/safety/index.html
+  28. http://www.mcdonalds.co.jp/safety/index.html
+  29. http://www.mcdonalds.co.jp/safety/good_quality/index.html
+  30. http://qna.mcdonalds.co.jp/
+  31. http://www.mcdonalds.co.jp/safety/momseye/index.html
+  32. http://www.mcdonalds.co.jp/safety/food-safety/factory/index.html
+  33. http://www.mcdonalds.co.jp/quality/allergy_Nutrition/index2.html
+  34. http://www.mcdonalds.co.jp/quality/basic_information/allergy_cautions.php
+  35. http://www.mcdonalds.co.jp/quality/basic_information/check_cautions.php
+  36. http://www.mcdonalds.co.jp/safety/food-safety/index.html
+  37. http://www.mcdonalds.co.jp/family/index.html
+  38. http://www.mcdonalds.co.jp/family/index.html
+  39. http://www.mcdonalds.co.jp/happyset/index.html
+  40. http://www.mcdonalds.co.jp/family/adventure/index.html
+  41. http://www.mcdonalds.co.jp/family/birthday_party/index.html
+  42. http://www.mcdonalds.co.jp/donaldroom/aou/aou.html
+  43. http://www.mcdonalds.co.jp/family/playland/index.html
+  44. http://www.mcdonalds.co.jp/shop/map/mcd_shop.php
+  45. http://www.mcdonalds.co.jp/shop/map/mcd_shop.php
+  46. http://www.mcdonalds.co.jp/shop/mcdelivery/index.html
+  47. http://www.mcdonalds.co.jp/shop/payment/index.html
+  48. http://www.mcdonalds.co.jp/recruit/index.html
+  49. http://www.mcdonalds.co.jp/recruit/crew_recruiting/index.html
+  50. http://www.mcdonalds.co.jp/recruit/fresh/index.php5
+  51. http://www.mcdonalds.co.jp/recruit/career/index.php5
+  52. http://www.mcdonalds.co.jp/social/employee/index.html
+  53. http://www.mcdonalds.co.jp/recruit/fc/index.php5
+  54. http://www.mcdonalds.co.jp/company/index.html
+  55. http://www.mcdonalds.co.jp/company/message/index.html
+  56. http://www.mcdonalds.co.jp/company/outline/index.html
+  57. http://www.mcdonalds.co.jp/company/university/index.html
+  58. http://www.mcdonalds.co.jp/guidance/business/landowner/landowner.html
+  59. http://www.mcdonalds.co.jp/company/fc/index.html
+  60. http://www.mcdonalds.co.jp/news/index.html
+  61. http://www.mcdonalds.co.jp/social/index.html
+  62. http://www.mcdonalds.co.jp/community/ne_mc_support/index.html
+  63. http://www.mcdonalds.co.jp/social/mc_discovery/index.html
+  64. http://www.mcdonalds.co.jp/social/sport/index.html
+  65. http://www.mcdonalds.co.jp/social/donald/index.html
+  66. http://www.mcdonalds.co.jp/social/community_relations/index.html
+  67. http://www.mcdonalds.co.jp/social/employee/index.html
+  68. http://www.mcdonalds.co.jp/social/eco.html
+  69. http://www.mcdonalds.co.jp/company/csr/index.html
+  70. http://www.mcdonalds.co.jp/shop/mcdelivery/index.html
+  71. http://www.mcdonalds.co.jp/campaign/goodnight_morning/
+  72. https://twitter.com/share
+  73. http://www.mcdonalds.co.jp/cservice/index2.html
+  74. http://www.mcdonalds.co.jp/privacy/index.html
+  75. http://www.mcdonalds.co.jp/policy/index.html
+  76. http://www.mcdonalds.co.jp/sitemap/index.html
+  77. http://www.googletagmanager.com/ns.html?id=GTM-TJV7WW

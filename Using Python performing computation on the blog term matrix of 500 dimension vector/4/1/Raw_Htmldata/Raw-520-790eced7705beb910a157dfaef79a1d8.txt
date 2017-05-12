@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="refresh" content="3; url=http://www.walmart.com/ip/Anti-Explicit-Deluxe-Edition/49599500"/>
+	<meta property="og:url" content="http://www.walmart.com/ip/Anti-Explicit-Deluxe-Edition/49599500?fbrefresh=1454338382"/>
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:url" content="http://www.walmart.com/ip/Anti-Explicit-Deluxe-Edition/49599500?fbrefresh=1454338382"/>
+	<style type="text/css">
+		body,html{width:100%;height:100%;background:#111}img{position:absolute;bottom:0;right:0}.sk-parent{position:absolute;margin:auto;top:48%;left:48%}.sk-spinner-wave.sk-spinner{margin:0 auto;width:50px;height:30px;text-align:center;font-size:10px}.sk-spinner-wave div{background-color:#eee;height:100%;width:6px;display:inline-block;-webkit-animation:sk-waveStretchDelay 1.2s infinite ease-in-out;animation:sk-waveStretchDelay 1.2s infinite ease-in-out}.sk-spinner-wave .sk-rect2{-webkit-animation-delay:-1.1s;animation-delay:-1.1s}.sk-spinner-wave .sk-rect3{-webkit-animation-delay:-1s;animation-delay:-1s}.sk-spinner-wave .sk-rect4{-webkit-animation-delay:-.9s;animation-delay:-.9s}.sk-spinner-wave .sk-rect5{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes sk-waveStretchDelay{0%,100%,40%{-webkit-transform:scaleY(.4);transform:scaleY(.4)}20%{-webkit-transform:scaleY(1);transform:scaleY(1)}}@keyframes sk-waveStretchDelay{0%,100%,40%{-webkit-transform:scaleY(.4);transform:scaleY(.4)}20%{-webkit-transform:scaleY(1);transform:scaleY(1)}}
+	</style>
+
+	<script>
+		(function(w, d, c, t, p, a){
+		w[c] = w[c] || function(){ (w[c].q = w[c].q || [])[p](arguments) };
+		var n = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		n.async = true; n.src = '//lib.vmweb.net/identity.min.js';
+		s.parentNode.insertBefore(n, s);
+		})(window, document, 'IDENTITY', 'script', 'push');
+	</script>
+</head>
+<body>
+	<div class="sk-parent">
+		<div class="sk-spinner sk-spinner-wave">
+			<div class="sk-rect1"></div>
+			<div class="sk-rect2"></div>
+			<div class="sk-rect3"></div>
+			<div class="sk-rect4"></div>
+			<div class="sk-rect5"></div>
+		</div>
+	</div>
+
+	<script>
+  IDENTITY('init', "a1c84400-ab28-439e-67b6-b5baea98a22e", "rihanna overdose drop.lk");
+  var share = {
+		
+    share_id: "0da1aff18f725d77d1c566dad26e1d911dbfd8aefa06324e75bd72dbcc926e64",
+    segment_id: "4996bd8bd209a3d25a3393fe871fa9103e47779e0ecf0881c6945da26c905816",
+    short_url: "drop.lk\/gp6",
+    destination_url: "http:\/\/www.walmart.com\/ip\/Anti-Explicit-Deluxe-Edition\/49599500",
+    referrer_url: document.referrer
+  }
+  IDENTITY('socialShare', share, function() {
+    window.location.href = 'http:\/\/www.walmart.com\/ip\/Anti-Explicit-Deluxe-Edition\/49599500';
+	});
+	</script>
+</body>
+</html>
+

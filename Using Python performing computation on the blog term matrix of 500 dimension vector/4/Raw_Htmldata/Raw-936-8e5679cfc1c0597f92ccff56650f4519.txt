@@ -1,0 +1,1590 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html   xmlns:og="http://opengraphprotocol.org/schema/"
+        xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+    <title>Big Bend | Drunken Barn Dance</title>
+    
+    
+
+
+ 
+    <meta name="Description" content="
+Big Bend by Drunken Barn Dance, released 12 February 2016
+
+1. St. Russell
+2. Churches
+3. Celebrate Where We Want
+4. We&#39;re All Much Smarter Than Our Drinking Buddies Believe
+
+">
+    
+     
+         
+           
+    
+    <link rel="shortcut icon" href="https://f4.bcbits.com/img/a1601640487_3.jpg">
+    <link rel="apple-touch-icon" href="https://f4.bcbits.com/img/a1601640487_3.jpg">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!--<meta name="apple-mobile-web-app-status-bar-style" content="black translucent">-->
+    
+    <meta name="norton-safeweb-site-verification" content="ejd7gu5uojnhaq1f4mkwkx8rbydsxtne25pyxbyv24x7e2b-voeqw8wohh9j183bfyeq109vyl4vd396-wkx1gog2vv4g21x39voxpe75a96ahp98-nookkmva7n5t7a" />
+
+    
+    
+        <meta name="title" content="Big Bend, by Drunken Barn Dance">
+        <meta property="og:title" content="Big Bend, by Drunken Barn Dance">
+        <meta property="og:type" content="album">
+        <meta property="og:site_name" content="Drunken Barn Dance">
+        <meta property="og:description" content="4 track album">
+        
+        
+        <meta property="twitter:title" content="Big Bend, by Drunken Barn Dance" />
+        <meta property="twitter:description" content="4 track album"/>
+        
+        
+    
+    
+        
+        
+        <link rel="image_src" href="https://f4.bcbits.com/img/a1601640487_16.jpg">
+        <meta property="og:image" content="https://f4.bcbits.com/img/a1601640487_5.jpg">
+        
+        <meta property="og:url"   content="http://drunkenbarndance.bandcamp.com/album/big-bend">
+        
+        <meta name="medium"         content="video">
+        <meta name="video_height"   content="105">
+        <meta name="video_width"    content="400">
+        <meta name="video_type"     content="application/x-shockwave-flash">  
+        
+        <meta name="generator"      content="Bandcamp">
+
+		 
+            
+             
+        
+        
+
+        
+            <meta property="og:video" 
+                content="https://bandcamp.com/EmbeddedPlayer/v=2/album=2110027341/size=large/tracklist=false/artwork=small/"> 
+            <meta property="og:video:secure_url"
+                content="https://bandcamp.com/EmbeddedPlayer/v=2/album=2110027341/size=large/tracklist=false/artwork=small/">       
+            <meta property="og:video:type" content="text/html">
+            <meta property="og:video:height" content="120">
+            <meta property="og:video:width" content="400">
+        
+
+
+        <meta property="fb:app_id" content="165661066782720"> 
+        
+        
+        <meta property="twitter:site" content="bandcamp" />
+        <meta property="twitter:card" content="player" />
+        <meta property="twitter:player" content="https://bandcamp.com/EmbeddedPlayer/v=2/album=2110027341/size=large/linkcol=0084B4/notracklist=true/twittercard=true/" />
+        <meta property="twitter:player:width" content="350" />
+        <meta property="twitter:player:height" content="467" />        
+        <meta property="twitter:image" content="https://f4.bcbits.com/img/a1601640487_2.jpg" />
+        
+        
+        
+        
+    
+    
+     
+
+    
+
+    
+    
+    
+    
+    
+
+    <link type="text/css" rel="stylesheet" href="https://s4.bcbits.com/tmpdata/cache/global_bundle_551d924cdf15559c36547f65c05408b1.css">
+<link type="text/css" rel="stylesheet" href="https://s4.bcbits.com/tmpdata/cache/tralbum_bundle_c278ed08b2e8400d50d2799b4541dd65.css">
+
+
+
+    <script type="text/javascript">
+        var isDebug = false;
+        var ErrorCollector = {"sampleRate":null,"enabled":true};
+        var CfgShare2 = true; // fixme: remove after Share2 always on
+    </script>
+
+    
+
+
+<script type="text/javascript">
+    
+    var isDebug = null;
+    var siteroot = "http://bandcamp.com";
+    var siteroot_https = "https://bandcamp.com";
+    var siteroot_current = "https://bandcamp.com";
+    var band_url = "http://drunkenbarndance.bandcamp.com";
+    var isProduction = true;
+
+    
+    document.documentElement.className += " js";
+    
+    
+    var Browser = {"mobile_app_compatible":false,"platform_closed":false,"version":[-1],"platform":null,"media_mode":"desktop","type":null,"platform_name":"","make":null,"grade":"X"};    
+
+    
+    var TemplGlobals = {"siteroot_https":"https://bandcamp.com","static_siteroot":"https://s4.bcbits.com","sitedomain":"bandcamp.com","siteroot_current":"https://bandcamp.com","image_siteroot_https":"https://f4.bcbits.com","image_siteroot":"http://f4.bcbits.com","image_formats":[{"resize_algo":"original","file_format":null,"name":"original","id":0},{"resize_algo":"scrub","file_format":"original","name":"fullsize","id":1},{"width":350,"resize_algo":"thumb","file_format":"JPEG","name":"art_thumb","height":350,"id":2},{"width":100,"resize_algo":"thumb","file_format":"JPEG","name":"art_thumbthumb","height":100,"id":3},{"width":300,"resize_algo":"thumb","file_format":"JPEG","name":"art_embedded_metadata","height":300,"id":4},{"width":700,"resize_algo":"thumb","file_format":"JPEG","name":"art_embedded_metadata_large","height":700,"id":5},{"width":100,"resize_algo":"thumb","file_format":"JPEG","name":"art_embedded_player","height":100,"id":6},{"width":150,"resize_algo":"thumb","file_format":"JPEG","name":"art_embedded_player_large","height":150,"id":7},{"width":124,"resize_algo":"thumb","file_format":"JPEG","name":"art_tags","height":124,"id":8},{"width":210,"resize_algo":"thumb","file_format":"JPEG","name":"art_tags_large","height":210,"id":9},{"width":1200,"resize_algo":"fit","file_format":"JPEG","name":"screen","height":1200,"id":10},{"width":172,"resize_algo":"thumb","file_format":"JPEG","name":"art_tag_search","height":172,"id":11},{"width":138,"resize_algo":"thumb","file_format":"JPEG","name":"art_artist_index","height":138,"id":12},{"width":380,"resize_algo":"thumb","file_format":"JPEG","name":"art_solo_feature","height":380,"id":13},{"width":368,"resize_algo":"thumb","file_format":"JPEG","name":"art_feature","height":368,"id":14},{"width":135,"resize_algo":"thumb","file_format":"JPEG","name":"art_feed_new_release","height":135,"id":15},{"quality":70,"width":700,"minsize":{"format":5,"size":30000},"resize_algo":"thumb","file_format":"JPEG","name":"art_app_large","height":700,"id":16},{"width":1024,"resize_algo":"fit","file_format":"JPEG","name":"bio_screen","height":1024,"id":20},{"width":120,"resize_algo":"fit","file_format":"JPEG","name":"bio_thumb","height":180,"id":21},{"width":25,"resize_algo":"thumb","file_format":"JPEG","name":"bio_navbar","height":25,"id":22},{"width":300,"resize_algo":"fit","file_format":"JPEG","name":"bio_phone","height":300,"id":23},{"width":300,"resize_algo":"thumb","file_format":"JPEG","name":"bio_licensing","height":300,"id":24},{"quality":70,"width":700,"resize_algo":"fit","file_format":"JPEG","name":"bio_app","height":700,"id":25},{"width":800,"resize_algo":"thumb","file_format":"JPEG","name":"bio_subscribe","height":600,"id":26},{"width":715,"resize_algo":"thumb","file_format":"JPEG","name":"bio_subscribe2","height":402,"id":27},{"width":768,"resize_algo":"thumb","file_format":"JPEG","name":"bio_featured","height":432,"id":28},{"width":100,"resize_algo":"thumb","file_format":"JPEG","name":"bio_autocomplete","height":75,"id":29},{"width":1024,"resize_algo":"fit","file_format":"original","name":"package_screen","height":1024,"id":31},{"width":380,"resize_algo":"thumb","file_format":"JPEG","name":"package_solo_feature","height":285,"id":32},{"width":368,"resize_algo":"thumb","file_format":"JPEG","name":"package_feature","height":276,"id":33},{"width":400,"resize_algo":"thumb","file_format":"JPEG","name":"package_page","height":300,"id":36},{"width":168,"resize_algo":"thumb","file_format":"JPEG","name":"package_thumb","height":126,"id":37},{"width":144,"resize_algo":"thumb","file_format":"JPEG","name":"package_thumb_small","height":108,"id":38},{"width":210,"resize_algo":"thumb","file_format":"JPEG","name":"fan_bio_thumb","height":210,"id":41},{"width":50,"resize_algo":"thumb","file_format":"JPEG","name":"fan_bio_thumb_small","height":50,"id":42},{"width":99999,"resize_algo":"fit","file_format":"JPEG","name":"fan_banner","height":100,"id":43},{"width":140,"resize_algo":"thumb","file_format":"JPEG","name":"results_grid","height":140,"id":50},{"max_height":180,"width":975,"resize_algo":"thumb","allow_transparency":true,"file_format":"original","name":"custom_header_desktop","id":100},{"width":750,"resize_algo":"fit","file_format":"JPEG","name":"custom_header_paypal","height":90,"id":101},{"max_height":124,"width":640,"resize_algo":"thumb","file_format":"JPEG","name":"custom_header_phone","id":120},{"resize_algo":"scrub","file_format":"JPEG","name":"design_background","id":130},{"width":60,"resize_algo":"thumb","file_format":"JPEG","name":"subscribe_message","height":45,"id":140},{"width":1280,"resize_algo":"thumb","file_format":"JPEG","name":"video_landscape","height":720,"id":150},{"width":720,"resize_algo":"thumb","file_format":"JPEG","name":"video_portrait","height":1280,"id":151},{"top":0,"width":60,"resize_algo":"thumb_crop","file_format":"JPEG","name":"buy_full_email_thumb_montage","height":100,"id":160,"left":40},{"width":750,"resize_algo":"fit","file_format":"JPEG","name":"weekly_mobile_web","height":422,"id":170}],"custom_domains_active":true,"base_port_str":null,"siteroot":"http://bandcamp.com","is_https":true};
+
+    var JSLoader = {
+        currentset : { foot: [] },
+
+        writeScriptTags: function( section ) {
+            var libs = JSLoader.currentset[ section ];
+            if ( !libs ) 
+                throw "couldn't find js section: " + section;
+            for ( var i=0; i < libs.length; i++ ) {
+                document.write( '<script type="text/javascript" src="' + libs[i] + '"><\/s' + 'cript>' );
+            }
+        },
+        
+        requireJS : function(src) {
+            if(typeof(src) == "string")
+            {
+                JSLoader._addRequire(src);
+            }
+            else
+            {
+                for(var i=0; i<src.length; i++)
+                {
+                    JSLoader._addRequire(src[i]);
+                }
+            }
+        },
+        
+        _addRequire : function(src) {
+            var libs = JSLoader.currentset.foot;
+            for(var i=0; i<libs.length; i++)
+            {
+                if(libs[i] == src) return;
+            }
+            libs.push( src );
+        }
+    };
+
+</script>  
+
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/global_head_bundle_min_7ffa3d8b405a960e05376351409c0e61.js"></script>
+
+
+
+
+    <script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/tralbum_head_bundle_min_d9757ba6976397c7053d39e017a7df62.js"></script>
+
+    
+        
+
+    <script type="text/javascript">
+        (function(){
+            function snickerdoodle(which) {
+                var pairs = document.cookie.split(/;\s*/);
+                for (var i = 0; i < pairs.length; ++i) {
+                    var pair = pairs[i].split("=");
+                    if (pair[0] == which) {
+                        return pair[1];
+                    }
+                }
+                return null;
+            }
+
+
+            // pull id out of the cookies
+            window.ClientID = snickerdoodle("client_id");
+
+        })();
+    </script>
+
+
+        <script type="text/javascript">
+            if ( window.MediaView ) {
+            
+                MediaView.initServer("desktop");
+            
+            }
+
+            var gCrumb = null;
+            var _crumbs = {};
+            var UploadInfo = null;
+            
+            Control.registerEvents();
+            Control.registerController( "/no_js", TPController );
+
+        </script>
+    
+
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="Drunken Barn Dance" href="http://drunkenbarndance.bandcamp.com/feed">
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="Drunken Barn Dance: Big Bend" href="http://drunkenbarndance.bandcamp.com/feed/album/big-bend">
+    
+
+    
+    
+    
+    
+    <!--@@PAGEBUCKETS@@-->
+</head>
+
+    <a href="http://store.quitescientific.com?from=btl"  class="back-to-label-link">
+        &larr;<span class="back-link-text"> more from</span><br/>
+        <span class="back-to-label-name">Quite Scientific</span>
+    </a>
+
+
+
+<body class="defaultbg ">
+
+    <div id="pagedata" data-blob="{&quot;embed_info&quot;:{&quot;public_embeddable&quot;:&quot;19 Jan 2016 18:23:21 GMT&quot;,&quot;exclusive_embeddable&quot;:null,&quot;item_public&quot;:true},&quot;recaptcha_public_key&quot;:&quot;6LfhSPgSAAAAAPwto_qzHuwSmjgfrkg35xXXu_8K&quot;,&quot;templglobals&quot;:{&quot;endpoint_mobilized&quot;:true,&quot;is_phone&quot;:false},&quot;fan_follows_label&quot;:null,&quot;ip_location_country_code&quot;:&quot;USA&quot;,&quot;buyfulldisco&quot;:{&quot;full_price&quot;:27.9500000476837,&quot;selling_band_id&quot;:2109303302,&quot;band_name&quot;:&quot;Drunken Barn Dance&quot;,&quot;has_free_tralbums&quot;:null,&quot;tralbums&quot;:[{&quot;page_url&quot;:&quot;/album/big-bend&quot;,&quot;item_type&quot;:&quot;a&quot;,&quot;preorder&quot;:null,&quot;item_id&quot;:2110027341,&quot;price&quot;:3.95000004768372,&quot;art_id&quot;:1601640487,&quot;title&quot;:&quot;Big Bend&quot;},{&quot;page_url&quot;:&quot;/album/sequoia&quot;,&quot;item_type&quot;:&quot;a&quot;,&quot;preorder&quot;:null,&quot;item_id&quot;:951605146,&quot;price&quot;:5.0,&quot;art_id&quot;:1989303091,&quot;title&quot;:&quot;Sequoia&quot;},{&quot;page_url&quot;:&quot;/album/isle-royale&quot;,&quot;item_type&quot;:&quot;a&quot;,&quot;preorder&quot;:null,&quot;item_id&quot;:2217655535,&quot;price&quot;:3.0,&quot;art_id&quot;:286559748,&quot;title&quot;:&quot;Isle Royale&quot;},{&quot;page_url&quot;:&quot;/album/drunken-barn-dance&quot;,&quot;item_type&quot;:&quot;a&quot;,&quot;preorder&quot;:null,&quot;item_id&quot;:1842710616,&quot;price&quot;:8.0,&quot;art_id&quot;:1393004795,&quot;title&quot;:&quot;Drunken Barn Dance&quot;},{&quot;page_url&quot;:&quot;/album/grey-buried&quot;,&quot;item_type&quot;:&quot;a&quot;,&quot;preorder&quot;:null,&quot;item_id&quot;:3321725577,&quot;price&quot;:8.0,&quot;art_id&quot;:2903145265,&quot;title&quot;:&quot;Grey Buried&quot;}],&quot;enabled&quot;:null,&quot;n_discount_codes&quot;:0,&quot;tralbum_count&quot;:5,&quot;is_set_price&quot;:null,&quot;art_id&quot;:1601640487,&quot;price&quot;:27.95,&quot;title&quot;:&quot;full digital discography (5 releases)&quot;,&quot;has_sub_only_items&quot;:null,&quot;discount&quot;:0.0,&quot;bundle_id&quot;:2113654},&quot;show_buy_full_disco&quot;:null,&quot;fan_tralbum_data&quot;:null,&quot;sidebar_disco&quot;:{&quot;music_grid&quot;:true,&quot;discography_real_size&quot;:5,&quot;sidebar_max_size&quot;:12,&quot;sidebar_collapse_size&quot;:3},&quot;cfg&quot;:{&quot;tralbum_login&quot;:true,&quot;artist_subscriptions&quot;:true,&quot;physical_gifting_zip_regex&quot;:true,&quot;gifting&quot;:true,&quot;mobile_app&quot;:true,&quot;video_sharing&quot;:true,&quot;no_flash_uploads&quot;:true,&quot;physical_gifting&quot;:true},&quot;buyer_location&quot;:{&quot;country_code&quot;:&quot;US&quot;,&quot;is_eu&quot;:false},&quot;lo_querystr&quot;:&quot;?action_sig=3ce19128a900391713576c1d24034323&amp;action_url=https%3A%2F%2Fdrunkenbarndance.bandcamp.com%2Falbum%2Fbig-bend&amp;band_id=3620791896&amp;item_id=2110027341&amp;item_type=album&quot;,&quot;fan_location_country&quot;:null,&quot;login_bounce_url&quot;:&quot;https://bandcamp.com/login?bounce=https%3A%2F%2Fdrunkenbarndance.bandcamp.com%2Falbum%2Fbig-bend&amp;sig=16061caa63635d4c0f85894ff0b35abc&quot;,&quot;media_mode_test&quot;:false,&quot;item_sellers&quot;:{&quot;2109303302&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;digital_vat_enabled&quot;:true,&quot;max_price&quot;:1000.0,&quot;name&quot;:&quot;Quite Scientific&quot;,&quot;id&quot;:2109303302}}}"></div>
+
+
+    
+    
+
+
+
+
+
+
+
+    <div class="bannercontainer">
+
+
+
+
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div id="centerWrapper" >
+    <div id="propOpenWrapper">
+        
+
+        
+
+        
+
+    
+    
+    
+
+    
+
+        <div id="pgBd" class="yui-skin-sam">
+            
+
+
+
+
+    
+        
+        
+    
+
+
+
+
+    
+    
+
+
+
+
+
+    
+
+    
+    
+    
+        
+        
+        
+    
+    
+    
+    
+    <style type="text/css">
+
+        #propOpenWrapper {
+            background: #FFFFFF;
+        }
+
+        #pgBd {
+            background: #FFFFFF;
+            color: #363636;
+        }
+
+        a.custom-color, #trackInfo a, #trackInfo .buy-link, #tagArea a, #rightColumn a, #name-section a, #indexpage a, .editable-grid a, .featured-grid a, #band-navbar a, #merch-item p a, #merch-item .buy a, #merch-item .buy button, #merch-item .more-merch a, .share-collect-controls a, .share-collect-controls button, .follow-unfollow, .follow-unfollow div, .collected-by a, .subscribe a, .sub a, .video-list a, .sub .main a, .subwelcome a, .artists-grid-name a, .featured-grid-name, .label-welcome .buttons a.new, .themed .label-band-selector a.themeable {
+            color: #0687F5;
+        }
+
+        .themed .label-band-selector .bands-menu {
+            border: 1px solid #F8F8F8;
+        }
+
+        .themed .label-band-selector .bands-menu,
+        .themed .label-band-selector .bands-menu .menu-artistpic {
+             background: #FFFFFF;
+        }
+
+        .label-welcome h2, .label-welcome p {
+            color: #363636;
+        }
+
+        .label-welcome .buttons a.new {
+            box-shadow: 2px 2px #0687F5;
+        }
+
+        .label-welcome .buttons a.existing {
+            box-shadow: 2px 2px #363636;
+        }
+
+        .primaryText,
+        #discography a.primaryText,
+        #trackInfo a.title_link,
+        .label-welcome .buttons a.existing {
+            color: #363636;
+        }
+
+        .secondaryText {
+            color: #888888;
+        }
+
+        #band-navbar a:hover {
+            border-color: #0687F5;
+        }
+
+        #band-navbar a.active {
+            color: #363636;
+            border-color: #363636;
+        }
+
+        .themed .label-band-selector .label {
+            color: #888888;
+        }
+
+        .themed .label-band-selector .tabs > li {
+            border-color: #888888;
+        }
+
+        .themed .label-band-selector a.selected {
+            color: #363636;
+        }
+
+        .themed .label-band-selector .caret {
+            fill: #0687F5;
+        }
+
+        .themed .label-band-selector .selected .caret {
+            fill: #363636;
+        }
+
+        #trackInfo a.notable {
+            color: red; /* overrides above */
+        }
+    
+        
+        #band-navbar {
+            background-color: #F2F2F2;
+        }
+        
+
+        body {
+            background: #F8F8F8;
+            
+                background-position: left top;
+                background-repeat: repeat;
+            
+            background-image: none;
+            
+        }
+
+        
+        
+
+        #pgHd, #pgFt {
+            background-color: #848484;
+        }    
+
+        .just-icon {
+            color: #FFFFFF;
+        }
+
+        .just-icon-bg {
+            border-right-color: #363636;
+        }
+
+        .collected-by .ellipsis-text {
+            color: #0687F5;
+        }
+        .collected-by .ellipsis-bg {
+            background-color: #0687F5;
+        }
+
+        button.subtop,
+        button.subbot {
+            background: #0687F5;
+            color: #FFFFFF;
+        }
+
+        .sub .includeditems .item a {
+            color: #363636;
+        }
+
+        .sub .post-message-link {
+            background-color: rgba(6, 135, 245, 0.2);
+            color: #0687F5;
+        }
+
+        .sub ul.tierslist li.tier {
+            border-color: rgba(6, 135, 245, 0.2);
+        }
+
+        .sub button.tierbutton .spacer {
+            background-color: #FFFFFF;
+        }
+
+        ol.sub-navbar li.active,
+        .invertIconography ol.sub-navbar li.active {
+            background-color: #FFFFFF;
+        }
+
+        ol.sub-navbar a {
+            color: #0687F5;
+        }
+
+        .post-subscribe .button-background {
+            background-color: rgba(6, 135, 245, 0.2);
+            color: #0687F5;
+        }
+        
+        .post-subscribe .band-link-color,
+        .post-subscribe .message-text button,
+        .post-subscribe .new-feed-stories button,
+        .post-subscribe .new-feed-stories-floater button {
+            color: #0687F5;
+        }
+
+        .post-subscribe .new-feed-stories-floater button {
+            background-color: #FFFFFF;
+        }
+
+        .buyFullDiscography .art .art-thumb {
+            background-color: #FFFFFF;
+        }
+
+        .collected-by .loading {
+            color: #363636;
+        }
+
+    </style>
+    
+
+
+
+<script type="text/javascript">
+
+    
+    
+    
+    
+    var FarbtasticUrls = {
+        js:  "https://s4.bcbits.com/tmpdata/cache/farbtastic_min_e7b800892c199ab738f9680529c0a6d0.js",      
+        css: "https://s4.bcbits.com/tmpdata/cache/farbtastic_480a6f23f1e63d1f16bca062c24752f5.css"     
+    };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+Control.registerController( "/", {
+    
+    
+    track: function( paths, params, url, event ) {
+        
+        var urlHash = Url.toHash( url );   
+        var tracknum = urlsToTrackNums[ "/track/" + paths[0] + urlHash.hash ];
+    
+        if( tracknum ) {
+            var content = "_lyrics_" + tracknum ;
+            var thingToExpand = "lyrics_div_" + tracknum ;              
+            var parentOfThingToExpand = "lyrics_row_" + tracknum ;
+            
+            Expando.toggle( content, thingToExpand, parentOfThingToExpand );
+            
+        }
+        
+        else {
+            document.location = url;
+        }
+        
+    },
+    
+    
+    
+    video: function(paths, params, url, event) {
+
+        if ( !paths[0] || paths[0] != "t" ) {
+            window.location = url ;
+            return;
+        }
+
+        var caption = null;
+
+        for ( var i = 0; i < TralbumData.trackinfo.length; i++ ) {
+            if ( TralbumData.trackinfo[i].video_id == paths[1] ) {
+                caption = TralbumData.trackinfo[i].video_caption;
+                break;
+            }
+        }
+        tracklistVideoPlayer.doVideo( paths[0], paths[1], caption, true, true );
+    }
+    
+    
+} );
+
+
+var SiteData = {
+    supportEmail: "support@drunkenbarndance.bandcamp.com"
+};
+
+var BandData = {
+    id: 3620791896,
+    name: "Drunken Barn Dance",
+    fan_email: null,
+    account_id: 2471693306,
+    has_discounts: true,
+    image_id: 4127233
+};
+
+var EmbedData = {
+    tralbum_param: { name: "album", value: 2110027341 }, 
+    album_title: "Big Bend",
+    linkback: "http://drunkenbarndance.bandcamp.com" + "/album/big-bend",
+    art_id: 1601640487,
+    artist: "Drunken Barn Dance",
+    swf_base_url: "https://bandcamp.com",
+    embed_info: {"exclusive_embeddable":null,"item_public":true,"public_embeddable":"19 Jan 2016 18:23:21 GMT"}
+};
+
+var FanData = {
+    logged_in: false,
+    name: null,
+    image_id: null
+};
+
+var TralbumData = {
+    // For the curious:
+    // http://bandcamp.com/help/audio_basics#steal
+    // http://bandcamp.com/terms_of_use
+    current: {"set_price":7.0,"featured_track_id":3819262630,"download_desc_id":null,"selling_band_id":2109303302,"about":null,"publish_date":"19 Jan 2016 18:23:21 GMT","auto_repriced":null,"upc":"804297905884","credits":null,"require_email":null,"private":null,"minimum_price":3.95,"new_date":"19 Jan 2016 18:07:25 GMT","id":2110027341,"require_email_0":null,"minimum_price_nonzero":3.95,"is_set_price":null,"audit":0,"purchase_url":null,"art_id":1601640487,"type":"album","release_date":"12 Feb 2016 00:00:00 GMT","title":"Big Bend","purchase_title":null,"band_id":3620791896,"new_desc_format":1,"artist":null,"download_pref":2,"killed":null,"mod_date":"12 Feb 2016 14:48:17 GMT"},
+    is_preorder: null,
+    album_is_preorder: null,
+    album_release_date: "12 Feb 2016 00:00:00 GMT",
+    preorder_count: null,
+    hasAudio: true,
+    art_id: 1601640487,
+    artThumbURL: "https://f4.bcbits.com/img/a1601640487_3.jpg",
+    artFullsizeUrl: "https://f4.bcbits.com/img/a1601640487_10.jpg",
+    trackinfo : [{"video_caption":null,"title_link":"/track/st-russell","license_type":1,"is_capped":false,"sizeof_lyrics":0,"video_featured":null,"video_id":null,"has_lyrics":false,"video_source_type":null,"encodings_id":2569325850,"alt_link":null,"has_info":false,"video_source_id":null,"lyrics":null,"duration":250.5,"track_num":1,"private":null,"encoding_error":null,"is_downloadable":true,"track_id":3848337553,"video_mobile_url":null,"is_draft":false,"streaming":1,"album_preorder":false,"id":3848337553,"encoding_pending":null,"has_free_download":null,"video_poster_url":null,"unreleased_track":false,"title":"St. Russell","file":{"mp3-128":"//popplers5.bandcamp.com/download/track?enc=mp3-128&fsig=f89972da121d002a251ee1d55c54176a&id=3848337553&stream=1&ts=1460293964.0"},"play_count":0,"free_album_download":false},{"video_caption":null,"title_link":"/track/churches","license_type":1,"is_capped":false,"sizeof_lyrics":0,"video_featured":null,"video_id":null,"has_lyrics":false,"video_source_type":null,"encodings_id":4277018075,"alt_link":null,"has_info":false,"video_source_id":null,"lyrics":null,"duration":241.0,"track_num":2,"private":null,"encoding_error":null,"is_downloadable":true,"track_id":3819262630,"video_mobile_url":null,"is_draft":false,"streaming":1,"album_preorder":false,"id":3819262630,"encoding_pending":null,"has_free_download":null,"video_poster_url":null,"unreleased_track":false,"title":"Churches","file":{"mp3-128":"//popplers5.bandcamp.com/download/track?enc=mp3-128&fsig=c2b518e7513620c44353e86c8c5fc7cd&id=3819262630&stream=1&ts=1460293964.0"},"play_count":0,"free_album_download":false},{"video_caption":null,"title_link":"/track/celebrate-where-we-want","license_type":1,"is_capped":false,"sizeof_lyrics":0,"video_featured":null,"video_id":null,"has_lyrics":false,"video_source_type":null,"encodings_id":4123621127,"alt_link":null,"has_info":false,"video_source_id":null,"lyrics":null,"duration":260.0,"track_num":3,"private":null,"encoding_error":null,"is_downloadable":true,"track_id":2358619471,"video_mobile_url":null,"is_draft":false,"streaming":1,"album_preorder":false,"id":2358619471,"encoding_pending":null,"has_free_download":null,"video_poster_url":null,"unreleased_track":false,"title":"Celebrate Where We Want","file":{"mp3-128":"//popplers5.bandcamp.com/download/track?enc=mp3-128&fsig=9000f2c552a35b7f7fdb34a62dfb89fb&id=2358619471&stream=1&ts=1460293964.0"},"play_count":0,"free_album_download":false},{"video_caption":null,"title_link":"/track/were-all-much-smarter-than-our-drinking-buddies-believe","license_type":1,"is_capped":false,"sizeof_lyrics":0,"video_featured":null,"video_id":null,"has_lyrics":false,"video_source_type":null,"encodings_id":1020082448,"alt_link":null,"has_info":false,"video_source_id":null,"lyrics":null,"duration":174.5,"track_num":4,"private":null,"encoding_error":null,"is_downloadable":true,"track_id":3070407131,"video_mobile_url":null,"is_draft":false,"streaming":1,"album_preorder":false,"id":3070407131,"encoding_pending":null,"has_free_download":null,"video_poster_url":null,"unreleased_track":false,"title":"We're All Much Smarter Than Our Drinking Buddies Believe","file":{"mp3-128":"//popplers5.bandcamp.com/download/track?enc=mp3-128&fsig=982246188edd350cef190ea4388113ff&id=3070407131&stream=1&ts=1460293964.0"},"play_count":0,"free_album_download":false}],
+    playing_from : "album page",
+    featured_track_id : 3819262630,
+    initial_track_num : null,
+    packages: null,
+    url: "http://drunkenbarndance.bandcamp.com" + "/album/big-bend",
+    defaultPrice: 7.0,
+    freeDownloadPage: null,
+    FREE: 1,
+    PAID: 2,
+    artist: "Drunken Barn Dance",
+    item_type: "album", // xxx: note - don't internationalize this variable
+    id: 2110027341,
+    last_subscription_item: null,
+    has_discounts: null,
+    is_bonus: null,
+    play_cap_data: {"streaming_limit":3,"streaming_limits_enabled":true},
+    client_id_sig: "nJ8bpc7Xli0o1sdOJM8zyq/vcBw=",
+    is_purchased: null,
+    is_private_stream: null,
+    is_band_member: null
+};
+
+
+
+if ( window.FacebookData ) {
+    var  ti = TralbumData.trackinfo;
+    
+    if ( ti && ti.length ){
+        for( var i = 0; i < ti.length; i++ ) {
+           if (ti[i].title_link) {
+               ti[i].title_link = ( fb_band_url + ti[i].title_link );    
+           }
+                
+        }
+    }
+}
+
+
+var PaymentData = {
+    paymentType: null,
+    paymentDownloadPage: null
+};
+
+var ReferrerToken = null;
+var CurrencyData = {"rates":{"HRK":0.152218,"CLP":0.00151203,"YER":0.00399957,"NPR":0.00942012,"ZAR":0.0700497,"LAK":0.000123312,"SHP":1.46202,"JPY":0.00931485,"NGN":0.00502409,"ETB":0.0463612,"BBD":0.5,"SYP":0.00455472,"LRD":0.0110508,"PKR":0.009543,"GTQ":0.129259,"CAD":0.796458,"DKK":0.153412,"THB":0.0286047,"MKD":0.0183108,"BTN":0.0150683,"PEN":0.305471,"HNL":0.0443183,"TOP":0.448074,"MVR":0.0655022,"BRL":0.288507,"ILS":0.267322,"XOF":0.00172479,"RUB":0.0154606,"INR":0.0150589,"CVE":0.0103444,"NZD":0.697883,"TRY":0.357052,"MDL":0.050661,"SAR":0.266639,"JMD":0.00813677,"SEK":0.124296,"AED":0.27226,"MMK":0.00085423,"COP":0.000347481,"KES":0.00989954,"ARS":0.0701323,"SBD":0.126856,"ANG":0.559042,"DOP":0.0218243,"DJF":0.00562547,"ZMK":0.000190403,"LKR":0.00685192,"LBP":0.000663233,"BHD":2.65258,"KPW":0.00111122,"KMF":0.00231884,"FKP":1.46202,"LYD":0.747978,"BZD":0.501376,"TWD":0.0309804,"EUR":1.14386,"PAB":1.0,"GYD":0.00485485,"PYG":0.000179619,"BOB":0.144637,"HKD":0.128908,"BSD":1.0,"MWK":0.00145231,"VUV":0.00931041,"PHP":0.0213157,"RUP":1.0,"ALL":0.00824013,"TTD":0.15041,"MRO":0.00289857,"BND":0.743708,"MXN":0.0580809,"WST":0.397501,"XPF":0.00955361,"IDR":7.58459e-05,"MNT":0.000497512,"KYD":1.21325,"PLN":0.260876,"UGX":0.000300594,"SCR":0.0755322,"JOD":1.41082,"DZD":0.0091709,"CHF":1.03983,"BIF":0.000640479,"UYU":0.0314406,"NAD":0.0700696,"CRC":0.00186421,"SOS":0.00164827,"KWD":3.31966,"AWG":0.557621,"ZWL":0.00310186,"NIO":0.035217,"EGP":0.112616,"GNF":0.000132422,"BDT":0.0127527,"SZL":0.0701403,"LSL":0.0700794,"KRW":0.000875272,"GIP":1.46202,"AUD":0.76061,"OMR":2.59752,"TZS":0.000456608,"MOP":0.125178,"BMD":1.0,"CZK":0.0422069,"GBP":1.46202,"USD":1.0,"PGK":0.317463,"HTG":0.0160831,"MYR":0.25567,"BWP":0.0942595,"HUF":0.00366341,"GMD":0.0234133,"QAR":0.274734,"ISK":0.00813549,"XAF":0.00173949,"NOK":0.123668,"TND":0.498167,"MUR":0.0285689,"KHR":0.00024783,"IQD":0.00090317,"STD":4.67939e-05,"CNY":0.154403,"SGD":0.742853,"UAH":0.0397314,"MAD":0.103998,"KZT":0.00304889,"SLL":0.000253357,"XCD":0.37023},"info":{"YER":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"YER","april_2009":1,"prefix":"","plural":"Rial","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rial","a_dollar":1,"prefix_informal":""},"HRK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"HRK","april_2009":1,"prefix":"","plural":"Kuna","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kuna","a_dollar":1,"prefix_informal":""},"CLP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CLP","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"NPR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"NPR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"ZAR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ZAR","april_2009":1,"prefix":"","plural":"Rand","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rand","a_dollar":1,"prefix_informal":""},"LAK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LAK","april_2009":1,"prefix":"","plural":"Kip","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kip","a_dollar":1,"prefix_informal":""},"SHP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SHP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"JPY":{"small_min_price":50.0,"places":0,"suffix_informal":"","fixed_rate":100,"symbol":"JPY","april_2009":0.01,"prefix":"&#x00A5;","plural":"Japanese Yen","prefix_informal_utf8":"¥","prefix_utf8":"¥","paypal":true,"medium_min_price":100.0,"long":"Japanese Yen","a_dollar":100,"prefix_informal":"&#x00A5;"},"NGN":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"NGN","april_2009":1,"prefix":"","plural":"Naira","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Naira","a_dollar":1,"prefix_informal":""},"ETB":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ETB","april_2009":1,"prefix":"","plural":"Birr","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Birr","a_dollar":1,"prefix_informal":""},"BBD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BBD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"SYP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SYP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"LRD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LRD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"PKR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PKR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"GTQ":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GTQ","april_2009":1,"prefix":"","plural":"Quetzal","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Quetzal","a_dollar":1,"prefix_informal":""},"CAD":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CAD","april_2009":0.817,"prefix":"$","plural":"Canadian Dollars","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"Canadian Dollar","a_dollar":1.0,"prefix_informal":"$"},"DKK":{"small_min_price":2.5,"places":2,"suffix_informal":"","fixed_rate":5,"symbol":"DKK","april_2009":0.1767,"prefix":"","plural":"Danish Kroner","prefix_informal_utf8":"kr.","prefix_utf8":"","paypal":true,"medium_min_price":5.0,"long":"Danish Krone","a_dollar":6.0,"prefix_informal":"kr."},"THB":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"THB","april_2009":1,"prefix":"","plural":"Baht","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Baht","a_dollar":1,"prefix_informal":""},"MKD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MKD","april_2009":1,"prefix":"","plural":"Denar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Denar","a_dollar":1,"prefix_informal":""},"BTN":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BTN","april_2009":1,"prefix":"","plural":"Ngultrum","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Ngultrum","a_dollar":1,"prefix_informal":""},"HNL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"HNL","april_2009":1,"prefix":"","plural":"Lempira","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Lempira","a_dollar":1,"prefix_informal":""},"PEN":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PEN","april_2009":1,"prefix":"","plural":"Sol","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Sol","a_dollar":1,"prefix_informal":""},"TOP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TOP","april_2009":1,"prefix":"","plural":"Pa'anga","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pa'anga","a_dollar":1,"prefix_informal":""},"MVR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MVR","april_2009":1,"prefix":"","plural":"Rufiyaa","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rufiyaa","a_dollar":1,"prefix_informal":""},"BRL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BRL","april_2009":1,"prefix":"","plural":"Real","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Real","a_dollar":1,"prefix_informal":""},"ILS":{"small_min_price":1.5,"places":2,"suffix_informal":"","fixed_rate":5,"symbol":"ILS","april_2009":0.2426,"prefix":"&#x20AA;","plural":"Israeli New Sheqalim","prefix_informal_utf8":"₪","prefix_utf8":"₪","paypal":true,"medium_min_price":3.0,"long":"Israeli New Sheqel","a_dollar":4.0,"prefix_informal":"&#x20AA;"},"XOF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"XOF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"RUB":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"RUB","april_2009":1,"prefix":"","plural":"Ruble","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Ruble","a_dollar":1,"prefix_informal":""},"INR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"INR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"TRY":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TRY","april_2009":1,"prefix":"","plural":"Lira","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Lira","a_dollar":1,"prefix_informal":""},"CVE":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CVE","april_2009":1,"prefix":"","plural":"Escudo","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Escudo","a_dollar":1,"prefix_informal":""},"NZD":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"NZD","april_2009":0.5833,"prefix":"$","plural":"New Zealand Dollars","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"New Zealand Dollar","a_dollar":1.0,"prefix_informal":"$"},"MDL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MDL","april_2009":1,"prefix":"","plural":"Leu","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Leu","a_dollar":1,"prefix_informal":""},"SAR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SAR","april_2009":1,"prefix":"","plural":"Rial","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rial","a_dollar":1,"prefix_informal":""},"JMD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"JMD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"AED":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"AED","april_2009":1,"prefix":"","plural":"Dirham","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dirham","a_dollar":1,"prefix_informal":""},"MMK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MMK","april_2009":1,"prefix":"","plural":"Kyat","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kyat","a_dollar":1,"prefix_informal":""},"COP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"COP","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"SEK":{"small_min_price":3.0,"places":2,"suffix_informal":" kr","fixed_rate":7,"symbol":"SEK","april_2009":0.121,"prefix":"","plural":"Swedish Kronor","prefix_informal_utf8":"","prefix_utf8":"","paypal":true,"medium_min_price":6.0,"long":"Swedish Krona","a_dollar":8.0,"prefix_informal":""},"ARS":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ARS","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"SBD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SBD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"KES":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KES","april_2009":1,"prefix":"","plural":"Shilling","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Shilling","a_dollar":1,"prefix_informal":""},"ZMK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ZMK","april_2009":1,"prefix":"","plural":"Kwacha","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kwacha","a_dollar":1,"prefix_informal":""},"ANG":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ANG","april_2009":1,"prefix":"","plural":"Guilder","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Guilder","a_dollar":1,"prefix_informal":""},"DOP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"DOP","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"DJF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"DJF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"LKR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LKR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"LBP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LBP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"BHD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BHD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"KMF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KMF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"KPW":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KPW","april_2009":1,"prefix":"","plural":"Won","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Won","a_dollar":1,"prefix_informal":""},"FKP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"FKP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"LYD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LYD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"BZD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BZD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"TWD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TWD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"EUR":{"small_min_price":0.25,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"EUR","april_2009":1.3164,"prefix":"&#x20AC;","plural":"Euros","prefix_informal_utf8":"€","prefix_utf8":"€","paypal":true,"medium_min_price":0.5,"long":"Euro","a_dollar":1.0,"prefix_informal":"&#x20AC;"},"PAB":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PAB","april_2009":1,"prefix":"","plural":"Balboa","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Balboa","a_dollar":1,"prefix_informal":""},"GYD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GYD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"PYG":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PYG","april_2009":1,"prefix":"","plural":"Guarani","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Guarani","a_dollar":1,"prefix_informal":""},"BSD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BSD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"BOB":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BOB","april_2009":1,"prefix":"","plural":"Boliviano","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Boliviano","a_dollar":1,"prefix_informal":""},"HKD":{"small_min_price":2.5,"places":2,"suffix_informal":"","fixed_rate":8,"symbol":"HKD","april_2009":0.129,"prefix":"$","plural":"Hong Kong Dollars","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":5.0,"long":"Hong Kong Dollar","a_dollar":8.0,"prefix_informal":"$"},"MWK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MWK","april_2009":1,"prefix":"","plural":"Kwacha","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kwacha","a_dollar":1,"prefix_informal":""},"VUV":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"VUV","april_2009":1,"prefix":"","plural":"Vatu","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Vatu","a_dollar":1,"prefix_informal":""},"PHP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PHP","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"RUP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"RUP","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"TTD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TTD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"ALL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ALL","april_2009":1,"prefix":"","plural":"Lek","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Lek","a_dollar":1,"prefix_informal":""},"MRO":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MRO","april_2009":1,"prefix":"","plural":"Ouguiya","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Ouguiya","a_dollar":1,"prefix_informal":""},"BND":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BND","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"MXN":{"small_min_price":5.0,"places":2,"suffix_informal":"","fixed_rate":10,"symbol":"MXN","april_2009":0.0764,"prefix":"$","plural":"Mexican Pesos","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":10.0,"long":"Mexican Peso","a_dollar":12.0,"prefix_informal":"$"},"XPF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"XPF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"WST":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"WST","april_2009":1,"prefix":"","plural":"Tala","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Tala","a_dollar":1,"prefix_informal":""},"IDR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"IDR","april_2009":1,"prefix":"","plural":"Rupiah","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupiah","a_dollar":1,"prefix_informal":""},"UGX":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"UGX","april_2009":1,"prefix":"","plural":"Shilling","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Shilling","a_dollar":1,"prefix_informal":""},"MNT":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MNT","april_2009":1,"prefix":"","plural":"Tugrik","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Tugrik","a_dollar":1,"prefix_informal":""},"KYD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KYD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"PLN":{"small_min_price":1.5,"places":2,"suffix_informal":" zl","fixed_rate":3,"symbol":"PLN","april_2009":0.3044,"prefix":"","plural":"Polish Zlotych","prefix_informal_utf8":"","prefix_utf8":"","paypal":true,"medium_min_price":3.0,"long":"Polish Zloty","a_dollar":3.0,"prefix_informal":""},"SCR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SCR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"JOD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"JOD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"DZD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"DZD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"UYU":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"UYU","april_2009":1,"prefix":"","plural":"Peso","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Peso","a_dollar":1,"prefix_informal":""},"CHF":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CHF","april_2009":0.8649,"prefix":"","plural":"Swiss Francs","prefix_informal_utf8":"Sfr. ","prefix_utf8":"","paypal":true,"medium_min_price":1.0,"long":"Swiss Franc","a_dollar":1.0,"prefix_informal":"Sfr. "},"BIF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BIF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"NAD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"NAD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"CRC":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CRC","april_2009":1,"prefix":"","plural":"Colon","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Colon","a_dollar":1,"prefix_informal":""},"KWD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KWD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"AWG":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"AWG","april_2009":1,"prefix":"","plural":"Guilder","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Guilder","a_dollar":1,"prefix_informal":""},"SOS":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SOS","april_2009":1,"prefix":"","plural":"Shilling","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Shilling","a_dollar":1,"prefix_informal":""},"ZWL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ZWL","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"NIO":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"NIO","april_2009":1,"prefix":"","plural":"Cordoba","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Cordoba","a_dollar":1,"prefix_informal":""},"EGP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"EGP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"GNF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GNF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"SZL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SZL","april_2009":1,"prefix":"","plural":"Lilangeni","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Lilangeni","a_dollar":1,"prefix_informal":""},"LSL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"LSL","april_2009":1,"prefix":"","plural":"Loti","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Loti","a_dollar":1,"prefix_informal":""},"BDT":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BDT","april_2009":1,"prefix":"","plural":"Taka","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Taka","a_dollar":1,"prefix_informal":""},"GIP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GIP","april_2009":1,"prefix":"","plural":"Pound","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pound","a_dollar":1,"prefix_informal":""},"KRW":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KRW","april_2009":1,"prefix":"","plural":"Won","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Won","a_dollar":1,"prefix_informal":""},"AUD":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"AUD","april_2009":0.7195,"prefix":"$","plural":"Australian Dollars","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"Australian Dollar","a_dollar":1.0,"prefix_informal":"$"},"OMR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"OMR","april_2009":1,"prefix":"","plural":"Rial","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rial","a_dollar":1,"prefix_informal":""},"TZS":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TZS","april_2009":1,"prefix":"","plural":"Shilling","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Shilling","a_dollar":1,"prefix_informal":""},"MOP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MOP","april_2009":1,"prefix":"","plural":"Pataca","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pataca","a_dollar":1,"prefix_informal":""},"BMD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BMD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""},"CZK":{"small_min_price":10.0,"places":2,"suffix_informal":" Kc","fixed_rate":20,"symbol":"CZK","april_2009":0.0497,"prefix":"","plural":"Czech Koruna","prefix_informal_utf8":"","prefix_utf8":"","paypal":true,"medium_min_price":20.0,"long":"Czech Koruna","a_dollar":20.0,"prefix_informal":""},"GBP":{"small_min_price":0.25,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GBP","april_2009":1.4669,"prefix":"&#xA3;","plural":"British Pounds Sterling","slang":["quid","nicker"],"prefix_informal_utf8":"£","prefix_utf8":"£","paypal":true,"medium_min_price":0.5,"long":"British Pound Sterling","a_dollar":1.0,"prefix_informal":"&#xA3;"},"USD":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"USD","april_2009":1.0,"prefix":"$","plural":"US Dollars","slang":["bucks","bones","clams","smackers"],"prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"US Dollar","a_dollar":1.0,"prefix_informal":"$"},"PGK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"PGK","april_2009":1,"prefix":"","plural":"Kina","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Kina","a_dollar":1,"prefix_informal":""},"HTG":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"HTG","april_2009":1,"prefix":"","plural":"Gourde","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Gourde","a_dollar":1,"prefix_informal":""},"GMD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"GMD","april_2009":1,"prefix":"","plural":"Dalasi","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dalasi","a_dollar":1,"prefix_informal":""},"MYR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MYR","april_2009":1,"prefix":"","plural":"Ringgit","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Ringgit","a_dollar":1,"prefix_informal":""},"BWP":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"BWP","april_2009":1,"prefix":"","plural":"Pula","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Pula","a_dollar":1,"prefix_informal":""},"HUF":{"small_min_price":100.0,"places":0,"suffix_informal":" Ft","fixed_rate":200,"symbol":"HUF","april_2009":0.0046,"prefix":"","plural":"Hungarian Forint","prefix_informal_utf8":"","prefix_utf8":"","paypal":true,"medium_min_price":200.0,"long":"Hungarian Forint","a_dollar":200,"prefix_informal":""},"QAR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"QAR","april_2009":1,"prefix":"","plural":"Rial","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rial","a_dollar":1,"prefix_informal":""},"ISK":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"ISK","april_2009":1,"prefix":"","plural":"Krona","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Krona","a_dollar":1,"prefix_informal":""},"XAF":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"XAF","april_2009":1,"prefix":"","plural":"Franc","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Franc","a_dollar":1,"prefix_informal":""},"TND":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"TND","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"NOK":{"small_min_price":3.0,"places":2,"suffix_informal":"","fixed_rate":6,"symbol":"NOK","april_2009":0.1504,"prefix":"","plural":"Norwegian Kroner","prefix_informal_utf8":"kr ","prefix_utf8":"","paypal":true,"medium_min_price":6.0,"long":"Norwegian Krone","a_dollar":7.0,"prefix_informal":"kr "},"MUR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MUR","april_2009":1,"prefix":"","plural":"Rupee","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Rupee","a_dollar":1,"prefix_informal":""},"KHR":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KHR","april_2009":1,"prefix":"","plural":"Riels","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Riels","a_dollar":1,"prefix_informal":""},"IQD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"IQD","april_2009":1,"prefix":"","plural":"Dinar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dinar","a_dollar":1,"prefix_informal":""},"STD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"STD","april_2009":1,"prefix":"","plural":"Dobra","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dobra","a_dollar":1,"prefix_informal":""},"UAH":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"UAH","april_2009":1,"prefix":"","plural":"Hryvnia","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Hryvnia","a_dollar":1,"prefix_informal":""},"MAD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"MAD","april_2009":1,"prefix":"","plural":"Dirham","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dirham","a_dollar":1,"prefix_informal":""},"CNY":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"CNY","april_2009":1,"prefix":"","plural":"Yuan Renminbi","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Yuan Renminbi","a_dollar":1,"prefix_informal":""},"SGD":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SGD","april_2009":0.6602,"prefix":"$","plural":"Singapore Dollars","prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"Singapore Dollar","a_dollar":1.0,"prefix_informal":"$"},"SLL":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"SLL","april_2009":1,"prefix":"","plural":"Leone","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Leone","a_dollar":1,"prefix_informal":""},"KZT":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"KZT","april_2009":1,"prefix":"","plural":"Tenge","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Tenge","a_dollar":1,"prefix_informal":""},"XCD":{"small_min_price":1,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"XCD","april_2009":1,"prefix":"","plural":"Dollar","prefix_informal_utf8":"","prefix_utf8":"","paypal":false,"medium_min_price":1,"long":"Dollar","a_dollar":1,"prefix_informal":""}},"setting":"USD","list":["USD","AUD","THB","PAB","ETB","BOB","GBP","CAD","CRC","NIO","CZK","GMD","DKK","MKD","TND","KWD","BHD","JOD","DZD","LYD","IQD","MAD","AED","STD","XCD","GYD","BZD","BSD","LRD","BBD","NAD","ZWL","KYD","TTD","BMD","JMD","BND","SBD","TWD","CVE","EUR","XAF","GNF","BIF","XOF","KMF","DJF","XPF","HTG","PYG","AWG","ANG","HKD","UAH","HUF","ILS","JPY","PGK","LAK","ISK","HRK","ZMK","MWK","MMK","ALL","HNL","SLL","MDL","SZL","TRY","LSL","MXN","NGN","NZD","BTN","NOK","MRO","TOP","MOP","DOP","COP","ARS","UYU","PHP","CLP","PLN","SHP","GIP","LBP","SYP","FKP","EGP","BWP","GTQ","ZAR","BRL","OMR","SAR","QAR","YER","KHR","MYR","RUB","MVR","SCR","INR","MUR","PKR","NPR","RUP","LKR","IDR","TZS","UGX","SOS","KES","SGD","PEN","SEK","CHF","BDT","WST","KZT","MNT","VUV","KRW","KPW","CNY"],"current":{"small_min_price":0.5,"places":2,"suffix_informal":"","fixed_rate":1,"symbol":"USD","april_2009":1.0,"prefix":"$","plural":"US Dollars","slang":["bucks","bones","clams","smackers"],"prefix_informal_utf8":"$","prefix_utf8":"$","paypal":true,"medium_min_price":1.0,"long":"US Dollar","a_dollar":1.0,"prefix_informal":"$"}};
+
+$(document).ready(function() {
+
+    if ( window.LogView ) {
+        LogView.show();
+    }
+
+    if ( window.Cart ){
+        Cart.startup();
+    }
+    if ( window.AutoLyrics ) {
+        AutoLyrics.init("_lyrics_", "lyrics_div_", "lyrics_row_", TralbumData.trackinfo.length, 1 );
+    }
+    if ( window.Player ) {
+        Player.init(TralbumData, AlbumPage.onPlayerInit);
+    }
+
+    
+    
+    if ( window.AlbumPage && AlbumPage.videoInit ) {
+        AlbumPage.videoInit();
+    }
+
+    if ( window.TralbumDownload ) {
+        TralbumDownload.init();
+        
+        $(".download-link").click(function(ev) {
+            ev.preventDefault();
+            var isGift = !!$(this).closest('.send-as-gift')[0];
+            TralbumDownload.begin(ev, isGift);
+        });
+    }
+    if ( window.TralbumUpdater ) {
+        TralbumUpdater.init();
+    }
+    if ( window.PackageOrder ) {
+        PackageOrder.init();
+        
+        $(".order_package_link").click(function(ev){
+            ev.preventDefault();
+            var $this = $(this);
+            var isGift = !!$this.closest('.send-as-gift')[0];
+            if ($this.hasClass("subscriber-only-buy-link") && !$this.hasClass("subscriber-view")) {
+                window.location.href = "/subscribe";
+                return;
+            }
+
+            PackageOrder.begin($(this).attr('data-pkg'), isGift);
+        });
+    }
+    
+    Y.util.Event.on("buy-disc-link", "click", function() {Stats.record({kind:"click", click:"buy_disc"}); return true;});
+    Y.util.Event.on("rssFeedAlbum", "click", function() {Stats.record({kind:"click", click:"rss_feed"}); return true;});
+    Y.util.Event.on("rssFeedArtist", "click", function() {Stats.record({kind:"click", click:"rss_feed"}); return true;});
+
+    if ( window.AlbumPage ) {
+        AlbumPage.registerMouseOverForTrackRows();
+    }
+    
+    
+    
+    
+    if( window.Trackpipe ) {
+        setTimeout(function(){
+            Trackpipe.maybeDoTralbumActions();
+        }, 1);
+    }
+
+    
+    if ( window.BandFollow )
+        BandFollow.init({"tralbum_type":"a","tralbum_id":2110027341});
+    
+
+
+
+    
+    if ( window.Share )
+        Share.initPanel(false, 1, "http://drunkenbarndance.bandcamp.com/album/big-bend");
+
+
+    if ( window.FanControls ) {
+        FanControls.init({"show_collect":true});
+    }
+
+
+
+
+    $("a.has-video").click(function(ev){
+        ev.preventDefault();
+        if( ev.metaKey ){
+            Control.invokeAction(ev.srcElement.href, ev);
+        }
+    });   
+
+
+});
+
+</script>
+
+
+
+<div id="customHeaderWrapper">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="bannercontainer">
+
+
+
+
+
+
+
+
+    </div>
+
+</div>
+
+
+
+<div class="trackView leftMiddleColumns has-art"
+     itemscope itemtype="http://schema.org/MusicAlbum">
+    
+    <div id="name-section" >
+        
+        <h2 class="trackTitle" itemprop="name">
+            Big Bend
+            
+        </h2>
+        
+
+        <h3 style="margin:0px;">by 
+        <span itemprop="byArtist"> 
+          <a href="http://drunkenbarndance.bandcamp.com">Drunken Barn Dance</a>
+          </span>
+        
+        </h3>
+
+    
+
+    
+    </div>
+    <div class="middleColumn">
+        
+        
+
+        <div id="tralbumArt">
+        
+            
+                
+            
+        <a class="popupImage" href="https://f4.bcbits.com/img/a1601640487_10.jpg">
+            <img src="https://f4.bcbits.com/img/a1601640487_16.jpg" alt="Big Bend cover art" itemprop="image">
+        </a>
+        
+        </div>
+
+        
+            <div class="share-panel-wrapper-desktop"></div>            
+            
+                <div class="collected-by tralbum collectors">
+    <div class="message">
+        
+        supported by
+        
+    </div>
+    <div class="deets">
+    </div>
+</div>
+
+            
+        
+    </div>
+
+    <div id="trackInfo" class="leftColumn">
+        <div id="trackInfoInner">       
+            
+            
+            
+                <div class="inline_player "><table>
+    <tr>
+        <td class="play_cell" rowspan="2">
+            <a><div class="playbutton"></div></a>
+        </td>
+        <td class="track_cell" colspan="3">
+            <div class="track_info">
+                <span class="title-section hiddenelem">
+                    <a class="title_link primaryText" href="#"><span class="title"></span></a>
+                </span>
+                <span class="time secondaryText hiddenelem">
+                    <span class="time_elapsed"></span>
+                    /
+                    <span class="time_total"></span>
+                </span>
+                <span class="message hiddenelem"></span>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td class="progbar_cell">
+            <div class="progbar">
+                <div class="progbar_empty">
+                    <div class="progbar_fill"></div>
+                    <div class="thumb"></div>
+                </div>
+            </div>
+        </td>
+        <td class="prev_cell">
+            <a><div class="prevbutton hiddenelem"></div></a>
+        </td>
+        <td class="next_cell">
+            <a><div class="nextbutton hiddenelem"></div></a>
+        </td>
+    </tr>
+</table>
+</div>
+            
+        
+            
+            
+            
+            <ul class="tralbumCommands">
+                
+                 
+
+                
+                    
+
+
+<li class="buyItem">
+    <h3 class="hd">
+        <button class='download-link buy-link' type="button">
+          <span class="buyItemPackageTitle primaryText">Digital Album</span>
+        </button>
+    </h3>
+    
+    
+        <div class="bd">
+            Includes unlimited streaming via the free Bandcamp app, plus high-quality download in MP3, FLAC and more.
+            
+        </div>
+        
+        <script type="text/javascript">$(".buyItem .bd").last().bcTruncate(TruncateProfile.get("buyItem"))</script>
+    
+
+    
+
+    <h4 class="ft compound-button">
+        
+            <button class='download-link buy-link' type="button">Buy Now</button>
+        
+
+        
+        
+            <span class="base-text-color">&nbsp;$3.95</span>
+            <span class="buyItemExtra secondaryText">USD</span>
+            <span class="buyItemExtra buyItemNyp secondaryText">&nbsp;or more</span>
+        
+    </h4>
+    
+    <h4 class="ft compound-button send-as-gift">
+        <button type="button" class="download-link buy-link">Send as Gift</button>&nbsp;
+    </h4>
+    
+    
+</li>
+
+
+
+
+                 
+
+                
+                    
+                
+
+                
+                    
+                                 
+
+                 
+
+                
+                
+                    <li class="share-link-container new-share-collect">
+                        <h3><button id="share-link" class="compound-button"><span id="share-link-share">Share</span><span id="share-link-embed"> / Embed</span></button></h3>
+                    </li>
+                
+            </ul>
+            
+ 
+            <table class="track_list track_table" id="track_table">
+                
+                                
+                
+                
+                    
+                    <tr class="track_row_view linked" rel="tracknum=1"
+                        itemprop="tracks" itemscope itemtype="http://www.schema.org/MusicRecording">
+                        
+<td class="play-col"><a><div class="play_status disabled"></div></a></td>
+<td class="track-number-col"><div class="track_number secondaryText">1.</div></td>
+<td class="title-col">
+    <div class="title">
+    
+        <a href="/track/st-russell" itemprop="url"><span itemprop="name">St. Russell</span></a>
+    
+    
+    
+    
+    
+        <span class="time secondaryText">
+        
+            04:10
+        
+        </span>
+        <meta itemprop="duration" content="P00H04M10S"/>
+    
+    
+    
+
+    </div> 
+</td>
+
+<td class="info-col"><div class="info_link"><a href="/track/st-russell"></a></div></td>
+<td class="download-col">
+<div class="dl_link">
+
+<a href="/track/st-russell?action=download">
+    
+        buy track
+    
+</a>
+
+</div></td>
+
+                    </tr>
+                
+                
+                
+                
+                    
+                    <tr class="track_row_view linked" rel="tracknum=2"
+                        itemprop="tracks" itemscope itemtype="http://www.schema.org/MusicRecording">
+                        
+<td class="play-col"><a><div class="play_status disabled"></div></a></td>
+<td class="track-number-col"><div class="track_number secondaryText">2.</div></td>
+<td class="title-col">
+    <div class="title">
+    
+        <a href="/track/churches" itemprop="url"><span itemprop="name">Churches</span></a>
+    
+    
+    
+    
+    
+        <span class="time secondaryText">
+        
+            04:01
+        
+        </span>
+        <meta itemprop="duration" content="P00H04M01S"/>
+    
+    
+    
+
+    </div> 
+</td>
+
+<td class="info-col"><div class="info_link"><a href="/track/churches"></a></div></td>
+<td class="download-col">
+<div class="dl_link">
+
+<a href="/track/churches?action=download">
+    
+        buy track
+    
+</a>
+
+</div></td>
+
+                    </tr>
+                
+                
+                
+                
+                    
+                    <tr class="track_row_view linked" rel="tracknum=3"
+                        itemprop="tracks" itemscope itemtype="http://www.schema.org/MusicRecording">
+                        
+<td class="play-col"><a><div class="play_status disabled"></div></a></td>
+<td class="track-number-col"><div class="track_number secondaryText">3.</div></td>
+<td class="title-col">
+    <div class="title">
+    
+        <a href="/track/celebrate-where-we-want" itemprop="url"><span itemprop="name">Celebrate Where We Want</span></a>
+    
+    
+    
+    
+    
+        <span class="time secondaryText">
+        
+            04:20
+        
+        </span>
+        <meta itemprop="duration" content="P00H04M20S"/>
+    
+    
+    
+
+    </div> 
+</td>
+
+<td class="info-col"><div class="info_link"><a href="/track/celebrate-where-we-want"></a></div></td>
+<td class="download-col">
+<div class="dl_link">
+
+<a href="/track/celebrate-where-we-want?action=download">
+    
+        buy track
+    
+</a>
+
+</div></td>
+
+                    </tr>
+                
+                
+                
+                
+                    
+                    <tr class="track_row_view linked" rel="tracknum=4"
+                        itemprop="tracks" itemscope itemtype="http://www.schema.org/MusicRecording">
+                        
+<td class="play-col"><a><div class="play_status disabled"></div></a></td>
+<td class="track-number-col"><div class="track_number secondaryText">4.</div></td>
+<td class="title-col">
+    <div class="title">
+    
+        <a href="/track/were-all-much-smarter-than-our-drinking-buddies-believe" itemprop="url"><span itemprop="name">We&#39;re All Much Smarter Than Our Drinking Buddies Believe</span></a>
+    
+    
+    
+    
+    
+        <span class="time secondaryText">
+        
+            02:54
+        
+        </span>
+        <meta itemprop="duration" content="P00H02M54S"/>
+    
+    
+    
+
+    </div> 
+</td>
+
+<td class="info-col"><div class="info_link"><a href="/track/were-all-much-smarter-than-our-drinking-buddies-believe"></a></div></td>
+<td class="download-col">
+<div class="dl_link">
+
+<a href="/track/were-all-much-smarter-than-our-drinking-buddies-believe?action=download">
+    
+        buy track
+    
+</a>
+
+</div></td>
+
+                    </tr>
+                
+                
+                
+            </table>
+            
+            
+                      
+            <h3 class="credits-label">credits</h3>
+            <div class="tralbumData tralbum-credits">
+            
+                released February 12, 2016
+                <meta itemprop="datePublished" content="20160212"/>
+            
+            
+            </div>
+            
+            
+            
+            
+
+    
+        <h3 class="tags-label">tags</h3>
+        <div class="tralbumData tralbum-tags">
+           <span class="tags-inline-label">tags:</span> 
+           <a class="tag" href="https://bandcamp.com/tag/rock" itemprop="keywords" rel="nofollow"
+                onmousedown="if (this.href.indexOf('?')==-1) this.href += '?from=tralbum&artist=3620791896';"
+                onclick="if (this.href.indexOf('?')==-1) this.href += '?from=tralbum&artist=3620791896';"
+                >rock</a>
+        
+           <a class="tag" href="https://bandcamp.com/tag/ypsilanti" itemprop="keywords" rel="nofollow"
+                onmousedown="if (this.href.indexOf('?')==-1) this.href += '?from=tralbum&artist=3620791896';"
+                onclick="if (this.href.indexOf('?')==-1) this.href += '?from=tralbum&artist=3620791896';"
+                >Ypsilanti</a>
+        </div>
+    
+
+
+            
+<h3 class="license-label">license</h3>
+<div id="license" class="info license">
+
+    <span class="cc-icons commercial"></span>all rights reserved
+
+
+
+</div>
+
+            
+
+    <h3 class="feed-label">feeds</h3>
+    <div class="tralbumData tralbum-feed">
+        <img src="https://s4.bcbits.com/img/icon_feed.gif">
+        
+            feeds for <a id="rssFeedAlbum" href="http://drunkenbarndance.bandcamp.com/feed/album/big-bend" target="_blank">this album</a>, <a id="rssFeedArtist" href="http://drunkenbarndance.bandcamp.com/feed" target="_blank">this artist</a>
+        
+    </div>
+
+        </div>
+    </div>
+    
+    
+    
+    
+</div>
+
+
+
+<div id="rightColumn" class="rightColumn"
+     itemscope itemtype="http://schema.org/MusicGroup">
+
+
+
+<script type="text/javascript">if (Cart) { Cart.contentsScriptLoad(); }</script>
+
+
+
+<meta itemprop="name" content="Drunken Barn Dance"/>
+
+
+
+
+
+
+
+<div id="bio-container" data-bind="css: {'ko-ready': $data}">
+    <h3 class="title bio-label hiddenAccess">about</h3>
+    
+        
+            
+            <div class="artists-bio-pic artists-bio-pic-uploaded  landscape">
+                <div class="signed-out bio-pic">
+                    <a class="popupImage" href="https://f4.bcbits.com/img/0004127233_10.jpg" data-image-size="772,513" data-image-preload="true">
+                        
+                        <img src="https://f4.bcbits.com/img/0004127233_21.jpg" class="band-photo" alt="Drunken Barn Dance image">
+                    </a>
+                </div>
+            </div>
+        
+    
+
+    <p id="band-name-location">
+        <span class="title">Drunken Barn Dance</span>
+        <span class="location secondaryText">Ypsilanti, Michigan</span>
+    </p>
+
+    <div id="following-actions">
+        
+        <button type="button" class="follow-unfollow compound-button" style="visibility: hidden;">
+            <div>placeholder</div>
+        </button>
+    </div>
+
+    
+        <div class="signed-out-artists-bio-text">
+            
+        </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+
+
+
+
+    
+    
+    
+
+
+    
+    
+     
+    
+    
+    
+
+    
+
+
+
+<div id="discography" class="sidebar" > 
+<h3 class="title"><a href="/music" class="link-and-title primaryText">discography</a></h3>
+<ul>
+    
+        
+        <li>
+        
+            <div>
+                <a class="thumbthumb " href="/album/big-bend">
+            
+                <img src="https://f4.bcbits.com/img/a1601640487_7.jpg">
+            
+            
+                </a>
+            </div>
+            
+            <div class="trackTitle"><a href="/album/big-bend">Big Bend</a></div>
+            
+            <div class="trackYear secondaryText">Feb 2016</div>
+            
+        </li>
+    
+        
+        <li>
+        
+            <div>
+                <a class="thumbthumb " href="/album/sequoia">
+            
+                <img src="https://f4.bcbits.com/img/a1989303091_7.jpg">
+            
+            
+                </a>
+            </div>
+            
+            <div class="trackTitle"><a href="/album/sequoia">Sequoia</a></div>
+            
+            <div class="trackYear secondaryText">Jun 2013</div>
+            
+        </li>
+    
+        
+        <li>
+        
+            <div>
+                <a class="thumbthumb " href="/album/isle-royale">
+            
+                <img src="https://f4.bcbits.com/img/a0286559748_7.jpg">
+            
+            
+                </a>
+            </div>
+            
+            <div class="trackTitle"><a href="/album/isle-royale">Isle Royale</a></div>
+            
+            <div class="trackYear secondaryText">Sep 2012</div>
+            
+        </li>
+    
+        
+        <li>
+        
+            <div>
+                <a class="thumbthumb " href="/album/grey-buried">
+            
+                <img src="https://f4.bcbits.com/img/a2903145265_7.jpg">
+            
+            
+                </a>
+            </div>
+            
+            <div class="trackTitle"><a href="/album/grey-buried">Grey Buried</a></div>
+            
+            <div class="trackYear secondaryText">Aug 2010</div>
+            
+        </li>
+    
+        
+        <li>
+        
+            <div>
+                <a class="thumbthumb " href="/album/drunken-barn-dance">
+            
+                <img src="https://f4.bcbits.com/img/a1393004795_7.jpg">
+            
+            
+                </a>
+            </div>
+            
+            <div class="trackTitle"><a href="/album/drunken-barn-dance">Drunken Barn Dance</a></div>
+            
+            <div class="trackYear secondaryText">Jun 2009</div>
+            
+        </li>
+    
+</ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 id="contact-help" class="title">contact / help</h3>
+
+
+
+
+<p><a href="/contact?b=3620791896&amp;n=Drunken%20Barn%20Dance" title="Send an email to Drunken Barn Dance">Contact Drunken Barn Dance</a></p>
+
+
+
+<p><a href="/help/downloading?from=tralbum_downloading" target="_blank">Streaming and <span id="sidebar-contact-label-break"><br></span>Download help</a></p>
+
+
+
+
+
+<p><a href="https://drunkenbarndance.bandcamp.com/yum">Redeem code</a></p>
+
+
+
+
+
+
+</div>
+
+<!--@@PAYMENTDATA@@-->
+
+<!--@@REFERRERDATA@@-->
+
+
+
+<script type= "text/javascript">
+ var urlsToTrackNums = {};
+</script>
+
+
+
+
+
+<div id="collectors-data" data-blob="{&quot;reviews&quot;:[],&quot;more_thumbs_available&quot;:false,&quot;thumbs&quot;:[{&quot;purchase_date&quot;:&quot;14 Feb 2016 02:29:05 GMT&quot;,&quot;why&quot;:null,&quot;featured_track_id&quot;:null,&quot;item_type&quot;:null,&quot;image_id&quot;:979911,&quot;item_id&quot;:null,&quot;name&quot;:&quot;Adam Kaczynski&quot;,&quot;fan_id&quot;:11138,&quot;username&quot;:&quot;akaczynski&quot;,&quot;url&quot;:&quot;https://bandcamp.com/11138&quot;},{&quot;purchase_date&quot;:&quot;19 Jan 2016 18:39:10 GMT&quot;,&quot;why&quot;:null,&quot;featured_track_id&quot;:null,&quot;item_type&quot;:null,&quot;image_id&quot;:3959007,&quot;item_id&quot;:null,&quot;name&quot;:&quot;Dustin Meyer&quot;,&quot;fan_id&quot;:378510,&quot;username&quot;:&quot;dustinmeyer&quot;,&quot;url&quot;:&quot;https://bandcamp.com/378510&quot;}],&quot;band_thanks_text&quot;:&quot;supported by&quot;,&quot;more_reviews_available&quot;:false}"></div>
+
+            <div style="clear:both"></div>
+        </div>
+        
+            <div id="pgFt">
+            
+                <div id="pgFt-inner" class="pgft-desktop">
+
+    <div id="footer-logo-wrapper">
+    
+        <a id="footer-logo" href="https://bandcamp.com?from=logo" ><span class="hiddenAccess">Bandcamp</span></a>
+    
+        <span id="webapp-selector-ui" class="webapp-selector-ui" style="display:none" data-webapps="[{&quot;hostnameBase&quot;:&quot;bender&quot;,&quot;appNumbers&quot;:[1,7],&quot;hostnameRange&quot;:[1,12]}]"></span>
+    </div>
+    
+    <ul id="legal" class="horizNav">
+        
+        <li id="login"><a href="https://bandcamp.com/login">log in</a></li>
+        
+        <li><a href="https://bandcamp.com/terms_of_use">terms of use</a></li>
+        <li><a href="https://bandcamp.com/privacy">privacy</a></li>
+        <li><a href="https://bandcamp.com/copyright">copyright policy</a></li>
+        
+            <li id="site-status"><a href="http://twitter.com/bandcampstatus" target="_blank">status</a></li>
+        
+        
+        
+        <li class="view-switcher desktop"><a>switch to mobile view</a></li>
+        
+    </ul>
+    <span class="static-content">&nbsp;</span>
+
+</div>
+
+
+            
+            </div>
+        
+
+        
+    </div>
+</div>
+
+
+
+
+
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/global_foot1_bundle_min_3c41362615abf02bdf5817c72fc9e62b.js"></script>
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/global_foot2_bundle_min_2c34b8d811cb82e6fe30e469edacee14.js"></script>
+
+
+
+
+<script type="text/javascript">
+    
+    JSLoader.writeScriptTags( "foot" );
+    
+</script>    
+
+
+
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/tralbum_bundle_min_aec3276116c9956bce992a45a0862406.js"></script>
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/tralbum_templates_bundle_min_ad6114765b166e8b4d7c3dc8cc2287c5.js"></script>
+<script type="text/javascript" src="https://s4.bcbits.com/tmpdata/cache/jquery_lazyload_bundle_min_e16b495dfa3434859bb3fa0026e3a292.js"></script>
+
+<script type="text/javascript">
+    
+    
+
+    Dom.initActiveElement();
+</script>
+
+
+
+<script type="text/javascript">
+    (function() {
+
+        Y.util.Event.onDOMReady( function() {
+            Control.handleDomReady();
+            FieldHints.init();
+            Dom.scrollToParamElt();
+        });
+
+    })();
+    
+</script>
+
+
+
+    
+<script type="text/javascript">
+if (!isDebug) {
+    var _gaq = _gaq || [];
+    var _qevents = _qevents || [];
+    
+
+    (function() {
+        var doc = document, isHttps = ('https:' == doc.location.protocol);
+        function loadScript(src) {
+            var n = doc.createElement('script'), s = doc.getElementsByTagName('script')[0]; 
+            n.type = 'text/javascript'; n.async = true; n.src = src;
+            s.parentNode.insertBefore(n, s);            
+        }
+
+        
+        _gaq.push(
+            ['_setAccount', 'UA-4189134-2'],
+            ['_setDomainName', 'bandcamp.com'], 
+            ['_setAllowAnchor', true],
+            ['_trackPageview']
+        
+        );
+        loadScript((isHttps ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+
+        
+        _qevents.push({qacct:'p-0207-dhLCDgvg'});
+        loadScript((isHttps ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js');
+
+        
+
+    })();
+}
+</script>
+<noscript>
+    <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-0207-dhLCDgvg.gif" border="0" height="1" width="1" alt=""></div>
+</noscript>
+ 
+
+
+</body>
+</html>
+<!-- bender10-1 Sat Apr 30 22:26:12 UTC 2016 -->
+<!-- album id 2110027341 -->

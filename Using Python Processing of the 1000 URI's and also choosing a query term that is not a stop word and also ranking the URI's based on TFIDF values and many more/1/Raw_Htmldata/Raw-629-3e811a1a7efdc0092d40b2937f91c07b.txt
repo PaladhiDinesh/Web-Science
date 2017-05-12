@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html><head>
+<title>Trump: Markets in a 'big, fat, juicy bubble'</title><meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@HotpageInfo" />
+<meta name="twitter:title" content="Trump: Markets in a 'big, fat, juicy bubble'" />
+<meta name="twitter:description" content=" &gt;&gt;Read the full article on <i>CNBC</i>" />
+<meta name="twitter:image" content="http://images.hotpage.info/thumbs/20160208/lg/hpi56b8f35cd3c1b1.41090719.jpeg" />
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-41028809-1', 'auto');
+  ga('send', 'pageview');
+  ga('send','event','redirect', "http://www.cnbc.com/2016/02/08/trump-markets-in-a-big-fat-juicy-bubble.html");
+  setTimeout(function(){ document.location.href = "http://www.cnbc.com/2016/02/08/trump-markets-in-a-big-fat-juicy-bubble.html"; },1500);	
+</script>
+</body>

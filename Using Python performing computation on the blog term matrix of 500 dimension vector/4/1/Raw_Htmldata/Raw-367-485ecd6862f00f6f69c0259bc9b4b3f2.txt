@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 " lang="it-IT" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 " lang="it-IT" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html class="" lang="it-IT" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Walmart punta sul carburante: in apertura stazioni proprie | Gdoweek</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.gdoweek.it/xmlrpc.php" />
+		<link rel="apple-touch-icon" sizes="57x57" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon" sizes="114x114" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon" sizes="72x72" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon" sizes="60x60" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-60x60.png" />
+		<link rel="apple-touch-icon" sizes="120x120" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-120x120.png" />
+		<link rel="apple-touch-icon" sizes="76x76" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-76x76.png" />
+		<link rel="apple-touch-icon" sizes="152x152" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/apple-touch-icon-152x152.png" />
+			<link rel="icon" type="image/png" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/favicon-16x16.png" sizes="16x16" />
+		<link rel="icon" type="image/png" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/png" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/favicon-160x160.png" sizes="160x160" />
+		<link rel="icon" type="image/png" href="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/favicon-196x196.png" sizes="196x196" />
+		<!--[if lt IE 9]>
+	<script src="http://www.gdoweek.it/wp-content/themes/outspoken/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Il colosso Walmart chiude la partnership con la company Murphy Usa e si prepara a brandizzare e a gestire in autonomia i prossimi distributori di benzina"/>
+<link rel="canonical" href="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Walmart punta sul carburante: in apertura stazioni proprie | Gdoweek" />
+<meta property="og:description" content="Il colosso Walmart chiude la partnership con la company Murphy Usa e si prepara a brandizzare e a gestire in autonomia i prossimi distributori di benzina" />
+<meta property="og:url" content="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/" />
+<meta property="og:site_name" content="Gdoweek" />
+<meta property="article:tag" content="Carburanti" />
+<meta property="article:section" content="News" />
+<meta property="article:published_time" content="2016-02-08T14:49:23+00:00" />
+<meta property="article:modified_time" content="2016-02-08T14:53:19+00:00" />
+<meta property="og:updated_time" content="2016-02-08T14:53:19+00:00" />
+<meta property="og:image" content="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/walmart-gas-station.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Gdoweek &raquo; Feed" href="http://www.gdoweek.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gdoweek &raquo; Feed dei commenti" href="http://www.gdoweek.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gdoweek &raquo; Walmart punta sul carburante: in apertura stazioni proprie Feed dei commenti" href="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gdoweek.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ag24-pixelbook-plugin-css'  href='http://www.gdoweek.it/wp-content/plugins/ag24-pixelbook/css/styles.css?ver=0.1' type='text/css' media='' />
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://riviste.newbusinessmedia.it/gdoweek/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://www.gdoweek.it/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.55' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='http://www.gdoweek.it/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rotatingtweets-css'  href='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/css/style.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gdo-fonts-css'  href='http://fonts.googleapis.com/css?family=Advent+Pro%3A400%2C700%7CSource+Sans+Pro%3A400%2C400italic%2C700%2C700italic&#038;ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='outspoken-style-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/style.css?ver=4.4' type='text/css' media='all' />
+<style id='outspoken-style-inline-css' type='text/css'>
+html {
+	height: 100%;
+	font-size: 60%;
+}html,
+button,
+input,
+select,
+textarea {
+	font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.outspoken-gallery.uncropped article > a {
+	padding-bottom: 56.834532374101%;
+}
+
+.entry-media .cropped {
+	padding-bottom: 56.834532374101%;
+}
+</style>
+<link rel='stylesheet' id='gdo-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/gdo-style.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.gdoweek.it/wp-content/plugins/tablepress/css/default.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gdo-tablepress-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/gdo-tablepress.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gdo-events-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/gdo-events.css?ver=0.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='gdo-ie8-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/ie8.css?ver=0.0.1' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE 9]>
+<link rel='stylesheet' id='gdo-ie9-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/ie9.css?ver=0.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='gdo-print-css'  href='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/css/gdo-print.css?ver=0.0.1' type='text/css' media='print' />
+<link rel='stylesheet' id='fancybox-style-css'  href='http://www.gdoweek.it/wp-content/themes/outspoken/fancybox/jquery.fancybox.css?ver=4.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='outspoken-ie-css'  href='http://www.gdoweek.it/wp-content/themes/outspoken/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.gdoweek.it/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.gdoweek.it/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='MUoutspokenshare-css'  href='http://www.gdoweek.it/wp-content/themes/outspoken/css/MUoutspokenshare.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.gdoweek.it/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wptoolset-field-datepicker-css'  href='http://www.gdoweek.it/wp-content/plugins/wp-views/embedded/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/jquery-ui-1.11.4.custom.css?ver=1.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='views-pagination-style-css'  href='http://www.gdoweek.it/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='scroll-triggered-boxes-css'  href='http://www.gdoweek.it/wp-content/plugins/scroll-triggered-boxes/assets/css/styles.min.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hide-username-css'  href='http://www.gdoweek.it/wp-content/plugins/nbm-hideusername/hide-username.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='UserAccessManagerAdmin-css'  href='http://www.gdoweek.it/wp-content/plugins/user-access-manager/css/uamAdmin.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='UserAccessManagerLoginForm-css'  href='http://www.gdoweek.it/wp-content/plugins/user-access-manager/css/uamLoginForm.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-members-css'  href='http://www.gdoweek.it/wp-content/plugins/wp-members/css/generic-no-float.css?ver=2.9.9.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-26033099-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/js/jquery.cycle.all.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/js/rotating_tweet.js?ver=1.7.18'></script>
+<script type='text/javascript' src='http://riviste.newbusinessmedia.it/gdoweek/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.gdoweek.it\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.gdoweek.it\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"it","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/www.gdoweek.it\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"1","is_ssl":"","txt_search":"Ricerca","txt_searching":"Ricerca ...","txt_loading":"Caricamento in corso ...","locale_data":{"closeText":"Fatto","prevText":"Precedente","nextText":"Prossimo","currentText":"Oggi","monthNames":["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],"monthNamesShort":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"dayNames":["Domenica","Luned\u00ec","Marted\u00ec","Mercoled\u00ec","Gioved\u00ec","Venerd\u00ec","Sabato"],"dayNamesShort":["Dom","Lun","Mar","Mer","Gio","Ven","Sab"],"dayNamesMin":["Do","Lu","Ma","Me","Gi","Ve","Sa"],"weekHeader":"Wk","dateFormat":"dd\/mm\/yy","firstDay":1,"isRTL":false,"showMonthAfterYear":false,"yearSuffix":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.55'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/fd-footnotes/fdfootnotes.js?ver=1.34'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/js/uti.js?ver=0.0.0'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/js/nbm-functions.js?ver=0.0.1'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/gdo-outspoken/js/multi-yt-video.min.js?ver=0.0.0'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/apple_viewportmeta.js?ver=2013-11-11'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/user-access-manager/js/functions.js?ver=4.4'></script>
+<link rel='https://api.w.org/' href='http://www.gdoweek.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gdoweek.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gdoweek.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4" />
+<link rel='shortlink' href='http://www.gdoweek.it/?p=11411513' />
+<link rel="alternate" type="application/json+oembed" href="http://www.gdoweek.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.gdoweek.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F&#038;format=xml" />
+
+<!-- NBM_Retargeting HEAD BEGIN (fb) for www.gdoweek.it -->
+
+<!-- BEGIN: tag_fb_nbm -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1126676760698405');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1126676760698405&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- END: tag_fb_nbm -->
+
+<!-- BEGIN: tag_fb_tn -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '994576847320083');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=994576847320083&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- END: tag_fb_tn -->
+
+<!-- BEGIN: tag_analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6404493-27', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- END: tag_analytics -->
+
+<!-- NBM_Retargeting HEAD END -->
+<!-- WP-Members version 2.9.9.1, available at http://rocketgeek.com/wp-members -->
+				<!-- WordPress Popular Posts v3.3.2 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://www.gdoweek.it/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=b13cfe4f0e&wpp_id=11411513';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.2 -->
+				<link rel="amphtml" href="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/amp/" /><style type="text/css">
+/* Custom Styles for Box 11411450 */
+.stb-11411450 {
+background: #339999 !important;
+color: #ffffff !important;
+border-color: #ffffff !important;
+border-width: 3px !important;
+border-style: solid !important;
+max-width: 300px;
+@media ( max-width: 300px ) { #stb-11411450 { display: none !important; } }
+}
+
+.stb-11411450 { padding: 30px; text-align: center; margin-right: 50px; margin-bottom: 3px; }
+.stb-11411450 h2, .stb-11411450 h4 { margin: 0; color: #fff; font-size: 20px; line-height: 26px; }
+.stb-11411450 h2 { margin: 20px 0;  font-size: 28px; }
+.stb-11411450 h4 { font-family: "Source Sans Pro",sans-serif; }
+.stb-11411450 h2 a { display: block; background-color: #fff; color: #399; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 5px 0; }
+.stb-11411450 .bollo { width: 150px; height: 150px; margin: 0 auto; background: rgba(255,255,255,0.3); -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%; }
+.stb-11411450 .bollo p { margin: 0;  font-size: 18px; }
+.stb-11411450 .bollo p.giorno { padding-top: 30px; }
+.stb-11411450 .bollo p.data { font-size: 28px; line-height: 22px; font-weight: bold; font-family: "Advent Pro", sans-serif; }
+.stb-11411450 .bollo p.data b { letter-spacing: 2px; }</style>
+
+</head>
+
+<body class="zleader single single-post postid-11411513 single-format-standard sidebar views-template-ctarticolo">
+		<div class="zedo striscia">
+<!-- Zedo striscia begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="990"; var zflag_height="30"; var zflag_sz="21"; 
+</script>
+<!-- Zedo striscia end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+	<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+				<div class="searchformcontainer"><form role="search" method="get" class="searchform" action="http://www.gdoweek.it/">
+	<div class="searchform-wrapper">
+		<label><span class="screen-reader-text">Cerca:</span>
+			<input type="text" placeholder="Cerca" value="" name="s" title="Cerca:" />
+		</label>
+		<input type="submit" class="searchsubmit" value="Cerca" />
+	</div>
+</form>
+<span class="clr"></span></div>
+			<div id="navbar">
+				<div id="search-toggle" class="navbar">
+					<span class="icon">s</span>
+					<span class="pointer"></span>
+				</div>
+											</div><!-- #navbar -->
+			<div class="site-title">
+				<div class="home-link">
+					<a href="http://www.gdoweek.it/" title="Gdoweek" rel="home">
+						<img src="http://www.gdoweek.it/wp-content/uploads/sites/7/2014/11/gdoweek-logo.png" alt="Gdoweek" title="Gdoweek" />
+					</a>
+				</div>			
+				
+				
+				
+				<div id="wp_views-3" class="widget widget_wp_views">
+
+ <div class="ultimonum">
+<div id="wpv-view-layout-11400649" class="js-wpv-view-layout js-wpv-layout-responsive" data-viewnumber="11400649" data-pagination="{&quot;ajax&quot;:&quot;false&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:&quot;500&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;1&quot;,&quot;preload_pages&quot;:&quot;1&quot;,&quot;pre_reach&quot;:&quot;1&quot;,&quot;spinner&quot;:&quot;default&quot;,&quot;spinner_image&quot;:&quot;http://test.mark-up.it/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1}">
+<input type="hidden" id="js-wpv-pagination-page-permalink" value="/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/?wpv_view_count=11400649&#038;wpv_paged=1" />
+	
+	<!-- wpv-loop-start -->
+  	<div class="gdo">
+     	
+          <a href="http://www.gdoweek.it/gdoweek-il-n-2-in-distribuzione/" title="Gdoweek, il n. 2 in distribuzione"><img width="214" height="300" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/Gdoweek_2_2015_Cover-214x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Gdoweek_2_2015_Cover" /></a>
+	    
+  </div>
+    <!-- wpv-loop-end -->
+	
+    
+
+ <div id="wpv-view-layout-11400648" class="js-wpv-view-layout js-wpv-layout-responsive" data-viewnumber="11400648" data-pagination="{&quot;ajax&quot;:&quot;false&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:&quot;500&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;1&quot;,&quot;preload_pages&quot;:&quot;1&quot;,&quot;pre_reach&quot;:&quot;1&quot;,&quot;spinner&quot;:&quot;default&quot;,&quot;spinner_image&quot;:&quot;http://test.mark-up.it/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1}">
+<input type="hidden" id="js-wpv-pagination-page-permalink" value="/?wpv_view_count=11400648&#038;wpv_paged=1" />
+	
+	
+     	
+          <div class="retnews">
+            <a href="http://www.gdoweek.it/flip/gdoweek-product-news-03-2016/" title="Gdoweek Product News 03-2016" target="_blank"><img width="231" height="300" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016-231x300.jpg" class="attachment-medium size-medium wp-post-image" alt="cover-product-news-3-2016" srcset="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016-231x300.jpg 231w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016.jpg 300w" sizes="(max-width: 231px) 100vw, 231px" /></a>
+          </div>
+	    
+	
+	
+	
+</div>
+	<ul class="abb-nwl">
+      <li class="abbonati"><a href="http://shop.newbusinessmedia.it/collections/riviste/products/gdoweek" target="_blank">Abbonati</a></li>
+      <li class="nwl">
+        <a href="/iscriviti-alla-newsletter/">Iscriviti alla newsletter</a>
+      </li>
+</ul>
+</div>
+</div></div><div id="wpshower_follow_us-2" class="widget widget_wpshower_follow_us"><h2 class="widgettitle">Seguici</h2>
+
+		<ul>
+								<li class="wpshower-follow-fb"><a href="https://www.facebook.com/pages/Gdoweek/1515196868736571" target="_blank"><span>f</span>Facebook</a></li>
+																<li class="wpshower-follow-tw"><a href="https://twitter.com/Gdoweek" target="_blank"><span>w</span>Twitter</a></li>
+																					<li class="wpshower-follow-pint"><a href="http://www.pinterest.com/gdoweek/" target="_blank"><span>p</span>Pinterest</a></li>
+																													</ul>
+
+		</div>				<div id="section-toggle"><span></span></div>
+			</div>
+			
+			<nav id="section-navigation" class="navbar navigation main-navigation" role="navigation">
+				<div class="menu-top_menu-container"><ul id="menu-top_menu" class="nav-menu"><li id="menu-item-11400680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400680"><a href="http://www.gdoweek.it/piu-visti/">Più visti</a></li><li id="menu-item-11400623" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-11400623"><a href="http://www.gdoweek.it/category/news/">News</a></li><li id="menu-item-11400630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11400630"><a href="http://www.gdoweek.it/category/gallery/">Gallery</a></li><li id="menu-item-11400685" class="gdotv menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11400685"><a href="http://www.gdoweek.it/category/video/">Video</a></li><li id="menu-item-11401467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11401467"><a href="http://www.gdoweek.it/eventi/">Eventi</a></li><li id="menu-item-11404716" class="ba menu-item menu-item-type-custom menu-item-object-custom menu-item-11404716"><a href="/brandsaward">Brands Award</a></li><li id="menu-item-11405282" class="ttmenu menu-item menu-item-type-custom menu-item-object-custom menu-item-11405282"><a href="/thinktank">Think Tank</a></li></ul></div>				
+			</nav><!-- #section-navigation -->
+	
+	</header><!-- #masthead -->
+
+			<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Navigazione articolo</h1>
+		<div class="nav-previous">
+			<a href="http://www.gdoweek.it/amazon-walmart-chi-vincera-la-sfida-dei-prossimi-anni/" rel="prev"><span class="arrow">&lt;</span><span class="meta-nav">Amazon-Walmart: chi vincerà la sfida dei prossimi anni?</span></a>		</div>
+		<div class="nav-next">
+			<a href="http://www.gdoweek.it/coop-lombardia-per-san-valentino-alimenta-lamore/" rel="next"><span class="meta-nav">Coop Lombardia per San Valentino Alimenta l’Amore</span><span class="arrow">&gt;</span></a>		</div>
+	</nav><!-- .navigation -->
+		
+		<div id="main" class="site-main">
+							<div class="lbbc">
+		<div class="zedo leaderboard">
+<!-- Zedo leaderboard begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14"; 
+</script>
+<!-- Zedo leaderboard end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<div class="breadcrumb"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.gdoweek.it" rel="v:url" property="v:title">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.gdoweek.it/category/news/" rel="v:url" property="v:title">News</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.gdoweek.it/category/news/retail/" rel="v:url" property="v:title">Retail</a> » <span class="breadcrumb_last">Walmart punta sul carburante: in apertura stazioni proprie</span></span></span></span></span></div>			</div>
+		
+
+		
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
+
+		<article id="post-11411513" class="post-11411513 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-retail category-servizi-e-tecnologie tag-carburanti">
+
+			<header class="entry-header">
+				<div class="entry-meta-top">
+					<span class="categories-links"><a href="http://www.gdoweek.it/category/news/" rel="category tag">News</a>, <a href="http://www.gdoweek.it/category/news/retail/" rel="category tag">Retail</a>, <a href="http://www.gdoweek.it/category/news/servizi-e-tecnologie/" rel="category tag">Servizi e tecnologie</a></span>				</div><!-- .entry-meta -->
+
+				<h1 class="entry-title">Walmart punta sul carburante: in apertura stazioni proprie</h1>
+
+				
+	<div class="share">				<a class="fb" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F&t=Walmart+punta+sul+carburante%3A+in+apertura+stazioni+proprie" title="Facebook"></a>
+		<a class="tw" target="_blank" href="http://twitter.com/share?text=Walmart+punta+sul+carburante%3A+in+apertura+stazioni+proprie&url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F" title="Twitter"></a>
+		<a class="g" target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F" title="Google+"></a>
+		<a class="pint" target="_blank" href="http://pinterest.com/pin/create/link/?url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F&media=http%3A%2F%2Fwww.gdoweek.it%2Fwp-content%2Fuploads%2Fsites%2F7%2F2016%2F02%2Fwalmart-gas-station-436x291.jpg&description=Walmart+punta+sul+carburante%3A+in+apertura+stazioni+proprie" title="Pinterest"></a>
+		<a class="ln" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.gdoweek.it%2Fwalmart-punta-sulla-benzina-in-apertura-stazioni-proprie%2F" title="Linkedin"></a>
+		<a class="eml" target="_blank" href="mailto:?subject='Walmart punta sul carburante: in apertura stazioni proprie'&amp;body=http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/" title="E-mail"></a>
+	</div>
+
+	
+				<div class="entry-meta">
+					<span class="author vcard"><a class="url fn n" href="http://www.gdoweek.it/author/cbertoletti/" title="Visualizza tutti gli articoli di Chiara Bertoletti" rel="author">Chiara Bertoletti</a></span><span class="separator">&bull;</span><span class="date"><a href="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/" title="Permalink a Walmart punta sul carburante: in apertura stazioni proprie" rel="bookmark"><time class="entry-date" datetime="2016-02-08T14:49:23+00:00">8 febbraio 2016</time></a></span>				</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				
+  
+	<div class="article-image"><img width="600" height="379" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/walmart-gas-station.jpg" class="attachment-outspoken-image-post size-outspoken-image-post wp-post-image" alt="walmart_distributore benzina" srcset="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/walmart-gas-station-300x190.jpg 300w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/walmart-gas-station-436x275.jpg 436w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/walmart-gas-station.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+  
+
+
+<p>Dopo 20 anni di partnership con l’azienda <strong>Murphy Usa</strong>, situata in Arkansas, il colosso del retail Walmart prende il controllo del business carburanti. Le prossime stazioni di benzina in apertura all’esterno degli store saranno infatti brandizzate con il marchio della catena e gestite in completa autonomia da quest’ultima.</p>
+<p><a href="http://www.gdoweek.it/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/7ea88a2afc5696997258e510a8f13dc4/" rel="attachment wp-att-11411516"><img class="alignleft size-medium wp-image-11411516" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/7ea88a2afc5696997258e510a8f13dc4-300x203.jpg" alt="Murphy Usa" width="300" height="203" /></a>Allo stato attuale, Walmart controlla solo un paio di centinaia di distrubutori, mentre la maggioranza, pari a circa 1.100, è gestita da Murphy Usa. La company continuerà a supervisionare tali stazioni, proseguendo con il piano che prevede di aprirne altri 60, ma in virtù della <strong>nuova strategia</strong> sarà esclusa dalle successive inaugurazioni.</p>
+<p>Il cambio di rotta comporterà l’impiego alle pompe di benzina dei dipendenti di Walmart, che potrà così raccogliere i proventi oltre che del carburante degli articoli convenience e delle sigarette. <strong>L’idea è quella di aprire quante più stazioni possibili</strong> nei pressi dei punti di vendita, implementando parallelamente l’esperienza globale della clientela, come confermato dal portavoce della catena Randy Hargrove.</p>
+
+
+
+
+
+	
+
+ 
+	<ul class="link">
+		
+		
+	</ul>
+				<div class="tags-links">Tag:<a href="http://www.gdoweek.it/tag/carburanti/" rel="tag">Carburanti</a></div>							</div><!-- .entry-content -->
+
+
+		</article><!-- #post -->
+
+		<div class="widget-area">
+					</div>
+
+		
+<div id="comments" class="comments-area">
+
+
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Pubblica i tuoi commenti <small><a rel="nofollow" id="cancel-comment-reply-link" href="/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/#respond" style="display:none;">Annulla</a></small></h3>				<form action="http://www.gdoweek.it/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="comment-form-comment"><label for="comment">Il tuo messaggio</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Il tuo messaggio"></textarea></p><p class="comment-form-author"><label for="author">Nome</label><input id="author" name="author" type="text" value="" size="30" aria-required="true" placeholder="Nome" /></p>
+<p class="comment-form-email"><label for="email">E-mail (non sar&agrave; pubblicata)</label><input id="email" name="email" type="text" value="" size="30" aria-required="true" placeholder="E-mail (non sar&agrave; pubblicata)" /></p>
+<p class="comment-form-url"><label for="url">Il tuo sito</label><input id="url" name="url" type="text" value="" size="30" placeholder="Il tuo sito" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Invia un commento" /> <input type='hidden' name='comment_post_ID' value='11411513' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+</div><!-- #comments -->
+
+
+	</div><!-- #content -->
+</div><!-- #primary -->
+
+<div id="tertiary" class="sidebar-container" role="complementary">
+	<div class="sidebar-inner">
+		<div class="widget-area">
+			<aside id="wpshower_index_code-3" class="widget widget_wpshower_index_code"><h6 class="widget-title">facebook</h6>		<div class="textwidget"><div class="cff-wrapper"><div id="cff" data-char="200" ><div class="cff-item cff-link-item author-gdoweek" id="cff_1515196868736571_1684412175148372" ><div class="cff-author"><a href="https://facebook.com/1515196868736571" target="_blank" rel="nofollow" title="Gdoweek on Facebook" ><div class="cff-author-text"><p class="cff-page-name cff-author-date">Gdoweek</p><p class="cff-date" > 3 weeks ago </p></div><div class="cff-author-img"><img src="https://graph.facebook.com/1515196868736571/picture?type=square" title="Gdoweek" alt="Gdoweek" width=40 height=40></div></a></div><p class="cff-post-text" ><span class="cff-text" data-color=""><a href="http://facebook.com/1515196868736571">Gdoweek</a> ha condiviso un link. </span><span class="cff-expand">... <a href="#" style="color: #"><span class="cff-more">See More</span><span class="cff-less">See Less</span></a></span></p><div class="cff-shared-link" style="border: 1px solid #; "><div class="cff-text-link cff-no-image"><p class="cff-link-title" ><a href="http://www.gdoweek.it/esselunga-e-sindacati-raggiungono-laccordo-su-domenica-e-festivi/" target="_blank" rel="nofollow" style="color:#;">Esselunga e sindacati raggiungono l'accordo su domenica e festivi | GDOWEEK</a></p><p class="cff-link-caption" style="color:#;">gdoweek.it</p><p class="cff-post-desc" style="font-size:12px; "><span>L'accordo tra Esselunga e sindacati prevede in via sperimentale una programmazione trimestrale del lavoro domenicale su base volontaria </span></p></div></div><div class="cff-post-links"><a class="cff-viewpost-facebook" href="https://www.facebook.com/1515196868736571_1684412175148372" title="View on Facebook" target="_blank" rel="nofollow" >View on Facebook</a><div class="cff-share-container"><span class="cff-dot" >&middot;</span><a class="cff-share-link" href="javascript:void(0);" title="Share" >Share</a><p class='cff-share-tooltip'><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2F1515196868736571_1684412175148372' target='_blank' class='cff-facebook-icon'><i class='fa fa-facebook-square'></i></a><a href='https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2F1515196868736571_1684412175148372' target='_blank' class='cff-twitter-icon'><i class='fa fa-twitter'></i></a><a href='https://plus.google.com/share?url=https%3A%2F%2Fwww.facebook.com%2F1515196868736571_1684412175148372' target='_blank' class='cff-google-icon'><i class='fa fa-google-plus'></i></a><a href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.facebook.com%2F1515196868736571_1684412175148372&amp;title=Gdoweek%20ha%20condiviso%20un%20link.%20...%20See%20MoreSee%20Less' target='_blank' class='cff-linkedin-icon'><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=Facebook&amp;body=https%3A%2F%2Fwww.facebook.com%2F1515196868736571_1684412175148372%20-%20Gdoweek%20ha%20condiviso%20un%20link.%20...%20See%20MoreSee%20Less' target='_blank' class='cff-email-icon'><i class='fa fa-envelope'></i></a><i class='fa fa-play fa-rotate-90'></i></p></div></div></div></div><div class="cff-clear"></div></div></div>
+		</aside><div class="zedo rettangolo">
+<!-- Zedo rettangolo begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; 
+</script>
+<!-- Zedo rettangolo end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<aside id="rotatingtweets_widget-3" class="widget widget_rotatingtweets_widget"><h6 class="widget-title">Twitter</h6>
+<div class='rotatingtweets rotatingtweets_format_1' id='rotatingtweets_4000_scrollUp_1000_56c25c75dd6a1' data-cycle-auto-height="calc" data-cycle-fx="scrollUp" data-cycle-pause-on-hover="true" data-cycle-timeout="4000" data-cycle-speed="1000" data-cycle-easing="swing" data-cycle-slides="div.rotatingtweet" data-cycle-log="false">
+	<div class = 'rotatingtweet'>
+	<div class='rtw_info'>
+		<div class='rtw_twitter_icon'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/twitter-bird-16x16.png' width='16' height='16' alt='Twitter' /></div>
+		<div class='rtw_icon'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'><img src='https://pbs.twimg.com/profile_images/492287584312127488/0L8jSYq8_normal.jpeg' alt='Gdoweek' /></a></div>
+		<div class='rtw_name'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>Gdoweek</a></div>
+		<div class='rtw_id'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>@Gdoweek</a></div>
+	</div>
+	<p class='rtw_main'>Conad fa dietrofront e rinuncia al centro commerciale di Udine <a href='https://t.co/fsLDi8CcJY' title='http://www.gdoweek.it/conad-fa-dietrofront-e-rinuncia-al-centro-commerciale-di-udine/' class='rtw_url_link'>gdoweek.it/conad-fa-dietr…</a> <a href="http://twitter.com/search?q=%23retail&amp;src=hash" title="#retail" class="rtw_hashtag_link">#retail</a> <a href='https://t.co/VtLjeFIxgj' title='http://twitter.com/Gdoweek/status/699211550268248065/photo/1' class='rtw_media_link'>pic.twitter.com/VtLjeFIxgj</a></p>
+	<div class='rtw_meta'><div class='rtw_intents'>
+			<a href='https://twitter.com/intent/tweet?in_reply_to=699211550268248065' title='Risposta' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/reply.png' width='16' height='16' alt='Risposta' /></a>
+			<a href='https://twitter.com/intent/retweet?tweet_id=699211550268248065' title='Retweet' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/retweet.png' width='16' height='16' alt='Retweet' /></a>
+			<a href='https://twitter.com/intent/favorite?tweet_id=699211550268248065' title='Preferiti' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/favorite.png' width='16' height='16' alt='Preferiti' /></a></div>
+	<div class='rtw_timestamp'><a  href="https://twitter.com/twitterapi/status/699211550268248065">12:39 &middot; 15 febbraio 2016</a></div>
+</div></div>
+	<div class = 'rotatingtweet' style='display:none'>
+	<div class='rtw_info'>
+		<div class='rtw_twitter_icon'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/twitter-bird-16x16.png' width='16' height='16' alt='Twitter' /></div>
+		<div class='rtw_icon'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'><img src='https://pbs.twimg.com/profile_images/492287584312127488/0L8jSYq8_normal.jpeg' alt='Gdoweek' /></a></div>
+		<div class='rtw_name'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>Gdoweek</a></div>
+		<div class='rtw_id'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>@Gdoweek</a></div>
+	</div>
+	<p class='rtw_main'>Simply Italia: 1.200 negozi aderiscono a M’illumino di meno <a href='https://t.co/nOwAcMZKsA' title='http://www.gdoweek.it/simply-italia-1-200-negozi-aderiscono-a-millumino-di-meno/' class='rtw_url_link'>gdoweek.it/simply-italia-…</a> <a href='https://twitter.com/intent/user?user_id=2162449171' title='ViviSimply' lang='it'>@ViviSimply</a> <a href='https://twitter.com/intent/user?user_id=829343604' title='Paola Grossetti' lang='it'>@PaolaGrossetti</a> <a href='https://t.co/mLxN13x0I0' title='http://twitter.com/Gdoweek/status/699186773868552192/photo/1' class='rtw_media_link'>pic.twitter.com/mLxN13x0I0</a></p>
+	<div class='rtw_meta'><div class='rtw_intents'>
+			<a href='https://twitter.com/intent/tweet?in_reply_to=699186773868552192' title='Risposta' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/reply.png' width='16' height='16' alt='Risposta' /></a>
+			<a href='https://twitter.com/intent/retweet?tweet_id=699186773868552192' title='Retweet' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/retweet.png' width='16' height='16' alt='Retweet' /></a>
+			<a href='https://twitter.com/intent/favorite?tweet_id=699186773868552192' title='Preferiti' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/favorite.png' width='16' height='16' alt='Preferiti' /></a></div>
+	<div class='rtw_timestamp'><a  href="https://twitter.com/twitterapi/status/699186773868552192">11:01 &middot; 15 febbraio 2016</a></div>
+</div></div>
+	<div class = 'rotatingtweet' style='display:none'>
+	<div class='rtw_info'>
+		<div class='rtw_twitter_icon'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/twitter-bird-16x16.png' width='16' height='16' alt='Twitter' /></div>
+		<div class='rtw_icon'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'><img src='https://pbs.twimg.com/profile_images/492287584312127488/0L8jSYq8_normal.jpeg' alt='Gdoweek' /></a></div>
+		<div class='rtw_name'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>Gdoweek</a></div>
+		<div class='rtw_id'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>@Gdoweek</a></div>
+	</div>
+	<p class='rtw_main'>Whole Foods Market amplia negli Usa la rete 365 <a href='https://t.co/X62AwML9bN' title='http://www.gdoweek.it/whole-foods-market-amplia-negli-usa-la-rete-365/' class='rtw_url_link'>gdoweek.it/whole-foods-ma…</a> <a href='https://twitter.com/intent/user?user_id=15131310' title='Whole Foods Market' lang='it'>@WholeFoods</a> <a href="http://twitter.com/search?q=%23retail&amp;src=hash" title="#retail" class="rtw_hashtag_link">#retail</a> <a href='https://t.co/jaGxMMICbB' title='http://twitter.com/Gdoweek/status/697778806522802177/photo/1' class='rtw_media_link'>pic.twitter.com/jaGxMMICbB</a></p>
+	<div class='rtw_meta'><div class='rtw_intents'>
+			<a href='https://twitter.com/intent/tweet?in_reply_to=697778806522802177' title='Risposta' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/reply.png' width='16' height='16' alt='Risposta' /></a>
+			<a href='https://twitter.com/intent/retweet?tweet_id=697778806522802177' title='Retweet' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/retweet.png' width='16' height='16' alt='Retweet' /></a>
+			<a href='https://twitter.com/intent/favorite?tweet_id=697778806522802177' title='Preferiti' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/favorite.png' width='16' height='16' alt='Preferiti' /></a></div>
+	<div class='rtw_timestamp'><a  href="https://twitter.com/twitterapi/status/697778806522802177">13:46 &middot; 11 febbraio 2016</a></div>
+</div></div>
+	<div class = 'rotatingtweet' style='display:none'>
+	<div class='rtw_info'>
+		<div class='rtw_twitter_icon'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/twitter-bird-16x16.png' width='16' height='16' alt='Twitter' /></div>
+		<div class='rtw_icon'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'><img src='https://pbs.twimg.com/profile_images/492287584312127488/0L8jSYq8_normal.jpeg' alt='Gdoweek' /></a></div>
+		<div class='rtw_name'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>Gdoweek</a></div>
+		<div class='rtw_id'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>@Gdoweek</a></div>
+	</div>
+	<p class='rtw_main'>Ovs: fatturato e rete vendita in crescita <a href='https://t.co/u2S3040per' title='http://www.gdoweek.it/ovs-fatturato-e-rete-vendita-in-crescita/' class='rtw_url_link'>gdoweek.it/ovs-fatturato-…</a> <a href="http://twitter.com/search?q=%23retail&amp;src=hash" title="#retail" class="rtw_hashtag_link">#retail</a> <a href='https://twitter.com/intent/user?user_id=165704620' title='OVS' lang='it'>@OVSofficial</a> <a href='https://t.co/DLHSOiUWnu' title='http://twitter.com/Gdoweek/status/697760770579435520/photo/1' class='rtw_media_link'>pic.twitter.com/DLHSOiUWnu</a></p>
+	<div class='rtw_meta'><div class='rtw_intents'>
+			<a href='https://twitter.com/intent/tweet?in_reply_to=697760770579435520' title='Risposta' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/reply.png' width='16' height='16' alt='Risposta' /></a>
+			<a href='https://twitter.com/intent/retweet?tweet_id=697760770579435520' title='Retweet' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/retweet.png' width='16' height='16' alt='Retweet' /></a>
+			<a href='https://twitter.com/intent/favorite?tweet_id=697760770579435520' title='Preferiti' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/favorite.png' width='16' height='16' alt='Preferiti' /></a></div>
+	<div class='rtw_timestamp'><a  href="https://twitter.com/twitterapi/status/697760770579435520">12:35 &middot; 11 febbraio 2016</a></div>
+</div></div>
+	<div class = 'rotatingtweet' style='display:none'>
+	<div class='rtw_info'>
+		<div class='rtw_twitter_icon'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/twitter-bird-16x16.png' width='16' height='16' alt='Twitter' /></div>
+		<div class='rtw_icon'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'><img src='https://pbs.twimg.com/profile_images/492287584312127488/0L8jSYq8_normal.jpeg' alt='Gdoweek' /></a></div>
+		<div class='rtw_name'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>Gdoweek</a></div>
+		<div class='rtw_id'><a href='https://twitter.com/intent/user?user_id=2673852109' title='Gdoweek' lang='it'>@Gdoweek</a></div>
+	</div>
+	<p class='rtw_main'>Drive o Click&amp;Collect, come avvicinarsi all’eCommerce <a href='https://twitter.com/intent/user?user_id=253510669' title='Coop Italia' lang='it'>@Coopitalia</a> <a href='https://t.co/CMxaFKH6W7' title='http://www.gdoweek.it/drive-o-clickcollect-come-avvicinarsi-allecommerce/' class='rtw_url_link'>gdoweek.it/drive-o-clickc…</a> <a href='https://t.co/Cta6M1LQhL' title='http://twitter.com/Gdoweek/status/697723099769344000/photo/1' class='rtw_media_link'>pic.twitter.com/Cta6M1LQhL</a></p>
+	<div class='rtw_meta'><div class='rtw_intents'>
+			<a href='https://twitter.com/intent/tweet?in_reply_to=697723099769344000' title='Risposta' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/reply.png' width='16' height='16' alt='Risposta' /></a>
+			<a href='https://twitter.com/intent/retweet?tweet_id=697723099769344000' title='Retweet' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/retweet.png' width='16' height='16' alt='Retweet' /></a>
+			<a href='https://twitter.com/intent/favorite?tweet_id=697723099769344000' title='Preferiti' lang='it'><img src='http://www.gdoweek.it/wp-content/plugins/rotatingtweets/images/favorite.png' width='16' height='16' alt='Preferiti' /></a></div>
+	<div class='rtw_timestamp'><a  href="https://twitter.com/twitterapi/status/697723099769344000">10:05 &middot; 11 febbraio 2016</a></div>
+</div></div>
+</div></aside><aside id="pw_profile_widget-3" class="widget widget_pw_profile_widget"><h6 class="widget-title">Pinterest</h6><div class="pw-wrap pw-widget pw-profile-widget"><a data-pin-do="embedUser"href="http://www.pinterest.com/gdoweek"></a></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget">    <div class="ag24-pixelbook">
+      <div class="pixelbook">
+                <ul>
+                      <li>
+              <a href="http://pixelbook.tecnichenuove.com/newsstand/gdoweek/viewer/guest/com.tecnichenuove.gdoweek.gdo.2016.002" target="_blank" title="Gdoweek n.2">
+                <img class="attachment-medium wp-post-image" src="http://pixelbook.tecnichenuove.com/api/resources/com.tecnichenuove.gdoweek/com.tecnichenuove.gdoweek.gdo.2016.002$cover.jpg?w=242&h=300" alt="Gdoweek n.2">
+              </a>
+                          </li>
+                        <li>
+              <a href="http://pixelbook.tecnichenuove.com/newsstand/gdoweek/viewer/guest/com.tecnichenuove.gdoweek.gdo.2016.001" target="_blank" title="Gdoweek n.1">
+                <img class="attachment-medium wp-post-image" src="http://pixelbook.tecnichenuove.com/api/resources/com.tecnichenuove.gdoweek/com.tecnichenuove.gdoweek.gdo.2016.001$cover.jpg?w=242&h=300" alt="Gdoweek n.1">
+              </a>
+                          </li>
+                        <li>
+              <a href="http://pixelbook.tecnichenuove.com/newsstand/gdoweek/viewer/guest/com.tecnichenuove.gdoweek.gdo.2015.019" target="_blank" title="Gdoweek n.19">
+                <img class="attachment-medium wp-post-image" src="http://pixelbook.tecnichenuove.com/api/resources/com.tecnichenuove.gdoweek/com.tecnichenuove.gdoweek.gdo.2015.019$cover.jpg?w=242&h=300" alt="Gdoweek n.19">
+              </a>
+                          </li>
+                    </ul>
+                  <div class="bottom">
+            <a href="http://pixelbook.tecnichenuove.com/newsstand/gdoweek/open/list?open=1" target="_blank">Edicola web</a>
+          </div>
+              </div>
+    </div>
+    </div>
+		</aside><aside id="wp_views-4" class="widget widget_wp_views">
+
+ <div id="wpv-view-layout-11400650-CPID11411513" class="js-wpv-view-layout js-wpv-layout-responsive" data-viewnumber="11400650-CPID11411513" data-pagination="{&quot;ajax&quot;:&quot;false&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:&quot;500&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;1&quot;,&quot;preload_pages&quot;:&quot;1&quot;,&quot;pre_reach&quot;:&quot;1&quot;,&quot;spinner&quot;:&quot;default&quot;,&quot;spinner_image&quot;:&quot;http://test.mark-up.it/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1}">
+<input type="hidden" id="js-wpv-pagination-page-permalink" value="/walmart-punta-sulla-benzina-in-apertura-stazioni-proprie/?wpv_view_count=11400650-CPID11411513&#038;wpv_paged=1" />
+	
+	<!-- wpv-loop-start -->
+   <div class="container edicola">
+   
+         
+            <div class="row"><div class="col-sm-4"><a href="http://www.gdoweek.it/flip/gdoweek-product-news-03-2016/" title="Gdoweek Product News 03-2016" target="_blank"><img width="231" height="300" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016-231x300.jpg" class="attachment-medium size-medium wp-post-image" alt="cover-product-news-3-2016" srcset="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016-231x300.jpg 231w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/02/cover-product-news-3-2016.jpg 300w" sizes="(max-width: 231px) 100vw, 231px" /></a></div>
+         
+         
+            <div class="col-sm-4"><a href="http://www.gdoweek.it/flip/gdoweek-digital-2-2016/" title="Gdoweek Digital 2-2016" target="_blank"><img width="231" height="300" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/01/cover-2-2016-231x300.jpg" class="attachment-medium size-medium wp-post-image" alt="cover-2-2016" srcset="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/01/cover-2-2016-231x300.jpg 231w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/01/cover-2-2016.jpg 300w" sizes="(max-width: 231px) 100vw, 231px" /></a></div>
+         
+         
+            <div class="col-sm-4"><a href="http://www.gdoweek.it/flip/gdoweek-digital-1-2016/" title="Gdoweek Digital 1-2016" target="_blank"><img width="231" height="300" src="http://www.gdoweek.it/wp-content/uploads/sites/7/2016/01/cover-1-2016-231x300.jpg" class="attachment-medium size-medium wp-post-image" alt="cover-1-2016" srcset="http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/01/cover-1-2016-231x300.jpg 231w, http://riviste.newbusinessmedia.it/gdoweek/wp-content/uploads/sites/7/2016/01/cover-1-2016.jpg 300w" sizes="(max-width: 231px) 100vw, 231px" /></a></div></div>
+         
+	<a class="tutti" href="/flip">Tutti gli e-magazine</a>
+    </div>
+	<!-- wpv-loop-end -->
+	
+	
+</div></aside><div class="zedo bottone">
+<!-- Zedo bottone 1 begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="37"; 
+</script>
+<!-- Zedo bottone 1 end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<div class="zedo bottone">
+<!-- Zedo bottone 2 begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="38"; 
+</script>
+<!-- Zedo bottone 2 end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<div class="zedo bottone">
+<!-- Zedo bottone 3 begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="39"; 
+</script>
+<!-- Zedo bottone 3 end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<div class="zedo rettangolo">
+<!-- Zedo rettangolo piede begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="23"; 
+</script>
+<!-- Zedo rettangolo piede end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+		</div><!-- .widget-area -->
+	</div><!-- .sidebar-inner -->
+</div><!-- #tertiary -->
+
+		</div><!-- #main -->
+
+		<div id="footer-widgets" class="sidebar-container" role="complementary">
+			<div class="sidebar-inner">
+				<div class="widget-area">
+					<aside id="nav_menu-2" class="widget widget_nav_menu"><h6 class="widget-title">Gdoweek</h6><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-11407079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11407079"><a href="http://www.gdoweek.it/contatti/">Contatti</a></li><li id="menu-item-11400706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400706"><a target="_blank" href="http://shop.newbusinessmedia.it/collections/riviste/products/gdoweek">Abbonati</a></li><li id="menu-item-11400705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400705"><a href="http://www.gdoweek.it/iscriviti-alla-newsletter/">Iscriviti alla newsletter</a></li></ul></div></aside>				</div>
+				<div class="widget-area">
+					<aside id="nav_menu-3" class="widget widget_nav_menu"><h6 class="widget-title">Le riviste dell&#8217;area Retail</h6><div class="menu-le-riviste-dellarea-retail-container"><ul id="menu-le-riviste-dellarea-retail" class="menu"><li id="menu-item-11400704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11400704"><a href="http://www.gdoweek.it">Gdoweek</a></li><li id="menu-item-11400703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400703"><a target="_blank" href="http://www.mark-up.it">Mark Up</a></li></ul></div></aside>				</div>
+				<div class="widget-area">
+					<aside id="nav_menu-4" class="widget widget_nav_menu"><h6 class="widget-title">Tecniche Nuove</h6><div class="menu-tecniche-nuove-container"><ul id="menu-tecniche-nuove" class="menu"><li id="menu-item-11400700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400700"><a target="_blank" href="http://www.tecnichenuove.com/">tecnichenuove.com</a></li><li id="menu-item-11400701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400701"><a target="_blank" href="http://www.tecnichenuove.com/libri.html">I libri Tecniche Nuove</a></li><li id="menu-item-11400702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400702"><a target="_blank" href="http://www.newbusinessmedia.it/">New Business Media</a></li></ul></div></aside>				</div>
+			</div>
+			<div class="piede">
+				<div class="zedo leaderpiede">
+<!-- Zedo leader piede begin -->
+<script language="JavaScript">
+var zflag_nid="163"; var zflag_cid="190"; var zflag_sid="7"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="20"; 
+</script>
+<!-- Zedo leader piede end -->
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+</div>
+<div id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-privacy-container"><ul id="menu-privacy" class="menu"><li id="menu-item-11405388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11405388"><a target="_blank" href="http://www.newbusinessmedia.it/disclaimer/">Disclaimer e note legali</a></li><li id="menu-item-11405389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11405389"><a target="_blank" href="http://www.newbusinessmedia.it/privacy">Privacy</a></li><li id="menu-item-11405390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11405390"><a target="_blank" href="http://www.newbusinessmedia.it/cookie">Informativa estesa sui cookie</a></li></ul></div></div>			</div>
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info">
+						<a href="http://www.newbusinessmedia.it" target="_blank" class="nbm">New Business Media</a>
+		&copy; 2016 <b>New Business Media Srl.</b> Tutti i diritti riservati. <br/> 
+		Sede legale Via Eritrea 21 - 20157 Milano | Codice fiscale, Partita IVA e Iscrizione al Registro delle imprese di Milano: 08449540965
+				</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type="text/html" id="tmpl-wp-playlist-current-item">
+	<# if ( data.image ) { #>
+	<img src="{{ data.thumb.src }}" alt="" />
+	<# } #>
+	<div class="wp-playlist-caption">
+		<span class="wp-playlist-item-meta wp-playlist-item-title">&#8220;{{ data.title }}&#8221;</span>
+		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
+		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
+	</div>
+</script>
+<script type="text/html" id="tmpl-wp-playlist-item">
+	<div class="wp-playlist-item">
+		<a class="wp-playlist-caption" href="{{ data.src }}">
+			{{ data.index ? ( data.index + '. ' ) : '' }}
+			<# if ( data.caption ) { #>
+				{{ data.caption }}
+			<# } else { #>
+				<span class="wp-playlist-item-title">&#8220;{{{ data.title }}}&#8221;</span>
+				<# if ( data.artists && data.meta.artist ) { #>
+				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
+				<# } #>
+			<# } #>
+		</a>
+		<# if ( data.meta.length_formatted ) { #>
+		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
+		<# } #>
+	</div>
+</script>
+
+<!-- NBM_Retargeting FOOTER (ga/adwords) + Apple affiliation BEGIN for www.gdoweek.it -->
+
+<!-- BEGIN: tag_adwords_nbm -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 937558691;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/937558691/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- END: tag_adwords_nbm -->
+
+<!-- BEGIN: tag_ga_antonio_stampa3d_all -->
+<!-- Google Code per il tag di remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 945912791;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945912791/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- END: tag_ga_antonio_stampa3d_all -->
+
+<!-- BEGIN: tag_ga_studiosamo_3dprinting_all -->
+<!-- Google Code per il tag di remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 970470853;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/970470853/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- END: tag_ga_studiosamo_3dprinting_all -->
+
+<!-- NBM_Retargeting FOOTER END -->
+<div id="cookie-law-info-bar"><span>Utilizziamo i cookie per offrirti i migliori contenuti del nostro sito. Se continui la navigazione intendiamo che tu condivida questo utilizzo.  <a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Accetta</a> <a href="http://www.newbusinessmedia.it/cookie" id="CONSTANT_OPEN_URL" target="_blank"  class="medium cli-plugin-button cli-plugin-main-link" >Informativa estesa</a></span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#b0be00","border":"#005a2c","border_on":true,"button_1_button_colour":"#005a2c","button_1_button_hover":"#004823","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#005a2c","button_2_button_hover":"#004823","button_2_link_colour":"#ffffff","button_2_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<img alt='css.php' src="http://www.gdoweek.it/wp-content/plugins/cookies-for-comments/css.php?k=be5617be14736fd7ca51235f82e316fa&amp;o=i&amp;t=1511972479" width='1' height='1' /><!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<!-- Scroll Triggered Boxes v2.1.4 - https://wordpress.org/plugins/scroll-triggered-boxes/-->			<div class="stb-container stb-bottom-right-container">
+				<div class="scroll-triggered-box stb stb-11411450 stb-bottom-right"
+				     id="stb-11411450"
+				     style="display: none;">
+					<div class="stb-content">
+						<h4>Le nuove tecnologie Industrial IoT per il continuous improvement<br />
+nel controllo della qualità e per il maintenance predittivo</h4>
+<h2><a href="http://www.automazioneindustriale.com/webinar-live-organizzato-da-wi-next-ibm-e-leanprove-il-prossimo-23-febbraio/" target="_blank">Partecipa<br />
+al webinar</a></h2>
+<div class="bollo">
+<p class="giorno">martedì</p>
+<p class="data">23 febbraio <b>2016</b></p>
+<p class="ora">ore 10:30</p>
+</div>
+					</div>
+					<span class="stb-close">&times;</span>
+				</div>
+			</div>
+			<div id="stb-overlay"></div><!-- / Scroll Triggered Box --><script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/vpsy/inc/swfobject.js?ver=1.5'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.3.10'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/comment-reply.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/jquery.mousewheel-3.0.6.pack.js?ver=20130701'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/fancybox/jquery.fancybox.pack.js?ver=20130701'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/jquery.mobile.custom.min.js?ver=2013-06-06'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/modernizr.custom.js?ver=2013-06-06'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/jquery.transit.min.js?ver=2013-06-06'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/wpshower-responsive-videos.js?ver=2013-08-15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var outspoken = {"floating_menu":"0","masonry":"0","navigation":"standard_pages"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/functions.js?ver=2014-02-02'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/themes/outspoken/js/wpshower-slider.js?ver=2013-08-15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"it-IT","strings":{"Close":"Chiudi","Fullscreen":"Schermo intero","Download File":"Scarica il file","Download Video":"Scarica il video","Play\/Pause":"Esegui\/Pausa","Mute Toggle":"Cambia il mute","None":"Nessuna","Turn off Fullscreen":"Disattiva lo schermo intero","Go Fullscreen":"Vai a tutto schermo","Unmute":"Togli il mute","Mute":"Muto","Captions\/Subtitles":"Didascalie\/Sottotitoli"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+var mejsL10n = {"language":"it-IT","strings":{"Close":"Chiudi","Fullscreen":"Schermo intero","Download File":"Scarica il file","Download Video":"Scarica il video","Play\/Pause":"Esegui\/Pausa","Mute Toggle":"Cambia il mute","None":"Nessuna","Turn off Fullscreen":"Disattiva lo schermo intero","Go Fullscreen":"Vai a tutto schermo","Unmute":"Togli il mute","Mute":"Muto","Captions\/Subtitles":"Didascalie\/Sottotitoli"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4'></script>
+<script type='text/javascript' src='//assets.pinterest.com/js/pinit.js?ver=1.0.6.2'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/wp-views/embedded/res/js/i18n/jquery.ui.datepicker-it.js?ver=1.11'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/wp-util.min.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/backbone.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/mediaelement/wp-playlist.js?ver=4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"http:\/\/www.gdoweek.it\/wp-admin\/admin-ajax.php","ajax_pagination_url":"http:\/\/www.gdoweek.it\/wpv-ajax-pagination\/","calendar_image":"http:\/\/www.gdoweek.it\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Seleziona data","datepicker_min_date":null,"datepicker_max_date":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=1.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var STB_Global_Options = {"testMode":""};
+var STB_Box_Options = {"11411450":{"id":11411450,"title":"Webinar Industrial IoT 20160223","trigger":"percentage","triggerPercentage":65,"triggerElementSelector":"","animation":"slide","cookieTime":0,"autoHide":false,"autoShow":true,"position":"bottom-right","minimumScreenWidth":300}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-content/plugins/scroll-triggered-boxes/assets/js/script.min.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://www.gdoweek.it/wp-includes/js/wp-embed.min.js?ver=4.4'></script>
+</body>
+</html>

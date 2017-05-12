@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Life without Walmart – Small towns struggle to cope - Modern Readers</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/>            <style type="text/css">
+                .jcarousel-control-prev {
+                    left: -35px;
+                }
+
+                .jcarousel-control-next {
+                    right: -35px;
+                }
+
+                .acp_wrapper { 
+                    clear: both;
+                    border-radius: 0px;
+                }
+
+                .paging_btns li.nbox a { 
+                    height: auto !important; 
+                } 
+
+                .paging_btns {
+                    list-style: none;
+                    margin: 0 auto!important;
+                    padding: 0; 
+                    height: auto;
+                    text-align: center; 
+                } 
+
+                .loader_container .loader { 
+                    display: block; 
+                    width: 100px;
+                    height: auto;
+                    box-shadow: none;
+                } 
+
+                .loader_container {
+                    position: absolute; 
+                    display: none;  
+                    background: rgba(174,174,174,0.7);
+                }                
+
+                .button_style a { 
+                    color: #ffffff !important; 
+                    text-decoration: none !important;
+                    display: block; 
+                    width: 100%; 
+                    height: 100%; 
+                    overflow: hidden;
+                } 
+                                    .button_style { 
+                        background: #3B71A7;
+                        margin: 10px 2px 10px 0!important; 
+                        padding:0px; 
+                        text-align: center; 
+                        color: #ffffff !important;
+                        cursor: pointer;
+                        overflow: hidden; 
+                        display: inline-block;
+                        border: 1px solid #cccccc!important;
+                    } 
+
+                    .acp_title_left { 
+                        float: left; 
+                        width: 100%;
+                    }
+                    .acp_content {
+                        text-align: justify; 
+                        clear: both; 
+                    } 
+                    .button_style:hover, 
+                    .button_style:hover *:not(.acp_page_number) { 
+                        background: #e3e3e3;
+                        color: #000000 !important;
+                    }
+                    .acp_page_number {
+                        float: left; 
+                        font-size:16px;
+                        line-height: 47px;
+                        padding: 0px 10px; 
+                        background-color:#777777;
+                        color:#FFFFFF;
+                        font-weight:bold;
+                        font-family:arial 
+                    }
+                    .paging_btns li.active {
+                        background: #ffffff !important;
+                        color: #333333 !important;cursor: default;
+                        border: 1px solid #cccccc !important; 
+                    }
+
+                    .paging_btns li.active a { 
+                        color: #333333 !important; 
+                        cursor: default;
+                    } 
+                    .paging_btns li.nbox { 
+                        width: auto !important; 
+                        height: auto !important;
+                        padding: 3px; 
+                    } 
+                                            .acp_title { 
+                            font-size: 13px;
+                            overflow: hidden;
+                            box-sizing: initial; 
+                            height:38px; 
+                            padding-top:7px; 
+                            line-height:17px;
+                            font-family:arial; 
+                        } 
+                                </style>
+            
+		<style type="text/css">
+			#genesis-slider, #slides, .genesis-slider-wrap { height: 300px; width: 570px; }
+			.slide-excerpt { width: 500px; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { left: 0; }
+			div.slider-next, div.slider-previous { top: 120px; }
+		</style>
+<!-- This site is optimized with the Yoast SEO plugin v3.2.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.modernreaders.com/life-without-walmart-small-towns-struggle-to-cope/39441/lorenzo-tanos" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Life without Walmart – Small towns struggle to cope - Modern Readers" />
+<meta property="og:description" content="The loss of a Walmart in a small town could effectively mean the death of a town. Just ask Kimball, W. Va. woman Mary Francis Matney, who spoke to The Washington Post in a special report. In the 60-year-old eyes, her once-booming small town was already gutted by the disappearance of its mines. But when &hellip;" />
+<meta property="og:url" content="http://www.modernreaders.com/life-without-walmart-small-towns-struggle-to-cope/39441/lorenzo-tanos" />
+<meta property="og:site_name" content="Modern Readers" />
+<meta property="article:tag" content="Walmart" />
+<meta property="article:section" content="Business" />
+<meta property="article:published_time" content="2016-02-06T22:03:30+00:00" />
+<meta property="og:image" content="http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart.jpg" />
+<meta property="og:image:width" content="1178" />
+<meta property="og:image:height" content="768" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Modern Readers &raquo; Feed" href="http://www.modernreaders.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Modern Readers &raquo; Comments Feed" href="http://www.modernreaders.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.modernreaders.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='outreach-theme-css'  href='http://www.modernreaders.com/wp-content/themes/outreach/style.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='prev-next-layout-css-css'  href='http://www.modernreaders.com/wp-content/plugins/advanced-content-pagination/files/css/prev-next-layout-css.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.modernreaders.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato&#038;ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='http://www.modernreaders.com/wp-content/plugins/genesis-slider/style.css?ver=0.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.modernreaders.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/plugins/advanced-content-pagination/files/js/front-end-scripts.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.modernreaders.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.modernreaders.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.modernreaders.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.1" />
+<link rel='shortlink' href='http://www.modernreaders.com/?p=39441' />
+<link rel="alternate" type="application/json+oembed" href="http://www.modernreaders.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.modernreaders.com%2Flife-without-walmart-small-towns-struggle-to-cope%2F39441%2Florenzo-tanos" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.modernreaders.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.modernreaders.com%2Flife-without-walmart-small-towns-struggle-to-cope%2F39441%2Florenzo-tanos&#038;format=xml" />
+<link rel="Shortcut Icon" href="http://www.modernreaders.com/wp-content/plugins/genesis-favicon-uploader/favicons/favicon.ico" type="image/x-icon" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35260904-28', 'modernreaders.com');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3645636761294280",
+    enable_page_level_ads: true
+  });
+</script>
+<script  type="text/javascript" src="https://www.guidetolenders.com/widget/include/Banner_300x250.js"></script><style type="text/css">#title-area a { background: url(http://www.modernreaders.com/wp-content/uploads/2014/01/cropped-small.jpg) no-repeat !important; }</style>
+<!-- All in one Favicon 4.3 --></head>
+<body class="single single-post postid-39441 single-format-standard custom-header header-image content-sidebar outreach-blue"><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://www.modernreaders.com/">Modern Readers</a></p><p id="description">Breaking World, Tech, Sports, Business  News</p></div><div class="widget-area header-widget-area"><div id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="http://www.modernreaders.com/" role="search" ><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+</div></div></div><div id="nav"><div class="wrap"><ul id="menu-main" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-4" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4"><a href="http://www.modernreaders.com/category/business">Business</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5"><a href="http://www.modernreaders.com/category/life">Life</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://www.modernreaders.com/category/sports">Sports</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.modernreaders.com/category/technology">Technology</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.modernreaders.com/category/world">World</a></li>
+<li id="menu-item-19775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19775"><a href="http://www.modernreaders.com/category/viral">Viral</a></li>
+<li class="right date">April 30, 2016</li></ul></div></div><div id="inner"><div class="wrap"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-39441 post type-post status-publish format-standard has-post-thumbnail hentry category-business tag-walmart entry"><h1 class="entry-title">Life without Walmart – Small towns struggle to cope</h1> 
+<div class="post-info"><span class="date published time" title="2016-02-06T22:03:30+00:00">February 6, 2016</span>  By <span class="author vcard"><span class="fn"><a href="http://www.modernreaders.com/author/lorenzo-tanos" rel="author">Lorenzo Tanos</a></span></span>  </div><div class="entry-content"><!--Ad Injection:top--><!--
+ADINJ: Parse error in code
+Type: 4
+Msg: syntax error, unexpected '<'
+File: /home/modernre/public_html/wp-content/plugins/ad-injection/adshow.php(365) : eval()'d code
+Line: 4
+--><p><a href="http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart.jpg" rel="attachment wp-att-39442"><img class="alignleft size-large wp-image-39442" src="http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart-1024x668.jpg" alt="Life without Walmart – Small towns struggle to cope" width="650" height="424" srcset="http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart-1024x668.jpg 1024w, http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart-300x196.jpg 300w, http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart-768x501.jpg 768w, http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart-215x140.jpg 215w, http://www.modernreaders.com/wp-content/uploads/2016/02/Walmart.jpg 1178w" sizes="(max-width: 650px) 100vw, 650px" /></a>The loss of a Walmart in a small town could effectively mean the death of a town.</p>
+<p>Just ask Kimball, W. Va. woman Mary Francis Matney, who spoke to <em>The Washington Post</em> in a special report. In the 60-year-old eyes, her once-booming small town was already gutted by the disappearance of its mines. But when Kimball’s Walmart Supercenter was among the 154 to close down, that was akin to ringing the death bells for the town. According to Matney, the Supercenter’s closure had made “everyone so downhearted they don’t know what to do.”</p><!--Ad Injection:random-->
+<div style='float:right;margin-left:5px;'><style>
+.modern-resp-in-content { width: 336px; height: 280px; }
+@media(max-width: 480px) { .modern-resp-in-content { width: 250px; height: 250px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Modern Resp In-Content -->
+<ins class="adsbygoogle modern-resp-in-content"
+     style="display:inline-block"
+     data-ad-client="ca-pub-3645636761294280"
+     data-ad-slot="4387855449"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p>&#8220;It&#8217;s like we&#8217;re a forgotten bunch of people,&#8221; Matney continued. &#8220;It&#8217;s about all there was to look forward to. If we had to go any further, there ain&#8217;t no way. She then paused to check the half-off merchandise on the Walmart’s half-empty shelves as she continued speaking to the <em>Post</em>. “I hate seeing it die. I really do. You could always find better stuff here.&#8221;</p>
+<p>That interview took place just two days before the Kimball Walmart had closed. And, as the <em>Post</em> continued, its closure was so similar to the disappearance of other Walmarts in other small American towns. For example, the shutdown of the outlets in Fairfield, Alabama, Winnsboro, South Carolina, and Oriental, North Carolina had “left the community with few options for food.” And in Raymondville, Texas, city layoffs are expected with the “disappearance of tax income from Walmart.”</p>
+<p>One interesting aspect of the recent series of closures has been how Walmart tended to close stores that were within 10 miles of another branch, and stores in states with above-average square footage per capita. &#8220;It&#8217;s been part of the way these big retailers have tried to grab market share, by overbuilding markets and creating more retail space than they can support,&#8221; said Institute for Local Self-Reliance co-director Stacy Mitchell. &#8220;And, now that we have growing online sales, that overcapacity is going to get quite ugly.&#8221;</p>
+<p>For its part, Walmart said that there were a few factors it considered when choosing which stores to close, not the least of these being financial performance. However, Kimball’s residents aren’t buying that, citing the belief that its store always had a lot of customers.</p>
+<p>&#8220;They&#8217;ll never convince me it didn&#8217;t make money,&#8221; said Kimball resident Phyllis Noe. &#8220;I&#8217;ve always been fond of Wal-Mart, but they can&#8217;t look you in the eye and say they didn&#8217;t have good feedback. Maybe it&#8217;s just what they do: 10 years and then they leave.&#8221;</p>
+<!--Ad Injection:bottom-->
+<div style=''><center><style>
+.modern-resp-below-post { width: 336px; height: 280px; }
+@media(max-width: 480px) { .modern-resp-below-post { width: 250px; height: 250px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Modern Resp Below Post -->
+<ins class="adsbygoogle modern-resp-below-post"
+     style="display:inline-block"
+     data-ad-client="ca-pub-3645636761294280"
+     data-ad-slot="2911122241"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div id="contentad128925"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "e46e33c4-b708-4151-960a-4e5a8deb9a77",
+            d:  "bW9kZXJucmVhZGVycy5jb20=",
+            wid: "128925",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad128925").appendChild(s);
+    })(document);
+</script></center></div><h3>Laugh of the day:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/did-one-directions-louis-tomlinson-just-admit-hes-gay/19997/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/e6c6627b7b064e3d9f25f88f87729b1b-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Did One Direction's Louis Tomlinson Just Admit He's Gay?</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/did-you-just-ski-past-a-lion-not-your-average-day-on-the-slopes/20016/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/mountain-lion-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Did You Just Ski Past a...Lion? Not Your Average Day on the Slopes...!</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/firecrackers-drains-very-very-bad-idea/20019/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/article-2101923-11C2EACE000005DC-868_634x401-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Firecrackers + Drains = Very, VERY Bad Idea....!!!!</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/the-worlds-greatest-slam-dunk-fail-ever/20095/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/basketball-hd-wallpapers-cool-desktop-backgrounds-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">The World's Greatest Slam Dunk Fail...Ever!!! :-)</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/ladies-and-gentlemen-the-next-wayne-gretzky/20260/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/Holzbecher__Daydream_WeddingsAmy_Williams_Photography_3FINNSIXMONTHS014_low-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Ladies and Gentlemen, The Next Wayne Gretzky.....!!!</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/hey-get-your-own-bed-i-said-ah-forget-it/20286/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/the_cat_in_dogs_bed-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Hey, Get Your Own Bed! I Said....Ah, Forget It!  :-)</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/so-a-black-guy-a-priest-and-a-rabbi-get-on-a-plane/20403/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/blackguypriestrabbiplane_thumb4-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">So a Black Guy, a Priest and a Rabbi Get on a Plane....</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/incredible-first-person-view-of-emergency-highway-landing/20503/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/plane-highway2-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Incredible First Person View of Emergency Highway Landing</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/white-dress-blue-dress-matter-photo-might-kim-k/20821/lorenzo-tanos"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/02/0227-The-Dress-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">White Dress, Blue Dress, Does it Matter?  The Photo That Might Do What Kim K Did</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/12-year-old-girl-arrested-for-poisoning-mom-over-confiscated-iphone/22100/lorenzo-tanos"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/03/0309-Apple-iPhone1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">12-Year-Old Girl Arrested for Poisoning Mom over Confiscated iPhone</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/driverless-car-goes-rogue-and-mows-down-reporters/26207/suzanne-cooper"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Driverless Car Goes Rogue and Mows Down Reporters</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.modernreaders.com/florida-bank-robbers-use-stolen-backhoe-to-rob-centerstate-bank-atm/28330/lorenzo-tanos"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.modernreaders.com/wp-content/uploads/2015/07/0712-ATM-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Florida Bank Robbers Use Stolen Backhoe to Rob CenterState Bank ATM</div></div></a></div><div style="clear: both"></div></div></div></div><div id="sidebar" class="sidebar widget-area">		<div id="recent-posts-3" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle">Breaking</h4>
+		<ul>
+					<li>
+				<a href="http://www.modernreaders.com/developer-brings-windows-95-apple-watch/45278/lorenzo-tanos">Developer successfully brings Windows 95 to Apple Watch</a>
+						</li>
+					<li>
+				<a href="http://www.modernreaders.com/damn-daniel-video-drives-sales-white-vans-way/45288/lorenzo-tanos">Damn, Daniel! video drives sales of white Vans way up</a>
+						</li>
+					<li>
+				<a href="http://www.modernreaders.com/weasel-causes-large-hadron-collider-go-offline/45181/melissa-taylor">Weasel forces Large Hadron Collider power outage</a>
+						</li>
+					<li>
+				<a href="http://www.modernreaders.com/kennewick-man/45284/melissa-taylor">Kennewick Man will finally be getting a proper burial</a>
+						</li>
+					<li>
+				<a href="http://www.modernreaders.com/sleep-patterns-australian-bearded-dragon-revealed/45223/melissa-taylor">Australian bearded dragon can sleep in similar way to humans</a>
+						</li>
+				</ul>
+		</div></div>
+		<div id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><style>
+#HTMLdata
+{
+width: 295px;
+height: auto;
+	
+}
+    
+ #qsmrWidgetContainer {
+	color: black;
+        background-color: white;
+	font-family:Arial,sans-serif;
+	height:248px;
+	width:298px;
+	overflow:hidden;
+	border:1px solid #C4C4C4;
+	}
+
+a img  
+{  
+border: none;  
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#qsmrDataTable
+{
+	
+}
+#qsmrHeader
+{
+	width:300px;
+	height:75px;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	overflow: hidden;
+	text-align: center;
+}
+#qsmrdata1
+{
+	height: 42px;
+	overflow: hidden;
+	margin-left:2px;
+	margin-right:2px;
+	margin-bottom:6px;
+	border: 1px solid #c4c4c4;
+}
+#qsmrdata2
+{
+	height: 42px;
+	overflow: hidden;
+	margin-left:2px;
+	margin-right:2px;
+	margin-bottom:6px;
+	border: 1px solid #c4c4c4;
+}
+#qsmrdata3
+{
+	height: 42px;
+	overflow: hidden;
+	margin-left:2px;
+	margin-right:2px;
+	border: 1px solid #c4c4c4;
+}
+#qsmrdata1_logo
+{
+	width: 100px;
+	height: 43px;
+	float: left;
+	
+	overflow: hidden;
+}
+
+#qsmrUpdate
+{
+	display: inline;
+	overflow: hidden;
+}
+#qsmrAmt
+{
+	font-size: 12px;
+	width: 110px;
+	height:20px
+	overflow: hidden;
+}
+#qsmrdata1_logo
+{
+	width: 95px;
+	height: 42px;
+	float: left;	
+	overflow: hidden;
+}
+#qsmrdata2_logo
+{
+	width: 95px;
+	height: 43px;
+	float: left;	
+	overflow: hidden;
+}
+#qsmrdata3_logo
+{
+	width: 95px;
+	height: 43px;
+	float: left;
+	overflow: hidden;
+}
+#apr1
+{
+	font-size: 23px;
+	color:  #666666;
+	text-align: center;
+	overflow: hidden;
+	font-family: arial;
+}
+#apr2
+{
+	font-size: 23px;
+	color:  #666666;
+	text-align: center;
+	overflow: hidden;
+	font-family: arial;
+}
+#apr3
+{
+	font-size: 23px;
+	color:  #666666;
+	text-align: center;
+	overflow: hidden;
+	font-family: arial;
+}
+.apr_txt
+{
+	font-size: 13px;
+	font-weight: bold;
+}
+.updateText { 
+	height: 10px;
+	font-size: 11px;
+	color: #000000;
+	font-family:Arial,sans-serif;
+	display: inline;
+	font-weight: bold;
+}
+.qsmrSelect {
+	color: #000000;
+	font-size: 9px;
+	width: 65px;
+	font-family:Arial,sans-serif;
+	height:16px;
+	overflow: hidden;
+}
+</style>
+
+<div id="qsmrWidgetContainer">
+	<div id="qsmrHeader">
+		<div id="headerCont" style="width: 300px; height: 35px; text-align: center; font-size: 25px; font-family: verdana; padding-top: 10px;color:#E5320B">
+			Refinance at
+			<span id="qsmrRate"></span>
+		</div>
+		<div id="update" style="width: 300px; height: 30px; text-align: center;">
+			<div style="height: 5px; font-size: 12px; color: #666666; display: inline">Loan Type</div>
+			<select class='qsmrSelect' id='qsmrAmt' name='qsmrAmt'	onchange="javascript:qsmr.doUpdate(); setInterval(function(){collapseDataDivs()},500);">
+				<option value="2">
+					15 Yr. Fixed
+				</option>
+				<option value="1">
+					30 Yr. Fixed
+				</option>
+				<option value="7">
+					5/1 Yr. ARM
+				</option>
+				<option value="24">
+					30 Yr. FHA
+				</option>
+			</select>
+			<div class="updateText" style="padding-left: 2px;">State</div>
+			<select class='qsmrSelect' id="qsmrState" name='qsmrState' style="width: 80px;" onchange="javascript:setStateBeforeUpdate();qsmr.doUpdate();">
+				<option value="">-- Select One --</option>
+				<option value="AL">Alabama</option>
+				<option value="AK">Alaska</option>
+				<option value="AZ">Arizona</option>
+				<option value="AR">Arkansas</option>
+				<option value="CA">California</option>
+				<option value="CO">Colorado</option>
+				<option value="CT">Connecticut</option>
+				<option value="DE">Delaware</option>
+				<option value="DC">District of Columbia</option>
+				<option value="FL">Florida</option>
+				<option value="GA">Georgia</option>
+				<option value="HI">Hawaii</option>
+				<option value="ID">Idaho</option>
+				<option value="IL">Illinois</option>
+				<option value="IN">Indiana</option>
+				<option value="IA">Iowa</option>
+				<option value="KS">Kansas</option>
+				<option value="KY">Kentucky</option>
+				<option value="LA">Louisiana</option>
+				<option value="ME">Maine</option>
+				<option value="MD">Maryland</option>
+				<option value="MA">Massachusetts</option>
+				<option value="MI">Michigan</option>
+				<option value="MN">Minnesota</option>
+				<option value="MS">Mississippi</option>
+				<option value="MO">Missouri</option>
+				<option value="MT">Montana</option>
+				<option value="NE">Nebraska</option>
+				<option value="NV">Nevada</option>
+				<option value="NH">New Hampshire</option>
+				<option value="NJ">New Jersey</option>
+				<option value="NM">New Mexico</option>
+				<option value="NY" selected="selected">New York</option>
+				<option value="NC">North Carolina</option>
+				<option value="ND">North Dakota</option>
+				<option value="OH">Ohio</option>
+				<option value="OK">Oklahoma</option>
+				<option value="OR">Oregon</option>
+				<option value="PA">Pennsylvania</option>
+				<option value="RI">Rhode Island</option>
+				<option value="SC">South Carolina</option>
+				<option value="SD">South Dakota</option>
+				<option value="TN">Tennessee</option>
+				<option value="TX">Texas</option>
+				<option value="UT">Utah</option>
+				<option value="VT">Vermont</option>
+				<option value="VA">Virginia</option>
+				<option value="WA">Washington</option>
+				<option value="WV">West Virginia</option>
+				<option value="WI">Wisconsin</option>
+				<option value="WY">Wyoming</option>
+			</select>
+		</div>
+	</div>
+
+	<div id="qsmrNoScript">
+		<p>
+			Please enable JavaScript for the best experience.
+		</p>
+	</div>
+
+	<div id="qsmrDataTable">
+		<center>
+        <table cellpadding="0" cellpadding="0"  style="height:145px">
+        	<tr>
+            	<td id="HTMLdata" style="display: none;">
+                </td>
+            </tr>
+        </table>
+<!--		<div id="HTMLdata" style="display: none;"></div>-->
+		</center>
+		<div id="qsmrDisclaimer" style="display: none; width: 500px; height: 500px"></div>
+		<div
+			style="display: inline; float: left; padding-left: 10px; font-family: verdana; font-size: 12px; font-weight: bold; color: #666666; padding-top: 10px">
+			<a href="#" style="color: #666666;" onclick="javascript:open_win();">disclaimer</a>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		function open_win()
+		{
+			var disclaimer=document.getElementById('qsmrDisclaimer').innerHTML;
+			disclaimer = '<a href="javascript:window.close();">Close</a><br>'+ disclaimer +'<br><a href="javascript:window.close();">Close</a>';
+			if(disclaimer==null)
+				disclaimer="";	
+			myWindow=window.open('','','width=500,height=500','false');
+			myWindow.document.write(disclaimer);
+			myWindow.focus();
+		}
+			
+		function collapseDataDivs() {
+			try{
+				var dataDiv1 = document.getElementById('qsmrdata1');
+				var dataDiv2 = document.getElementById('qsmrdata2');
+				var dataDiv3 = document.getElementById('qsmrdata3');
+				if (dataDiv3 == null || dataDiv3 == undefined)
+				{
+					if (dataDiv2 == null || dataDiv2 == undefined) {
+						dataDiv1.style.height = '120px';
+						document.getElementById('qsmrdata1_logo').style.padding = '25px 0px 0px 0px';
+						document.getElementById('qsmrdata1_logo').style.height = '70px';
+						document.getElementById('qsmrdata1_logo').getElementsByTagName('img')[0].style.height = '60px';
+						document.getElementById('qsmrdata1_table').style.margin = '40px 0px 0px 0px';
+					}else {
+						dataDiv1.style.height = '63px';
+						dataDiv2.style.height = '63px';
+						document.getElementById('qsmrdata1_logo').style.padding = '10px 0px 0px 0px';
+						document.getElementById('qsmrdata2_logo').style.padding = '10px 0px 0px 0px';
+						document.getElementById('qsmrdata1_table').style.margin = '12px 0px 0px 0px';
+						document.getElementById('qsmrdata2_table').style.margin = '12px 0px 0px 0px';
+					}
+				}
+			}
+			catch (e){}
+		}
+
+		window.onload = function(){
+			setInterval(function(){collapseDataDivs()},100);
+		}
+
+		function setStateOnPageLoad() {
+			try {
+				var qsst = document.getElementById('qsst');
+				if (qsst) {
+					document.getElementById('qsmrState').value = qsst.value;
+					return qsst.value;
+				}else {
+					document.getElementById('qsmrState').value = 'CA';
+					return 'CA';
+				}
+			} catch (e) {}
+		}
+
+		function setStateBeforeUpdate() {
+			qsmr.state = document.getElementById('qsmrState').value;
+		}
+
+		var qsmrConfig = new Object();
+		qsmrConfig.src=579625;
+		qsmrConfig.aff='RefiBBModern';
+		qsmrConfig.pid=2;  /* for REFI 2, for NewHome 1 */
+		qsmrConfig.script = document.createElement('script');
+		qsmrConfig.script.src = 'https://www.guidetolenders.com/widget/include/Banner_300x250.js';
+		qsmrConfig.state=setStateOnPageLoad();
+		document.getElementById('qsmrWidgetContainer').appendChild(qsmrConfig.script);
+	</script>
+</div></div>
+		</div></div>
+<div id="featured-post-9" class="widget featured-content featuredpost"><div class="widget-wrap"><div class="post-40254 post type-post status-publish format-standard has-post-thumbnail hentry category-health tag-zika entry"><a href="http://www.modernreaders.com/cdc-brazil-zika-study/40254/melissa-taylor" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2016/02/0220-Zika-300x150.jpg" class="entry-image attachment-post" alt="US gov’t teams up with Brazil on major Zika study" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/cdc-brazil-zika-study/40254/melissa-taylor">US gov’t teams up with Brazil on major Zika study</a></h2></div><div class="post-2451 post type-post status-publish format-standard has-post-thumbnail hentry category-technology entry"><a href="http://www.modernreaders.com/latest-htc-m8-leak-backs-up-fingerprint-scanner-on-screen-button-rumors/2451/lorenzo-tanos" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2014/02/0212-HTC-M8-300x150.jpg" class="entry-image attachment-post" alt="Latest HTC M8 Leak Backs Up Fingerprint Scanner, On-Screen Button Rumors" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/latest-htc-m8-leak-backs-up-fingerprint-scanner-on-screen-button-rumors/2451/lorenzo-tanos">Latest HTC M8 Leak Backs Up Fingerprint Scanner, On-Screen Button Rumors</a></h2></div><div class="post-10821 post type-post status-publish format-standard has-post-thumbnail hentry category-mortgages tag-mortgage-rates entry"><a href="http://www.modernreaders.com/us-bankcorp-wells-fargo-mortgage-rates-flat-today-sep-19-2014/10821/gary-stephens" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2014/03/1166609_bb78331c-300x150.jpg" class="entry-image attachment-post" alt="US Bankcorp, Wells Fargo Mortgage Rates Flat Today Sep 19, 2014" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/us-bankcorp-wells-fargo-mortgage-rates-flat-today-sep-19-2014/10821/gary-stephens">US Bankcorp, Wells Fargo Mortgage Rates Flat Today Sep 19, 2014</a></h2></div><div class="post-4526 post type-post status-publish format-standard has-post-thumbnail hentry category-mortgages tag-mortgage-rates entry"><a href="http://www.modernreaders.com/mortgage-interest-rates-edge-down-at-chase-bank-citizens-bank-saturday-apr-5/4526/stephen-smith" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2014/03/1314544_596e1081-300x150.jpg" class="entry-image attachment-post" alt="Mortgage Interest Rates Edge Down at Chase Bank, Citizens Bank Saturday Apr 5" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/mortgage-interest-rates-edge-down-at-chase-bank-citizens-bank-saturday-apr-5/4526/stephen-smith">Mortgage Interest Rates Edge Down at Chase Bank, Citizens Bank Saturday Apr 5</a></h2></div><div class="post-21893 post type-post status-publish format-standard has-post-thumbnail hentry category-business entry"><a href="http://www.modernreaders.com/2016-nissan-gt-r-price-options-confirmed-101770-and-up/21893/ed-jones" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2015/03/2016-Nissan-GT-R-300x150.jpg" class="entry-image attachment-post" alt="2016 Nissan GT-R Price Options Confirmed &#8211; $101,770 and Up" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/2016-nissan-gt-r-price-options-confirmed-101770-and-up/21893/ed-jones">2016 Nissan GT-R Price Options Confirmed &#8211; $101,770 and Up</a></h2></div><div class="post-16663 post type-post status-publish format-standard has-post-thumbnail hentry category-mortgages tag-mortgage-rates entry"><a href="http://www.modernreaders.com/citizens-bank-pnc-bank-current-mortgage-rates-dec-22-2014/16663/stephen-smith" class="alignnone" aria-hidden="true"><img width="300" height="150" src="http://www.modernreaders.com/wp-content/uploads/2014/03/images-17-300x150.jpg" class="entry-image attachment-post" alt="Citizens Bank, PNC Bank Current  Mortgage Rates Dec 22, 2014" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/citizens-bank-pnc-bank-current-mortgage-rates-dec-22-2014/16663/stephen-smith">Citizens Bank, PNC Bank Current  Mortgage Rates Dec 22, 2014</a></h2></div><div class="post-11403 post type-post status-publish format-standard has-post-thumbnail hentry category-mortgages tag-mortgage-rates entry"><a href="http://www.modernreaders.com/30-year-mortgage-rates-at-boa-pnc-sep-30-2014/11403/emily-thomas" class="alignnone" aria-hidden="true"><img width="117" height="87" src="http://www.modernreaders.com/wp-content/uploads/2014/03/Foreclosures-to-Get-Rolling-Again-on-Monday.jpg" class="entry-image attachment-post" alt="30 Year  Mortgage Rates at BoA, PNC Sep 30, 2014" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/30-year-mortgage-rates-at-boa-pnc-sep-30-2014/11403/emily-thomas">30 Year  Mortgage Rates at BoA, PNC Sep 30, 2014</a></h2></div></div></div>
+</div></div></div></div><div id="sub-footer"><div class="wrap"><div class="sub-footer-left"><div id="featured-post-6" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Sports</h4>
+<div class="post-44676 post type-post status-publish format-standard has-post-thumbnail hentry category-health category-sports tag-miami-marlins tag-mlb tag-pittsburgh-pirates tag-zika entry"><a href="http://www.modernreaders.com/miami-marlins-zika/44676/mark-kesler" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://www.modernreaders.com/wp-content/uploads/2016/04/0422-Miami-Marlins-Craig-Breslow-150x150.jpg" class="entry-image attachment-post" alt="Marlins, Pirates express concern on Zika ahead of Puerto Rico series" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/miami-marlins-zika/44676/mark-kesler">Marlins, Pirates express concern on Zika ahead of Puerto Rico series</a></h2><p>The Miami Marlins and the Pittsburgh Pirates publicly aired out their concerns this week about a two-game series in Puerto Rico in May, due to the ongoing Zika outbreak. So far, it seems to be all systems go, as Major League Baseball, the Marlins, and the Pirates all expect the games to take place on May&hellip;</p></div><div class="post-44011 post type-post status-publish format-standard has-post-thumbnail hentry category-sports category-technology tag-sports tag-surfing tag-technology entry"><a href="http://www.modernreaders.com/new-surfing-technology-horizon/44011/huntington" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://www.modernreaders.com/wp-content/uploads/2016/04/510204205_1280x720-150x150.jpg" class="entry-image attachment-post" alt="New Surfing Technology on the Horizon" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/new-surfing-technology-horizon/44011/huntington">New Surfing Technology on the Horizon</a></h2><p>With millions of surfers around the world, the prospect of technology that enhances the surfing experience will attract interest. As many runners, hikers and bikers embrace Fitbits and Apple Watches, it won’t come as much of a surprise that the tech niche for surfers is close behind. Some exciting new surfing-related technology includes: Board Tracking&hellip;</p></div><div class="post-41822 post type-post status-publish format-standard has-post-thumbnail hentry category-sports tag-cincinnati-bearcats tag-connecticut-huskies tag-march-madness tag-ncaa entry"><a href="http://www.modernreaders.com/uconn-cincinnati-aac-tournament/41822/mark-kesler" class="alignnone" aria-hidden="true"><img width="150" height="150" src="http://www.modernreaders.com/wp-content/uploads/2016/03/0312-Jalen-Adams-150x150.jpg" class="entry-image attachment-post" alt="UConn moves on to AAC semis with 104-97 four-OT win over Cincy" itemprop="image" /></a><h2><a href="http://www.modernreaders.com/uconn-cincinnati-aac-tournament/41822/mark-kesler">UConn moves on to AAC semis with 104-97 four-OT win over Cincy</a></h2><p>For UConn freshman guard Jalen Adams, Friday night was his time to shine. With the University of Connecticut beating Cincinnati 104-97 in a four-overtime thriller Friday, the Huskies moved on to the semifinals of the American Athletic Conference Tournament, and Adams played the game of his life, scoring the most meaningful basket of the game&hellip;</p></div></div></div>
+</div><div class="sub-footer-right"><div id="featured-post-8" class="widget featured-content featuredpost"><div class="widget-wrap"><div class="post-45175 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-cortana tag-edge tag-microsoft entry"><h2><a href="http://www.modernreaders.com/cortana-web-search/45175/mark-kesler">Redmond Gets Ruthless, Restricts Cortana Web Search to Edge and Bing Only</a></h2><p>So the folks at Redmond have clearly decided that the best way of getting more people to use their own products is to essentially force them to. In &#x02026; <a href="http://www.modernreaders.com/cortana-web-search/45175/mark-kesler" class="more-link">[Read More...]</a></p></div><div class="post-45259 post type-post status-publish format-standard has-post-thumbnail hentry category-health entry"><h2><a href="http://www.modernreaders.com/study-links-psoriasis-elevated-risk-obesity-type-2-diabetes/45259/ed-jones">Study Links Psoriasis with Elevated Risk of Obesity, Type 2 Diabetes</a></h2><p>New evidence suggest that type 2 diabetes and obesity may have connections with psoriasis at a genetic level. By analyzing medical data from around &#x02026; <a href="http://www.modernreaders.com/study-links-psoriasis-elevated-risk-obesity-type-2-diabetes/45259/ed-jones" class="more-link">[Read More...]</a></p></div><div class="post-45206 post type-post status-publish format-standard has-post-thumbnail hentry category-health entry"><h2><a href="http://www.modernreaders.com/look-older-can-blame-one-gene/45206/ed-jones">Scientist Pinpoint the Gene That Makes You Look Older Than You Are</a></h2><p>So the good news is that scientists may have pinpointed one of the reasons why so many people are perceived as being older than they actually are. As &#x02026; <a href="http://www.modernreaders.com/look-older-can-blame-one-gene/45206/ed-jones" class="more-link">[Read More...]</a></p></div></div></div>
+</div></div><!-- end .wrap --></div><!-- end #sub-footer --><div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><div id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="http://www.modernreaders.com/contact-us">Contact us</a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://www.modernreaders.com/staff">Staff</a></li>
+<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="http://www.modernreaders.com/privacy-policy-2">Terms, Privacy, Disclaimers</a></li>
+</ul></div></div></div>
+</div><div class="footer-widgets-2 widget-area"></div><div class="footer-widgets-3 widget-area"></div><div class="footer-widgets-4 widget-area"></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2016</p></div></div></div></div><script type="text/javascript">
+(function (tos) {
+  window.setInterval(function () {
+    tos = (function (t) {
+      return t[0] == 50 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 10);
+    })(tos.split(':').reverse());
+    window.pageTracker ? pageTracker._trackEvent('Time', 'Log', tos) : _gaq.push(['_trackEvent', 'Time', 'Log', tos]);
+  }, 10000);
+})('00');
+</script><script type='text/javascript'>jQuery(document).ready(function($) {$(".myController").jFlow({controller: ".jFlowControl",slideWrapper : "#jFlowSlider",slides: "#slides",selectedWrapper: "jFlowSelected",width: "570px",height: "300px",timer: 4000,duration: 800,loop: 1,effect: "right",prev: ".slider-previous",next: ".slider-next",auto: true});});</script><script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='http://www.modernreaders.com/?gdbc-client=3.0.6-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+</script><script type='text/javascript' src='http://www.modernreaders.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.modernreaders.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.2.7'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.2.7'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-content/plugins/genesis-slider/js/jflow.plus.js?ver=0.9.6'></script>
+<script type='text/javascript' src='http://www.modernreaders.com/wp-includes/js/wp-embed.min.js?ver=4.5.1'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.841 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-30 22:15:59 -->
+
+<!-- super cache -->

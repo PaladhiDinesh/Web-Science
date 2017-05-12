@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.sangare.eu/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.sangare.eu/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Track Your Internet Connection in the New York Subway With This App - Sangaré</title>
+<meta name="description" content="Track Your Internet Connection in the New York Subway With This App"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/" />
+<link rel="publisher" href="https://plus.google.com/116801774687491304800"/>
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Track Your Internet Connection in the New York Subway With This App - Sangaré" />
+<meta property="og:description" content="Track Your Internet Connection in the New York Subway With This App" />
+<meta property="og:url" content="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/" />
+<meta property="og:site_name" content="Sangaré" />
+<meta property="article:publisher" content="https://www.facebook.com/msangare91" />
+<meta property="article:section" content="GeekZone" />
+<meta property="article:published_time" content="2016-02-08T21:15:10+00:00" />
+<meta property="og:image" content="http://www.sangare.eu/wp-content/uploads/ycclzury2aoyyhzbpx4u.jpg" />
+<meta property="og:image" content="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/1/rc.img" />
+<meta property="og:image" content="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/2/rc.img" />
+<meta property="og:image" content="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/3/rc.img" />
+<meta property="og:image" content="http://da.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2.img" />
+<meta property="og:image" content="http://adchoice.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/ach.img" />
+<meta property="og:image" content="http://pi.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2t.img" />
+<meta property="og:image" content="http://pi2.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2t2.img" />
+<meta property="og:image" content="http://www.sangare.eu/wp-content/uploads/mf4196.gif" />
+<meta property="og:image" content="http://feeds.feedburner.com/~r/gizmodo/full/~4/-mwpSM0_r3I" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Track Your Internet Connection in the New York Subway With This App" />
+<meta name="twitter:title" content="Track Your Internet Connection in the New York Subway With This App - Sangaré" />
+<meta name="twitter:site" content="@sangare" />
+<meta name="twitter:image" content="http://www.sangare.eu/wp-content/uploads/ycclzury2aoyyhzbpx4u.jpg" />
+<meta name="twitter:creator" content="@sangare" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Sangaré &raquo; Flux" href="http://www.sangare.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sangaré &raquo; Flux des commentaires" href="http://www.sangare.eu/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sangaré &raquo; Track Your Internet Connection in the New York Subway With This App Flux des commentaires" href="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sangare.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ts_fab_css-css'  href='http://www.sangare.eu/wp-content/plugins/fancier-author-box/css/ts-fab.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='viadeo_resume-style-css'  href='http://www.sangare.eu/wp-content/plugins/viadeo-resume/viadeo_resume.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.sangare.eu/wp-content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://www.sangare.eu/wp-content/themes/twentyfourteen/style.css?ver=4.2.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://www.sangare.eu/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.sangare.eu/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.sangare.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.sangare.eu/wp-content/plugins/fancier-author-box/js/ts-fab.min.js?ver=1.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sangare.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sangare.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='shortlink' href='http://www.sangare.eu/?p=63134' />
+<!-- SEO by Meta Keywords Generator : techphernalia.com v1.11 start-->
+<meta name="keywords" content="Track Your Internet Connection in the New York Subway With This App, Track, Your, Internet, Connection, in, the, New, York, Subway, With, This, App, Sangaré, GeekZone, " />
+<meta name="description" content="Living in New York can be a real bag of garbage sometimes. There&rsquo;s the actual garbage, the mounds of snow covered in dog poo, the defunct phone booths dudes use like urinals, and worst of all, t" />
+<!-- SEO by Meta Keywords Generator : techphernalia.com v1.1 end-->
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.sangare.eu') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-31238269-1']);
+_gaq.push(['_trackPageLoadTime']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+				<script type="text/javascript">
+
+					(function($) {
+						
+						// Type de fichiers télechargeable						
+						var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i ;
+						var baseHref = '' ;
+
+						if ($('base').attr('href') != undefined) baseHref = $('base').attr('href') ;
+				 
+				 		// On ajoute un event sur toutes les balises 'a' de la page
+						$('a').on('click', function(event) {
+
+							var el = $(this) ;
+							var track = true ;
+							var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"" ;
+							var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]) ;
+
+							if (!href.match(/^javascript:/i)) {
+								var elEv = []; elEv.value=0, elEv.non_i=false ;
+								if (href.match(/^mailto\:/i)) {
+									elEv.category = "email" ;
+									elEv.action = "click" ;
+									elEv.label = href.replace(/^mailto\:/i, '') ;
+									elEv.loc = href ;
+								}
+								else if (href.match(filetypes)) {
+									var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined ;
+									elEv.category = "download" ;
+									elEv.action = "click-" + extension[0] ;
+									elEv.label = href.replace(/ /g,"-") ;
+									elEv.loc = baseHref + href ;
+								}
+								else if (href.match(/^https?\:/i) && !isThisDomain) {
+									elEv.category = "external" ;
+									elEv.action = "click" ;
+									elEv.label = href.replace(/^https?\:\/\//i, '') ;
+									elEv.non_i = true;  
+									elEv.loc = href ;
+								}
+								else if (href.match(/^tel\:/i)) {
+									elEv.category = "telephone" ;
+									elEv.action = "click" ;
+									elEv.label = href.replace(/^tel\:/i, '') ;
+									elEv.loc = href ;
+								}
+								else track = false ;
+
+								if (track) {
+									_gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]) ;
+									if (el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+										setTimeout(function() { location.href = elEv.loc; }, 400) ;
+										return false ;
+									}
+								}
+							}
+
+						}) ;
+
+					})(jQuery) ;
+
+				</script>
+
+			
+<!-- Simple Google Analytics End -->
+</head>
+
+<body class="single single-post postid-63134 single-format-standard masthead-fixed full-width singular">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://www.sangare.eu/" rel="home">Sangaré</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Recherche</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Menu principal</button>
+				<a class="screen-reader-text skip-link" href="#content">Aller au contenu principal</a>
+				<div class="nav-menu"><ul><li class="page_item page-item-210"><a href="http://www.sangare.eu/competences/" rel="nofollow">COMPETENCES</a></li><li class="page_item page-item-29043"><a href="http://www.sangare.eu/mohamed-sangare/" rel="nofollow">Contactez moi</a></li><li class="page_item page-item-23336"><a href="http://www.sangare.eu/cv/" rel="nofollow">CV</a></li><li class="page_item page-item-208"><a href="http://www.sangare.eu/domaines-metiers/" rel="nofollow">DOMAINES</a></li><li class="page_item page-item-29042"><a href="http://www.sangare.eu/sitemap/" rel="nofollow">Sitemap</a></li><li class="page_item page-item-11313"><a href="http://www.sangare.eu/offre-de-service-ssii/" rel="nofollow">SSII</a></li><li class="page_item page-item-212"><a href="http://www.sangare.eu/techniques/" rel="nofollow">TECHNIQUES</a></li></ul></div>
+			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://www.sangare.eu/">
+				<label>
+					<span class="screen-reader-text">Rechercher&nbsp;:</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+			
+<article id="post-63134" class="post-63134 post type-post status-publish format-standard hentry category-artisis">
+	
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="cat-links"><a href="http://www.sangare.eu/artisis/"  rel="nofollow">GeekZone</a></span>
+		</div>
+		<h1 class="entry-title">Track Your Internet Connection in the New York Subway With This App</h1>
+		<div class="entry-meta">
+			<span class="entry-date"><a href="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/" rel="bookmark"><time class="entry-date" datetime="2016-02-08T21:15:10+00:00">8 février 2016</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://www.sangare.eu/author/admin/" rel="author">Sangaré</a></span></span>			<span class="comments-link"><a href="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/#respond"rel="nofollow">Laisser un commentaire</a></span>
+					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Void0 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1626062496119531"
+     data-ad-slot="1078379755"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p><img src="http://www.sangare.eu/wp-content/uploads/ycclzury2aoyyhzbpx4u.jpg" title="" alt="" /><br />
+<figure></figure>
+<p>Living in <strong class='StrictlyAutoTagBold'>New York</strong> can be a real bag of garbage sometimes. There&rsquo;s the actual garbage, the mounds of snow covered in dog poo, the defunct phone booths dudes use like urinals, and worst of all, the unreliable data service underground. The indignity!</p>
+<p><a href="http://gizmodo.com/track-your-internet-connection-in-the-new-york-subway-w-1757843603">Read more&#8230;</a></p>
+<p><a href="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/1/rc.img" border="0" title="" alt="" /></a></p>
+<p><a href="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/2/rc.img" border="0" title="" alt="" /></a></p>
+<p><a href="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/rc/3/rc.img" border="0" title="" alt="" /></a></p>
+<p><a href="http://da.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2.htm"><img src="http://da.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2.img" border="0" title="" alt="" /></a><br /><a href="http://adchoice.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/ach.htm"><img src="http://adchoice.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/ach.img" border="0" title="" alt="" /></a><img width="1" height="1" src="http://pi.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2t.img" border="0" title="" alt="" /><img width="1" height="1" src="http://pi2.feedsportal.com/r/247390864526/u/49/f/647164/c/34976/s/4d7263e4/sc/28/a2t2.img" border="0" title="" alt="" /><img width="1" height="1" src="http://www.sangare.eu/wp-content/uploads/mf4196.gif" border="0" title="" alt="" /><img src="http://feeds.feedburner.com/~r/gizmodo/full/~4/-mwpSM0_r3I" height="1" width="1" alt="" /><br />
+<a href="http://feeds.gawker.com/~r/gizmodo/full/~3/-mwpSM0_r3I/track-your-internet-connection-in-the-new-york-subway-w-1757843603">Gizmodo</a></p>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><div style="min-height:66px;" class="really_simple_share really_simple_share_box robots-nocontent snap_nopreview"><div class="really_simple_share_specificfeeds_follow" style="width:110px;"><a id="email_follow" href="#email_follow" onclick="var invite = new readygraph.framework.ui.Invite();invite.set('visible', true);return false;"><img src="http://www.sangare.eu/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/specificfeeds_follow.png" alt="Email, RSS" title="Email, RSS" /> Follow</a></div><div class="really_simple_share_google1" style="width:80px;"><div class="g-plusone" data-size="tall" data-href="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/" ></div></div><div class="really_simple_share_linkedin" style="width:100px;"><script type="IN/Share" data-counter="top" data-url="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/"></script></div><div class="really_simple_share_email" style="width:40px;"><a href="mailto:?subject=Track%20Your%20Internet%20Connection%20in%20the%20New%20York%20Subway%20With%20This%20App&amp;body=Track%20Your%20Internet%20Connection%20in%20the%20New%20York%20Subway%20With%20This%20App%20-%20http%3A%2F%2Fwww.sangare.eu%2Ftrack-your-internet-connection-in-the-new-york-subway-with-this-app%2F"><img src="http://www.sangare.eu/wp-content/plugins/really-simple-facebook-twitter-share-buttons/images/email.png" alt="Email" title="Email" /> </a></div><div class="really_simple_share_twitter" style="width:100px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical"  data-text="Track Your Internet Connection in the New York Subway With This App" data-url="http://www.sangare.eu/track-your-internet-connection-in-the-new-york-subway-with-this-app/"  data-via="sangare" data-lang="fr"   data-related="sangare:The author of this post"></a></div><div class="really_simple_share_readygraph_infolinks" style="width:110px;"></div></div>
+		<div class="really_simple_share_clearfix"></div><div id="ts-fab-below" class="ts-fab-wrapper"><span class="screen-reader-text">The following two tabs change content below.</span><ul class="ts-fab-list"><li class="ts-fab-bio-link"><a href="#ts-fab-bio-below">Bio</a></li><li class="ts-fab-latest-posts-link"><a href="#ts-fab-latest-posts-below">Derniers articles</a></li></ul><div class="ts-fab-tabs">
+	<div class="ts-fab-tab" id="ts-fab-bio-below">
+		<div class="ts-fab-avatar"><div class="ts-fab-social-links"><a href="http://twitter.com/sangare" title="Twitter" rel="nofollow"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/twitter.png" width="24" height="24" alt="Mon profil Twitter" /></a><a href="http://plus.google.com/113989996627604498989?rel=author" title="Google+"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/googleplus.png" width="24" height="24" alt="Mon profil Google+" /></a><a href="http://www.linkedin.com/in/mohamed-sangaré" title="LinkedIn" rel="nofollow"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/linkedin.png" width="24" height="24" alt="My LinkedIn profile" /></a></div>
+		</div>
+		
+		<div class="ts-fab-text">
+			<div class="ts-fab-header"><h4><a href="http://sangare.eu" rel="nofollow">Sangaré</a></h4><div class="ts-fab-description"><span>Consultant</span></div></div><!-- /.ts-fab-header -->
+			<div class="ts-fab-content">Consultant expert Qualité logicielle, Tests de performance,Business service management</div>
+		</div>
+	</div>
+	<div class="ts-fab-tab" id="ts-fab-latest-posts-below">
+		<div class="ts-fab-avatar"><div class="ts-fab-social-links"><a href="http://twitter.com/sangare" title="Twitter" rel="nofollow"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/twitter.png" width="24" height="24" alt="Mon profil Twitter" /></a><a href="http://plus.google.com/113989996627604498989?rel=author" title="Google+" rel="nofollow"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/googleplus.png" width="24" height="24" alt="Mon profil Google+" /></a><a href="http://www.linkedin.com/in/mohamed-sangaré" title="LinkedIn" rel="nofollow"><img src="http://www.sangare.eu/wp-content/plugins/fancier-author-box/images/linkedin.png" width="24" height="24" alt="My LinkedIn profile" /></a></div>
+		</div>
+		<div class="ts-fab-text">
+			<div class="ts-fab-header">
+				<h4>Derniers articles parSangaré <span class="latest-see-all">(<a href="http://www.sangare.eu/author/admin/" rel="nofollow">voir tous</a>)</span></h4>
+			</div>
+			<ul class="ts-fab-latest">
+				<li>
+					<a href="http://www.sangare.eu/today-kenya-is-torching-5-of-the-worlds-stockpiled-ivory/">Today, Kenya Is Torching 5% Of The World&#039;s Stockpiled Ivory</a><span> - 30 avril 2016</span> 
+				</li>
+				<li>
+					<a href="http://www.sangare.eu/michigan-senate-bills-would-give-car-hackers-life-in-prison/">Michigan Senate Bills Would Give Car Hackers Life In Prison</a><span> - 30 avril 2016</span> 
+				</li>
+				<li>
+					<a href="http://www.sangare.eu/first-u-s-death-related-to-zika-virus-reported/">First U.S. Death Related to Zika Virus Reported</a><span> - 30 avril 2016</span> 
+				</li>
+		</ul></div>
+	</div>
+		</div>
+	</div>	</div><!-- .entry-content -->
+	
+	</article><!-- #post-## -->
+	<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Navigation de l&rsquo;article</h1>
+		<div class="nav-links">
+			<a href="http://www.sangare.eu/angelina-jolie-a-trois-nouveaux-tatouages-et-ils-ne-sont-pas-discrets/" rel="prev"><span class="meta-nav">Article précédent</span>Angelina Jolie a trois nouveaux tatouages (et ils ne sont pas discrets)</a><a href="http://www.sangare.eu/sensor-1-is-a-personal-portable-security-system/" rel="next"><span class="meta-nav">Article suivant</span>Sensor-1 Is A Personal, Portable Security System</a>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+<div id="comments" class="comments-area">
+
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Laisser un commentaire <small><a rel="nofollow" id="cancel-comment-reply-link" href="/track-your-internet-connection-in-the-new-york-subway-with-this-app/#respond" style="display:none;">Annuler la réponse.</a></small></h3>
+									<form action="http://www.sangare.eu/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+																			<p class="comment-notes"><span id="email-notes">Votre adresse de messagerie ne sera pas publiée.</span> Les champs obligatoires sont indiqués avec <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nom <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Adresse de contact <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Site web</label> <input id="url" name="url" type="url" value="" size="30" /></p>
+
+<div class="captchaSizeDivLarge"><img id="si_image_com" class="si-captcha" src="http://www.sangare.eu/wp-content/plugins/si-captcha-for-wordpress/captcha/securimage_show.php?si_form_id=com&amp;prefix=7C59ZoWxKCdW4sa6" width="175" height="60" alt="Image CAPTCHA" title="Image CAPTCHA" />
+    <input id="si_code_com" name="si_code_com" type="hidden"  value="7C59ZoWxKCdW4sa6" />
+    <div id="si_refresh_com">
+<a href="#" rel="nofollow" title="Rafraîchir l&#039;image" onclick="si_captcha_refresh('si_image_com','com','/wp-content/plugins/si-captcha-for-wordpress/captcha','http://www.sangare.eu/wp-content/plugins/si-captcha-for-wordpress/captcha/securimage_show.php?si_form_id=com&amp;prefix='); return false;">
+      <img class="captchaImgRefresh" src="http://www.sangare.eu/wp-content/plugins/si-captcha-for-wordpress/captcha/images/refresh.png" width="22" height="20" alt="Rafraîchir l&#039;image" onclick="this.blur();" /></a>
+  </div>
+  </div>
+<br />
+<p><input id="captcha_code" name="captcha_code" type="text" size="6"  />
+<label id="captcha_code_label" for="captcha_code" >CAPTCHA Code</label><span class="required"> *</span>
+</p>												<p class="comment-form-comment"><label for="comment">Commentaire</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-describedby="form-allowed-tags" aria-required="true" required="required"></textarea></p>						<p class="form-allowed-tags" id="form-allowed-tags">Vous pouvez utiliser ces balises et attributs <abbr title="HyperText Markup Language">HTML</abbr>&nbsp;:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></p>
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Laisser un commentaire" /> <input type='hidden' name='comment_post_ID' value='63134' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d67974dfa1" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="51"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments -->
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+<div id="secondary">
+		<h2 class="site-description">Qualité Systèmes d&#039;Information &#8211; QC,QTP,LOADRUNNER,BSM</h2>
+	
+	
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="https://wordpress.org/">Fièrement propulsé par WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript'>
+var cx = 'partner-pub-4187249499649652:7077174520';
+var gcse = document.createElement('script');
+gcse.type = 'text/javascript';
+gcse.async = true;
+gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cse.google.com/cse.js?cx=' + cx;
+var q = document.getElementsByTagName('script')[0];
+q.parentNode.insertBefore(gcse, q);
+</script>
+<script type="text/javascript">
+        //<![CDATA[
+        
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      
+      window.___gcfg = {lang: "fr"};
+		  (function() {
+		    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+		    po.src = "https://apis.google.com/js/plusone.js";
+		    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+		  })();
+      
+        //]]>
+  		</script><script type='text/javascript' src='http://www.sangare.eu/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1.0'></script>
+<script type="text/javascript">
+//<![CDATA[
+var si_captcha_styles = "\
+<!-- begin SI CAPTCHA Anti-Spam - comment form style -->\
+<style type='text/css'>\
+div#captchaImgDiv { display:block; }\
+.captchaSizeDivSmall { width:175px; height:45px; padding-top:10px; }\
+.captchaSizeDivLarge { width:250px; height:60px; padding-top:10px; }\
+img#si_image_com,#si_image_reg,#si_image_log,#si_image_side_login { border-style:none; margin:0; padding-right:5px; float:left; }\
+.captchaImgRefresh { border-style:none; margin:0; vertical-align:bottom; }\
+div#captchaInputDiv { display:block; padding-top:15px; padding-bottom:5px; }\
+label#captcha_code_label { margin:0; }\
+input#captcha_code { width:65px; }\
+</style>\
+<!-- end SI CAPTCHA Anti-Spam - comment form style -->\
+";
+jQuery(document).ready(function($) {
+$('head').append(si_captcha_styles);
+});
+//]]>
+</script>
+<script type='text/javascript' src='http://www.sangare.eu/wp-content/plugins/akismet/_inc/form.js?ver=3.1.10'></script>
+<script type='text/javascript' src='https://platform.linkedin.com/in.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sangare.eu/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+</body>
+</html>

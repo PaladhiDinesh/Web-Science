@@ -1,0 +1,2197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+
+<!--The Title-->
+<title>For #OneNYC, a call for a Utica Ave. subway amidst competing interests - Second Ave. Sagas :: Second Ave. Sagas</title>
+
+<!--The Favicon-->
+<link rel="shortcut icon" href="http://cdn-sas.secondavenuesagas.com/favicon.ico" type="image/x-icon" />
+
+<!--Google Profile Link-->
+<link rel="me" type="text/html" href="http://www.google.com/profiles/bkabak"/> 
+
+<!--Add Description and Keywords-->
+<meta name="keywords" content="" />
+
+
+<!--The Meta Info-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="bitly-verification" content="96278fc1811e"/>
+
+<!--The Stylesheets-->
+<link rel="stylesheet" href="http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/style.css" type="text/css" media="screen" />
+<!--[if lte IE 7]>
+    <link rel="stylesheet" href="http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/css/lte-ie7.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if lt IE 7]>
+    <link rel="stylesheet" href="http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/css/lt-ie7.css" type="text/css" media="screen" />
+    <script src="http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/js/dropdown.js" type="text/javascript"></script>
+<![endif]-->
+
+<!--The RSS and Pingback-->
+<link rel="alternate" type="application/rss+xml" title="Second Ave. Sagas RSS Feed" href="http://secondavenuesagas.com/feed/" />
+<link rel="pingback" href="http://secondavenuesagas.com/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast SEO plugin v3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="For #OneNYC, a call for a Utica Ave. subway amidst competing interests - Second Ave. Sagas" />
+<meta property="og:description" content="A bunch of years ago, then-Mayor Michael Bloomberg released his comprehensive plan for New York City&#8217;s immediate future. Awkwardly called PlaNYC, it introduced the city to the idea of a congestion pricing charge for Manhattan&#8217;s Central Business District and tied in the revenue from this fee to transit upgrades designed to secure the city&#8217;s environmental &hellip;" />
+<meta property="og:url" content="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/" />
+<meta property="og:site_name" content="Second Ave. Sagas" />
+<meta property="article:publisher" content="http://facebook.com/secondavesagas" />
+<meta property="article:section" content="Brooklyn" />
+<meta property="article:published_time" content="2015-04-23T00:24:39-04:00" />
+<meta property="og:image" content="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System-600x492.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A bunch of years ago, then-Mayor Michael Bloomberg released his comprehensive plan for New York City&#8217;s immediate future. Awkwardly called PlaNYC, it introduced the city to the idea of a congestion pricing charge for Manhattan&#8217;s Central Business District and tied in the revenue from this fee to transit upgrades designed to secure the city&#8217;s environmental [&hellip;]" />
+<meta name="twitter:title" content="For #OneNYC, a call for a Utica Ave. subway amidst competing interests - Second Ave. Sagas" />
+<meta name="twitter:site" content="@2AvSagas" />
+<meta name="twitter:image" content="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System-600x492.jpg" />
+<meta name="twitter:creator" content="@2AvSagas" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Second Ave. Sagas &raquo; For #OneNYC, a call for a Utica Ave. subway amidst competing interests Comments Feed" href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/secondavenuesagas.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://secondavenuesagas.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://secondavenuesagas.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://secondavenuesagas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.4.9 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-1432889-2', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/lib/featured-images/js/jquery.cross-slide.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/lib/contact-page-plugin/js/md5.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/lib/contact-page-plugin/js/contact-page-plugin.js?ver=4.5.1'></script>
+<link rel='https://api.w.org/' href='http://secondavenuesagas.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://secondavenuesagas.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://secondavenuesagas.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.1" />
+<link rel='shortlink' href='http://wp.me/p8lMr-41C' />
+<link rel="alternate" type="application/json+oembed" href="http://secondavenuesagas.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsecondavenuesagas.com%2F2015%2F04%2F23%2Ffor-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://secondavenuesagas.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsecondavenuesagas.com%2F2015%2F04%2F23%2Ffor-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests%2F&#038;format=xml" />
+<script type="text/javascript" src="http://secondavenuesagas.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://secondavenuesagas.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"f8f8f8",text:"666666",leftbg:"eeeeee",lefticon:"666666",volslider:"666666",voltrack:"FFFFFF",rightbg:"cccccc",rightbghover:"999999",righticon:"666666",righticonhover:"ffffff",track:"FFFFFF",loader:"9FFFB8",border:"666666",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<link rel="stylesheet" type="text/css" href="http://secondavenuesagas.com/wp-content/plugins/cforms/styling/shiny_style.css" />
+<script type="text/javascript" src="http://secondavenuesagas.com/wp-content/plugins/cforms/js/cforms.js"></script>
+
+	<!-- Added By Democracy Plugin. Version 2.0.1 -->
+	<script type='text/javascript' src='http://secondavenuesagas.com/wp-content/plugins/democracy/democracy.js'></script>
+	<link rel='stylesheet' href='http://secondavenuesagas.com/wp-content/plugins/democracy/basic.css' type='text/css' />
+	<link rel='stylesheet' href='http://secondavenuesagas.com/wp-content/plugins/democracy/style.css' type='text/css' />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script charset="utf-8" type="text/javascript">stLight.options({publisher:"afc211c7-7fc5-43c3-a222-c9d6848032ab" , doNotCopy: true, hashAddressBar: false, doNotHash: true});var st_type='wordpress3.8';</script><link type="text/css" rel="stylesheet" href="http://secondavenuesagas.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css" />
+
+<style type="text/css" media="screen">
+@import url(http://secondavenuesagas.com/wp-content/plugins/wp-table/wp-table.css);
+</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+	<style type="text/css">
+		body {
+																									background-image: url(http://cdn-sas.secondavenuesagas.com/wp-content/themes/FlexxProfessional/images/body-bg.gif);
+																																	background-color: #e5e5e5;
+																																	background-position: top left;
+																																	background-attachment: scroll;
+																																	background-repeat: repeat-x;
+																				}
+	</style>
+</head>
+<body>
+<div class="c960 center wrap" id="container">
+
+	
+	<div id="header">
+		<div id="title">
+					<a href="http://secondavenuesagas.com">
+						<img src="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2010/12/saslogo960x200.jpg" />
+					</a>
+		</div>
+	</div>
+	
+	<div id="below-header">
+<div id="pagemenu" class="wrap">
+	<ul class="wrap">
+							<li class="home "><a href="http://secondavenuesagas.com">Home</a></li>
+				
+													<li class="page_item page-item-13"><a href="http://secondavenuesagas.com/about/">About</a></li>
+<li class="page_item page-item-175"><a href="http://secondavenuesagas.com/contact-me/">Contact Me</a></li>
+<li class="page_item page-item-152"><a href="http://secondavenuesagas.com/second-ave-subway-history/">2nd Ave. Subway History</a></li>
+<li class="page_item page-item-2194"><a href="http://secondavenuesagas.com/search/">Search</a></li>
+		</ul>
+</div></div>
+<!--index.php-->
+<div class="w600-" id="content">
+
+		
+		<div class="navigation">
+			<div class="alignleft">&laquo; <a href="http://secondavenuesagas.com/2015/04/22/thoughts-on-alleviating-the-record-ridership-crunch/">Thoughts on alleviating the record ridership crunch</a></div>
+			<div class="alignright"> <a href="http://secondavenuesagas.com/2015/04/24/cuomo-prendergast-to-be-renominated-as-mta-head/">Cuomo: Prendergast to be renominated as MTA head</a> &raquo;</div>
+		</div>
+		
+	<!--Post Wrapper Class-->
+	<div class="post-15476 post type-post status-publish format-standard hentry category-brooklyn">
+	
+	<!--Title/Date/Meta-->
+	<div class="title wrap">
+		<div class="date">
+			<div class="month">Apr</div>
+			<div class="day">23</div>
+		</div>
+		<div class="post-title">
+			<h1 id="post-15476">For #OneNYC, a call for a Utica Ave. subway amidst competing interests</h1>
+			By <span class="meta-author"><a href="http://secondavenuesagas.com/author/bkabak/" title="Posts by Benjamin Kabak" rel="author">Benjamin Kabak</a></span> 
+		</div>
+	</div>
+
+	<!--post text with the read more link-->
+	<div id="attachment_15477" style="width: 585px" class="wp-caption aligncenter"><a href="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System.jpg"><img src="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System-600x492.jpg" alt="The Utica Ave. subway extension, a proposal from New York City&#039;s history, has reappeared in the OneNY document. " width="575" height="471" class="size-medium wp-image-15477" srcset="http://cdn-sas.secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System-600x492.jpg 600w, http://secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System-1024x841.jpg 1024w, http://secondavenuesagas.com/wp-content/uploads/2015/04/1939_IND_Second_System.jpg 1025w" sizes="(max-width: 575px) 100vw, 575px" /></a><p class="wp-caption-text">The Utica Ave. subway extension, a proposal from New York City&#8217;s history, has reappeared in the OneNY document.</p></div>
+<p>A bunch of years ago, then-Mayor Michael Bloomberg released his comprehensive plan for New York City&#8217;s immediate future. Awkwardly called PlaNYC, it introduced the city to the idea of a congestion pricing charge for Manhattan&#8217;s Central Business District and tied in the revenue from this fee to transit upgrades designed to secure the city&#8217;s environmental future while cutting down on crippling congestion. The centerpiece failed, but the overall master plan concept has stuck around. It was refreshed four years ago and overhauled this year as Mayor Bill de Blasio released OneNYC on Wednesday.</p>
+<p>The idea behind OneNYC is similar to PlaNYC but with de Blasio&#8217;s imprint. It is concerned with raising New Yorkers out of poverty while paying nod to growth, sustainability and resilience. While politicians sometimes hate to admit it, all four of these goals are focused around mobility, and transit necessarily has to grab the spotlight. In his OneNYC report [<a href="http://www.nyc.gov/html/onenyc/downloads/pdf/publications/OneNYC.pdf" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.nyc.gov/html/onenyc/downloads/pdf/publications/OneNYC.pdf', 'pdf');">pdf</a>], de Blasio doesn&#8217;t mention congestion pricing or the Move New York plan. In fact, he later claimed, perhaps to save political capital in the face of a recalcitrant governor, that he&#8217;s never read the Move New York proposal. But de Blasio did turn his attention to transit. </p>
+<p>&#8220;Reliable and convenient transit access to employment and other activities remains stubbornly out of reach for too many New Yorkers. This problem is particularly acute for low- and moderate-income residents in areas poorly served by the subway or buses. For seniors and those with disabilities, this can affect their ability to simply get groceries, or see family and friends,&#8221; the report notes.</p>
+<p>To correct these problems, the Mayor&#8217;s Office offers up some familiar solutions. The report discusses the new citywide ferry network that won&#8217;t actually correct the problems, and it again reiterates plans to bring 20 new Select Bus Service routes to the city within the next three years. Where things get interesting though is with the MTA&#8217;s unfunded capital plan. The OneNYC report says the city will &#8220;support full funding of the MTA capital plan.&#8221; The report dances around direct fiscal support though and states that &#8220;the City will also work closely with the MTA to identify significant savings and improve operational coordination in areas of common interest, such as bus rapid transit, other bus services, and Access-a-Ride. Any savings we achieve together can be leveraged to create new capital support for the MTA.&#8221;</p>
+<p>In exchange for this support, the city wants something. They always do. In this instance, the city proposes the bombshell: a study of a subway down Utica Ave. in Brooklyn. The report calls for faster CBTC adoption, new or reopened entrances that are ADA-compliant, randomly a free transfer between the Livonia Ave./Junius St. L and 3 stations, and subway-fication of the LIRR between Jamaica and Atlantic Ave. after East Side Access opens. But the Utica Ave. line is the centerpiece. </p>
+<p>The document doesn&#8217;t go too far here. The mayor wants simply &#8220;a study to explore the expansion of the subway system south along Utica Avenue in Brooklyn, one of the densest areas of the city without direct access to the subway,&#8221; and on its face, it&#8217;s exciting that someone in City Hall is talking about this idea in an official document. It is so far unclear how a Utica Ave. subway would take shape. It could involve an extension of the 4 train from the Eastern Parkway line. It could call back to Second System plans to run trains from 2nd Ave. through South 4th St. and, eventually, down Utica Ave. But there you have it. </p>
+<p>As <em>The Times</em> <a href="http://www.nytimes.com/2015/04/23/nyregion/mayor-de-blasio-revives-plan-for-a-utica-avenue-subway-line.html?ref=nyregion" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.nytimes.com/2015/04/23/nyregion/mayor-de-blasio-revives-plan-for-a-utica-avenue-subway-line.html?ref=nyregion', 'noted');">noted</a>, this is far from the first time this idea has arisen. A Utica Ave. subway was part of the early 1900s plans for the subway and were included in expansion plans in the 1920s, 1930s and 1960s. Another study today seems like overkill, but it&#8217;s the first step toward securing funding. It&#8217;s a very preliminary first step though.</p>
+<p>In discussing this idea, the transit cognoscenti were surprised. “No one expected this,” the Rudin Center&#8217;s Mitchell Moss said to <em>The Times</em>. “It’s refreshing to see a proposal to extend mass transit into areas of Brooklyn that are transit-deprived. It’s obviously an idea that will take more than a decade to be carried out, but you have to start with an idea.”</p>
+<p>The challenges being right there. One of the reasons why politicians are so hesitant to embrace these ambitious plans concerns timing. If it&#8217;s going to take a decade or more from start to finish, those who appear at the ribbon cutting won&#8217;t be those who did the heavy lifting and secured the dollars. There is no political incentive to push through infrastructure projects if the only photo op will be a staged event 18 months before the real opening date (cough cough <a href="http://secondavenuesagas.com/category/7-line-extension/">7 line extension</a> cough cough).</p>
+<p>But there are other challenges too. The next concerns money. Who&#8217;s funding this subway extension? How? The last concerns priorities. The MTA has its own capital program wishlist and a 20-year needs assessment. The Utica Ave. subway featured on none of those documents, and adding it to the capital plan means more money would be required and more demands made. The MTA has identified the <a href="http://secondavenuesagas.com/category/second-avenue-subway/">Second Ave. Subway</a> as a need; the Mayor wants Outer Borough support and has plans for Utica Ave. It&#8217;s a push and pull that gets resolved through money. </p>
+<p>So that&#8217;s the plan for One New York. A Utica Ave. subway would be intriguing, but without a new and dedicated East River tunnel, it would create more a capacity problem on whichever line the extension would be a part of. It faces many, many challenges, but it&#8217;s a start. At least someone&#8217;s talking about it.</p>
+
+<span class='st_facebook_hcount' st_title='For #OneNYC, a call for a Utica Ave. subway amidst competing interests' st_url='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/' displayText='facebook'></span><span st_via='2AvSagas' class='st_twitter_hcount' st_title='For #OneNYC, a call for a Utica Ave. subway amidst competing interests' st_url='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/' displayText='twitter'></span><span class='st_email_hcount' st_title='For #OneNYC, a call for a Utica Ave. subway amidst competing interests' st_url='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/' displayText='email'></span><span class='st_plusone_hcount' st_title='For #OneNYC, a call for a Utica Ave. subway amidst competing interests' st_url='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/' displayText='plusone'></span><span class='st_pinterest_hcount' st_title='For #OneNYC, a call for a Utica Ave. subway amidst competing interests' st_url='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/' displayText='pinterest'></span><br> 
+
+<br><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsecondavenuesagas.com%2F2015%2F04%2F23%2Ffor-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests%2F&amp;layout=standard&amp;show-faces=true&amp;width=580&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:580px; height:30px"></iframe>
+
+
+	<!--post meta info-->
+	<div class="meta-bottom wrap">
+		<div class="alignleft"><span class="categories">Categories : <a href="http://secondavenuesagas.com/category/brooklyn/" rel="category tag">Brooklyn</a></span></div>
+	</div>
+
+<center><script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=524286&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=75908"></script></center>
+    
+	</div><!--end .post-->
+	
+	<!-- You can start editing here. -->
+
+<div id="comments">
+	<h3 id="comments">
+		100 Responses to “For #OneNYC, a call for a Utica Ave. subway amidst competing interests”
+	</h3>
+	<ol class="commentlist">
+		<div class="contenticle">		<li class="comment even thread-even depth-1" id="comment-1217621">
+				<div id="div-comment-1217621" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://www.vanshnookenraggen.com' rel='external nofollow' class='url'>vanshnookenraggen</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217621">
+			April 23, 2015 at 1:07 am</a>		</div>
+
+		<p>It may seem random but let&#8217;s look at the most recent major transportation expansion plan&#8230; from 1968.  In it were proposed the 2nd Ave Subway (to the Bronx as well), Queens Superexpress with Archer Ave and LIE Subways, relocating the L through Canarsie, the Utica Ave Subway and the extension of the Nostrand Ave Subway.</p>
+<p>The 2nd Ave Subway is in the report as well, to finish Phase 2 and get Phase 3 going.  The Queens Superexpress is arguably more needed than Utica Ave or Nostrand Ave but it serves an area of the city that already has both subways and LIRR. CBTC can help the Queens Blvd Line for a fraction of the cost than building a new express subway.  Also it can&#8217;t really work to its full potential until SAS Phase 3 opens&#8230; lord knows when that happens.</p>
+<p>While both Nostrand Ave Extension and L train relocation would help they don&#8217;t serve new areas.</p>
+<p>What this means is that the Utica Ave Subway can easily be connected to the existing network without too much issue AND it serves an area of the city with no other access to the subway.  Also, where is de Blasio&#8217;s new affordable housing push going to be?  East New York and, by extension, Flatbush.  The Utica Ave Subway is something that can push his affordable housing agenda, be operational quickly, and open up an area of the city that has no train options.  That&#8217;s why he chose it.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217621#respond' onclick='return addComment.moveForm( "div-comment-1217621", "1217621", "respond", "15476" )' aria-label='Reply to vanshnookenraggen'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-1217657">
+				<div id="div-comment-1217657" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Duke</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217657">
+			April 23, 2015 at 1:36 am</a>		</div>
+
+		<p>I feel like this is mostly just lip service to the idea of serious transit expansion and will never actually happen. With costs through the roof it is difficult to politically justify a new subway line that only serves a small subset of the city. Note that all post-Moses era subway expansions have either been in Manhattan (7 extension, SAS) or serving the ability of large areas to get to Manhattan (63rd St tunnels, Archer Ave &#8211; both benefiting the huge swaths of Queens and Long Island). </p>
+<p>Then you also have the NIMBY factor. Subwayless neighborhoods are usually lower density than areas right near the subway, and the residents of such neighborhoods usually like their lower density and don&#8217;t want any transit improvements that would inevitably change that. To the credit of the people forming this plan, East Flatbush is one of the few places you could expand the subway into new territory without massive resistance from people along its planned route.  </p>
+<p>That said, I do wonder why Utica Ave is getting attention over simply extending the Nostrand Ave route &#8211; which presumably would be less expensive since you don&#8217;t have to build a new junction, and the existing terminal was designed to be temporary with further extension in mind from the getgo. Might as well fulfil its destiny 100+ years later. That and extend the 7 past Flushing-Main, which is woefully underdesigned for the traffic it serves and was also never intended to be a permanent terminal.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217657#respond' onclick='return addComment.moveForm( "div-comment-1217657", "1217657", "respond", "15476" )' aria-label='Reply to Duke'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-1217694">
+				<div id="div-comment-1217694" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://www.vanshnookenraggen.com' rel='external nofollow' class='url'>vanshnookenraggen</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217694">
+			April 23, 2015 at 2:13 am</a>		</div>
+
+		<p>To be fair the Nostrand Ave Subway does need the Rogers Ave junction rebuilt.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217694#respond' onclick='return addComment.moveForm( "div-comment-1217694", "1217694", "respond", "15476" )' aria-label='Reply to vanshnookenraggen'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3 parent" id="comment-1218433">
+				<div id="div-comment-1218433" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Elvis Delgado</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218433">
+			April 23, 2015 at 2:46 pm</a>		</div>
+
+		<p>I&#8217;ve never understood why &#8220;The 96th Street Solution&#8221; wasn&#8217;t and isn&#8217;t applied to Rogers Avenue.  The conflict between expresses and locals crossing north of 96th Street and Broadway was solved, not by rebuilding the junction, but rather by sending all the locals up Broadway and all the expresses over to Lenox.  And it works just fine.</p>
+<p>If the 2 and 3 went to Flatbush Avenue, while the 4 and 5 went to Utica/New Lots, there would be no need to rebuild.  Wy would hanging trains at Franklin be more of a burden than changing trains at 96th Street?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218433#respond' onclick='return addComment.moveForm( "div-comment-1218433", "1218433", "respond", "15476" )' aria-label='Reply to Elvis Delgado'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-4" id="comment-1218463">
+				<div id="div-comment-1218463" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://www.vanshnookenraggen.com' rel='external nofollow' class='url'>vanshnookenraggen</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218463">
+			April 23, 2015 at 3:19 pm</a>		</div>
+
+		<p>Probably a combination of ridership demand and keeping the 2 and 5 trains scheduled together so they reach the Bronx as close to on schedule as possible.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218463#respond' onclick='return addComment.moveForm( "div-comment-1218463", "1218463", "respond", "15476" )' aria-label='Reply to vanshnookenraggen'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-4 parent" id="comment-1218602">
+				<div id="div-comment-1218602" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://pedestrianobservations.wordpress.com/' rel='external nofollow' class='url'>Alon Levy</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218602">
+			April 23, 2015 at 7:50 pm</a>		</div>
+
+		<p>My recollection from years ago, when I hung out on the Straphangers Campaign forum, is that they wanted to preserve one-seat rides to both the East Side and West Side of Manhattan. I don&#8217;t remember who &#8220;they&#8221; are &#8211; could be the MTA, could be the local communities. But it&#8217;s a deliberate strategy. Witness how the 3 and 4 used to go to Flatbush and the 2 and 5 to New Lots, but then they were switched.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218602#respond' onclick='return addComment.moveForm( "div-comment-1218602", "1218602", "respond", "15476" )' aria-label='Reply to Alon Levy'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-5 parent" id="comment-1218605">
+				<div id="div-comment-1218605" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218605">
+			April 23, 2015 at 7:56 pm</a>		</div>
+
+		<p>That&#8217;s probably why absurdly inefficient service patterns such as those on CPW and at Gold St. Junction in Brooklyn persist. Sooner or later though we will have to move away from them. </p>
+<p>What was the riding public&#8217;s reaction to the 96 St change? How long did it take them to get over it?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218605#respond' onclick='return addComment.moveForm( "div-comment-1218605", "1218605", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-6 parent" id="comment-1218727">
+				<div id="div-comment-1218727" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">tacony</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218727">
+			April 23, 2015 at 10:10 pm</a>		</div>
+
+		<p>If you have access to the NY Times archives, check out &#8220;Modernized IRT to Bow on Feb. 6&#8221; from Jan 26, 1959.</p>
+<p>&#8220;Under the new set-up, all trains originating on the upper West Side (Broadway line) will travel down the westernmost tracks as what the Authority calls Hi-Speed locals to South Ferry.&#8221;</p>
+<p>The article goes on to explain that these are &#8220;Hi-Speed&#8221; locals because the line is getting new trains and accelerate and decelerate faster than the current trains. The better trains enable the schedule on the local to match the speed of the old express schedule. PLUS, the article notes that 91st St is being closed. They could argue that it&#8217;s both faster and local? It&#8217;s a good way to spin it. </p>
+<p>The article also notes that some trains on the Broadway line will bypass 191st, 181st, 157th, and 145th, but only for one single hour in the peak direction each day. I guess that&#8217;s the origin of the stupid 1 and 9 skip-stop arrangement? </p>
+<p>Local service below 96th St would increase by 92% (!) and express service by 6%. </p>
+<p>So not only was everyone getting more service, but I guess by giving upper Broadway customers an upper Broadway &#8220;express&#8221; during the height of rush hour they were mitigating the &#8220;loss&#8221; of being now on the local (which was just as fast as the old express) below 96th as well. The IRT knew what they were doing.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218727#respond' onclick='return addComment.moveForm( "div-comment-1218727", "1218727", "respond", "15476" )' aria-label='Reply to tacony'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-7 parent" id="comment-1218751">
+				<div id="div-comment-1218751" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">tacony</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218751">
+			April 23, 2015 at 10:34 pm</a>		</div>
+
+		<p>Oh, and to compare to today: </p>
+<p>They give an example where the &#8220;Hi-Speed locals&#8221; were to match the former express trip time of 41 minutes from 242nd and Broadway to 14th St.</p>
+<p>This takes about 43 minutes, according to current schedules.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218751#respond' onclick='return addComment.moveForm( "div-comment-1218751", "1218751", "respond", "15476" )' aria-label='Reply to tacony'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-8" id="comment-1219195">
+				<div id="div-comment-1219195" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219195">
+			April 24, 2015 at 9:19 am</a>		</div>
+
+		<p>Thank you for the reference. So essentially what they did was promise faster service and ignore the outcry if there was one. Could that be done today?</p>
+<p>The line to Utica/New Lots would be getting Brooklyn expresses instead of the 3 local. What would the spin for the Nostrand line be, besides more reliable service?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219195#respond' onclick='return addComment.moveForm( "div-comment-1219195", "1219195", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even depth-5" id="comment-1218680">
+				<div id="div-comment-1218680" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">tacony</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218680">
+			April 23, 2015 at 9:46 pm</a>		</div>
+
+		<p>Gotta get away from that idea of prioritizing one-seat rides over efficient routing. In an era of crowded trains that (SHOULD!) run very frequently, it shouldn&#8217;t be too much of a burden for people to do a simple cross-platform transfer.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218680#respond' onclick='return addComment.moveForm( "div-comment-1218680", "1218680", "respond", "15476" )' aria-label='Reply to tacony'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-4 parent" id="comment-1218668">
+				<div id="div-comment-1218668" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Duke</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218668">
+			April 23, 2015 at 9:30 pm</a>		</div>
+
+		<p>The switch layout at Rogers Junction does not allow &#8220;the 96th Street Solution&#8221; to work smoothly because trains on the express tracks can only switch to the local before the split or at Utica. This means there are only two real options to eliminate conflicts there:</p>
+<p>1) Run only the 2 to Flatbush, run the 4 and 5 express to Utica, and the 3 local to New Lots<br />
+2) Run the 2 and 3 to Flatbush, run the 4 and 5 to New Lots, close the Nostrand Ave and Kingston Ave stations since they&#8217;d have no service.</p>
+<p>Option 1 I don&#8217;t think is viable since with the need to sanitize trains at Utica I don&#8217;t think it can handle the combined rush hour frequency of both the 4 and 5 terminating there. You&#8217;d need to short turn a bunch of 5s at Bowling Green or still send a bunch of them to Flatbush. So this doesn&#8217;t offer better service.</p>
+<p>Option 2&#8230; well, involves closing 2 stations so that&#8217;s not viable either.</p>
+<p>Although building new platforms for the express tracks at Nostrand and Kingston might be easier than rebuilding the junction.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218668#respond' onclick='return addComment.moveForm( "div-comment-1218668", "1218668", "respond", "15476" )' aria-label='Reply to Duke'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-5 parent" id="comment-1218861">
+				<div id="div-comment-1218861" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">bigbellymon4</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218861">
+			April 24, 2015 at 12:11 am</a>		</div>
+
+		<p>Instead, create a new track way so the local from Franklin goes straight to Flatbush (creating a third track). This would free track space for the 4 to run to new lots without interfering with the local track space and the 5 to run express to Utica. From Flatbush, the track would mesh with the local after the switch for eastern parkway local with express. Creating these 3 track areas should be fairly cheap compared to many other ideas of relieving congestion.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218861#respond' onclick='return addComment.moveForm( "div-comment-1218861", "1218861", "respond", "15476" )' aria-label='Reply to bigbellymon4'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-6 parent" id="comment-1219190">
+				<div id="div-comment-1219190" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219190">
+			April 24, 2015 at 9:09 am</a>		</div>
+
+		<p>Even simpler than that, a switch could just be added from express to local just after the Flatbush line splits off (and vice versa Manhattan-bound).</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219190#respond' onclick='return addComment.moveForm( "div-comment-1219190", "1219190", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-7 parent" id="comment-1219226">
+				<div id="div-comment-1219226" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">AlexB</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219226">
+			April 24, 2015 at 10:34 am</a>		</div>
+
+		<p>I agree that this is the easiest option that would allow uptown frequencies through the Rogers Junction. Except to really make it work, you&#8217;d have to also fix the at-grade junction of the 2 and 3 north of 135th St. Or, you could send all 2 and 3 trains to White Plains Rd and move the 5 to Jerome Ave with the 4. The 145th and 148th St stations would effectively be abandoned.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219226#respond' onclick='return addComment.moveForm( "div-comment-1219226", "1219226", "respond", "15476" )' aria-label='Reply to AlexB'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-8 parent" id="comment-1219245">
+				<div id="div-comment-1219245" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Elvis Delgado</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219245">
+			April 24, 2015 at 11:55 am</a>		</div>
+
+		<p>I&#8217;m not sure I understand why grade separating the junction at 135th and Lenox would be any more critical than it is today (or has been for the last 100+ years, for that matter).</p>
+<p>In what way would the fact that all southbound trains are headed for the same Brooklyn terminal and that all northbound trains originated at the same station have any bearing on the conflict between the southbound 2 and the northbound 3 at 135th Street?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219245#respond' onclick='return addComment.moveForm( "div-comment-1219245", "1219245", "respond", "15476" )' aria-label='Reply to Elvis Delgado'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-9" id="comment-1220225">
+				<div id="div-comment-1220225" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220225">
+			April 25, 2015 at 10:50 am</a>		</div>
+
+		<p>The point is that the junction limits capacity by having trains crossing at grade.</p>
+<p>Sending all Lex service to Jerome and all 7 Av service to WPR is likely to severely overburden 149th/GC as a transfer station. Therefore, I think it would be more reasonable to maintain a Dyre-Lex service running ~8tph, with an equivalent amount of service running to 148th.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220225#respond' onclick='return addComment.moveForm( "div-comment-1220225", "1220225", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-7 parent" id="comment-1219227">
+				<div id="div-comment-1219227" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Elvis Delgado</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219227">
+			April 24, 2015 at 10:39 am</a>		</div>
+
+		<p>Brooklynite hit the nail on the head.  After the 4 &amp; 5 pass the junction, one of them crosses over to the local tracks via a new set of switches.  That would be the only construction needed.  Is there a particular reason &#8211; structural or otherwise &#8211; the there couldn&#8217;t be a crossover somewhere between Rogers Junction and Nostrand Avenue station?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219227#respond' onclick='return addComment.moveForm( "div-comment-1219227", "1219227", "respond", "15476" )' aria-label='Reply to Elvis Delgado'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-8" id="comment-1219478">
+				<div id="div-comment-1219478" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Joey</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219478">
+			April 24, 2015 at 4:01 pm</a>		</div>
+
+		<p>A few structural columns might have to be moved, but it&#8217;s still much simpler than the alternatives.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219478#respond' onclick='return addComment.moveForm( "div-comment-1219478", "1219478", "respond", "15476" )' aria-label='Reply to Joey'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-1217756">
+				<div id="div-comment-1217756" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://pedestrianobservations.wordpress.com/' rel='external nofollow' class='url'>Alon Levy</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217756">
+			April 23, 2015 at 3:15 am</a>		</div>
+
+		<p>Well, a 7 extension to College Point would be nice &#8211; College Point already has the mall, and also Flushing Airport would make a nice intense TOD site.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217756#respond' onclick='return addComment.moveForm( "div-comment-1217756", "1217756", "respond", "15476" )' aria-label='Reply to Alon Levy'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-1368010">
+				<div id="div-comment-1368010" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://facebook.com/j4lambert' rel='external nofollow' class='url'>Joseph Lambert</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1368010">
+			September 16, 2015 at 9:46 pm</a>		</div>
+
+		<p>A cheaper solution to the Utica Avenue subway line would be to extend the Nostrand Avenue Line under Flatbush Avenue to Kings Plaza. This will not require a building of a new junction, but would require the demolition and relocation of some of the Flatbush Avenue station entrances, an addition of a second elevator at Flatbush Avenue station, and the building of a third track at Rogers Junction to free capacity. In fact, an extension of the Nostrand Avenue Line would result in a better increase of ridership than the building of the Utica Avenue subway line. </p>
+<p>However, there are two major disruptions that can potentially occur during construction:<br />
+1. At least 26 consecutive weekend shutdowns are required to upgrade Rogers Junction and the line&#8217;s signal system. During this time, 2 and 4 trains would have to operate to New Lots Avenue and shuttle buses would replace trains between Franklin Avenue and Flatbush Avenue. 3 train service would have to turn around at 34th Street-Penn Station.<br />
+2. With Flatbush Avenue station having side platforms, one platform and one track would have to be closed at a time. The station would only be served by 2 trains during construction; 5 trains would have to terminate at Bowling Green until construction on the extension is substantially complete.</p>
+<p>Initially, the Nostrand Avenue Line extension would contain only one station at Avenue U-Kings Plaza, which would be designed and constructed with hurricane and earthquake safety in mind (it would be constructed to withstand a major hurricane or earthquake). Station shells at Flatlands Avenue/Kings Highway and Quentin Road/Avenue R would also be built instead of stations at those locations to reduce initial construction costs.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1368010#respond' onclick='return addComment.moveForm( "div-comment-1368010", "1368010", "respond", "15476" )' aria-label='Reply to Joseph Lambert'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-1217769">
+				<div id="div-comment-1217769" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Quirk</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217769">
+			April 23, 2015 at 3:25 am</a>		</div>
+
+		<p>Shanksa and friends must be drooling over what to put for the price tag. Let me guess, $$$$3.4 Billion.</p>
+<p>Oh, and they&#8217;ll get their CEO to justify the cost with it too.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217769#respond' onclick='return addComment.moveForm( "div-comment-1217769", "1217769", "respond", "15476" )' aria-label='Reply to Quirk'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-1218606">
+				<div id="div-comment-1218606" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://pedestrianobservations.wordpress.com/' rel='external nofollow' class='url'>Alon Levy</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218606">
+			April 23, 2015 at 7:58 pm</a>		</div>
+
+		<p>That would be about $500 million per kilometer &#8211; very high given that it&#8217;s an outbound extension, but nowhere near the outrage that is SAS.</p>
+<p>It would also be reasonably cheap per rider (my guess for Utica ridership is 200,000 per weekday).</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218606#respond' onclick='return addComment.moveForm( "div-comment-1218606", "1218606", "respond", "15476" )' aria-label='Reply to Alon Levy'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-1217920">
+				<div id="div-comment-1217920" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Keith Istre</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1217920">
+			April 23, 2015 at 5:46 am</a>		</div>
+
+		<p>What the MTA needs to do to get cars off the streets of NYC are projects that create advantages over driving into the city. First, better park and rides. Set up mega car garages at the Verrazano-Narrows Bridge, George Washington Bridge, Holland Tunnel, and Lincoln Tunnel at NJ toll booths and charge at least half of toll cost to cross the Hudson via express bus to major subway stations in NYC. Second, start charging tolls per footprint of vehicles. The larger the footprint, the higher the toll. Third, give discounts to vehicles with more passengers. i.e. $1 discount per additional one person after the driver up to three ($3). Forth, in addition to finishing the Eastside Access Project so LIRR trains can stop at Grand Central, expand the LIRR through Brooklyn into the new Fulton Street Station. That way Downtown Long Islanders wouldn&#8217;t have to use the subway to get to Wall Street. Lastly, expand PATH and NJRR into Grand Central or at least Times Square.</p>
+<p>Another big issue is cross town movement. I have to use buses on 57th Street everyday to cross from the Eastside to the Westside and back again. The traffic is horrible and slow. I have noticed when cops are directing intersections the commute goes smoother. Need more specialize traffic cops who can direct traffic, give out parking, and moving violations. Drives get away with too much. They ride and park in bus lanes, block the square, and stop three cars length in front of the next. Drivers need to become more aware of their surroundings and the effect they have on traffic around them. I&#8217;ve seen drives part so far from the next car and/or not stay in their lane that a whole block can not move until they move. We need a herd of traffic cops storming block by block giving tickets. We also need to make new violations like stoping in the middle of two lanes and stopping more than a half a car in front of the next.</p>
+<p>Taxi stands are also needed in high traffic areas. No random corner or half lane stoping for those who can afford the taxi fare. If you can&#8217;t walk a forth of a block from the taxi stand the passenger needs a disability or medicare card to stop any other place beside the taxi stands. Taxi drivers need special traffic efficiency training and certification to keep their license.</p>
+<p>Good luck passing those measures,<br />
+Keith Istre</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1217920#respond' onclick='return addComment.moveForm( "div-comment-1217920", "1217920", "respond", "15476" )' aria-label='Reply to Keith Istre'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-1218104">
+				<div id="div-comment-1218104" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Keith Istre</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218104">
+			April 23, 2015 at 8:05 am</a>		</div>
+
+		<p>Another idea is for the City and State employees to vary their work start and end times in 15 minute increments. And encourage private businesses to do the same. Instead of everyone coming to work on the hour, they can come in 1 of 4 different times in that same hour. This will help traffic with 3/4 of people not having to commute at the same time with the other 1/4. This will help street and mass transit decrease their gridlock hours.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218104#respond' onclick='return addComment.moveForm( "div-comment-1218104", "1218104", "respond", "15476" )' aria-label='Reply to Keith Istre'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3" id="comment-1218161">
+				<div id="div-comment-1218161" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">LLQBTT</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218161">
+			April 23, 2015 at 9:12 am</a>		</div>
+
+		<p>Many city agencies (maybe all?) have this with start times of 7:30 through 9:30.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218161#respond' onclick='return addComment.moveForm( "div-comment-1218161", "1218161", "respond", "15476" )' aria-label='Reply to LLQBTT'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-3" id="comment-1219833">
+				<div id="div-comment-1219833" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Phantom</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219833">
+			April 24, 2015 at 9:45 pm</a>		</div>
+
+		<p>Very many white collar workers don&#8217;t work any set time.  You come in early when you need to  you stay late when you must, you leave early once in a while. If you come in at 9am every day, you probably hate your job ( absent child care duties etc )</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219833#respond' onclick='return addComment.moveForm( "div-comment-1219833", "1219833", "respond", "15476" )' aria-label='Reply to Phantom'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent" id="comment-1219604">
+				<div id="div-comment-1219604" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">MDC</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219604">
+			April 24, 2015 at 6:05 pm</a>		</div>
+
+		<p>Differential tolling based on number of vehicle occupants is unworkable, especially in the age of EZ-Pass.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219604#respond' onclick='return addComment.moveForm( "div-comment-1219604", "1219604", "respond", "15476" )' aria-label='Reply to MDC'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3" id="comment-1219732">
+				<div id="div-comment-1219732" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219732">
+			April 24, 2015 at 8:22 pm</a>		</div>
+
+		<p>The toll is $5.54. The proposal is to charge $4.54 for two people. If this would get cars off the streets, the stated goal, then the alternative is two separate cars with one person and tolls of $5.54 each. </p>
+<p>So $11.08 vs $4.54. Today it&#8217;s $11.08 vs $5.54. Or for three people $16.62 vs $3.54, compared with $16.62 vs $5.54 today. You get most of the savings already anyway.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219732#respond' onclick='return addComment.moveForm( "div-comment-1219732", "1219732", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-1218133">
+				<div id="div-comment-1218133" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">John-2</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218133">
+			April 23, 2015 at 8:51 am</a>		</div>
+
+		<p>The Utica Ave. line seemed to crash and burn in the past partly due to the geology of southeastern Brooklyn, where planners said the high water table would mandate an elevated line at the southern end, if the route was presumably going to extend all the way to Flatbush Avenue.</p>
+<p>New methods of elevated construction such as the Silver line in Falls Church limit the noise impact and tighten the footprint of the els between stations (though as the recent blizzards have shown, century-old box girder els do have their advantages in letting snow pass through to the street). But given the democratization of NIMBYism over the past 45 years since the MTA&#8217;s battle over the Heckscher Playground, it would be nice to know if de Blasio&#8217;s plan mirrors the el provision for Utica Avenue &#8212; which will likely bring the NIMBYs out in droves &#8212; or if it plans to defy the underground soil and water difficulties there and plow a water-pump-filled subway all the way to the southern terminus, with its higher construction and future M&amp;O costs.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218133#respond' onclick='return addComment.moveForm( "div-comment-1218133", "1218133", "respond", "15476" )' aria-label='Reply to John-2'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-1218446">
+				<div id="div-comment-1218446" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218446">
+			April 23, 2015 at 3:01 pm</a>		</div>
+
+		<p>Also, most of southern Utica has low density stores and industry on the street, not housing, so unlike other places the shadows created should not be an issue.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218446#respond' onclick='return addComment.moveForm( "div-comment-1218446", "1218446", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-1218151">
+				<div id="div-comment-1218151" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">BX</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218151">
+			April 23, 2015 at 9:05 am</a>		</div>
+
+		<p>How about first doing something about construction costs (labor unions and consultants/contractors) so that subway construction costs are not risibly more expensive than those of other developed countries.</p>
+<p>Look at all of the metro lines Paris plans to construct for the Grand Paris Express for not much more money than the full buildout of the Second Avenue Subway that won&#8217;t even leave Manhattan.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218151#respond' onclick='return addComment.moveForm( "div-comment-1218151", "1218151", "respond", "15476" )' aria-label='Reply to BX'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-1219199">
+				<div id="div-comment-1219199" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Jeff</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219199">
+			April 24, 2015 at 9:28 am</a>		</div>
+
+		<p>How do you propose to do that in New York City?</p>
+<p>A big problem is lack of competent contractors that can even do this work.  So no competition = monopoly pricing.  You&#8217;re not going to be able to magically bring in new contractors that can do this work.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219199#respond' onclick='return addComment.moveForm( "div-comment-1219199", "1219199", "respond", "15476" )' aria-label='Reply to Jeff'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3" id="comment-1219247">
+				<div id="div-comment-1219247" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Tower18</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219247">
+			April 24, 2015 at 12:05 pm</a>		</div>
+
+		<p>That argument goes both ways.  If there is only one competent contractor, well, there&#8217;s only a handful of legitimate transit agencies also.  If contractor proposes pricing, the MTA need not agree.  Contractors need work.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219247#respond' onclick='return addComment.moveForm( "div-comment-1219247", "1219247", "respond", "15476" )' aria-label='Reply to Tower18'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-1218164">
+				<div id="div-comment-1218164" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">LLQBTT</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218164">
+			April 23, 2015 at 9:15 am</a>		</div>
+
+		<p>Enough talk. Decades of discussion isn&#8217;t enough? It&#8217;s real easy to pen an idea that&#8217;s been out there for a long time, now is the time for action.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218164#respond' onclick='return addComment.moveForm( "div-comment-1218164", "1218164", "respond", "15476" )' aria-label='Reply to LLQBTT'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-1218188">
+				<div id="div-comment-1218188" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Sam</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218188">
+			April 23, 2015 at 9:47 am</a>		</div>
+
+		<p>The 86th Street SBS is crazy. Yes, the bus line is crowded, but on an already congested street, taking out a lane each way will be a disaster.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218188#respond' onclick='return addComment.moveForm( "div-comment-1218188", "1218188", "respond", "15476" )' aria-label='Reply to Sam'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-1218189">
+				<div id="div-comment-1218189" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">VLM</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218189">
+			April 23, 2015 at 9:55 am</a>		</div>
+
+		<p>86th St. is no different from streets all over that have survived with dedicated bus lanes. New Yorkers really need to get over themselves with regards to bus lanes (and stop reading that drivel on Sheepshead Bites).</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218189#respond' onclick='return addComment.moveForm( "div-comment-1218189", "1218189", "respond", "15476" )' aria-label='Reply to VLM'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2" id="comment-1218212">
+				<div id="div-comment-1218212" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brandon</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218212">
+			April 23, 2015 at 10:29 am</a>		</div>
+
+		<p>This is what everyone stuck in the 1950s mentality in New York always says, but it never comes to fruition.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218212#respond' onclick='return addComment.moveForm( "div-comment-1218212", "1218212", "respond", "15476" )' aria-label='Reply to Brandon'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-1218244">
+				<div id="div-comment-1218244" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Stephen Smith</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218244">
+			April 23, 2015 at 11:19 am</a>		</div>
+
+		<p>They&#8217;re not taking any lanes for M86 SBS. It&#8217;s the only SBS upgrade without any dedicated lanes, or even fewer stops IIRC. It&#8217;s really a win-win proposition, and I hope they duplicate it on the other cross-park lines.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218244#respond' onclick='return addComment.moveForm( "div-comment-1218244", "1218244", "respond", "15476" )' aria-label='Reply to Stephen Smith'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent" id="comment-1218457">
+				<div id="div-comment-1218457" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218457">
+			April 23, 2015 at 3:11 pm</a>		</div>
+
+		<p>No, taking out a lane will vastly increase the capacity of the street, because dozens of people can fit in a bus compared to 1.3 in the average car. This effect may even reduce congestion in the remaining lane.</p>
+<p>(Removing the parking lane, while keeping the two lanes in each direction, would have the same effect.)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218457#respond' onclick='return addComment.moveForm( "div-comment-1218457", "1218457", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 parent" id="comment-1218488">
+				<div id="div-comment-1218488" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218488">
+			April 23, 2015 at 4:02 pm</a>		</div>
+
+		<p>Need a curb lane for deliveries, of goods or people.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218488#respond' onclick='return addComment.moveForm( "div-comment-1218488", "1218488", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-4" id="comment-1219000">
+				<div id="div-comment-1219000" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219000">
+			April 24, 2015 at 3:54 am</a>		</div>
+
+		<p>People and light goods can be delivered to the next street over. Heavy goods can be delivered at night when the bus lane is not in effect.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219000#respond' onclick='return addComment.moveForm( "div-comment-1219000", "1219000", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-4 parent" id="comment-1222222">
+				<div id="div-comment-1222222" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Guest</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1222222">
+			April 27, 2015 at 5:35 pm</a>		</div>
+
+		<p>How do cities with physically seperated/protected bus lanes deal with deliveries?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1222222#respond' onclick='return addComment.moveForm( "div-comment-1222222", "1222222", "respond", "15476" )' aria-label='Reply to Guest'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-5 parent" id="comment-1224148">
+				<div id="div-comment-1224148" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://pedestrianobservations.wordpress.com/' rel='external nofollow' class='url'>Alon Levy</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1224148">
+			April 29, 2015 at 1:34 am</a>		</div>
+
+		<p>Median bus lanes.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1224148#respond' onclick='return addComment.moveForm( "div-comment-1224148", "1224148", "respond", "15476" )' aria-label='Reply to Alon Levy'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-6" id="comment-1230881">
+				<div id="div-comment-1230881" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Saul</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1230881">
+			May 4, 2015 at 12:06 pm</a>		</div>
+
+		<p>So where are the stops? Along pedestrian islands? Or do buses have to cut across traffic to pick up and drop off?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1230881#respond' onclick='return addComment.moveForm( "div-comment-1230881", "1230881", "respond", "15476" )' aria-label='Reply to Saul'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-3 parent" id="comment-1218530">
+				<div id="div-comment-1218530" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Ryan</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218530">
+			April 23, 2015 at 5:13 pm</a>		</div>
+
+		<p>Could we all agree to stop manipulating the definitions of words in this way?</p>
+<p>Vehicular capacity isn&#8217;t the same thing as passenger capacity isn&#8217;t the same thing as occupancy rates isn&#8217;t the same thing as vehicular capacity utilization. They&#8217;re related, not the same.</p>
+<p>To be clear: vehicular capacity goes down when you switch out a general traffic lane for a bus lane because buses are larger and typically cannot break as fast. This means that the minimum safe headway between two buses is going to be larger than between two standard cars and, in turn, that you might only be able to fit 900 buses in a lane that could have carried 1500 cars. Vehicular capacity utilization goes WAY down because the entire point of a bus lane is to have free flowing bus traffic which is mutually exclusive with having a bus passing by every 4.5 seconds. (Having a bus go by every 4.5 seconds also presumably means that none of those buses are stopping, again, defeating the purpose of the bus lane unless it&#8217;s the XBL in the Lincoln Tunnel or something like that.)</p>
+<p>That doesn&#8217;t necessarily mean that passenger capacity goes down. It also doesn&#8217;t mean that passenger throughput goes down. And it definitely doesn&#8217;t mean that a bus lane is or would be a bad idea.</p>
+<p>All it means is that the absolute maximum number of vehicles that can be carried by the road does, in fact, go down.</p>
+<p>(By the way, 1.3 isn&#8217;t the capacity of the average car. The typical mid-size standard automobile seats 5 and therefore has a capacity of 5. Across this vehicle class, typical occupancy is 1.59.)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218530#respond' onclick='return addComment.moveForm( "div-comment-1218530", "1218530", "respond", "15476" )' aria-label='Reply to Ryan'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-4 parent" id="comment-1218998">
+				<div id="div-comment-1218998" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218998">
+			April 24, 2015 at 3:52 am</a>		</div>
+
+		<p>&#8220;Vehicular capacity isn’t the same thing as passenger capacity&#8221;</p>
+<p>Yes, and if you want to help people rather than cars, passenger capacity is what matters.</p>
+<p>&#8220;a lane that could have carried 1500 cars&#8221;</p>
+<p>Except that traffic engineers will tell you that non-freeway lanes carry a maximum of 1000 cars per hour, and less if it&#8217;s congested like this street is. Of course, the bus lane will handle fewer buses than this, but it will handle dozens of times as many passengers overall.</p>
+<p>&#8220;The typical mid-size standard automobile seats 5 and therefore has a capacity of 5. Across this vehicle class, typical occupancy is 1.59.&#8221;</p>
+<p>Those extra seats are besides the point if nobody is using them. Average occupancy for commute trips, which are concentrated at peak congestion times, is 1.1. So 1.3 is a reasonable estimate of the occupancy that has to be designed for.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218998#respond' onclick='return addComment.moveForm( "div-comment-1218998", "1218998", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-5 parent" id="comment-1219121">
+				<div id="div-comment-1219121" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Ryan</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219121">
+			April 24, 2015 at 6:54 am</a>		</div>
+
+		<p>Again, the entire point was to stop using &#8220;capacity&#8221; when you really mean something else. A bus every 8 seconds that just goes from one end of 86 to the other making no stops at any point has the most capacity of any possible lane assignment and would be a fairly useless exercise in absurdity. </p>
+<p>Occupancy rates/passenger throughput, service levels (which actually go down as capacity utilization go up), and time in travel are the figures you actually want to build your argument for a bus lane around. Not &#8220;capacity,&#8221; which is nebulous, arbitrary, and frequently misdefined &#8211; that this country pretends the other four seats in a midsize sedan either don&#8217;t exist or are meant for carrying your material possessions doesn&#8217;t change the fact that those four seats are there. The 5-person capacity of a single-occupant vehicle is a fact. </p>
+<p>As an aside, figuring a typical vehicle travel speed of 7 m/s (just over 15 mph), vehicle length of 4 meters, breaking deceleration of 2.5 m/s, a brick wall stop, and 1.5 second reaction time, we can find that the capacity of a congested surface lane moving vehicles at an average of 15 mph or so is in fact 1457, rounded down. To get a maximum of 1000, vehicle travel speed must fall to an average of 6 mph.</p>
+<p>Personally, I think 15 mph is reasonable, appropriate, and a great target for average speed of passenger vehicles on a surface street in a pedestrian heavy urban environment. Do you disagree?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219121#respond' onclick='return addComment.moveForm( "div-comment-1219121", "1219121", "respond", "15476" )' aria-label='Reply to Ryan'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-6" id="comment-1220335">
+				<div id="div-comment-1220335" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220335">
+			April 25, 2015 at 5:31 pm</a>		</div>
+
+		<p>15mph is a reasonable speed, but it is not uniformly maintained. Your calculation is an oversimplification. But even 1457 would be insignificant compared to the bus passenger capacity.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220335#respond' onclick='return addComment.moveForm( "div-comment-1220335", "1220335", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-5 parent" id="comment-1219748">
+				<div id="div-comment-1219748" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219748">
+			April 24, 2015 at 8:34 pm</a>		</div>
+
+		<p>The NYMTC travel survey, which shouldn&#8217;t count any for hire vehicles, says 6am-10am, 4pm-8pm mean vehicle occupancy for trips that originate in Manhattan is 1.5, 1.6 in the rest of the city. It&#8217;s a little worse in the AM, but you won&#8217;t get it down to 1.1</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219748#respond' onclick='return addComment.moveForm( "div-comment-1219748", "1219748", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-6" id="comment-1220334">
+				<div id="div-comment-1220334" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220334">
+			April 25, 2015 at 5:24 pm</a>		</div>
+
+		<p>OK, but whatever the the number is, it&#8217;s insignificant compared to the vastly higher bus passenger capacity.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220334#respond' onclick='return addComment.moveForm( "div-comment-1220334", "1220334", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1" id="comment-1218214">
+				<div id="div-comment-1218214" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brandon</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218214">
+			April 23, 2015 at 10:31 am</a>		</div>
+
+		<p>Forget capacity, which is clearly a problem: We can&#8217;t even afford to physically maintain the Eastern Parkway/Lexington lines today.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218214#respond' onclick='return addComment.moveForm( "div-comment-1218214", "1218214", "respond", "15476" )' aria-label='Reply to Brandon'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1" id="comment-1218265">
+				<div id="div-comment-1218265" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">tacony</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218265">
+			April 23, 2015 at 11:47 am</a>		</div>
+
+		<p><i>he later claimed, perhaps to save political capital in the face of a recalcitrant governor, that he’s never read the Move New York proposal.</i></p>
+<p>Why don&#8217;t you believe him? I could see neither de Blasio nor Cuomo having any interest in reading the Move NY proposal. I&#8217;m sure it&#8217;s been described to him by aides as &#8220;that plan to put tolls on the free bridges&#8221; and summarily dismissed. De Blasio clearly doesn&#8217;t want to make waves when it comes to such issues.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218265#respond' onclick='return addComment.moveForm( "div-comment-1218265", "1218265", "respond", "15476" )' aria-label='Reply to tacony'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-1218569">
+				<div id="div-comment-1218569" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">APH</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218569">
+			April 23, 2015 at 6:36 pm</a>		</div>
+
+		<p>&#8220;a free transfer between the Livonia Ave./Junius St. L and 3 stations&#8221;</p>
+<p>LOL, wow what a game changer, why is that even in the report? With each passing day it&#8217;s so obvious there is no serious advocate for meaningfully improving transit in a position of power in this city or state.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218569#respond' onclick='return addComment.moveForm( "div-comment-1218569", "1218569", "respond", "15476" )' aria-label='Reply to APH'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-1218646">
+				<div id="div-comment-1218646" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218646">
+			April 23, 2015 at 8:47 pm</a>		</div>
+
+		<p>How many people, who aren&#8217;t riding with an unlimited card, would even think about doing that?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218646#respond' onclick='return addComment.moveForm( "div-comment-1218646", "1218646", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3 parent" id="comment-1218675">
+				<div id="div-comment-1218675" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Bolwerk</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218675">
+			April 23, 2015 at 9:39 pm</a>		</div>
+
+		<p>Make all transfers free for two hours and find out.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218675#respond' onclick='return addComment.moveForm( "div-comment-1218675", "1218675", "respond", "15476" )' aria-label='Reply to Bolwerk'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-4" id="comment-1218756">
+				<div id="div-comment-1218756" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218756">
+			April 23, 2015 at 10:37 pm</a>		</div>
+
+		<p>Count how many unlimited cards do it and extrapolate?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218756#respond' onclick='return addComment.moveForm( "div-comment-1218756", "1218756", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-1218719">
+				<div id="div-comment-1218719" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">wise infrastructure</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218719">
+			April 23, 2015 at 10:05 pm</a>		</div>
+
+		<p>The subway-fication of the LIRR between Jamaica and Atlantic Ave should be viewed as major. The currently planned 30 minute interval cushy seat but high priced plan for a LIRR Jamaica shuttle is a waste of an already built resource and the price and lack of frequency will deter ridership. That subway-fication of this line was not part of the ESA package speaks volumes of the failures of our transit planning.    </p>
+<p>Subway-ficationIt will provide frequent express fast service to the Flatbush hub, providing Queens riders with a faster trip to downtown Brooklyn and connections to most of Brooklyn and Wall Street.</p>
+<p>Obviously this line should be extended across the river to Manhattan but for now at almost no cost, converting this line to self contained subway shuttle  would be a major plus.<br />
+Naturally the long term goal should be to bring this line into downtown and then either uptown to out to Hoboken and Secaucus.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218719#respond' onclick='return addComment.moveForm( "div-comment-1218719", "1218719", "respond", "15476" )' aria-label='Reply to wise infrastructure'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 parent" id="comment-1219013">
+				<div id="div-comment-1219013" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219013">
+			April 24, 2015 at 4:01 am</a>		</div>
+
+		<p>I was wondering if it was possible to hook it into the R train tracks at Barclays, providing access to Lower Manhattan (and thence to Midtown as a fourth Broadway service). Can anyone say JFK (Jamaica) to Lower Manhattan? But I couldn&#8217;t figure out the geometry around Barclays and whether adding a flyover connection there would be sufficiently cheap. Anyone know if this is possible?</p>
+<p>(Long term, a commuter rail tunnel to Lower Manhattan+New Jersey is of course more important.)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219013#respond' onclick='return addComment.moveForm( "div-comment-1219013", "1219013", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-3" id="comment-1219197">
+				<div id="div-comment-1219197" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219197">
+			April 24, 2015 at 9:25 am</a>		</div>
+
+		<p>That&#8217;s a good idea, although it would be quite an imbalance to have trains fly from Rosedale to Jamaica to Atlantic Terminal and then crawl along the R route into Lower Manhattan. This would minimize tunneling, but would encroach on active tracks and we all know how competent TA is at such projects.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219197#respond' onclick='return addComment.moveForm( "div-comment-1219197", "1219197", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-3 parent" id="comment-1219231">
+				<div id="div-comment-1219231" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">BoerumHillScott</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219231">
+			April 24, 2015 at 10:48 am</a>		</div>
+
+		<p>There is no practical way to tie the LIRR tracks into anything without abandoning the current terminal.</p>
+<p>Even if you abandon the current terminal, any solution will be very complex, expensive, and disruptive, given the very tight vertical spacing of the tracks.</p>
+<p>Making things even more complex in the last few years, the last of the large empty lots in the area are now built over or in process of construction, meaning that all work would have to fit in the footprint of existing streets that already have tracks under them.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219231#respond' onclick='return addComment.moveForm( "div-comment-1219231", "1219231", "respond", "15476" )' aria-label='Reply to BoerumHillScott'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-4" id="comment-1219242">
+				<div id="div-comment-1219242" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219242">
+			April 24, 2015 at 11:44 am</a>		</div>
+
+		<p>tracks that have trains that are already filled with people&#8230;.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219242#respond' onclick='return addComment.moveForm( "div-comment-1219242", "1219242", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-4" id="comment-1219249">
+				<div id="div-comment-1219249" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Joey</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219249">
+			April 24, 2015 at 12:08 pm</a>		</div>
+
+		<p>There&#8217;s nothing under Atlantic east of Flatbush preventing the construction of a new transition to a deep tunnel.  There&#8217;s nothing under Atlantic west of 4th Ave preventing a new tunnel from being built then.  The only thing you have to negotiate are the subway lines crossing Atlantic at angles.  They go down fairly deep, yes, but given that cut-and-cover subway construction is no longer politically viable it hardly matters.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219249#respond' onclick='return addComment.moveForm( "div-comment-1219249", "1219249", "respond", "15476" )' aria-label='Reply to Joey'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-4 parent" id="comment-1220333">
+				<div id="div-comment-1220333" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220333">
+			April 25, 2015 at 5:22 pm</a>		</div>
+
+		<p>According to this map, the LIRR tracks are on the same level as the IRT tracks, and one pair of LIRR tracks extends almost to the beginning of Ashland Place. So all that would be needed for a R-LIRR connection would be to dig up &lt;200 meters of Ashland Place and install connecting tracks of that length. Doesn&#039;t sound too hard, and Ashland is not exactly a center of NIMBY focus.</p>
+<p><a href="http://www.lirrhistory.com/mar2000/Fltbsh.JPG" onclick="__gaTracker('send', 'event', 'outbound-comment', 'http://www.lirrhistory.com/mar2000/Fltbsh.JPG', 'http://www.lirrhistory.com/mar2000/Fltbsh.JPG');" rel="nofollow">http://www.lirrhistory.com/mar2000/Fltbsh.JPG</a></p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220333#respond' onclick='return addComment.moveForm( "div-comment-1220333", "1220333", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-5 parent" id="comment-1220765">
+				<div id="div-comment-1220765" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220765">
+			April 26, 2015 at 1:00 pm</a>		</div>
+
+		<p>It&#8217;s probably possible if they cared enough to, but it would be very tricky given that Ashland Place contains the current D/N/R tracks already. The B/Q run under St Felix St, which is midway between Ashland and Ft Greene Pl, further complicating things.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220765#respond' onclick='return addComment.moveForm( "div-comment-1220765", "1220765", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-6 parent" id="comment-1220777">
+				<div id="div-comment-1220777" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220777">
+			April 26, 2015 at 1:55 pm</a>		</div>
+
+		<p>I was thinking they just have to dig down and remove the roof of the D/N/R tracks, add two switches to the sides of the R tracks, and connect them up to Atlantic Terminal. It looks to me like the vertical rise here should be manageable. Since they would be approaching the D/N/R from above, no special measures or service interruptions should be needed. And the B/Q is a block away and should be completely unaffected.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220777#respond' onclick='return addComment.moveForm( "div-comment-1220777", "1220777", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-7 parent" id="comment-1220786">
+				<div id="div-comment-1220786" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220786">
+			April 26, 2015 at 2:22 pm</a>		</div>
+
+		<p>which sounds great except for those pesky pesky trains filled with pesky pesky passengers already using the tracks.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220786#respond' onclick='return addComment.moveForm( "div-comment-1220786", "1220786", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-8 parent" id="comment-1220805">
+				<div id="div-comment-1220805" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220805">
+			April 26, 2015 at 3:59 pm</a>		</div>
+
+		<p>The D/N/B/Q trains keep running like normal. The R trains are interrupted for a couple days and a number of late nights while you install the track connections. The trains that then run-through will take up unused space on the Broadway line.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220805#respond' onclick='return addComment.moveForm( "div-comment-1220805", "1220805", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-9 parent" id="comment-1220835">
+				<div id="div-comment-1220835" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220835">
+			April 26, 2015 at 6:20 pm</a>		</div>
+
+		<p>There are likely utilities above the D/N/R tunnel, placed there precisely because of its existence. Moving them would probably require going under both sets of tunnels. Long story short it&#8217;s possible, but would be difficult and disruptive given how ineptly some other projects in the city have been done.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220835#respond' onclick='return addComment.moveForm( "div-comment-1220835", "1220835", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-10" id="comment-1221408">
+				<div id="div-comment-1221408" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1221408">
+			April 27, 2015 at 4:24 am</a>		</div>
+
+		<p>If the utilities are above the trains, they have to tunnel under the trains in order to move them? *scratches head*</p>
+<p>Guess I have some things to learn about infrastructure.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-10" id="comment-1222363">
+				<div id="div-comment-1222363" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1222363">
+			April 27, 2015 at 7:38 pm</a>		</div>
+
+		<p>Although I just noticed that the 41st/10th subway stop, if it&#8217;s ever built, is projected to cost $450 million (see Wikipedia). This R-LIRR idea seems about equally hard (or easy). And half a billion dollars to *temporarily* avoid an Atlantic Avenue transfer (until a new tunnel connects LIRR to Lower Manhattan and NJ) does not seem worth it.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-8 parent" id="comment-1220834">
+				<div id="div-comment-1220834" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220834">
+			April 26, 2015 at 6:19 pm</a>		</div>
+
+		<p>You keep using that phrase to oppose whatever expansion or service change might help NYC as a whole. By your definition, we would never have weekend maintenance, because &#8220;pesky pesky passengers&#8221; would be inconvenienced. We all know how well that turned out&#8230;</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220834#respond' onclick='return addComment.moveForm( "div-comment-1220834", "1220834", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-9" id="comment-1220854">
+				<div id="div-comment-1220854" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220854">
+			April 26, 2015 at 7:47 pm</a>		</div>
+
+		<p>I&#8217;m thinking about rush hour. When the existing tunnels are filled with trains carrying passengers.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220854#respond' onclick='return addComment.moveForm( "div-comment-1220854", "1220854", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-9 parent" id="comment-1220857">
+				<div id="div-comment-1220857" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220857">
+			April 26, 2015 at 8:09 pm</a>		</div>
+
+		<p>What about the people who are already using the tunnels? Let &#8217;em take the bus so Long Islanders can get to Wall Street easier?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220857#respond' onclick='return addComment.moveForm( "div-comment-1220857", "1220857", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-10" id="comment-1220948">
+				<div id="div-comment-1220948" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">wise infrastructure</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220948">
+			April 26, 2015 at 9:59 pm</a>		</div>
+
+		<p>1- When you have tunnels that are using half their capacity making use of the rest of the capacity will have minimal detriment to the current users.</p>
+<p>2- Do not make this about Long Islanders vs city residents &#8211; if you get riders off the LIRR mainline at Jamaica, then maybe more reasonable pricing can be implemented to allow Queens riders to use that capacity into the Manhattan</p>
+<p>3- Many of the riders from Jamaica to Wall Street will be Queens residents &#8211; it is not about serving Long Islanders, but rather about making use of an available resource of maximal benefit.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-10" id="comment-1221096">
+				<div id="div-comment-1221096" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1221096">
+			April 26, 2015 at 11:54 pm</a>		</div>
+
+		<p>They may only be exploiting half the capacity of the tunnel but there are those other pesky pesky trains from other lines at DeKalb Avenue and in Manhattan.<br />
+People in Queens are free to use the LIRR now. And do. The LIRR Main Line is underutilized. Which is why no one is concerned about the increased traffic that East Side Access will induce.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-10" id="comment-1221421">
+				<div id="div-comment-1221421" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1221421">
+			April 27, 2015 at 4:32 am</a>		</div>
+
+		<p>Adi, why don&#8217;t you look at the track map for once, and you&#8217;ll see that DeKalb Ave has six tracks, and one pair is currently used only by the R, and the R only uses half of its track capacity. So nobody would be inconvenienced by this proposed connection. On the contrary, R riders would be better off, with twice as many trains running on the Lower Manhattan-Downtown Brooklyn segment. Less waiting, more space on trains.</p>
+<p>If you continue making elementary mistakes like this then nobody will be able to take your comments seriously.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent" id="comment-1219216">
+				<div id="div-comment-1219216" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Jeff</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219216">
+			April 24, 2015 at 10:07 am</a>		</div>
+
+		<p>If they do this, they definitely need to connect it with the Rockaway Beach Branch south of Atlantic Ave.  Its less of a NIMBY-land than the rest of the line, and would solve the Rockaways access problems as well, AND improve access to JFK, without the need to reactivate the entire Rockaway line.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219216#respond' onclick='return addComment.moveForm( "div-comment-1219216", "1219216", "respond", "15476" )' aria-label='Reply to Jeff'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 parent" id="comment-1219775">
+				<div id="div-comment-1219775" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219775">
+			April 24, 2015 at 8:53 pm</a>		</div>
+
+		<p>&#8220;solve the Rockaways access problems as well, AND improve access to JFK&#8221;</p>
+<p>You can already take a subway from the rockaways to downtown brooklyn. You can already take a subway from the airtrain station to downtown brooklyn. The LIRR line, at times just a block away, is faster. But will it still be much faster if you are adding infill stations as part of the subwayification of the line? And do those rockaway trains come at the expense of trains from Jamaica?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219775#respond' onclick='return addComment.moveForm( "div-comment-1219775", "1219775", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-4 parent" id="comment-1220175">
+				<div id="div-comment-1220175" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Jeff</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220175">
+			April 25, 2015 at 7:56 am</a>		</div>
+
+		<p>That&#8217;s the point, the speed.  The A train takes way too long to get to the Rockways and this would address the problem.  They might add stations but quite frankly there&#8217;s a limit to the number of stations they can add due to the construction of the line.  </p>
+<p>And I don&#8217;t see how they need to take trains away from Jamaica.   I really don&#8217;t see the need for the Jamaica-Atlantic line to be anywhere near capacity.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220175#respond' onclick='return addComment.moveForm( "div-comment-1220175", "1220175", "respond", "15476" )' aria-label='Reply to Jeff'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-5 parent" id="comment-1220462">
+				<div id="div-comment-1220462" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">wise infrastructure</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220462">
+			April 26, 2015 at 12:33 am</a>		</div>
+
+		<p>To cut run time  to the Rockaways why not create a bypass from the Belt parkway to Pitkin Avenue along conduit blvd. Replace the 5 bypassed stations with one at Cross Bay Blvd. Such routing would save travel distance and would feed into the 4 track subway avoiding the the merge onto the old fulton El and could be built economically (if there is such a thing in NYC) as a surface running line given Conduit Blvd&#8217;s wide center median. This would benefit both Rockaway and JFK riders. This bypass would remove or lessens the need for either a connection to the Atlantic Ave or the Queens Blvd IND. </p>
+<p>While subwayfication of the LIRR Atlantic Avenue has great potential, it removes the potential of a railroad extension from Flatbush Ave to Hoboken via downtown. Such an extension would have numerous benefits including:</p>
+<p>*downtown service from NJ, LI, and if junction is built, to the Bronx/Westchester/Ct<br />
+*giving the the Northeast Corridor an alternate/emergency route.</p>
+<p>Perhaps a better idea is subwayfication between  East NY and Jamaica with subway trains transitioning at East NY onto the IND Fulton Subway and/or the BMT Broadway (brooklyn) el. The railroad would use Atlantic Ave to East NY and then connect onto the freight line providing service to Jamaica and point north via Hellgate.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220462#respond' onclick='return addComment.moveForm( "div-comment-1220462", "1220462", "respond", "15476" )' aria-label='Reply to wise infrastructure'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-6" id="comment-1222364">
+				<div id="div-comment-1222364" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1222364">
+			April 27, 2015 at 7:40 pm</a>		</div>
+
+		<p>&#8220;While subwayfication of the LIRR Atlantic Avenue has great potential, it removes the potential of a railroad extension from Flatbush Ave to Hoboken via downtown.&#8221;</p>
+<p>That is obvious the best long term solution. But even if the line is subwayfied now, it can be unsubwayfied later very cheaply.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1222364#respond' onclick='return addComment.moveForm( "div-comment-1222364", "1222364", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even depth-4 parent" id="comment-1220178">
+				<div id="div-comment-1220178" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Jeff</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220178">
+			April 25, 2015 at 8:02 am</a>		</div>
+
+		<p>Besides, everything you said can be applied to Jamaica too.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220178#respond' onclick='return addComment.moveForm( "div-comment-1220178", "1220178", "respond", "15476" )' aria-label='Reply to Jeff'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-5" id="comment-1220375">
+				<div id="div-comment-1220375" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220375">
+			April 25, 2015 at 8:36 pm</a>		</div>
+
+		<p>There is no train from Jamaica to downtown Brooklyn. There is a train from Rockaway to downtown Brooklyn. I had thought your comment was in response to Eric&#8217;s that the line be hooked into the Montague street tunnel, it&#8217;s kind of hard to see how comments are threaded on this site sometimes. In which case you&#8217;d already be splitting capacity of the line with Bay Ridge. If you split it again to give the Rockaways a faster express service how many trains would you have left for Jamaica? If the trains would dead end at atlantic, then capacity probably wouldn&#8217;t be an issue any time soon, you&#8217;re right.</p>
+<p>Scheduled run time from East NY to Atlantic is ~22 mph on the LIRR. If stations are added you&#8217;d probably have a similar run time from East new york to woodhaven junction. From Broadway junction to Jay st is 21 mph on the A. It&#8217;s slower at ~20.5 mph on the section from Broadway junction to Rockaway blvd. How much time do you actually save? Beach 60th st is ~15 miles from Atlantic terminal. Unless you run trains non stop from Howard beach to Atlantic terminal you won&#8217;t meaningfully change things for Rockaway riders.</p>
+<p>Coming from Jamaica you save Brooklyn bound riders a transfer and close to ten minutes of time on the train, most of whom probably took a bus or LIRR train to get to the new subway in the first place. (or ~30-35 minutes over the F through Manhattan.) Maybe that goes down to 7-8 minutes if you add a couple stops, I would think at least at Woodhaven.</p>
+<p>Why do you think stops couldn&#8217;t be added to the line? Even if you can&#8217;t on Atlantic they should add one at 101st on the elevated if they reactivate that section of the RBB.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220375#respond' onclick='return addComment.moveForm( "div-comment-1220375", "1220375", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even depth-5 parent" id="comment-1220491">
+				<div id="div-comment-1220491" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220491">
+			April 26, 2015 at 2:01 am</a>		</div>
+
+		<p>Also, how would it improve access to JFK if you connect to the airtrain at Howard Beach instead of Jamaica? Or if you meant to send the new subway direct to JFK, then you are splitting frequency between Rockaway, JFK, and Jamaica terminals.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220491#respond' onclick='return addComment.moveForm( "div-comment-1220491", "1220491", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-6" id="comment-1220519">
+				<div id="div-comment-1220519" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">adirondacker12800</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220519">
+			April 26, 2015 at 3:46 am</a>		</div>
+
+		<p>And if you send it all the way to the airport most passengers are going to have to get on Airtrain anyway because the subway station, there will only be one, isn&#8217;t at the terminal they want.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220519#respond' onclick='return addComment.moveForm( "div-comment-1220519", "1220519", "respond", "15476" )' aria-label='Reply to adirondacker12800'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even depth-2" id="comment-1220767">
+				<div id="div-comment-1220767" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220767">
+			April 26, 2015 at 1:04 pm</a>		</div>
+
+		<p>On the east end of the line, the Rosedale branch of the LIRR should also be subway-ified. A subway line with less than 10 stops from Rosedale to Atlantic Terminal, then continuing to Lower Manhattan via either Montague or a new tunnel, would be successful.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220767#respond' onclick='return addComment.moveForm( "div-comment-1220767", "1220767", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1" id="comment-1218984">
+				<div id="div-comment-1218984" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Richard Garey</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218984">
+			April 24, 2015 at 3:44 am</a>		</div>
+
+		<p>While I commend the mayor for shifting the focus towards the outerboroughs, I really have to question why the West Bronx isn&#8217;t being considered for a subway.  </p>
+<p>The MTA removed the Third Avenue El is the 70&#8217;s.  NYC Planning has already paved the way for the surrounding area to be rebuilt to a greater level than its historic density. So why not bring back an El.  It would seem that an El could be built directly above the Harlem Line with relative ease. </p>
+<p>The other</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218984#respond' onclick='return addComment.moveForm( "div-comment-1218984", "1218984", "respond", "15476" )' aria-label='Reply to Richard Garey'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-1218989">
+				<div id="div-comment-1218989" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Richard Garey</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1218989">
+			April 24, 2015 at 3:48 am</a>		</div>
+
+		<p>The other obvious option is a line that would cover Ogden &amp; University Avenues in the West Bronx.  The density already exists to support it.  Consider the fact the (1) the 4 train is over capacity (2) The mayor wants to construct more housing along the Jerome Avenue corridor (3) The majority or households in this area are low-income and heavily reliant on public transportation.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1218989#respond' onclick='return addComment.moveForm( "div-comment-1218989", "1218989", "respond", "15476" )' aria-label='Reply to Richard Garey'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2 parent" id="comment-1219037">
+				<div id="div-comment-1219037" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Eric</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219037">
+			April 24, 2015 at 4:31 am</a>		</div>
+
+		<p>Or alternatively, to build a line on Third Avenue, to Bronx Zoo and then taking over the Dyre Ave branch (the 5). That&#8217;s also an underserved area. Then the frequency of the 4 train could be doubled.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219037#respond' onclick='return addComment.moveForm( "div-comment-1219037", "1219037", "respond", "15476" )' aria-label='Reply to Eric'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3" id="comment-1222235">
+				<div id="div-comment-1222235" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Guest</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1222235">
+			April 27, 2015 at 5:45 pm</a>		</div>
+
+		<p>I agree that Third Ave should come before any neighborhood west of the 4 in the Bronx. The SAS should eventually be extended along Third Ave in the Bronx.</p>
+<p>To relive the 4 build a Metro North station at Depot Pl, reduce fares within city limits and designate SBS buses along E161st/3rd Sts and East Tremont Ave.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1222235#respond' onclick='return addComment.moveForm( "div-comment-1222235", "1222235", "respond", "15476" )' aria-label='Reply to Guest'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent" id="comment-1220836">
+				<div id="div-comment-1220836" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Brooklynite</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220836">
+			April 26, 2015 at 6:23 pm</a>		</div>
+
+		<p>We can&#8217;t and shouldn&#8217;t be building subway lines two blocks apart from each other, except in Manhattan. That&#8217;s simply not sustainable long-term.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220836#respond' onclick='return addComment.moveForm( "div-comment-1220836", "1220836", "respond", "15476" )' aria-label='Reply to Brooklynite'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3" id="comment-1222230">
+				<div id="div-comment-1222230" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Guest</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1222230">
+			April 27, 2015 at 5:41 pm</a>		</div>
+
+		<p>I disagree, the West Bronx is as dense as Upper Manhattan and the Third Ave corridor is under built right now. Significant potential for redevelopment with fast trips to Midtown. Yes the area is being built up now but there&#8217;s tons of one story industrial/commercial space, lots and parking lots that could be redeveloped very dense in that area with little resistance.</p>
+<p>I wouldn&#8217;t build a subway west of the 4 right now though. Instead I would build a Metro North station at Depot Pl to serve Highbridge and drop the fares within city limits.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1222230#respond' onclick='return addComment.moveForm( "div-comment-1222230", "1222230", "respond", "15476" )' aria-label='Reply to Guest'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent" id="comment-1219204">
+				<div id="div-comment-1219204" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Jeff</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219204">
+			April 24, 2015 at 9:34 am</a>		</div>
+
+		<p>So instead of being Manhattan-centric, De Blasio is now Brooklyn-centric.  Got it.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219204#respond' onclick='return addComment.moveForm( "div-comment-1219204", "1219204", "respond", "15476" )' aria-label='Reply to Jeff'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2" id="comment-1221805">
+				<div id="div-comment-1221805" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Bolwerk</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1221805">
+			April 27, 2015 at 11:11 am</a>		</div>
+
+		<p>Just proposing a little bone to throw to Brooklyn makes you Brooklyn-centric?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1221805#respond' onclick='return addComment.moveForm( "div-comment-1221805", "1221805", "respond", "15476" )' aria-label='Reply to Bolwerk'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-1219453">
+				<div id="div-comment-1219453" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">smartone</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1219453">
+			April 24, 2015 at 3:37 pm</a>		</div>
+
+		<p>As far as who is paying for this &#8211; why not the City? Bloomberg smartly decided that he wanted 7 Train extension and opened the city&#8217;s pocketbook to pay for it. </p>
+<p>De Blassio despite the media&#8217;s view  is a very cunning politician<br />
+In the fight for Pre K education in NYC De Blassio set a marker of universal Pre K paid by increase taxes on the wealthy &#8211; He ended up with universal Pre  K.  Everyone thought De Blasso had failed because he didn&#8217;t get the rich to pay for Pre K but in fact he pushed a major education initiative through. </p>
+<p>MY Point? Right now NYC government has an anemic funding commitment in next MTA capital plan. I would bet De Blassio is positioning  additional funding from NYC for MTA capital plan for this outer borough line.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1219453#respond' onclick='return addComment.moveForm( "div-comment-1219453", "1219453", "respond", "15476" )' aria-label='Reply to smartone'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 parent" id="comment-1220658">
+				<div id="div-comment-1220658" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">JJ</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220658">
+			April 26, 2015 at 8:51 am</a>		</div>
+
+		<p><a><b><br />
+DeBlasio needs to raise the tax rates on Homes in the boroughs ( class 1 ) .<br />
+Their tax rate is 1%  (16% tax on 6% value ) vs the 6% (13.75% tax on 45% value )on condos and coops (class 2 )</b></a></p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220658#respond' onclick='return addComment.moveForm( "div-comment-1220658", "1220658", "respond", "15476" )' aria-label='Reply to JJ'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2" id="comment-1220693">
+				<div id="div-comment-1220693" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lop</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1220693">
+			April 26, 2015 at 10:12 am</a>		</div>
+
+		<p><a href="http://www.manhattan-institute.org/email/crd_newsletter04-09.html" onclick="__gaTracker('send', 'event', 'outbound-comment', 'http://www.manhattan-institute.org/email/crd_newsletter04-09.html', 'http://www.manhattan-institute.....04-09.html');" rel="nofollow">http://www.manhattan-institute.....04-09.html</a></p>
+<p>Class 1 is 54% of market value, just 15% of tax levy.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1220693#respond' onclick='return addComment.moveForm( "div-comment-1220693", "1220693", "respond", "15476" )' aria-label='Reply to lop'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 parent" id="comment-1223336">
+				<div id="div-comment-1223336" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://www.egotripexpress.com/' rel='external nofollow' class='url'>EgoTripExpress</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1223336">
+			April 28, 2015 at 10:01 am</a>		</div>
+
+		<p>If the mayor&#8217;s goal was to expand subways in the other boroughs with relatively low overhead and quick turnaround time, then he should be (and should have always been) advocating the revival of the abandoned portion of the LIRR&#8217;s Rockaway Branch for subway service. Likewise he could ask the same for the LIRR&#8217;s <a href="https://www.google.com/maps/d/edit?mid=z3lW2dd3Kb3M.kaMGwkfh9Nik" onclick="__gaTracker('send', 'event', 'outbound-comment', 'https://www.google.com/maps/d/edit?mid=z3lW2dd3Kb3M.kaMGwkfh9Nik', 'Lower Montauk Branch');" rel="nofollow">Lower Montauk Branch</a>. And in line with his &#8216;subway-ification&#8217; of the LIRR&#8217;s Atlantic Branch, he should describe how the underutilized LIRR branches of south Jamaica could tap into it.</p>
+<p>However if de Blasio&#8217;s goal is get publicity by making empty promises that pander to local supporters in a bid to position himself as the &#8216;Progressive Kingmaker&#8217; of the 2016 Presidential Election, who will anoint Hillary like the Prophet Samuel, then by all means he should just pitch a <a href="https://www.google.com/maps/d/edit?mid=z3lW2dd3Kb3M.kfmdUgHoKwfY" onclick="__gaTracker('send', 'event', 'outbound-comment', 'https://www.google.com/maps/d/edit?mid=z3lW2dd3Kb3M.kfmdUgHoKwfY', 'subway to Staten Island');" rel="nofollow">subway to Staten Island</a>.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1223336#respond' onclick='return addComment.moveForm( "div-comment-1223336", "1223336", "respond", "15476" )' aria-label='Reply to EgoTripExpress'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2" id="comment-1693336">
+				<div id="div-comment-1693336" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Chet-NYC</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#comment-1693336">
+			February 8, 2016 at 12:05 pm</a>		</div>
+
+		<p>If a plan to actually build a subway tunnel to Staten Island, (whether from the 4th Avenue line as your map illustrates (that was the 1920s plan); or a cross harbor tunnel to Whitehall) was actually proposed by a Mayor or Governor, they would pretty instantly become the most popular person on Staten Island.</p>
+<p>We wouldn&#8217;t hear publicly from a lot of them, because the complainers here on Staten Island are always louder, but anyone with a brain here knows the only real solution to the horrendous commute that islanders have to other parts of the city is a subway connection.  </p>
+<p>If build like your map shows, it should continue all the way down the North Shore along the old rail right of way that exists.   We would still need to vastly improve transit along the center of the island (Victory Blvd), a connection to the 4th Avenue line would be awesome.</p>
+<p>In fact, I&#8217;m about to go to Manhattan, and I&#8217;ll drive to the 36th St. D, N, R station.  It would be great to just drive over to Tompkinsville and hop on an extension of the N train there.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://secondavenuesagas.com/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/?replytocom=1693336#respond' onclick='return addComment.moveForm( "div-comment-1693336", "1693336", "respond", "15476" )' aria-label='Reply to Chet-NYC'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</div>
+	</ol>
+
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+
+</div><!--end #comments-->
+
+
+<div id="respond">
+<h3>Leave a Reply</h3>
+<div id="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/2015/04/23/for-onenyc-a-call-for-a-utica-ave-subway-amidst-competing-interests/#respond" style="display:none;">Click here to cancel reply.</a></small></div>
+
+
+<form action="http://secondavenuesagas.com/wp-comments-post.php" method="post" id="commentform">
+<input type='hidden' name='comment_post_ID' value='15476' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+
+
+<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+
+<p><textarea name="comment" id="comment" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type="hidden" name="comment_post_ID" value="15476" />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="de6ae185a6" /></p><script src="http://secondavenuesagas.com/?live-comment-preview.js" type="text/javascript"></script><div id="commentPreview"></div><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="187"/></p>
+</form>
+
+</div><!--end #respond-->
+	
+	  
+		
+</div><!--end #content-->
+
+<div class="w360- left sidebar" id="sidebar">
+
+<!--sidebar.php-->
+
+<div class="widget">			<div class="textwidget"><center><script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=524286&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=96503"></script></center></div>
+		</div><div class="widget"><h4>The Author</h4>			<div class="textwidget"><strong>Name:</strong> Benjamin Kabak<br>
+<strong>E-mail:</strong> <a href="http://secondavenuesagas.com/contact-me/">Contact Me</a><br><br>
+
+<strong>Upcoming Events</strong><br>
+<strong>Wednesday, February 17, 2016 at 6:30 p.m.</strong> Revenue Review: 370 Jay Street & The Money Room (<a href="https://51281.blackbaudhosting.com/51281/Revenue-Review-370-Jay-Street--the-Money-Room" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://51281.blackbaudhosting.com/51281/Revenue-Review-370-Jay-Street--the-Money-Room', 'Tickets &amp; Details');">Tickets & Details</a>)
+
+<br><br><strong>RSS? Yes, Please:</strong> <a href="http://feeds.feedburner.com/SecondAveSagas" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://feeds.feedburner.com/SecondAveSagas', 'SAS\' RSS Feed');">SAS' RSS Feed</a><br>
+<strong>SAS In Your Inbox:</strong> <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=877500" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.feedburner.com/fb/a/emailverifySubmit?feedId=877500', 'Subscribe to SAS by E-mail');">Subscribe to SAS by E-mail</a><br><br>
+
+<strong>Technical Manager:</strong> Jay Gordon<br><br>
+
+<a href="https://twitter.com/2AvSagas" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://twitter.com/2AvSagas', 'Follow @2AvSagas');" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @2AvSagas</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br><br>
+
+<style>.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
+<a href="http://instagram.com/secondavesagas?ref=badge" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://instagram.com/secondavesagas?ref=badge', '');" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a><br><br>
+
+<center><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsecondavesagas&amp;width=300&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=160627968785" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></center><br><br>
+
+<strong>Disclaimer:</strong> Subway Map &copy; Metropolitan Transportation Authority. Used with permission. MTA is not associated with nor does it endorse this website or its content.<br><br>
+
+<a href="http://fusion.google.com/add?source=atgs&feedurl=http%3A//feeds.feedburner.com/SecondAveSagas" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://fusion.google.com/add?source=atgs&amp;feedurl=http%3A//feeds.feedburner.com/SecondAveSagas', '');"><img src="http://buttons.googlesyndication.com/fusion/add.gif" border="0" alt="Add to Google"></a>
+<a href="http://us.rd.yahoo.com/my/atm/Benjamin%20Kabak/Second%20Ave.%20Sagas/*http://add.my.yahoo.com/rss?url=http%3A//secondavenuesagas.com/feed" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://us.rd.yahoo.com/my/atm/Benjamin%20Kabak/Second%20Ave.%20Sagas/*http://add.my.yahoo.com/rss?url=http%3A//secondavenuesagas.com/feed', '');"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" width="91" height="17" border="0" align="middle" alt="Add to My Yahoo!"></a></div>
+		</div>
+<div class="w180- left sidebar">
+
+<div class="widget">			<div class="textwidget"><a href="http://www.itrans.info" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.itrans.info', '');"><img src="http://secondavenuesagas.com/images/itrans_ad.png"></a></div>
+		</div><div class="widget"><h4>Categories</h4>		<ul>
+	<li class="cat-item cat-item-4"><a href="http://secondavenuesagas.com/category/7-line-extension/" >7 Line Extension</a> (118)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://secondavenuesagas.com/category/abandoned-stations/" >Abandoned Stations</a> (29)
+</li>
+	<li class="cat-item cat-item-97"><a href="http://secondavenuesagas.com/category/arc-tunnel/" >ARC Tunnel</a> (52)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://secondavenuesagas.com/category/arts-for-transit/" >Arts for Transit</a> (19)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://secondavenuesagas.com/category/asides/" >Asides</a> (1,243)
+</li>
+	<li class="cat-item cat-item-57"><a href="http://secondavenuesagas.com/category/bronx/" >Bronx</a> (13)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://secondavenuesagas.com/category/brooklyn/" >Brooklyn</a> (122)
+</li>
+	<li class="cat-item cat-item-150"><a href="http://secondavenuesagas.com/category/brooklyn-queens-connector/" >Brooklyn-Queens Connector</a> (5)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://secondavenuesagas.com/category/buses/" >Buses</a> (278)
+</li>
+	<li class="cat-item cat-item-68"><a href="http://secondavenuesagas.com/category/capital-program-2010-2014/" >Capital Program 2010-2014</a> (27)
+</li>
+	<li class="cat-item cat-item-134"><a href="http://secondavenuesagas.com/category/capital-program-2015-2019/" >Capital Program 2015-2019</a> (55)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://secondavenuesagas.com/category/congestion-fee/" >Congestion Fee</a> (63)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://secondavenuesagas.com/category/east-side-access-project/" >East Side Access Project</a> (34)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://secondavenuesagas.com/category/f-express-plan/" >F Express Plan</a> (19)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://secondavenuesagas.com/category/fare-hikes/" >Fare Hikes</a> (163)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://secondavenuesagas.com/category/fulton-street/" >Fulton Street</a> (57)
+</li>
+	<li class="cat-item cat-item-116"><a href="http://secondavenuesagas.com/category/gateway-tunnel/" >Gateway Tunnel</a> (28)
+</li>
+	<li class="cat-item cat-item-115"><a href="http://secondavenuesagas.com/category/high-speed-rail/" >High-Speed Rail</a> (9)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://secondavenuesagas.com/category/hudson-yards/" >Hudson Yards</a> (18)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://secondavenuesagas.com/category/international-subways/" >International Subways</a> (25)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://secondavenuesagas.com/category/lirr/" >LIRR</a> (64)
+</li>
+	<li class="cat-item cat-item-70"><a href="http://secondavenuesagas.com/category/manhattan/" >Manhattan</a> (70)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://secondavenuesagas.com/category/metro-north/" >Metro-North</a> (97)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://secondavenuesagas.com/category/metrocard/" >MetroCard</a> (121)
+</li>
+	<li class="cat-item cat-item-69"><a href="http://secondavenuesagas.com/category/moynihan-station/" >Moynihan Station</a> (14)
+</li>
+	<li class="cat-item cat-item-56"><a href="http://secondavenuesagas.com/category/mta/" >MTA</a> (94)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://secondavenuesagas.com/category/mta-absurdity/" >MTA Absurdity</a> (232)
+</li>
+	<li class="cat-item cat-item-24"><a href="http://secondavenuesagas.com/category/mta-bridges-and-tunnels/" >MTA Bridges and Tunnels</a> (27)
+</li>
+	<li class="cat-item cat-item-25"><a href="http://secondavenuesagas.com/category/mta-construction/" >MTA Construction</a> (124)
+</li>
+	<li class="cat-item cat-item-26"><a href="http://secondavenuesagas.com/category/mta-economics/" >MTA Economics</a> (504)
+<ul class='children'>
+	<li class="cat-item cat-item-66"><a href="http://secondavenuesagas.com/category/mta-economics/doomsday-budget/" >Doomsday Budget</a> (73)
+</li>
+	<li class="cat-item cat-item-64"><a href="http://secondavenuesagas.com/category/mta-economics/ravitch-commission/" >Ravitch Commission</a> (23)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://secondavenuesagas.com/category/mta-politics/" >MTA Politics</a> (285)
+</li>
+	<li class="cat-item cat-item-28"><a href="http://secondavenuesagas.com/category/mta-technology/" >MTA Technology</a> (190)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://secondavenuesagas.com/category/new-jersey-transit/" >New Jersey Transit</a> (48)
+</li>
+	<li class="cat-item cat-item-55"><a href="http://secondavenuesagas.com/category/new-york-city-transit/" >New York City Transit</a> (198)
+</li>
+	<li class="cat-item cat-item-32"><a href="http://secondavenuesagas.com/category/panynj/" >PANYNJ</a> (106)
+</li>
+	<li class="cat-item cat-item-65"><a href="http://secondavenuesagas.com/category/paratransit/" >Paratransit</a> (7)
+</li>
+	<li class="cat-item cat-item-140"><a href="http://secondavenuesagas.com/category/penn-station/" >Penn Station</a> (17)
+</li>
+	<li class="cat-item cat-item-135"><a href="http://secondavenuesagas.com/category/penn-station-access/" >Penn Station Access</a> (9)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://secondavenuesagas.com/category/public-transit-policy/" >Public Transit Policy</a> (158)
+</li>
+	<li class="cat-item cat-item-34"><a href="http://secondavenuesagas.com/category/queens/" >Queens</a> (126)
+</li>
+	<li class="cat-item cat-item-36"><a href="http://secondavenuesagas.com/category/rider-report-cards/" >Rider Report Cards</a> (31)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://secondavenuesagas.com/category/rolling-stock/" >Rolling Stock</a> (30)
+</li>
+	<li class="cat-item cat-item-38"><a href="http://secondavenuesagas.com/category/second-avenue-subway/" >Second Avenue Subway</a> (244)
+</li>
+	<li class="cat-item cat-item-39"><a href="http://secondavenuesagas.com/category/self-promotion/" >Self Promotion</a> (77)
+</li>
+	<li class="cat-item cat-item-40"><a href="http://secondavenuesagas.com/category/service-advisories/" >Service Advisories</a> (597)
+</li>
+	<li class="cat-item cat-item-41"><a href="http://secondavenuesagas.com/category/service-cuts/" >Service Cuts</a> (117)
+</li>
+	<li class="cat-item cat-item-67"><a href="http://secondavenuesagas.com/category/sponsored-post/" >Sponsored Post</a> (1)
+</li>
+	<li class="cat-item cat-item-42"><a href="http://secondavenuesagas.com/category/staten-island/" >Staten Island</a> (52)
+</li>
+	<li class="cat-item cat-item-43"><a href="http://secondavenuesagas.com/category/straphangers-campaign/" >Straphangers Campaign</a> (40)
+</li>
+	<li class="cat-item cat-item-44"><a href="http://secondavenuesagas.com/category/subway-advertising/" >Subway Advertising</a> (45)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://secondavenuesagas.com/category/subway-cell-service/" >Subway Cell Service</a> (34)
+</li>
+	<li class="cat-item cat-item-54"><a href="http://secondavenuesagas.com/category/subway-history/" >Subway History</a> (81)
+</li>
+	<li class="cat-item cat-item-46"><a href="http://secondavenuesagas.com/category/subway-maps/" >Subway Maps</a> (81)
+</li>
+	<li class="cat-item cat-item-47"><a href="http://secondavenuesagas.com/category/subway-movies/" >Subway Movies</a> (14)
+</li>
+	<li class="cat-item cat-item-48"><a href="http://secondavenuesagas.com/category/subway-romance/" >Subway Romance</a> (13)
+</li>
+	<li class="cat-item cat-item-49"><a href="http://secondavenuesagas.com/category/subway-security/" >Subway Security</a> (102)
+</li>
+	<li class="cat-item cat-item-141"><a href="http://secondavenuesagas.com/category/superstorm-sandy/" >Superstorm Sandy</a> (30)
+</li>
+	<li class="cat-item cat-item-50"><a href="http://secondavenuesagas.com/category/taxis/" >Taxis</a> (43)
+</li>
+	<li class="cat-item cat-item-143"><a href="http://secondavenuesagas.com/category/the-next-stop-is/" >The Next Stop Is</a> (18)
+</li>
+	<li class="cat-item cat-item-72"><a href="http://secondavenuesagas.com/category/transit-labor/" >Transit Labor</a> (149)
+<ul class='children'>
+	<li class="cat-item cat-item-71"><a href="http://secondavenuesagas.com/category/transit-labor/atu/" >ATU</a> (4)
+</li>
+	<li class="cat-item cat-item-51"><a href="http://secondavenuesagas.com/category/transit-labor/twu/" >TWU</a> (99)
+</li>
+	<li class="cat-item cat-item-147"><a href="http://secondavenuesagas.com/category/transit-labor/utu/" >UTU</a> (8)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-142"><a href="http://secondavenuesagas.com/category/triboro-rx/" >Triboro RX</a> (3)
+</li>
+	<li class="cat-item cat-item-117"><a href="http://secondavenuesagas.com/category/us-transit-systems/" >U.S. Transit Systems</a> (53)
+<ul class='children'>
+	<li class="cat-item cat-item-121"><a href="http://secondavenuesagas.com/category/us-transit-systems/bart/" >BART</a> (1)
+</li>
+	<li class="cat-item cat-item-118"><a href="http://secondavenuesagas.com/category/us-transit-systems/capital-metro/" >Capital Metro</a> (1)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://secondavenuesagas.com/category/us-transit-systems/cta/" >CTA</a> (7)
+</li>
+	<li class="cat-item cat-item-59"><a href="http://secondavenuesagas.com/category/us-transit-systems/mbta/" >MBTA</a> (11)
+</li>
+	<li class="cat-item cat-item-92"><a href="http://secondavenuesagas.com/category/us-transit-systems/septa/" >SEPTA</a> (5)
+</li>
+	<li class="cat-item cat-item-53"><a href="http://secondavenuesagas.com/category/us-transit-systems/wmata/" >WMATA</a> (28)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://secondavenuesagas.com/category/view-from-underground/" >View from Underground</a> (418)
+</li>
+		</ul>
+</div><div class="widget"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://secondavenuesagas.com/2016/04/'> April 2016 </option>
+	<option value='http://secondavenuesagas.com/2016/03/'> March 2016 </option>
+	<option value='http://secondavenuesagas.com/2016/02/'> February 2016 </option>
+	<option value='http://secondavenuesagas.com/2016/01/'> January 2016 </option>
+	<option value='http://secondavenuesagas.com/2015/12/'> December 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/11/'> November 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/10/'> October 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/09/'> September 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/08/'> August 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/07/'> July 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/06/'> June 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/05/'> May 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/04/'> April 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/03/'> March 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/02/'> February 2015 </option>
+	<option value='http://secondavenuesagas.com/2015/01/'> January 2015 </option>
+	<option value='http://secondavenuesagas.com/2014/12/'> December 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/11/'> November 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/10/'> October 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/09/'> September 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/08/'> August 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/07/'> July 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/06/'> June 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/05/'> May 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/04/'> April 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/03/'> March 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/02/'> February 2014 </option>
+	<option value='http://secondavenuesagas.com/2014/01/'> January 2014 </option>
+	<option value='http://secondavenuesagas.com/2013/12/'> December 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/11/'> November 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/10/'> October 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/09/'> September 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/08/'> August 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/07/'> July 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/06/'> June 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/05/'> May 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/04/'> April 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/03/'> March 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/02/'> February 2013 </option>
+	<option value='http://secondavenuesagas.com/2013/01/'> January 2013 </option>
+	<option value='http://secondavenuesagas.com/2012/12/'> December 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/11/'> November 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/10/'> October 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/09/'> September 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/08/'> August 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/07/'> July 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/06/'> June 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/05/'> May 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/04/'> April 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/03/'> March 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/02/'> February 2012 </option>
+	<option value='http://secondavenuesagas.com/2012/01/'> January 2012 </option>
+	<option value='http://secondavenuesagas.com/2011/12/'> December 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/11/'> November 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/10/'> October 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/09/'> September 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/08/'> August 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/07/'> July 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/06/'> June 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/05/'> May 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/04/'> April 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/03/'> March 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/02/'> February 2011 </option>
+	<option value='http://secondavenuesagas.com/2011/01/'> January 2011 </option>
+	<option value='http://secondavenuesagas.com/2010/12/'> December 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/11/'> November 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/10/'> October 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/09/'> September 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/08/'> August 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/07/'> July 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/06/'> June 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/05/'> May 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/04/'> April 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/03/'> March 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/02/'> February 2010 </option>
+	<option value='http://secondavenuesagas.com/2010/01/'> January 2010 </option>
+	<option value='http://secondavenuesagas.com/2009/12/'> December 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/11/'> November 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/10/'> October 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/09/'> September 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/08/'> August 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/07/'> July 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/06/'> June 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/05/'> May 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/04/'> April 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/03/'> March 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/02/'> February 2009 </option>
+	<option value='http://secondavenuesagas.com/2009/01/'> January 2009 </option>
+	<option value='http://secondavenuesagas.com/2008/12/'> December 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/11/'> November 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/10/'> October 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/09/'> September 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/08/'> August 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/07/'> July 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/06/'> June 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/05/'> May 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/04/'> April 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/03/'> March 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/02/'> February 2008 </option>
+	<option value='http://secondavenuesagas.com/2008/01/'> January 2008 </option>
+	<option value='http://secondavenuesagas.com/2007/12/'> December 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/11/'> November 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/10/'> October 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/09/'> September 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/08/'> August 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/07/'> July 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/06/'> June 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/05/'> May 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/04/'> April 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/03/'> March 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/02/'> February 2007 </option>
+	<option value='http://secondavenuesagas.com/2007/01/'> January 2007 </option>
+	<option value='http://secondavenuesagas.com/2006/12/'> December 2006 </option>
+	<option value='http://secondavenuesagas.com/2006/11/'> November 2006 </option>
+
+		</select>
+		</div><div class="widget"><h4>Meta</h4>			<ul>
+						<li><a rel="nofollow" href="http://secondavenuesagas.com/wp-login.php">Log in</a></li>
+			<li><a href="http://secondavenuesagas.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://secondavenuesagas.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div>
+</div><div class="w180- left sidebar">
+
+<!--sidebar.php-->
+			<div class="widget">								<div class="adsensewidget"><script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=524286&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=75913"></script></div>
+			</div>	<div class="widget">			<div class="textwidget"><a href="http://www.klawnyc.com/brooklyn-car-accident-lawyer/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.klawnyc.com/brooklyn-car-accident-lawyer/', 'Kuharski Levitz &amp; Giovinazzo');">Kuharski Levitz & Giovinazzo</a><br>
+<a href="http://www.caraccidentlawyer-ny.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.caraccidentlawyer-ny.com/', 'Greenstein &amp; Milbauer, LLP');">Greenstein & Milbauer, LLP</a><br>
+<a href="http://www.greensteinmilbauer.com/nursing-home-neglect/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.greensteinmilbauer.com/nursing-home-neglect/', 'Nursing Home Abuse Lawyer NYC');">Nursing Home Abuse Lawyer NYC</a><br>
+<a href="http://www.ny-defense.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.ny-defense.com/', 'Law Office of James Medows');">Law Office of James Medows</a></div>
+		</div><div class="widget"><h4>New York Blogs</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.boweryboogie.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.boweryboogie.com/', 'Bowery Boogie');">Bowery Boogie</a></li>
+<li><a href="http://brownstoner.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://brownstoner.com/', 'Brownstoner');">Brownstoner</a></li>
+<li><a href="http://cityroom.blogs.nytimes.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://cityroom.blogs.nytimes.com/', 'City Room');">City Room</a></li>
+<li><a href="http://ny.curbed.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://ny.curbed.com/', 'Curbed');">Curbed</a></li>
+<li><a href="http://nymag.com/daily/intel/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://nymag.com/daily/intel/', 'Daily Intel');">Daily Intel</a></li>
+<li><a href="http://ephemeralnewyork.wordpress.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://ephemeralnewyork.wordpress.com/', 'Ephemeral New York');">Ephemeral New York</a></li>
+<li><a href="http://www.gothamist.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.gothamist.com', 'Gothamist');">Gothamist</a></li>
+<li><a href="http://www.heresparkslope.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.heresparkslope.com', 'Here\'s Park Slope');">Here&#039;s Park Slope</a></li>
+<li><a href="http://vanishingnewyork.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://vanishingnewyork.blogspot.com/', 'Jeremiah&#8217;s Vanishing New York');">Jeremiah&#8217;s Vanishing New York</a></li>
+<li><a href="http://lostnewyorkcity.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://lostnewyorkcity.blogspot.com/', 'Lost City');">Lost City</a></li>
+<li><a href="http://mcbrooklyn.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://mcbrooklyn.blogspot.com/', 'mcbrooklyn');">mcbrooklyn</a></li>
+<li><a href="http://nyjournal.squarespace.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://nyjournal.squarespace.com/', 'New York Journal');">New York Journal</a></li>
+<li><a href="http://queenscrap.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://queenscrap.blogspot.com/', 'Queens Crap');">Queens Crap</a></li>
+<li><a href="http://rooseveltislander.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://rooseveltislander.blogspot.com/', 'Roosevelt Islander');">Roosevelt Islander</a></li>
+<li><a href="http://blogs.villagevoice.com/runninscared/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://blogs.villagevoice.com/runninscared/', 'Runnin&#8217; Scared');">Runnin&#8217; Scared</a></li>
+<li><a href="http://newyork.seriouseats.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://newyork.seriouseats.com/', 'Serious Eats: New York');">Serious Eats: New York</a></li>
+<li><a href="http://theboweryboys.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://theboweryboys.blogspot.com/', 'The Bowery Boys');">The Bowery Boys</a></li>
+<li><a href="http://www.nydailynews.com/blogs/dailypolitics/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.nydailynews.com/blogs/dailypolitics/', 'The Daily Politics');">The Daily Politics</a></li>
+<li><a href="http://politicker.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://politicker.com/', 'The Politicker');">The Politicker</a></li>
+
+	</ul>
+</div>
+<div class="widget"><h4>NYC News Sites</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.gothamgazette.com/index.shtml" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.gothamgazette.com/index.shtml', 'Gotham Gazette');">Gotham Gazette</a></li>
+<li><a href="http://www.ny1.com/content/transit" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.ny1.com/content/transit', 'NY1 Transit News');">NY1 Transit News</a></li>
+<li><a href="http://nytimes.com/metro/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://nytimes.com/metro/', 'The New York Times Metro Section');">The New York Times Metro Section</a></li>
+
+	</ul>
+</div>
+<div class="widget"><h4>Public Transit</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://capntransit.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://capntransit.blogspot.com/', 'Cap&#8217;n Transit Rides Again');">Cap&#8217;n Transit Rides Again</a></li>
+<li><a href="http://citytransit.blogspot.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://citytransit.blogspot.com/', 'City Transit Advocates');">City Transit Advocates</a></li>
+<li><a href="http://hopstop.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://hopstop.com', 'Hop Stop');">Hop Stop</a></li>
+<li><a href="http://www.nyctransitforums.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.nyctransitforums.com', 'NYC Transit Forums');">NYC Transit Forums</a></li>
+<li><a href="http://www.straphangers.org/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.straphangers.org/', 'Straphangers Campaign');">Straphangers Campaign</a></li>
+<li><a href="http://www.streetsblog.org" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.streetsblog.org', 'Streetsblog');">Streetsblog</a></li>
+<li><a href="http://streetsblog.net/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://streetsblog.net/', 'Streetsblog Network');">Streetsblog Network</a></li>
+<li><a href="http://www.subchat.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.subchat.com', 'Subchat');">Subchat</a></li>
+<li><a href="http://www.railfanwindow.com/blog/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.railfanwindow.com/blog/', 'The Railfan Window Blog');">The Railfan Window Blog</a></li>
+<li><a href="http://thetransportpolitic.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://thetransportpolitic.com', 'The Transport Politic');">The Transport Politic</a></li>
+<li><a href="http://trainjotting.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://trainjotting.com/', 'Trainjotting');">Trainjotting</a></li>
+<li><a href="http://www.transalt.org/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.transalt.org/', 'Transportation Alternatives');">Transportation Alternatives</a></li>
+<li><a href="http://transportationnation.org/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://transportationnation.org/', 'Transportation Nation');">Transportation Nation</a></li>
+<li><a href="http://www.vision42.org/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.vision42.org/', 'vision42');">vision42</a></li>
+
+	</ul>
+</div>
+<div class="widget"><h4>Subway Maps</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://hopstop.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://hopstop.com', 'Hop Stop');">Hop Stop</a></li>
+<li><a href="http://www.kickmap.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.kickmap.com', 'Kick Map');">Kick Map</a></li>
+<li><a href="http://mta.info/nyct/maps/submap.htm" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://mta.info/nyct/maps/submap.htm', 'MTA&#8217;s Official Map');">MTA&#8217;s Official Map</a></li>
+<li><a href="http://www.nycsubway.org/maps/track/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.nycsubway.org/maps/track/', 'NYCSubway.org Track Maps');">NYCSubway.org Track Maps</a></li>
+
+	</ul>
+</div>
+</div>
+<div class="widget">			<div class="textwidget"><center><script type="text/javascript" src="http://cdn.widgetserver.com/syndication/subscriber/InsertWidget.js"></script><script type="text/javascript">if (WIDGETBOX) WIDGETBOX.renderWidget('b0016c94-27ba-41b4-b2b8-f5a2a762ebf2');</script>
+<noscript>Get the <a href="http://www.widgetbox.com/widget/mta-nyct-trip-planner" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.widgetbox.com/widget/mta-nyct-trip-planner', 'MTA - NYCT Trip Planner');">MTA - NYCT Trip Planner</a> widget and many other <a href="http://www.widgetbox.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.widgetbox.com/', 'great free widgets');">great free widgets</a> at <a href="http://www.widgetbox.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.widgetbox.com', 'Widgetbox');">Widgetbox</a>! Not seeing a widget? (<a href="http://support.widgetbox.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://support.widgetbox.com/', 'More info');">More info</a>)</noscript></center></div>
+		</div>
+
+</div></div><!--end #container-->
+
+<div class="c960 center wrap" id="footer">
+	<div class="alignleft">
+	<strong>Second Ave. Sagas</strong><br />
+	Copyright &copy; 2016 All Rights Reserved	</div>
+	<div class="alignright">
+	<a href="http://flexxtheme.com/" title="Flexx Theme">Flexx Theme</a> by <a href="http://ithemes.com" title="WordPress Themes">iThemes</a><br />
+	Powered by <a href="http://wordpress.org">WordPress</a>
+	</div>
+       
+		<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://secondavenuesagas.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.10'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-includes/js/comment-reply.min.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201617'></script>
+<script type='text/javascript' src='http://cdn-sas.secondavenuesagas.com/wp-includes/js/wp-embed.min.js?ver=4.5.1'></script>
+
+<!-- Start Of Script Generated By cforms v14.6 [Oliver Seidel | www.deliciousdays.com] -->
+<!-- End Of Script Generated By cforms -->
+
+<script type='text/javascript' src='http://stats.wp.com/e-201617.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.2',blog:'1990351',post:'15476',tz:'-4',srv:'secondavenuesagas.com'} ]);
+	_stq.push([ 'clickTrackerInit', '1990351', '15476' ]);
+</script>
+</div>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-44Rfm5_o_qKMg"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-44Rfm5_o_qKMg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Database Caching 15/53 queries in 0.053 seconds using memcached
+Content Delivery Network via cdn-sas.secondavenuesagas.com
+
+ Served from: secondavenuesagas.com @ 2016-04-30 18:05:14 by W3 Total Cache -->

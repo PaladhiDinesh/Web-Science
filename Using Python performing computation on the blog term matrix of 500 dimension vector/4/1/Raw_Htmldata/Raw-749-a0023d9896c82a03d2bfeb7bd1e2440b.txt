@@ -1,0 +1,1178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"> 
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <meta name="apple-itunes-app" content="app-id=284901416"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEPUFdACQEAXFNUAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta property="twitter:title" content="Cruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads" />
+<meta property="twitter:description" content="WASHINGTON (AP) — Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz &quot;stole&quot; the win. But with…" />
+<meta property="twitter:url" content="http://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads" />
+<meta property="twitter:site" content="@ap" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/APNews" />
+<meta name="twitter:app:name:iphone" content="AP Mobile" />
+<meta name="twitter:app:id:iphone" content="284901416" />
+<meta name="twitter:app:id:googleplay" content="mnn.Android" />
+<meta name="twitter:app:url:googleplay" content="apmobile://article/e9d0c23699f74d4fb44a079834209dc5" />
+<link href="http://bigstory.ap.org/profiles/ap/themes/ap_vertical/touch-icon.png" rel="apple-touch-icon" />
+<meta name="twitter:app:name:googleplay" content="AP Mobile" />
+<meta name="twitter:app:url:ipad" content="apmobile://article/e9d0c23699f74d4fb44a079834209dc5" />
+<meta name="twitter:app:url:iphone" content="apmobile://article/e9d0c23699f74d4fb44a079834209dc5" />
+<meta name="twitter:app:name:ipad" content="AP Mobile" />
+<meta name="twitter:app:id:ipad" content="284901416" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="WASHINGTON (AP) — Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz &quot;stole&quot; the win. But with…" />
+<meta property="al:ios:url" content="apmobile://article/e9d0c23699f74d4fb44a079834209dc5" />
+<meta property="al:ios:app_store_id" content="284901416" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://bigstory.ap.org/sites/bigstory/files/AP_Favicon_0_0.png" type="image/png" />
+<link rel="canonical" href="http://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads" />
+<link rel="shortlink" href="/node/12618263" />
+<meta property="fb:app_id" content="118162278248556" />
+<meta property="al:ios:app_name" content="AP Mobile" />
+<meta property="og:site_name" content="The Big Story" />
+<meta property="og:url" content="http://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads" />
+<meta property="al:android:url" content="apmobile://article/e9d0c23699f74d4fb44a079834209dc5" />
+<meta property="og:title" content="Cruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads" />
+<meta property="al:web:url" content="http://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads" />
+<meta property="al:android:app_name" content="AP Mobile" />
+<meta property="al:android:package" content="mnn.Android" />
+<meta name="description" content="WASHINGTON (AP) — Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz &quot;stole&quot; the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV. And while the billionaire has been stepping up his campaign ground game and events in New Hampshire, Trump appears to be giving other candidates the opportunity there — and in South Carolina, the following primary state — to make the same kind of political-advertising assault that ramped up in Iowa. Cruz attacked him. A political group poured $1 million into negative ads. Even Ben Carson tucked in a subtle jab. During the 10-day period leading up to the Feb. 1 caucus, seven of every 10 broadcast TV ad spots that mentioned Trump in Iowa either attacked him or compared him negatively to another candidate, according to an Associated Press analysis of broadcast television political ads. In total, Republican candidates and super PACs ran at least 16 different television ads attacking Trump that aired nearly 2,500 times. Trump faced a heavy onslaught of negative ads from Cruz&#039;s campaign and the Cruz-aligned super PAC Stand for Truth. The Our Principles PAC also bombarded Trump with more than $1.1 million in TV ads by largely using Trump&#039;s own words against him — including old interviews where he said he didn&#039;t like abortion but still considered himself pro-choice. For comparison, Trump himself aired one ad called &quot;Clear Difference&quot; about 1,000 times. That ad attacks Cruz, a Republican senator from Texas, for his stance on immigration and compares Trump favorably. Trump&#039;s other ad — a positive spot featuring a campaign speech — aired fewer than 25 times. &quot;What we saw in Iowa, that was probably a failure of ground game and television,&quot; said Kyle Kondik, the managing editor of Sabato&#039;s Crystal Ball, a non-partisan election newsletter run by the University of Virginia. In an interview with the AP on Friday, Trump said he was learning as he goes along. He said he now knew to invest more in turnout and would defend himself robustly from future attacks — though he&#039;ll only spend money if it&#039;s actually needed. &quot;I&#039;ve spent the least amount of money of any candidate, and I&#039;m No. 1 in the polls,&quot; Trump said. &quot;That&#039;s called good business skills.&quot; With the New Hampshire primary on Tuesday, Trump has spent about $3.6 million on TV and radio ads there. But Trump&#039;s spending trails his next-closest competitor: Florida GOP Sen. Marco Rubio has spent $4.8 million in New Hampshire, and has benefited from an additional $8.1 million in ads from the Rubio-aligned Conservative Solutions PAC. Rubio has also spent heavily on ads in South Carolina, data show, where the Cruz-aligned Keep the Promise I PAC has been running ads attacking Trump. Trump&#039;s $750,000 of broadcast advertising in South Carolina buys to date leaves him the eighth biggest spender among the candidates and conservative PACs. And with about two weeks until the third primary contest, Trump has only booked about $7,500 in future airtime — a small amount compared to the $2.2 million reserved by Rubio and the $1.1 million by Cruz-aligned Stand for Truth PAC. Trump said he&#039;d spend more if he felt that he needed to, calling his campaign &quot;$45 million under budget&quot; in an interview with the AP. But advertising hasn&#039;t been key to the race so far, he said. &quot;I see Bush spending $100 million,&quot; Trump said, &quot;and I&#039;ve spent practically nothing.&quot; __ Follow on Twitter: Chad Day at https://twitter.com/ChadSDay and Jeff Horwitz at https://twitter.com/JeffHorwitz" />
+<meta name="keywords" content="Iowa, Donald Trump, Political parties, Political action committees, New Hampshire, South Carolina, Ted Cruz, Ben Carson, Marco Rubio, Campaign advertising, Negative campaigns, Campaigns" />
+<meta name="rights" content="2012 Associated Press" />
+    <title>Cruz, 'super' PACs pummeled Trump on Iowa airwaves with ads</title>  
+  <link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_oMbXc7k1lztVmWIZmJx0DLukZ3iBp1nckbHvyT91Shs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_RSCslsjBren-5nNXe-F6UI_SxxlH8dMI49owlKu2AIs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_VrBCHR8E7uqiQrVBsfdeoB3xVH_m6Iw9DgnkF2XKjfA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_LSHsoZF7jquocBUwsskOBTpxrHPtiNoy7kfY7C0_24g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_GDyPfWxLYAGs0EZ7rrEyCcTUwCza-o_8EwsSKvDXab0.css" media="print" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://bigstory.ap.org/sites/bigstory/files/css/css_KCNZ7YudgplVMn0e5YXrEptF8K7nkEFZt5Yrs5EjYM0.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="/profiles/ap/themes/bigstory_v2/assets/js/responsive_ads.js"></script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-27590430-2";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/drupal.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["topic_box_2"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/12618263", [300, 250], "dfp-ad-topic_box_2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/12618263", [[728, 90], [970, 66], [970, 90], [970, 250]], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/12618263", [[300, 50], [320, 50]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418//15786418/BigStory/AP/site/node/12618263", [[[[728], [90]], [[970], [66]], [[970], [90]], [[970], [250]]]], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418//15786418/BigStory/AP/site/node/12618263", [[[[300], [50]], [[320], [50]]]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["half_page"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/12618263", [[300, 250], [300, 600]], "dfp-ad-half_page")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mediumrectangle"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/12618263", [300, 250], "dfp-ad-mediumrectangle")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11304492" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.hoverIntent.minified.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.masonry.min.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_masonry.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_flyout.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+//--><!]]>
+</script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function () {
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = 'http://s.ntv.io/serve/load.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/dynamic-carousel.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/jquery.wmuslider.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/ap_carousel.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/ap/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/google_analytics/googleanalytics.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27590430-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/sites/bigstory/files/ap_polar_ads.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/uta3cck.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/responsive_dfp_box/js/responsive_dfp.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/disqus/disqus.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var AP_SOCIAL = {"refresh_delay":"3600","node_id":"12618263"}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/js/mondernizr.custom.min.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/vendor/modernizr.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/jquery-scrolltofixed.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/custom.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/jquery.magnific-popup.min.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/core.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/gallery.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/image.js?o2elgr"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/omega/omega/js/omega-mediaqueries.js?o2elgr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bigstory_v2","theme_token":"C9_jbW2WX7ecz63-tsEwWIS5ZivSJDmqQCi4IBYJHfA","js":{"profiles\/ap\/modules\/custom\/optional\/ap_social\/js\/ap_social.min.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"1":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.hoverIntent.minified.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.masonry.min.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_masonry.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_flyout.js":1,"10":1,"11":1,"":1,"12":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/dynamic-carousel.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/jquery.wmuslider.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/ap_carousel.js":1,"13":1,"profiles\/ap\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"14":1,"public:\/\/ap_polar_ads.js":1,"15":1,"http:\/\/use.typekit.com\/uta3cck.js":1,"16":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/package-quojs-2.3.6\/quo.js":1,"profiles\/ap\/modules\/custom\/optional\/responsive_dfp_box\/js\/responsive_dfp.js":1,"profiles\/ap\/modules\/contrib\/disqus\/disqus.js":1,"17":1,"profiles\/ap\/themes\/bigstory_v2\/js\/mondernizr.custom.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/vendor\/modernizr.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/jquery-scrolltofixed.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/custom.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/jquery.magnific-popup.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/core.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/gallery.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/image.js":1,"profiles\/ap\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/css\/flyout.css":1,"profiles\/ap\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/ap\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ap\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ap\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ap\/modules\/custom\/dev\/ap_polar_ads\/css\/polar_ad_article_bs.css":1,"profiles\/ap\/modules\/custom\/core\/ap_microformats\/ap_microformats.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/siro.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/glyphicon.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/fonts.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/foundation.min.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/styles-bigStory.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/style.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/magnific-popup.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/print.css":1,"ie::normal::profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"responsive_dfp_box":{"responsive_leaderboard":{"desktop":"\n\u003Cdiv  id=\u0022dfp-ad-leaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-leaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n","mobile":"\n\u003Cdiv  id=\u0022dfp-ad-mobileleaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-mobileleaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"urlIsAjaxTrusted":{"\/article\/e9d0c23699f74d4fb44a079834209dc5\/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads":true},"disqus":{"domain":"thebigstory","url":"http:\/\/bigstory.ap.org\/article\/e9d0c23699f74d4fb44a079834209dc5\/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads","title":"Cruz, \u0026#039;super\u0026#039; PACs pummeled Trump on Iowa airwaves with ads","identifier":"node\/12618263"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie8.css"><![endif]-->
+  <!--[if lt IE 10]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie9.css"><![endif]-->
+  <!--[if lt IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie8.js"></script><![endif]-->
+  <!--[if IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie9.js"></script><![endif]-->
+  <!--[if lt IE 10]><script src="/profiles/ap/themes/bigstory_v2/assets/js/css3-multi-column.js"></script><![endif]-->
+  <script type="text/javascript">
+      $(function(){
+          if( $('body').hasClass("node-type-ap-article") ){
+              var script_quo = document.createElement('script')
+              script_quo.src = '/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js'
+              document.documentElement.firstChild.appendChild(script_quo);
+          }
+      });
+  </script>
+
+<!-- Taboola script goes here 
+<script src="http://hosted.ap.org/specials/jquery-1.11.2.min.js"></script> -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/associatedpress-ap/loader.js');
+</script>
+</head>
+<body  class="html not-front not-logged-in page-node page-node- page-node-12618263 node-type-ap-article context-article">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <header>
+    <nav class="top-bar" data-topbar="">
+        <ul class="title-area">
+            <li class="name">
+                <a class="logo" href="/">
+                    <!--[if gte IE 9]><!-->
+                    <img src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.svg" width="291" alt="">
+                    <!--<![endif]-->
+                    <!--[if lte IE 8]>
+                      <img class="fix-ie8-logo" src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.png" width="291" alt="">
+                    <![endif]-->
+                </a>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span><!-- menu --></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!--<nav id="nav">-->
+            <!--menu dinamico-->
+            <ul class="right medium-3 menuLinks">
+                
+                            <li class="hide-for-medium">
+            
+                            <a href="http://bigstory.ap.org/latest">
+                    Latest News                </a>
+            
+
+                        </li>
+           
+        
+                            <li class="hide-for-medium">
+            
+                            <a href="http://bigstory.ap.org/on-the-campaign-trail">
+                    On the Campaign Trail                </a>
+            
+
+                        </li>
+           
+                        <li class="hide-for-small search-li dividerbigstory">
+                    <a id="idsearchform" type="button" data-options="align:left" data-dropdown="headerSearch" data-options="is_hover:false">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    <div data-dropdown-content="" class="small content searchform drop-left open" id="headerSearch" style="display: none; position: absolute; left: -295px; top: 3px;">
+                        
+                        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                    <!--<div class="container-inline">
+                                    <div class="form-item form-type-textfield form-item-search-block-form">-->
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <div class="row collapse">
+                                    <div class="small-10 colu">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text">
+                                    </div>
+                                    <div  class="small-2 colu" id="edit-actions">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" >
+                                    </div>
+                                    <input type="hidden" name="form_id" value="search_block_form">
+                                </div>
+                            </div>
+                        </div>
+                        </form>
+                    </div>
+                </li>
+                <li class="searchForm show-for-small">
+                    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8" >
+                            <!--<div class="container-inline">-->
+                        <div class="">
+                            <div class="small-12 columns">
+                                <div class="row collapse" style="float:left">
+                                    <div class="small-10 columns">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text"/>
+                                    </div>
+                                    <div  class="small-2 columns" id="edit-actions2">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" />
+                                    </div>
+                                <input type="hidden" name="form_id" value="search_block_form"/>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+                <li class="divider show-for-small"></li>
+                <!--<li class="ad_nav">
+                    <a href="#"><img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_88x31.png" alt=""></a>
+                </li>-->
+            </ul>
+            <!--</nav>-->
+        </section>
+    </nav>
+</header>
+<div class="block block-boxes block-boxes-responsive-dfp block-responsive-leaderboard block-boxes-responsive-leaderboard odd block-without-title" id="block-boxes-responsive-leaderboard">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id='boxes-box-responsive_leaderboard' class='boxes-box'><div class="boxes-box-content"><div id="responsive_leaderboard-responsive-ad" class="responsive-ad"></div></div></div>    </div>
+  </div>
+
+</div>  </div>
+</div><!--<div>    <div id="whitelabel_header" class="clearfix">
+      </div>
+    <div class="menu-zone-inner-wrapper">
+	  <div>
+	    	  </div>
+  </div>
+</div>--></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+            <div id="section-article-full">
+
+
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                 
+            <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    
+<section class="row article">
+<!-- Main article BEGIN -->
+<article class="large-9 medium-8 columns">
+    <section class="articleHeader">
+        
+        <div class="byline-dateline">
+            <!--
+                        <a href="/tags/iowa">Iowa</a>
+                        -->
+        </div>
+
+                          <h1 class="story-heading">Cruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads <span></span></h1>
+                
+      <div class="story-meta-footer">
+          
+        <div class="byline-dateline"> 
+            <div id="byline"><div class="field field-name-field-byline-original field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">By <a href="/journalist/chad-day">CHAD DAY</a> and <a href="/journalist/jeff-horwitz">JEFF HORWITZ</a></div></div></div></div>
+            <div id="dateline">
+                   <span  class="updated" title="2016-02-08T03:29:22-05:00">Feb. 8, 2016 3:29 AM EST</span> 
+            </div>
+        </div>
+          
+      </div>
+
+    </section>
+
+    <!-- sticky Tool-bar BEGIN -->
+    <section class="article_toolbar sticky" id="sticky-article-toolbar">
+        <div class="small-12 left">
+            
+<a class="share_bt hide-for-small" id="facebook" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="twitter" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="email" href="mailto:?subject=AP Big Story: Cruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads&body=From AP, %0D%0A %0D%0ACruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads. %0D%0A %0D%0AWASHINGTON (AP) &#x2014; Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz  stole  the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads"><i></i></a>
+<a href="#" class="share_bt" id="shareAll" data-dropdown="social-dropdown" onclick="javascript:return false;"><i></i>
+  <span class="share_bt" id="sharesTotal"></span>
+</a>
+
+<div class="right">
+  <a href="#" class="share_bt right" id="commentsAnchor"><i></i><span id="comments-count"></span></a>
+</div>
+
+<div id="social-dropdown-parent">
+  <div id="social-dropdown" class="f-dropdown">
+    <h6>Share article</h6>
+    <ul class="small-block-grid-3">
+      <li><a class="share_bt" id="facebook" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="twitter" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="linkedin" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="googleplus" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="reddit" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="tumblr" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="email" href="mailto:?subject=AP Big Story: Cruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads&body=From AP, %0D%0A %0D%0ACruz, &#039;super&#039; PACs pummeled Trump on Iowa airwaves with ads. %0D%0A %0D%0AWASHINGTON (AP) &#x2014; Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz  stole  the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/e9d0c23699f74d4fb44a079834209dc5/cruz-super-pacs-pummeled-trump-iowa-airwaves-ads"><i></i></a></li>
+    </ul>
+  </div>
+</div>
+        </div>
+    </section>
+    
+ <script type="text/javascript">var only_one_photo = 1;</script> 
+<section class="slideshow lead-photo" id="lead-photo-slideshow">
+    <div class="photo-count">
+        1 photo    </div>
+    <script>var total_imgs =1</script>
+
+    <ul class="gallery popup-gallery" id="ul-gallery">
+        
+                <li class="visible">
+                    <a class="open-gallery" href="http://binaryapi.ap.org/46bb4d29a2984330bb151258903536ab/460x.jpg" title="FILE - In a Sunday, Feb. 7, 2016 file photo, Republican presidential candidate Donald Trump speaks during a campaign event at Plymouth State University, in Plymouth, N.H. Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz “stole” the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV political-advertising.  (AP Photo/David Goldman, File)">
+                <img src="http://binaryapi.ap.org/46bb4d29a2984330bb151258903536ab/460x.jpg" alt="Donald Trump" title="FILE - In a Sunday, Feb. 7, 2016 file photo, Republican presidential candidate Donald Trump speaks during a campaign event at Plymouth State University, in Plymouth, N.H. Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz “stole” the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV political-advertising.  (AP Photo/David Goldman, File)" />
+            </a>
+                    </li>           
+            </ul>
+    
+    <script type="text/javascript">     
+        var imageParams = new Array();
+         
+
+    </script> 
+    
+            <div class="field-name-caption"></div>
+        
+        
+
+    <div id="information-small" class="small-12 show-for-small-only">
+	<div class="small-10 columns byline-dateline">
+            	</div>
+        <a id="infoGallery"><span class="caption overlay-caption" data-thumb-index="0">i</span></a>
+    </div>
+</section>
+ 
+    <script type="text/javascript">
+    $(document).ready(function() {
+
+        if (total_imgs == 1) {
+            var aImg = $('.popup-gallery li a');
+            
+            var text = aImg.attr('title').replace('&#x2019;', '\'').replace('\\\'', '\'');
+            
+            $('.field-name-caption').html('<block><p>' + text + '</p></block>');
+        }     
+        
+        var chrMax = 100;
+        
+        var origText = $('.field-name-caption block p').text().replace('&amp;', '&').replace('&#x2019;', '\'').replace('\\\'', '\'');
+
+        var charLength = $('.field-name-caption block p').text().length;
+        
+        var screen_width = $( window ).width();
+        var width_mobile = 650;
+        
+        var pAbsoluteShow = 0;
+        
+        if (charLength > chrMax) {
+            var shortText = jQuery.trim(origText).substring(0, chrMax).split(" ").slice(0, -1).join(" ") + "... ";
+            $('.field-name-caption block p').text(shortText);            
+            $('.field-name-caption block p').append('<a id="readMore">Read more</a>');
+        }
+        
+
+        var screen_width = $( window ).width();
+
+        if (screen_width <= width_mobile) {  
+        
+        $$('.mfp-figure figure').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {  
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('#p-absolute').unbind('tap').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('.mfp-figure figure').unbind('swipeLeft').swipeLeft(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                if (mfp.index == (total_imgs - 1)) {
+                    mfp.index = 0;
+                }
+                else {
+                    mfp.index = mfp.index + 1;
+                }      
+                mfp.updateItemHTML();
+            }
+        });
+
+        $$('.mfp-figure figure').unbind('swipeRight').swipeRight(function() {                
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                   
+                if (mfp.index == 0) {
+                    mfp.index = total_imgs - 1;
+                }
+                else {
+                    mfp.index = mfp.index -1;
+                }
+                mfp.updateItemHTML();
+            }
+        });    
+        
+        }
+
+       function configMobile() {
+            var screen_width = $( window ).width();
+            
+            if (screen_width <= width_mobile) {        
+                showDescription(pAbsoluteShow);       
+            }
+        }
+
+
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+            },
+            
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    return item.el.attr('title');
+                }
+            },
+
+            callbacks: {
+                
+                open: function() {
+
+                    $('.mfp-bottom-carrousel').html("");
+
+                    var img_total = 0;
+
+                    $('.popup-gallery li a').each(function(idx,el){
+
+                        img_total = img_total + 1;
+                        var _img = document.createElement('img');
+
+                        $(_img).attr('id', 'thumb-gallery-'+idx );
+                        $(_img).attr('src', $(el).attr('href'));
+                        $(_img).attr('alt', $(el).attr('title'));
+
+
+                        if (idx == 0) $(_img).addClass('select');
+
+                        $(_img).click(function(){
+                            mfp.direction = (idx >= mfp.index);
+                            mfp.index = idx;
+                            mfp.updateItemHTML();
+
+                            updateCarousel(idx);
+                        });
+
+                        if (only_one_photo == 0) {
+                            $('.mfp-bottom-carrousel').append(_img);
+                        }
+
+                    })
+
+                    var width_img_total = (img_total * 120) + 3;
+
+                    $('.mfp-bottom-carrousel').width(width_img_total + 'px');
+                    
+                    configMobile();
+                },
+                close: function() {
+                    $('#p-absolute').hide();
+                    pAbsoluteShow = 0;
+                }
+                // e.t.c.
+            }
+        });
+        
+        $('#readMore').click(function(){
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });  
+        
+        $('#infoGallery').click(function(){
+            pAbsoluteShow = 1;
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });   
+        
+        $('#button_comments').click(function(){
+            if( $('#articleComments').is(":visible") ) {
+                $('#articleComments').css('cssText', 'display: none !important');
+                $('#button_comments').removeClass('comments_visible');
+                $('#button_comments').html('SEE COMMENTS');
+            }
+            else {
+                $('#articleComments').css('cssText', 'display: block !important');
+                $('#button_comments').addClass('comments_visible');
+                $('#button_comments').html('HIDE COMMENTS');                
+            }
+        });
+    });
+
+
+    </script>
+
+ 
+
+    <div class="field field-name-field-ndn-video field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><script>
+<!--//--><![CDATA[// ><!--
+
+$(document).ready(function(){
+$( "#ndn" ).insertBefore( "#lead-photo-slideshow" );
+});
+
+//--><!]]>
+</script><div id="ndn" style="display:block"><center><br /><div class="ndn_embed" data-config-distributor-id="92351" data-config-height="9/16w" data-config-playlist-id="10212" id="ndn-video-player-1" style="width:80%;"> </div>
+<p></p></center></div>
+</div></div></div><div  class="hnews-hidden"><div  class="hnews-author-org hnews-author-org"><div  class="hnews-author-org hnews-author-org">By: <span  class="author vcard"><a href="/journalist/chad-day" class="fn">CHAD DAY</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>), <span  class="author vcard"><a href="/journalist/jeff-horwitz" class="fn">JEFF HORWITZ</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>)</div></div><span  class="dateline">WASHINGTON</span><a  rel="item-license" id="license-bccdfbd77c79d9d50e077e47c2713bba" href="#license-bccdfbd77c79d9d50e077e47c2713bba">Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div  class="geo hnews-geo"><span  class="latitude">38.8951</span><span  class="longitude">-77.0364</span></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden entry-content"><div class="field-items"><div class="field-item even"><p><block><p>WASHINGTON (AP) — Donald Trump has given a list of reasons for his second-place finish in the Iowa caucuses, including a failure to invest in boosting voter-turnout and claiming that Ted Cruz "stole" the win. But with voting fast approaching in New Hampshire, data from political advertising tracker Kantar Media reveal another possible explanation: Trump got pummeled on TV.</p>
+<p>And while the billionaire has been stepping up his campaign ground game and events in New Hampshire, Trump appears to be giving other candidates the opportunity there — and in South Carolina, the following primary state — to make the same kind of political-advertising assault that ramped up in Iowa.</p>
+<p>Cruz attacked him. A political group poured $1 million into negative ads. Even Ben Carson tucked in a subtle jab.</p>
+<p>During the 10-day period leading up to the Feb. 1 caucus, seven of every 10 broadcast TV ad spots that mentioned Trump in Iowa either attacked him or compared him negatively to another candidate, according to an Associated Press analysis of broadcast television political ads. In total, Republican candidates and super PACs ran at least 16 different television ads attacking Trump that aired nearly 2,500 times.</p>
+<p>Trump faced a heavy onslaught of negative ads from Cruz's campaign and the Cruz-aligned super PAC Stand for Truth. The Our Principles PAC also bombarded Trump with more than $1.1 million in TV ads by largely using Trump's own words against him — including old interviews where he said he didn't like abortion but still considered himself pro-choice.</p>
+<p>For comparison, Trump himself aired one ad called "Clear Difference" about 1,000 times. That ad attacks Cruz, a Republican senator from Texas, for his stance on immigration and compares Trump favorably. Trump's other ad — a positive spot featuring a campaign speech — aired fewer than 25 times.</p>
+<p>"What we saw in Iowa, that was probably a failure of ground game and television," said Kyle Kondik, the managing editor of Sabato's Crystal Ball, a non-partisan election newsletter run by the University of Virginia.</p>
+<p>In an interview with the AP on Friday, Trump said he was learning as he goes along. He said he now knew to invest more in turnout and would defend himself robustly from future attacks — though he'll only spend money if it's actually needed.</p>
+<p>"I've spent the least amount of money of any candidate, and I'm No. 1 in the polls," Trump said. "That's called good business skills."</p>
+<p>With the New Hampshire primary on Tuesday, Trump has spent about $3.6 million on TV and radio ads there. But Trump's spending trails his next-closest competitor: Florida GOP Sen. Marco Rubio has spent $4.8 million in New Hampshire, and has benefited from an additional $8.1 million in ads from the Rubio-aligned Conservative Solutions PAC.</p>
+<p>Rubio has also spent heavily on ads in South Carolina, data show, where the Cruz-aligned Keep the Promise I PAC has been running ads attacking Trump.</p>
+<p>Trump's $750,000 of broadcast advertising in South Carolina buys to date leaves him the eighth biggest spender among the candidates and conservative PACs. And with about two weeks until the third primary contest, Trump has only booked about $7,500 in future airtime — a small amount compared to the $2.2 million reserved by Rubio and the $1.1 million by Cruz-aligned Stand for Truth PAC.</p>
+<p>Trump said he'd spend more if he felt that he needed to, calling his campaign "$45 million under budget" in an interview with the AP. But advertising hasn't been key to the race so far, he said.</p>
+<p>"I see Bush spending $100 million," Trump said, "and I've spent practically nothing."</p>
+<p>__</p>
+<p>Follow on Twitter: Chad Day at <a href="https://twitter.com/ChadSDay">https://twitter.com/ChadSDay</a> and Jeff Horwitz at <a href="https://twitter.com/JeffHorwitz">https://twitter.com/JeffHorwitz</a></p>
+</block></p></div></div></div><div class="field field-name-field-dynamiccontent field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div id="dynamiccontent">
+<!--SELECT YOUR PARAGRAPH NUMBER IMMEDIATELY BELOW--><script>
+<!--//--><![CDATA[// ><!--
+
+jQuery("#dynamiccontent").insertAfter(".field-name-body p:eq(3)");
+
+//--><!]]>
+</script><!--ENTER YOUR EMBED CODE IMMEDIATELY FOLLOWING THIS ARROW--></div>
+</div></div></div>
+
+    </article>
+    <div class="clearfix"></div>
+    <div class="loadMore show-full-article">
+        <section id="articleExpand">
+            <div class="fade"></div>
+    	   <button>SEE FULL ARTICLE</button>
+        </section>
+    </div>
+
+    <div class="clearfix"></div>
+
+            <div class="for-taboola">
+        <div class="block block-block block-31 block-block-31 odd block-without-title" id="block-block-31">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="taboola-mid-article-native"> 
+<script>
+<!--//--><![CDATA[// ><!--
+jQuery("#taboola-mid-article-native").insertAfter(".field-name-body p:eq(4)");
+//--><!]]>
+</script></div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-d',
+    container: 'taboola-mid-article-native',
+    placement: 'Mid Article Native',
+    target_type: 'mix'
+  });
+
+//--><!]]>
+</script><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+div.zem_rp_wrap {
+    display: none !important;
+}
+
+.for-taboola {
+padding: 0px 8px 0px 8px;
+}
+
+@media (max-width: 479px) {
+  .show-on-desktop, .show-on-tablets, .hide-on-mobile { display: none; }
+  .ad-block{margin-bottom: 50px !important;}
+}
+@media (min-width: 480px) and (max-width: 979px) {
+  .show-on-desktop, .hide-on-tablets, .show-on-mobile { display: none; }
+}
+@media (min-width: 980px) {
+  .hide-on-desktop, .show-on-tablets, .show-on-mobile { display: none; }
+}
+/*--><!]]>*/
+</style><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/associatedpress-ap/loader.js');
+
+//--><!]]>
+</script><p> </p>
+<div id="taboola-below-article-thumbnails"> </div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+
+//--><!]]>
+</script><div id="taboola-below-article-text-links"> </div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'hybrid-text-links-a',
+    container: 'taboola-below-article-text-links',
+    placement: 'Below Article Text Links',
+    target_type: 'mix'
+  });
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+
+//--><!]]>
+</script><p> </p>
+    </div>
+  </div>
+
+</div>        </div>
+    
+    <!-- ad -->
+    <section class="columns ad-block hide-on-desktop">
+        <div class="block block-dfp block-topic-box-2 block-dfp-topic-box-2 odd block-without-title" id="block-dfp-topic-box-2">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-topic_box_2-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-topic_box_2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-topic_box_2");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>        <!--<img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_300x250.png" alt="" />-->
+    </section>
+
+
+    <div class="loadMore hide-for-medium-up btn-load-more-comments">
+        <button id="button_comments" class="small-12 left">SEE COMMENTS</button>
+    </div>
+    
+    <section id="articleComments" class="large-8 medium-8 left columns hide-for-small">
+	<h4>Comments</h4>
+	<div id="disqus_thread"><noscript><p><a href="http://thebigstory.disqus.com/?url=http%3A%2F%2Fbigstory.ap.org%2Farticle%2Fe9d0c23699f74d4fb44a079834209dc5%2Fcruz-super-pacs-pummeled-trump-iowa-airwaves-ads">View the discussion thread.</a></p></noscript></div>    </section>    
+
+</section>
+
+    </div>
+  </div>
+
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="block block-block block-41 block-block-41 odd block-without-title" id="block-block-41">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="taboola-right-rail-thumbnails"> </div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-rr',
+    container: 'taboola-right-rail-thumbnails',
+    placement: 'Right Rail Thumbnails',
+    target_type: 'mix'
+  });
+
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+
+//--><!]]>
+</script>    </div>
+  </div>
+
+</div><div class="block block-ap-polar-ads block-ap-polar-ad-article block-ap-polar-ads-ap-polar-ad-article even block-without-title" id="block-ap-polar-ads-ap-polar-ad-article">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="polar-article-content"><input type="hidden" id="polar-identifier" /></div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-half-page block-dfp-half-page odd block-without-title" id="block-dfp-half-page">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-half_page-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-half_page" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-half_page");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-block block-6 block-block-6 even block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#block-block-6
+{
+margin-top: 15px;
+}
+
+#block-block-6 .slug
+{
+position: relative;
+}
+/*--><!]]>*/
+</style><div class="slug">Advertisement</div>
+<div id="ap_widget_container_1e69b0e153d9eaeaa6a722345a9e84df"></div>
+<script src="http://dne.ap.org/widget-content/1e69b0e153d9eaeaa6a722345a9e84df"></script>    </div>
+  </div>
+
+</div><div class="block block-ap-misc block-ap-tags-detail block-ap-misc-ap-tags-detail odd block-without-title" id="block-ap-misc-ap-tags-detail">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div  class="ap-article-tags categories">
+    
+    
+    
+<h3 class="h3_tags">Topics</h3>
+<div class="tags">
+<a href="/tags/iowa" rel="tag">Iowa</a>, <a href="/tags/south-carolina" rel="tag">South Carolina</a>, <a href="/tags/campaign-advertising" rel="tag">Campaign advertising</a>, <a href="/tags/political-action-committees" rel="tag">Political action committees</a>, <a href="/tags/new-hampshire" rel="tag">New Hampshire</a>, <a href="/tags/donald-trump" rel="tag">Donald Trump</a>, <a href="/tags/marco-rubio" rel="tag">Marco Rubio</a>, <a href="/tags/negative-campaigns" rel="tag">Negative campaigns</a>, <a href="/tags/ted-cruz" rel="tag">Ted Cruz</a>, <a href="/tags/ben-carson" rel="tag">Ben Carson</a></div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-mediumrectangle block-dfp-mediumrectangle even block-without-title" id="block-dfp-mediumrectangle">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-mediumrectangle-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-mediumrectangle" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>  </div>
+</aside>  </div>
+</div>  
+  <div id="zone-postscript-row-two" class="zone zone-postscript-row-two clearfix container-12">
+    <div class="grid-6 region region-postscript-fourth" id="region-postscript-fourth">
+  <div class="region-inner region-postscript-fourth-inner">
+    <div class="block block-block block-36 block-block-36 odd block-without-title" id="block-block-36">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <script>
+<!--//--><![CDATA[// ><!--
+
+$(document).ready(function(){
+$( "#block-block-36" ).insertAfter( ".menuLinks" );
+});
+
+//--><!]]>
+</script><p class="audio">
+<a href="http://player.streamguys.com/apnews/sgplayer/index.php" onclick="javascript:void window.open('http://player.streamguys.com/apnews/sgplayer/index.php','1444770899860','width=848,height=254,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=800,top=0');return false;"><span style="color: white; font-size: 0.6em">AP Radio News:</span></a><br /><audio controls="controls" preload="none"><br /><source src="http://apnews.streamguys1.com/apnews?cache-buster=' + Math.random()" type="audio/mpeg"></source><br /><source src="http://apnews.streamguys1.com/apnews?cache-buster=' + Math.random()" type="audio/ogg"></source><br />
+Your browser does not support the audio element. </audio></p>
+<p></p>
+<div id="externalimage"><a href="http://player.streamguys.com/apnews/sgplayer/index.php" onclick="javascript:void window.open('http://player.streamguys.com/apnews/sgplayer/index.php','1444770899860','width=848,height=254,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=800,top=0');return false;"><img alt="" src="http://bigstory.ap.org/sites/bigstory/files/14449449681_external_link.png" /></a>
+</div>
+
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+audio
+{ 
+float: right; 
+display: block;
+margin-top: -26px;
+width: 300px;
+height: 45px
+
+} 
+
+#block-block-36 
+{ 
+height: 50px; 
+width: 300px; 
+float: right;
+position: relative
+}
+
+p.audio
+{
+border-bottom-color: #333;
+border-bottom-style: none;
+border-bottom-width: 0px;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+border-image-slice: 100% 100% 100% 100%;
+border-image-source: none;
+border-image-width: 1 1 1 1;
+border-left-color: #333;
+border-left-style: none;
+border-left-width: 0px;
+border-right-color: #333;
+border-right-style: none;
+border-right-width: 0px;
+border-top-color: #333;
+border-top-style: none;
+border-top-width: 0px;
+box-sizing: border-box;
+color: #333;
+cursor: auto;
+font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+font-feature-settings: normal;
+font-kerning: auto;
+font-language-override: normal;
+font-size: 16px;
+font-size-adjust: none;
+font-stretch: normal;
+font-style: normal;
+font-synthesis: weight style;
+font-variant: normal;
+font-variant-alternates: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-variant-position: normal;
+font-weight: 400;
+line-height: 45px;
+margin-bottom: 20px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: -17px;
+outline-color: #333;
+outline-style: none;
+outline-width: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+text-rendering: optimizelegibility;
+vertical-align: baseline;
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none
+
+}
+
+
+#externalimage
+{
+    position: absolute;
+    top: 9px;
+    width: 28px;
+    right: 302px;
+}
+
+
+ @media only screen and (max-device-width: 480px) {
+   /* define mobile specific styles come here */
+#block-block-36 
+{ 
+height: 70px; 
+width: 300px; 
+float: right
+}
+
+audio
+{ 
+float: left;
+display: block;
+margin-top: -20px;
+width: 250px;
+height: 45px
+
+} 
+
+#externalimage
+{
+ position: absolute;
+right: 5px;
+width: auto;
+height: auto
+}
+
+
+ }
+
+
+
+
+/*--><!]]>*/
+</style>    </div>
+  </div>
+
+</div>  </div>
+</div>  </div>
+</section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    
+<footer>
+  <div id="siteFooter">
+    <div class="row">
+        <div class="medium-4 columns">
+            <h5>Get the AP Mobile app</h5>
+<a href="http://www.ap.org/apmobile/"><img src="http://bigstory.ap.org/sites/bigstory/files/Mobile-App-Download-New.png"></a>
+        </div>
+        <div class="medium-4 columns">
+            <h5>AP Sites</h5>
+            <ul class="">
+               <!-- <li><a href="http://wintergames.ap.org" >Winter Games</a></li>-->
+                <li><a href="http://racing.ap.org" >Auto Racing</a></li>
+                <li><a href="http://collegebasketball.ap.org" >College Basketball</a></li>
+                <li><a href="http://collegefootball.ap.org" >College Football</a></li>
+                <li><a href="http://pro32.ap.org" >Football</a></li>
+            </ul>
+        </div>
+        <div class="medium-4 columns">
+            <h5>Follow AP</h5>
+            <ul class="">
+                <li><a href="https://www.facebook.com/pages/Associated-Press/107751995914945">Facebook</a></li>
+                <li><a href="https://twitter.com/AP">Twitter</a></li>
+                <li><a href="https://plus.google.com/+AP/">Google+</a></li>
+                <li><a href="https://www.linkedin.com/company/associated-press">LinkedIn</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <hr>
+        <div class="medium-12 columns"> 
+            AP News | 
+           &copy; 2015 Associated Press  | 
+            <a href="/content/privacy-policy">Privacy Policy</a>  |  
+            <a href="/content/terms-use">Terms of Use</a>  | 
+            <a href="http://www.ap.org/books">AP Books</a>  |  
+            <a href="http://www.apimages.com/">AP Images</a>  |  
+            <a href="http://www.ap.org/">ap.org</a>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+#dfp-ad-leaderboard{
+text-align: center
+}
+
+</style></footer>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=11304492&cv=2.0&cj=1" /></noscript>  </div>
+</div><script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/ap_social/js/ap_social.min.js?o2elgr"></script>
+  <script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"560baa128a","applicationID":"12082643","transactionName":"MlRTYkFSWkNUU0EKDQsecFVHWlteGl5aBwc6QVBRVmxCWVBH","queueTime":0,"applicationTime":590,"atts":"HhNQFAlISU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

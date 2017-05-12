@@ -1,0 +1,17 @@
+[1]@abc13houston
+
+   IFRAME:
+   [2]https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=h
+   ttps%3A%2F%2Famp.twimg.com%2Fprod%2Fmultibr_v_1%2Fvmap%2F2016%2F02%2F08
+   %2F19%2F8a19d4f9-1b38-40ca-bf6f-32fbcbd84450%2Fea30e85e-7980-49b6-a7bf-
+   478da206c792.vmap&duration=54.754%E2%84%91_src=https%3A%2F%2Famp.twimg.
+   com%2Fprod%2Fdefault%2F2016%2F02%2F08%2F19%2Fa4336dfc-0fa8-4f6a-acad-b4
+   a176c537bb_poster-1000.jpg&content_id=8a19d4f9-1b38-40ca-bf6f-32fbcbd84
+   450&page=amplify_card
+
+   [twitter_logo.png] [twitter_logo_white.png]
+
+References
+
+   1. https://twitter.com/abc13houston
+   2. https://amp.twimg.com/amplify-web-player/prod/source.html?vmap_url=https://amp.twimg.com/prod/multibr_v_1/vmap/2016/02/08/19/8a19d4f9-1b38-40ca-bf6f-32fbcbd84450/ea30e85e-7980-49b6-a7bf-478da206c792.vmap&duration=54.754ℑ_src=https://amp.twimg.com/prod/default/2016/02/08/19/a4336dfc-0fa8-4f6a-acad-b4a176c537bb_poster-1000.jpg&content_id=8a19d4f9-1b38-40ca-bf6f-32fbcbd84450&page=amplify_card

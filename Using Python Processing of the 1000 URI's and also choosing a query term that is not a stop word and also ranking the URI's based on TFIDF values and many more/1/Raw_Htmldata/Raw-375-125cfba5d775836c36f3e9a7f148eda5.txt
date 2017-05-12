@@ -1,0 +1,2266 @@
+<!-- Locale [] -->        
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>From Lanterns to Lions, Ringing in Chinese New Year</title>
+    <link rel="canonical" href="http://blog.walmart.com/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year"/>
+    <meta name="description" content=""/>
+    <meta property="og:title"
+          content="From Lanterns to Lions, Ringing in Chinese New Year"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://blog.walmart.com/_blog_/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year"/>
+    
+    <meta prefix="og: http://ogp.me/ns#" property="og:image"
+                  content="http://cdn.corporate.walmart.com/02/f4/4a4ce4f242d79a556a84ff91f7bf/chinese-new-year-celebration-lanterns.jpg"/>
+            <meta property="pinterest:image"
+                  content="//cdn.corporate.walmart.com/dims4/WMT/ac32a73/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg"/>        
+    <!-- non-retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_57x57_icon.png" sizes="57x57">
+    <!-- non-retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_72x72_icon.png" sizes="72x72">
+    <!-- retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_114x114_icon.png" sizes="114x114">
+    <!-- retina iPhone iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_120x120_icon.png" sizes="120x120">
+    <!-- retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_144x144_icon.png" sizes="144x144">
+    <!-- retina iPad iOS 7 -->
+    <link rel="apple-touch-icon" href="/assets-bsp3/images/icons/walmart_152x152_icon.png" sizes="152x152">
+    <!-- Win8 tile -->
+    <meta name="msapplication-TileImage" content="/assets-bsp3/images/icons/walmart_144x144_icon.png">
+    <meta name="msapplication-TileColor" content="#0049a1"/>
+    <meta name="application-name" content="name"/>
+
+    <link rel="icon" href="/assets-bsp3/images/icons/walmart_32x32_icon.png" sizes="32x32">
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+
+    <!--[if IE]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+
+    <!-- <link rel="stylesheet" type="text/css" href="/assets-bsp3/less/webfonts.css" /> -->
+    <style>
+    .blurbg{
+       -webkit-filter: blur(10px);
+        -moz-filter: blur(10px);
+        -o-filter: blur(10px);
+        -ms-filter: blur(10px);
+        filter: blur(10px);
+        filter: url(/assets-bsp3/images/corp/blur.svg#blur);
+        filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='100');
+        clip:rect(10px, auto, auto,10px);
+      }
+    @font-face {
+      font-family: 'FontAwesome';
+      src: url('/assets-bsp3/fonts/fontawesome-webfont.eot?v=4.3.0');
+      src: url('/assets-bsp3/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'),
+        url('/assets-bsp3/fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'),
+        url('/assets-bsp3/fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'),
+        url('/assets-bsp3/fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'),
+        url('/assets-bsp3/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'IcoMoon';
+      src: url('/assets-bsp3/fonts/icomoon/icomoon.eot?-8rxnga');
+      src: url('/assets-bsp3/fonts/icomoon/icomoon.eot?#iefix-8rxnga') format('embedded-opentype'),
+        url('/assets-bsp3/fonts/icomoon/icomoon.woff?-8rxnga') format('woff'),
+        url('/assets-bsp3/fonts/icomoon/icomoon.ttf?-8rxnga') format('truetype'),
+        url('/assets-bsp3/fonts/icomoon/icomoon.svg?-8rxnga#icomoon') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+</style>
+<link href='https://fonts.googleapis.com/css?family=Amatic+SC:700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="http://cdn.corporate.walmart.com/resource/assets-bsp3/less/main.min.120be8f280056962988b1ce50727ed61.css" />
+                <!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://cdn.corporate.walmart.com/resource/assets-bsp3/less/main.ie.min.f4490c9ab2be892b9d0ceabe66cfdd6d.css"/>
+        <link rel="stylesheet" type="text/css" href="http://cdn.corporate.walmart.com/resource/assets-bsp3/less/ie.min.6e3f23795564a75ecd0661100913de24.css"/>
+    <![endif]-->
+
+
+
+    <!-- JAVASCRIPT / REQUIRE JS -->
+    <script src="http://cdn.corporate.walmart.com/resource/assets-bsp3/js.min/require.aac3c6350808cbd0da3a596473e6ca14.js"></script>
+                    <script src="http://cdn.corporate.walmart.com/resource/assets-bsp3/js.min/main.df147a4491951fe0ce9dd20ba64c2303.js"></script>
+                <script type="text/javascript">
+   (function () {
+        //Check if Myriad-pro font is loaded
+        var fontname = 'Myriad-pro';
+        FontDetect.onFontLoaded (fontname, onFontLoaded, onFontDidntLoad, {msTimeout: 4000});
+
+        function onFontLoaded (fontname){
+            $('#main-nav .nav-item').css('font-size','13px');
+        }
+        function onFontDidntLoad (fontname) {
+            $('#main-nav .nav-item').css('font-size','12px');
+        }
+    });
+    (function () {
+        var config = {
+            kitId: 'qrp0dgf',
+            scriptTimeout: 3000
+        };
+        var h = document.getElementsByTagName("html")[0];
+        h.className += " wf-loading";
+        var t = setTimeout(function () {
+            h.className = h.className.replace(/(\s|^)wf-loading(\s|$)/g, " ");
+            h.className += " wf-inactive"
+        }, config.scriptTimeout);
+        var tk = document.createElement("script"), d = false;
+        tk.src = '//use.typekit.net/' + config.kitId + '.js';
+        tk.type = "text/javascript";
+        tk.async = "true";
+        tk.onload = tk.onreadystatechange = function () {
+            var a = this.readyState;
+            if (d || a && a != "complete" && a != "loaded")return;
+            d = true;
+            clearTimeout( t );
+            try {
+                Typekit.load(config)
+            } catch ( b ) {
+            }
+        };
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(tk, s)
+    })();
+</script>
+<script type="text/javascript">
+            function headerScroll() {
+                var header = document.getElementById("global-header"),
+                    top = window.pageYOffset;
+                    
+                    if( header ) {
+                        if (top === 0) {
+                            header.className = header.className.replace(/\bheader-scroll\b/,'');
+                        } else {
+                            if(header.className.indexOf('header-scroll') === -1){
+                                header.className += ' header-scroll';
+                            }
+                        }
+                    }
+                    
+            }
+            window.onscroll = headerScroll;
+        </script>    
+    <script src="/assets-bsp3/js/motionpoint.js"></script>
+    <!--  Start of Custom Head Analytics -->
+    <script src="//use.typekit.net/qrp0dgf.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<!-- 10302015 Temp redirect for giving.walmart.com-->
+<script type="text/javascript">
+  (function(){
+        if(window.location.href  == 'http://giving.walmart.com/') {
+           window.location.href = 'http://giving.walmart.com/foundation';
+        }
+        else if(window.location.href  == 'http://giving.walmart.com/opportunity') {
+           window.location.href = 'http://giving.walmart.com/walmart-foundation/opportunity';
+        }else if(window.location.href  == 'http://giving.walmart.com/sustainability') {
+           window.location.href = 'http://giving.walmart.com/walmart-foundation/sustainability';
+        }else if(window.location.href  == 'http://giving.walmart.com/community') {
+           window.location.href = 'http://giving.walmart.com/walmart-foundation/community ';
+        }
+  })();
+</script>
+
+<style> 
+
+.search-results{min-height: 300px;}
+.wmt-lead.lead-full-img .lead-inner {
+           position: absolute;
+            z-index: 10;
+            top: 0;
+            bottom:0;
+            left:0;
+            right:0;
+}
+a.wmt-header-toolbar-topics {
+  font-weight: bold;
+}
+.wmt-lead.lead-full-img .lead-row {height:100%}
+.wmt-lead.lead-full-img .lead-content {height:100%}
+.wmt-lead.lead-full-img {position: relative;}
+
+.wmt-header, 
+.wmt-header-landing, 
+.wmt-header-landing.header-scroll {
+-webkit-box-shadow: none;
+  -moz-box-shadow:   none;
+  box-shadow: none;
+}
+
+
+.wmt-header-landing .wmt-header-trendingtopics .wmt-header-trendingtopics-btn {
+  background: rgba(255,255,255,.75);
+  color: #1a75cf;
+  text-transform: uppercase;
+}
+.wmt-header-landing .wmt-header-trendingtopics .wmt-header-trendingtopics-btn:hover {
+  background: #1a75cf;
+  color: #fff;
+}
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-topics {
+  background: #1a75cf;
+  color: #fff;
+  text-transform: uppercase;
+}
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-topics:hover {
+  background: rgba(255,255,255,.75);
+  color: #1a75cf;
+}
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-search {color: #fff;}
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-search:hover {color: #1a75cf;}
+
+      #main-nav .nav-item {font-size: 13px!important; padding:3px 23px 0 23px!important;} 
+
+@media only screen and (max-width: 979px){
+      #main-nav .nav-item {font-size: 16px!important; padding: 10px 20px !important;} 
+
+}
+@media only screen and (max-width: 979px) and (min-width: 601px){
+      .package-grid.feature {
+  background-size: 140% auto !important;
+}
+
+}
+/* fixes floating icons on FAQs pages */
+.collapsible.expanded .content, .filter-by.expanded .content{ float: none;}
+</style> 
+
+<!--[if lt IE 9]>
+<style> 
+      #main-nav .nav-item {font-size: 13px!important; padding:2px 26px 0px 25px!important;} 
+      .article-post-social-item{ float: left;}
+    .wmt-header-search-input{width:100%!important;}
+   .wmt-header-search-content .selectboxit-container{display:none;}
+
+.sm-promo-section .promo-img img {
+  max-width: 232px;
+  min-width: 232px;
+}
+.sm-promo-section {
+  width: 232px;
+}
+.wmt-header-landing .wmt-header-trendingtopics .wmt-header-trendingtopics-btn {
+  background: #fff;
+}
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-topics:hover {
+  background: #fff;
+}
+
+.wmt-header-landing .wmt-header-toolbar .wmt-header-toolbar-topics i.ico {
+  display: inline
+}
+.wmt-header-landing, .wmt-header-landing.wmt-header-overlay  {
+  background: #000;
+}
+.wmt-header-landing  .wmt-header-row {
+  background: transparent;
+}
+.wmt-header-landing.header-scroll  {
+  background: #1a75cf;
+}
+</style> 
+<![endif]-->
+
+<style type="text/css">
+
+            .package .card.card-generic .content ul li a { display: inline; }
+
+            .card-video .content .video-container-large {
+              position: relative;
+              height:200px!important;
+              padding-bottom: 55.80%;
+            }
+           .card-video .content .video-container-large  iframe {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            }
+            video::-internal-media-controls-overlay-cast-button {
+              display: none;
+            }
+
+           .article-affixnav-share .title {padding-right: 0.5rem}
+
+           /* Twitter icon appearing out of place on blogs (above footer) */
+           /*.share-button {display:none !important}*/
+          .share-button {
+                  -webkit-transition: margin-top 0.3s ease-out, opacity 0.4s ease-out, top 0.3s ease-out, left 0.3s ease-out;
+                                transition: margin-top 0.3s ease-out, opacity 0.4s ease-out, top 0.3s ease-out, left 0.3s ease-out;
+                  margin-left:-50px;
+           }
+          .share-button-active {
+                  margin-left:-25px;
+           }
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+    .share-button { 
+      -webkit-transition: margin-top 0.3s ease-out, opacity 0.3s ease-out;
+      transition: margin-top 0.3s ease-out, opacity 0.3s ease-out;
+    }
+}
+
+@supports (-webkit-appearance:none) {
+    .share-button {
+      -webkit-transition: margin-top 0.3s ease-out, opacity 0.4s ease-out, top 0.3s ease-out, left 0.3s ease-out;
+      transition: margin-top 0.3s ease-out, opacity 0.4s ease-out, top 0.3s ease-out, left 0.3s ease-out;
+    }
+}
+
+           /* To prevent the blog header logo from wiggling - Taken care of in delivered CSS but will still be present until someone clears cache */
+            .wmt-header-landing .wmt-header-section { position: static !important; } 
+            
+
+/* Issue with blog lead gallery*/
+.article-lead-media.gallery .gallery-stage{
+      max-height: 504px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px){
+.article-lead-media.gallery .gallery-stage-item img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+}
+
+.article-affixnav-readnow-item-title .icon-gallery {display:none;}
+.wide-promo-aside-inner li  .icon-gallery {display:none;}
+
+aside.rel-links-block.pull-left {margin-left:0px;!important}
+aside.rel-links-block.pull-right {margin-right:0px;!important}
+.package-nav-wrapper.fixed {z-index: 9999;}
+
+.article-body .article-content .gallery {overflow: hidden;}
+
+.promo, .promo-grid, .promo-grid-alt, .promo-stacked, .promo-stocks, .promo-stacked-right, .promo-stacked-left, .promo-stacked-right, .promo-stacked-left{
+background-position:center center;
+}
+
+/*background fix on mobile for community giving promo lead on HP*/
+@media only screen and (max-width: 767px) {
+   .promo-stacked-right#community-giving {
+       background-position: 20% 50% !important;
+   }
+}
+.package-nav-wrapper.top-nav.fixed .package-nav .package-nav-list .package-nav-item.fixed-logo {
+    flex:0.3;
+}
+.package-nav-wrapper.top-nav.fixed .package-nav .package-nav-list .package-nav-item:nth-child(4) {
+    flex:1.2;
+}
+
+.package-article-byline .package-article-byline-text { display:none;}
+
+.article-body .article-content .instagram-media-rendered {
+    max-width: 620px!important;
+    width: 100%;
+   height: 742px!important;
+    min-height: 742px!important;
+}
+
+.article-body .article-content iframe {
+  max-width: 620px!important;
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px){
+.article-body .article-content .instagram-media-rendered {
+   height: 528px!important;
+    min-height: 528px!important;
+}
+}
+
+
+@media only screen and (max-width: 420px) {
+.article-body .article-content .instagram-media-rendered {
+   height: 500px!important;
+    min-height: 500px!important;
+}
+
+}
+
+.article-lead-video .article-lead-img-bg {   background-position: 50% 50% !important; max-height:564px;  }
+
+
+.article-body article.article-container .article-header-inner { display: none }
+.article-body article.article-container .article-header-large { background-color: transparent;  margin-top: 21px;}
+
+/*setting min height to psd share bar and avoid jumpiness on page load - WAL-2901*/
+.special-page-head-inner .psd-sharebar{min-height:92px;}
+
+@media only screen and (max-width: 767px) {
+.lede-grid-row .block-text-gradient .media > a {
+    height: auto;
+    width: auto;
+    min-height: 100%;
+    min-width: 100%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+}
+
+.lede-grid-row .block-text-gradient .media > a > img {
+    transform: none;
+    /* position: static; */
+    top: 0;
+    left: 0;
+}
+
+@media only screen and (max-width: 767px) {
+    section.package-grid{
+         background-size: 0 0;
+         transition: background 0s ease;
+     }
+    section.package-grid[id] { background-size: 120%; }
+}
+
+
+       .article-body table {
+            width: 100%;
+            text-align: left;
+            border-collapse: collapse;
+        }
+       .article-body table .tableHeading  td {
+                font-size: 14px;
+                line-height: 18px;
+                font-weight: bold;
+                background: #dae8fa;
+                border-top: 4px solid #a1cffc;
+                border-bottom: 1px solid #fff;
+                color: #1a75cf;
+                padding: 10px;
+            }
+       .article-body  table tr {
+            background: #f8fafd;
+            border-bottom: 1px solid #fff;
+            border-top: 1px solid transparent;
+        }
+        .article-body table tr:nth-child(odd) {
+            background: #f0f6fd;
+        }
+        .article-body table td {
+                font-size: 14px;
+                line-height: 18px;
+                padding: 10px;
+        }
+</style>
+
+<!-- z New Corporate Head --><!--  End of Custom Head Analytics -->
+
+</head>
+
+
+<body itemscope itemtype="http://schema.org/WebPage"
+      class="">
+
+    <!--[if lte IE 9]>
+<div class="ie8-banner-wrapper">
+    <div class="ie8-banner">
+        <img class="ie8-banner-icon" src="http://cdn.corporate.walmart.com/resource/assets-bsp3/images/corp/ie8-banner.a7c98a40342dbd3a4ef5480be9cac20f.gif">
+        <span class="ie8-banner-text">
+            This site is best viewed in modern browser, like latest versions of Chrome, IE, or Firefox.</span>
+    </div>
+</div>
+<style>
+    
+    .ie8-banner-wrapper {
+        position: fixed;
+        left:0;
+        top:0;
+        right:0;
+        background-color: #e6e6e6;
+        z-index: 9999;
+    }
+
+     .ie8-banner-wrapper .ie8-banner {
+        width: 980px;
+        margin:0 auto;
+        height: 40px;
+        font-size: 14px;
+        line-height: 40px;
+        text-align: center; 
+    }
+    
+    .ie8-banner-wrapper .ie8-banner span.ie8-banner-text,
+    .ie8-banner-wrapper .ie8-banner img.ie8-banner-icon {
+        vertical-align: middle;
+        display: inline;
+        zoom:1;
+    }
+
+    .landing-header {
+        margin-top: 0 !important;
+    }
+    #global-corp-header {
+        top:40px !important;
+    }
+    #global-header {
+        margin-top:40px;
+    }
+
+</style>
+<![endif]--><!--  Start of Custom Body Start Analytics -->
+<!-- z New Corporate Body Start --><!--  End of Custom Body Start Analytics -->
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KVVSRS"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KVVSRS');</script>
+<!-- End Google Tag Manager -->
+<div class="wmt-header" id="global-header" data-bsp-mobile-nav data-bsp-mobile-nav-options='{"btnLeft": "nav-mob-btn", "btnRight": "topic-mob-btn"}'>
+        <div class="wmt-header-row">
+            <div class="wmt-header-section" data-bsp-expand-target>
+
+                <ul class="wmt-header-maincontrol">
+                    <li class="wmt-header-maincontrol-item">
+                        <a id="nav-btn" data-target="#flyoutFullNav"  class="wmt-header-maincontrol-navbtn" data-cms-ai="0"><i class="fa fa-reorder"></i><img src="http://cdn.corporate.walmart.com/resource/assets-bsp3/images/spark.b658b4ca53ced7b2b9efe04f0b5a0af0.png"></a>
+                    </li>
+                </ul>
+
+                <ul class="wmt-header-toolbar">
+                    <li class="wmt-header-toolbar-item">
+                        <a class="wmt-header-toolbar-topics" data-target="#wmt-alltopics" data-cms-ai="0"><i class="ico ico-grid"></i>All Topics</a>
+                    </li>
+                    <li class="wmt-header-toolbar-item">
+                        <a class="wmt-header-toolbar-search" data-target="#wmt-search" data-cms-ai="0"><i class="fa fa-search"></i></a>
+                    </li>
+                </ul>
+                
+                <a href="http://blog.walmart.com/" target="" class="wmt-header-logo" data-cms-ai="0">
+                            <img src="http://cdn.corporate.walmart.com/51/47/1b5fda904e699da32a8d99b28d02/walmart-today-mini-logo.png"></a>
+                    </div>
+            <div class="wmt-header-mobile">
+
+                <a id="topic-mob-btn" class="wmt-header-mobtopicbtn" data-cms-ai="0">
+                    <i class="ico ico-grid"></i>Topics
+                </a>
+                <a id="nav-mob-btn" class="wmt-header-mobnavbtn" data-cms-ai="0">
+                    <i class="fa fa-reorder"></i>
+                </a>
+                
+                <a href="http://blog.walmart.com/" target="" class="wmt-header-logo" data-cms-ai="0">
+                            <img src="http://cdn.corporate.walmart.com/51/47/1b5fda904e699da32a8d99b28d02/walmart-today-mini-logo.png"></a>
+                    </div>
+        </div>
+        <div id="wmt-mobile-pane" class="wmt-mobile-nav-wrapper ">
+        <div id="wmt-search" class="wmt-header-search" >
+            <a data-collapse-target class="wmt-header-search-close" data-cms-ai="0">&times;</a>
+            <div class="wmt-header-search-inner" data-bsp-global-search>
+                 <form action="http://corporate.walmart.com/search" class="wmt-header-search-content" method="GET" role="search" id="wmt-search">
+                    <select name="filter" class="global-search">
+                        <option value="">All</option>
+                        <option value="pressRelease">Press Releases</option>
+                        <option value="blog" selected>Blog</option>
+                        <option value="execView">Executive Viewpoints </option>
+                        <option value="videos">Videos</option>
+                        <option value="photos">Photos</option>
+                    </select>
+                    <div class="wmt-header-search-form-group">
+                        <input class="wmt-header-search-input"  type="search" aria-label="Search" placeholder="Enter Search Terms..." name="q">
+                        <button class="wmt-header-search-btn" title="Search" type="submit"><i class="icon-search"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>                                                                             
+                    
+        </div>        
+    <div id="wmt-alltopics" class="wmt-header-topics" >
+        <a data-collapse-target class="wmt-header-topics-close" data-cms-ai="0">&times;</a>
+        <div class="wmt-header-topics-inner">
+            <div class="wmt-header-topics-content">
+                <h3 class="wmt-header-topics-title">All Topics</h3>
+                <ul class="wmt-header-topics-list">
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/business" data-type="Business" data-cms-ai="0">
+                                Business</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/community" data-type="Community" data-cms-ai="0">
+                                Community</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/health-wellness" data-type="Health & Wellness" data-cms-ai="0">
+                                Health &amp; Wellness</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/heritage" data-type="Heritage" data-cms-ai="0">
+                                Heritage</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/innovation" data-type="Innovation" data-cms-ai="0">
+                                Innovation</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/life" data-type="Life" data-cms-ai="0">
+                                Life</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/opportunity" data-type="Opportunity" data-cms-ai="0">
+                                Opportunity</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/sustainability" data-type="Sustainability" data-cms-ai="0">
+                                Sustainability</a>
+                        </li>
+                    <li class="wmt-header-topics-item">
+                            <a href="http://blog.walmart.com/topics/us_manufacturing" data-type="U.S. Manufacturing" data-cms-ai="0">
+                                U.S. Manufacturing</a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div><div class="main-nav-flyout" id="flyoutFullNav">
+        <div class="main-nav-flyout-inner">
+            <div class="main-nav-flyout-row">
+                <div class="main-nav-flyout-col-1x-pulled">
+                    <div class="main-nav-module">
+                        <a href="http://corporate.walmart.com/" data-cms-ai="0">
+                            <img class="main-nav-logo" src="http://cdn.corporate.walmart.com/resource/assets-bsp3/images/corp/walmart-logo-tagline.cdb72f5a2d40216d268dfdb4edffa46d.png">
+                                </a>
+                    </div>
+
+        <form action="#" class="main-nav-subscribe" data-bsp-corpsubscribe method="post" id="footer-subscribe">
+    <h3 class="main-nav-subscribe-title">Stay Informed</h3>
+    <input type="hidden" id="type" name="type" value="CORPORATE">
+    <input class="main-nav-subscribe-input" type="text" placeholder="Enter email address" name="email">
+    <button class="main-nav-subscribe-btn" type="submit"><i class="fa fa-envelope"></i></button> 
+</form>
+<div class="main-nav-social">                                
+                            <h3 class="main-nav-social-title">Follow Us</h3>
+
+                            <ul class="main-nav-social-list">
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://www.facebook.com/walmart" data-cms-ai="0" ><i class="fa fa-facebook"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://twitter.com/walmart" data-cms-ai="0" ><i class="fa fa-twitter"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://youtube.com/walmart" data-cms-ai="0" ><i class="fa fa-youtube-play"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://pinterest.com/walmart" data-cms-ai="0" ><i class="fa fa-pinterest"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="https://instagram.com/walmart/" data-cms-ai="0" ><i class="fa fa-instagram"></i></a>
+            </li>                            
+        </ul>
+</div>
+                    </div>
+
+                <div class="main-nav-flyout-col-1x">
+                        <ul class="full-nav-list-1">
+                            <li>
+                                    <a href="http://corporate.walmart.com/our-story" target="" data-cms-ai="0">Our Story</a>
+                                    <button class="open-menu"><i class="ico ico-plus-circle"></i><i class="ico ico-minus-circle"></i></button>
+                                        <ul class="full-nav-list-2">
+                                            <li><a href="http://corporate.walmart.com/our-story/our-business" target="" data-cms-ai="0">Our Business</a></li>
+                                            <li><a href="http://corporate.walmart.com/our-story/our-locations" target="" data-cms-ai="0">Our Locations</a></li>
+                                            <li><a href="http://corporate.walmart.com/our-story/leadership" target="" data-cms-ai="0">Leadership</a></li>
+                                            <li><a href="http://corporate.walmart.com/our-story/our-history" target="" data-cms-ai="0">History</a></li>
+                                            <li><a href="http://corporate.walmart.com/our-story/working-at-walmart" target="" data-cms-ai="0">Working at Walmart</a></li>
+                                            <li><a href="http://corporate.walmart.com/our-story/ethics-integrity/" target="" data-cms-ai="0">Ethics &amp; Integrity</a></li>
+                                            </ul>                                        
+                                    </li>
+                            <li>
+                                    <a href="http://news.walmart.com" target="" data-cms-ai="0">Newsroom</a>
+                                    <button class="open-menu"><i class="ico ico-plus-circle"></i><i class="ico ico-minus-circle"></i></button>
+                                        <ul class="full-nav-list-2">
+                                            <li><a href="http://corporate.walmart.com/newsroom/company-news" target="" data-cms-ai="0">Company News</a></li>
+                                            <li><a href="http://corporate.walmart.com/newsroom/media-library" target="" data-cms-ai="0">Media Library</a></li>
+                                            <li><a href="http://corporate.walmart.com/newsroom/events" target="" data-cms-ai="0">Events &amp; Webcasts</a></li>
+                                            <li><a href="http://corporate.walmart.com/newsroom/company-facts" target="" data-cms-ai="0">Walmart Facts</a></li>
+                                            <li><a href="http://corporate.walmart.com/contact-us/contact-media-relations" target="" data-cms-ai="0">Contact Media Relations</a></li>
+                                            </ul>                                        
+                                    </li>
+                            </ul>
+                    </div>
+                <div class="main-nav-flyout-col-1x">
+                        <ul class="full-nav-list-1">
+                            <li>
+                                    <a href="http://blog.walmart.com/" target="" data-cms-ai="0">Blog</a>
+                                    </li>
+                            <li>
+                                    <a href="http://giving.walmart.com/" target="" data-cms-ai="0">Community Giving</a>
+                                    </li>
+                            <li>
+                                    <a href="http://corporate.walmart.com/global-responsibility" target="" data-cms-ai="0">Global Responsibility</a>
+                                    <button class="open-menu"><i class="ico ico-plus-circle"></i><i class="ico ico-minus-circle"></i></button>
+                                        <ul class="full-nav-list-2">
+                                            <li><a href="http://corporate.walmart.com/global-responsibility/opportunity" target="" data-cms-ai="0">Opportunity</a></li>
+                                            <li><a href="http://corporate.walmart.com/global-responsibility/sustainability/" target="" data-cms-ai="0">Sustainability</a></li>
+                                            <li><a href="http://corporate.walmart.com/global-responsibility/community" target="" data-cms-ai="0">Community</a></li>
+                                            <li><a href="http://corporate.walmart.com/global-responsibility/global-responsibility-report" target="" data-cms-ai="0">Global Responsibility Report</a></li>
+                                            </ul>                                        
+                                    </li>
+                            </ul>
+                    </div>
+                <div class="main-nav-flyout-col-1x">
+                        <ul class="full-nav-list-1">
+                            <li>
+                                    <a href="http://stock.walmart.com" target="" data-cms-ai="0">Investors</a>
+                                    <button class="open-menu"><i class="ico ico-plus-circle"></i><i class="ico ico-minus-circle"></i></button>
+                                        <ul class="full-nav-list-2">
+                                            <li><a href="http://stock.walmart.com/investors/our-strategy" target="" data-cms-ai="0">Business &amp; Strategy</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/financial-information/sec-filings" target="" data-cms-ai="0">Financial Information</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/stock-information/quote-and-chart" target="" data-cms-ai="0">Stock Information</a></li>
+                                            <li><a href="http://corporate.walmart.com/newsroom/financial-events" target="" data-cms-ai="0">Financial Events &amp; Webcasts</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/our-business-series" target="" data-cms-ai="0">Our Business @ Series</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/corporate-governance/governance-documents" target="" data-cms-ai="0">Corporate Governance</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/esg-investors" target="" data-cms-ai="0">ESG Investors</a></li>
+                                            <li><a href="http://stock.walmart.com/investors/investor-resources/faqs" target="" data-cms-ai="0">Investor Resources</a></li>
+                                            </ul>                                        
+                                    </li>
+                            <li>
+                                    <a href="http://corporate.walmart.com/suppliers" target="" data-cms-ai="0">Suppliers</a>
+                                    <button class="open-menu"><i class="ico ico-plus-circle"></i><i class="ico ico-minus-circle"></i></button>
+                                        <ul class="full-nav-list-2">
+                                            <li><a href="http://corporate.walmart.com/suppliers/apply-to-be-a-supplier" target="" data-cms-ai="0">Apply to Be a Supplier</a></li>
+                                            <li><a href="http://corporate.walmart.com/suppliers/minimum-requirements" target="" data-cms-ai="0">Minimum Requirements</a></li>
+                                            <li><a href="http://corporate.walmart.com/suppliers/get-to-know-walmart/" target="" data-cms-ai="0">Get to Know Walmart</a></li>
+                                            <li><a href="http://corporate.walmart.com/suppliers/supplier-diversity" target="" data-cms-ai="0">Supplier Diversity</a></li>
+                                            </ul>                                        
+                                    </li>
+                            </ul>
+                    </div>
+                </div>
+                            
+            <div class="main-nav-flyout-row">
+                <div class="main-nav-flyout-col-3x-pushed-1x">
+                    <div class="main-nav-foot">
+                        <ul class="main-nav-foot-mobile-linklist">
+                                <li><a href="http://www.walmart.com" target="" data-cms-ai="0">Shop Walmart.com</a></li>
+                                <li><a href="http://www.samsclub.com" target="" data-cms-ai="0">Shop SamsClub.com</a></li>
+                                <li><a href="http://careers.walmart.com/" target="" data-cms-ai="0">Walmart Careers</a></li>
+                                <li><a href="http://www.walmartlabs.com/" target="" data-cms-ai="0">@WalmartLabs</a></li>
+                                <li><a href="http://www.walmartcommunity.com/" target="" data-cms-ai="0">Walmart Community</a></li>
+                                <li><a href="http://www.walmartone.com" target="" data-cms-ai="0">WalmartOne.com</a></li>
+                                </ul>
+                        </div>
+                </div>
+            </div>                            
+                                                        
+        </div>
+        <button data-collapse-target class="main-nav-flyout-close"><i class="ico ico-close"></i></button>
+    </div></div><script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+<script type="text/javascript">
+    (function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=105223049547814";
+                  fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+    </script>
+<!-- [ReadingList : Using Global Reading List] -->
+            <section class="article-list"  data-bsp-psdsharebar data-bsp-article-affixnav>
+                                <aside id="affixNav" class="article-affixnav">
+
+                                        <div class="article-affixnav-inner">
+
+                                            <div class="psd-sharebar"
+
+                                                                data-url="http://blog.walmart.com/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year"
+                                                                data-uuid="00000152-b329-d300-a153-bfbbe63b0000"
+
+                                                                data-email-enabled="true"
+                                                                data-fb-enabled="true"
+                                                                data-fb-countenabled="false"
+                                                                data-fb="105223049547814"
+                                                                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                                                                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                                                                data-twitter-enabled="true"
+                                                                data-twitter-countenabled="false"
+                                                                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                                                                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                                                                data-linkedin-enabled="true"
+                                                                data-linkedin-countenabled="false"
+                                                                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                                                                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                                                                data-pinterest-enabled="true"
+                                                                data-pinterest-countenabled="false"
+                                                                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                                                                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                                                                data-google-enabled="false"
+                                                                data-google-countenabled="false"
+                                                                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                                                                data-google-counturl=""
+
+                                                                data-id="00000152-b329-d300-a153-bfbbe63b0000"
+                                                                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                                                                data-description="Feb. 8 marks the start of Chinese New Year, China&rsquo;s most important celebration for families. Also known as the Spring Festival, Chinese New Year is a weeklong public holiday during which families&hellip;"
+                                                                data-title="From Lanterns to Lions, Ringing in Chinese New Year"
+                                                                data-image="http://cdn.corporate.walmart.com/dims4/WMT/f194b41/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg"
+                                                                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/ac32a73/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg"
+                                                                data-sharebar-classname="article-affixnav-share">
+
+                                                            </div>
+
+                                            <div class="article-affixnav-readnow">
+
+           <h3 class="article-affixnav-readnow-title">Read it now</h3>
+
+            <ol class="article-affixnav-readnow-list">
+
+                <li class="article-affixnav-readnow-item" data-article-rel="art1">
+
+                        <a class="article-affixnav-readnow-item-title" href="#art1" data-cms-ai="0">
+                            From Lanterns to Lions, Ringing in Chinese New Year</a>
+                        <div class="article-affixnav-readnow-item-progress" data-progress="0">
+                                <div class="circle">
+                                        <div class="mask full">
+                                                <div class="fill"></div>
+                                        </div>
+                                        <div class="mask half">
+                                                <div class="fill"></div>
+                                                <div class="fill fix"></div>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- <span class="article-readnow-item-progress"></span> -->
+                    </li>
+
+                <li class="article-affixnav-readnow-item" data-article-rel="art2">
+
+                        <a class="article-affixnav-readnow-item-title" href="#art2" data-cms-ai="0">
+                            This Store is Helping Reimagine the Supercenter</a>
+                        <div class="article-affixnav-readnow-item-progress" data-progress="0">
+                                <div class="circle">
+                                        <div class="mask full">
+                                                <div class="fill"></div>
+                                        </div>
+                                        <div class="mask half">
+                                                <div class="fill"></div>
+                                                <div class="fill fix"></div>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- <span class="article-readnow-item-progress"></span> -->
+                    </li>
+
+                <li class="article-affixnav-readnow-item" data-article-rel="art3">
+
+                        <a class="article-affixnav-readnow-item-title" href="#art3" data-cms-ai="0">
+                            A Full Moon Creates Chaos in this Exclusive Story</a>
+                        <div class="article-affixnav-readnow-item-progress" data-progress="0">
+                                <div class="circle">
+                                        <div class="mask full">
+                                                <div class="fill"></div>
+                                        </div>
+                                        <div class="mask half">
+                                                <div class="fill"></div>
+                                                <div class="fill fix"></div>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- <span class="article-readnow-item-progress"></span> -->
+                    </li>
+
+                <li class="article-affixnav-readnow-item" data-article-rel="art4">
+
+                        <a class="article-affixnav-readnow-item-title" href="#art4" data-cms-ai="0">
+                            Hello, Nicaragua! Welcoming Walmart to Managua</a>
+                        <div class="article-affixnav-readnow-item-progress" data-progress="0">
+                                <div class="circle">
+                                        <div class="mask full">
+                                                <div class="fill"></div>
+                                        </div>
+                                        <div class="mask half">
+                                                <div class="fill"></div>
+                                                <div class="fill fix"></div>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- <span class="article-readnow-item-progress"></span> -->
+                    </li>
+
+                <li class="article-affixnav-readnow-item" data-article-rel="art5">
+
+                        <a class="article-affixnav-readnow-item-title" href="#art5" data-cms-ai="0">
+                            The Dish on Gumbaya: A Foodie Follows a Dream</a>
+                        <div class="article-affixnav-readnow-item-progress" data-progress="0">
+                                <div class="circle">
+                                        <div class="mask full">
+                                                <div class="fill"></div>
+                                        </div>
+                                        <div class="mask half">
+                                                <div class="fill"></div>
+                                                <div class="fill fix"></div>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- <span class="article-readnow-item-progress"></span> -->
+                    </li>
+
+                </ol>
+    </div>
+</div>
+                                </aside>
+
+                                <article id="art1" class="article-container" data-title="From Lanterns to Lions, Ringing in Chinese New Year" data-permalink="http://blog.walmart.com/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year">
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a class="article-topic-title category" href="http://blog.walmart.com/topics/life" data-cms-ai="0">Life</a>
+            <h1 class="article-title">From Lanterns to Lions, Ringing in Chinese New Year</h1>
+
+            <div class="article-byline">
+                <div class="article-byline-text">
+                    <p class="article-byline-author">By
+                        <a href="http://corporate.walmart.com/search?q=Suejane Chang" data-cms-ai="0">Suejane Chang</a>
+                    </p>
+
+                    <p class="article-byline-text">Vice President, Walmart China </p>
+                    <p class="article-byline-date date">February 05, 2016</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="article-lead-media">    
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/38b72f3/2147483647/crop/1000x434%2B0%2B167/resize/1300x564%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg" class="article-lead-img" data-size="blogPost_1300x564"></div>
+</div>
+
+    <div class="article-body">
+        <div class="article-content">
+            <style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}.cms-overlay-bgWhiteLarge{background-color: rgba(255, 255, 255, 0.83);
+color: #333;
+display: block;
+padding: 1.42857142857em 1.78571428571em;
+font-size:24px;}.cms-overlay-bgWhiteMedium{background-color: rgba(255, 255, 255, 0.83);
+color: #333;
+display: block;
+padding: 1.42857142857em 1.78571428571em;
+font-size:18px;}.cms-overlay-bgBlackLarge{background-color: rgba(0, 0, 0, 0.47);
+color: #fff;
+display: block;
+padding: 1.42857142857em 1.78571428571em;
+font-size:24px;}.cms-overlay-bgBlackMedium{background-color: rgba(0, 0, 0, 0.47);
+color: #fff;
+display: block;
+padding: 1.42857142857em 1.78571428571em;
+font-size:18px;}.cms-overlay-largeFontNoBackground{font-size:24px;}.cms-overlay-mediumFontNoBackground{font-size:18px;}.cms-heading-stephen_king_heading{    font-size: 24px;
+    line-height: 1;
+    max-height: none;
+    text-align: center;
+    font-weight: 700;
+    margin: 28px 0 21px 0;}.cms-fontColors-walmartYellow{color: rgb(253, 187, 48);}.cms-fontColors-walmartMediumBlue{color: rgb(26, 117, 207)}.cms-fontColors-walmartDarkBlue{color: rgb(0, 56, 150)}.cms-fontColors-walmartLightBlue{color: rgb(108, 171, 231)}.cms-fontColors-walmartOrange{color: rgb(244, 123, 32)}.cms-fontColors-walmartLightGreen{color: rgb(97, 191, 26)}.cms-fontColors-walmartDarkGreen{color: rgb(51, 115, 33)}.cms-fontColors-walmartDarkGray{color: rgb(70, 70, 70)}.cms-fontColors-walmartMediumGray{color: rgb(85, 85, 85)}</style><p class="MsoNormal">Feb. 8 marks the start of Chinese New Year, China’s most important celebration for families. Also known as the Spring Festival, Chinese New Year is a weeklong public holiday during which families celebrate a year of hard work and wish for good luck in the coming year. <o:p></o:p></p>
+
+<p class="MsoNormal">Those shopping in our stores in China see lots of Chinese New Year decorations and traditional foods stocked for this busy time. For readers who aren’t in China, here’s some background on the celebrations. <o:p></o:p></p>
+
+<p class="MsoNormal"><b>Traditional Family Meals<o:p></o:p></b></p>
+
+<p class="MsoNormal">Before the first day of the first month in the lunar calendar, people all over China travel to their hometowns to unite with their families and decorate their homes in red — a color that symbolizes good luck and joy — and prepare for Chinese New Year celebrations. The night before the Chinese New Year, we prepare a <a href="http://www.bbcgoodfood.com/recipes/collection/chinese-new-year" title="Link: http://www.bbcgoodfood.com/recipes/collection/chinese-new-year" target="_blank" data-cms-ai="0">feast</a> made up of symbolic foods:<o:p></o:p></p>
+
+<ul><li>In Chinese culture, a fish course represents wealth in the future, while peanuts signify longevity and good health.</li><li>Some food symbolism in Chinese New Year dishes is more visual, such as hot pot, which involves simmering meat and vegetables in a round pot at the center of the table. The shape of the pot represents perfection and satisfaction.</li><li><a href="http://travel.cnn.com/shanghai/life/ultimate-guide-chinese-dumplings-466494/" title="Link: http://travel.cnn.com/shanghai/life/ultimate-guide-chinese-dumplings-466494/" target="_blank" data-cms-ai="0">Dumplings</a> are an example of a food with a more historical tie because they resemble the gold currency — Yuanbao — used in ancient China. Today, dumplings are still thought to signify wealth in the coming year and are a delicious treat stuffed with different fillings.</li></ul><aside class="text-center">
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/09a7a40/2147483647/resize/603x%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F7d%2Fb6%2Fa02840b04f0cab74e00319449e08%2Fchinese-walmart-store.jpg" width="603" height="403" alt="Chinese Walmart food displays" data-size="blog-post-image"></aside>
+<p class="MsoNormal"><b>Celebrations<o:p></o:p></b></p>
+
+<p class="MsoNormal">Like with New Year’s Eve in the U.S. and other western countries, Chinese New Year involves staying up late. We light firecrackers at midnight, a tradition that dates back to ancient folklore. Though the New Year is a cause for celebration now, legend has it that Chinese villagers used to stoke their fires with bamboo to keep away a terrifying, sharp-toothed monster that arose from the sea at the end of the lunar year to prey on people and livestock. Now, we use firecrackers to celebrate the new year and also scare off any bad luck that might be on the horizon. <o:p></o:p></p>
+
+<p class="MsoNormal">Celebrations culminate in the <a href="http://www.travelchinaguide.com/essential/holidays/lantern.htm" title="Link: http://www.travelchinaguide.com/essential/holidays/lantern.htm" target="_blank" data-cms-ai="0">Lantern Festival</a>, where people gather to admire the illuminated lanterns (some floating, some carried by children, some fixed as decorations) and guess riddles written on them. On New Year’s Day, people also watch lion dances, in which participants don elaborate, mythical lion costumes that seem larger than life — and eat rice dumplings. <o:p></o:p></p>
+
+<p class="MsoNormal">One of our family traditions is for children and grandchildren to wish elders in the family good wishes for the new year and, in turn, the elders will give children a red envelope of money for good luck and to buy toys and books.&nbsp; Children often sleep with the red envelope under the pillow to bring good luck throughout the year. <o:p></o:p></p>
+
+<p class="MsoNormal"><b>The Year of the Monkey<o:p></o:p></b></p>
+
+<p class="MsoNormal">This year is the <a href="http://www.cnn.com/2016/01/31/world/gallery/year-of-the-monkey-lunar-new-year/index.html" title="Link: http://www.cnn.com/2016/01/31/world/gallery/year-of-the-monkey-lunar-new-year/index.html" target="_blank" data-cms-ai="0">year of the monkey</a>, the ninth of 12 animals in the recurring 12-year Chinese zodiac cycle. People born in the year of the monkey are believed to be energetic, witty and mischievous. I look forward to greeting the year of the monkey surrounded by my family and enjoying the snacks and festivities that come with the celebrations. No matter your Chinese zodiac, may the New Year bring good fortune to you and your family!</p></div>
+
+        <div class="article-tools">
+            <div class="psd-sharebar"
+
+                data-url="http://blog.walmart.com/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year"
+                data-uuid="00000152-b329-d300-a153-bfbbe63b0000"
+
+                data-email-enabled="true"
+                data-fb-enabled="true"
+                data-fb-countenabled="false"
+                data-fb="105223049547814"
+                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                data-twitter-enabled="true"
+                data-twitter-countenabled="false"
+                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-linkedin-enabled="true"
+                data-linkedin-countenabled="false"
+                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                data-pinterest-enabled="true"
+                data-pinterest-countenabled="false"
+                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-google-enabled="false"
+                data-google-countenabled="false"
+                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                data-google-counturl=""
+
+                data-id="00000152-b329-d300-a153-bfbbe63b0000"
+                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                data-description="Feb. 8 marks the start of Chinese New Year, China&rsquo;s most important celebration for families. Also known as the Spring Festival, Chinese New Year is a weeklong public holiday during which families&hellip;"
+                data-title="From Lanterns to Lions, Ringing in Chinese New Year"
+                data-image="http://cdn.corporate.walmart.com/dims4/WMT/f194b41/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg"
+                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/ac32a73/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F02%2Ff4%2F4a4ce4f242d79a556a84ff91f7bf%2Fchinese-new-year-celebration-lanterns.jpg"
+                data-sharebar-classname="article-share">
+
+                <div class="fb-like" data-href="http://blog.walmart.com/life/20160205/from-lanterns-to-lions-ringing-in-chinese-new-year"  data-layout="standard" data-action="like"></div>
+                </div>
+</div>
+
+        <section class="article-comments" data-bsp-comments>
+        <div class="article-post-comment">
+
+            <p class="article-post-comment-headline">
+                
+                        Be the first to comment on this article
+                    </p>
+            
+            <div class="comment-box signIn" data-id="00000152-b329-d300-a153-bfbbe63b0000" data-provider="">
+
+                <div class="article-post-comment-login">
+    <ul class="article-post-social">
+    <li class="article-post-social-item">
+                    <a href="#" data-url="/login/facebook" data-service="facebook" data-cms-ai="0">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/google" data-service="google" data-cms-ai="0">
+                        <i class="fa fa-google-plus"></i>
+                    </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/linkedin" data-service="linkedin" data-cms-ai="0">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+    <h3 class="article-post-signin">Sign in to post a comment</h3>
+</div>
+
+
+
+
+
+</div>
+            
+            <div class="article-comment-list" style="display:none">
+                </div>
+
+        </div>
+    </section>
+
+<aside class="article-aside">
+                <section class="article-related">
+                    <h3 class="article-related-title">Related Stories</h3>
+                        <div class="article-related-inner" data-bsp-swapimg>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20151026/the-bazaar-of-bad-dreams" data-cms-ai="0">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/8cdbd1f/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F69%2F35%2F67588bec4ee1b4fd13ce2345668c%2Fbazzar-of-bad-dreams.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/2e661c4/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F69%2F35%2F67588bec4ee1b4fd13ce2345668c%2Fbazzar-of-bad-dreams.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        The Bazaar of Bad Dreams</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20150225/7-tips-to-save-on-vacations-through-sams-club-travel" data-cms-ai="0">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/bf1c66c/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fbb%2F70%2Ff6a587624229819dd57541da2b65%2Fst-thomas-sams-club-travel.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/94d41c0/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fbb%2F70%2Ff6a587624229819dd57541da2b65%2Fst-thomas-sams-club-travel.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        7 Tips to Save on Vacations through Sam&rsquo;s Club Travel</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20150216/its-king-cake-time-but-walmarts-queens-reign-all-year-long" data-cms-ai="0">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/423327f/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F0f%2Fa6%2Ff2d32c7a4d06ad610d297f636649%2Fcake-decorator-stacie.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/5738fd7/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F0f%2Fa6%2Ff2d32c7a4d06ad610d297f636649%2Fcake-decorator-stacie.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        It&rsquo;s King Cake Time, But Walmart&rsquo;s Queens Reign All Year Long</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            </div>
+                </section>
+        </aside>
+
+    </div>
+</article>
+<article id="art2" class="article-container" data-title="This Store is Helping Reimagine the Supercenter" data-permalink="http://blog.walmart.com/innovation/20160212/this-store-is-helping-reimagine-the-supercenter?reading-list=00000152-b329-d300-a153-bfbbe63b0000">
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a class="article-topic-title category" href="http://blog.walmart.com/topics/innovation" data-cms-ai="1">Innovation</a>
+            <h1 class="article-title">This Store is Helping Reimagine the Supercenter</h1>
+
+            <div class="article-byline">
+                <div class="article-byline-text">
+                    <p class="article-byline-author">By
+                        <a href="http://corporate.walmart.com/search?q=Walmart Staff" data-cms-ai="1">Walmart Staff</a>
+                    </p>
+
+                    <p class="article-byline-text"></p>
+                    <p class="article-byline-date date">February 12, 2016</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="article-lead-media">    
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/5c9a39b/2147483647/crop/8688x3769%2B0%2B1360/resize/1300x564%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F66%2Fdb%2F7be1c7b546028d6a6e9ff678117f%2Fscan-and-go-checkout-registers-in-walmart-supercenter-5260.jpg" class="article-lead-img" data-size="blogPost_1300x564"></div>
+</div>
+
+    <div class="article-body">
+        <div class="article-content">
+            <p>Last year, supercenter #5260 in Rogers, Arkansas, got a
+facelift. Added into the refreshed look were several new approaches to
+technologies, services, products and layouts, which are currently being tested
+with customers. Early reports are positive, but it’s too soon to tell what’s
+working and what isn’t. What’s clear: Things that seem straightforward could
+show up in new stores or remodels. Store 5260 is simply the first step toward
+the supercenter of the future, but it’s critical to informing upcoming tests.</p><aside class="text-center">
+    <style type="text/css">#if6bc0908bd0944369a8770a4f10aaffe{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="if6bc0908bd0944369a8770a4f10aaffe"><img src="http://cdn.corporate.walmart.com/dims4/WMT/8e9a69a/2147483647/crop/5000x3333%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fab%2Fdd%2F8b8a6efe40b592d2c7190de74ebd%2Felectronics-department-in-walmart-supercenter-5260.jpg" width="603" height="402" alt="Electronics department in Walmart Supercenter 5260" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>Room to Play:</b> The electronics and
+entertainment areas have a sleek, modern look that customers say feels very
+welcoming and on-trend. “One of the things that we noticed early on as people
+walk by electronics is that they stop and look, and then they get drawn
+in," said Sherry Curtis-Swenson, the store’s manager.</p><aside class="text-center">
+    <style type="text/css">#i21f345cb2d66483da60f3dda7412c80c{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i21f345cb2d66483da60f3dda7412c80c"><img src="http://cdn.corporate.walmart.com/dims4/WMT/8ef2bc6/2147483647/crop/7360x4912%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F8a%2Fab%2F3bdc55cd4b988c215d8b21a5f4b5%2Fwalmart-produce-department-in-walmart-supercenter-5260.jpg" width="603" height="402" alt="Walmart Produce Department in Walmart Supercenter 5260" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>A New Angle on Fresh:</b> A
+reorganization (along with improved sight lines and angled aisles) puts berries
+— a growing category — in the front of the department. Bananas, already a huge
+draw, are toward the back to help lead customers through. Purple signage in
+Fresh and throughout the store connects to an increase in organic products.</p><aside class="text-center">
+    <style type="text/css">#ida5c8d5897314a93844701a1a373d90e{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="ida5c8d5897314a93844701a1a373d90e"><img src="http://cdn.corporate.walmart.com/dims4/WMT/65cd97d/2147483647/crop/3000x2000%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fdc%2F07%2F05a292474c6587a9942905351686%2Fwalmart-automotive-department-in-walmart-supercenter-5260.jpg" width="603" height="402" alt="Digital menu boards and service signage in a Walmart automotive area" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>Car Care, Customer Care:</b> Along
+with new digital menu boards and signage in automotive, there’s a comfortable
+customer waiting area — furnished with items from <a href="http://www.walmart.com/" title="Link: http://www.walmart.com/" target="_blank" data-cms-ai="1">Walmart.com</a>. Customers can watch TV, enjoy a coffee,
+charge their phones, and see their cars being serviced.</p><aside class="text-center">
+    <style type="text/css">#i6e828b1e36dc4dbdb810d9023c46bdfe{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i6e828b1e36dc4dbdb810d9023c46bdfe"><img src="http://cdn.corporate.walmart.com/dims4/WMT/c25543f/2147483647/crop/5000x3333%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F01%2F03%2Ff4beed6241feba85cc8f52fcbc00%2Fwalmart-pick-up-and-services-desk-in-walmart-supercenter-5260.jpg" width="603" height="402" alt="In-store pickup and Walmart services share a space at the front of a Walmart supercenter" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>Pickup, Up Front:</b> <a href="http://www.walmart.com/cp/1231921" title="Link: http://www.walmart.com/cp/1231921" target="_blank" data-cms-ai="1">In-Store Pickup</a> and Walmart Services share space up front at
+Store 5260. It’s clearly marked so customers can find it and get their orders
+quickly.</p><aside class="text-center">
+    <style type="text/css">#i809e3c349ab24ce2b412d6d5fbaf7745{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i809e3c349ab24ce2b412d6d5fbaf7745"><img src="http://cdn.corporate.walmart.com/dims4/WMT/09d14f4/2147483647/crop/3333x5000%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fd8%2F4a%2F6d60e72449018795e85ff37c0ecd%2Fscan-and-go-checkout-stations-in-walmart-supercenter-5260.jpg" width="402" height="603" alt="A wide checkout area features double belts to place your items on for faster checkout" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>Check Out Your Way:</b> There
+are multiple options for checkout. Scan &amp; Go supplies a wand so customers
+can scan items as they’re shopping. Hybrid registers can be self-service or
+manned by associates, depending on the need. And high-velocity checkouts — where
+a cashier scans items while the customer moves through the line to pay — are
+more than three times faster than conventional checkouts.</p><aside class="text-center">
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/141fb1d/2147483647/resize/603x%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fc6%2F1f%2Fcba2c49c47ff965707127785bf57%2Fbaby-strollers-line-the-baby-department-in-walmart-supercenter-5260.jpg" width="603" height="559" alt="Baby strollers line the baby department floor in a Walmart Supercenter" data-size="blog-post-image"></aside>
+<p class="MsoNormal"><b>One-Stop Baby Shop:</b> The
+new baby department combines it all in one space. There’s even a stroller
+garage for hands-on tryouts. “Customers love being able to move the strollers
+around,” Sherry said.</p><aside class="text-center">
+    <style type="text/css">#i9ca5cdede12747e99979907b1545c7f4{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i9ca5cdede12747e99979907b1545c7f4"><img src="http://cdn.corporate.walmart.com/dims4/WMT/64bf91c/2147483647/crop/5000x3333%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F8c%2Ff4%2F17f9dce942f3bc2565d42130244a%2Fbig-rub-bbq-restaurant-in-walmart-supercenter-5260.jpg" width="603" height="402" alt="Big Rub BBQ restaurant inside Walmart Supercenter 5260" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal"><b>Local Eats:</b> A local food truck
+operator, <a href="https://www.facebook.com/bigrubbbq/" title="Link: https://www.facebook.com/bigrubbbq/" target="_blank" data-cms-ai="2">Big Rub BBQ</a>, has
+restaurant space in the store, with lots of glass and natural light — and even
+seating on an outdoor patio!&nbsp;</p><p class="MsoNormal"><i>Editor’s note: A version of this story originally appeared in&nbsp;</i><a href="https://us.walmartone.com/en/walmart/news/walmart-world/" target="_blank" data-cms-ai="2"><i>Walmart World</i></a><i>, the
+magazine for Walmart associates.</i></p></div>
+
+        <div class="article-tools">
+            <div class="psd-sharebar"
+
+                data-url="http://blog.walmart.com/innovation/20160212/this-store-is-helping-reimagine-the-supercenter?reading-list=00000152-b329-d300-a153-bfbbe63b0000"
+                data-uuid="00000152-d181-d297-a3da-dfa933a70000"
+
+                data-email-enabled="true"
+                data-fb-enabled="true"
+                data-fb-countenabled="false"
+                data-fb="105223049547814"
+                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                data-twitter-enabled="true"
+                data-twitter-countenabled="false"
+                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-linkedin-enabled="true"
+                data-linkedin-countenabled="false"
+                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                data-pinterest-enabled="true"
+                data-pinterest-countenabled="false"
+                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-google-enabled="false"
+                data-google-countenabled="false"
+                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                data-google-counturl=""
+
+                data-id="00000152-d181-d297-a3da-dfa933a70000"
+                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                data-description="Last year, supercenter #5260 in Rogers, Arkansas, got a facelift. Added into the refreshed look were several new approaches to technologies, services, products and layouts, which are currently being&hellip;"
+                data-title="This Store is Helping Reimagine the Supercenter"
+                data-image="http://cdn.corporate.walmart.com/dims4/WMT/236ff22/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F01%2F03%2Ff4beed6241feba85cc8f52fcbc00%2Fwalmart-pick-up-and-services-desk-in-walmart-supercenter-5260.jpg"
+                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/627f76b/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F01%2F03%2Ff4beed6241feba85cc8f52fcbc00%2Fwalmart-pick-up-and-services-desk-in-walmart-supercenter-5260.jpg"
+                data-sharebar-classname="article-share">
+
+                <div class="fb-like" data-href="http://blog.walmart.com/innovation/20160212/this-store-is-helping-reimagine-the-supercenter"  data-layout="standard" data-action="like"></div>
+                </div>
+</div>
+
+        <section class="article-comments" data-bsp-comments>
+        <div class="article-post-comment">
+
+            <p class="article-post-comment-headline">
+                <a href="#" data-cms-ai="2">
+                            1 Comment</a>
+                    </p>
+            
+            <div class="comment-box signIn" data-id="00000152-d181-d297-a3da-dfa933a70000" data-provider="">
+
+                <div class="article-post-comment-login">
+    <ul class="article-post-social">
+    <li class="article-post-social-item">
+                    <a href="#" data-url="/login/facebook" data-service="facebook" data-cms-ai="2">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/google" data-service="google" data-cms-ai="2">
+                        <i class="fa fa-google-plus"></i>
+                    </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/linkedin" data-service="linkedin" data-cms-ai="2">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+    <h3 class="article-post-signin">Sign in to post a comment</h3>
+</div>
+
+
+
+
+
+</div>
+            
+            <div class="article-comment-list" style="display:none">
+                <div class="article-comment-item " 
+     data-id="00000152-e059-da9a-ad5b-e25d78f50000" data-position="0.0">
+
+    <div class="article-comment-avatar">
+    <img src="https://graph.facebook.com/1146747898690378/picture" class="article-comment-avatar-media"/>
+        </div>
+
+    <div class="article-comment-content">
+        <time class="article-comment-date">FEBRUARY 14, 2016 9:15 AM</time>
+        <p class="article-comment-author">
+            Tyronne L Conley Sr.</p>
+        <div class="article-comment-text">
+            <p>THE FUTURE LOOKING GOOD</p>
+        </div>
+                
+        <button class="article-comment-reply">Reply</button>
+        </div>
+
+</div></div>
+
+        </div>
+    </section>
+
+<aside class="article-aside">
+                <section class="article-related">
+                    <h3 class="article-related-title">Related Stories</h3>
+                        <div class="article-related-inner" data-bsp-swapimg>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/innovation/20160129/what-is-oneops-why-were-sharing-it" data-cms-ai="2">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/7ba291b/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fb7%2Fcd%2F80d4709a4421a32b6b22931cceff%2Fparticipants-at-the-2015-walmart-hack-day.jpeg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/9757868/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fb7%2Fcd%2F80d4709a4421a32b6b22931cceff%2Fparticipants-at-the-2015-walmart-hack-day.jpeg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        What is OneOps? Why We&rsquo;re Sharing It</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/innovation/20151208/in-the-news-comparing-online-grocery-services" data-cms-ai="2">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/8c7b905/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Ff1%2F67%2Fce724b244aaaac93ba2f8ef4dfac%2Fwalmart-grocery-delivery.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/ce3b5a4/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Ff1%2F67%2Fce724b244aaaac93ba2f8ef4dfac%2Fwalmart-grocery-delivery.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        In the News: Comparing Online Grocery Services</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/innovation/20151124/a-passion-for-taking-grocery-shopping-off-your-plate" data-cms-ai="2">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/4690201/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F80%2F97%2F747a5e124c9a8ed8d8b4057a72de%2Fellen-martinez-by-walmart-pickup-grocery-truck.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/8f4a2ad/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F80%2F97%2F747a5e124c9a8ed8d8b4057a72de%2Fellen-martinez-by-walmart-pickup-grocery-truck.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        A Passion for Taking Grocery Shopping Off Your Plate</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            </div>
+                </section>
+        </aside>
+
+    </div>
+</article>
+<article id="art3" class="article-container" data-title="A Full Moon Creates Chaos in this Exclusive Story" data-permalink="http://blog.walmart.com/life/20151029/a-full-moon-creates-chaos-in-this-exclusive-story?reading-list=00000152-b329-d300-a153-bfbbe63b0000">
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a class="article-topic-title category" href="http://blog.walmart.com/topics/life" data-cms-ai="3">Life</a>
+            <h1 class="article-title">A Full Moon Creates Chaos in this Exclusive Story</h1>
+
+            <div class="article-byline">
+                <div class="article-byline-text">
+                    <p class="article-byline-author">By
+                        <a href="http://corporate.walmart.com/search?q=Walmart Staff" data-cms-ai="3">Walmart Staff</a>
+                    </p>
+
+                    <p class="article-byline-text"></p>
+                    <p class="article-byline-date date">October 29, 2015</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="article-lead-media">    
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/a8a551d/2147483647/thumbnail/1300x564%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fd5%2F0f%2F938363644a8fab69d49158b58eea%2Ffeed-the-moon.png" class="article-lead-img" data-size="blogPost_1300x564"></div>
+</div>
+
+    <div class="article-body">
+        <div class="article-content">
+            <p class="article-intro">
+                    There&rsquo;s nothing like the chills you get from hearing a well-told scary story. </p>
+            <p>Just in time for a late-night Halloween listen,
+filmmaker <a href="http://www.imdb.com/name/nm0815418/" title="Link: http://www.imdb.com/name/nm0815418/" data-cms-ai="3">Paul
+Soter</a> (the creator behind comedies&nbsp;<i>Super Troopers</i>&nbsp;and&nbsp;<i>Beerfest</i>,
+as well as horror films&nbsp;<i>Club Dread</i>&nbsp;and&nbsp;<i>Dark Circles</i>)
+hearkens back to the spooky fun of classic radio theater. &nbsp;</p><p>
+
+In&nbsp;<i>Feed the Moon</i>, what starts out as a
+simple trip to Walmart on Halloween night becomes one man’s nightmarish journey
+into the impossible.</p><p><br><iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230626625&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></p></div>
+
+        <div class="article-tools">
+            <div class="psd-sharebar"
+
+                data-url="http://blog.walmart.com/life/20151029/a-full-moon-creates-chaos-in-this-exclusive-story?reading-list=00000152-b329-d300-a153-bfbbe63b0000"
+                data-uuid="00000150-b032-dd3d-abfe-f0ffbe070000"
+
+                data-email-enabled="true"
+                data-fb-enabled="true"
+                data-fb-countenabled="false"
+                data-fb="105223049547814"
+                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                data-twitter-enabled="true"
+                data-twitter-countenabled="false"
+                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-linkedin-enabled="true"
+                data-linkedin-countenabled="false"
+                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                data-pinterest-enabled="true"
+                data-pinterest-countenabled="false"
+                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-google-enabled="false"
+                data-google-countenabled="false"
+                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                data-google-counturl=""
+
+                data-id="00000150-b032-dd3d-abfe-f0ffbe070000"
+                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                data-description="Just in time for a late-night Halloween listen, filmmaker Paul Soter (the creator behind comedies&amp;nbsp;Super Troopers&amp;nbsp;and&amp;nbsp;Beerfest, as well as horror films&amp;nbsp;Club&hellip;"
+                data-title="A Full Moon Creates Chaos in this Exclusive Story"
+                data-image="http://cdn.corporate.walmart.com/dims4/WMT/d5428cd/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fd5%2F0f%2F938363644a8fab69d49158b58eea%2Ffeed-the-moon.png"
+                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/eb5c7e8/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fd5%2F0f%2F938363644a8fab69d49158b58eea%2Ffeed-the-moon.png"
+                data-sharebar-classname="article-share">
+
+                <div class="fb-like" data-href="http://blog.walmart.com/life/20151029/a-full-moon-creates-chaos-in-this-exclusive-story"  data-layout="standard" data-action="like"></div>
+                </div>
+</div>
+
+        <section class="article-comments" data-bsp-comments>
+        <div class="article-post-comment">
+
+            <p class="article-post-comment-headline">
+                
+                        Be the first to comment on this article
+                    </p>
+            
+            <div class="comment-box signIn" data-id="00000150-b032-dd3d-abfe-f0ffbe070000" data-provider="">
+
+                <div class="article-post-comment-login">
+    <ul class="article-post-social">
+    <li class="article-post-social-item">
+                    <a href="#" data-url="/login/facebook" data-service="facebook" data-cms-ai="3">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/google" data-service="google" data-cms-ai="3">
+                        <i class="fa fa-google-plus"></i>
+                    </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/linkedin" data-service="linkedin" data-cms-ai="3">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+    <h3 class="article-post-signin">Sign in to post a comment</h3>
+</div>
+
+
+
+
+
+</div>
+            
+            <div class="article-comment-list" style="display:none">
+                </div>
+
+        </div>
+    </section>
+
+<aside class="article-aside">
+                <section class="article-related">
+                    <h3 class="article-related-title">Related Stories</h3>
+                        <div class="article-related-inner" data-bsp-swapimg>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20151026/the-bazaar-of-bad-dreams" data-cms-ai="3">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/8cdbd1f/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F69%2F35%2F67588bec4ee1b4fd13ce2345668c%2Fbazzar-of-bad-dreams.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/2e661c4/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F69%2F35%2F67588bec4ee1b4fd13ce2345668c%2Fbazzar-of-bad-dreams.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        The Bazaar of Bad Dreams</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20150225/7-tips-to-save-on-vacations-through-sams-club-travel" data-cms-ai="3">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/bf1c66c/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fbb%2F70%2Ff6a587624229819dd57541da2b65%2Fst-thomas-sams-club-travel.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/94d41c0/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fbb%2F70%2Ff6a587624229819dd57541da2b65%2Fst-thomas-sams-club-travel.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        7 Tips to Save on Vacations through Sam&rsquo;s Club Travel</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/life/20150216/its-king-cake-time-but-walmarts-queens-reign-all-year-long" data-cms-ai="3">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/423327f/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F0f%2Fa6%2Ff2d32c7a4d06ad610d297f636649%2Fcake-decorator-stacie.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/5738fd7/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F0f%2Fa6%2Ff2d32c7a4d06ad610d297f636649%2Fcake-decorator-stacie.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        It&rsquo;s King Cake Time, But Walmart&rsquo;s Queens Reign All Year Long</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            </div>
+                </section>
+        </aside>
+
+    </div>
+</article>
+<article id="art4" class="article-container" data-title="Hello, Nicaragua! Welcoming Walmart to Managua" data-permalink="http://blog.walmart.com/business/20160210/hello-nicaragua-welcoming-walmart-to-managua?reading-list=00000152-b329-d300-a153-bfbbe63b0000">
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a class="article-topic-title category" href="http://blog.walmart.com/topics/business" data-cms-ai="4">Business</a>
+            <h1 class="article-title">Hello, Nicaragua! Welcoming Walmart to Managua</h1>
+
+            <div class="article-byline">
+                <div class="article-byline-text">
+                    <p class="article-byline-author">By
+                        <a href="http://corporate.walmart.com/search?q=Carlos Arroyo" data-cms-ai="4">Carlos Arroyo</a>
+                    </p>
+
+                    <p class="article-byline-text">SVP and COO, Walmart Central America</p>
+                    <p class="article-byline-date date">February 10, 2016</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="article-lead-media">    
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/62f7238/2147483647/crop/1430x620%2B0%2B270/resize/1300x564%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F1c%2Fc0%2F9d8766f4424097a618d159f0ad41%2Fnicaragua-walmart-store.jpg" class="article-lead-img" data-size="blogPost_1300x564"></div>
+</div>
+
+    <div class="article-body">
+        <div class="article-content">
+            <p class="MsoNormal">My team ended 2015 in a big way. After months of hard work, we opened
+the first Walmart store in Nicaragua, offering our everyday low prices on a
+wide assortment of 40,000 products – a very significant value proposition for
+the Nicaraguan market. We know this to be true because people are welcoming us
+with open arms.</p><aside class="text-center">
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/f8ec253/2147483647/resize/603x%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F67%2F66%2F1a84cc82442fb1c19bdfb4993871%2Fnicaragua-walmart-grand-opening.jpg" width="603" height="400" alt="Hundreds of Customers waiting to enter Nicaragua Walmart during its grand opening" data-size="blog-post-image"></aside>
+<p class="MsoNormal">The day we opened, literally hundreds of enthusiastic people attended the
+grand opening of our supercenter in Managua, ready to save money on everything
+from clothes, electronics and paint to toys, appliances and groceries. Watching
+the excitement and knowing that this store is making a difference for these
+people reminded me once again of our mission to help people live better by
+simply paying less for the things they need.</p><aside class="text-center">
+    <style type="text/css">#ie31a7305fdd54932b0e4bf51ac3422ec{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="ie31a7305fdd54932b0e4bf51ac3422ec"><img src="http://cdn.corporate.walmart.com/dims4/WMT/4fb2617/2147483647/crop/2144x1424%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fd4%2Fff%2F8737debf42e586593958122cb4f0%2Fnicaragua-walmart-clothing-department.jpg" width="603" height="401" alt="Aerial shot of the boys and &amp; girls clothing department" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal">This is a $17 million investment in a modern, comfortable store of
+5,890 square meters (over 63,000 square feet) that created 150 direct jobs (the
+associates that will work in the supercenter) and 1,575 estimated indirect jobs
+(jobs as a result of the supercenter such as cleaning crews and suppliers). And,
+because we strongly encourage the growth of local businesses, a great majority
+of our assortment comes from small and medium-sized Nicaraguan suppliers. &nbsp;&nbsp;</p>
+
+<p class="MsoNormal">Walmart operates 87 stores in Nicaragua under other formats like Palí (discount),
+Maxi Palí (warehouse) and La Union (supermarket), but this is the first Walmart-branded
+location. We are now offering the distinctive standard of service, price and
+assortment through our iconic Walmart supercenter. And the excitement we’ve
+seen is definitely our major reward.&nbsp;<o:p></o:p></p></div>
+
+        <div class="article-tools">
+            <div class="psd-sharebar"
+
+                data-url="http://blog.walmart.com/business/20160210/hello-nicaragua-welcoming-walmart-to-managua?reading-list=00000152-b329-d300-a153-bfbbe63b0000"
+                data-uuid="00000152-ccf6-d300-a153-fff671cb0000"
+
+                data-email-enabled="true"
+                data-fb-enabled="true"
+                data-fb-countenabled="false"
+                data-fb="105223049547814"
+                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                data-twitter-enabled="true"
+                data-twitter-countenabled="false"
+                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-linkedin-enabled="true"
+                data-linkedin-countenabled="false"
+                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                data-pinterest-enabled="true"
+                data-pinterest-countenabled="false"
+                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-google-enabled="false"
+                data-google-countenabled="false"
+                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                data-google-counturl=""
+
+                data-id="00000152-ccf6-d300-a153-fff671cb0000"
+                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                data-description="My team ended 2015 in a big way. After months of hard work, we opened the first Walmart store in Nicaragua, offering our everyday low prices on a wide assortment of 40,000 products &ndash; a very&hellip;"
+                data-title="Hello, Nicaragua! Welcoming Walmart to Managua"
+                data-image="http://cdn.corporate.walmart.com/dims4/WMT/c068066/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F1c%2Fc0%2F9d8766f4424097a618d159f0ad41%2Fnicaragua-walmart-store.jpg"
+                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/c19ce26/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F1c%2Fc0%2F9d8766f4424097a618d159f0ad41%2Fnicaragua-walmart-store.jpg"
+                data-sharebar-classname="article-share">
+
+                <div class="fb-like" data-href="http://blog.walmart.com/business/20160210/hello-nicaragua-welcoming-walmart-to-managua"  data-layout="standard" data-action="like"></div>
+                </div>
+</div>
+
+        <section class="article-comments" data-bsp-comments>
+        <div class="article-post-comment">
+
+            <p class="article-post-comment-headline">
+                
+                        Be the first to comment on this article
+                    </p>
+            
+            <div class="comment-box signIn" data-id="00000152-ccf6-d300-a153-fff671cb0000" data-provider="">
+
+                <div class="article-post-comment-login">
+    <ul class="article-post-social">
+    <li class="article-post-social-item">
+                    <a href="#" data-url="/login/facebook" data-service="facebook" data-cms-ai="4">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/google" data-service="google" data-cms-ai="4">
+                        <i class="fa fa-google-plus"></i>
+                    </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/linkedin" data-service="linkedin" data-cms-ai="4">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+    <h3 class="article-post-signin">Sign in to post a comment</h3>
+</div>
+
+
+
+
+
+</div>
+            
+            <div class="article-comment-list" style="display:none">
+                </div>
+
+        </div>
+    </section>
+
+<aside class="article-aside">
+                <section class="article-related">
+                    <h3 class="article-related-title">Related Stories</h3>
+                        <div class="article-related-inner" data-bsp-swapimg>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/business/20151127/as-customers-change-so-has-cyber-monday" data-cms-ai="4">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/3c82f6c/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Ffb%2F24%2F753d06ff46bbbc95cdc766be97ee%2Fwoman-shops-with-laptop.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/0ae6d42/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Ffb%2F24%2F753d06ff46bbbc95cdc766be97ee%2Fwoman-shops-with-laptop.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        As Customers Change, So Has Cyber Monday</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/business/20151030/in-the-news-growing-your-local-produce-selection" data-cms-ai="4">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/d434f1b/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fae%2Fb8%2F09afb89a4b17996d419120065342%2Fpeaches-in-bags.JPG" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/f2a3c40/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fae%2Fb8%2F09afb89a4b17996d419120065342%2Fpeaches-in-bags.JPG"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        In the News: Growing Your Local Produce Selection</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/business/20151029/our-promise-this-holiday-season-easier-shopping-every-day" data-cms-ai="4">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/2117f84/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fcb%2F6a%2F284207c54e55a5199e129132e03b%2Fholiday-2013-walmart-0109.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/87f7237/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fcb%2F6a%2F284207c54e55a5199e129132e03b%2Fholiday-2013-walmart-0109.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        Our Promise This Holiday Season: Easier Shopping Every Day</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            </div>
+                </section>
+        </aside>
+
+    </div>
+</article>
+<article id="art5" class="article-container" data-title="The Dish on Gumbaya: A Foodie Follows a Dream" data-permalink="http://blog.walmart.com/us-manufacturing/20160209/the-dish-on-gumbaya-a-foodie-follows-a-dream?reading-list=00000152-b329-d300-a153-bfbbe63b0000">
+    <div class="article-header">
+        <div class="article-header-inner">
+            <a class="article-topic-title category" href="http://blog.walmart.com/topics/us_manufacturing" data-cms-ai="5">U.S. Manufacturing</a>
+            <h1 class="article-title">The Dish on Gumbaya: A Foodie Follows a Dream</h1>
+
+            <div class="article-byline">
+                <div class="article-byline-text">
+                    <p class="article-byline-author">By
+                        <a href="http://corporate.walmart.com/search?q=Edward Mueller" data-cms-ai="5">Edward Mueller</a>
+                    </p>
+
+                    <p class="article-byline-text">Chief Operating Officer &ndash; Carolina Gumbaya</p>
+                    <p class="article-byline-date date">February 09, 2016</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="article-lead-media">    
+    <img src="http://cdn.corporate.walmart.com/dims4/WMT/57a5238/2147483647/crop/2409x1045%2B0%2B58/resize/1300x564%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Ff7%2F26%2F17524c0442b8a7b9c7f9700c2e7d%2Fcarolina-gumbaya.jpg" class="article-lead-img" data-size="blogPost_1300x564"></div>
+</div>
+
+    <div class="article-body">
+        <div class="article-content">
+            <p class="MsoNormal">When I moved from Michigan to Myrtle Beach, S.C., five years
+ago, it marked a new beginning for me. I was stepping away from 20 years in the
+insurance business, into a warmer climate and yearning to return to my culinary
+roots.</p>
+
+<p class="MsoNormal">When I was growing up, my family owned a food processing
+plant. I was running a restaurant up north by the time I was 19. I’ve always
+been curious about flavors and what’s out there. Whenever I travel, I’m that
+guy who <i>only</i> eats local cuisine. And
+when I began digging into my new surroundings, I discovered the history of
+gumbo in the U.S. – which people naturally associate with Louisiana – can actually
+be traced back to South Carolina in the 1600s.</p><aside class="text-center">
+    <style type="text/css">#i795e3e3ff6844b7f86d881f346ee9de0{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i795e3e3ff6844b7f86d881f346ee9de0"><img src="http://cdn.corporate.walmart.com/dims4/WMT/065e158/2147483647/crop/1632x1224%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fdf%2Fc8%2Fce94c60c4649836a5acc5bc06a32%2Fcarolina-gumbaya-in-bowl.jpg" width="603" height="452" alt="Carolina Gumbaya is topped with white rice and is in a white bowl" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal">The first recipe I developed when I set foot in Myrtle Beach
+was my own gumbo. There were so many beautiful ingredients down here – fresh
+shrimp, whitefish, Andouille sausage, okra – and when I dipped my spoon into
+that first bowl, I had a moment. I thought, “This is it. I’ve really got
+something here.”</p>
+
+<p class="MsoNormal">I knew this was a recipe that would make South Carolina
+proud. My gumbo immediately started winning people over at local farmers
+markets and festivals. I looked into opportunities to get my product on the
+market, from selling to local restaurants to partnering with a delivery service
+in the area. But the day the district manager at our local Walmart gave me 15
+minutes of his time – that was the day everything changed.</p>
+
+<p class="MsoNormal">That was Dec. 17, 2013. When I walked out 45 minutes later,
+it was with the understanding we had a deal. By May 2015, my <a href="http://www.carolinagumbaya.com/" title="Link: http://www.carolinagumbaya.com/" target="_blank" data-cms-ai="5">Carolina Gumbaya</a> was being sold in
+the frozen section of 17 Walmart stores in South Carolina. Today, that’s grown
+to 137 Walmart stores in five states, including Virginia, North Carolina, South
+Carolina, Georgia and Florida.</p>
+
+<p class="MsoNormal">It really has been an amazing experience, to see so many
+people embrace this recipe I created in the kitchen of my own home. But when
+people ask me if it has taken me by surprise, I have to tell them, “Honestly,
+no.”</p><aside class="text-center">
+    <style type="text/css">#i78a826b54f0141b6871f95ebc2ed31cc{display:inline-block;overflow:hidden;position:relative;width:603px;height:nullpx;}</style><span id="i78a826b54f0141b6871f95ebc2ed31cc"><img src="http://cdn.corporate.walmart.com/dims4/WMT/6c13fee/2147483647/crop/526x583%2B0%2B0/resize/603x603%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F30%2Fcd%2Fe12297c340abbbddffa643e59a03%2Fcarolina-gumbaya-product-packaging.jpg" width="526" height="583" alt="Carolina Gumbaya product packaging" data-size="blog-post-image"></span></aside>
+<p class="MsoNormal">Frozen food has come a long way in recent years. <a href="http://facebook.com/carolinagumbaya" title="Link: http://facebook.com/carolinagumbaya" target="_blank" data-cms-ai="5">Carolina Gumbaya</a> – a name drawn
+from the words gumbo and jambalaya – isn’t packed with fillers and
+preservatives. The label doesn’t have words you can’t pronounce. There are 12
+whole, wild-caught shrimp in every one-quart container. And the blonde roux I developed,
+along with my secret spices, are a few of the differentiating factors.</p>
+
+<p class="MsoNormal">Turn on any food channel or open a food publication and
+you’re going to hear about the flavor of the South. It’s the South’s time to
+shine on the culinary stage – so products like mine have an opportunity to
+spread across the country. Along the way, Walmart’s commitment to domestic
+manufacturing is opening the door for small entrepreneurs like my business
+partner, Laura Spencer, and me. Products like Carolina Gumbaya are helping
+create jobs at growing U.S.-based companies like Duke Food Productions, the
+company who helps produce our product. These kinds of stories are a win-win for
+everyone. And we’re just getting started.<o:p></o:p></p></div>
+
+        <div class="article-tools">
+            <div class="psd-sharebar"
+
+                data-url="http://blog.walmart.com/us-manufacturing/20160209/the-dish-on-gumbaya-a-foodie-follows-a-dream?reading-list=00000152-b329-d300-a153-bfbbe63b0000"
+                data-uuid="00000152-c6bd-d300-a153-ffbf247b0000"
+
+                data-email-enabled="true"
+                data-fb-enabled="true"
+                data-fb-countenabled="false"
+                data-fb="105223049547814"
+                data-fb-shareurl="https://www.facebook.com/dialog/feed?app_id={{app_id}}&link={{url}}&name={{title}}&caption={{caption}}&description={{description}}&redirect_uri=http://blog.walmart.com/self.close.html"
+                data-fb-counturl="https://graph.facebook.com/fql?q=SELECT%20total_count%20FROM%20link_stat%20WHERE%20url=%22{{url}}%22&callback={{callback}}"
+                data-twitter-enabled="true"
+                data-twitter-countenabled="false"
+                data-twitter-shareurl="https://twitter.com/intent/tweet?original_referer={{original_referer}}&text={{text}}&url={{url}}"
+                data-twitter-counturl="http://cdn.api.twitter.com/1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-linkedin-enabled="true"
+                data-linkedin-countenabled="false"
+                data-linkedin-shareurl="http://www.linkedin.com/shareArticle?summary={{summary}}&ro=false&title={{title}}&mini=true&url={{url}}&source="
+                data-linkedin-counturl="http://www.linkedin.com/countserv/count/share?format=jsonp&url={{url}}&callback={{callback}}"
+                data-pinterest-enabled="true"
+                data-pinterest-countenabled="false"
+                data-pinterest-shareurl="http://pinterest.com/pin/create/bookmarklet/?url={{url}}&title={{title}}&description={{description}}&media={{media}}"
+                data-pinterest-counturl="http://api.pinterest.com/v1/urls/count.json?url={{url}}&callback={{callback}}"
+                data-google-enabled="false"
+                data-google-countenabled="false"
+                data-google-shareurl="https://plus.google.com/share?url={{url}}"
+                data-google-counturl=""
+
+                data-id="00000152-c6bd-d300-a153-ffbf247b0000"
+                data-captcha="6LcDkukSAAAAAF9UqgmnmH6lAsRiBjf8E57d13Tf"
+                data-description="When I moved from Michigan to Myrtle Beach, S.C., five years ago, it marked a new beginning for me. I was stepping away from 20 years in the insurance business, into a warmer climate and yearning to&hellip;"
+                data-title="The Dish on Gumbaya: A Foodie Follows a Dream"
+                data-image="http://cdn.corporate.walmart.com/dims4/WMT/20cf3fc/2147483647/resize/250x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fdf%2Fc8%2Fce94c60c4649836a5acc5bc06a32%2Fcarolina-gumbaya-in-bowl.jpg"
+                data-pinterest-image="http://cdn.corporate.walmart.com/dims4/WMT/8e1905c/2147483647/resize/750x%5E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fdf%2Fc8%2Fce94c60c4649836a5acc5bc06a32%2Fcarolina-gumbaya-in-bowl.jpg"
+                data-sharebar-classname="article-share">
+
+                <div class="fb-like" data-href="http://blog.walmart.com/us-manufacturing/20160209/the-dish-on-gumbaya-a-foodie-follows-a-dream"  data-layout="standard" data-action="like"></div>
+                </div>
+</div>
+
+        <section class="article-comments" data-bsp-comments>
+        <div class="article-post-comment">
+
+            <p class="article-post-comment-headline">
+                
+                        Be the first to comment on this article
+                    </p>
+            
+            <div class="comment-box signIn" data-id="00000152-c6bd-d300-a153-ffbf247b0000" data-provider="">
+
+                <div class="article-post-comment-login">
+    <ul class="article-post-social">
+    <li class="article-post-social-item">
+                    <a href="#" data-url="/login/facebook" data-service="facebook" data-cms-ai="5">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/google" data-service="google" data-cms-ai="5">
+                        <i class="fa fa-google-plus"></i>
+                    </a>
+                </li>
+            <li class="article-post-social-item">
+                    <a href="#" data-url="/login/linkedin" data-service="linkedin" data-cms-ai="5">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+    <h3 class="article-post-signin">Sign in to post a comment</h3>
+</div>
+
+
+
+
+
+</div>
+            
+            <div class="article-comment-list" style="display:none">
+                </div>
+
+        </div>
+    </section>
+
+<aside class="article-aside">
+                <section class="article-related">
+                    <h3 class="article-related-title">Related Stories</h3>
+                        <div class="article-related-inner" data-bsp-swapimg>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/us-manufacturing/20160125/the-science-of-making-old-clothes-new-again" data-cms-ai="5">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/9d08f81/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fc0%2F80%2F0887d790434da269958776491880%2Ftasha-lewis-and-colleague-recycle-textiles.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/a61a9d2/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2Fc0%2F80%2F0887d790434da269958776491880%2Ftasha-lewis-and-colleague-recycle-textiles.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        The Science of Making Old Clothes New Again</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/us-manufacturing/20151228/meet-the-fishpeople-keeping-seafood-and-jobs-local" data-cms-ai="5">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/4a3c066/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F73%2F42%2F2b350e174e3198967dd699e37778%2Ffish-people.PNG" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/30e67f0/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F73%2F42%2F2b350e174e3198967dd699e37778%2Ffish-people.PNG"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        Meet the Fishpeople Keeping Seafood, and Jobs, Local</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            <div class="article-related-item">
+                                        <a href="http://blog.walmart.com/us-manufacturing/20151203/bringing-wrapping-paper-home-for-the-holidays" data-cms-ai="5">
+                                            <!-- Promo Image -->
+                                                    <img src="//cdn.corporate.walmart.com/dims4/WMT/0b0cc6e/2147483647/thumbnail/192x110%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F70%2F6c%2F88430614492ca9cdeadbfb619c8f%2Frewinders-working-at-the-wrapping-paper-facility.jpg" data-swapmob="//cdn.corporate.walmart.com/dims4/WMT/45f3bcd/2147483647/thumbnail/100x100%3E/quality/90/?url=http%3A%2F%2Fcdn.corporate.walmart.com%2F70%2F6c%2F88430614492ca9cdeadbfb619c8f%2Frewinders-working-at-the-wrapping-paper-facility.jpg"/>
+                                                <div class="article-related-item-text">
+                                                    <p class="article-related-item-title">
+                                                        Bringing Wrapping Paper Home for the Holidays</p>
+                                            </div>
+                                        </a>
+                                </div>
+
+                            </div>
+                </section>
+        </aside>
+
+    </div>
+</article>
+<a class="share-button" target="_blank"  href="http://www.twitter.com/share?text=texttweet.js" data-cms-ai="0"><i class="fa fa-twitter"></i></a>
+
+                        </section>
+
+    <footer class="global-footer" id="global-footer">
+    <div class="global-footer-inner">
+            <div class="global-footer-row">
+                <div class="global-footer-col">
+                    <a href="http://corporate.walmart.com/" data-cms-ai="0">
+                        <img src="http://cdn.corporate.walmart.com/06/e3/a115cd0b4e75a83e5087c44fe880/walmart-logo.gif" width="490" height="138" class="global-footer-logo"></a>
+                        </div>
+                <div class="global-footer-col">
+                    <ul class="global-footer-linklist">
+                        <li class="global-footer-linklist-item">
+                            <a href="http://corporate.walmart.com/our-story" target="" data-cms-ai="0">Our Story</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://corporate.walmart.com/_news_/" target="" data-cms-ai="0">Newsroom</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://blog.walmart.com/" target="" data-cms-ai="0">Blog</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://giving.walmart.com/" target="" data-cms-ai="0">Community Giving</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://corporate.walmart.com/global-responsibility" target="" data-cms-ai="0">Global Responsibility</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://stock.walmart.com" target="" data-cms-ai="0">Investors</a>
+                                    </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://corporate.walmart.com/suppliers" target="" data-cms-ai="0">Suppliers</a>
+                                    </li>                                
+                        </ul>
+                    </div>
+                <div class="global-footer-col">
+                    <ul class="global-footer-linklist">
+                        <li class="global-footer-linklist-item">
+                            <a href="http://www.walmart.com" target="" data-cms-ai="0">Shop Walmart.com</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://www.samsclub.com/?pid=WalmartStores" target="" data-cms-ai="0">Shop SamsClub.com</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://careers.walmart.com/" target="" data-cms-ai="0">Walmart Careers</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://www.walmartlabs.com/" target="" data-cms-ai="0">@Walmart Labs</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://corporate.walmart.com/community/" target="" data-cms-ai="0">Walmart Community</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://www.walmartone.com" target="" data-cms-ai="0">WalmartOne.com</a>
+                                        </li>                                
+                        <li class="global-footer-linklist-item">
+                            <a href="http://www.walmartmuseum.com/" target="_blank" data-cms-ai="0">Walmart Museum</a>
+                                        </li>                                
+                        </ul>
+                    </div>
+                <div class="global-footer-col">
+                    <form action="#" class="main-nav-subscribe" data-bsp-corpsubscribe method="post" id="footer-subscribe">
+    <h3 class="main-nav-subscribe-title">Stay Informed</h3>
+    <input type="hidden" id="type" name="type" value="CORPORATE">
+    <input class="main-nav-subscribe-input" type="text" placeholder="Enter email address" name="email">
+    <button class="main-nav-subscribe-btn" type="submit"><i class="fa fa-envelope"></i></button> 
+</form>
+<div class="global-footer-social">                            
+                            <h3 class="main-nav-social-title">Follow Us</h3>
+                            <ul class="main-nav-social-list">
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://www.facebook.com/walmart" data-cms-ai="0" ><i class="fa fa-facebook"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://twitter.com/walmart" data-cms-ai="0" ><i class="fa fa-twitter"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://youtube.com/walmart" data-cms-ai="0" ><i class="fa fa-youtube-play"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="http://pinterest.com/walmart" data-cms-ai="0" ><i class="fa fa-pinterest"></i></a>
+            </li>                            
+        <li class="main-nav-social-item">
+                <a target="_blank" href="https://instagram.com/walmart/" data-cms-ai="0" ><i class="fa fa-instagram"></i></a>
+            </li>                            
+        </ul>
+</div>
+                    <!-- current locale [] -->     
+                   </div>
+            </div>
+            <div class="global-footer-bottom">    
+
+                <ul class="main-nav-microlinks">
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/privacy-security" target="" data-cms-ai="0">Privacy &amp; Security</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/privacy-security/california-privacy-rights" target="" data-cms-ai="0">California Privacy Rights</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/frequently-asked-questions" target="" data-cms-ai="0">Frequently Asked Questions</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/contact-us" target="" data-cms-ai="0">Contact Us</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/policies" target="" data-cms-ai="0">Policies</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/recalls" target="" data-cms-ai="0">Recalls</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://news.walmart.com/rss/" target="" data-cms-ai="0">RSS Feeds</a>
+        </li>                                
+    <li class="main-nav-microlinks-items">
+            <a href="http://corporate.walmart.com/terms-of-use" target="" data-cms-ai="0">Terms of Use</a>
+        </li>                                
+    </ul><p class="global-footer-copyright">&copy; 2016 Wal-Mart Stores, Inc.</p>                
+                </div>
+        </div>
+    </footer>
+<script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1006392465;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style=3D"display:inline;"><img height="1" width="1" style="border-style:none;" alt=""
+                                            src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006392465/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+<script type="text/javascript">
+    if (WMT === undefined) {
+        var WMT = {};
+    }
+    WMT.privacyPageSummaryTitle = "";
+    </script>
+
+
+
+<script>
+    var WMT_IS_MOBILE = false,
+            WMT_IS_TABLET = false,
+            WMT_MOBILE_OVERRIDE = false;
+</script>
+
+<div class="tabletvisible"></div>
+<div class="mobilevisible"></div>
+<div class="desktopvisible"></div>
+
+<!--  Start of Custom Body End Analytics -->
+<script type="text/javascript">
+  _bizo_data_partner_id = "8970";
+</script>
+<script type="text/javascript">
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8970&fmt=gif" />
+</noscript>
+<script>
+require(['/assets-bsp3/js/config.js'], function() {
+    require(['jquery'], function($) {
+       $(document).ready(function() {
+       
+          // fixes WAL-2955 and WAL-2954
+          if($('.package-grid').length){
+	     var el = $('.package-grid'),
+		url = window.location.pathname,
+		newId = url.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, '');
+		el.attr('id',newId);
+               // fixes WAL-2954
+               if (newId == "greenlightavet"){
+                   $("#"+newId).find('.package-banner').wrap('<a href="http://www.greenlightavet.com/" target="_blank"></a>');
+                }
+      }
+            if($('[data-bsp-lazybg]').length){
+                var el = $('[data-bsp-lazybg]'),
+                    lazyImg = el.find('.lazybg');
+                if (!lazyImg.length) {
+                    var src = el.find('img').attr('src');
+
+                    el.css({
+                        'background-image':'url('+src+')',
+                        'background-position':'50% 33%',
+                        'background-size':'cover'
+                    });
+                }
+            }
+
+
+            if($('[data-bsp-video-lead]').length){
+                $('[data-bsp-video-lead]').on('click','*',function(){
+                    if($('[data-bsp-video-lead] iframe').length){
+                        if($('[data-bsp-video-lead] iframe').width() == 0){
+                            var height = $('[data-bsp-video-lead] iframe').height() - 30, // height of the object - 30 px (height of control bar)
+                                ratio  = 16/9,
+                                width  = height*ratio;
+                            $('[data-bsp-video-lead] iframe').width(width);
+                        }
+                    }
+                });
+            }
+// special promo page fix
+if ($('.special-page-lede').children('style').length) {
+    var style = $('.special-page-lede').children('style').text();
+        style = style.replace('!important','');
+        style = style.replace(/;/g,' !important;');
+        $('.special-page-lede').children('style').text(style);
+}
+    
+       
+            // search fix
+            if($('#flyoutSearch').size()) {
+                $('#flyoutSearch form.main-nav-search').attr('method','GET');
+            }
+            if($('#landing-header').size()) {
+                $('#landing-header form.landing-header-search').attr('method','GET');
+            }
+
+            // walmart foundation fix - package v2
+            if($('#package_header').size()){
+                var headerlogo = $('#package_header').find('.package-header-banner').attr('src');
+                $('.package-header-mobile .package-header-mobile-logo img.global-header-logo').attr('src',headerlogo);
+            }
+
+       });
+      });
+ });
+</script>
+
+<style>
+
+.article-media-download {
+    font-size: 18px !important;
+    line-height: 42px !important;
+}
+.article-media-download i {
+    width: 45px !important;
+    height: 45px !important;
+    font-size: 24px !important;
+    line-height: 45px !important;
+}
+
+    .package-header.bsp-lazybg-item {background-position: center center !important;}
+@media only screen and (max-width: 767px) {
+        .package-lede{
+
+        }
+        .package-lede.bsp-video-lead-item .package-lede-img-bg {
+           bottom: inherit;
+            padding-top: 56.25%;
+            position: absolute;
+            overflow: hidden;
+            height: auto;
+            top: 0;
+            left: 0;
+            right: 0;
+        }
+        .package-lede.bsp-video-lead-item .package-lede-caption:before {
+            content: "\e605";
+            font-family: 'IcoMoon';
+            font-size: 60px;
+            display: block;
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+            color: #ffffff;
+            position: absolute;
+            text-align: center;
+            vertical-align: middle;
+            z-index: 0;
+            top: -80px;
+            left: 50%;
+            margin-left: -30px;
+        }
+        .package-lede.bsp-video-lead-item .package-lede-img-bg img {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+       .package-lede.bsp-video-lead-item .package-lede-caption {
+            top: 60%;
+            overflow: visible;
+       }
+       .package-lede .package-lede-caption .package-lede-caption-title {
+            font-size: 36px;
+            line-height: 40px;
+       }
+       .package-lede .package-lede-caption .package-lede-caption-more {
+            font-size: 21px;
+            line-height: 30px;
+       }
+
+       .package-lede .package-lede-caption .package-lede-caption-hr {
+            width: 100px;
+       }
+       aside.rel-links-block {
+            margin: 0 auto !important;
+            float: none;
+            padding: 20px;
+        }
+         aside.rel-links-block ul.rel-links-list {
+            margin-bottom: 0 !important;
+            padding-bottom: 0;
+        }
+    }
+ .package-grid-row .media .eyebrow {display: none ! important}
+
+
+
+/* fixing 'greenligh a vet' package page on mobile  - WAL-2955  */
+@media only screen and (max-width: 767px) {
+   #greenlightavet {
+         background-image: url(http://cdn.corporate.walmart.com/c9/7a/eb1c8d2749c9b742b86030d52ec2/greenlight-a-vet.jpg)  !important;
+        background-size :  inherit;
+         background-color: #1a202e;
+
+     }
+   /*#greenlightavet .package-grid-header {
+        min-height:90px
+    }
+   #greenlightavet .package-grid-header h1.invisible {
+       visibility: visible;
+      margin-top:20px;
+    }
+   #greenlightavet .package-grid-header h2 {
+       padding:0;
+       margin:0;
+    }*/
+}
+
+.special-page-head{
+   transition: none;
+}
+.special-page-head.fixed {
+	height: auto;
+      -webkit-transform: none;
+      -ms-transform: none;
+      transform: none;
+}
+
+.special-page-head.fixed .special-page-head-inner-bottom {
+  position: relative;
+  left: inherit;
+  bottom: inherit;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none;
+}
+
+</style><!--  End of Custom Body End Analytics -->
+<!--[if lt IE 9]>
+<script type="text/javascript">
+headerScroll();
+</script>
+    <link rel="stylesheet" type="text/css" href="/assets-bsp3/less/font-awesome-ie7.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets-bsp3/less/icomoon-ie7.css"/>
+<![endif]-->
+<script type="text/javascript" src="//blog.walmart.com/_resource/analytics.js" data-cms-main-id="00000144-4b75-d772-a54e-4b7f41ab0001,00000152-b329-d300-a153-bfbbe63b0000" data-cms-ids="[&quot;00000144-4b75-d772-a54e-4b7f41ab0001,00000152-b329-d300-a153-bfbbe63b0000&quot;,&quot;0000013f-39c2-de78-afbf-3ff7dcf00000,00000152-d271-d300-a153-fff3b20d0000&quot;,&quot;00000144-4b75-d772-a54e-4b7f41ab0001,00000152-d181-d297-a3da-dfa933a70000&quot;,&quot;00000144-4b75-d772-a54e-4b7f41ab0001,00000150-b032-dd3d-abfe-f0ffbe070000&quot;,&quot;00000144-4b75-d772-a54e-4b7f41ab0001,00000152-ccf6-d300-a153-fff671cb0000&quot;,&quot;00000144-4b75-d772-a54e-4b7f41ab0001,00000152-c6bd-d300-a153-ffbf247b0000&quot;]"></script></body>
+</html>

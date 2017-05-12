@@ -1,0 +1,58 @@
+   IFRAME:
+   [1]https://bs.serving-sys.com/BurstingPipe?cn=ot&onetagid=4378&ns=1&act
+   ivityValues=$$Session=[Session]$$&retargetingValues=$$$$&dynamicRetarge
+   tingValues=$$$$&acp=$$$$&
+
+     * [2]Winners
+     * [3]How To Play
+     * [4]Leaderboard
+     * [5]About Subway
+
+   [6]Subway
+     * [7][menu_icon.png]
+
+     * [8]Winners
+     * [9]How To Play
+     * [10]Leaderboard
+     * [11]About Subway
+
+   [12][facebook_login.png]
+   OR
+   ____________________
+   ____________________
+   Login
+
+   [X]
+
+
+   Subway Memory challenge
+   Competition is Over!
+   Vouchers
+
+How To play
+
+   Register
+   Play
+   Voucher
+
+
+   SUBWAY® is a Registered Trademark of Subway IP Inc. ©2016 Subway IP
+   Inc.
+   [13]Privacy Policy  |   [14]Terms & Condition
+
+References
+
+   1. https://bs.serving-sys.com/BurstingPipe?cn=ot&onetagid=4378&ns=1&activityValues=$$Session=[Session]$$&retargetingValues=$$$$&dynamicRetargetingValues=$$$$&acp=$$$$&
+   2. http://subwayksa-memorygame.com/winners.php
+   3. http://subwayksa-memorygame.com/how_to_play.php
+   4. http://subwayksa-memorygame.com/leaderboard.php
+   5. http://subwayksa-memorygame.com/about_us.php
+   6. http://subwayksa-memorygame.com/index.php
+   7. javascript:show_menu();
+   8. http://subwayksa-memorygame.com/winners.php
+   9. http://subwayksa-memorygame.com/how_to_play.php
+  10. http://subwayksa-memorygame.com/leaderboard.php
+  11. http://subwayksa-memorygame.com/about_us.php
+  12. javascript:fbLogin();
+  13. http://subwayksa-memorygame.com/privacy.php
+  14. http://subwayksa-memorygame.com/terms.php

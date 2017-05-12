@@ -1,0 +1,733 @@
+
+        
+    
+    
+                                                                                                                                                                                                                        
+                    
+            
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="de"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="de"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+<head>
+            <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0" />
+
+    <meta name="author" content="bento, Hamburg, Germany" />
+    <meta name="copyright" content="bento, Hamburg, Germany" />
+    <meta name="email" content="bento@bento.de" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="apple-itunes-app" content="app-id=1047226072">
+    <meta name="google-site-verification" content="DvoQZ8P2x7m-IyIQkoWYBXBEzDDm1xJKSTWPWPWiHRY" />
+    <meta http-equiv="imagetoolbar" content="no" />
+        <meta name="date" content="2015-10-05T12:41:00+02:00" />
+    <meta name="last-modified" content="2016-04-12T14:20:58+02:00" />
+    <meta name="description" content="Seit&#x20;dem&#x20;1.&#x20;Oktober&#x20;verkauft&#x20;McDonald&#x27;s&#x20;den&#x20;McB.&#x20;Ein&#x20;Burger,&#x20;der&#x20;nicht&#x20;McBio&#x20;hei&#x00DF;en&#x20;darf,&#x20;weil&#x20;er&#x20;nicht&#x20;bio&#x20;ist." />
+
+        
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@bento_de">
+    <meta name="twitter:title" content="Kann Spuren von Fake enthalten: McDonald&#039;s neuer &quot;Bioburger&quot;">
+    <meta name="twitter:creator" content="@bento_de">
+    <meta name="twitter:image" content="http://www.bento.de//upload/images/_1200x600_crop_center-center_75/mcb-mcd.jpg">
+    
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Kann Spuren von Fake enthalten: McDonald&#039;s neuer &quot;Bioburger&quot;" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/" />
+    <meta property="og:image" content="http://www.bento.de//upload/images/_1200x600_crop_center-center_75/mcb-mcd.jpg" />
+
+    
+    <script type="text/javascript" src="//p.lp4.io/app/56/5e/e9/565ee9e0e45a1d7e2fb30693.js"></script>
+
+    <title>McDonald&#039;s McB ist kein Bioburger  - Grün - bento</title>
+
+    <link href="http://www.bento.de/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon.png" rel="apple-touch-icon" sizes="57x57" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+    <link href="http://www.bento.de/images/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+    <link href="http://www.bento.de/images/icons/icon-hires.png" rel="icon" sizes="192x192" />
+    <link href="http://www.bento.de/images/icons/icon-normal.png" rel="icon" sizes="128x128" />
+    <link rel="stylesheet" type="text/css" href="http://www.bento.de/fonts/fonts.css">
+    <link rel="stylesheet" type="text/css" href="http://www.bento.de/css/craft.0ac09e5a.css">
+    <link href="http://www.bento.de/rss/feed.rss" rel="alternate" type="application/rss+xml" title="bento RSS News" />
+    
+                            <link rel="canonical" href="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/" />
+    
+        <script type="text/javascript">
+        if (typeof NativeApp !== 'undefined') {
+            (function () {
+                var head = document.getElementsByTagName("head")[0];
+                if (head) {
+                    var scriptStyles = document.createElement("link");
+                    scriptStyles.rel = "stylesheet";
+                    scriptStyles.type = "text/css";
+                    scriptStyles.href = "http://www.bento.de/css/app.css";
+                    head.appendChild(scriptStyles);
+                }
+            }());
+        }
+    </script>
+        
+    
+<script type="text/javascript">
+    var dt = 'desktop';
+    var szm_st = 'bento';
+    var szm_cp = 'bento-www-83';
+    var szm_sv = 'in';
+
+    if( /Mobile/i.test(navigator.userAgent) ){
+        dt = 'phone';
+        szm_st = 'mobbento';
+        szm_cp = 'bento-mob-83';
+                szm_sv = 'mo';
+            }
+    if( /iPad|RIM Tablet|Silk/i.test(navigator.userAgent) ) {
+        dt = 'tablet';
+        szm_st = 'bento';
+        szm_cp = 'bento-www-83';
+    }
+    if( /Android/i.test(navigator.userAgent) ) {
+        if( /Mobile/i.test(navigator.userAgent) ){
+            dt = 'phone';
+            szm_st = 'mobbento';
+            szm_cp = 'bento-mob-83';
+                        szm_sv = 'mo';
+                    }
+        else{
+            dt = 'tablet';
+        }
+    }
+
+    // iOS App
+    if (typeof NativeApp !== 'undefined' && ( /iPad/i.test(navigator.userAgent) || /iPhone/i.test(navigator.userAgent) || /iPod/i.test(navigator.userAgent) )) {
+        szm_st = 'appbento';
+        szm_cp = 'bento-app-83';
+    }
+
+    // Android App
+    if (typeof NativeApp !== 'undefined' && /Android/i.test(navigator.userAgent)) {
+        szm_st = 'aadbento';
+        szm_cp = 'bento-aad-83';
+    }
+
+    function sendSZMVideo() {
+        if(typeof NativeApp !== 'undefined' && NativeApp.hasOwnProperty("ivwIsAllowed")) { // If app with ivwIsAllowed
+            if(NativeApp.ivwIsAllowed() == true) {
+                iom.h({"st":szm_st,"cp":szm_cp+"-video","sv":"ke"},1);
+            }
+        } else { // If not app or old app
+            iom.h({"st":szm_st,"cp":szm_cp+"-video","sv":"ke"},1);
+        }
+    }
+
+    function sendSZM() {
+        if(typeof NativeApp !== 'undefined' && NativeApp.hasOwnProperty("ivwIsAllowed")) { // If app with ivwIsAllowed
+             if(NativeApp.ivwIsAllowed() == true) {
+                 iom.h(iam_data,1);
+             }
+        } else { // If not app or old app
+            iom.h(iam_data,1);
+        }
+    }
+</script>                <script type="text/javascript">
+    (function() {
+        var src = (document.location.protocol === "https:" ? "https:" : "http:") + "//imagesrv.adition.com/js/srp.js";
+        document.write('<scr' + 'ipt type="text/javascript" src="' + src + '" charset="utf-8"></scr' + 'ipt>');
+    })();
+</script>
+<script type="text/javascript">
+    var profile = {
+        themen_namen: 'grün',
+        themen_ids: '29443',
+        themen_tag: 'food',        device: dt
+    };
+</script>
+<script type="text/javascript">
+    var search = window.location.search.replace('?', '');
+    if(search != "") {
+        for(var i in search.split('&')) {
+            var pair = search.split('&')[i].split('=');
+            profile[pair[0]] = pair[1];
+        }
+    }
+</script>
+<script type="text/javascript">
+
+    function writeWebsiteTag(wp_id) {
+        var src = (document.location.protocol === "https:" ? "https:" : "http:") + "//imagesrv.adition.com/js/adition.sjs?crtgn=3335&crtgc=cto_rtt&crtgv=crtg_content&wp_id=" + wp_id,
+                prf = "";
+        for(var key in profile) {
+            prf += "&prf[" + key + "]=" + profile[key];
+        }
+        document.write('<scr' + 'ipt type="text/javascript" src="' + src + prf + '" charset="utf-8"></scr' + 'ipt>');
+    };
+
+    adition.srq.push(function(api) {
+        api.modules.configureModule('criteo').setNid(3335).setContentVariableName('criteoContent').setCookieName('cookieName').enable();
+        api.events.onPreRender(
+                function(renderSlotElement, bannerDescriptionApi, renderControlApi) {
+                    var options = bannerDescriptionApi.getOptions();
+                    if(options.wrapper == 1) {
+                        var wrapper1, wrapper2;
+                        wrapper1 = document.createElement("div");
+                        wrapper1.className = "wrapad";
+                        renderControlApi.addInnerWrapper(wrapper1);
+                        wrapper2 = document.createElement("div");
+                        wrapper2.className = "innerwrapad";
+                        renderControlApi.addInnerWrapper(wrapper2);
+                    }
+                });
+        api.registerAdfarm('ad8.adfarm1.adition.com');
+        for(var i in profile) {
+            api.setProfile(i, profile[i]);
+        }
+        var contentunits = {
+                            'top': 3279222,
+                            'right': 3279324,
+                            'bottom': 3279269,
+                            'middle': 3415909,
+                    };
+        for(var unit in contentunits) {
+            api.configureRenderSlot(unit).setContentunitId(contentunits[unit]).setRenderer('iframe');
+        }
+        api.loadNow().completeRendering();
+    });
+</script>
+    <script src="http://www.bento.de/js/plugins/jwplayer/jwplayer.js"></script>
+    <script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+</head>
+<body >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWLRT5"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NWLRT5');</script>
+<!-- End Google Tag Manager -->
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+    var iam_data = {
+        "st":szm_st,
+        "cp":szm_cp,
+        "sv":szm_sv
+    }
+    if (typeof NativeApp == 'undefined' || !NativeApp.hasOwnProperty("ivwIsSupported")) {
+        iom.h(iam_data);
+    }
+</script>
+<!--/SZM -->
+    <div id="wrapper">
+        	<header id="header">
+		    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar-header">
+            <div id="menu-button" type="button" class="" data-toggle="closed" data-target="#menu" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+            </div>
+            <div class="logo">
+                <a href="http://www.bento.de/">
+                    <img src="http://www.bento.de/images/logos/bento_172x44.png" />
+                </a>
+                            </div>
+            <div class="social-header">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/pages/Bento/969444166410405" class="facebook" target="_blank"></a>                        
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/bento_de" class="twitter" target="_blank"></a>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+        <div id="menu" class="menu closed">
+    <div class="search">
+        <form action="http://www.bento.de/suche/">
+            <input type="search" name="q" placeholder="Suche ...">
+        </form>
+    </div>
+    <div class="start">
+        <div class="menu-item" style="background-image: url(http://www.bento.de/images/icons/bento.png);">
+            <a href="http://www.bento.de/">Start</a>
+        </div>
+    </div>
+    <hr>
+        <ul class="categories">
+        <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-23.png);">
+            <a href="http://www.bento.de/themen/Videos">Videos</a>
+        </li>
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-08.png);">
+                    <a href="http://www.bento.de/musik/">Musik</a>
+                </li>
+                    
+                
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-17.png);">
+                    <a href="http://www.bento.de/future/">Future</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-04.png);">
+                    <a href="http://www.bento.de/politik/">Gerechtigkeit</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-11.png);">
+                    <a href="http://www.bento.de/gadgets/">Tech</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-05.png);">
+                    <a href="http://www.bento.de/tv/">Streaming</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-15.png);">
+                    <a href="http://www.bento.de/gefuehle/">Fühlen</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-18.png);">
+                    <a href="http://www.bento.de/queer/">Queer</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-21.png);">
+                    <a href="http://www.bento.de/style/">Style</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-02.png);">
+                    <a href="http://www.bento.de/essen/">Food</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-14.png);">
+                    <a href="http://www.bento.de/trip/">Trip</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-06.png);">
+                    <a href="http://www.bento.de/nachhaltigkeit/">Grün</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-07.png);">
+                    <a href="http://www.bento.de/art/">Art</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-09.png);">
+                    <a href="http://www.bento.de/sport/">Sport</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-Today.png);">
+                    <a href="http://www.bento.de/today/">Today</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-19.png);">
+                    <a href="http://www.bento.de/vintage/">Retro</a>
+                </li>
+                    
+                                            <li class="menu-item" style="background-image: url(/upload/icons/Menu-Icons-24-13.png);">
+                    <a href="http://www.bento.de/haha/">Haha</a>
+                </li>
+                    
+                
+            </ul>
+        <hr>
+    <ul class="categories social ">
+        <li class="menu-item" style="background-image: url(http://www.bento.de//images/icons/facebook.png);">
+            <a href="https://www.facebook.com/pages/Bento/969444166410405" target="_blank">bento auf Facebook</a>
+        </li>
+        <li class="menu-item" style="background-image: url(http://www.bento.de//images/icons/twitter.png);">
+            <a href="https://twitter.com/bento_de" target="_blank">bento auf Twitter</a>
+        </li>
+        <li class="menu-item" style="background-image: url(http://www.bento.de//images/icons/instagram.png);">
+            <a href="https://instagram.com/bento_de" target="_blank">bento auf Instagram</a>
+        </li>
+    </ul>
+    <!-- ><hr>
+      <ul class="categories links">
+                            <li class="menu-item">
+                <a href="http://www.bento.de/newsletter/">Newsletter</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/ueber-uns/">Über uns</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/faq/">FAQ</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/werbung/">Werbung</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/impressum/">Impressum</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/datenschutz/">Datenschutz</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/agb/">AGB</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/app/">App für iOS und Android</a>
+            </li>
+                    <li class="menu-item">
+                <a href="http://www.bento.de/rss/">RSS</a>
+            </li>
+              </ul> -->
+    </div>
+        <div id="menu-overlay" data-toggle="closed" data-target="#menu" aria-expanded="false"><span>Menu</span></div>
+    </div>
+	</header>
+        <div id="content">
+            	<main id="main" role="main" class="container-fluid">
+		                                
+        
+    <div class="container">
+        <div class="article-text breadcrumb no-top-bottom">
+            <div class="headerline">
+                <ol>
+                    <li>
+                        <a href="http://www.bento.de/">Startseite</a> ›
+                    </li>
+                    <li>
+                        <a href="http://www.bento.de/nachhaltigkeit/">Grün</a> ›
+                    </li>
+                    <li>
+                        <h1>McDonald&#039;s McB ist kein Bioburger</h1>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+        <div class="ad billboard">
+        <div id="top" class="adition">
+            <script type="text/javascript">
+                adition.srq.push(function(api) {
+                    api.renderSlot('top');
+                });
+            </script>
+        </div>
+    </div>
+                                <div class="container">
+                <div class="article-text no-top-bottom">
+                    <div class="image full clearfix">
+                        <img src="/upload/images/_900xAUTO_crop_center-center_75/mcb-mcd.jpg" class="img-responsive">
+                        <div class="image-source">
+
+    
+    Bild: McDonald's</div>                    </div>
+                </div>
+            </div>
+            <div class="container ">
+                <div class="ad skyscraper article hidden-xs hidden-sm">
+            <div id="right" class="adition">
+                <script type="text/javascript">
+                    adition.srq.push(function(api) {
+                        api.renderSlot('right');
+                    });
+                </script>
+            </div>
+        </div>
+                <div class="article-text opener full-opener">
+            <div class="article-badge none">
+
+            </div>
+            <p class="category"><a href="http://www.bento.de/nachhaltigkeit/">Grün</a></p>
+            <h2>Kann Spuren von Fake enthalten: McDonald&#039;s neuer &quot;Bioburger&quot;</h2>
+
+                
+
+
+    <div class="social-icons">
+        <div class="social-network social-count with-comments">
+            <div class="counter">
+                <span id="social-count" class="social-count-number">0</span>
+                <span class="hidden-xs">Shares</span>
+            </div>
+        </div>
+        <div id="facebook" class="social-network facebook with-comments">
+            <a href="http://www.facebook.com/sharer.php?u=http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/#utm_source=sharebuttons&utm_medium=facebook&utm_campaign=article" target="_blank"><span class="hidden-xs"><span class="hidden-sm">auf Facebook </span>teilen</span></a>
+        </div>
+        <div id="twitter" class="social-network twitter with-comments">
+            <a href="https://twitter.com/share?url=http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/&amp;text=Kann%20Spuren%20von%20Fake%20enthalten%3A%20McDonald%26%23039%3Bs%20neuer%20%26quot%3BBioburger%26quot%3B%20" target="_blank"><span class="hidden-xs"><span class="hidden-sm">auf Twitter </span>teilen</span></a>
+        </div>
+        <div class="social-network whatsapp visible-xs with-comments">
+            <a href="whatsapp://send?text=Kann%20Spuren%20von%20Fake%20enthalten%3A%20McDonald%26%23039%3Bs%20neuer%20%26quot%3BBioburger%26quot%3B%20%20-%20http%3A%2F%2Fwww.bento.de%2Fnachhaltigkeit%2Fmcdonalds-bioburger-ist-gar-nicht-bio-29443%2F" data-action="share/whatsapp/share">&nbsp;</a>
+        </div>
+                <div id="social-comments" class="social-network disqus with-comments">
+            <a href="#comments" onclick="dataLayer.push({'event': 'comments-button'});">
+                <span class="disqus-comment-count" data-disqus-url="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/"></span>
+            </a>
+        </div>
+            </div>
+
+            <p class="date">
+                05.10.2015, 12:41
+                <span class="updated">&middot;  Aktualisiert: 12.04.2016, 14:20</span>            </p>
+                            <div class="pre-text">
+                  Seit dem 1. Oktober verkauft McDonald&#039;s den McB. Ein Burger, der nicht McBio heißen darf, weil er nicht bio ist.
+                </div>
+                                                                <div class="authors">
+                                                            <div class="box">
+                                    <img src="/upload/autoren/_100x100_crop_center-center_75/Birte-Kohring.jpg" alt="Birte Kohring">
+                                    <a href="http://www.bento.de/autor/birte-kohring/">Birte Kohring</a>
+                                </div>
+                                                    </div>
+                                                        <div class="ad billboard">
+                    <div id="middle" class="adition">
+                        <script type="text/javascript">
+                            adition.srq.push(function(api) {
+                                api.renderSlot('middle');
+                            });
+                        </script>
+                    </div>
+                </div>
+                                                                                                                <section class="main-text  lauftext">
+                                    <p>Auf den Schürzen von McDonald's-Mitarbeitern steht jetzt: “Ich arbeite im Bioladen.” Ein gewagtes Statement. <strong>B</strong><strong>ei McDonald's gibt es keinen einzigen Bioburger. </strong>Es gibt einen neuen Burger, den McB., der damit beworben wird, dass er 100 Prozent Bio-Beef enthält. McBio dürfte er auch gar nicht heißen. Denn&nbsp;nur das Fleisch ist bio. Kein Biobrötchen, kein Biosalat, kein Biokäse.
+</p>
+                                </section>
+                                                                                                                        </div>         <div class="row">
+            <div class="image jumbo">
+                <img src="/upload/images/_1200x600_crop_center-center_75/62180320.jpg" class="img-responsive image-100" alt="">
+                <p class="image-text"> <span>
+
+    
+    (Bild: dpa/Jörg Carstensen)</span></p>
+            </div>
+        </div>
+        <div class="article-text">
+                                                                                                                            <section class="main-text  lauftext">
+                                    <p>Damit ein Produkt die Bezeichnung bio tragen darf, müssen <a href="https://www.oekolandbau.de/bio-siegel/nutzerinformationen/kontrollen/gesetzliche-grundlagen/">zahlreiche Voraussetzungen</a> nach EU-Vorschriften erfüllt werden. Der Begriff ist geschützt und wird erst nach Prüfung vergeben. Zum Beispiel&nbsp;müssen&nbsp;95 Prozent der Inhaltsstoffe des Produktes bio sein: Keine Gentechnik, artgerechte Tierhaltung und keine Pestizide sind nur einige der zu erfüllenden Vorgaben.<br>
+</p>
+<p>Christoph Wegmann ist Professor für Lebensmittelvermarktung an der HAW Hamburg. Er erklärt: <strong>“Die dürfen den nicht Bioburger nennen, weil er diese ganzen konventionellen Zutaten enthält. Deswegen heißt er auch McB. und nicht McBio.”</strong> Auf dem Plakat der Werbekampagne ist ein riesiges Bio-Siegel abgebildet. Unauffällig daneben ist ein Pfeil eingebaut, der auf das Fleisch zeigt.
+</p>
+                                </section>
+                                                                                                                        </div>         <div class="row">
+            <div class="image jumbo">
+                <img src="/upload/images/_1200x600_crop_center-center_75/plakat-mcb.jpg" class="img-responsive image-100" alt="">
+                <p class="image-text"> <span>
+
+    
+    (Bild: bento)</span></p>
+            </div>
+        </div>
+        <div class="article-text">
+                                                                                                                            <section class="main-text  lauftext">
+                                    <p>Eine Werbung, die irreführt: “Damit wird das Signal gesendet: Bei uns gibt es nachhaltige Lebensmittel, bei uns gibt es gesunde Lebensmittel. Das ist etwas Besonderes, etwas Gutes, etwas Gesundes” sagt Wegmann. <strong>Gesünder als andere Burger ist der McB. aber nicht.</strong> “Schokolade wird nicht gesünder, dadurch dass es Bioschokolade ist – die besteht aus Zucker und Fett und das ist beim Burger nicht anders.”
+</p>
+<p>“McDonald's hat immer halbwegs vernünftige Sachen im Angebot: Die Wraps, die Salate”, meint Wegmann. Allerdings gehe&nbsp;es bei den Kampagnen für gesündere Ernährung immer auch darum, den Kunden ein besseres Gefühl zu geben, wenn sie&nbsp;einen Burger essen&nbsp;– "weil es in dem Laden ja auch Salat gibt.”
+</p>
+<p>Obwohl es nicht gesünder ist, hält&nbsp;Wegmann die&nbsp;Biofleisch-Aktion für einen guten Anfang: Bio ist vorteilhaft für Tierschutz und Nachhaltigkeit. Eigentlich würde er sich von&nbsp;McDonald's aber andere Dinge&nbsp;wünschen:<strong> “Das Ungesunde sind bei McDonald's die Portionsgrößen, die Pommes – also alle frittierten Geschichten – und die Nachtische.”</strong></p>
+                                </section>
+                                                                                                                                                <div class="image full clearfix embed">
+                                        
+                                        <style>.embed-container-inst {position: relative; padding-bottom: 120%; height: 0; overflow: hidden;} .embed-container-inst iframe, .embed-container-inst object, .embed-container-inst embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+            <div class='embed-container-inst'><iframe src='//instagram.com/p/8VCPJYFfh8/embed/' frameborder='0' scrolling='no' allowtransparency='true'></iframe>
+            </div>
+                                        </div>
+                                                                                                                        <div class="image right clearfix">
+                            <img src="/upload/images/_900xAUTO_crop_center-center_75/31970/McDonalds_Plakat.jpg" class="img-responsive image-100" alt="">
+                        <p class="image-text"> <span>
+
+    
+    (Bild: bento)</span></p>
+        </div>
+                                                                                                                        <section class="main-text  lauftext">
+                                    <p>Peter Lemm von McDonald's schreibt per&nbsp;E-Mail: „<strong>Es ist richtig, dass wir keinen kompletten Bio-Burger anbieten</strong>, sehr wohl aber einen Burger mit 100% Bio-Rindfleisch. In der aktuellen Kampagne suchen wir ganz gezielt den Austausch zu dieser Aktion mit Gästen, Fans, aber auch Kritikern. Dies tun wir, wie bei McDonald's üblich, mit einem gewissen Augenzwinkern. Die Schürzen sind ein Teil dieser Kampagne und sollen ebenso zum Dialog anregen."
+</p>
+<p>Der Dialog sieht so aus: Auf <a href="https://frag.mcdonalds.de/">frag.mcdonalds.de</a> sind Kunden aufgefordert, Fragen zu stellen. Ein Kunde beschwert sich darüber, dass der Burger nicht 100 Prozent bio ist. McDonald's schreibt darauf: “Zum einen ist es uns aktuell nicht möglich, alle Zutaten in der von uns benötigten Menge, Qualität und Regelmäßigkeit aus ökologischer Landwirtschaft zu beziehen. Zum anderen können wir in unseren Küchen eine Vermischung mit konventionell erzeugter Ware nicht ausschließen. Das klappt derzeit einfach nur beim Fleisch.”
+</p>
+<p>Treffend ist daher&nbsp;der Werbespruch, den McDonald's auf die Plakate zu der Aktion druckt: <strong>"Kann Spuren von gutem Gewissen enthalten."</strong> Mehr aber auch nicht.</p><h4>Wir haben da ein paar <a href="http://www.bento.de/essen/burger-zum-selbermachen-die-besten-rezepte-auf-youtube-32754/">Burger-Rezepte für euch</a> herausgesucht.&nbsp;Hier lest ihr mehr <a href="http://www.bento.de/nachhaltigkeit/vegane-ernaehrung-tueckische-fallen-17060/">über vegane Ernährung.</a>&nbsp;</h4><h4>Außerdem: Warum fettiger <a href="http://www.bento.de/essen/my-big-fat-greek-yogurt-12664/">griechischer Joghurt</a> großartig ist.</h4>
+                                </section>
+                                                                                                                                                <div class="infobox lauftext clearfix">
+                                    <div class="color-box " style="border-color: ; background-color: #f4f4f4; color: #141414">
+                                        <h4 style="color: #141414">&lt;span style=&#039;font-size: 120%;&#039;&gt;bento Today abonnieren&lt;/span&gt;</h4>                                        <form action="http://bento.spectrm.de/bento%20Today" method="get">
+	<table border="0">
+	<tbody>
+	<tr>
+		<td align="left" style="padding-right: 8px; width: 95px;">WhatsApp
+		</td>
+		<td>
+			<input type="submit" value="Nummer eintragen" name="wa--submit" id="wa—submit" style="cursor: pointer; border: 0px solid rgb(52, 116, 14); border-radius: 0px 0px 0px 0px; font-weight: bold; text-align: center; color: rgb(255, 255, 255); background-color: #ff1946; font-size: 100%; margin-top: 8px;width: 220px;">
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</form>
+<form id="nl2go--form" action="https://app.newsletter2go.com/de/recipients/index/subscribe/" method="post" accept-charset="utf-8">
+	<table border="0" style="margin-top: 20px;">
+	<tbody>
+	<tr>
+		<td align="left" style="padding-right: 8px; width: 95px;">E-Mail
+		</td>
+		<td>
+			<input type="text" name="nl2go--mail" id="nl2go--mail" style="background: #f4f4f4; border: 1px solid #cccccc; padding: 2px; width: 220px;">
+		</td>
+	</tr>
+	<tr>
+		<td>
+		</td>
+		<td align="center"><input type="submit" value="Newsletter abonnieren" name="nl2go--submit" id="nl2go--submit" style="cursor: pointer; border: 0px solid rgb(52, 116, 14); border-radius: 0px 0px 0px 0px; font-weight: bold; text-align: center; color: rgb(255, 255, 255); background-color: #ff1946; font-size: 100%; margin-top: 8px;width: 100%;">
+			<input type="hidden" name="nl2go--key" id="nl2go--key" value="f9a696c0ceb22b1ce09db9d6a829b04df3239f2a8e95da9b2f689517cae6eca2$7412">
+			<noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href="https://www.newsletter2go.com/" title="Newsletter Software"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Newsletter Software&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+			</noscript>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</form>
+<p style="padding-top:20px;">Wir behandeln deine Daten gut und schicken dir keinen Quatsch. Der WhatsApp-Service wird unterstützt von <a style="color:" href="https://spectrm.de/">spectrm</a> — vielen Dank!
+</p>
+                                                                            </div>
+                                </div>
+                                                                                <div class="hashtags">
+                <div class="circle">
+                    <img src="http://www.bento.de/images/icons/hashtag.png" alt="">
+                </div>
+                <div class="links">
+                    <h5>Themen</h5>
+                    <p>
+                        <a href="http://www.bento.de/nachhaltigkeit/">Grün</a>,
+                                                    <a href="http://www.bento.de/themen/Food">Food</a>, 
+                                                    <a href="http://www.bento.de/themen/Gerechtigkeit">Gerechtigkeit</a>, 
+                                                    <a href="http://www.bento.de/themen/Bio">Bio</a>, 
+                                                    <a href="http://www.bento.de/themen/McDonald%27s">McDonald&#039;s</a>
+                                            </p>
+                </div>
+            </div>
+                                                </div>                             <div class="plista-container">
+            <!--DESKTOP-->
+            <div data-widget="plista_widget_belowArticle_d"></div>
+                                                        </div>
+                        <div class="article-text">
+                
+                                <div class="OUTBRAIN" data-src="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/" data-widget-id="TR_1" data-ob-template="DE_Bento" ></div><script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+                                <script type="text/javascript">
+                    if (!window.PLISTA) {
+                        window.PLISTA = {
+                            publickey: '3382d7d0f045e151f07ec33d',
+                            item: {
+                                objectid: "29443", //unique ID, alphanumeric
+                                title: "Kann\x20Spuren\x20von\x20Fake\x20enthalten\x3A\x20McDonald\x27s\x20neuer\x20\x22Bioburger\x22", //max 255 characters
+                                text: "Seit\x20dem\x201.\x20Oktober\x20verkauft\x20McDonald\x27s\x20den\x20McB.\x20Ein\x20Burger,\x20der\x20nicht\x20McBio\x20hei\u00DFen\x20darf,\x20weil\x20er\x20nicht\x20bio\x20ist.", //max 255 characters
+                                url: "http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/", //max 1024 characters
+                                img: "http://www.bento.de//upload/images/mcb-mcd.jpg", //max 255 characters
+                                category: 'Grün',
+                                published_at: 1444041660, //UNIX timestamp
+                                sponsored: 0                            },
+                            categories: ['Food&#039;,&#039; Gerechtigkeit&#039;,&#039; Bio&#039;,&#039; McDonald&#039;s'] //optional: additional categories, otherwise leave empty
+                        };
+                        (function(){var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];s.async='async';s.type='text/javascript';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';s0.parentNode.insertBefore(s,s0)}());
+                    }
+                </script>
+                                        <div id="comments" class="comments">
+                    <div class="circle hidden-xs">
+                        <img src="http://www.bento.de/images/icons/chat2-white.png">
+                    </div>
+                    <div class="links">
+                        <span class="disqus-comment-count" data-disqus-url="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/"></span>
+                        <h5>Was denkst du?</h5>
+                    </div>
+                    <div id="disqus_thread"></div>
+<script type="text/javascript">
+        var disqus_shortname = 'bentobento';
+
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+                </div>
+                            
+
+
+    <div class="social-icons">
+        <div class="social-network social-count with-comments">
+            <div class="counter">
+                <span id="social-count" class="social-count-number">0</span>
+                <span class="hidden-xs">Shares</span>
+            </div>
+        </div>
+        <div id="facebook" class="social-network facebook with-comments">
+            <a href="http://www.facebook.com/sharer.php?u=http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/#utm_source=sharebuttons&utm_medium=facebook&utm_campaign=article" target="_blank"><span class="hidden-xs"><span class="hidden-sm">auf Facebook </span>teilen</span></a>
+        </div>
+        <div id="twitter" class="social-network twitter with-comments">
+            <a href="https://twitter.com/share?url=http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/&amp;text=Kann%20Spuren%20von%20Fake%20enthalten%3A%20McDonald%26%23039%3Bs%20neuer%20%26quot%3BBioburger%26quot%3B%20" target="_blank"><span class="hidden-xs"><span class="hidden-sm">auf Twitter </span>teilen</span></a>
+        </div>
+        <div class="social-network whatsapp visible-xs with-comments">
+            <a href="whatsapp://send?text=Kann%20Spuren%20von%20Fake%20enthalten%3A%20McDonald%26%23039%3Bs%20neuer%20%26quot%3BBioburger%26quot%3B%20%20-%20http%3A%2F%2Fwww.bento.de%2Fnachhaltigkeit%2Fmcdonalds-bioburger-ist-gar-nicht-bio-29443%2F" data-action="share/whatsapp/share">&nbsp;</a>
+        </div>
+                <div id="social-comments" class="social-network disqus with-comments">
+            <a href="#comments" onclick="dataLayer.push({'event': 'comments-button'});">
+                <span class="disqus-comment-count" data-disqus-url="http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/"></span>
+            </a>
+        </div>
+            </div>
+        </div>
+    </div>
+            <div class="ad billboard">
+        <div id="bottom" class="adition">
+            <script type="text/javascript">
+                adition.srq.push(function(api) {
+                    api.renderSlot('bottom');
+                });
+            </script>
+        </div>
+    </div>
+    	</main>
+        
+        </div>
+            	<footer id="footer" class="container">
+        <div class="footer-menu">
+                                <a href="http://www.bento.de/newsletter/">Newsletter</a>
+                        <a href="http://www.bento.de/ueber-uns/">Über uns</a>
+                        <a href="http://www.bento.de/faq/">FAQ</a>
+                        <a href="http://www.bento.de/werbung/">Werbung</a>
+                        <a href="http://www.bento.de/impressum/">Impressum</a>
+                        <a href="http://www.bento.de/datenschutz/">Datenschutz</a>
+                        <a href="http://www.bento.de/agb/">AGB</a>
+                        <a href="http://www.bento.de/app/">App für iOS und Android</a>
+                        <a href="http://www.bento.de/rss/">RSS</a>
+                </div>
+        <div class="text-right">
+        Made with <span class="heart">&nbsp;</span> in Hamburg
+        </div>
+	</footer>
+        </div>
+    <script src="http://www.bento.de/js/master.min.f96031c6.js"></script>
+    
+    <script type="text/javascript">
+
+                    var disqus_shortname = 'bentobento';
+
+            (function () {
+                var s = document.createElement('script'); s.async = true;
+                s.type = 'text/javascript';
+                s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+            }());
+        
+        $(document).ready(function() {
+            url = "http://www.bento.de/nachhaltigkeit/mcdonalds-bioburger-ist-gar-nicht-bio-29443/";
+            //var counter = $('#social-count');
+            var counter = $('.social-count-number');
+
+            // Get Number of Facebook Shares
+            $.getJSON('http://graph.facebook.com/'+url,
+                function(data) {
+                    counter.html( parseInt(counter.html()) + (data.shares||0) );
+                }
+            );
+
+            
+                                                                                                                                                                                                                                                                                                                                                                                                                        
+                    });
+    </script>
+
+    
+                                                                                                                                                                                        
+    
+</body>
+</html>

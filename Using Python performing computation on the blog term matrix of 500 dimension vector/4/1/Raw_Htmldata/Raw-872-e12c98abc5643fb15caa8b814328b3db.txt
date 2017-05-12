@@ -1,0 +1,2304 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en-us" lang="en-us">
+<meta charset="UTF-8" />
+<head id="ctl00_Head1"><meta http-equiv="Page-Enter" content="blendTrans(Duration=0.2)" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<script src="//media.mercola.com/assets/js/jquery_all_min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//media.mercola.com/assets/js/jquery.mmenu.min.all.js"></script>  
+<script src="//media.mercola.com/assets/js/responsivescriptscs.js" type="text/javascript"></script>
+<script src="//media.mercola.com/js/MercolaScript.js" type="text/javascript"></script>
+<script type="text/javascript" src="//media.mercola.com/themes/mercola/js/FBShare.js" ></script> 
+<title>
+What Happens When You Eat a McDonald’s Hamburger?
+</title><meta name="keywords" content="mcdonalds hamburger meat, mcdonalds hamburger, mcdonalds hamburger ingredients" />
+<meta name="rank-words" content="mcdonalds hamburger meat, mcdonalds hamburger, mcdonalds hamburger ingredients" />
+<meta name="description" content="Experiments found that McDonald’s hamburger does not decompose even after several years – what’s exactly in these patties and how do they affect your health?" />
+<meta name="GENERATOR" content="CommunityServer 2008.5 SP1 (Debug Build: 31106.3070)" />
+<link rel="canonical" href="http://articles.mercola.com/mcdonalds-hamburger.aspx" />
+<link rel="pingback" href="http://articles.mercola.com/sites/articles/pingback.aspx" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Articles (RSS 2.0)" href="http://articles.mercola.com/sites/articles/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Articles - All Comments (RSS 2.0)" href="http://articles.mercola.com/sites/articles/rsscomments.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="What Happens to Your Body When You Eat a McDonald’s Hamburger? - Comments for this post (RSS 2.0)" href="http://articles.mercola.com/sites/articles/rsscomments.aspx?PostID=710452"  />
+<link rel="alternate" type="application/rss+xml" title="Dr. Mercola&#39;s Announcements (RSS 2.0)" href="/members/Dr.-Mercola/announcements/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Dr. Mercola&#39;s Comments (RSS 2.0)" href="/members/Dr.-Mercola/comments/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Dr. Mercola&#39;s Activities (RSS 2.0)" href="/members/Dr.-Mercola/activities/rss.aspx"  />
+<link rel="alternate" type="application/rss+xml" title="Dr. Mercola&#39;s Friends Activity (RSS 2.0)" href="/members/Dr.-Mercola/activities/friendrss.aspx"  />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="cleartype" content="on">
+<!-- Responsive and mobile friendly stuff -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<link rel="stylesheet" href="//media.mercola.com/themes/mercola/style/html5reset.css" type="text/css" media="screen,print" /> 
+<link rel="stylesheet" href="//media.mercola.com/assets/css/global.css" type="text/css" media="screen,print" /> 
+<link rel="stylesheet" href="//media.mercola.com/themes/mercola/style/mercola-common.css" type="text/css" media="screen,print" />
+<!-- Responsive Stylesheets -->
+<link rel="stylesheet" media="screen and (min-width: 1075px)" href="//media.mercola.com/themes/mercola/style/1024.css"> 
+<link rel="stylesheet" media="screen and (max-width: 1074px)" href="//media.mercola.com/themes/mercola/style/768.css">
+<link rel="stylesheet" media="screen and (max-width: 480px)" href="//media.mercola.com/themes/mercola/style/480.css">
+<link rel="stylesheet" media="screen and (max-width: 1074px)" href="//media.mercola.com/assets/css/jquery.mmenu.all.css">
+<link rel="stylesheet" href="//media.mercola.com/themes/mercola/style/common_print.css?ver=2" type="text/css" media="print" />
+<link href="//media.mercola.com/assets/css/jquery-ui.css" rel="stylesheet" type="text/css" media="screen,print" />
+<link href="//media.mercola.com/themes/mercola/style/fbshare.css?ver=2" rel="stylesheet" type="text/css" media="screen,print"/>
+<link href="https://plus.google.com/115368046333051398541" rel="publisher" />
+<!-- Start Visual Website Optimizer Code -->
+<script type='text/javascript'>
+var _vis_opt_account_id = 25897;
+var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+document.write('<s' + 'cript src="' + _vis_opt_protocol + 
+'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
++encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+</script>
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 
+'d5phz18u4wuww.cloudfront.net/vis_opt_no_jquery.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+</script>
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+_vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+}
+</script>
+<!-- End Visual Website Optimizer Code -->
+<!-- Mercola Google Analytics  -->
+<script src="//media.mercola.com/assets/js/contentsearch.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4724378-1']);
+_gaq.push(['_setDomainName', '.mercola.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Mercola Google Analytics -->
+<script language="javascript" type="text/javascript" src="//media.mercola.com/themes/mercola/js/email-counter-articles.js"> </script>
+<script type="text/javascript" src="//media.mercola.com/assets/js/sharevideo.js"></script>
+<script src="//media.mercola.com/assets/js/seosubscriptionbox.js" type="text/javascript"></script>
+<script type="text/javascript" src="//media.mercola.com/themes/mercola/js/jquery.responsiveiframe.js"></script>
+<link rel="image_src" href="https://media.mercola.com/ImageServer/Public/2015/June/what-happens-mcdonalds-burger-fb.jpg" />
+<meta id="ctl00_HeaderRegion_MetaOGImage" property="og:image" content="https://media.mercola.com/ImageServer/Public/2015/June/what-happens-mcdonalds-burger-fb.jpg"></meta>
+<meta id="ctl00_HeaderRegion_MetaCSPinitImage" name="cspinitimage" content="http://media.mercola.com/assets/images/mercola-preview.gif"></meta>
+<meta id="ctl00_HeaderRegion_MetaOGTitle" property="og:title" content="What Happens When You Eat a McDonald’s Hamburger?"></meta>
+<meta property="og:type" content="article" />
+<meta id="ctl00_HeaderRegion_MetaOGUrl" property="og:url" content="http://articles.mercola.com/mcdonalds-hamburger.aspx"></meta>
+<meta id="ctl00_HeaderRegion_MetaOGDescription" property="og:description" content="Experiments found that McDonald’s hamburger does not decompose even after several years – what’s exactly in these patties and how do they affect your health?"></meta>
+<meta property="og:site_name" content="Mercola.com" />
+<meta id="ctl00_HeaderRegion_MetaAppID" property="fb:app_id" content="366062120070531"></meta>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@mercola" />
+<meta name="twitter:creator" content="@mercola" />
+<meta name="twitter:domain" content="Articles.Mercola.com" />
+<meta id="ctl00_HeaderRegion_MetaTwitterTitle" name="twitter:title" content="What Happens When You Eat a McDonald’s Hamburger?"></meta>
+<meta id="ctl00_HeaderRegion_MetaTwitterDescription" name="twitter:description" content="Experiments found that McDonald’s hamburger does not decompose even after several years – what’s exactly in these patties and how do they affect your health?"></meta>
+<meta id="ctl00_HeaderRegion_MetaTwitterImage" name="twitter:image:src" content="https://media.mercola.com/ImageServer/Public/2015/June/what-happens-mcdonalds-burger-fb.jpg"></meta>
+<meta id="ctl00_HeaderRegion_MetaTwitterUrl" name="twitter:url" content="http://articles.mercola.com/sites/articles/archive/2098/12/31/mcdonalds-hamburger.aspx"></meta>
+<meta name="fragment" content="!" />
+<link rel="stylesheet" href="//media.mercola.com/themes/mercola/style/mercola-blog.min.css" type="text/css" media="screen,print" />
+<!--[if IE 9]>
+<link rel="stylesheet" href="//media.mercola.com/themes/mercola/style/mercola-blog-ie9.css" type="text/css" media="screen" />
+<![endif]-->
+</head>
+<body>
+<!-- SiteCatalyst code version: H.25.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript" src="//media.mercola.com/Assets/js/omniture/sitecatalyst/mercola_s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.server = document.domain;
+s.channel = document.domain.substring(0, document.domain.indexOf("."));
+/* Start of successful NL subscription code */
+var subscriptionSource = s.getQueryParam('prop2');
+if (subscriptionSource != "") {
+subscriptionSource = unescape(subscriptionSource);
+s.prop2 = subscriptionSource.toLowerCase();
+}
+/* end of successful NL subscription code */
+/* Start of successful registration code */
+var registrationEvent = s.getQueryParam('events');
+if (registrationEvent != "") {
+registrationEvent = unescape(registrationEvent);
+s.events = registrationEvent.toLowerCase();
+}
+/* end of successful registration code */
+/*Page Naming configuration*/
+s.siteID = document.domain.substring(0, document.domain.indexOf("."));
+s.defaultPage = "";
+s.queryVarsList = "";
+s.pathExcludeDelim = ";";
+s.pathConcatDelim = ":";
+s.pathExcludeList = "";
+if (!s.pageType && !s.pageName)
+s.pageName = s.getPageName();
+s.prop18 = "710452";
+s.eVar4 = "710452";
+//--></script>
+<!---->
+<script language="JavaScript" type="text/javascript">
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="//mercola.122.2o7.net/b/ss/mcmercolaglobalreport/1/H.25--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25. -->
+<div>
+<form name="aspnetForm" method="post" action="/mcdonalds-hamburger.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_sm_ToolkitScriptManager1_HiddenField" id="ctl00_sm_ToolkitScriptManager1_HiddenField" value="" />
+</div>
+<script src="/WebResource.axd?d=CnSJfZVp8GQSAlcpmJIkfM5CDof4ZXr6fXBkBL2TFlAr_4EVIao-jL0jIJemsDzbEbaaNkjzJcfY-uZROltbZt_a8RrN1tPNwVcD0BvgG59uNwv9-QyNHHdD4iIguSuvy0fIs3OC2DvfEcUMoc4YJj50Hlo1&amp;t=633683741508873106" type="text/javascript"></script>
+<script src="/WebResource.axd?d=wSetBSsQEnDDmjhz9sA-n3bkTME9rAWMEnPJFBw1aBtwUnMAq7MC2Hko6NrjeWWzlZRGfLbvRaYS5HEP4DJJI-srM6y2zsPrTo1MNfqsAh5e45zF2FzfHxM_vntIWhzW6ZlSB0Pf7aDp0iAiCpSV1aB6ZkI1&amp;t=633683741508873106" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XLRs1amTzTs8hcuN-ReIBJ8__FMS3wWws8vcnbAnNeKcuSsZFW0TW-rqF2HuaunWW9C5cfyyA-oct-3cnQyzsWEm13obonXTqDfSKEXRz9-fPYc8Ddnwc9IhGTcKil6In6dKpfZQKx77JPq1ni3aLbuCqOI1&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+var p = this.get_path();
+if (p) return p;
+else return PageMethods._staticInstance.get_path();},
+UpdateClickCount:function(id,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'UpdateClickCount',false,{id:id},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { return PageMethods._staticInstance.get_path(); }
+PageMethods.set_timeout = function(value) { PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_path("/themes/blogs/mercola/post.aspx");
+PageMethods.UpdateClickCount= function(id,onSuccess,onFailed,userContext) {PageMethods._staticInstance.UpdateClickCount(id,onSuccess,onFailed,userContext); }
+//]]>
+</script>
+<div id="prepageFilter" class="ProgressPnlClass" style="display: none;">
+</div>
+<div id="prepage" class="ProgressMsgClass" style="display: none;">
+<div class="modalHolder">
+<div class="loading">
+<div class="marginDiv">
+<img src="//media.mercola.com/themes/mercola/images/loading1.gif" alt="Loading"
+title="Loading" align="absmiddle" class="imgRSpace" />
+<strong style="margin-left: 20px;">Loading Please Wait</strong>
+</div>
+</div>
+</div>
+</div>
+<div id="page">
+<div id="headcontainer" class="mm-fixed-top">
+<header class="fix-width">
+<div id="logo">
+<a href="http://www.mercola.com/">
+<img src="//media.mercola.com/assets/images/mercola-logo-responsive.png" alt="Mercola.com" border="0"></a>
+<div id="toll-free" class="notmobile">
+Call Toll Free: <strong>877-985-2695</strong>
+</div>
+</div>
+<div id="trigger-menu" class="mobile">
+<a id="responsive-menu-button" href="#menu"><img src="//media.mercola.com/assets/images/menuicon.png" width="36" height="36" /> </a>
+</div>
+<div id="trigger-search" class="mobile">
+<a href="#" class="search-icon"><img src="//media.mercola.com/assets/images/search-icon.png" width="35" height="35" /> </a>
+</div>
+<div id="loginframe" class="dontprint">
+<script type="text/javascript">
+function redirection(LoginLink) {
+window.location = LoginLink + window.location.href;
+}
+</script>
+<iframe src="//login.mercola.com/uninav/Loginwww.aspx?source=articles.mercola.com&ReturnUrl=http://articles.mercola.com/mcdonalds-hamburger.aspx" frameborder="0"  name="myInlineFrame" width="100%" height="40" scrolling="no"></iframe>
+</div>
+<div id="search" class="dontprint">
+<a onclick="RedirectToValidSearch('qmaster','1','article')" class="button action blue mercola-search">
+<span class="icon-magnifier"></span>
+</a>
+<div class="search-textbox">	
+<input id="qmaster" type="text" maxlength="255" class="SearchTxtBox" value="Search Mercola.com" style="color:#888"  onfocus="inputFocus(this)" onblur="inputBlur(this)"
+name="qmaster" onkeypress="return TrapEnterKeyForValidSearch(event,'qmaster','article')" accesskey="s"
+tabindex="1" />
+</div>
+</div>
+<div id="social-media" class="notmobile">
+<div class="social-text">Follow <br>Dr. Mercola</div>
+<div class="social-nav"> 
+<ul>
+<li class="nav-fb"><a href="https://www.facebook.com/doctor.health" target="_blank"></a></li>
+<li class="nav-twitter"><a href="https://twitter.com/mercola" target="_blank"></a></li>
+<li class="nav-yt"><a href="http://www.youtube.com/mercola" target="_blank"></a></li>
+<li class="nav-ig"><a href="http://instagram.com/drmercola" target="_blank"></a></li>
+<li class="nav-google"><a href="https://plus.google.com/+JosephMercolaDr?rel=author" target="_blank"></a></li>
+<li class="nav-pin"><a href="http://pinterest.com/mercola/" target="_blank"></a></li>
+<li class="nav-rss"><a href="http://articles.mercola.com/sites/articles/rss.aspx"></a></li>
+</ul>
+</div>
+</div>
+</header>  
+</div>
+<div id="sidr-navigation" class="dontprint">
+<div id="navcontainer">
+<nav id="main" class="fix-width">
+<ul id="mainnav">
+<li> <a href="http://www.mercola.com/" class="active"> Health </a></li>
+<ul id="subnav" class="subnav">
+<li id="healthartlinktag" class="jquerydrop"> <a href="http://articles.mercola.com" class="drop" > Health Articles </a>
+<div id="droparticles" class="drop-articles"><!-- Begin 'Articles' sub unav drop-->
+<div class="col-latest">
+<div class="title">Latest Health Articles</div>
+<span><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/foods-for-kidney-health.aspx" id="lnkThumbnail-756609" runat="server" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/2016/February/Thumbnail/urine-color.jpg"id="imgThumbnail-756609" runat="server" width="90" height="65" alt="Urine Color" /></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/foods-for-kidney-health.aspx" id="lnkArticle-756609" runat="server">How to Prevent and Treat Kidney Problems With Food</a></p><span>February 15, 2016</span></div></div><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/fiber-benefits.aspx" id="lnkThumbnail-756630" runat="server" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/2016/February/Thumbnail/fiber-rich-vegetables.jpg"id="imgThumbnail-756630" runat="server" width="90" height="65" alt="high fiber vegetables" /></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/fiber-benefits.aspx" id="lnkArticle-756630" runat="server">Boost Your Lung Health and Other Surprising Benefits of Eating More Fiber</a></p><span>February 15, 2016</span></div></div><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/health-benefits-carrots.aspx" id="lnkThumbnail-756803" runat="server" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/2016/February/Thumbnail/health-benefits-carrots.jpg"id="imgThumbnail-756803" runat="server" width="90" height="65" alt="health benefits carrots" /></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/15/health-benefits-carrots.aspx" id="lnkArticle-756803" runat="server">What Are Carrots Good For?</a></p><span>February 15, 2016</span></div></div>
+</span>
+</div>
+<div class="col-cat">
+<div class="title">Categories</div>
+<ul>
+<li><a href="http://aspartame.mercola.com/">Aspartame </a></li>
+<li><a href="http://cancer.mercola.com/">Cancer</a></li>
+<li><a href="http://fluoride.mercola.com/">Fluoride</a></li>
+<li><a href="http://fructose.mercola.com/">Fructose/Sugar</a>	</li>
+<li><a href="http://gmo.mercola.com/">GMO</a></li>
+<li><a href="http://mercury.mercola.com/">Mercury Free Dentistry </a></li>
+<li><a href="http://nutritionaltype.mercola.com/">Nutritional Typing</a></li>
+<li><a href="http://vaccines.mercola.com/">Vaccines </a></li>
+<li><a href="http://vitamind.mercola.com/">Vitamin D</a></li>
+<li><a href="http://articles.mercola.com/sites/Articledirectory.aspx"><b>See All Categories</b></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li  id="healthvidlinktag"> <a href="http://articles.mercola.com/videos.aspx" class="drop"> Health Videos </a>
+<div id="dropvideos" class="drop-videos"><!-- Begin 'Videos' sub unav drop-->
+<div class="col-latest">
+<div class="title">Latest Health Videos</div>
+<span><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/14/vitamin-d-autism.aspx" id="lnkThumbnail-755404" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/videothumb/755404.jpg" id="imgThumbnail-755404" width="90" height="65" alt="New Discoveries May Unlock the Link Between Vitamin D Deficiency and Autism"></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/14/vitamin-d-autism.aspx" id="lnkArticle-755404">Dr. Mercola & Rhonda Patrick on Vitamin D and Its Benefits</a></p><span>February 14, 2016</span></div></div><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/08/amazing-health-benefits-dark-chocolate.aspx" id="lnkThumbnail-754478" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/videothumb/754478.jpg" id="imgThumbnail-754478" width="90" height="65" alt="The Amazing Health Benefits of Dark Chocolate"></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/08/amazing-health-benefits-dark-chocolate.aspx" id="lnkArticle-754478">A Healthy Chocolate Snack</a></p><span>February 8, 2016</span></div></div><div class="art-item"><div class="art-thumb"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/07/metabolic-theory-cancer.aspx" id="lnkThumbnail-753799" rel="nofollow"><img src="//media.mercola.com/ImageServer/Public/videothumb/753799.jpg" id="imgThumbnail-753799" width="90" height="65" alt="The Metabolic Theory of Cancer and the Key to Cancer Prevention and Recovery"></a></div><div class="art-desc"><p class="art-title"><a href="http://articles.mercola.com/sites/articles/archive/2016/02/07/metabolic-theory-cancer.aspx" id="lnkArticle-753799">Dr. Mercola & Travis Christofferson on the Metabolic Theory of Cancer</a></p><span>February 7, 2016</span></div></div>
+</span>     
+<p class="view-vids"><a href="http://articles.mercola.com/videos.aspx" rel="nofollow">View All Health Videos</a></p>
+</div>
+</div>
+</li>
+<li id="healthguidelinktag"> <a href="#" class="drop"> Health Guides </a> 
+<div id="dropguides" class="drop-guides">
+<div class="col-cat">
+<ul>
+<li><a href="http://articles.mercola.com/healthy-body-hacks.aspx">Body Hacks</a></li>
+<li><a href="http://articles.mercola.com/common-health-questions.aspx">Common Health Questions</a></li>
+<li><a href="http://www.mercola.com/downloads/bonus/free-reports.htm">E-books</a></li> 
+<li><a href="http://foodfacts.mercola.com/">Food Facts</a></li>
+<li><a href="http://articles.mercola.com/herbal-oils.aspx">Herbal Oils</a></li>
+<li><a href="http://www.mercola.com/infographics.htm">Infographics</a></li>
+<li><a href="http://recipes.mercola.com/">Recipes</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li> <a href="http://www.mercola.com/forms/background.htm"> About Dr. Mercola </a> </li>
+<li> <a href="http://shop.mercola.com/catalog/top-products,388,9,0.htm" class="cart"> Shop for Health Products </a> </li>
+<div class="clear"></div>
+</ul>
+<li>  <a href="http://healthypets.mercola.com"> Pets </a> </li>
+<li>  <a href="http://fitness.mercola.com"> Fitness </a> </li>
+<li>  <a href="http://shop.mercola.com"> Shop </a> </li>
+<li>  <a href="http://shop.mercola.com/pages/ContactUs.aspx"> Contact Us </a> </li>
+<li class="mobile"> <a href="http://shop.mercola.com/pages/FAQ.aspx" target="_parent">FAQ</a> </li>
+<li class="mobile"><a href="https://login.mercola.com/login.aspx?ReturnUrl=http://articles.mercola.com/mcdonalds-hamburger.aspx" target="_parent">Sign in</a></li>
+<li class="mobile"><a href=" https://login.mercola.com/join/?ReturnUrl=http://articles.mercola.com/mcdonalds-hamburger.aspx&source=Articles" target="_parent">Join</a> </li>
+<div class="clear"></div>
+</ul>
+</nav> 
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".hide").click(function() {
+$("#header-subscribe").slideUp()
+});
+});
+</script>
+<div id="header-subscribe" class="fix-width notmobile dontprint">
+<div class="subscribe-title">
+Subscribe to The World's #1 Natural Health Website<span>†</span>
+</div>
+<div class="subscribe-box">	
+<script type="text/javascript">
+$(document).ready(function() {
+$('.jquerydrop').hover(function() { $("#ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_emailAddress").blur(); });
+});
+</script>
+<div class="subscribe-txtbox">	
+<input name="ctl00$NewsletterSubscriptionHidethisControl$NewsletterSubscriptionTop$emailAddress" type="text" value="Enter your email address" maxlength="100" id="ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_emailAddress" onfocus="javascript:if(this.value=='Enter your email address'){this.value=''}" onblur="javascript:if(this.value==''){this.value='Enter your email address'}" onkeypress="return ContinueSubscription(event,'ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_Subscribe','ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_emailAddress')" />
+</div>
+<div Style="display: none;">
+<span id="ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_Loding" class="MsgBoardStyle" style="display: none;
+font-size: 14px; padding-top: 8px;">Loading Please Wait</span>
+<img src="/themes/mercola/images/loadingDotDot.gif" id="ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_wheel" alt="Loading Please Wait" style="display: none" />
+</div>
+<input type="submit" name="ctl00$NewsletterSubscriptionHidethisControl$NewsletterSubscriptionTop$Subscribe" value="Subscribe Now!" onclick="return showprogress('ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_Loding','ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_wheel','ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_Subscribe','ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_emailAddress');" id="ctl00_NewsletterSubscriptionHidethisControl_NewsletterSubscriptionTop_Subscribe" class="button action blue subscribe-btn" />
+</div>
+<div id="hide">
+Hide this
+<div class="hide-btn"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="maincontentcontainer">
+<div id="promo-banner"></div>
+<div id="maincontent" class="fix-width">
+<div class="pad">
+<script type="text/javascript">        if (typeof window.JSON === 'undefined') { document.write('<script src="//media.mercola.com/js/json2.js"><\/script>'); }</script>
+<script src="//media.mercola.com/js/jquery.history.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function(window, undefined) {
+// Check Location
+if (document.location.protocol === 'file:') {
+// alert
+('The HTML5 History API (and thus History.js) do not work on files, please upload it to a server.');
+}
+var initialURL;
+var popped = (window.history.state != null), initialURL = location.href;
+window.onpopstate = function(event) {
+var counter = 0;
+var everPushedSomething = false;
+var initialLoad = document.getElementById('hdninitiaload').value;
+var onloadPop = !everPushedSomething && location.href == initialURL;
+if (onloadPop) { counter = 1; }
+if (initialLoad == 'true') { counter = counter + 1; }
+everPushedSomething = true;
+if (counter != 2) { window.open(location.href, '_self'); }
+}
+// Bind to State Change
+History.Adapter.bind(window, 'statechange', function() { // Note: We are using statechange instead of popstate
+// Log the State
+var State = History.getState(); // Note: We are using History.getState() instead of event.state
+//    History.log('statechange:', State.data, State.title, State.url);
+});
+})(window);
+</script>
+<script type="text/javascript">
+function Click(cnt) {
+PageMethods.UpdateClickCount(cnt.id);
+}
+</script>
+<input id="hdninitiaload" type="hidden" value="true" />
+<div id="side-panel">
+<div id="ctl00_tr_UpdPnlStory">
+<div id="ctl00_tr_pnlStoryAtAGlance">
+<div id="ctl00_tr_divStoryImage" class="dontprint">
+<img id="ctl00_tr_imgStory" src="http://media.mercola.com/ImageServer/Public/2098/December/mcdonalds-burger.jpg" alt="mcdonalds burger" style="border-width:0px;" />
+</div>
+<div class="story-glance container">
+<h3 id="expanderHead">
+Story at-a-glance <span id="expanderSign" class="mobile">+</span>
+</h3>
+<div id="expanderContent">
+<ul>
+<li>
+<span id="ctl00_tr_rptStory_ctl01_cslStory" cssclsas="story-list">McDonald’s sells 75 hamburgers every second, amounting to over 2.36 billion burgers per year – roughly the equivalent of eating a million cows</span>
+</li>
+<li>
+<span id="ctl00_tr_rptStory_ctl02_cslStory" cssclsas="story-list">However, there have been disturbing reports of McDonald’s hamburgers that do not decompose or rot for weeks, months, or even years after they’ve been cooked</span>
+</li>
+<li>
+<span id="ctl00_tr_rptStory_ctl03_cslStory" cssclsas="story-list">In March 2015, McDonald’s announced that they are going to be buying only chicken raised without antibiotics important to human medicine; However, they still do not have plans to make any changes to their meat, which come from factory farms or confined animal feeding operations (CAFOs)</span>
+</li>
+<li>
+<span id="ctl00_tr_rptStory_ctl04_cslStory" cssclsas="story-list">Just like its hamburgers, McDonald’s Chicken McNuggets and McRib pork sandwich also came under fire because of their questionable synthetic ingredients; McDonald’s fries sold in American stores were also found to contain toxic ingredients</span>
+</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+function pageLoad(sender, args) {
+try { setBrowserNextPrev(); } catch (e) { }
+try { hideSidePanel(); } catch (e) { }
+try {
+var oldUrl = $('#loginframe iframe').prop('src').substr(5);
+var newUrl = oldUrl.replace(GetParamFromURL(oldUrl, 'ReturnUrl'), window.location.protocol + '//' + window.location.host + window.location.pathname);
+var oldframe = $('#loginframe iframe').prop('outerHTML');
+var newframe = oldframe.replace(oldUrl.replace('&', '&amp;'), newUrl);
+$('#loginframe iframe').remove();
+$('#loginframe').prepend(newframe);
+} catch (e) { }
+try {
+if (args.get_isPartialLoad()) {
+ReloadSocialWidgets();
+changePrevNextClass();
+}
+else {
+try { SetExpandAndCollapse(); } catch (e) { }
+}
+}
+catch (e) {
+console.log('PageLoad Exception Log: ' + e);
+}
+}
+function GetURLParam(name) {
+var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+if (results == null) {
+return null;
+}
+else {
+return results[1] || 0;
+}
+}
+function GetParamFromURL(url, name) {
+var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(url);
+if (results == null) {
+return null;
+}
+else {
+return results[1] || 0;
+}
+}
+function setBrowserNextPrev() {
+//Display button for full postback for ie 9 and below version only
+if (getInternetExplorerVersion() <= 9 && getInternetExplorerVersion() != -1) {
+document.getElementById('divPreviousbutton').style.display = 'none';
+document.getElementById('ieBrowser').style.display = 'block';
+document.getElementById('divPreviousbutton1').style.display = 'none';
+document.getElementById('ieBrowser1').style.display = 'block';
+document.getElementById('divPreviousbutton2').style.display = 'none';
+document.getElementById('ieBrowser2').style.display = 'block';
+}
+else {
+document.getElementById('ieBrowser').style.display = 'none';
+document.getElementById('divPreviousbutton').style.display = 'block';
+document.getElementById('ieBrowser1').style.display = 'none';
+document.getElementById('divPreviousbutton1').style.display = 'block';
+document.getElementById('ieBrowser2').style.display = 'none';
+document.getElementById('divPreviousbutton2').style.display = 'block';
+}
+}
+function SetExpandAndCollapse() {
+jQuery(document).ready(function() {
+//Rebind scripts
+$("#expanderHead").click(function() {
+if (checkBreakPointMobile()) {
+$("#expanderContent").slideToggle();
+if ($("#expanderSign").text() == "+") {
+$("#expanderSign").html("−")
+}
+else {
+$("#expanderSign").text("+")
+}
+}
+});
+$(window).resize(function() {
+try { hideSidePanel(); }
+catch (e) { }
+//Show hide Expander(+/-) for story at a glance
+try {
+if (checkBreakPointMobile()) {
+$("#expanderContent").hide();
+$("#expanderSign").text("+")
+}
+else {
+$("#expanderContent").show();
+$("#expanderSign").html("−")
+}
+}
+catch (e) { }
+try {
+// Show hide social icons script
+if ($(window).width() >= 480) {
+// if larger or equal
+$('.social-icons').show();
+}
+}
+catch (e) { }
+try {
+//Resize story at a glance
+resizeStory();
+}
+catch (e) { }
+try {
+//Reposition sidepanel
+resizeSidepanel();
+}
+catch (e) { }
+try {
+//Video Panel
+ResizeVideo();
+}
+catch (e) { }
+}).resize();
+try {
+//$("#contentrefsources").height(jQuery(".references").height() + jQuery(".sourcesfoot").height() + 25);
+$("#refclone1").html(jQuery(".refclone").html());
+$(".contentrefsources").hide();
+$(".refclone").hide();
+}
+catch (e) { }
+//toggle the componenet with class msg_body
+$("#heading").toggle(function() {
+$(this).html("[-] Sources and References");
+//$("#refclone1").slideUp(0);
+$("#refclone1").html("");
+//    $("#refclone1").slideDown();
+}, function() {
+$(this).html("[+] Sources and References");
+//$("#refclone1").slideUp();
+$("#refclone1").html(jQuery(".refclone").html());
+//$("#refclone1").slideDown();
+});
+$("#heading").click(function() {
+jQuery(this).next(".contentrefsources").slideToggle("");
+});
+// + click scroll back to top 
+$('#socialbtn-responsive').click(toggleSocialIcons);
+function toggleSocialIcons() {
+$("html, body").animate({ scrollTop: 0 }, 500);
+$('.social-icons').slideToggle();
+}
+function resizeStory() {
+if (checkBreakPointMobile() === true) {
+$('#ctl00_tr_pnlStoryAtAGlance').detach().prependTo("#bodytext");
+}
+else {
+$('#ctl00_tr_pnlStoryAtAGlance').detach().prependTo("#ctl00_tr_UpdPnlStory");
+}
+}
+function resizeSidepanel() {
+if (detectmob()) {
+//function locate at socialwidgetsCSScript.ascx file
+toggleSocialButtonsDisplay();
+if (checkBreakPointMobile() === true)//mobile viewport
+{
+if ($(".sidebox").length > 0) {
+$(".sidebox").detach().insertAfter("#ctl00_bhcr_bbcr_CommentsUpdatePanel");
+$("#ctl00_tr_UpdateBanner").detach().insertAfter(".sidebox");
+}
+else if ($("#ctl00_bcr_UpdateBanner").length > 0) {
+$("#ctl00_bcr_UpdateBanner").detach().insertAfter("#ctl00_bcr_CommentsUpdatePanel");
+}
+}
+else //desktop viewport
+{
+if ($(".sidebox").length > 0) {
+$(".sidebox").detach().insertAfter("#view-all-health-topics");
+$("#ctl00_tr_UpdateBanner").detach().insertAfter(".sidebox");
+}
+else if ($("#ctl00_bcr_UpdateBanner").length > 0 && $("#ctl00_bcr_UpdPnlStory").length > 0) {
+$("#ctl00_bcr_UpdateBanner").detach().insertAfter("#view-all-health-topics");
+}
+}
+}
+}
+function hideSidePanel() {
+if ($('#sidepanelContainer').length > 0) {
+if (detectmob()) {
+//Show Hide side panel via adding class "device-hide" on selected elements.
+//This is only applicable if Browser is from device
+//This is backup when footerlinks and sidepanel not removed on Android tablets
+if (checkBreakPointMobile() === true) {
+$("#footerlinkscontainer").toggleClass("device-hide", true);
+$("#sidepanelContainer").toggleClass("device-hide", true);
+}
+else {
+$("#footerlinkscontainer").toggleClass("device-hide", false);
+$("#sidepanelContainer").toggleClass("device-hide", false);
+}
+}
+}
+}
+});
+}
+function ReloadSocialWidgets() {
+//Close RRPopup in case it open at the same time user clicks on next/prev buttons
+if ($("[aria-describedby='rrpopupdialog']").length != 0) {
+$("[aria-describedby='rrpopupdialog']").remove();
+}
+$(document).ready(function() {
+try {
+var urlTrim = window.parent.location.href;
+if (urlTrim.indexOf('?') >= 0) {
+urlTrim = urlTrim.substring(0, urlTrim.indexOf('?'));
+}
+$(".fb-share-button").attr("data-href", urlTrim);
+FB.XFBML.parse();
+}
+catch (e) { }
+try {
+IN.parse();
+}
+catch (e) { }
+try {
+//GooglePlus button script
+$.getScript("https://apis.google.com/js/plusone.js");
+gapi.plus.render('gplusdiv', {
+"href": window.location.href
+});
+//GooglePlus button script
+}
+catch (e) { }
+try {
+//Pinit button script
+UpdatePinit();
+//Pinit button script
+}
+catch (e) { }
+try {
+//twitter
+$.getScript("//platform.twitter.com/widgets.js");
+$(".twitter-share-button").attr("data-url", window.location.href);
+$(".twitter-share-button").attr("data-text", document.title);
+//twitter          
+}
+catch (e) { }
+try {
+getEmailAFriendCount();
+document.getElementById('emailtoafriendsrc').value = 'https://contactimporter.mercola.com/EmailArticle.aspx?source=emailtoafriend&url=' + encodeURI(document.location);
+}
+catch (e) { }
+});
+}
+function ResizeVideo() {
+$('#ctl00_bcr_VideoFrame').height(0);
+var additionalHeight = 10;
+if (getInternetExplorerVersion() != -1) {
+additionalHeight = 15;
+}
+$('#ctl00_bcr_VideoFrame').height($('#ctl00_bcr_VideoFrame').contents().height() + additionalHeight);
+}
+</script>
+<div id="view-all-health-topics" class="dontprint">
+<a href="http://articles.mercola.com/sites/Articledirectory.aspx?i_cid=health-sb-directory"
+target="_blank">
+<img alt="View All Health Topics" src="//media.mercola.com/themes/mercola/images/view-all-health-topics.jpg"
+width="300" height="144" />
+</a>
+</div>
+<div class="sidebox popular"> 
+<h3> Most Popular </h3>
+<div class="popular-content">
+<div class="popular-count">
+1
+</div>
+<div class="popular-article">
+<a href="http://articles.mercola.com/sites/articles/archive/2016/02/14/vitamin-d-autism.aspx" id="ctl00_tr_TopFiveArticles_repeaterTopFive_ctl01_lnkTopArticle">
+New Discoveries May Unlock the Link Between Vitamin D Deficiency and Autism
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="popular-content">
+<div class="popular-count">
+2
+</div>
+<div class="popular-article">
+<a href="http://articles.mercola.com/sites/articles/archive/2016/02/13/processed-food-industry.aspx" id="ctl00_tr_TopFiveArticles_repeaterTopFive_ctl02_lnkTopArticle">
+CNN Documentary Takes a Peek Behind the Food Industry Curtain
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="popular-content">
+<div class="popular-count">
+3
+</div>
+<div class="popular-article">
+<a href="http://fitness.mercola.com/sites/fitness/archive/2016/02/12/extreme-exercise-affects-heart.aspx" id="ctl00_tr_TopFiveArticles_repeaterTopFive_ctl03_lnkTopArticle">
+Why Too Much Exercise May Harm Your Heart, and What Science Tells Us About the Ideal Amount and Type of Exercise
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="popular-content">
+<div class="popular-count">
+4
+</div>
+<div class="popular-article">
+<a href="http://articles.mercola.com/sites/articles/archive/2016/02/10/2015-dietary-guidelines-cholesterol-statins.aspx" id="ctl00_tr_TopFiveArticles_repeaterTopFive_ctl04_lnkTopArticle">
+2015 Dietary Guidelines Include Healthy Revisions, but Still Falls Short for Effective Prevention of Heart Disease
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="popular-content">
+<div class="popular-count">
+5
+</div>
+<div class="popular-article">
+<a href="http://articles.mercola.com/sites/articles/archive/2016/02/09/gmo-maize-toxic-to-animals.aspx" id="ctl00_tr_TopFiveArticles_repeaterTopFive_ctl05_lnkTopArticle">
+Investigation Reveals First Commercialized GMO Maize Was Toxic to Farm Animals
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="ctl00_tr_UpdateBanner">
+<div class="rel-links">
+<h3>
+You Might Also Like</h3>
+<ul>
+<li>
+<p>
+<img id="ctl00_tr_rptRelatedURL_ctl01_imgRelatedURL" class="rel-img" src="//media.mercola.com/ImageServer/Public/2011/December/avoid-eating-at-fast-food-restaurants.jpg" style="border-width:0px;" />
+<div style="float: right; width: 175px;">
+<span id="ctl00_tr_rptRelatedURL_ctl01_cslRelatedURL" style="font-weight: bold;"><a href="http://articles.mercola.com/sites/articles/archive/2011/12/09/avoid-eating-at-fast-food-restaurants.aspx">The Worst Possible Place to Eat if You Want to Stay Healthy</a></span><br />
+<span id="ctl00_tr_rptRelatedURL_ctl01_cslRelatedViews" class="rel-views">296,952&nbsp;Views</span>
+</div>
+</p>
+<div class="clear">
+</div>
+</li>
+<li>
+<p>
+<img id="ctl00_tr_rptRelatedURL_ctl02_imgRelatedURL" class="rel-img" src="//media.mercola.com/ImageServer/Public/2014/January/Thumbnail/employee-website.jpg" alt="Employee" style="border-width:0px;" />
+<div style="float: right; width: 175px;">
+<span id="ctl00_tr_rptRelatedURL_ctl02_cslRelatedURL" style="font-weight: bold;"><a href="http://articles.mercola.com/sites/articles/archive/2014/01/08/mcdonalds-fast-food.aspx">McDonald's Shuts Down Employee Website Advising Workers to Avoid Fast Food...</a></span><br />
+<span id="ctl00_tr_rptRelatedURL_ctl02_cslRelatedViews" class="rel-views">401,626&nbsp;Views</span>
+</div>
+</p>
+<div class="clear">
+</div>
+</li>
+<li>
+<p>
+<img id="ctl00_tr_rptRelatedURL_ctl03_imgRelatedURL" class="rel-img" src="//media.mercola.com/ImageServer/public/2015/July/mcdonalds-mcrib-thmb.jpg" style="border-width:0px;" />
+<div style="float: right; width: 175px;">
+<span id="ctl00_tr_rptRelatedURL_ctl03_cslRelatedURL" style="font-weight: bold;"><a href="http://articles.mercola.com/sites/articles/archive/2013/01/16/mcdonalds-mcrib.aspx">The Unsavory Truth of the McRib and Other Fake Foods, and Why Russia Banned US-Raised Meat</a></span><br />
+<span id="ctl00_tr_rptRelatedURL_ctl03_cslRelatedViews" class="rel-views">509,823&nbsp;Views</span>
+</div>
+</p>
+<div class="clear">
+</div>
+</li>
+</ul>
+</div>
+<div id="sidepanelContainer">
+<div class="whytheseads sidebaradsarticles">
+<a href="http://www.mercola.com/why-we-advertise.htm" target="_blank">Why Am I Seeing
+These Ads?</a></div>
+<div class="clear">
+</div>
+<div id="ctl00_tr_BannerDiv">
+<span id="ctl00_tr_lblBanner"><div class='sidebar-img'><a href ='http://deals.mercola.com/?i_cid=20160215-20160217_president-day_sidebanner_deals&utm_source=articles&utm_medium=web&utm_content=sidebanner&utm_campaign=20160215-20160217_president-day' id='890' target='_blank' onclick='Click(this)';><img alt='Presidents'Day' src='http://media.mercola.com/ImageServer/Public/2016/February/EnglishBanner/sidebanner-presidents-day-sale-021516.jpg' height='250' width='250'></a></div><div class='sidebar-img'><a href ='http://articles.mercola.com/sites/articles/archive/2015/10/19/most-common-nutrient-deficiencies.aspx?i_cid=common-nutrient-deficiencies-rb-articles-2' id='812' target='_blank' onclick='Click(this)';><img alt='most common nutrient deficiencies' src='http://media.mercola.com/ImageServer/Public/2015/November/EnglishBanner/common-nutrient-deficiencies.jpg' height='250' width='250'></a></div><div class='sidebar-img'><a href ='http://fitness.mercola.com/sites/fitness/archive/2012/05/25/darin-steen-demonstrates-the-perfect-squat.aspx?i_cid=perfectsquatexercise-rb-articles-3' id='168' target='_blank' onclick='Click(this)';><img alt='perfect squat exercise' src='http://media.mercola.com/ImageServer/Public/2015/July/EnglishBanner/8-reasons-to-squat.jpg' height='250' width='250'></a></div><div class='sidebar-img'><a href ='http://healthypets.mercola.com/sites/healthypets/archive/2014/04/28/cat-constipation.aspx?i_cid=catconstipation-rb-articles-4' id='751' target='_blank' onclick='Click(this)';><img alt='cat constipation' src='http://media.mercola.com/ImageServer/Public/2015/November/EnglishBanner/kitty-constipation.jpg' height='250' width='250'></a></div><div class='sidebar-img'><a href ='http://www.mercola.com/ebook/diabetes-symptoms.aspx?i_cid=diabetessymptomsebook-rb-articles-5' id='689' target='_blank' onclick='Click(this)';><img alt='diabetes symptoms ebook' src='http://media.mercola.com/ImageServer/Public/2015/October/EnglishBanner/8-Keys-to-Preventing-and-Treating-Diabetes.jpg' height='250' width='250'></a></div><div class='sidebar-img'><a href ='http://articles.mercola.com/dehydration-symptoms.aspx?i_cid=dehydrationsymptoms-rb-articles-6' id='643' target='_blank' onclick='Click(this)';><img alt='dehydration symptoms' src='http://media.mercola.com/ImageServer/Public/2015/September/EnglishBanner/dehydration-symptoms-2.jpg' height='250' width='250'></a></div></span>
+</div>
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+<div id="article">
+<div id="ctl00_bcr_UpdateProgress12" style="display:none;">
+<div id="progressBackgroundFilter" class="ProgressPnlClass">
+</div>
+<div id="processMessage" class="ProgressMsgClass">
+<div class="modalHolder">
+<div class="loading">
+<div class="marginDiv">
+<img src="//media.mercola.com/themes/mercola/images/loading1.gif" alt="Loading" title="Loading"
+align="absmiddle" class="imgRSpace" />
+<strong>Loading Please Wait</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ctl00_bcr_Upanel">
+<input type="hidden" name="ctl00$bcr$hdnPrevPostID" id="ctl00_bcr_hdnPrevPostID" value="0" />
+<input type="hidden" name="ctl00$bcr$hdnNextPostID" id="ctl00_bcr_hdnNextPostID" value="0" />
+<div class="article-title">
+<div id="article-navtop">
+<div class="article-nav">
+<div id="ieBrowser" style="display: none">
+<a id="ctl00_bcr_PreviousLink" title="Previous Article" class="button action red prv arrowprev" style="float: left; margin: 0 0 0 5px">
+<span class="icon previous"></span>
+<span class="label notmobile">Previous Article</span>
+</a>
+<a id="ctl00_bcr_NextLink" title="Next Article" class="button action red nxt arrownext" style="float: right; margin: 0 0 0 5px">
+<span class="label notmobile">Next Article</span>
+<span class="icon next"></span>
+</a></div>
+<div id="divPreviousbutton" class="article-nav" style="display: none">
+</div>
+</div>
+</div>
+<div style="float: right; width: 120px; height: 20px;">
+&nbsp;</div>
+<h1>
+<span id="ctl00_bcr_lblSubject">What Happens to Your Body When You Eat a McDonald’s Hamburger?</span>
+</h1>
+<h5>
+<div style="float: left;">
+<span id="ctl00_bcr_PostDate"></span>
+<span class="gray">|</span>
+<span id="ctl00_bcr_TotalViews">151,796</span>
+<span class="contentText">views</span></div>
+<div class="post-admin-link">
+<style type="text/css">
+#div1
+{
+display: none;
+position: absolute;
+padding: 24px 26px 24px;
+}
+</style>
+<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+function showAdmin() {
+var txtUsernameID = 'ctl00_bcr_UserWelcome_hdnAdmin';
+if (document.getElementById(txtUsernameID).value == 1) {
+document.getElementById("admin-menu").style.display = "block";
+}
+}
+function hideAdmin() {
+document.getElementById("admin-menu").style.display = "none";
+} 
+</script>
+<div id="menu">
+<div id="profile-menu">
+<input type="hidden" name="ctl00$bcr$UserWelcome$hdnAdmin" id="ctl00_bcr_UserWelcome_hdnAdmin" value="0" />
+</div>
+<div id="admin-menu" onmouseover="showAdmin()" onmouseout="hideAdmin()">
+<div id="admin-arrow">
+</div>
+<ul>
+<li> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">
+</div>
+</h5>
+<div class="clear-mobile">
+</div>
+<div id="LoginDivShadowBox" class="hidden">
+<div class="etaf-box">
+<div class="etaf-border">
+<div class="closeBtn">
+<a onclick="$('#LoginDivShadowBox').dialog('close');">
+<div class="etafclose">
+</div>
+</a>
+</div>
+<div class="lockicon">
+</div>
+<div style="padding-top: 10px; width: 90%;">
+<div class="modaltext">
+Please
+</div>
+<a href="https://login.mercola.com/login.aspx?ReturnUrl=http://articles.mercola.com/sites/articles/archive/2098/12/31/mcdonalds-hamburger.aspx" id="ctl00_bcr_loginLinkbtn">
+<div class="btn-signin">
+</div>
+</a>
+<div class="modaltext">
+or
+</div>
+<a href="https://login.mercola.com/join/default.aspx?ReturnUrl=http://articles.mercola.com/sites/articles/archive/2098/12/31/mcdonalds-hamburger.aspx" id="ctl00_bcr_loginRegister">
+<div class="btn-register">
+</div>
+</a>
+<div class="modaltext">
+to continue.</div>
+<div class="clear">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="SendmsgDiv" class="hidden">
+<div class="etaf-box">
+<div class="etaf-border">
+<div class="closeBtn">
+<a onclick="$('#SendmsgDiv').dialog('close'); return false;">
+<div class="etafclose">
+</div>
+</a>
+</div>
+<div id="divFriendMsg">
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+</div>
+<div class="social-btn-top">
+<div id="socialbtn-responsive">
+<img src="//media.mercola.com/themes/mercola/images/share-icon.png" alt="Share This Article" />
+Share</div>
+<script language="javascript" type="text/javascript" src="//media.mercola.com/themes/mercola/js/email-counter-articles.js"> </script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('script[type="IN/Share"]').attr('data-url', [location.protocol, '//', location.host, location.pathname].join(''));
+});
+</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script');
+po.type = 'text/javascript';
+po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+$(document).ready(function() {
+document.getElementById('emailtoafriendsrc').value = '';    
+getEmailAFriendCount();
+document.getElementById('emailtoafriendsrc').value = 'https://contactimporter.mercola.com/EmailArticle.aspx?source=emailtoafriend&url=' + encodeURI(document.location);
+});     
+</script>
+<script type="text/javascript">
+addPinterestButton = function(url, media, description) {
+var js, href, html, pinJs;
+pinJs = '//assets.pinterest.com/js/pinit.js';
+//url = escape(url);
+url = encodeURIComponent(url);
+media = encodeURIComponent(media.replace('http:','https:'));
+description = encodeURIComponent(description);
+href = 'http://pinterest.com/pin/create/button/?url=' + url + '&media=' + media + '&description=' + description;
+html = '<a href="' + href + '" class="pin-it-button" count-layout="vertical"><img border="0" src="//media.mercola.com/Assets/images/mercola/PinExt.png" title="Pin It" /></a>';
+$('td.pinterest').html(html);
+//add pinterest js
+js = document.createElement('script');
+js.setAttribute('data-pin-build', 'parsePinBtns');
+js.src = pinJs;
+js.type = 'text/javascript';
+document.body.appendChild(js);
+}
+function UpdatePinit(){
+//addPinterestButton('http://fitness.mercola.com/sites/fitness/archive/2014/07/04/exercise-gut-bacteria.aspx', 'http://media.mercola.com/assets/images/fitness/fitness-logo-fb.jpg', 'allan');
+var desc = $('meta[property="og\\:description"]').attr("content");
+if (desc == "" || desc == null) 
+{
+desc = "";
+}
+var urlTrim = window.location.href;
+if (urlTrim.indexOf('?') >= 0) 
+{
+urlTrim = urlTrim.substring(0, urlTrim.indexOf('?'));
+}
+var piniturl = urlTrim;
+var pinitimage = "https://media.mercola.com/assets/images/mercola-preview.gif";
+var pinitdesc = desc + ' ' + piniturl;
+var metapinitimage =  $('meta[property="og\\:image"]').attr("content");;
+if (!metapinitimage) {
+}
+else {
+if (metapinitimage != "" || metapinitimage != null) {
+pinitimage = metapinitimage;
+}
+}
+addPinterestButton(piniturl, pinitimage, pinitdesc);
+window.parsePinBtns();		
+}
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+var desc = $('meta[property="og\\:description"]').attr("content");
+if (desc == "" || desc == null) {
+desc = "";
+}
+var urlTrim = window.location.href;
+if (urlTrim.indexOf('?') >= 0) {
+urlTrim = urlTrim.substring(0, urlTrim.indexOf('?'));
+}
+var piniturl = urlTrim;
+var pinitimage = "https://media.mercola.com/assets/images/mercola-preview.gif";
+var pinitdesc = desc + ' ' + piniturl;
+var metapinitimage =  $('meta[property="og\\:image"]').attr("content");;
+if (!metapinitimage) {
+}
+else {
+if (metapinitimage != "" || metapinitimage != null) {
+pinitimage = metapinitimage;
+}
+}
+addPinterestButton(piniturl, pinitimage, pinitdesc);
+});
+function closeEmailToFriend() 
+{
+$("#emailToFriend").dialog('close');        
+}
+function toggleSocialButtonsDisplay()
+{
+if(checkBreakPointMobile() === true) 
+{
+if(!$(".printContainer" ).hasClass(".device-hide"))
+{
+$('.printContainer').toggleClass("device-hide",true);            
+}                           
+}
+else
+{
+if($(".printContainer" ).hasClass(".device-hide"))
+{ 
+$('.printContainer').toggleClass("device-hide",false); 
+}  
+}  
+if(checkBreakPointMobile() === true) 
+{
+if(!$(".Linkedln_toolbox" ).hasClass(".device-hide"))
+{ 
+$('.Linkedln_toolbox').toggleClass("device-hide",true);    
+}                   
+}
+else
+{
+if($( ".Linkedln_toolbox" ).hasClass(".device-hide"))
+{
+$('.Linkedln_toolbox').toggleClass("device-hide",false); 
+}
+}          
+}
+$(window).resize(function() {
+if(detectmob())
+{
+toggleSocialButtonsDisplay()
+}
+}).resize();
+</script>
+<div id="emailToFriend" class="etaf-box hidden"></div>    
+<div id="rrpopupdialog" class="hidden"></div>
+<input type="hidden" id="emailtoafriendsrc" />
+<script type="text/javascript" src="//media.mercola.com/assets/js/ModalReceiveHeight.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+try { 
+$.getScript("https://apis.google.com/js/plusone.js");
+gapi.plus.render('gplusdiv', {
+"href": window.location.href
+});
+} catch (e)  {}
+});
+</script>
+<script type="text/javascript">
+//$('#twitter').attr('data-url', $('#twitter').attr('data-url').replace('http://' + window.location.hostname + /%%shareUrl%%/, window.location.href));
+//Update twitter href url with article url
+$(function(){
+$(".twitter-share-button").attr("data-url", [location.protocol, '//', location.host, location.pathname].join(''));
+$(".twitter-share-button").attr("data-text", document.title);
+});
+!function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");         
+</script>
+<style>
+.twitter-share-button { position: static !important; visibility: visible !important; }
+</style>
+<!-- Pinit image fix --> 
+<style type="text/css">
+td#pinIttd a { margin-top: 42px !important; }
+td#pinIttd a span { background-size: 100% !important;
+background: url(//media.mercola.com/themes/mercola/images/bg-pinterest.jpg) no-repeat !important;
+bottom: 20px !important;
+height: 36px !important;
+padding-top: 6px;}
+td#pinIttd > span { margin-top: 42px !important; }
+td#pinIttd span > span { background-size: 100% !important;
+background: url(//media.mercola.com/themes/mercola/images/bg-pinterest.jpg) no-repeat !important;
+bottom: 20px !important;
+height: 36px !important;
+padding-top: 6px;
+top: -42px;}
+.widget-text {
+background: url(//media.mercola.com/themes/mercola/images/cssprites.png) no-repeat 0 -157px;
+width:137px;
+height:63px;
+font-size: 12px;
+line-height: 16px;
+padding: 7px 0 0 7px; 
+color:white;
+margin-right:2px;
+}
+.social-icons td { padding-right:0; }
+.twitter-share-button  
+{
+background: url(//media.mercola.com/themes/mercola/images/cssprites.png) 200px 82px;
+padding-top: 41px;
+}
+</style>
+<!-- Pinit image fix -->
+<ul class="social-icons dontprint">
+<li class="widget-text notmobile">
+Spread the Word to<br />
+Friends And Family<br />
+By Sharing this Article.
+</li>
+<li>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+var sAPPid;
+sAPPid = $('meta[property="fb\\:app\\_id"]').attr("content");
+if (sAPPid == "" || sAPPid == null) {
+sAPPid = '366062120070531';
+}
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=" + sAPPid + "&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+} (document, 'script', 'facebook-jssdk'));
+</script>
+<div id="fb-share-button" class="fb-share-button"  data-layout="box_count"></div>
+<script type="text/javascript">
+//Update fb href url with article url
+$(".fb-share-button").attr("data-href", window.location.href.split('?')[0].split('#')[0]);
+</script>
+</li>	
+<li class="twitter social-button">
+<a id="twitter" href="http://twitter.com/share" class="twitter-share-button" data-via="mercola">Tweet</a>
+</li>
+<li class="google-plus social-button">
+<div id="gplusdiv" class="g-plus" data-action="share" data-annotation="vertical-bubble"></div>
+</li>
+<!-- Linkedln BEGIN -->
+<li class="Linkedln_toolbox">
+<script type="IN/Share" data-counter="top"></script>
+</li>
+<!-- Linkedln END -->
+<li>
+<table>
+<tr>
+<td class="pinterest social-button" id="pinIttd" style="width:40px; height:41px;"></td>
+</tr>
+</table> 
+</li>
+<li class="email-share social-button">            
+<div align="center">
+<a class="handlink" onclick="javascript:OpenContactImporterOptimized();return false;">
+<div class="emailtodiv2">
+<span class="articleCountwithoutcolon"></span>
+</div>
+<div style="margin: 0px;" class="emailcount2">
+<img style="margin: 0px; padding: 0px; border: currentColor; font-size: 10px;" alt="Email to a friend"
+src="//media.mercola.com/assets/images/mercola/emailtoafriend.gif"
+height="8" width="13" />
+Email
+</div>
+</a>
+</div>
+</li>
+<li align="center">
+<div  class="printContainer">
+<a href="javascript:window.print()"> 
+<div class="print" style="margin:0 auto;"></div>
+<div class="emailcount2"> Print  </div>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<!-- .article-title -->
+<div style="clear: left;">
+</div>
+<hr />
+<div class="video-responsive">
+</div>
+<div class="bodytextdiv" id="bodytext">
+<span id="ctl00_bcr_FormattedBody"><p><strong>By Dr. Mercola</strong></p>
+<blockquote>
+<p>When talking  about fast food giants, nothing can be bigger – and more infamous – than McDonald's.  Those two "golden arches" sign are so abundant and so well-known all over the  world, that some toddlers can even recognize it even before they are able to  speak full sentences. <br><br>In 2014, over 36,258 McDonald's restaurants operate worldwide,<sup style="font-size: 10px;"><a href="#_edn1" name="_ednref1" title="">1</a></sup> serving over 69 million  people every day. From its humble beginnings in the 1940s, the brand has now  grown to be a multi-billion dollar company with an estimated value of over $85  billion.</p>
+<p>
+And the fast  food's most popular menu item? The burgers. </p>
+<p>
+According to <em>The Fiscal Times</em>, McDonald's sells 75  burgers <em>every second</em>.<sup style="font-size: 10px;"><a href="#_edn2" name="_ednref2" title="">2</a></sup> That amounts to over 2.36  billion burgers per year – roughly the equivalent of eating a million cows.<sup style="font-size: 10px;"><a href="#_edn3" name="_ednref3" title="">3</a></sup> </p>
+<p>
+For many  people, nothing seems wrong with eating a McDonald's hamburger. After all, it  looks and tastes the same as other burger patties, and the added convenience  makes it a much sought-after meal for busy people, those who are on-the-go, or  those who simply do not have time to cook food at home.</p>
+<p>
+But  considering just how much burger patties are sold per day, haven't you ever  wondered just how McDonald's hamburgers are made and, more importantly, what  they're made of?     </p>
+<p>
+Even more  disturbing are the reports of McDonald's burgers that do not decompose or rot  for weeks, months, or even <em>years</em> after they've been cooked.</p>
+</blockquote>
+<h2>
+McDonald's Hamburger Shows  No Signs of Decomposition – Even After a Decade </h2>
+<blockquote>
+<p>
+There have  been multiple stories going viral about McDonald's hamburgers that show no  signs of rotting or molding. One example is that of David Whipple, a man from Utah, who came forward in 2013,  claiming that he had a McDonald's hamburger that dates back to 1999 – but is  yet to show any sign of decomposition.<sup style="font-size: 10px;"><a href="#_edn4" name="_ednref4" title="">4</a></sup> </p>
+<p>
+Whipple initially bought the burger to keep for two weeks and  show to his friends, but then forgot about it. Two years later, he found it in  his coat pocket, with the original receipt, with no signs of rotting or mold.  He decided to keep it to see how long it will disintegrate. According to ABC  News website:<sup style="font-size: 10px;"><a href="#_edn5" name="_ednref5" title="">5</a></sup></p>
+<blockquote>
+<p>
+<em>"'The  patty feels like concrete,' Whipple said of the burger he has held onto for 14  years, first on purpose, then by accident, and then for a good laugh. Whipple…  was living in Logan, Utah, and trying to lose weight when he first purchased  the hamburger to prove to his friends that fast food was not real food.</em></p>
+<p>
+<em>'It was  nothing real scientific,' Whipple said. 'We were talking about enzymes and we  knew what a good food like a banana would do but weren't sure what a hamburger  would do.'</em></p>
+<p>
+<em>Two weeks  later, Whipple got his answer. The burger's pickles and onion toppings had  begun to shrink but the bun and hamburger 'looked exactly the same,' he said.</em> </p>
+</blockquote>
+<p>
+Whipple was invited to guest on the TV show The Doctors to  talk about his experience. He said he uses the burger to encourage his  grandkids to eat healthy and avoid fast food.  </p>
+<p al="">
+I've  featured stories about these "everlasting McDonald's burgers" on my site many  years ago, like that of Manhattan  artist Sally Davies' "<a href="http://articles.mercola.com/sites/articles/archive/2010/10/25/mcdonalds-happy-meal-shows-no-sign-of-decomposing.aspx">The Happy Meal Project</a>," where she photographed a McDonald's  Happy Meal every day for six months. (You can view the full photostream<sup style="font-size: 10px;"><a href="#_edn6" name="_ednref6" title="">6</a></sup> on her website.)</p>
+<p>
+Karen  Hanrahan, a wellness educator and nutrition consultant, also claimed to have kept  a McDonald's hamburger <em>since 1996</em>. It  still looks as fresh as a newly bought one. </p>
+</blockquote>
+<h2>
+A Closer Look at a McDonald's  Hamburger Ingredients</h2>
+<blockquote>
+<p>
+According to McDonald's  website,<sup style="font-size: 10px;"><a href="#_edn7" name="_ednref7" title="">7</a></sup> the only ingredient in  its hamburger is 100 percent pure USDA-Inspected beef, prepared with grill  seasoning (salt and black pepper) and without fillers and extenders. </p>
+<p>
+The fast food  chain also refutes speculations that an "unknown" preservative is among their  McDonald's hamburger ingredients, and says that their burgers and buns do not decompose  simply because they "become very dry in the cooking and toasting process."  According to a <em>Business Insider</em> article:<sup style="font-size: 10px;"><a href="#_edn8" name="_ednref8" title="">8</a></sup>    </p>
+<blockquote>
+<p>
+<em>"…the patty loses water in the  form of steam during the cooking process. The bun, of course, is made out of  bread. Toasting it reduces the amount of moisture. This means that after  preparation, the hamburger is fairly dry. When left out open in the room, there  is further water loss as the humidity within most buildings is around 40%. So  in the absence of moisture or high humidity, the hamburger simply dries out,  rather than rot."</em></p>
+</blockquote>
+<p>
+Indeed, part of the embalmed-like feature of the meat patty can be  because of its high-sodium content. Salt is a natural preservative that has  been used throughout history.</p>
+<p>
+But  you have to admit that something that does not decompose, or even show signs of  decomposing after days, months, or <em>years</em> seems very, very suspicious. After all, the hallmark of live food is that  it wilts and decomposes – something that, apparently, does not occur in these  burgers. </p>
+<p>
+In 2014, McDonald's  attempted to clear its name by releasing a video,<sup style="font-size: 10px;"><a href="#_edn9" name="_ednref9" title="">9</a></sup> which starred former  MythBusters co-host Grant Imahara and filmed in a Cargill facility in Fresno,  California, that shows just how McDonald's hamburger patties are made.<sup style="font-size: 10px;"><a href="#_edn10" name="_ednref10" title="">10</a></sup> It aims to debunk the myth  that McDonald's uses fillers, additives, and preservatives in their meat –  showing instead large beef chunks on a conveyor belt going through a machine that  forms them into patties. </p>
+<p>
+They also asserted that they do not use pink slime in their  meat. Pink slime is a  sludge-like ingredient made of ground-up beef  "trimmings" – various beef scraps and cow connective tissues – and  ammonium hydroxide, which gives the mixture its pink hue. McDonald's has  admitted to using pink slime in their hamburgers before, but had discontinued  it in 2011. </p>
+</blockquote>
+<h2>
+McDonald's Plans to Make the  'Big Switch' to Antibiotic-Free Chicken </h2>
+<blockquote>
+<p>
+In March  2015, McDonald's announced that they are going to be buying only chicken raised  without antibiotics important to human medicine – a change that would take  place in over the next two years. They also claimed that they would begin using  milk from cows that have not been treated with the artificial growth hormone  rBST.</p>
+<p>
+While this is  positive news, I believe that McDonald's only made the decision to help improve  their slumping US sales. Many restaurants like Panera Bread, Chipotle, and  Shake Shack have already switched to antibiotic-free poultry and meat, causing  their former customers to flock to these competitors.</p>
+<p>
+This change  means that not only will suppliers be scrambling to meet the demand, but other  fastfood chains will also be considering a similar move.  </p>
+<p>
+But although  going antibiotic-free on their poultry is a step in the right direction, I  don't think we should be celebrating any time soon, because McDonald's is yet  to make any changes to its meat – which is actually loaded with a whole  different host of problems…</p>
+</blockquote>
+<h2>
+McDonald's Beef Comes from  Factory Farms</h2>
+<blockquote>
+<p>
+Even if it is  true that McDonald's burgers do not contain preservatives or additives (which I  seriously doubt), this does not excuse the fact that McDonald's meat actually  comes from confined animal feeding operations (CAFOs). <br><br>Not only are cows and  other livestock in these factory farms made to live in unsanitary and inhumane conditions,  but they are also given antibiotics and growth hormones to make them grow  faster and more resistant to disease. In fact, nearly 25 million pounds of  antibiotics are administered to livestock in the US every year.</p>
+<p>
+These  antibiotics, along with antibiotic-resistant bacteria, are transferred to you  every time you eat CAFO meat – and sometimes even through the animal manure  used as crop fertilizer. Two million Americans become infected with  antibiotic-resistant bacteria every year, causing at least 23,000 deaths.<sup style="font-size: 10px;"><a href="#_edn11" name="_ednref11" title="">11</a></sup></p>
+<p>
+What's worse,  antibiotic-resistant disease is not the only danger brought on by CAFOs.  Excessive exposure to antibiotics and regularly eating antibiotic-laced CAFO  meats also harms your gastrointestinal health, predisposing you to virtually <em>any</em> disease.</p>
+<p>
+But it's not  just the hamburger meat that's really problematic…</p>
+</blockquote>
+<h2>
+Here's Why McDonald's Bun  Stays Mold-Free for Years</h2>
+<blockquote>
+<p>
+McDonald's  patty's long life may be because of its sodium content, but what about the <em>bun</em>? Bread typically stays fresh for  several days, but have you ever heard of one that stays mold-free for <em>years</em>? Yet that's exactly what happened  with the McDonald's bun. </p>
+<p>
+I believe  that this is because McDonald's bun is lightyears away from freshly baked bread  you make at home – in fact, it is a "bread-like" concoction that bears no  actual resemblance to natural bread (except for its appearance, obviously).  Just take a look at the ingredients used in McDonald's buns:</p>
+<blockquote>
+<p>
+<em>"Enriched Bleached Flour (Wheat Flour,  Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin,  Folic Acid), Water, High Fructose Corn Syrup, Yeast, Soybean Oil, Contains 2%  or Less: Salt, Wheat Gluten, Leavening (Calcium Sulfate, Ammonium Sulfate), May  Contain One or More Dough Conditioners (Sodium Stearoyl Lactylate, DATEM,  Ascorbic Acid, Azodicarbonamide, Mono and Diglycerides, Monocalcium Phosphate,  Enzymes, Calcium Peroxide), Calcium Propionate (Preservative)." </em></p>
+</blockquote>
+<p>
+These  ingredients should clearly offer clues as to why the burgers stay blemish-free  and "fresh" for years. But what's more alarming is that they can also open your  eyes to the potential health ramifications you may experience if you eat a  McDonald's hamburger. For example, calcium sulfate, also known as plaster of  Paris, can possibly cause digestive problems. Meanwhile, ammonium sulfate is  known to cause nausea, vomiting, and diarrhea due to gastrointestinal  irritation. </p>
+</blockquote>
+<h2>
+Watch Out for These  McDonald's Menu Items, Too</h2>
+<blockquote>
+<p>
+Just like its  hamburgers, McDonald's Chicken McNuggets also came under fire after it was  found that only 50 percent of the nuggets is actually chicken. The other 50  percent is a mixture of corn derivatives, leavening agents, sugars, and  completely synthetic ingredients that no sane person would ever think of  cooking with. </p>
+<p>
+Its seasonal  offering, the McRib pork sandwich, was also closely scrutinized. Apparently,  one of its ingredients is azodicarbonamide, a chemical used to bleach the flour  bread… but is also used in making gym shoes and yoga mats. And underneath the  "tasty, tangy barbecue sauce," the researchers found that the pork was nothing  more than restructured meat product – made from all the cheap innards and cast-offs  of a pig. Not so appetizing anymore, is it?</p>
+<p>
+Even their fries,  particularly those sold in the US, was also found to contain toxic ingredients.  While French fries in the UK only are simply potatoes fried in sunflower or  rapeseed oil, the fries that Americans get contain TBHQ; antifoaming agents,  color stabilizers, and preservatives. They also contain beef flavor that's made  with wheat and milk derivatives. This is why they carry an allergy warning for  those with wheat and dairy sensitivities.</p>
+</blockquote>
+<h2>
+What Happens When You Eat an  All-McDonald's Diet? </h2>
+<blockquote>
+<p>
+You've  probably heard of "SuperSize Me," a documentary where filmmaker Morgan Spurlock  documented the consequences of eating a strictly McDonald's diet. After just  four weeks of eating nothing but fast food, Spurlock's health had badly  deteriorated to the point that his physician warned him to stop the experiment  or he'll be putting his life in grave danger.</p>
+<p>
+Just  recently, Tim Spector, a professor of genetic epidemiology at King's College,  London, wanted to learn what happens to your gut if you ate only McDonald's for  10 straight days. His son, Tom, agreed to do the experiment and sent stool  samples to different labs throughout the 10-day period.   </p>
+<p>
+The results  were astounding. After just 10 days of eating fast food, his stool samples  revealed that his gut microbes were "devastated" – about 40 percent of his  bacteria species, amounting to over 1,400 different types, were lost. This  severe loss of microbial diversity is a risk factor to obesity and diabetes.</p>
+<p>
+Your gut is  your second brain, and it is actually where 80 percent of your immune system  lies. There are nearly 100 trillion bacteria, fungi, viruses, and other  microorganisms, good and bad, that compose your body's microflora. These  organisms play a crucial role in your mental and physical health, and if you  upset this delicate balance, you become predisposed to a wide range of health  problems.</p>
+</blockquote>
+<h2>
+Processed Foods Are a Bane  to Your Health</h2>
+<blockquote>
+<p> 
+As I've often stressed in my articles,  <a href="http://www.mercola.com/infographics/unhealthy-foods.htm">processed foods</a> and fast foods can absolutely wreak havoc on your health. Yes,  they may be cheaper and more convenient, but they are excessively high in  sugars, grains, and <a href="http://www.mercola.com/infographics/truth-about-factory-farms.htm">factory farmed meats</a> – a recipe for chronic diseases, such  as obesity, <a href="http://www.mercola.com/diabetes.aspx">diabetes</a>, and <a href="http://articles.mercola.com/heart-attack-symptoms.aspx">heart disease</a>. </p>
+<p>
+I advise you  to stop glorifying processed foods and fast foods because of their taste and  convenience. Instead, keep in mind ALL of the cons that they bring to your  health, such as:</p>
+<ul>
+<li>Loads  your body with extra calories that do nothing for your body</li>
+<li>Expose  you to a toxic concoction of foreign chemicals and artificial flavors </li>
+<li>Are  a waste of money – in fact, they may even lead to <em>increased</em> healthcare bills for you and your loved ones </li>
+<li>Can  severely harm your children, whose bodies are still developing and are in  greater need of nutrients </li>
+</ul>
+<p>I also  recommend your diet to be composed of at least 90 percent non-processed,  organic whole foods. Not only will you enjoy the health benefits, but you'll  also be at peace as you know exactly what you're putting in your body.</p>
+</blockquote>
+<h2>
+Eat Healthy, <em>Homemade </em>Foods and Watch Your Health  Soar</h2>
+<blockquote>
+<p>
+I honestly  believe that if you fail to plan, then you are planning to fail. Indeed, the  secret to following a wholesome diet is learning to prepare your grocery list  so you can plan your meals. Make it an essential part of your lifestyle. This  would ideally involve scouting local farmers markets or food co-ops to buy  in-season produce. Find a trustworthy source of grass-fed meats, raw dairy, and  free-range chicken and eggs. </p>
+<p>
+Finally,  appoint a person in your family to cook the meals. This should be someone who  is willing to invest time in the kitchen. </p>
+<p>
+If you need  help finding healthful recipes, I suggest you visit <a href="http://recipes.mercola.com/">Mercola Healthy Recipes</a>. This site offers a diverse  collection of mouthwatering and healthy food recipes based on my optimized nutrition  plan. All of these recipes use healthful, all-natural ingredients that are sure  to uplift your wellbeing.  </p>
+</blockquote>
+<div class="evergreen-btn"><a href="http://articles.mercola.com/common-health-questions.aspx" target="_blank"> Health Questions Directory </a></div></span>
+</div>
+<div class="social-bottom">
+<!-- Pinit image fix --> 
+<style type="text/css">
+td#pinIttd a { margin-top: 42px !important; }
+td#pinIttd a span { background-size: 100% !important;
+background: url(//media.mercola.com/themes/mercola/images/bg-pinterest.jpg) no-repeat !important;
+bottom: 20px !important;
+height: 36px !important;
+padding-top: 6px;}
+td#pinIttd > span { margin-top: 42px !important; }
+td#pinIttd span > span { background-size: 100% !important;
+background: url(//media.mercola.com/themes/mercola/images/bg-pinterest.jpg) no-repeat !important;
+bottom: 20px !important;
+height: 36px !important;
+padding-top: 6px;
+top: -42px;}
+.widget-text {
+background: url(//media.mercola.com/themes/mercola/images/cssprites.png) no-repeat 0 -157px;
+width:137px;
+height:63px;
+font-size: 12px;
+line-height: 16px;
+padding: 7px 0 0 7px; 
+color:white;
+margin-right:2px;
+}
+.social-icons td { padding-right:0; }
+.twitter-share-button  
+{
+background: url(//media.mercola.com/themes/mercola/images/cssprites.png) 200px 82px;
+padding-top: 41px;
+}
+</style>
+<!-- Pinit image fix -->
+<ul class="social-icons dontprint">
+<li class="widget-text notmobile">
+Spread the Word to<br />
+Friends And Family<br />
+By Sharing this Article.
+</li>
+<li>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+var sAPPid;
+sAPPid = $('meta[property="fb\\:app\\_id"]').attr("content");
+if (sAPPid == "" || sAPPid == null) {
+sAPPid = '366062120070531';
+}
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=" + sAPPid + "&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+} (document, 'script', 'facebook-jssdk'));
+</script>
+<div id="fb-share-button" class="fb-share-button"  data-layout="box_count"></div>
+<script type="text/javascript">
+//Update fb href url with article url
+$(".fb-share-button").attr("data-href", window.location.href.split('?')[0].split('#')[0]);
+</script>
+</li>	
+<li class="twitter social-button">
+<a id="twitter" href="http://twitter.com/share" class="twitter-share-button" data-via="mercola">Tweet</a>
+</li>
+<li class="google-plus social-button">
+<div id="gplusdiv" class="g-plus" data-action="share" data-annotation="vertical-bubble"></div>
+</li>
+<!-- Linkedln BEGIN -->
+<li class="Linkedln_toolbox">
+<script type="IN/Share" data-counter="top"></script>
+</li>
+<!-- Linkedln END -->
+<li>
+<table>
+<tr>
+<td class="pinterest social-button" id="pinIttd" style="width:40px; height:41px;"></td>
+</tr>
+</table> 
+</li>
+<li class="email-share social-button">            
+<div align="center">
+<a class="handlink" onclick="javascript:OpenContactImporterOptimized();return false;">
+<div class="emailtodiv2">
+<span class="articleCountwithoutcolon"></span>
+</div>
+<div style="margin: 0px;" class="emailcount2">
+<img style="margin: 0px; padding: 0px; border: currentColor; font-size: 10px;" alt="Email to a friend"
+src="//media.mercola.com/assets/images/mercola/emailtoafriend.gif"
+height="8" width="13" />
+Email
+</div>
+</a>
+</div>
+</li>
+<li align="center">
+<div  class="printContainer">
+<a href="javascript:window.print()"> 
+<div class="print" style="margin:0 auto;"></div>
+<div class="emailcount2"> Print  </div>
+</a>
+</div>
+</li>
+</ul>
+</div>
+<div id="ctl00_bcr_divfootnote" class="footnote" style="margin: 0 0 0 0;">
+<script type="text/javascript">
+</script>
+<span id="refclone1"></span>
+<div class="link16" id="heading" style="cursor: pointer; color: #0869BD; font-weight: bold;
+font-size: 16px;">
+[+] Sources and References</div>
+<div class="contentrefsources" id="contentrefsources" style="margin: 0 0 0 0;">
+<div class="sourcesfoot sources" style="margin: 0 0 0 0;">
+</div>
+<div id="ctl00_bcr_divReferences" class="references" style="margin: 0 0 0 0;">
+<ul id="footnote-references2" style="list-style-type: none; list-style-position: outside;
+list-style-image: none;">
+<li><sup style='font-size: 10px;'><a href='#_ednref1' id='AncReferenceCount' name='_edn1'><span id='lblReferenceNo'>1</span></a></sup>&nbsp<a href='http://www.statista.com/statistics/219454/mcdonalds-restaurants-worldwide/' id='lnkReference'>Statista.com, Number of McDonald&#39;s restaurants worldwide from 2005 to 2014</a></li><li><sup style='font-size: 10px;'><a href='#_ednref2' id='AncReferenceCount' name='_edn2'><span id='lblReferenceNo'>2</span></a></sup>&nbsp<a href='http://www.thefiscaltimes.com/Articles/2012/04/30/13-Disturbing-Facts-About-McDonalds' id='lnkReference'>The Fiscal Times, April 30, 2012</a></li><li><sup style='font-size: 10px;'><a href='#_ednref3' id='AncReferenceCount' name='_edn3'><span id='lblReferenceNo'>3</span></a></sup>&nbsp<a href='http://comparecamp.com/things-you-didnt-know-about-mcdonalds-compare-fast-food-figures-nutrition-facts-controversies/' id='lnkReference'>CompareCamp.com, October 21, 2014</a></li><li><sup style='font-size: 10px;'><a href='#_ednref4' id='AncReferenceCount' name='_edn4'><span id='lblReferenceNo'>4</span></a></sup>&nbsp<a href='http://www.businessinsider.com/man-saves-mcdonalds-burger-for-14-years-2013-4' id='lnkReference'>Business Insider, April 23, 2013 </a></li><li><sup style='font-size: 10px;'><a href='#_ednref5' id='AncReferenceCount' name='_edn5'><span id='lblReferenceNo'>5,</span></a></sup>&nbsp<sup style='font-size: 10px;'><a href='#_ednref8' id='AncReferenceCount' name='_edn8'><span id='lblReferenceNo'>8</span></a></sup>&nbsp<a href='http://abcnews.go.com/blogs/lifestyle/2013/04/1999-mcdonalds-hamburger-ages-gracefully/' id='lnkReference'>ABC News, April 24, 2013</a></li><li><sup style='font-size: 10px;'><a href='#_ednref6' id='AncReferenceCount' name='_edn6'><span id='lblReferenceNo'>6</span></a></sup>&nbsp<a href='http://www.sallydaviesphoto.com/gallery.html?gallery=Happy%20Meal%20Project' id='lnkReference'>Sally Davies Photo</a></li><li><sup style='font-size: 10px;'><a href='#_ednref7' id='AncReferenceCount' name='_edn7'><span id='lblReferenceNo'>7</span></a></sup>&nbsp<a href='http://www.mcdonalds.com/us/en/food/product_nutrition.burgerssandwiches.592.mcdouble.html' id='lnkReference'>McDonald&#39;s website</a></li><li><sup style='font-size: 10px;'><a href='#_ednref9' id='AncReferenceCount' name='_edn9'><span id='lblReferenceNo'>9</span></a></sup>&nbsp<a href='https://www.youtube.com/watch?v=wXgSnUmhdws' id='lnkReference'>Youtube.com &quot;Our food. Your questions. Is McDonald&#39;s beef real?&quot;</a></li><li><sup style='font-size: 10px;'><a href='#_ednref10' id='AncReferenceCount' name='_edn10'><span id='lblReferenceNo'>10</span></a></sup>&nbsp<a href='http://www.businessinsider.com/how-mcdonalds-makes-hamburgers-2014-10#ixzz3aetS9pX3' id='lnkReference'>Business Insider, October 13, 2014</a></li><li><sup style='font-size: 10px;'><a href='#_ednref11' id='AncReferenceCount' name='_edn11'><span id='lblReferenceNo'>11</span></a></sup>&nbsp<a href='http://www.cdc.gov/drugresistance/threat-report-2013/index.html' id='lnkReference'>CDC Threat Report 2013 Summary</a></li>
+</ul>
+</div>
+</div>
+<span class="refclone">
+<a id='AncReferenceCount' name='_edn1'></a><a id='AncReferenceCount' name='_edn2'></a><a id='AncReferenceCount' name='_edn3'></a><a id='AncReferenceCount' name='_edn4'></a><a id='AncReferenceCount' name='_edn5'></a><a id='AncReferenceCount' name='_edn8'></a><a id='AncReferenceCount' name='_edn6'></a><a id='AncReferenceCount' name='_edn7'></a><a id='AncReferenceCount' name='_edn9'></a><a id='AncReferenceCount' name='_edn10'></a><a id='AncReferenceCount' name='_edn11'></a>
+</span>
+<div class="clear">
+</div>
+</div>
+<div class="clearfloat">
+</div>
+</div>
+</div>
+<div id="ctl00_bhcr_bbcr_CommentsUpdatePanel">
+<script type="text/javascript">
+window.onload = function(event) { Focus(event); }
+function Focus(e) {
+if (window.location.hash) {
+setTimeout(function() {
+var elementClicked = window.location.hash;
+$('html:not(:animated),body:not(:animated)').animate({
+scrollTop: $(elementClicked).offset().top
+}, 500);
+}, 1000);
+}
+e.preventDefault();
+}
+function closeRewardPoints() {
+$("#RewardPoints").dialog('close');
+$("#iFrameRewardPoints").attr("src", "");
+if ($('#SendmsgDiv').hasClass('ui-dialog-content')) {
+$('#SendmsgDiv').dialog('close')
+}
+}
+function BindEvents() {
+$(document).ready(function() {
+if (!detectmobile()) {
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopRated").tooltip({
+track: true,
+delay: 0,
+showURL: false,
+fade: 250,
+bodyHandler: function() {
+return $($(this).next().html());
+},
+showURL: false
+});
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnNewest").tooltip({
+track: true,
+delay: 0,
+showURL: false,
+fade: 250,
+bodyHandler: function() {
+return $($(this).next().html());
+},
+showURL: false
+});
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnOldest").tooltip({
+track: true,
+delay: 0,
+showURL: false,
+fade: 250,
+bodyHandler: function() {
+return $($(this).next().html());
+},
+showURL: false
+});
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopPoster").tooltip({
+track: true,
+delay: 0,
+showURL: false,
+fade: 250,
+bodyHandler: function() {
+return $($(this).next().html());
+},
+showURL: false
+});
+}
+IpadFixHeader();
+if (detectmobile()) {
+if (navigator.userAgent.match(/Windows Phone/i) !== null) {
+$(window).resize(function() {
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopRated").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnNewest").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnOldest").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopPoster").trigger("mouseleave");
+});
+}
+else {
+// Listen for orientation changes
+window.addEventListener("orientationchange", function() {
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopRated").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnNewest").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnOldest").trigger("mouseleave");
+$("#ctl00_bhcr_bbcr_CommentSectionControl_btnTopPoster").trigger("mouseleave");
+}, false);
+}
+}
+});              
+}   
+</script>
+<script type="text/javascript">
+function SetPostIDToHiddenField(postid, hiddenSelectedPostId) {
+var selectedPostId = document.getElementById(hiddenSelectedPostId);
+selectedPostId.value = postid;
+var elementClicked = "#" + postid;
+var ds = $(elementClicked).position().top;
+var scrollVal = $('#ctl00_bhcr_bbcr_CommentSectionControl_hdnScrollValue');
+if (scrollVal != null) {
+scrollVal.val(ds);
+}
+}
+var CommentsHasExpanded = false;
+function SetFocusOnComment(postID123) {
+if (postID123 != 0) {
+if (postID123 != "commentfocus" || (postID123 == "commentfocus" && !CommentsHasExpanded))
+{
+var elementClicked = "#" + postID123;
+var destination = $(elementClicked).offset().top; $('html:not(:animated),body:not(:animated)').animate({
+scrollTop: destination - 20
+}, 500);
+}
+}
+if (postID123 == "commentfocus")
+{
+CommentsHasExpanded = true;
+}
+return false;
+}
+function SetGridDisplay(hdnValue) {
+if ($('#ctl00_bhcr_bbcr_CommentSectionControl_hdnTotalComments').val() == 0)
+{ hdnValue = 'display'; }
+if (hdnValue != "default") {
+if (hdnValue == 'none') {
+$('#CommentSection').show(100);
+$('#CommentSection').attr('display', 'block');
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('none');
+}
+else {
+$('#CommentSection').hide(100);
+$('#CommentSection').attr('display', 'none');
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('display');
+}
+}
+}
+function DeleteSetTimeOut() {
+var ds = $('#ctl00_bhcr_bbcr_CommentSectionControl_hdnScrollValue').val() - 20;
+window.scrollTo(0, ds);
+}
+function CommentsClick() {
+var zeroCondition = $('#ctl00_bhcr_bbcr_CommentSectionControl_hdnTotalComments').val();
+var attrb = $('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val();
+if (zeroCondition != "0") {
+if (attrb != "default") {
+if (attrb == 'none') {
+$('#CommentSection').hide(100);
+$('#CommentSection').attr('display', 'none');
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('display');
+}
+else {
+$('#CommentSection').show(100);
+$('#CommentSection').attr('display', 'block');
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('none');
+}
+}
+else {
+document.getElementById('CommentSection').style.display = "block";
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('none');
+}
+}
+else {
+$('#CommentSection').hide(100);
+$('#CommentSection').attr('display', 'none');
+$('#ctl00_bhcr_bbcr_CommentSectionControl_lnkbtn_CommunityComments').val("Comments (0)");
+$('#ctl00_bhcr_bbcr_CommentSectionControl_hdn').val('display');
+}
+} 
+</script>
+<div id="RewardPoints" class="etaf-box hidden">
+<div class="etaf-border">
+<div class="closeBtn">
+<a href="javascript:closeRewardPoints();">
+<div class="etafclose"></div>
+</a>
+</div>
+<strong><div id="modalLabel">Reward Points</div></strong>
+<div class="hrpop"> </div>
+<iframe id="iFrameRewardPoints" onload="RewardsResize('iFrameRewardPoints','RewardPoints')" height="300px" width="100%" marginWidth="0" marginHeight="0" frameBorder="0" scrolling="no" ></iframe> 
+<div class="clear"></div>
+</div>
+</div>
+<div id="BadgeModal" class="etaf-box hidden"></div>
+<div class="margindiv" style="padding-top: 0;">
+<script src="//media.mercola.com/js/CommentControlScript.js" type="text/javascript"></script>
+<script src="//media.mercola.com/assets/js/jquery.dialogextend.min.js" type="text/javascript"></script>
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_UpdateProgress2" style="display:none;">
+<div id="progressBackgroundFilter" class="ProgressPnlClass">
+</div>
+<div id="processMessage" class="ProgressMsgClass">
+<div class="modalHolder">
+<div class="loading">
+<div class="marginDiv">
+<img src="//media.mercola.com/themes/mercola/images/loading1.gif" alt="Loading"
+title="Loading" align="absmiddle" class="imgRSpace" />
+<strong>Loading Please Wait</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_UpdatePanel1">
+<div class="clear"></div>  
+<div class="postarticlebtn">
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_anchorPostCommentCommon" name="comments1" onclick="javascript:OpenLoginSignIn();return true;" style="display:block;">
+<div class="hr">
+</div>
+<div class="link16">
+Post your comment</div>
+</a>
+</div>
+<div class="clear">
+</div>
+<div class="hr">
+</div>
+<div class="commentheaderdiv">
+<div class="leftarea">
+<div class="margindiv">
+<span id="ctl00_bhcr_bbcr_CommentSectionControl_lblCommunityComments"></span>
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_lnkbtn_CommunityComments" class="link16" href="javascript:__doPostBack('ctl00$bhcr$bbcr$CommentSectionControl$lnkbtn_CommunityComments','')">[+] Comments (11)</a>
+</div>
+</div>
+<a id="commentfocus" name="commentfocus"></a>   <a name="comments"></a> 
+<div class="rightarea">
+<div class="article-nav">
+<div id="ieBrowser1" style="display:none">
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_PreviousLink1" title="Previous Article" class="button action red prv arrowprev" style="float:left; margin:0 0 0 5px">
+<span class="icon previous"></span>
+<span class="label">Previous Article</span>
+</a> 
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_NextLink1" title="Next Article" class="button action red nxt arrownext" style="float:right; margin:0 0 0 5px">
+<span class="label">Next Article</span>
+<span class="icon next"></span>
+</a>
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_ViewMoreLink1" title="View More" class="button action red nxt arrownext" style="float:right; margin:0 0 0 5px">
+<span class="label">Next Article</span>
+<span class="icon next"></span>
+</a>
+</div>       
+<div id="divPreviousbutton1" class="article-nav" style="display:none">
+</div>
+</div>
+</div>
+<div class="clearfloat">
+</div>
+</div>
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_threadPostHolderDiv" style="display:none;">
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_commentUpdateProgress" style="display:none;">
+<div id="progressBackgroundFilter1" class="ProgressPnlClass">
+</div>
+<div id="processMessage1" class="ProgressMsgClass">
+<div class="modalHolder">
+<div class="loading">
+<div class="marginDiv">
+<img src="//media.mercola.com/themes/mercola/images/loading1.gif" alt="Loading"
+title="Loading" align="absmiddle" class="imgRSpace" />
+<strong>Loading Please Wait</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_CommentUpdatePanel">
+<FormTemplate>
+<a name="post"></a>
+<div class="commentpostdiv">
+<div class="messagediv">
+<div class="margindiv">
+<div class="CommonFormFieldName">
+&nbsp;
+</div>
+<div id="comment-avatar">
+<img id="ctl00_bhcr_bbcr_CommentSectionControl_ImgAvatar" class="post-avatar" align="absmiddle" src="" style="width:63px;border-width:0px;" />
+</div>
+<div id="comment-box">
+<div id="comment-btn">
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnSubmit" value="Post Comment" onclick="javascript:return CharacterLimit('divShareButtons');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$bhcr$bbcr$CommentSectionControl$btnSubmit&quot;, &quot;&quot;, true, &quot;CreateCommentForm&quot;, &quot;&quot;, false, false))" id="ctl00_bhcr_bbcr_CommentSectionControl_btnSubmit" class="button action blue btn-white-txt btn-comment" ResourceName="PostComment" />
+</div>
+<div class="txtareadiv">
+<textarea name="ctl00$bhcr$bbcr$CommentSectionControl$tbComment" rows="5" cols="90" id="ctl00_bhcr_bbcr_CommentSectionControl_tbComment" class="post-comment" onfocus="javascript:if(this.value=='Leave a comment...'){this.value='';this.style.color='black'}" onblur="javascript:if(this.value==''){this.value='Leave a comment...';this.style.color='gray'}" onkeyup="javascript:CharacterCount('tbComment','countingMessageAddComment');" style="color:Gray;">Leave a comment...</textarea>  
+</div>
+<div class="clear"></div>
+<div class="countingMessageAddComment">
+<span id="countingMessageAddComment"></span>
+</div>
+</div>
+<div class="clearfloat">
+</div>
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+</FormTemplate>
+</CSBlog:WeblogPostCommentForm>
+</div>
+</div>
+<div class="clearfloat">
+</div>
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hdnFilterOption" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hdnFilterOption" />
+<input type="hidden" name="ctl00$bhcr$bbcr$CommentSectionControl$hdnCurrentPostID" id="ctl00_bhcr_bbcr_CommentSectionControl_hdnCurrentPostID" value="710452" />
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hdn" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hdn" value="default" />
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hdnTotalComments" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hdnTotalComments" value="11" />
+<div id="CommentSection" style="display:none;margin:0 0 0 0;"  >
+<div id="ctl00_bhcr_bbcr_CommentSectionControl_divSorting">
+<ul class="sort-options"> 
+<li class="sort-title">
+<b>Sort Comments by :</b>
+</li>
+<li>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnTopRated" value="Top Rated" id="ctl00_bhcr_bbcr_CommentSectionControl_btnTopRated" class="Comments" />
+<div id="DivRated" style="display: none">
+<div class="tooltip-sort">
+<div class="tooltip-arrow"></div>
+Discover the comments that have the most impact on our readers.
+</div>
+</div>
+</li>
+<li>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnNewest" value="Newest" id="ctl00_bhcr_bbcr_CommentSectionControl_btnNewest" class="button action sortcomments" />
+<div id="DivNew" style="display: none">
+<div class="tooltip-sort">
+<div class="tooltip-arrow"></div>
+View this article’s most recent comments.
+</div>
+</div>
+</li>
+<li>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnOldest" value="Oldest" id="ctl00_bhcr_bbcr_CommentSectionControl_btnOldest" class="button action sortcomments" />
+<div id="divOld" style="display: none">
+<div class="tooltip-sort">
+<div class="tooltip-arrow"></div>
+Read your fellow readers’ comments arranged from oldest to newest.
+</div>
+</div>
+</li>
+<li>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnTopPoster" value="Top Poster" id="ctl00_bhcr_bbcr_CommentSectionControl_btnTopPoster" class="button action sortcomments" />
+<div id="divPoster" style="display: none">
+<div class="tooltip-sort">
+<div class="tooltip-arrow"></div>
+See what our top posters have to say about this article.
+</div>
+</div>
+</li>
+<div class="clear"></div>
+</ul>
+</div>
+<div class="hr"></div>
+<div>
+</div>
+<div style="float: left; margin-top: 5px;">
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_divPostCommentanchor" name="comments" onclick="javascript:OpenLoginSignIn();return true;">
+<div class="link16">
+Post your comment</div>
+</a>
+</div>
+<div id="divShareButtons" class="article-nav">
+<div id="ieBrowser2" style="display:none">
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_PreviousLink2" title="Previous Article" class="button action red prv arrowprev" style="float:left; margin:0 0 0 5px">
+<span class="icon previous"></span>
+<span class="label">Previous Article</span>
+</a> 
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_NextLink2" title="Next Article" class="button action red nxt arrownext" style="float:right; margin:0 0 0 5px">
+<span class="label">Next Article</span>
+<span class="icon next"></span>
+</a>
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_ViewMoreLink2" title="View More" class="button action red nxt arrownext" style="float:right; margin:0 0 0 5px">
+<span class="label">View More</span>
+<span class="icon next"></span>
+</a>
+</div>       
+<div id="divPreviousbutton2" class="article-nav" style="display:none">
+<span class="icon previous"></span>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+Sys.Application.add_load(BindEvents);
+</script>
+</div>
+<div id="divPostSubcomment" class="hidden">
+<h2>
+Reply to this thread</h2>
+<span class="Txtsmall">(2000 Characters only.)</span><br />
+<textarea name="ctl00$bhcr$bbcr$CommentSectionControl$txtSubComment" rows="14" cols="20" id="ctl00_bhcr_bbcr_CommentSectionControl_txtSubComment" onkeyup="javascript:CharacterCount('txtSubComment','countingMessagePostSubComment');" style="width:100%;"></textarea>
+<br />
+<span id="countingMessagePostSubComment">Characters remaining:</span> <span id="subCommentRequiredMessage"
+style="color: red; display: none;">* Please enter your comment!</span>
+<br />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnSubCommentSubmit" value="Submit" onclick="javascript:return AllowReply();" id="ctl00_bhcr_bbcr_CommentSectionControl_btnSubCommentSubmit" class="button action" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnSubCommentCancel" value="Cancel" onclick="hideSelecteddiv();" id="ctl00_bhcr_bbcr_CommentSectionControl_btnSubCommentCancel" class="button action" />
+<br />
+<br />
+</div>
+<div id="divEditcomment" class="hidden">
+<h2>
+Edit Your Comment
+</h2>
+(2000 Characters only.)<br />
+<textarea name="ctl00$bhcr$bbcr$CommentSectionControl$txtEditComment" rows="12" cols="20" id="ctl00_bhcr_bbcr_CommentSectionControl_txtEditComment" onkeyup="javascript:CharacterCount('txtEditComment','countingMessageEditComment');" style="width:100%;"></textarea>
+<br />
+<span id="countingMessageEditComment">Characters remaining: </span><span id="editCommentRequiredMessage"
+style="color: red; display: none;">* Please enter your comment!</span>
+<br />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnEditCommentSubmit" value="Submit" onclick="javascript:return AllowEdit();" id="ctl00_bhcr_bbcr_CommentSectionControl_btnEditCommentSubmit" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnEditCommentCancel" value="Cancel" onclick="hideSelecteddiv();" id="ctl00_bhcr_bbcr_CommentSectionControl_btnEditCommentCancel" />
+<br />
+<br />
+</div>
+<div id="divSpam" style="display: none;">
+<div class="CommonMessageSuccess">
+<div  style="width:100%;text-align:right;">
+<a id="ctl00_bhcr_bbcr_CommentSectionControl_lnkHidedivSpam" onclick="hideSelecteddiv();">            
+<img width="15" height="15" border="0" alt="Hide this" src="//media.mercola.com/themes/mercola/images/hide.png" />
+</a>
+</div>
+<div>
+<span id="ctl00_bhcr_bbcr_CommentSectionControl_lblSpamMessage"></span>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnMarkAsSpam" value="Mark As Spam" id="ctl00_bhcr_bbcr_CommentSectionControl_btnMarkAsSpam" />
+</div>
+</div>
+<br />
+</div>
+<div id="layer1" class="SpamWindow hidden">
+<div class="etaf-box">
+<div class="etaf-border">
+<p class="title">Comment deleted violating the aspect of our terms of use</p>
+<div class="ContentArea">
+<div class="leftContent">
+<div class="rightContent">
+<div class="marginDiv">
+<p>
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnDelandBan" value="Submit" id="ctl00_bhcr_bbcr_CommentSectionControl_btnDelandBan" class="btnSpam" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnDelandWarn" value="Submit" id="ctl00_bhcr_bbcr_CommentSectionControl_btnDelandWarn" class="btnSpam" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnDelandTempBan" value="Submit" id="ctl00_bhcr_bbcr_CommentSectionControl_btnDelandTempBan" class="btnSpam" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnBanNHide" value="Submit" id="ctl00_bhcr_bbcr_CommentSectionControl_btnBanNHide" class="btnSpam" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnBanNShow" value="Submit" id="ctl00_bhcr_bbcr_CommentSectionControl_btnBanNShow" class="btnSpam" />
+<input type="submit" name="ctl00$bhcr$bbcr$CommentSectionControl$btnCancel" value="Cancel" onclick="javascript:CloseSpamOptionDiv();return false;" id="ctl00_bhcr_bbcr_CommentSectionControl_btnCancel" class="btnSpam" />
+</p>
+<div class="clear">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hiddenSelectedPostId" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hiddenSelectedPostId" />
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hdnScrollValue" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hdnScrollValue" />
+<input name="ctl00$bhcr$bbcr$CommentSectionControl$hiddenSelectedUserId" type="hidden" id="ctl00_bhcr_bbcr_CommentSectionControl_hiddenSelectedUserId" />
+<p id="commentsarea">
+</p>
+<div class="clear">
+</div>
+</div>
+<script type="text/javascript">
+function detectmobile() {
+if (navigator.userAgent.match(/Android/i)
+|| navigator.userAgent.match(/webOS/i)
+|| navigator.userAgent.match(/iPhone/i)
+|| navigator.userAgent.match(/iPad/i)
+|| navigator.userAgent.match(/iPod/i)
+|| navigator.userAgent.match(/BlackBerry/i)
+|| navigator.userAgent.match(/Windows Phone/i)
+) {
+return true;
+}
+else {
+return false;
+}
+}
+$(function() {
+//One instance that's reused to show info for the Badges
+var container = $('<div id="badgeInfoPopupContainer" class="badge-tooltip">'
++ '<table class="tooltip" width="" border="0" cellspacing="0" cellpadding="0">'
++ '<tr>'
++ '<td class="corner topLeft"></td>'
++ '<td class="top"></td>'
++ '<td class="corner topRight"></td></tr>'
++ '<tr><td class="left">&nbsp;</td>'
++ '   <td><div id="badgeInfoPopupContent">'
++ '          <img src="http://media.mercola.com/themes/mercola/images/25.gif" alt="Loading" title="Loading" align="absmiddle" class="imgRSpace" />'
++ '   </div></td>'
++ '<td class="right">'
++ '<div id="tooltip-tail"> </div>'
++ '&nbsp;</td>'
++ '</tr>'
++ '<tr>'
++ '<td class="corner bottomLeft">&nbsp;</td>'
++ '<td class="bottom">&nbsp;</td>'
++ '<td class="corner bottomRight"></td>'
++ '</tr>'
++ '</table>'
++ '</div>');
+$('body').append(container);
+var hideDelay = 500;
+var currentID;
+var hideTimer = null;
+//start IOS condition
+if (!detectmobile()) {
+$(document).on('mouseover', '.badgeInfoPopupTrigger', function() {
+var settings = $(this).attr('rel').split(',');
+var roleName = settings[0];
+var userName = settings[1];
+if (hideTimer)
+clearTimeout(hideTimer);
+var pos = $(this).offset();
+var width = $(this).width();
+var popUpWidth = $('#badgeInfoPopupContainer').width();
+var leftPost = popUpWidth + 20;
+if (popUpWidth > 200)
+{ leftPost = 370 }
+$('#badgeInfoPopupContainer').css({
+left: (pos.left) - leftPost + 'px',
+top: pos.top - 5 + 'px'
+});
+//console.log($('#badgeInfoPopupContainer').css(left));
+var desc = GetRoleInfo(roleName);
+desc = desc.replace('{{User-Name}}', userName);
+$('#badgeInfoPopupContent').html(desc);
+$('#badgeInfoPopupContainer').css('display', 'block');
+});
+$(document).on('mouseout', '.badgeInfoPopupTrigger', function() {
+if (hideTimer)
+clearTimeout(hideTimer);
+hideTimer = setTimeout(function() {
+$('#badgeInfoPopupContainer').css('display', 'none');
+}, hideDelay);
+});
+// Allow mouse over of details without hiding details
+$('#badgeInfoPopupContainer').mouseover(function() {
+if (hideTimer)
+clearTimeout(hideTimer);
+});
+// Hide after mouseout
+$('#badgeInfoPopupContainer').mouseout(function() {
+if (hideTimer)
+clearTimeout(hideTimer);
+hideTimer = setTimeout(function() {
+container.css('display', 'none');
+}, hideDelay);
+});
+} //end IOS condition
+else {
+var eventT = 'touchend';
+//Use click event instead of touchend for windows mobile
+if (navigator.userAgent.match(/Windows Phone/i) !== null) {
+eventT = 'click';
+}
+$(document).on(eventT, '.badgeInfoPopupTrigger', function() {   
+if ($("[aria-describedby='BadgeModal']").length != 0)
+{       
+$("[aria-describedby='BadgeModal']").remove();         
+}
+var settings = $(this).attr('rel').split(',');
+var roleName = settings[0];
+var userName = settings[1];
+var pageURL = 'http://' + location.hostname;
+var parentUrl = parent.location.href;
+var popUpUrl = pageURL + '/sites/mercola/badge-popup.aspx?rolename=' + roleName + '&username=' + userName;
+//$("#BadgeModal").html('<iframe onload="badgeModalResize()" id="badgeIframeId" width="100%"  marginWidth="0" marginHeight="0" frameBorder="0" scrolling="no" />');               
+$("#BadgeModal").html('<div class="etaf-border"><div class="closeBtn"><a href="javascript:closeBadgeModal();"> <div class="etafclose"></div></a></div><div class="hrpop"> </div> <iframe onload="badgeModalResize();" id="badgeIframeId" width="100%" marginWidth="0" marginHeight="0" frameBorder="0" scrolling="no" /> <div class="clear"></div></div>');
+var rrBadge = $("#BadgeModal").dialog({
+modal: true,
+height: 'auto', 
+width: 'auto', 
+draggable: false,
+resizable: false, 
+autoResize: true, 
+fluid: true 
+,autoOpen: false
+});
+$("#badgeIframeId").attr("src", popUpUrl);
+rrBadge.dialog("open");
+$("#BadgeModal").position({
+my: "center",
+at: "center",
+of: window
+});  
+});
+}
+//Script to resize Popup dialog popupsize on browser resize
+$(window).resize(function() {
+var iFrameID = document.getElementById('iFrameRewardPoints');
+if (iFrameID) {     // here you can make the height, I delete it first, then I make it again   
+if (iFrameID.contentWindow.document.body !== null)//IE fix, check if body exist before accessing scroll height
+{
+iFrameID.height = ""
+iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+}
+}
+//Script to put rrpopup dialog in center position when browser is resized
+if ($("#iFrameRewardPoints").length > 0) {
+if ($("#RewardPoints").hasClass('ui-dialog-content')) {
+$("#RewardPoints").dialog("option", "position", "center");
+}
+}
+if(detectmobile())
+{
+var iFrameIDbadge = document.getElementById('badgeIframeId');
+if (iFrameIDbadge) {     // here you can make the height, I delete it first, then I make it again   
+if (iFrameIDbadge.contentWindow.document.body !== null)//IE fix, check if body exist before accessing scroll height
+{
+iFrameIDbadge.height = ""
+iFrameIDbadge.height = iFrameIDbadge.contentWindow.document.body.scrollHeight + "px";
+}
+}
+//Script to put rrpopup dialog in center position when browser is resized
+if ($("#BadgeModal").length > 0) {
+if ($("#BadgeModal").hasClass('ui-dialog-content')) {
+$("#BadgeModal").dialog("option", "position", "center");
+}
+}
+}
+});
+});
+function closeBadgeModal() {
+$("#BadgeModal").dialog('close');
+}
+//Script to force rrpopupresize on iframe load
+function badgeModalResize()
+{
+//Do not apply rrpopup resize when user is using IPAD
+//var isiPad = navigator.userAgent.match(/iPad/i) != null;
+//  if ( !isiPad )
+//{
+var iFrameID = document.getElementById('badgeIframeId');
+if(iFrameID)
+{	
+//Set iphone rrpopupdialog to 100%
+var isiPhone = navigator.userAgent.match(/iPhone/i) != null;
+if(isiPhone)
+{
+$('#badgeIframeId').height('100%');
+} 
+// here you can make the height, delete it first, then I make it again
+iFrameID.height = "";
+iFrameID.height = "";
+iFrameID.height = (iFrameID.contentWindow.document.body.scrollHeight) + "px";
+//Force position to center
+if ($("#BadgeModal").hasClass('ui-dialog-content')) {
+$("#BadgeModal").dialog("option", "position", "center");
+}
+}   
+// }
+}
+</script>
+<script type="text/javascript" src="//media.mercola.com/js/scrollable.min.js"></script>
+<script src="//media.mercola.com/assets/js/jquery.tooltip.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-subscribe" class="dontprint">
+<div class="footer-wrap fix-width">
+<div id="footer-subscribe" class="fix-width">
+<div class="subscribe-title">
+Subscribe to The World's #1 Natural Health Website<span>†</span>
+</div>
+<div class="subscribe-box">	
+<script type="text/javascript">
+$(document).ready(function() {
+$('.jquerydrop').hover(function() { $("#ctl00_NewsletterSubscriptionBottom_emailAddress").blur(); });
+});
+</script>
+<div class="subscribe-txtbox">	
+<input name="ctl00$NewsletterSubscriptionBottom$emailAddress" type="text" value="Enter your email address" maxlength="100" id="ctl00_NewsletterSubscriptionBottom_emailAddress" onfocus="javascript:if(this.value=='Enter your email address'){this.value=''}" onblur="javascript:if(this.value==''){this.value='Enter your email address'}" onkeypress="return ContinueSubscription(event,'ctl00_NewsletterSubscriptionBottom_Subscribe','ctl00_NewsletterSubscriptionBottom_emailAddress')" />
+</div>
+<div Style="display: none;">
+<span id="ctl00_NewsletterSubscriptionBottom_Loding" class="MsgBoardStyle" style="display: none;
+font-size: 14px; padding-top: 8px;">Loading Please Wait</span>
+<img src="/themes/mercola/images/loadingDotDot.gif" id="ctl00_NewsletterSubscriptionBottom_wheel" alt="Loading Please Wait" style="display: none" />
+</div>
+<input type="submit" name="ctl00$NewsletterSubscriptionBottom$Subscribe" value="Subscribe Now!" onclick="return showprogress('ctl00_NewsletterSubscriptionBottom_Loding','ctl00_NewsletterSubscriptionBottom_wheel','ctl00_NewsletterSubscriptionBottom_Subscribe','ctl00_NewsletterSubscriptionBottom_emailAddress');" id="ctl00_NewsletterSubscriptionBottom_Subscribe" class="button action blue subscribe-btn" />
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="partners" class="notphone dontprint">
+<footer class="fix-width">
+<p class="partners-title">Thank you! Your purchases help us support these charities and organizations.</p>
+<table id="partners-table" cellspacing="0" cellpadding="0" border="0" width="100%" align="center" >
+<tr><td align="center"><a target="_blank" href="http://fooddemocracynow.org/"><img height="39" border="0" width="116" alt="Food Democracy Now" src="//media.mercola.com/assets/images/mercola/fooddemocracy.gif" style="margin-top:25px;"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://www.toxicteeth.org"><img height="86" border="0" width="164" alt="Mercury Free Dentistry" src="//media.mercola.com/assets/images/mercola/toxic-teeth.gif"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://www.fluoridealert.org"><img height="86" border="0" width="173" alt="Fluoride Action Network" src="//media.mercola.com/assets/images/mercola/fluoride-action-network.gif"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://www.nvic.org"><img height="80" border="0" width="105" alt="National Vaccine Information Center" src="//media.mercola.com/assets/images/mercola/nvic.gif"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://www.responsibletechnology.org"><img height="70" border="0" width="145" alt="Institute for Responsible Technology" src="//media.mercola.com/assets/images/mercola/responsible-technology.gif"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://www.organicconsumers.org"><img height="69" border="0" width="69" alt="Organic Consumers Association" src="//media.mercola.com/assets/images/mercola/organic-consumers-b.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.nutritionadvocacy.org/"><img height="70" border="0" width="100" alt="Center for Nutrtion Advocacy" src="//media.mercola.com/assets/images/mercola/center-nutrition-advocacy.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.cornucopia.org"><img height="69" border="0" width="85" alt="Cornucopia Institute" src="//media.mercola.com/assets/images/mercola/cornucopia-institute.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.vitamindcouncil.org"><img height="69" border="0" width="197" alt="Vitamin D Council" src="//media.mercola.com/assets/images/mercola/vitamind-council.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.anh-usa.org"><img height="69" border="0" width="82" alt="Alliance for Natural Health USA" src="//media.mercola.com/assets/images/mercola/anh-usa.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.grassrootshealth.net"><img height="69" border="0" width="159" alt="GrassrootsHealth - Vitamin D*action" src="//media.mercola.com/assets/images/mercola/grassroots-health.gif"></a></td></tr> 
+<tr><td align="center"><a target="_blank" href="http://www.ahvmf.org"><img height="77" border="0" width="62" alt="American Holistic Veterinary Medical Foundation" src="//media.mercola.com/assets/images/mercola/ahvfm5-b.gif" style="padding-left:5px;"></a></td></tr>  
+<tr><td align="center"><a target="_blank" href="http://www.rabieschallengefund.org"><img height="45" border="0" width="180" alt="The Rabies Challenge Fund" src="//media.mercola.com/assets/images/mercola/rfc.gif" style="padding-top:15px;"></a></td></tr>
+<tr><td align="center"><a target="_blank" href="http://catis-mexico.org/"><img height="69" border="0" width="76" alt="Cropped Catis Mexico" src="//media.mercola.com/assets/images/mercola/cropped-catis-mexico.gif"></a></td></tr>
+</table>
+</footer>
+</div>
+<div id="footercontainer" class="dontprint">
+<footer class="fix-width">
+<div class="section group notphone" id="footer-links">
+<div id="footerlinkscontainer">
+<div class="col span_1_of_3">
+<ul>
+<li class="footerlinks-title">Inside Mercola.com</li>
+<li><a href="http://www.mercola.com/forms/background.htm">About Dr. Mercola</a></li>
+<li><a href="http://shop.mercola.com/pages/ContactUs.aspx">Contact Us</a></li>
+<li><a href="http://espanol.mercola.com/">En Espanol</a></li>
+<li><a href="http://articles.mercola.com/">Health Articles</a></li>
+<li><a href="http://articles.mercola.com/videos.aspx">Health Videos</a></li>
+<li><a href="http://www.mercola.com/pressroom/about.htm#media">Media Inquiries</a></li>
+<li><a href="http://www.mercola.com/Help/faq/community.htm">Mercola Community FAQ</a></li>
+<li><a href="http://www.mercola.org/">Mercola Social Responsibility</a></li>
+<li><a href="http://www.mercola.com/pressroom.aspx">Press Room</a></li>
+<li><a href="http://www.mercola.com/Downloads/bonus/free-reports.aspx">Special Reports</a></li>
+<li><a href="http://shop.mercola.com/pages/term-conditions.aspx">Terms of Use</a></li>
+<li><a href="http://media.mercola.com/assets/html/privacy/security_privacy.html">Updated Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col span_1_of_3">
+<ul>
+<li class="footerlinks-title">Special Info Sites</li>
+<li><a href="http://aspartame.mercola.com/">Aspartame</a></li>
+<li><a href="http://cancer.mercola.com/">Cancer</a></li>
+<li><a href="http://fitness.mercola.com/">Fitness</a></li>
+<li><a href="http://fluoride.mercola.com/">Fluoride</a></li>
+<li><a href="http://fructose.mercola.com/">Fructose/Sugar</a></li>
+<li><a href="http://gmo.mercola.com/">GMO</a></li>
+<li><a href="http://mercury.mercola.com/">Mercury</a></li>
+<li><a href="http://nutritionaltype.mercola.com/">Nutritional Typing</a></li>
+<li><a href="http://healthypets.mercola.com/">Pets</a></li>
+<li><a href="http://vaccines.mercola.com/">Vaccines</a></li>
+<li><a href="http://vitamind.mercola.com/">Vitamin D</a></li>
+</ul>
+</div>
+<div class="col span_1_of_3">
+<ul>
+<li class="footerlinks-title">Shopping</li>
+<li><a href="http://shop.mercola.com/pages/AutoShip.aspx">Autoship Program</a></li>
+<li><a href="http://shop.mercola.com/pages/california-supply-chain-law.aspx">California Residents</a></li>
+<li><a href="http://shop.mercola.com/pages/quality.aspx">Dedicated to Quality</a></li>
+<li><a href="http://shop.mercola.com/pages/FAQ.aspx">FAQs</a></li>
+<li><a href="http://shop.mercola.com/pages/gmo-free.aspx">GMO-Free Products</a></li>
+<li><a href="http://shop.mercola.com/pages/healthyrewards.aspx">Healthy Rewards Program</a></li>
+<li><a href="http://shop.mercola.com/pages/low-price-guarantee.aspx">Low Price Guarantee</a></li>
+<li><a href="http://shop.mercola.com/">Online Shopping</a></li>
+<li><a href="http://shop.mercola.com/pages/returns.aspx">Return Policy</a></li>
+<li><a href="http://shop.mercola.com/pages/shippingpolicy.aspx">Shipping Policy</a></li>
+<li><a href="http://shop.mercola.com/storelocator.aspx">Store Locator</a></li>
+<li><a href="http://shop.mercola.com/pages/quality-service.aspx">Simply Spectacular Service</a></li>
+<li><a href="http://shop.mercola.com/pages/Wholesale.aspx">Wholesale Program</a></li>
+</ul>
+</div>
+</div>
+</div>
+<p>
+<strong>Disclaimer:</strong> The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual articles are based upon the opinions of the respective author, who retains copyright as marked. The information on this website is not intended to replace a one-on-one relationship with a qualified health care professional and is not intended as medical advice. It is intended as a sharing of knowledge and information from the research and experience of Dr. Mercola and his community. Dr. Mercola encourages you to make your own health care decisions based upon your research and in partnership with a qualified health care professional. If you are pregnant, nursing, taking medication, or have a medical condition, consult your health care professional before using products based on this content.
+</p>
+<p class="whitelink">
+If you want to use an article on your site please <a href="http://www.mercola.com/Citations/index.htm" rel="nofollow">click here</a>. This content may be copied in full, with copyright,
+contact, creation and information intact, without specific permission, when used
+only in a not-for-profit format. If any other use is desired, permission in writing
+from Dr. Mercola is required.
+</p>
+<p class="whitelink" align="center">
+<sup>†</sup>The World's #1 Natural Health Website claim is based upon <a href="http://www.mercola.com/forms/rankings.htm" rel="nofollow">Alexa Natural Health Website rankings</a>.</p> 
+<p align="center">
+&copy; Copyright 1997-<script type="text/javascript"> 
+    var dteNow = new Date();
+    var intYear = dteNow.getFullYear();
+    document.write(intYear);
+</script>
+Dr. Joseph Mercola. All Rights Reserved.
+</p>
+</footer>
+</div>
+<div id="footer-seal" class="dontprint">
+<div class="footer-wrap fix-width">
+<ul><li class="col span_1_of_5"><div><a target="_blank" title="Mercola Health Resources, LLC BBB Business Review" href="http://www.bbb.org/chicago/business-reviews/vitamins-and-food-supplements/mercola-health-resources-llc-in-hoffman-estates-il-22002555/#bbbonlineclick"><img alt="Mercola Health Resources, LLC BBB Business Review" style="border: 0;" src="//seal-chicago.bbb.org/seals/blue-seal-120-61-mercola-health-resources-llc-22002555.png" /></a></div></li><li class="col span_1_of_5"><div><!-- START SCANALERT CODE -->
+<a rel="nofollow" href="https://www.mcafeesecure.com/RatingVerify?ref=articles.mercola.com" target="_blank"><img oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" border="0" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/shop.mercola.com/23.gif" width="94" height="54"></a>
+<!-- END SCANALERT CODE --></div></li><li class="col span_1_of_5"><div><div id="092068fd-4b5e-4b44-b37c-786b2145bf0f"><script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Mercola-com/asc?rid=092068fd-4b5e-4b44-b37c-786b2145bf0f"></script><a href="//privacy.truste.com/privacy-seal/Mercola-com/validation?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Mercola-com/seal?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f" alt="TRUSTe online privacy certification"/></a></div></div></li><li class="col span_1_of_5"><div><script type="text/javascript" src="https://seal.geotrust.com/getgeotrustsslseal?host_name=articles.mercola.com&amp;size=S&amp;lang=en"></script><br />
+<a href="http://www.geotrust.com/ssl/" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"></a></div></li><li class="col span_1_of_5"><div><a href="http://media.mercola.com/assets/html/privacy/security_privacy.html" border="0"><img src="//media.mercola.com/assets/images/privacy-policy.gif" width="172" height="48" alt="Privacy Policy"></a></div></li><div class="clear"></div></ul>
+</div>
+</div>
+<script>
+var monitor = setInterval(function () {
+var elem = document.activeElement;
+if (elem && elem.tagName == 'IFRAME' && elem.id != 'ctl00_bcr_VideoFrame' && elem.id != 'iframeheight') {
+clearInterval(monitor);
+$('.social-icons > li').mousedown();
+}
+}, 100);
+</script>
+</div> 
+<div id="ctl00_hiddenforms_Updatehiddenforms">
+<input type="hidden" name="ctl00$hiddenforms$hdnShare" id="ctl00_hiddenforms_hdnShare" />
+</div>
+<div class="hidden">
+</div>
+<div>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2E94B4EF" />
+</div>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+rdf:about="http://articles.mercola.com/sites/articles/archive/2098/12/31/mcdonalds-hamburger.aspx"
+dc:identifier="http://articles.mercola.com/sites/articles/archive/2098/12/31/mcdonalds-hamburger.aspx"
+dc:title="What Happens to Your Body When You Eat a McDonald’s Hamburger?"
+trackback:ping="http://articles.mercola.com/sites/articles/trackback.ashx?PostID=710452" />
+</rdf:RDF>
+-->
+<script type="text/javascript">
+// <![CDATA[
+Telligent_Modal.Configure('/utility/loading.htm',['CommonModal'],['CommonModalTitle'],['CommonModalClose'],['CommonModalContent'],['CommonModalFooter'],['CommonModalResize'],['CommonModalMask'],100,false,true);
+// ]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NzYxNzc3MDUPZBYCZg9kFgRmD2QWBAIFD2QWAmYPZBYCAgEPFgIeBFRleHQFM1doYXQgSGFwcGVucyBXaGVuIFlvdSBFYXQgYSBNY0RvbmFsZOKAmXMgSGFtYnVyZ2VyP2QCCQ9kFhICAQ8WAh8ABXs8bGluayByZWw9ImltYWdlX3NyYyIgaHJlZj0iaHR0cHM6Ly9tZWRpYS5tZXJjb2xhLmNvbS9JbWFnZVNlcnZlci9QdWJsaWMvMjAxNS9KdW5lL3doYXQtaGFwcGVucy1tY2RvbmFsZHMtYnVyZ2VyLWZiLmpwZyIgLz5kAgMPFgIeB2NvbnRlbnQFW2h0dHBzOi8vbWVkaWEubWVyY29sYS5jb20vSW1hZ2VTZXJ2ZXIvUHVibGljLzIwMTUvSnVuZS93aGF0LWhhcHBlbnMtbWNkb25hbGRzLWJ1cmdlci1mYi5qcGdkAgcPFgIfAQUzV2hhdCBIYXBwZW5zIFdoZW4gWW91IEVhdCBhIE1jRG9uYWxk4oCZcyBIYW1idXJnZXI/ZAIJDxYCHwEFNGh0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9tY2RvbmFsZHMtaGFtYnVyZ2VyLmFzcHhkAgsPFgIfAQWjAUV4cGVyaW1lbnRzIGZvdW5kIHRoYXQgTWNEb25hbGTigJlzIGhhbWJ1cmdlciBkb2VzIG5vdCBkZWNvbXBvc2UgZXZlbiBhZnRlciBzZXZlcmFsIHllYXJzIOKAkyB3aGF04oCZcyBleGFjdGx5IGluIHRoZXNlIHBhdHRpZXMgYW5kIGhvdyBkbyB0aGV5IGFmZmVjdCB5b3VyIGhlYWx0aD9kAg8PFgIfAQUzV2hhdCBIYXBwZW5zIFdoZW4gWW91IEVhdCBhIE1jRG9uYWxk4oCZcyBIYW1idXJnZXI/ZAIRDxYCHwEFowFFeHBlcmltZW50cyBmb3VuZCB0aGF0IE1jRG9uYWxk4oCZcyBoYW1idXJnZXIgZG9lcyBub3QgZGVjb21wb3NlIGV2ZW4gYWZ0ZXIgc2V2ZXJhbCB5ZWFycyDigJMgd2hhdOKAmXMgZXhhY3RseSBpbiB0aGVzZSBwYXR0aWVzIGFuZCBob3cgZG8gdGhleSBhZmZlY3QgeW91ciBoZWFsdGg/ZAITDxYCHwEFW2h0dHBzOi8vbWVkaWEubWVyY29sYS5jb20vSW1hZ2VTZXJ2ZXIvUHVibGljLzIwMTUvSnVuZS93aGF0LWhhcHBlbnMtbWNkb25hbGRzLWJ1cmdlci1mYi5qcGdkAhUPFgIfAQVWaHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjA5OC8xMi8zMS9tY2RvbmFsZHMtaGFtYnVyZ2VyLmFzcHhkAgQQZGQWBgIVD2QWBgIBD2QWAmYPZBYCAgEPFgIeB1Zpc2libGVnFgQCAQ8WAh8CZxYCAgEQDxYEHghJbWFnZVVybAVOaHR0cDovL21lZGlhLm1lcmNvbGEuY29tL0ltYWdlU2VydmVyL1B1YmxpYy8yMDk4L0RlY2VtYmVyL21jZG9uYWxkcy1idXJnZXIuanBnHg1BbHRlcm5hdGVUZXh0BRBtY2RvbmFsZHMgYnVyZ2VyZGRkAgMPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWAgIBDw8WAh8ABZIBTWNEb25hbGTigJlzIHNlbGxzIDc1IGhhbWJ1cmdlcnMgZXZlcnkgc2Vjb25kLCBhbW91bnRpbmcgdG8gb3ZlciAyLjM2IGJpbGxpb24gYnVyZ2VycyBwZXIgeWVhciDigJMgcm91Z2hseSB0aGUgZXF1aXZhbGVudCBvZiBlYXRpbmcgYSBtaWxsaW9uIGNvd3NkZAICD2QWAgIBDw8WAh8ABaABSG93ZXZlciwgdGhlcmUgaGF2ZSBiZWVuIGRpc3R1cmJpbmcgcmVwb3J0cyBvZiBNY0RvbmFsZOKAmXMgaGFtYnVyZ2VycyB0aGF0IGRvIG5vdCBkZWNvbXBvc2Ugb3Igcm90IGZvciB3ZWVrcywgbW9udGhzLCBvciBldmVuIHllYXJzIGFmdGVyIHRoZXnigJl2ZSBiZWVuIGNvb2tlZGRkAgMPZBYCAgEPDxYCHwAFoAJJbiBNYXJjaCAyMDE1LCBNY0RvbmFsZOKAmXMgYW5ub3VuY2VkIHRoYXQgdGhleSBhcmUgZ29pbmcgdG8gYmUgYnV5aW5nIG9ubHkgY2hpY2tlbiByYWlzZWQgd2l0aG91dCBhbnRpYmlvdGljcyBpbXBvcnRhbnQgdG8gaHVtYW4gbWVkaWNpbmU7IEhvd2V2ZXIsIHRoZXkgc3RpbGwgZG8gbm90IGhhdmUgcGxhbnMgdG8gbWFrZSBhbnkgY2hhbmdlcyB0byB0aGVpciBtZWF0LCB3aGljaCBjb21lIGZyb20gZmFjdG9yeSBmYXJtcyBvciBjb25maW5lZCBhbmltYWwgZmVlZGluZyBvcGVyYXRpb25zIChDQUZPcylkZAIED2QWAgIBDw8WAh8ABfIBSnVzdCBsaWtlIGl0cyBoYW1idXJnZXJzLCBNY0RvbmFsZOKAmXMgQ2hpY2tlbiBNY051Z2dldHMgYW5kIE1jUmliIHBvcmsgc2FuZHdpY2ggYWxzbyBjYW1lIHVuZGVyIGZpcmUgYmVjYXVzZSBvZiB0aGVpciBxdWVzdGlvbmFibGUgc3ludGhldGljIGluZ3JlZGllbnRzOyBNY0RvbmFsZOKAmXMgZnJpZXMgc29sZCBpbiBBbWVyaWNhbiBzdG9yZXMgd2VyZSBhbHNvIGZvdW5kIHRvIGNvbnRhaW4gdG94aWMgaW5ncmVkaWVudHNkZAIDD2QWAmYPFgQfBQIFHwJnFgoCAQ9kFgRmDxUBATFkAgEPFgIeBGhyZWYFU2h0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9zaXRlcy9hcnRpY2xlcy9hcmNoaXZlLzIwMTYvMDIvMTQvdml0YW1pbi1kLWF1dGlzbS5hc3B4FgJmDxUBS05ldyBEaXNjb3ZlcmllcyBNYXkgVW5sb2NrIHRoZSBMaW5rIEJldHdlZW4gVml0YW1pbiBEIERlZmljaWVuY3kgYW5kIEF1dGlzbWQCAg9kFgRmDxUBATJkAgEPFgIfBgVaaHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjAxNi8wMi8xMy9wcm9jZXNzZWQtZm9vZC1pbmR1c3RyeS5hc3B4FgJmDxUBPUNOTiBEb2N1bWVudGFyeSBUYWtlcyBhIFBlZWsgQmVoaW5kIHRoZSBGb29kIEluZHVzdHJ5IEN1cnRhaW5kAgMPZBYEZg8VAQEzZAIBDxYCHwYFX2h0dHA6Ly9maXRuZXNzLm1lcmNvbGEuY29tL3NpdGVzL2ZpdG5lc3MvYXJjaGl2ZS8yMDE2LzAyLzEyL2V4dHJlbWUtZXhlcmNpc2UtYWZmZWN0cy1oZWFydC5hc3B4FgJmDxUBcFdoeSBUb28gTXVjaCBFeGVyY2lzZSBNYXkgSGFybSBZb3VyIEhlYXJ0LCBhbmQgV2hhdCBTY2llbmNlIFRlbGxzIFVzIEFib3V0IHRoZSBJZGVhbCBBbW91bnQgYW5kIFR5cGUgb2YgRXhlcmNpc2VkAgQPZBYEZg8VAQE0ZAIBDxYCHwYFbmh0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9zaXRlcy9hcnRpY2xlcy9hcmNoaXZlLzIwMTYvMDIvMTAvMjAxNS1kaWV0YXJ5LWd1aWRlbGluZXMtY2hvbGVzdGVyb2wtc3RhdGlucy5hc3B4FgJmDxUBcjIwMTUgRGlldGFyeSBHdWlkZWxpbmVzIEluY2x1ZGUgSGVhbHRoeSBSZXZpc2lvbnMsIGJ1dCBTdGlsbCBGYWxscyBTaG9ydCBmb3IgRWZmZWN0aXZlIFByZXZlbnRpb24gb2YgSGVhcnQgRGlzZWFzZWQCBQ9kFgRmDxUBATVkAgEPFgIfBgVdaHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjAxNi8wMi8wOS9nbW8tbWFpemUtdG94aWMtdG8tYW5pbWFscy5hc3B4FgJmDxUBTkludmVzdGlnYXRpb24gUmV2ZWFscyBGaXJzdCBDb21tZXJjaWFsaXplZCBHTU8gTWFpemUgV2FzIFRveGljIHRvIEZhcm0gQW5pbWFsc2QCBQ9kFgJmD2QWBGYPFgQfBQIDHwJnFgYCAQ9kFgYCARAPFgIfAwVeLy9tZWRpYS5tZXJjb2xhLmNvbS9JbWFnZVNlcnZlci9QdWJsaWMvMjAxMS9EZWNlbWJlci9hdm9pZC1lYXRpbmctYXQtZmFzdC1mb29kLXJlc3RhdXJhbnRzLmpwZ2RkZAIDDw8WAh8ABbIBPGEgaHJlZj0iaHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjAxMS8xMi8wOS9hdm9pZC1lYXRpbmctYXQtZmFzdC1mb29kLXJlc3RhdXJhbnRzLmFzcHgiPlRoZSBXb3JzdCBQb3NzaWJsZSBQbGFjZSB0byBFYXQgaWYgWW91IFdhbnQgdG8gU3RheSBIZWFsdGh5PC9hPmRkAgUPDxYCHwAFEjI5Niw5NTImbmJzcDtWaWV3c2RkAgIPZBYGAgEQDxYEHwMFUi8vbWVkaWEubWVyY29sYS5jb20vSW1hZ2VTZXJ2ZXIvUHVibGljLzIwMTQvSmFudWFyeS9UaHVtYm5haWwvZW1wbG95ZWUtd2Vic2l0ZS5qcGcfBAUIRW1wbG95ZWVkZGQCAw8PFgIfAAWyATxhIGhyZWY9Imh0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9zaXRlcy9hcnRpY2xlcy9hcmNoaXZlLzIwMTQvMDEvMDgvbWNkb25hbGRzLWZhc3QtZm9vZC5hc3B4Ij5NY0RvbmFsZCdzIFNodXRzIERvd24gRW1wbG95ZWUgV2Vic2l0ZSBBZHZpc2luZyBXb3JrZXJzIHRvIEF2b2lkIEZhc3QgRm9vZC4uLjwvYT5kZAIFDw8WAh8ABRI0MDEsNjI2Jm5ic3A7Vmlld3NkZAIDD2QWBgIBEA8WAh8DBUkvL21lZGlhLm1lcmNvbGEuY29tL0ltYWdlU2VydmVyL3B1YmxpYy8yMDE1L0p1bHkvbWNkb25hbGRzLW1jcmliLXRobWIuanBnZGRkAgMPDxYCHwAFuwE8YSBocmVmPSJodHRwOi8vYXJ0aWNsZXMubWVyY29sYS5jb20vc2l0ZXMvYXJ0aWNsZXMvYXJjaGl2ZS8yMDEzLzAxLzE2L21jZG9uYWxkcy1tY3JpYi5hc3B4Ij5UaGUgVW5zYXZvcnkgVHJ1dGggb2YgdGhlIE1jUmliIGFuZCBPdGhlciBGYWtlIEZvb2RzLCBhbmQgV2h5IFJ1c3NpYSBCYW5uZWQgVVMtUmFpc2VkIE1lYXQ8L2E+ZGQCBQ8PFgIfAAUSNTA5LDgyMyZuYnNwO1ZpZXdzZGQCAQ8WAh8CZxYCAgEPDxYCHwAFwhI8ZGl2IGNsYXNzPSdzaWRlYmFyLWltZyc+PGEgaHJlZiA9J2h0dHA6Ly9kZWFscy5tZXJjb2xhLmNvbS8/aV9jaWQ9MjAxNjAyMTUtMjAxNjAyMTdfcHJlc2lkZW50LWRheV9zaWRlYmFubmVyX2RlYWxzJnV0bV9zb3VyY2U9YXJ0aWNsZXMmdXRtX21lZGl1bT13ZWImdXRtX2NvbnRlbnQ9c2lkZWJhbm5lciZ1dG1fY2FtcGFpZ249MjAxNjAyMTUtMjAxNjAyMTdfcHJlc2lkZW50LWRheScgaWQ9Jzg5MCcgdGFyZ2V0PSdfYmxhbmsnIG9uY2xpY2s9J0NsaWNrKHRoaXMpJzs+PGltZyBhbHQ9J1ByZXNpZGVudHMnRGF5JyBzcmM9J2h0dHA6Ly9tZWRpYS5tZXJjb2xhLmNvbS9JbWFnZVNlcnZlci9QdWJsaWMvMjAxNi9GZWJydWFyeS9FbmdsaXNoQmFubmVyL3NpZGViYW5uZXItcHJlc2lkZW50cy1kYXktc2FsZS0wMjE1MTYuanBnJyBoZWlnaHQ9JzI1MCcgd2lkdGg9JzI1MCc+PC9hPjwvZGl2PjxkaXYgY2xhc3M9J3NpZGViYXItaW1nJz48YSBocmVmID0naHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjAxNS8xMC8xOS9tb3N0LWNvbW1vbi1udXRyaWVudC1kZWZpY2llbmNpZXMuYXNweD9pX2NpZD1jb21tb24tbnV0cmllbnQtZGVmaWNpZW5jaWVzLXJiLWFydGljbGVzLTInIGlkPSc4MTInIHRhcmdldD0nX2JsYW5rJyBvbmNsaWNrPSdDbGljayh0aGlzKSc7PjxpbWcgYWx0PSdtb3N0IGNvbW1vbiBudXRyaWVudCBkZWZpY2llbmNpZXMnIHNyYz0naHR0cDovL21lZGlhLm1lcmNvbGEuY29tL0ltYWdlU2VydmVyL1B1YmxpYy8yMDE1L05vdmVtYmVyL0VuZ2xpc2hCYW5uZXIvY29tbW9uLW51dHJpZW50LWRlZmljaWVuY2llcy5qcGcnIGhlaWdodD0nMjUwJyB3aWR0aD0nMjUwJz48L2E+PC9kaXY+PGRpdiBjbGFzcz0nc2lkZWJhci1pbWcnPjxhIGhyZWYgPSdodHRwOi8vZml0bmVzcy5tZXJjb2xhLmNvbS9zaXRlcy9maXRuZXNzL2FyY2hpdmUvMjAxMi8wNS8yNS9kYXJpbi1zdGVlbi1kZW1vbnN0cmF0ZXMtdGhlLXBlcmZlY3Qtc3F1YXQuYXNweD9pX2NpZD1wZXJmZWN0c3F1YXRleGVyY2lzZS1yYi1hcnRpY2xlcy0zJyBpZD0nMTY4JyB0YXJnZXQ9J19ibGFuaycgb25jbGljaz0nQ2xpY2sodGhpcyknOz48aW1nIGFsdD0ncGVyZmVjdCBzcXVhdCBleGVyY2lzZScgc3JjPSdodHRwOi8vbWVkaWEubWVyY29sYS5jb20vSW1hZ2VTZXJ2ZXIvUHVibGljLzIwMTUvSnVseS9FbmdsaXNoQmFubmVyLzgtcmVhc29ucy10by1zcXVhdC5qcGcnIGhlaWdodD0nMjUwJyB3aWR0aD0nMjUwJz48L2E+PC9kaXY+PGRpdiBjbGFzcz0nc2lkZWJhci1pbWcnPjxhIGhyZWYgPSdodHRwOi8vaGVhbHRoeXBldHMubWVyY29sYS5jb20vc2l0ZXMvaGVhbHRoeXBldHMvYXJjaGl2ZS8yMDE0LzA0LzI4L2NhdC1jb25zdGlwYXRpb24uYXNweD9pX2NpZD1jYXRjb25zdGlwYXRpb24tcmItYXJ0aWNsZXMtNCcgaWQ9Jzc1MScgdGFyZ2V0PSdfYmxhbmsnIG9uY2xpY2s9J0NsaWNrKHRoaXMpJzs+PGltZyBhbHQ9J2NhdCBjb25zdGlwYXRpb24nIHNyYz0naHR0cDovL21lZGlhLm1lcmNvbGEuY29tL0ltYWdlU2VydmVyL1B1YmxpYy8yMDE1L05vdmVtYmVyL0VuZ2xpc2hCYW5uZXIva2l0dHktY29uc3RpcGF0aW9uLmpwZycgaGVpZ2h0PScyNTAnIHdpZHRoPScyNTAnPjwvYT48L2Rpdj48ZGl2IGNsYXNzPSdzaWRlYmFyLWltZyc+PGEgaHJlZiA9J2h0dHA6Ly93d3cubWVyY29sYS5jb20vZWJvb2svZGlhYmV0ZXMtc3ltcHRvbXMuYXNweD9pX2NpZD1kaWFiZXRlc3N5bXB0b21zZWJvb2stcmItYXJ0aWNsZXMtNScgaWQ9JzY4OScgdGFyZ2V0PSdfYmxhbmsnIG9uY2xpY2s9J0NsaWNrKHRoaXMpJzs+PGltZyBhbHQ9J2RpYWJldGVzIHN5bXB0b21zIGVib29rJyBzcmM9J2h0dHA6Ly9tZWRpYS5tZXJjb2xhLmNvbS9JbWFnZVNlcnZlci9QdWJsaWMvMjAxNS9PY3RvYmVyL0VuZ2xpc2hCYW5uZXIvOC1LZXlzLXRvLVByZXZlbnRpbmctYW5kLVRyZWF0aW5nLURpYWJldGVzLmpwZycgaGVpZ2h0PScyNTAnIHdpZHRoPScyNTAnPjwvYT48L2Rpdj48ZGl2IGNsYXNzPSdzaWRlYmFyLWltZyc+PGEgaHJlZiA9J2h0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9kZWh5ZHJhdGlvbi1zeW1wdG9tcy5hc3B4P2lfY2lkPWRlaHlkcmF0aW9uc3ltcHRvbXMtcmItYXJ0aWNsZXMtNicgaWQ9JzY0MycgdGFyZ2V0PSdfYmxhbmsnIG9uY2xpY2s9J0NsaWNrKHRoaXMpJzs+PGltZyBhbHQ9J2RlaHlkcmF0aW9uIHN5bXB0b21zJyBzcmM9J2h0dHA6Ly9tZWRpYS5tZXJjb2xhLmNvbS9JbWFnZVNlcnZlci9QdWJsaWMvMjAxNS9TZXB0ZW1iZXIvRW5nbGlzaEJhbm5lci9kZWh5ZHJhdGlvbi1zeW1wdG9tcy0yLmpwZycgaGVpZ2h0PScyNTAnIHdpZHRoPScyNTAnPjwvYT48L2Rpdj5kZAIXD2QWAgIDD2QWAmYPZBYSAgkPFgIfAmhkAgoPFgIfAmhkAg4PDxYCHwAFQFdoYXQgSGFwcGVucyB0byBZb3VyIEJvZHkgV2hlbiBZb3UgRWF0IGEgTWNEb25hbGTigJlzIEhhbWJ1cmdlcj9kZAISDw8WAh8ABQcxNTEsNzk2ZGQCGA8WAh8GBYUBaHR0cHM6Ly9sb2dpbi5tZXJjb2xhLmNvbS9sb2dpbi5hc3B4P1JldHVyblVybD1odHRwOi8vYXJ0aWNsZXMubWVyY29sYS5jb20vc2l0ZXMvYXJ0aWNsZXMvYXJjaGl2ZS8yMDk4LzEyLzMxL21jZG9uYWxkcy1oYW1idXJnZXIuYXNweGQCGg8WAh8GBYwBaHR0cHM6Ly9sb2dpbi5tZXJjb2xhLmNvbS9qb2luL2RlZmF1bHQuYXNweD9SZXR1cm5Vcmw9aHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL3NpdGVzL2FydGljbGVzL2FyY2hpdmUvMjA5OC8xMi8zMS9tY2RvbmFsZHMtaGFtYnVyZ2VyLmFzcHhkAiIPDxYCHwAFlIkBPHA+PHN0cm9uZz5CeSBEci4gTWVyY29sYTwvc3Ryb25nPjwvcD4NCjxibG9ja3F1b3RlPg0KICA8cD5XaGVuIHRhbGtpbmcgIGFib3V0IGZhc3QgZm9vZCBnaWFudHMsIG5vdGhpbmcgY2FuIGJlIGJpZ2dlciDigJMgYW5kIG1vcmUgaW5mYW1vdXMg4oCTIHRoYW4gTWNEb25hbGQncy4gIFRob3NlIHR3byAiZ29sZGVuIGFyY2hlcyIgc2lnbiBhcmUgc28gYWJ1bmRhbnQgYW5kIHNvIHdlbGwta25vd24gYWxsIG92ZXIgdGhlICB3b3JsZCwgdGhhdCBzb21lIHRvZGRsZXJzIGNhbiBldmVuIHJlY29nbml6ZSBpdCBldmVuIGJlZm9yZSB0aGV5IGFyZSBhYmxlIHRvICBzcGVhayBmdWxsIHNlbnRlbmNlcy4gPGJyPjxicj5JbiAyMDE0LCBvdmVyIDM2LDI1OCBNY0RvbmFsZCdzIHJlc3RhdXJhbnRzIG9wZXJhdGUgd29ybGR3aWRlLDxzdXAgc3R5bGU9ImZvbnQtc2l6ZTogMTBweDsiPjxhIGhyZWY9IiNfZWRuMSIgbmFtZT0iX2VkbnJlZjEiIHRpdGxlPSIiPjE8L2E+PC9zdXA+IHNlcnZpbmcgb3ZlciA2OSBtaWxsaW9uICBwZW9wbGUgZXZlcnkgZGF5LiBGcm9tIGl0cyBodW1ibGUgYmVnaW5uaW5ncyBpbiB0aGUgMTk0MHMsIHRoZSBicmFuZCBoYXMgbm93ICBncm93biB0byBiZSBhIG11bHRpLWJpbGxpb24gZG9sbGFyIGNvbXBhbnkgd2l0aCBhbiBlc3RpbWF0ZWQgdmFsdWUgb2Ygb3ZlciAkODUgIGJpbGxpb24uPC9wPg0KDQo8cD4NCkFuZCB0aGUgZmFzdCAgZm9vZCdzIG1vc3QgcG9wdWxhciBtZW51IGl0ZW0/IFRoZSBidXJnZXJzLiA8L3A+DQoNCjxwPg0KQWNjb3JkaW5nIHRvIDxlbT5UaGUgRmlzY2FsIFRpbWVzPC9lbT4sIE1jRG9uYWxkJ3Mgc2VsbHMgNzUgIGJ1cmdlcnMgPGVtPmV2ZXJ5IHNlY29uZDwvZW0+LjxzdXAgc3R5bGU9ImZvbnQtc2l6ZTogMTBweDsiPjxhIGhyZWY9IiNfZWRuMiIgbmFtZT0iX2VkbnJlZjIiIHRpdGxlPSIiPjI8L2E+PC9zdXA+IFRoYXQgYW1vdW50cyB0byBvdmVyIDIuMzYgIGJpbGxpb24gYnVyZ2VycyBwZXIgeWVhciDigJMgcm91Z2hseSB0aGUgZXF1aXZhbGVudCBvZiBlYXRpbmcgYSBtaWxsaW9uIGNvd3MuPHN1cCBzdHlsZT0iZm9udC1zaXplOiAxMHB4OyI+PGEgaHJlZj0iI19lZG4zIiBuYW1lPSJfZWRucmVmMyIgdGl0bGU9IiI+MzwvYT48L3N1cD4gPC9wPg0KDQo8cD4NCkZvciBtYW55ICBwZW9wbGUsIG5vdGhpbmcgc2VlbXMgd3Jvbmcgd2l0aCBlYXRpbmcgYSBNY0RvbmFsZCdzIGhhbWJ1cmdlci4gQWZ0ZXIgYWxsLCBpdCAgbG9va3MgYW5kIHRhc3RlcyB0aGUgc2FtZSBhcyBvdGhlciBidXJnZXIgcGF0dGllcywgYW5kIHRoZSBhZGRlZCBjb252ZW5pZW5jZSAgbWFrZXMgaXQgYSBtdWNoIHNvdWdodC1hZnRlciBtZWFsIGZvciBidXN5IHBlb3BsZSwgdGhvc2Ugd2hvIGFyZSBvbi10aGUtZ28sIG9yICB0aG9zZSB3aG8gc2ltcGx5IGRvIG5vdCBoYXZlIHRpbWUgdG8gY29vayBmb29kIGF0IGhvbWUuPC9wPg0KDQo8cD4NCkJ1dCAgY29uc2lkZXJpbmcganVzdCBob3cgbXVjaCBidXJnZXIgcGF0dGllcyBhcmUgc29sZCBwZXIgZGF5LCBoYXZlbid0IHlvdSBldmVyICB3b25kZXJlZCBqdXN0IGhvdyBNY0RvbmFsZCdzIGhhbWJ1cmdlcnMgYXJlIG1hZGUgYW5kLCBtb3JlIGltcG9ydGFudGx5LCB3aGF0ICB0aGV5J3JlIG1hZGUgb2Y/ICAgICA8L3A+DQoNCjxwPg0KRXZlbiBtb3JlICBkaXN0dXJiaW5nIGFyZSB0aGUgcmVwb3J0cyBvZiBNY0RvbmFsZCdzIGJ1cmdlcnMgdGhhdCBkbyBub3QgZGVjb21wb3NlIG9yIHJvdCAgZm9yIHdlZWtzLCBtb250aHMsIG9yIGV2ZW4gPGVtPnllYXJzPC9lbT4gYWZ0ZXIgdGhleSd2ZSBiZWVuIGNvb2tlZC48L3A+DQoNCjwvYmxvY2txdW90ZT4NCg0KPGgyPg0KTWNEb25hbGQncyBIYW1idXJnZXIgU2hvd3MgIE5vIFNpZ25zIG9mIERlY29tcG9zaXRpb24g4oCTIEV2ZW4gQWZ0ZXIgYSBEZWNhZGUgPC9oMj4NCg0KPGJsb2NrcXVvdGU+DQoNCg0KDQo8cD4NClRoZXJlIGhhdmUgIGJlZW4gbXVsdGlwbGUgc3RvcmllcyBnb2luZyB2aXJhbCBhYm91dCBNY0RvbmFsZCdzIGhhbWJ1cmdlcnMgdGhhdCBzaG93IG5vICBzaWducyBvZiByb3R0aW5nIG9yIG1vbGRpbmcuIE9uZSBleGFtcGxlIGlzIHRoYXQgb2YgRGF2aWQgV2hpcHBsZSwgYSBtYW4gZnJvbSBVdGFoLCB3aG8gY2FtZSBmb3J3YXJkIGluIDIwMTMsICBjbGFpbWluZyB0aGF0IGhlIGhhZCBhIE1jRG9uYWxkJ3MgaGFtYnVyZ2VyIHRoYXQgZGF0ZXMgYmFjayB0byAxOTk5IOKAkyBidXQgaXMgIHlldCB0byBzaG93IGFueSBzaWduIG9mIGRlY29tcG9zaXRpb24uPHN1cCBzdHlsZT0iZm9udC1zaXplOiAxMHB4OyI+PGEgaHJlZj0iI19lZG40IiBuYW1lPSJfZWRucmVmNCIgdGl0bGU9IiI+NDwvYT48L3N1cD4gPC9wPg0KDQo8cD4NCldoaXBwbGUgaW5pdGlhbGx5IGJvdWdodCB0aGUgYnVyZ2VyIHRvIGtlZXAgZm9yIHR3byB3ZWVrcyBhbmQgIHNob3cgdG8gaGlzIGZyaWVuZHMsIGJ1dCB0aGVuIGZvcmdvdCBhYm91dCBpdC4gVHdvIHllYXJzIGxhdGVyLCBoZSBmb3VuZCBpdCBpbiAgaGlzIGNvYXQgcG9ja2V0LCB3aXRoIHRoZSBvcmlnaW5hbCByZWNlaXB0LCB3aXRoIG5vIHNpZ25zIG9mIHJvdHRpbmcgb3IgbW9sZC4gIEhlIGRlY2lkZWQgdG8ga2VlcCBpdCB0byBzZWUgaG93IGxvbmcgaXQgd2lsbCBkaXNpbnRlZ3JhdGUuIEFjY29yZGluZyB0byBBQkMgIE5ld3Mgd2Vic2l0ZTo8c3VwIHN0eWxlPSJmb250LXNpemU6IDEwcHg7Ij48YSBocmVmPSIjX2VkbjUiIG5hbWU9Il9lZG5yZWY1IiB0aXRsZT0iIj41PC9hPjwvc3VwPjwvcD4NCg0KPGJsb2NrcXVvdGU+DQogIDxwPg0KICAgIDxlbT4iJ1RoZSAgcGF0dHkgZmVlbHMgbGlrZSBjb25jcmV0ZSwnIFdoaXBwbGUgc2FpZCBvZiB0aGUgYnVyZ2VyIGhlIGhhcyBoZWxkIG9udG8gZm9yIDE0ICB5ZWFycywgZmlyc3Qgb24gcHVycG9zZSwgdGhlbiBieSBhY2NpZGVudCwgYW5kIHRoZW4gZm9yIGEgZ29vZCBsYXVnaC4gV2hpcHBsZeKApiAgd2FzIGxpdmluZyBpbiBMb2dhbiwgVXRhaCwgYW5kIHRyeWluZyB0byBsb3NlIHdlaWdodCB3aGVuIGhlIGZpcnN0IHB1cmNoYXNlZCAgdGhlIGhhbWJ1cmdlciB0byBwcm92ZSB0byBoaXMgZnJpZW5kcyB0aGF0IGZhc3QgZm9vZCB3YXMgbm90IHJlYWwgZm9vZC48L2VtPjwvcD4NCiAgPHA+DQogICAgPGVtPidJdCB3YXMgIG5vdGhpbmcgcmVhbCBzY2llbnRpZmljLCcgV2hpcHBsZSBzYWlkLiAnV2Ugd2VyZSB0YWxraW5nIGFib3V0IGVuenltZXMgYW5kIHdlICBrbmV3IHdoYXQgYSBnb29kIGZvb2QgbGlrZSBhIGJhbmFuYSB3b3VsZCBkbyBidXQgd2VyZW4ndCBzdXJlIHdoYXQgYSBoYW1idXJnZXIgIHdvdWxkIGRvLic8L2VtPjwvcD4NCiAgPHA+DQogICAgPGVtPlR3byB3ZWVrcyAgbGF0ZXIsIFdoaXBwbGUgZ290IGhpcyBhbnN3ZXIuIFRoZSBidXJnZXIncyBwaWNrbGVzIGFuZCBvbmlvbiB0b3BwaW5ncyBoYWQgIGJlZ3VuIHRvIHNocmluayBidXQgdGhlIGJ1biBhbmQgaGFtYnVyZ2VyICdsb29rZWQgZXhhY3RseSB0aGUgc2FtZSwnIGhlIHNhaWQuPC9lbT4gPC9wPg0KPC9ibG9ja3F1b3RlPg0KDQo8cD4NCiAgV2hpcHBsZSB3YXMgaW52aXRlZCB0byBndWVzdCBvbiB0aGUgVFYgc2hvdyBUaGUgRG9jdG9ycyB0byAgdGFsayBhYm91dCBoaXMgZXhwZXJpZW5jZS4gSGUgc2FpZCBoZSB1c2VzIHRoZSBidXJnZXIgdG8gZW5jb3VyYWdlIGhpcyAgZ3JhbmRraWRzIHRvIGVhdCBoZWFsdGh5IGFuZCBhdm9pZCBmYXN0IGZvb2QuICA8L3A+DQoNCjxwIGFsPSIiPg0KSSd2ZSAgZmVhdHVyZWQgc3RvcmllcyBhYm91dCB0aGVzZSAiZXZlcmxhc3RpbmcgTWNEb25hbGQncyBidXJnZXJzIiBvbiBteSBzaXRlIG1hbnkgIHllYXJzIGFnbywgbGlrZSB0aGF0IG9mIE1hbmhhdHRhbiAgYXJ0aXN0IFNhbGx5IERhdmllcycgIjxhIGhyZWY9Imh0dHA6Ly9hcnRpY2xlcy5tZXJjb2xhLmNvbS9zaXRlcy9hcnRpY2xlcy9hcmNoaXZlLzIwMTAvMTAvMjUvbWNkb25hbGRzLWhhcHB5LW1lYWwtc2hvd3Mtbm8tc2lnbi1vZi1kZWNvbXBvc2luZy5hc3B4Ij5UaGUgSGFwcHkgTWVhbCBQcm9qZWN0PC9hPiwiIHdoZXJlIHNoZSBwaG90b2dyYXBoZWQgYSBNY0RvbmFsZCdzICBIYXBweSBNZWFsIGV2ZXJ5IGRheSBmb3Igc2l4IG1vbnRocy4gKFlvdSBjYW4gdmlldyB0aGUgZnVsbCBwaG90b3N0cmVhbTxzdXAgc3R5bGU9ImZvbnQtc2l6ZTogMTBweDsiPjxhIGhyZWY9IiNfZWRuNiIgbmFtZT0iX2VkbnJlZjYiIHRpdGxlPSIiPjY8L2E+PC9zdXA+IG9uIGhlciB3ZWJzaXRlLik8L3A+DQoNCjxwPg0KS2FyZW4gIEhhbnJhaGFuLCBhIHdlbGxuZXNzIGVkdWNhdG9yIGFuZCBudXRyaXRpb24gY29uc3VsdGFudCwgYWxzbyBjbGFpbWVkIHRvIGhhdmUga2VwdCAgYSBNY0RvbmFsZCdzIGhhbWJ1cmdlciA8ZW0+c2luY2UgMTk5NjwvZW0+LiBJdCAgc3RpbGwgbG9va3MgYXMgZnJlc2ggYXMgYSBuZXdseSBib3VnaHQgb25lLiA8L3A+DQoNCjwvYmxvY2txdW90ZT4NCg0KPGgyPg0KQSBDbG9zZXIgTG9vayBhdCBhIE1jRG9uYWxkJ3MgIEhhbWJ1cmdlciBJbmdyZWRpZW50czwvaDI+DQoNCjxibG9ja3F1b3RlPg0KDQoNCg0KPHA+DQpBY2NvcmRpbmcgdG8gTWNEb25hbGQncyAgd2Vic2l0ZSw8c3VwIHN0eWxlPSJmb250LXNpemU6IDEwcHg7Ij48YSBocmVmPSIjX2VkbjciIG5hbWU9Il9lZG5yZWY3IiB0aXRsZT0iIj43PC9hPjwvc3VwPiB0aGUgb25seSBpbmdyZWRpZW50IGluICBpdHMgaGFtYnVyZ2VyIGlzIDEwMCBwZXJjZW50IHB1cmUgVVNEQS1JbnNwZWN0ZWQgYmVlZiwgcHJlcGFyZWQgd2l0aCBncmlsbCAgc2Vhc29uaW5nIChzYWx0IGFuZCBibGFjayBwZXBwZXIpIGFuZCB3aXRob3V0IGZpbGxlcnMgYW5kIGV4dGVuZGVycy4gPC9wPg0KDQo8cD4NClRoZSBmYXN0IGZvb2QgIGNoYWluIGFsc28gcmVmdXRlcyBzcGVjdWxhdGlvbnMgdGhhdCBhbiAidW5rbm93biIgcHJlc2VydmF0aXZlIGlzIGFtb25nIHRoZWlyICBNY0RvbmFsZCdzIGhhbWJ1cmdlciBpbmdyZWRpZW50cywgYW5kIHNheXMgdGhhdCB0aGVpciBidXJnZXJzIGFuZCBidW5zIGRvIG5vdCBkZWNvbXBvc2UgIHNpbXBseSBiZWNhdXNlIHRoZXkgImJlY29tZSB2ZXJ5IGRyeSBpbiB0aGUgY29va2luZyBhbmQgdG9hc3RpbmcgcHJvY2Vzcy4iICBBY2NvcmRpbmcgdG8gYSA8ZW0+QnVzaW5lc3MgSW5zaWRlcjwvZW0+IGFydGljbGU6PHN1cCBzdHlsZT0iZm9udC1zaXplOiAxMHB4OyI+PGEgaHJlZj0iI19lZG44IiBuYW1lPSJfZWRucmVmOCIgdGl0bGU9IiI+ODwvYT48L3N1cD4gICAgPC9wPg0KDQo8YmxvY2txdW90ZT4NCiAgPHA+DQogICAgPGVtPiLigKZ0aGUgcGF0dHkgbG9zZXMgd2F0ZXIgaW4gdGhlICBmb3JtIG9mIHN0ZWFtIGR1cmluZyB0aGUgY29va2luZyBwcm9jZXNzLiBUaGUgYnVuLCBvZiBjb3Vyc2UsIGlzIG1hZGUgb3V0IG9mICBicmVhZC4gVG9hc3RpbmcgaXQgcmVkdWNlcyB0aGUgYW1vdW50IG9mIG1vaXN0dXJlLiBUaGlzIG1lYW5zIHRoYXQgYWZ0ZXIgIHByZXBhcmF0aW9uLCB0aGUgaGFtYnVyZ2VyIGlzIGZhaXJseSBkcnkuIFdoZW4gbGVmdCBvdXQgb3BlbiBpbiB0aGUgcm9vbSwgdGhlcmUgIGlzIGZ1cnRoZXIgd2F0ZXIgbG9zcyBhcyB0aGUgaHVtaWRpdHkgd2l0aGluIG1vc3QgYnVpbGRpbmdzIGlzIGFyb3VuZCA0MCUuIFNvICBpbiB0aGUgYWJzZW5jZSBvZiBtb2lzdHVyZSBvciBoaWdoIGh1bWlkaXR5LCB0aGUgaGFtYnVyZ2VyIHNpbXBseSBkcmllcyBvdXQsICByYXRoZXIgdGhhbiByb3QuIjwvZW0+PC9wPg0KPC9ibG9ja3F1b3RlPg0KDQo8cD4NCiAgSW5kZWVkLCBwYXJ0IG9mIHRoZSBlbWJhbG1lZC1saWtlIGZlYXR1cmUgb2YgdGhlIG1lYXQgcGF0dHkgY2FuIGJlICBiZWNhdXNlIG9mIGl0cyBoaWdoLXNvZGl1bSBjb250ZW50LiBTYWx0IGlzIGEgbmF0dXJhbCBwcmVzZXJ2YXRpdmUgdGhhdCBoYXMgIGJlZW4gdXNlZCB0aHJvdWdob3V0IGhpc3RvcnkuPC9wPg0KDQo8cD4NCkJ1dCAgeW91IGhhdmUgdG8gYWRtaXQgdGhhdCBzb21ldGhpbmcgdGhhdCBkb2VzIG5vdCBkZWNvbXBvc2UsIG9yIGV2ZW4gc2hvdyBzaWducyBvZiAgZGVjb21wb3NpbmcgYWZ0ZXIgZGF5cywgbW9udGhzLCBvciA8ZW0+eWVhcnM8L2VtPiBzZWVtcyB2ZXJ5LCB2ZXJ5IHN1c3BpY2lvdXMuIEFmdGVyIGFsbCwgdGhlIGhhbGxtYXJrIG9mIGxpdmUgZm9vZCBpcyB0aGF0ICBpdCB3aWx0cyBhbmQgZGVjb21wb3NlcyDigJMgc29tZXRoaW5nIHRoYXQsIGFwcGFyZW50bHksIGRvZXMgbm90IG9jY3VyIGluIHRoZXNlICBidXJnZXJzLiA8L3A+DQoNCjxwPg0KSW4gMjAxNCwgTWNEb25hbGQncyAgYXR0ZW1wdGVkIHRvIGNsZWFyIGl0cyBuYW1lIGJ5IHJlbGVhc2luZyBhIHZpZGVvLDxzdXAgc3R5bGU9ImZvbnQtc2l6ZTogMTBweDsiPjxhIGhyZWY9IiNfZWRuOSIgbmFtZT0iX2VkbnJlZjkiIHRpdGxlPSIiPjk8L2E+PC9zdXA+IHdoaWNoIHN0YXJyZWQgZm9ybWVyICBNeXRoQnVzdGVycyBjby1ob3N0IEdyYW50IEltYWhhcmEgYW5kIGZpbG1lZCBpbiBhIENhcmdpbGwgZmFjaWxpdHkgaW4gRnJlc25vLCAgQ2FsaWZvcm5pYSwgdGhhdCBzaG93cyBqdXN0IGhvdyBNY0RvbmFsZCdzIGhhbWJ1cmdlciBwYXR0aWVzIGFyZSBtYWRlLjxzdXAgc3R5bGU9ImZvbnQtc2l6ZTogMTBweDsiPjxhIGhyZWY9IiNfZWRuMTAiIG5hbWU9Il9lZG5yZWYxMCIgdGl0bGU9IiI+MTA8L2E+PC9zdXA+IEl0IGFpbXMgdG8gZGVidW5rIHRoZSBteXRoICB0aGF0IE1jRG9uYWxkJ3MgdXNlcyBmaWxsZXJzLCBhZGRpdGl2ZXMsIGFuZCBwcmVzZXJ2YXRpdmVzIGluIHRoZWlyIG1lYXQg4oCTICBzaG93aW5nIGluc3RlYWQgbGFyZ2UgYmVlZiBjaHVua3Mgb24gYSBjb252ZXlvciBiZWx0IGdvaW5nIHRocm91Z2ggYSBtYWNoaW5lIHRoYXQgIGZvcm1zIHRoZW0gaW50byBwYXR0aWVzLiA8L3A+DQoNCjxwPg0KVGhleSBhbHNvIGFzc2VydGVkIHRoYXQgdGhleSBkbyBub3QgdXNlIHBpbmsgc2xpbWUgaW4gdGhlaXIgIG1lYXQuIFBpbmsgc2xpbWUgaXMgYSAgc2x1ZGdlLWxpa2UgaW5ncmVkaWVudCBtYWRlIG9mIGdyb3VuZC11cCBiZWVmICAidHJpbW1pbmdzIiDigJMgdmFyaW91cyBiZWVmIHNjcmFwcyBhbmQgY293IGNvbm5lY3RpdmUgdGlzc3VlcyDigJMgYW5kICBhbW1vbml1bSBoeWRyb3hpZGUsIHdoaWNoIGdpdmVzIHRoZSBtaXh0dXJlIGl0cyBwaW5rIGh1ZS4gTWNEb25hbGQncyBoYXMgIGFkbWl0dGVkIHRvIHVzaW5nIHBpbmsgc2xpbWUgaW4gdGhlaXIgaGFtYnVyZ2VycyBiZWZvcmUsIGJ1dCBoYWQgZGlzY29udGludWVkICBpdCBpbiAyMDExLiA8L3A+DQoNCjwvYmxvY2txdW90ZT4NCg0KPGgyPg0KTWNEb25hbGQncyBQbGFucyB0byBNYWtlIHRoZSAgJ0JpZyBTd2l0Y2gnIHRvIEFudGliaW90aWMtRnJlZSBDaGlja2VuIDwvaDI+DQoNCjxibG9ja3F1b3RlPg0KDQoNCg0KPHA+DQpJbiBNYXJjaCAgMjAxNSwgTWNEb25hbGQncyBhbm5vdW5jZWQgdGhhdCB0aGV5IGFyZSBnb2luZyB0byBiZSBidXlpbmcgb25seSBjaGlja2VuIHJhaXNlZCAgd2l0aG91dCBhbnRpYmlvdGljcyBpbXBvcnRhbnQgdG8gaHVtYW4gbWVkaWNpbmUg4oCTIGEgY2hhbmdlIHRoYXQgd291bGQgdGFrZSAgcGxhY2UgaW4gb3ZlciB0aGUgbmV4dCB0d28geWVhcnMuIFRoZXkgYWxzbyBjbGFpbWVkIHRoYXQgdGhleSB3b3VsZCBiZWdpbiB1c2luZyAgbWlsayBmcm9tIGNvd3MgdGhhdCBoYXZlIG5vdCBiZWVuIHRyZWF0ZWQgd2l0aCB0aGUgYXJ0aWZpY2lhbCBncm93dGggaG9ybW9uZSAgckJTVC48L3A+DQoNCjxwPg0KV2hpbGUgdGhpcyBpcyAgcG9zaXRpdmUgbmV3cywgSSBiZWxpZXZlIHRoYXQgTWNEb25hbGQncyBvbmx5IG1hZGUgdGhlIGRlY2lzaW9uIHRvIGhlbHAgaW1wcm92ZSAgdGhlaXIgc2x1bXBpbmcgVVMgc2FsZXMuIE1hbnkgcmVzdGF1cmFudHMgbGlrZSBQYW5lcmEgQnJlYWQsIENoaXBvdGxlLCBhbmQgIFNoYWtlIFNoYWNrIGhhdmUgYWxyZWFkeSBzd2l0Y2hlZCB0byBhbnRpYmlvdGljLWZyZWUgcG91bHRyeSBhbmQgbWVhdCwgY2F1c2luZyAgdGhlaXIgZm9ybWVyIGN1c3RvbWVycyB0byBmbG9jayB0byB0aGVzZSBjb21wZXRpdG9ycy48L3A+DQoNCjxwPg0KVGhpcyBjaGFuZ2UgIG1lYW5zIHRoYXQgbm90IG9ubHkgd2lsbCBzdXBwbGllcnMgYmUgc2NyYW1ibGluZyB0byBtZWV0IHRoZSBkZW1hbmQsIGJ1dCBvdGhlciAgZmFzdGZvb2QgY2hhaW5zIHdpbGwgYWxzbyBiZSBjb25zaWRlcmluZyBhIHNpbWlsYXIgbW92ZS4gIDwvcD4NCg0KPHA+DQpCdXQgYWx0aG91Z2ggIGdvaW5nIGFudGliaW90aWMtZnJlZSBvbiB0aGVpciBwb3VsdHJ5IGlzIGEgc3RlcCBpbiB0aGUgcmlnaHQgZGlyZWN0aW9uLCBJICBkb24ndCB0aGluayB3ZSBzaG91bGQgYmUgY2VsZWJyYXRpbmcgYW55IHRpbWUgc29vbiwgYmVjYXVzZSBNY0RvbmFsZCdzIGlzIHlldCAgdG8gbWFrZSBhbnkgY2hhbmdlcyB0byBpdHMgbWVhdCDigJMgd2hpY2ggaXMgYWN0dWFsbHkgbG9hZGVkIHdpdGggYSB3aG9sZSAgZGlmZmVyZW50IGhvc3Qgb2YgcHJvYmxlbXPigKY8L3A+DQoNCiANCg0KDQo8L2Jsb2NrcXVvdGU+DQoNCjxoMj4NCk1jRG9uYWxkJ3MgQmVlZiBDb21lcyBmcm9tICBGYWN0b3J5IEZhcm1zPC9oMj4NCg0KPGJsb2NrcXVvdGU+DQoNCg0KDQo8cD4NCiAgICBFdmVuIGlmIGl0IGlzICB0cnVlIHRoYXQgTWNEb25hbGQncyBidXJnZXJzIGRvIG5vdCBjb250YWluIHByZXNlcnZhdGl2ZXMgb3IgYWRkaXRpdmVzICh3aGljaCBJICBzZXJpb3VzbHkgZG91YnQpLCB0aGlzIGRvZXMgbm90IGV4Y3VzZSB0aGUgZmFjdCB0aGF0IE1jRG9uYWxkJ3MgbWVhdCBhY3R1YWxseSAgY29tZXMgZnJvbSBjb25maW5lZCBhbmltYWwgZmVlZGluZyBvcGVyYXRpb25zIChDQUZPcykuIDxicj48YnI+Tm90IG9ubHkgYXJlIGNvd3MgYW5kICBvdGhlciBsaXZlc3RvY2sgaW4gdGhlc2UgZmFjdG9yeSBmYXJtcyBtYWRlIHRvIGxpdmUgaW4gdW5zYW5pdGFyeSBhbmQgaW5odW1hbmUgY29uZGl0aW9ucywgIGJ1dCB0aGV5IGFyZSBhbHNvIGdpdmVuIGFudGliaW90aWNzIGFuZCBncm93dGggaG9ybW9uZXMgdG8gbWFrZSB0aGVtIGdyb3cgIGZhc3RlciBhbmQgbW9yZSByZXNpc3RhbnQgdG8gZGlzZWFzZS4gSW4gZmFjdCwgbmVhcmx5IDI1IG1pbGxpb24gcG91bmRzIG9mICBhbnRpYmlvdGljcyBhcmUgYWRtaW5pc3RlcmVkIHRvIGxpdmVzdG9jayBpbiB0aGUgVVMgZXZlcnkgeWVhci48L3A+DQoNCjxwPg0KICAgIFRoZXNlICBhbnRpYmlvdGljcywgYWxvbmcgd2l0aCBhbnRpYmlvdGljLXJlc2lzdGFudCBiYWN0ZXJpYSwgYXJlIHRyYW5zZmVycmVkIHRvIHlvdSAgZXZlcnkgdGltZSB5b3UgZWF0IENBRk8gbWVhdCDigJMgYW5kIHNvbWV0aW1lcyBldmVuIHRocm91Z2ggdGhlIGFuaW1hbCBtYW51cmUgIHVzZWQgYXMgY3JvcCBmZXJ0aWxpemVyLiBUd28gbWlsbGlvbiBBbWVyaWNhbnMgYmVjb21lIGluZmVjdGVkIHdpdGggIGFudGliaW90aWMtcmVzaXN0YW50IGJhY3RlcmlhIGV2ZXJ5IHllYXIsIGNhdXNpbmcgYXQgbGVhc3QgMjMsMDAwIGRlYXRocy48c3VwIHN0eWxlPSJmb250LXNpemU6IDEwcHg7Ij48YSBocmVmPSIjX2VkbjExIiBuYW1lPSJfZWRucmVmMTEiIHRpdGxlPSIiPjExPC9hPjwvc3VwPjwvcD4NCg0KPHA+DQogICAgV2hhdCdzIHdvcnNlLCAgYW50aWJpb3RpYy1yZXNpc3RhbnQgZGlzZWFzZSBpcyBub3QgdGhlIG9ubHkgZGFuZ2VyIGJyb3VnaHQgb24gYnkgQ0FGT3MuICBFeGNlc3NpdmUgZXhwb3N1cmUgdG8gYW50aWJpb3RpY3MgYW5kIHJlZ3VsYXJseSBlYXRpbmcgYW50aWJpb3RpYy1sYWNlZCBDQUZPICBtZWF0cyBhbHNvIGhhcm1zIHlvdXIgZ2FzdHJvaW50ZXN0aW5hbCBoZWFsdGgsIHByZWRpc3Bvc2luZyB5b3UgdG8gdmlydHVhbGx5IDxlbT5hbnk8L2VtPiBkaXNlYXNlLjwvcD4NCg0KPHA+DQogICAgQnV0IGl0J3Mgbm90ICBqdXN0IHRoZSBoYW1idXJnZXIgbWVhdCB0aGF0J3MgcmVhbGx5IHByb2JsZW1hdGlj4oCmPC9wPg0KDQo8L2Jsb2NrcXVvdGU+DQoNCjxoMj4NCkhlcmUncyBXaHkgTWNEb25hbGQncyBCdW4gIFN0YXlzIE1vbGQtRnJlZSBmb3IgWWVhcnM8L2gyPg0KDQo8YmxvY2txdW90ZT4NCg0KDQoNCjxwPg0KICAgIE1jRG9uYWxkJ3MgIHBhdHR5J3MgbG9uZyBsaWZlIG1heSBiZSBiZWNhdXNlIG9mIGl0cyBzb2RpdW0gY29udGVudCwgYnV0IHdoYXQgYWJvdXQgdGhlIDxlbT5idW48L2VtPj8gQnJlYWQgdHlwaWNhbGx5IHN0YXlzIGZyZXNoIGZvciAgc2V2ZXJhbCBkYXlzLCBidXQgaGF2ZSB5b3UgZXZlciBoZWFyZCBvZiBvbmUgdGhhdCBzdGF5cyBtb2xkLWZyZWUgZm9yIDxlbT55ZWFyczwvZW0+PyBZZXQgdGhhdCdzIGV4YWN0bHkgd2hhdCBoYXBwZW5lZCAgd2l0aCB0aGUgTWNEb25hbGQncyBidW4uIDwvcD4NCg0KPHA+DQogICAgSSBiZWxpZXZlICB0aGF0IHRoaXMgaXMgYmVjYXVzZSBNY0RvbmFsZCdzIGJ1biBpcyBsaWdodHllYXJzIGF3YXkgZnJvbSBmcmVzaGx5IGJha2VkIGJyZWFkICB5b3UgbWFrZSBhdCBob21lIOKAkyBpbiBmYWN0LCBpdCBpcyBhICJicmVhZC1saWtlIiBjb25jb2N0aW9uIHRoYXQgYmVhcnMgbm8gIGFjdHVhbCByZXNlbWJsYW5jZSB0byBuYXR1cmFsIGJyZWFkIChleGNlcHQgZm9yIGl0cyBhcHBlYXJhbmNlLCBvYnZpb3VzbHkpLiAgSnVzdCB0YWtlIGEgbG9vayBhdCB0aGUgaW5ncmVkaWVudHMgdXNlZCBpbiBNY0RvbmFsZCdzIGJ1bnM6PC9wPg0KDQo8YmxvY2txdW90ZT4NCiAgPHA+DQogICAgPGVtPiJFbnJpY2hlZCBCbGVhY2hlZCBGbG91ciAoV2hlYXQgRmxvdXIsICBNYWx0ZWQgQmFybGV5IEZsb3VyLCBOaWFjaW4sIFJlZHVjZWQgSXJvbiwgVGhpYW1pbiBNb25vbml0cmF0ZSwgUmlib2ZsYXZpbiwgIEZvbGljIEFjaWQpLCBXYXRlciwgSGlnaCBGcnVjdG9zZSBDb3JuIFN5cnVwLCBZZWFzdCwgU295YmVhbiBPaWwsIENvbnRhaW5zIDIlICBvciBMZXNzOiBTYWx0LCBXaGVhdCBHbHV0ZW4sIExlYXZlbmluZyAoQ2FsY2l1bSBTdWxmYXRlLCBBbW1vbml1bSBTdWxmYXRlKSwgTWF5ICBDb250YWluIE9uZSBvciBNb3JlIERvdWdoIENvbmRpdGlvbmVycyAoU29kaXVtIFN0ZWFyb3lsIExhY3R5bGF0ZSwgREFURU0sICBBc2NvcmJpYyBBY2lkLCBBem9kaWNhcmJvbmFtaWRlLCBNb25vIGFuZCBEaWdseWNlcmlkZXMsIE1vbm9jYWxjaXVtIFBob3NwaGF0ZSwgIEVuenltZXMsIENhbGNpdW0gUGVyb3hpZGUpLCBDYWxjaXVtIFByb3Bpb25hdGUgKFByZXNlcnZhdGl2ZSkuIiA8L2VtPjwvcD4NCjwvYmxvY2txdW90ZT4NCg0KPHA+DQogICAgVGhlc2UgIGluZ3JlZGllbnRzIHNob3VsZCBjbGVhcmx5IG9mZmVyIGNsdWVzIGFzIHRvIHdoeSB0aGUgYnVyZ2VycyBzdGF5IGJsZW1pc2gtZnJlZSAgYW5kICJmcmVzaCIgZm9yIHllYXJzLiBCdXQgd2hhdCdzIG1vcmUgYWxhcm1pbmcgaXMgdGhhdCB0aGV5IGNhbiBhbHNvIG9wZW4geW91ciAgZXllcyB0byB0aGUgcG90ZW50aWFsIGhlYWx0aCByYW1pZmljYXRpb25zIHlvdSBtYXkgZXhwZXJpZW5jZSBpZiB5b3UgZWF0IGEgIE1jRG9uYWxkJ3MgaGFtYnVyZ2VyLiBGb3IgZXhhbXBsZSwgY2FsY2l1bSBzdWxmYXRlLCBhbHNvIGtub3duIGFzIHBsYXN0ZXIgb2YgIFBhcmlzLCBjYW4gcG9zc2libHkgY2F1c2UgZGlnZXN0aXZlIHByb2JsZW1zLiBNZWFud2hpbGUsIGFtbW9uaXVtIHN1bGZhdGUgaXMgIGtub3duIHRvIGNhdXNlIG5hdXNlYSwgdm9taXRpbmcsIGFuZCBkaWFycmhlYSBkdWUgdG8gZ2FzdHJvaW50ZXN0aW5hbCAgaXJyaXRhdGlvbi4gPC9wPg0KDQo8L2Jsb2NrcXVvdGU+DQoNCjxoMj4NCldhdGNoIE91dCBmb3IgVGhlc2UgIE1jRG9uYWxkJ3MgTWVudSBJdGVtcywgVG9vPC9oMj4NCg0KPGJsb2NrcXVvdGU+DQoNCg0KDQo8cD4NCiAgICBKdXN0IGxpa2UgaXRzICBoYW1idXJnZXJzLCBNY0RvbmFsZCdzIENoaWNrZW4gTWNOdWdnZXRzIGFsc28gY2FtZSB1bmRlciBmaXJlIGFmdGVyIGl0IHdhcyAgZm91bmQgdGhhdCBvbmx5IDUwIHBlcmNlbnQgb2YgdGhlIG51Z2dldHMgaXMgYWN0dWFsbHkgY2hpY2tlbi4gVGhlIG90aGVyIDUwICBwZXJjZW50IGlzIGEgbWl4dHVyZSBvZiBjb3JuIGRlcml2YXRpdmVzLCBsZWF2ZW5pbmcgYWdlbnRzLCBzdWdhcnMsIGFuZCAgY29tcGxldGVseSBzeW50aGV0aWMgaW5ncmVkaWVudHMgdGhhdCBubyBzYW5lIHBlcnNvbiB3b3VsZCBldmVyIHRoaW5rIG9mICBjb29raW5nIHdpdGguIDwvcD4NCg0KPHA+DQogICAgSXRzIHNlYXNvbmFsICBvZmZlcmluZywgdGhlIE1jUmliIHBvcmsgc2FuZHdpY2gsIHdhcyBhbHNvIGNsb3NlbHkgc2NydXRpbml6ZWQuIEFwcGFyZW50bHksICBvbmUgb2YgaXRzIGluZ3JlZGllbnRzIGlzIGF6b2RpY2FyYm9uYW1pZGUsIGEgY2hlbWljYWwgdXNlZCB0byBibGVhY2ggdGhlIGZsb3VyICBicmVhZOKApiBidXQgaXMgYWxzbyB1c2VkIGluIG1ha2luZyBneW0gc2hvZXMgYW5kIHlvZ2EgbWF0cy4gQW5kIHVuZGVybmVhdGggdGhlICAidGFzdHksIHRhbmd5IGJhcmJlY3VlIHNhdWNlLCIgdGhlIHJlc2VhcmNoZXJzIGZvdW5kIHRoYXQgdGhlIHBvcmsgd2FzIG5vdGhpbmcgIG1vcmUgdGhhbiByZXN0cnVjdHVyZWQgbWVhdCBwcm9kdWN0IOKAkyBtYWRlIGZyb20gYWxsIHRoZSBjaGVhcCBpbm5hcmRzIGFuZCBjYXN0LW9mZnMgIG9mIGEgcGlnLiBOb3Qgc28gYXBwZXRpemluZyBhbnltb3JlLCBpcyBpdD88L3A+DQoNCjxwPg0KICAgIEV2ZW4gdGhlaXIgZnJpZXMsICBwYXJ0aWN1bGFybHkgdGhvc2Ugc29sZCBpbiB0aGUgVVMsIHdhcyBhbHNvIGZvdW5kIHRvIGNvbnRhaW4gdG94aWMgaW5ncmVkaWVudHMuICBXaGlsZSBGcmVuY2ggZnJpZXMgaW4gdGhlIFVLIG9ubHkgYXJlIHNpbXBseSBwb3RhdG9lcyBmcmllZCBpbiBzdW5mbG93ZXIgb3IgIHJhcGVzZWVkIG9pbCwgdGhlIGZyaWVzIHRoYXQgQW1lcmljYW5zIGdldCBjb250YWluIFRCSFE7IGFudGlmb2FtaW5nIGFnZW50cywgIGNvbG9yIHN0YWJpbGl6ZXJzLCBhbmQgcHJlc2VydmF0aXZlcy4gVGhleSBhbHNvIGNvbnRhaW4gYmVlZiBmbGF2b3IgdGhhdCdzIG1hZGUgIHdpdGggd2hlYXQgYW5kIG1pbGsgZGVyaXZhdGl2ZXMuIFRoaXMgaXMgd2h5IHRoZXkgY2FycnkgYW4gYWxsZXJneSB3YXJuaW5nIGZvciAgdGhvc2Ugd2l0aCB3aGVhdCBhbmQgZGFpcnkgc2Vuc2l0aXZpdGllcy48L3A+DQoNCjwvYmxvY2txdW90ZT4NCg0KPGgyPg0KV2hhdCBIYXBwZW5zIFdoZW4gWW91IEVhdCBhbiAgQWxsLU1jRG9uYWxkJ3MgRGlldD8gPC9oMj4NCg0KPGJsb2NrcXVvdGU+DQoNCg0KDQo8cD4NCiAgICBZb3UndmUgIHByb2JhYmx5IGhlYXJkIG9mICJTdXBlclNpemUgTWUsIiBhIGRvY3VtZW50YXJ5IHdoZXJlIGZpbG1tYWtlciBNb3JnYW4gU3B1cmxvY2sgIGRvY3VtZW50ZWQgdGhlIGNvbnNlcXVlbmNlcyBvZiBlYXRpbmcgYSBzdHJpY3RseSBNY0RvbmFsZCdzIGRpZXQuIEFmdGVyIGp1c3QgIGZvdXIgd2Vla3Mgb2YgZWF0aW5nIG5vdGhpbmcgYnV0IGZhc3QgZm9vZCwgU3B1cmxvY2sncyBoZWFsdGggaGFkIGJhZGx5ICBkZXRlcmlvcmF0ZWQgdG8gdGhlIHBvaW50IHRoYXQgaGlzIHBoeXNpY2lhbiB3YXJuZWQgaGltIHRvIHN0b3AgdGhlIGV4cGVyaW1lbnQgIG9yIGhlJ2xsIGJlIHB1dHRpbmcgaGlzIGxpZmUgaW4gZ3JhdmUgZGFuZ2VyLjwvcD4NCg0KPHA+DQogICAgSnVzdCAgcmVjZW50bHksIFRpbSBTcGVjdG9yLCBhIHByb2Zlc3NvciBvZiBnZW5ldGljIGVwaWRlbWlvbG9neSBhdCBLaW5nJ3MgQ29sbGVnZSwgIExvbmRvbiwgd2FudGVkIHRvIGxlYXJuIHdoYXQgaGFwcGVucyB0byB5b3VyIGd1dCBpZiB5b3UgYXRlIG9ubHkgTWNEb25hbGQncyBmb3IgIDEwIHN0cmFpZ2h0IGRheXMuIEhpcyBzb24sIFRvbSwgYWdyZWVkIHRvIGRvIHRoZSBleHBlcmltZW50IGFuZCBzZW50IHN0b29sICBzYW1wbGVzIHRvIGRpZmZlcmVudCBsYWJzIHRocm91Z2hvdXQgdGhlIDEwLWRheSBwZXJpb2QuICAgPC9wPg0KDQo8cD4NCiAgICBUaGUgcmVzdWx0cyAgd2VyZSBhc3RvdW5kaW5nLiBBZnRlciBqdXN0IDEwIGRheXMgb2YgZWF0aW5nIGZhc3QgZm9vZCwgaGlzIHN0b29sIHNhbXBsZXMgIHJldmVhbGVkIHRoYXQgaGlzIGd1dCBtaWNyb2JlcyB3ZXJlICJkZXZhc3RhdGVkIiDigJMgYWJvdXQgNDAgcGVyY2VudCBvZiBoaXMgIGJhY3RlcmlhIHNwZWNpZXMsIGFtb3VudGluZyB0byBvdmVyIDEsNDAwIGRpZmZlcmVudCB0eXBlcywgd2VyZSBsb3N0LiBUaGlzICBzZXZlcmUgbG9zcyBvZiBtaWNyb2JpYWwgZGl2ZXJzaXR5IGlzIGEgcmlzayBmYWN0b3IgdG8gb2Jlc2l0eSBhbmQgZGlhYmV0ZXMuPC9wPg0KDQo8cD4NCiAgICBZb3VyIGd1dCBpcyAgeW91ciBzZWNvbmQgYnJhaW4sIGFuZCBpdCBpcyBhY3R1YWxseSB3aGVyZSA4MCBwZXJjZW50IG9mIHlvdXIgaW1tdW5lIHN5c3RlbSAgbGllcy4gVGhlcmUgYXJlIG5lYXJseSAxMDAgdHJpbGxpb24gYmFjdGVyaWEsIGZ1bmdpLCB2aXJ1c2VzLCBhbmQgb3RoZXIgIG1pY3Jvb3JnYW5pc21zLCBnb29kIGFuZCBiYWQsIHRoYXQgY29tcG9zZSB5b3VyIGJvZHkncyBtaWNyb2Zsb3JhLiBUaGVzZSAgb3JnYW5pc21zIHBsYXkgYSBjcnVjaWFsIHJvbGUgaW4geW91ciBtZW50YWwgYW5kIHBoeXNpY2FsIGhlYWx0aCwgYW5kIGlmIHlvdSAgdXBzZXQgdGhpcyBkZWxpY2F0ZSBiYWxhbmNlLCB5b3UgYmVjb21lIHByZWRpc3Bvc2VkIHRvIGEgd2lkZSByYW5nZSBvZiBoZWFsdGggIHByb2JsZW1zLjwvcD4NCg0KPC9ibG9ja3F1b3RlPg0KDQo8aDI+DQpQcm9jZXNzZWQgRm9vZHMgQXJlIGEgQmFuZSAgdG8gWW91ciBIZWFsdGg8L2gyPg0KDQo8YmxvY2txdW90ZT4NCg0KDQoNCjxwPiANCiAgQXMgSSd2ZSBvZnRlbiBzdHJlc3NlZCBpbiBteSBhcnRpY2xlcywgIDxhIGhyZWY9Imh0dHA6Ly93d3cubWVyY29sYS5jb20vaW5mb2dyYXBoaWNzL3VuaGVhbHRoeS1mb29kcy5odG0iPnByb2Nlc3NlZCBmb29kczwvYT4gYW5kIGZhc3QgZm9vZHMgY2FuIGFic29sdXRlbHkgd3JlYWsgaGF2b2Mgb24geW91ciBoZWFsdGguIFllcywgIHRoZXkgbWF5IGJlIGNoZWFwZXIgYW5kIG1vcmUgY29udmVuaWVudCwgYnV0IHRoZXkgYXJlIGV4Y2Vzc2l2ZWx5IGhpZ2ggaW4gIHN1Z2FycywgZ3JhaW5zLCBhbmQgPGEgaHJlZj0iaHR0cDovL3d3dy5tZXJjb2xhLmNvbS9pbmZvZ3JhcGhpY3MvdHJ1dGgtYWJvdXQtZmFjdG9yeS1mYXJtcy5odG0iPmZhY3RvcnkgZmFybWVkIG1lYXRzPC9hPiDigJMgYSByZWNpcGUgZm9yIGNocm9uaWMgZGlzZWFzZXMsIHN1Y2ggIGFzIG9iZXNpdHksIDxhIGhyZWY9Imh0dHA6Ly93d3cubWVyY29sYS5jb20vZGlhYmV0ZXMuYXNweCI+ZGlhYmV0ZXM8L2E+LCBhbmQgPGEgaHJlZj0iaHR0cDovL2FydGljbGVzLm1lcmNvbGEuY29tL2hlYXJ0LWF0dGFjay1zeW1wdG9tcy5hc3B4Ij5oZWFydCBkaXNlYXNlPC9hPi4gPC9wPg0KDQo8cD4NCiAgICBJIGFkdmlzZSB5b3UgIHRvIHN0b3AgZ2xvcmlmeWluZyBwcm9jZXNzZWQgZm9vZHMgYW5kIGZhc3QgZm9vZHMgYmVjYXVzZSBvZiB0aGVpciB0YXN0ZSBhbmQgIGNvbnZlbmllbmNlLiBJbnN0ZWFkLCBrZWVwIGluIG1pbmQgQUxMIG9mIHRoZSBjb25zIHRoYXQgdGhleSBicmluZyB0byB5b3VyICBoZWFsdGgsIHN1Y2ggYXM6PC9wPg0KICA8dWw+DQogICAgPGxpPkxvYWRzICB5b3VyIGJvZHkgd2l0aCBleHRyYSBjYWxvcmllcyB0aGF0IGRvIG5vdGhpbmcgZm9yIHlvdXIgYm9keTwvbGk+DQogICAgPGxpPkV4cG9zZSAgeW91IHRvIGEgdG94aWMgY29uY29jdGlvbiBvZiBmb3JlaWduIGNoZW1pY2FscyBhbmQgYXJ0aWZpY2lhbCBmbGF2b3JzIDwvbGk+DQogICAgPGxpPkFyZSAgYSB3YXN0ZSBvZiBtb25leSDigJMgaW4gZmFjdCwgdGhleSBtYXkgZXZlbiBsZWFkIHRvIDxlbT5pbmNyZWFzZWQ8L2VtPiBoZWFsdGhjYXJlIGJpbGxzIGZvciB5b3UgYW5kIHlvdXIgbG92ZWQgb25lcyA8L2xpPg0KICAgIDxsaT5DYW4gIHNldmVyZWx5IGhhcm0geW91ciBjaGlsZHJlbiwgd2hvc2UgYm9kaWVzIGFyZSBzdGlsbCBkZXZlbG9waW5nIGFuZCBhcmUgaW4gIGdyZWF0ZXIgbmVlZCBvZiBudXRyaWVudHMgPC9saT4NCiAgPC91bD4NCiAgPHA+SSBhbHNvICByZWNvbW1lbmQgeW91ciBkaWV0IHRvIGJlIGNvbXBvc2VkIG9mIGF0IGxlYXN0IDkwIHBlcmNlbnQgbm9uLXByb2Nlc3NlZCwgIG9yZ2FuaWMgd2hvbGUgZm9vZHMuIE5vdCBvbmx5IHdpbGwgeW91IGVuam95IHRoZSBoZWFsdGggYmVuZWZpdHMsIGJ1dCB5b3UnbGwgIGFsc28gYmUgYXQgcGVhY2UgYXMgeW91IGtub3cgZXhhY3RseSB3aGF0IHlvdSdyZSBwdXR0aW5nIGluIHlvdXIgYm9keS48L3A+DQoNCjwvYmxvY2txdW90ZT4NCg0KPGgyPg0KRWF0IEhlYWx0aHksIDxlbT5Ib21lbWFkZSA8L2VtPkZvb2RzIGFuZCBXYXRjaCBZb3VyIEhlYWx0aCAgU29hcjwvaDI+DQoNCjxibG9ja3F1b3RlPg0KDQoNCg0KPHA+DQogICAgSSBob25lc3RseSAgYmVsaWV2ZSB0aGF0IGlmIHlvdSBmYWlsIHRvIHBsYW4sIHRoZW4geW91IGFyZSBwbGFubmluZyB0byBmYWlsLiBJbmRlZWQsIHRoZSAgc2VjcmV0IHRvIGZvbGxvd2luZyBhIHdob2xlc29tZSBkaWV0IGlzIGxlYXJuaW5nIHRvIHByZXBhcmUgeW91ciBncm9jZXJ5IGxpc3QgIHNvIHlvdSBjYW4gcGxhbiB5b3VyIG1lYWxzLiBNYWtlIGl0IGFuIGVzc2VudGlhbCBwYXJ0IG9mIHlvdXIgbGlmZXN0eWxlLiBUaGlzICB3b3VsZCBpZGVhbGx5IGludm9sdmUgc2NvdXRpbmcgbG9jYWwgZmFybWVycyBtYXJrZXRzIG9yIGZvb2QgY28tb3BzIHRvIGJ1eSAgaW4tc2Vhc29uIHByb2R1Y2UuIEZpbmQgYSB0cnVzdHdvcnRoeSBzb3VyY2Ugb2YgZ3Jhc3MtZmVkIG1lYXRzLCByYXcgZGFpcnksIGFuZCAgZnJlZS1yYW5nZSBjaGlja2VuIGFuZCBlZ2dzLiA8L3A+DQoNCjxwPg0KICAgIEZpbmFsbHksICBhcHBvaW50IGEgcGVyc29uIGluIHlvdXIgZmFtaWx5IHRvIGNvb2sgdGhlIG1lYWxzLiBUaGlzIHNob3VsZCBiZSBzb21lb25lIHdobyAgaXMgd2lsbGluZyB0byBpbnZlc3QgdGltZSBpbiB0aGUga2l0Y2hlbi4gPC9wPg0KDQo8cD4NCiAgICBJZiB5b3UgbmVlZCAgaGVscCBmaW5kaW5nIGhlYWx0aGZ1bCByZWNpcGVzLCBJIHN1Z2dlc3QgeW91IHZpc2l0IDxhIGhyZWY9Imh0dHA6Ly9yZWNpcGVzLm1lcmNvbGEuY29tLyI+TWVyY29sYSBIZWFsdGh5IFJlY2lwZXM8L2E+LiBUaGlzIHNpdGUgb2ZmZXJzIGEgZGl2ZXJzZSAgY29sbGVjdGlvbiBvZiBtb3V0aHdhdGVyaW5nIGFuZCBoZWFsdGh5IGZvb2QgcmVjaXBlcyBiYXNlZCBvbiBteSBvcHRpbWl6ZWQgbnV0cml0aW9uICBwbGFuLiBBbGwgb2YgdGhlc2UgcmVjaXBlcyB1c2UgaGVhbHRoZnVsLCBhbGwtbmF0dXJhbCBpbmdyZWRpZW50cyB0aGF0IGFyZSBzdXJlICB0byB1cGxpZnQgeW91ciB3ZWxsYmVpbmcuICA8L3A+DQo8L2Jsb2NrcXVvdGU+DQo8ZGl2IGNsYXNzPSJldmVyZ3JlZW4tYnRuIj48YSBocmVmPSJodHRwOi8vYXJ0aWNsZXMubWVyY29sYS5jb20vY29tbW9uLWhlYWx0aC1xdWVzdGlvbnMuYXNweCIgdGFyZ2V0PSJfYmxhbmsiPiBIZWFsdGggUXVlc3Rpb25zIERpcmVjdG9yeSA8L2E+PC9kaXY+ZGQCKg9kFgYCAQ8WAh8CaGQCAw8WAh8CZxYCAgEPFgIfAAWPGDxsaT48c3VwIHN0eWxlPSdmb250LXNpemU6IDEwcHg7Jz48YSBocmVmPScjX2VkbnJlZjEnIGlkPSdBbmNSZWZlcmVuY2VDb3VudCcgbmFtZT0nX2VkbjEnPjxzcGFuIGlkPSdsYmxSZWZlcmVuY2VObyc+MTwvc3Bhbj48L2E+PC9zdXA+Jm5ic3A8YSBocmVmPSdodHRwOi8vd3d3LnN0YXRpc3RhLmNvbS9zdGF0aXN0aWNzLzIxOTQ1NC9tY2RvbmFsZHMtcmVzdGF1cmFudHMtd29ybGR3aWRlLycgaWQ9J2xua1JlZmVyZW5jZSc+U3RhdGlzdGEuY29tLCBOdW1iZXIgb2YgTWNEb25hbGQmIzM5O3MgcmVzdGF1cmFudHMgd29ybGR3aWRlIGZyb20gMjAwNSB0byAyMDE0PC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmMicgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuMic+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz4yPC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly93d3cudGhlZmlzY2FsdGltZXMuY29tL0FydGljbGVzLzIwMTIvMDQvMzAvMTMtRGlzdHVyYmluZy1GYWN0cy1BYm91dC1NY0RvbmFsZHMnIGlkPSdsbmtSZWZlcmVuY2UnPlRoZSBGaXNjYWwgVGltZXMsIEFwcmlsIDMwLCAyMDEyPC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmMycgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuMyc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz4zPC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly9jb21wYXJlY2FtcC5jb20vdGhpbmdzLXlvdS1kaWRudC1rbm93LWFib3V0LW1jZG9uYWxkcy1jb21wYXJlLWZhc3QtZm9vZC1maWd1cmVzLW51dHJpdGlvbi1mYWN0cy1jb250cm92ZXJzaWVzLycgaWQ9J2xua1JlZmVyZW5jZSc+Q29tcGFyZUNhbXAuY29tLCBPY3RvYmVyIDIxLCAyMDE0PC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmNCcgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuNCc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz40PC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9tYW4tc2F2ZXMtbWNkb25hbGRzLWJ1cmdlci1mb3ItMTQteWVhcnMtMjAxMy00JyBpZD0nbG5rUmVmZXJlbmNlJz5CdXNpbmVzcyBJbnNpZGVyLCBBcHJpbCAyMywgMjAxMyA8L2E+PC9saT48bGk+PHN1cCBzdHlsZT0nZm9udC1zaXplOiAxMHB4Oyc+PGEgaHJlZj0nI19lZG5yZWY1JyBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG41Jz48c3BhbiBpZD0nbGJsUmVmZXJlbmNlTm8nPjUsPC9zcGFuPjwvYT48L3N1cD4mbmJzcDxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmOCcgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuOCc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz44PC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly9hYmNuZXdzLmdvLmNvbS9ibG9ncy9saWZlc3R5bGUvMjAxMy8wNC8xOTk5LW1jZG9uYWxkcy1oYW1idXJnZXItYWdlcy1ncmFjZWZ1bGx5LycgaWQ9J2xua1JlZmVyZW5jZSc+QUJDIE5ld3MsIEFwcmlsIDI0LCAyMDEzPC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmNicgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuNic+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz42PC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly93d3cuc2FsbHlkYXZpZXNwaG90by5jb20vZ2FsbGVyeS5odG1sP2dhbGxlcnk9SGFwcHklMjBNZWFsJTIwUHJvamVjdCcgaWQ9J2xua1JlZmVyZW5jZSc+U2FsbHkgRGF2aWVzIFBob3RvPC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmNycgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuNyc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz43PC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHA6Ly93d3cubWNkb25hbGRzLmNvbS91cy9lbi9mb29kL3Byb2R1Y3RfbnV0cml0aW9uLmJ1cmdlcnNzYW5kd2ljaGVzLjU5Mi5tY2RvdWJsZS5odG1sJyBpZD0nbG5rUmVmZXJlbmNlJz5NY0RvbmFsZCYjMzk7cyB3ZWJzaXRlPC9hPjwvbGk+PGxpPjxzdXAgc3R5bGU9J2ZvbnQtc2l6ZTogMTBweDsnPjxhIGhyZWY9JyNfZWRucmVmOScgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuOSc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz45PC9zcGFuPjwvYT48L3N1cD4mbmJzcDxhIGhyZWY9J2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d1hnU25VbWhkd3MnIGlkPSdsbmtSZWZlcmVuY2UnPllvdXR1YmUuY29tICZxdW90O091ciBmb29kLiBZb3VyIHF1ZXN0aW9ucy4gSXMgTWNEb25hbGQmIzM5O3MgYmVlZiByZWFsPyZxdW90OzwvYT48L2xpPjxsaT48c3VwIHN0eWxlPSdmb250LXNpemU6IDEwcHg7Jz48YSBocmVmPScjX2VkbnJlZjEwJyBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG4xMCc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz4xMDwvc3Bhbj48L2E+PC9zdXA+Jm5ic3A8YSBocmVmPSdodHRwOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaG93LW1jZG9uYWxkcy1tYWtlcy1oYW1idXJnZXJzLTIwMTQtMTAjaXh6ejNhZXRTOXBYMycgaWQ9J2xua1JlZmVyZW5jZSc+QnVzaW5lc3MgSW5zaWRlciwgT2N0b2JlciAxMywgMjAxNDwvYT48L2xpPjxsaT48c3VwIHN0eWxlPSdmb250LXNpemU6IDEwcHg7Jz48YSBocmVmPScjX2VkbnJlZjExJyBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG4xMSc+PHNwYW4gaWQ9J2xibFJlZmVyZW5jZU5vJz4xMTwvc3Bhbj48L2E+PC9zdXA+Jm5ic3A8YSBocmVmPSdodHRwOi8vd3d3LmNkYy5nb3YvZHJ1Z3Jlc2lzdGFuY2UvdGhyZWF0LXJlcG9ydC0yMDEzL2luZGV4Lmh0bWwnIGlkPSdsbmtSZWZlcmVuY2UnPkNEQyBUaHJlYXQgUmVwb3J0IDIwMTMgU3VtbWFyeTwvYT48L2xpPmQCBQ8WAh8ABdsDPGEgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuMSc+PC9hPjxhIGlkPSdBbmNSZWZlcmVuY2VDb3VudCcgbmFtZT0nX2VkbjInPjwvYT48YSBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG4zJz48L2E+PGEgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuNCc+PC9hPjxhIGlkPSdBbmNSZWZlcmVuY2VDb3VudCcgbmFtZT0nX2VkbjUnPjwvYT48YSBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG44Jz48L2E+PGEgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuNic+PC9hPjxhIGlkPSdBbmNSZWZlcmVuY2VDb3VudCcgbmFtZT0nX2VkbjcnPjwvYT48YSBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG45Jz48L2E+PGEgaWQ9J0FuY1JlZmVyZW5jZUNvdW50JyBuYW1lPSdfZWRuMTAnPjwvYT48YSBpZD0nQW5jUmVmZXJlbmNlQ291bnQnIG5hbWU9J19lZG4xMSc+PC9hPmQCLA9kFgICBQ9kFgQCAQ8PZBYCHgpvbmtleXByZXNzBXdyZXR1cm4gQ29udGludWVTdWJzY3JpcHRpb24oZXZlbnQsJ2N0bDAwX2Jjcl90ZWFzZXJTdWJzY3JpcHRpb25fU3Vic2NyaWJlJywnY3RsMDBfYmNyX3RlYXNlclN1YnNjcmlwdGlvbl9lbWFpbEFkZHJlc3MnKWQCBQ8PZBYCHgdPbkNsaWNrBbQBcmV0dXJuIHNob3dwcm9ncmVzcygnY3RsMDBfYmNyX3RlYXNlclN1YnNjcmlwdGlvbl9Mb2RpbmcnLCdjdGwwMF9iY3JfdGVhc2VyU3Vic2NyaXB0aW9uX3doZWVsJywnY3RsMDBfYmNyX3RlYXNlclN1YnNjcmlwdGlvbl9TdWJzY3JpYmUnLCdjdGwwMF9iY3JfdGVhc2VyU3Vic2NyaXB0aW9uX2VtYWlsQWRkcmVzcycpZAIdD2QWAgIBD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPZBYCZg9kFhQCBQ8PFgIfAAURWytdIENvbW1lbnRzICgxMSlkZAIHD2QWAgIBDxYCHgdvbmNsaWNrBSlqYXZhc2NyaXB0Ok9wZW5Mb2dpblNpZ25JbigpO3JldHVybiB0cnVlO2QCDw8WAh8CaGQCEQ8WAh8CaGQCFQ8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAiEPPCsADQBkAiMPFgIfCQUpamF2YXNjcmlwdDpPcGVuTG9naW5TaWduSW4oKTtyZXR1cm4gdHJ1ZTtkAisPFgIfAmhkAi0PFgIfAmhkAi8PFgIfAmhkGAEFMGN0bDAwJGJoY3IkYmJjciRDb21tZW50U2VjdGlvbkNvbnRyb2wkZ3ZDb21tZW50cw9nZNcPgdFWIQUDsvfPSXq9Y2z7suBY" />
+</form>
+</div>
+</body>
+</html>

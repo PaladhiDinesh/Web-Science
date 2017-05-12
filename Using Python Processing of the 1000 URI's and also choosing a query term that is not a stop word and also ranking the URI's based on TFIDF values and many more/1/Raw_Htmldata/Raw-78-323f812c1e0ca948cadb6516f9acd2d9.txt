@@ -1,0 +1,1443 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="msvalidate.01" content="F9A01D6182B198C1D79EA1CD910D93D0" />
+    <meta name="earnify-site-verification" content="e70d1b51b7701863399f4124b120d1721ca29704" />
+
+            <title>Brooklyn Man Sentenced In Subway Hammer Attacks - Breaking911</title>
+        <link rel="profile" href="http://gmpg.org/xfn/11"/>
+
+    <link href="http://breaking911.com/wp-content/themes/rdppix/style_home.css?v=15" rel="stylesheet" type="text/css">
+    <link href="http://breaking911.com/wp-content/themes/rdppix/css/responsive_home.css?v=9" rel="stylesheet" type="text/css">
+
+<!--    <script type="text/javascript" src="http://breaking911.com/wp-content/themes/rdppix/js/jquery.js"></script>-->
+    <script type="text/javascript" src="http://breaking911.com/wp-content/themes/rdppix/js/bw_detect.js"></script>
+
+    <link href="http://breaking911.com/wp-content/themes/rdppix/font/fontface.css" rel="stylesheet" type="text/css">
+            <link rel="shortcut icon" href="http://breaking911.com/wp-content/uploads/2015/08/logo4.png"/>
+    
+    <link rel="alternate" type="application/rss+xml" title="Breaking911 RSS Feed"
+          href="http://breaking911.com/feed/"/>
+    <link rel="alternate" type="application/atom+xml" title="Breaking911 Atom Feed"
+          href="http://breaking911.com/feed/atom/"/>
+    <link rel="pingback" href="http://breaking911.com/xmlrpc.php"/>
+
+    <script>
+        window._taboola = window._taboola || [];
+        _taboola.push({article: 'auto'});
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/jmg-breaking911/loader.js');
+    </script>
+
+
+    <script type="text/javascript">
+
+        var f_page = "breaking911"; // the page name for your fan page, e.g. the 'wvumountaineers' part of http://facebook.com/wvumountaineers
+       // var f_page ="1505898466298724";//
+        var t_page = "breaking911"; // the account name for your main twitter account
+
+        function add_commas(number) {
+            if (number.length > 3) {
+                var mod = number.length % 3;
+                var output = (mod > 0 ? (number.substring(0,mod)) : '');
+                for (i=0 ; i < Math.floor(number.length / 3); i++) {
+                    if ((mod == 0) && (i == 0)) {
+                        output += number.substring(mod+ 3 * i, mod + 3 * i + 3);
+                    } else {
+                        output+= ',' + number.substring(mod + 3 * i, mod + 3 * i + 3);
+                    }
+                }
+                return (output);
+            } else {
+                return number;
+            }
+        }
+
+        // when document is ready load the counts
+(function($) {
+        $(document).ready(function(){
+
+            // grab from facebook
+            $.getJSON('https://graph.facebook.com/'+f_page+'?callback=?', function(data) {
+                var fb_count = data['likes'].toString();
+                fb_count = add_commas(fb_count);
+                $('#fb_count').html(fb_count);
+            });
+})( jQuery );
+            // grab from twitter
+            //doesn't work
+//            $.getJSON('http://api.twitter.com/1/users/show.json?screen_name='+t_page+'&callback=?', function(data) {
+//                twit_count = data['followers_count'].toString();
+//                twit_count = add_commas(twit_count);
+//                $('#twitter_count').html(twit_count);
+//            });
+
+        });
+    </script>
+
+
+            <!--start adSupply ad-->
+        <script data-cfasync="false" type="text/javascript">(function (s, o, l, v, e, d) {
+                if (s[o] == null && s[l + e]) {
+                    s[o] = "loading";
+                    s[l + e](d, l = function () {
+                        s[o] = "complete";
+                        s[v + e](d, l, !1)
+                    }, !1)
+                }
+            })(document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded");
+            (function () {
+                var s = document.createElement("script");
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=d4b366a5-2737-4c56-a1df-6b36b654ecb2";
+                s.id = "infinity";
+                s.setAttribute("data-guid", "d4b366a5-2737-4c56-a1df-6b36b654ecb2");
+                s.setAttribute("data-version", "async");
+                var e = document.getElementsByTagName('script')[0];
+                e.parentNode.insertBefore(s, e)
+            })();</script>
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <!-- end adSupply ad-->
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Brooklyn Man Sentenced In Subway Hammer Attacks - Breaking911" />
+<meta property="og:description" content="NEW YORK &#8212; A 30-year-old Brooklyn man was sentenced to 12 years in prison for two separate robberies of subway&hellip;" />
+<meta property="og:url" content="http://breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/" />
+<meta property="og:site_name" content="Breaking911" />
+<meta property="article:publisher" content="https://www.facebook.com/Breaking911" />
+<meta property="article:section" content="BREAKING NEWS" />
+<meta property="article:published_time" content="2016-02-08T13:47:18+00:00" />
+<meta property="fb:app_id" content="490255047796385" />
+<meta property="og:image" content="http://breaking911.com/wp-content/uploads/2016/02/2pics_coward.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="NEW YORK &#8212; A 30-year-old Brooklyn man was sentenced to 12 years in prison for two separate robberies of subway&hellip;"/>
+<meta name="twitter:title" content="Brooklyn Man Sentenced In Subway Hammer Attacks - Breaking911"/>
+<meta name="twitter:site" content="@Breaking911"/>
+<meta name="twitter:image" content="http://breaking911.com/wp-content/uploads/2016/02/2pics_coward.jpg"/>
+<meta name="twitter:creator" content="@GrantB911"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Breaking911 &raquo; Feed" href="http://breaking911.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Breaking911 &raquo; Comments Feed" href="http://breaking911.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Breaking911 &raquo; Brooklyn Man Sentenced In Subway Hammer Attacks Comments Feed" href="http://breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/breaking911.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://breaking911.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fvp-frontend-css'  href='http://breaking911.com/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://breaking911.com/wp-includes/css/dashicons.min.css?ver=4.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://breaking911.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://breaking911.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://breaking911.com/wp-content/plugins/dropdown-menu-widget/scripts/include.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://breaking911.com/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"http:\/\/breaking911.com\/wp-admin\/admin-ajax.php","nonce":"d533e044d0","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://breaking911.com/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://breaking911.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://breaking911.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://breaking911.com/?p=66143' />
+    <style type="text/css">
+	
+		#logo { padding:px 0; }
+		
+		#navigation, .slicknav_menu { background:; }
+		.menu li a, .slicknav_nav a { color:; }
+		.menu li a:hover {  color:; }
+		.slicknav_nav a:hover { color:; background:none; }
+		
+		.menu .sub-menu, .menu .children { background: ; }
+		ul.menu ul a, .menu ul ul a { border-top: 1px solid ; color:; }
+		ul.menu ul a:hover, .menu ul ul a:hover { color: ; background:; }
+		
+		#top-social a i { color:; }
+		#top-social a:hover i { color: }
+		
+		#top-search a { background: }
+		#top-search a { color: }
+		#top-search a:hover { background:; }
+		#top-search a:hover { color:; }
+		
+		.widget-title { background:; color:; }
+		#sidebar .widget-title { background:; color:; }
+		
+		#footer-social  { background:; }
+		
+		#footer-copyright { background:; }
+		#footer-copyright p { color:; }
+		
+		.post-entry blockquote p { border-left:3px solid ; }
+		
+		.post-header h1 a, .post-header h2 a, .post-header h1 { color: }
+		
+		.share-box { background:; border-color:; }
+		.share-box i { color:; }
+		.share-box:hover { background:; border-color:; }
+		.share-box:hover > i { color:; }
+		
+				
+				
+    </style>
+    
+
+<!-- Dropdown Menu Widget Styles by shailan (http://shailan.com) v1.9.4 on wp4.2.7 -->
+<link rel="stylesheet" href="http://breaking911.com/wp-content/plugins/dropdown-menu-widget/css/shailan-dropdown.min.css" type="text/css" />
+<link rel="stylesheet" href="http://breaking911.com/wp-content/plugins/dropdown-menu-widget/themes/web20.css" type="text/css" />
+<style type="text/css" media="all">
+	ul.dropdown { white-space: nowrap; }
+ul.dropdown li.parent>a{
+	padding-right:25px;
+}
+ul.dropdown li.parent>a:after{ 
+	content:""; position:absolute; top: 45%; right:6px;width:0;height:0; 
+	border-top:4px solid rgba(0,0,0,0.5);border-right:4px solid transparent;border-left:4px solid transparent }
+ul.dropdown li.parent:hover>a:after{
+	content:"";position:absolute; top: 45%; right:6px; width:0; height:0;
+	border-top:4px solid rgba(0,0,0,0.5);border-right:4px solid transparent;border-left:4px solid transparent }
+ul.dropdown li li.parent>a:after{
+	content:"";position:absolute;top: 40%; right:5px;width:0;height:0;
+	border-left:4px solid rgba(0,0,0,0.5);border-top:4px solid transparent;border-bottom:4px solid transparent }
+ul.dropdown li li.parent:hover>a:after{
+	content:"";position:absolute;top: 40%; right:5px;width:0;height:0;
+	border-left:4px solid rgba(0,0,0,0.5);border-top:4px solid transparent;border-bottom:4px solid transparent }
+
+
+</style>
+<!-- /Dropdown Menu Widget Styles -->
+
+ 
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Brooklyn Man Sentenced In Subway Hammer Attacks" /><meta name="twitter:site" content="@Breaking911" /><meta name="twitter:description" content="NEW YORK -- A 30-year-old Brooklyn man was sentenced to 12 years in prison for two separate robberies of subway&hellip;" /><meta name="twitter:image" content="http://breaking911.com/wp-content/uploads/2016/02/2pics_coward.jpg" /><meta name="twitter:image:width" content="1500" /><meta name="twitter:image:height" content="1000" /><meta name="twitter:creator" content="@GrantB911" />
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+													}
+								
+																										h1 {
+													}
+								
+																										h2 {
+													}
+								
+																										h3 {
+													}
+								
+																										h4 {
+													}
+								
+																										h5 {
+													}
+								
+																										h6 {
+													}
+								
+										
+							</style>
+						<meta name="twitter:widgets:link-color" content="#000000" /><meta name="twitter:widgets:border-color" content="#000000" /><meta name="twitter:partner" content="tfwp" /><style>
+#cse-search-results iframe{
+    margin: 0 auto !important;
+}
+</style>
+
+<!-- -------------  JavaScript & CSS to ILTV BOX ------------------------------------ -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/Functions.js"></script>
+<script type="text/javascript" src="http://iltv.cast-tv.biz/JavaScripts/Loader.js"></script>
+
+<link rel="stylesheet" href="http://iltv.cast-tv.biz/CSS/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://iltv.cast-tv.biz/JavaScripts/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://iltv.cast-tv.biz/JavaScripts/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://iltv.cast-tv.biz/CSS/Styles.css" type="text/css" />
+<!-- ---------------- END JavaScript & CSS to ILTV BOX ------------------------------- -->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0027/3605.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+ (adsbygoogle = window.adsbygoogle || []).push({
+ google_ad_client: "ca-pub-5116462037312968",
+ enable_page_level_ads: true
+ });
+</script>
+
+    
+</head>
+
+<body class="single single-post postid-66143 single-format-standard">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KLJFDL"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLJFDL');</script>
+<!-- End Google Tag Manager -->
+
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="main_continer">
+
+    <!--Custom header-->
+    <div class="header-container">
+
+                <header class="header menu-header">
+
+            <div class="wrapper">
+
+                <div class="header_details"> <span class="logo">
+
+        			
+                        
+                            <h2><a href="http://breaking911.com"><img
+                                        src="http://breaking911.com/wp-content/uploads/2015/04/logo4.png"/></a></h2>
+                            <!-- <h2><a href="http://breaking911.com"><img src="http://breaking911.com/wp-content/themes/rdppix/img/logo4.png" alt="Breaking911" /></a></h2> -->
+
+                                            
+                        <!--  <a href="index.html"><img src="http://rpdinfotech.com/avipix/wp-content/uploads/2015/04/logo.png" alt=""></a>-->
+
+          </span>
+
+                    <div class="header_right">
+                        <div class="middle_box">
+
+                            <div class="breakingtag"><span>Break&#9830;ing 9&#9830;1&#9830;1 (noun)</span>: Newly <br>
+                                Received Information About an Event <br>
+                                That Is Currently Occurring or Developing.</div>
+                                                            <div id="category_menu">
+                                    <div id="dropdown-menu-2" class="widget shailan-dropdown-menu-widget">
+<!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.4 on wp4.2.7 -->
+<!-- Menu Type : navmenu_1789 -->
+<div class="shailan-dropdown-menu" >
+<div id="shailan-dropdown-wrapper-2" >
+	<div align="left" class="dropdown-horizontal-container dm-align-left clearfix"><table cellpadding="0" cellspacing="0"><tr><td><ul id="menu-headercategories" class="dropdown dropdown-horizontal dropdown-align-left"><li id="menu-item-47190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-47190"><a href="http://breaking911.com">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-47601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47601"><a href="http://breaking911.com/contact-us/">contact us</a></li>
+	<li id="menu-item-47602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47602"><a href="http://breaking911.com/news-tips/">News Tips</a></li>
+</ul>
+</li>
+<li id="menu-item-47028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47028"><a href="http://breaking911.com/category/entertainment/">For Your Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-47030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47030"><a href="http://breaking911.com/category/entertainment/good-news/">Good News</a></li>
+	<li id="menu-item-47031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47031"><a href="http://breaking911.com/category/entertainment/stupid/">Stupid People</a></li>
+	<li id="menu-item-47032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47032"><a href="http://breaking911.com/category/entertainment/stupid/stupid-criminals/">Stupid Criminals</a></li>
+	<li id="menu-item-47033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47033"><a href="http://breaking911.com/category/entertainment/weird-news/">Weird news</a></li>
+	<li id="menu-item-47029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47029"><a href="http://breaking911.com/category/entertainment/funny-news/">Funny news</a></li>
+</ul>
+</li>
+<li id="menu-item-47124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47124"><a href="http://breaking911.com/category/people-culture/">People &#038; Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-47125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47125"><a href="http://breaking911.com/category/people-culture/animals/">Animals</a></li>
+	<li id="menu-item-47126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47126"><a href="http://breaking911.com/category/people-culture/celebrities/">Celebrities</a></li>
+	<li id="menu-item-47127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47127"><a href="http://breaking911.com/category/people-culture/election-2016/">Election 2016</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47128"><a href="http://breaking911.com/category/people-culture/election-2016/donald-trump/">Donald Trump</a></li>
+		<li id="menu-item-47129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47129"><a href="http://breaking911.com/category/people-culture/election-2016/hillary-clinton/">Hillary Clinton</a></li>
+		<li id="menu-item-47130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47130"><a href="http://breaking911.com/category/people-culture/election-2016/jeb-bush/">Jeb Bush</a></li>
+		<li id="menu-item-47131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47131"><a href="http://breaking911.com/category/people-culture/election-2016/rand-paul/">Rand Paul</a></li>
+		<li id="menu-item-47132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47132"><a href="http://breaking911.com/category/people-culture/election-2016/scott-walker/">Scott Walker</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47133"><a href="http://breaking911.com/category/people-culture/gay-pride-marriage/">Gay Pride / Marriage</a></li>
+	<li id="menu-item-47134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47134"><a href="http://breaking911.com/category/people-culture/gun-control/">Gun Control</a></li>
+	<li id="menu-item-47135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47135"><a href="http://breaking911.com/category/people-culture/illegal-immigration/">Illegal Immigration</a></li>
+	<li id="menu-item-47136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47136"><a href="http://breaking911.com/category/people-culture/police/">Police</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47137"><a href="http://breaking911.com/category/people-culture/police/lapd/">LAPD</a></li>
+		<li id="menu-item-47138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47138"><a href="http://breaking911.com/category/people-culture/police/nypd/">NYPD</a></li>
+		<li id="menu-item-47139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47139"><a href="http://breaking911.com/category/people-culture/police/officer-shot/">Officer Shot</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47140"><a href="http://breaking911.com/category/people-culture/politics/">Politics</a></li>
+</ul>
+</li>
+<li id="menu-item-47141" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-47141"><a href="http://breaking911.com/category/bad-news/">Bad News</a>
+<ul class="sub-menu">
+	<li id="menu-item-47142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47142"><a href="http://breaking911.com/category/bad-news/car-accidents/">Car Accidents</a></li>
+	<li id="menu-item-47143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47143"><a href="http://breaking911.com/category/bad-news/cyber-attacks/">Cyber Attacks</a></li>
+	<li id="menu-item-47144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47144"><a href="http://breaking911.com/category/bad-news/domestic-violence/">Domestic Violence</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47145"><a href="http://breaking911.com/category/bad-news/domestic-violence/child-abuse/">Child Abuse</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47146"><a href="http://breaking911.com/category/bad-news/drug-busts/">Drug Busts</a></li>
+	<li id="menu-item-47147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47147"><a href="http://breaking911.com/category/bad-news/gangs/">Gangs</a></li>
+	<li id="menu-item-47148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47148"><a href="http://breaking911.com/category/bad-news/guns/">Guns</a></li>
+	<li id="menu-item-47149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47149"><a href="http://breaking911.com/category/bad-news/iran/">Iran</a></li>
+	<li id="menu-item-47150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47150"><a href="http://breaking911.com/category/bad-news/weather/">Natural Disasters and Weather</a></li>
+	<li id="menu-item-47151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47151"><a href="http://breaking911.com/category/bad-news/police-brutality/">Police Brutality</a></li>
+	<li id="menu-item-47152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47152"><a href="http://breaking911.com/category/bad-news/racism/">Racism</a></li>
+	<li id="menu-item-47153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47153"><a href="http://breaking911.com/category/bad-news/terrorism/">Terrorism</a></li>
+	<li id="menu-item-47154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47154"><a href="http://breaking911.com/category/bad-news/terrorism/isis/">ISIS</a></li>
+	<li id="menu-item-47155" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-47155"><a href="http://breaking911.com/category/bad-news/violent/">Violent Crime</a></li>
+</ul>
+</li>
+<li id="menu-item-47036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47036"><a href="http://breaking911.com/category/video/">VIDEOS</a>
+<ul class="sub-menu">
+	<li id="menu-item-47038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47038"><a href="http://breaking911.com/category/video/viral-video/">Viral Videos</a></li>
+	<li id="menu-item-47037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47037"><a href="http://breaking911.com/category/video/isis-videos/">ISIS Videos</a></li>
+</ul>
+</li>
+</ul></td>
+				  </tr></table> 
+				</div></div> 
+</div>
+
+<!--/ Dropdown Menu Widget -->			
+              </div>
+
+<!-- Dropdown Menu Widget Effects by shailan (http://shailan.com) v1.9.4 on wp4.2.7 -->
+<script type="text/javascript">/* <![CDATA[ */
+jQuery(document).ready(function($) { 
+ 
+  var config = {
+	over : function(){ $(this).find("ul:first").fadeIn('fast'); },  
+	out : function(){ $(this).find("ul:first").fadeOut('fast'); },
+	timeout : 100  }
+ 
+  $(".dropdown li").hoverIntent( config );
+		
+});
+/* ]]> */</script>
+<!-- /Dropdown Menu Widget Effects -->
+
+                                                                             </div>
+                                                    </div>
+                        <div class="header_right_col">
+                            <div class="search_box">
+                                <span class="btn"><a href="#"></a></span>
+
+    <!--                            <form role="search" method="get" id="searchform" class="search_box"-->
+    <!--                                  action="--><!--">-->
+    <!---->
+    <!--                                <input type="text" placeholder="--><!--" name="s" id="s"/>-->
+    <!--                                <input type="submit" class="search">-->
+    <!---->
+    <!--                            </form>-->
+
+                             <!--   <form action="http://breaking911.com/searchbox" id="cse-search-box">-->
+                                <!-- action="search.html"-->
+                                   <form  id="cse-search-box">
+                                    <div>
+                                        <input type="hidden" name="cx" value="partner-pub-5116462037312968:5710647532" />
+                                        <input type="hidden" name="cof" value="FORID:10" />
+                                        <input type="hidden" name="ie" value="UTF-8" />
+                                        <input type="text" name="q" size="55" />
+                                        <input type="submit" name="sa" value="" />
+
+                                    </div>
+                                </form>
+                                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+                            </div>
+
+                            <ul class="social">
+                                <div>
+                                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                                    <script type="text/javascript"
+                                            src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-544ed15d4e4d4bed"
+                                            async="async"></script>
+
+                                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+                                    <!-- <div class="addthis_horizontal_follow_toolbox"></div> -->
+                                </div>
+
+                                <li><a href="http://www.facebook.com/breaking911" target="_blank"><img
+                                            src="http://breaking911.com/wp-content/uploads/2015/05/fb_icon1.png" alt=""></a>
+                                </li>
+                                <li><a href="http://www.twitter.com/breaking911" target="_blank"><img
+                                            src="http://breaking911.com/wp-content/uploads/2015/05/twite_icon1.png" alt=""></a>
+                                </li>
+                                <!--<li><a href="http://www.pinterset.com"><img src="http://rpdinfotech.com/avipix/wp-content/uploads/2015/04/pinterset_icon1.png" alt=""></a></li>-->
+
+                            </ul>
+                        </div>
+                        <nav><a href="#" class="toggleMenu"></a>
+                            <!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.4 on wp4.2.4 -->
+                            <!-- Menu Type : navmenu_1789 -->
+<!--                            <div class="shailan-dropdown-menu" >-->
+<!--                                <div id="shailan-dropdown-wrapper-2" >-->
+<!--                                    <div align="left" class="dropdown-horizontal-container dm-align-left clearfix"><table cellpadding="0" cellspacing="0"><tr><td><ul id="menu-headercategories" class="dropdown dropdown-horizontal dropdown-align-left"><li id="menu-item-47190" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-47190"><a href="http://breaking911.com">Home</a>-->
+<!--                                                            <ul class="sub-menu">-->
+<!--                                                                <li id="menu-item-47601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47601"><a href="http://breaking911.com/contact-us/">contact us</a></li>-->
+<!--                                                                <li id="menu-item-47602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47602"><a href="http://breaking911.com/news-tips/">News Tips</a></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </li>-->
+<!--                                                        <li id="menu-item-47028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47028"><a href="http://breaking911.com/category/entertainment/">For Your Entertainment</a>-->
+<!--                                                            <ul class="sub-menu">-->
+<!--                                                                <li id="menu-item-47030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47030"><a href="http://breaking911.com/category/entertainment/good-news/">Good News</a></li>-->
+<!--                                                                <li id="menu-item-47031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47031"><a href="http://breaking911.com/category/entertainment/stupid/">Stupid People</a></li>-->
+<!--                                                                <li id="menu-item-47032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47032"><a href="http://breaking911.com/category/entertainment/stupid/stupid-criminals/">Stupid Criminals</a></li>-->
+<!--                                                                <li id="menu-item-47033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47033"><a href="http://breaking911.com/category/entertainment/weird-news/">Weird news</a></li>-->
+<!--                                                                <li id="menu-item-47029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47029"><a href="http://breaking911.com/category/entertainment/funny-news/">Funny news</a></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </li>-->
+<!--                                                        <li id="menu-item-47124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47124"><a href="http://breaking911.com/category/people-culture/">People &#038; Culture</a>-->
+<!--                                                            <ul class="sub-menu">-->
+<!--                                                                <li id="menu-item-47125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47125"><a href="http://breaking911.com/category/people-culture/animals/">Animals</a></li>-->
+<!--                                                                <li id="menu-item-47126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47126"><a href="http://breaking911.com/category/people-culture/celebrities/">Celebrities</a></li>-->
+<!--                                                                <li id="menu-item-47127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47127"><a href="http://breaking911.com/category/people-culture/election-2016/">Election 2016</a>-->
+<!--                                                                    <ul class="sub-menu">-->
+<!--                                                                        <li id="menu-item-47128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47128"><a href="http://breaking911.com/category/people-culture/election-2016/donald-trump/">Donald Trump</a></li>-->
+<!--                                                                        <li id="menu-item-47129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47129"><a href="http://breaking911.com/category/people-culture/election-2016/hillary-clinton/">Hillary Clinton</a></li>-->
+<!--                                                                        <li id="menu-item-47130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47130"><a href="http://breaking911.com/category/people-culture/election-2016/jeb-bush/">Jeb Bush</a></li>-->
+<!--                                                                        <li id="menu-item-47131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47131"><a href="http://breaking911.com/category/people-culture/election-2016/rand-paul/">Rand Paul</a></li>-->
+<!--                                                                        <li id="menu-item-47132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47132"><a href="http://breaking911.com/category/people-culture/election-2016/scott-walker/">Scott Walker</a></li>-->
+<!--                                                                    </ul>-->
+<!--                                                                </li>-->
+<!--                                                                <li id="menu-item-47133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47133"><a href="http://breaking911.com/category/people-culture/gay-pride-marriage/">Gay Pride / Marriage</a></li>-->
+<!--                                                                <li id="menu-item-47134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47134"><a href="http://breaking911.com/category/people-culture/gun-control/">Gun Control</a></li>-->
+<!--                                                                <li id="menu-item-47135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47135"><a href="http://breaking911.com/category/people-culture/illegal-immigration/">Illegal Immigration</a></li>-->
+<!--                                                                <li id="menu-item-47136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47136"><a href="http://breaking911.com/category/people-culture/police/">Police</a>-->
+<!--                                                                    <ul class="sub-menu">-->
+<!--                                                                        <li id="menu-item-47137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47137"><a href="http://breaking911.com/category/people-culture/police/lapd/">LAPD</a></li>-->
+<!--                                                                        <li id="menu-item-47138" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47138"><a href="http://breaking911.com/category/people-culture/police/nypd/">NYPD</a></li>-->
+<!--                                                                        <li id="menu-item-47139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47139"><a href="http://breaking911.com/category/people-culture/police/officer-shot/">Officer Shot</a></li>-->
+<!--                                                                    </ul>-->
+<!--                                                                </li>-->
+<!--                                                                <li id="menu-item-47140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47140"><a href="http://breaking911.com/category/people-culture/politics/">Politics</a></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </li>-->
+<!--                                                        <li id="menu-item-47141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47141"><a href="http://breaking911.com/category/bad-news/">Bad News</a>-->
+<!--                                                            <ul class="sub-menu">-->
+<!--                                                                <li id="menu-item-47142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47142"><a href="http://breaking911.com/category/bad-news/car-accidents/">Car Accidents</a></li>-->
+<!--                                                                <li id="menu-item-47143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47143"><a href="http://breaking911.com/category/bad-news/cyber-attacks/">Cyber Attacks</a></li>-->
+<!--                                                                <li id="menu-item-47144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47144"><a href="http://breaking911.com/category/bad-news/domestic-violence/">Domestic Violence</a>-->
+<!--                                                                    <ul class="sub-menu">-->
+<!--                                                                        <li id="menu-item-47145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47145"><a href="http://breaking911.com/category/bad-news/domestic-violence/child-abuse/">Child Abuse</a></li>-->
+<!--                                                                    </ul>-->
+<!--                                                                </li>-->
+<!--                                                                <li id="menu-item-47146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47146"><a href="http://breaking911.com/category/bad-news/drug-busts/">Drug Busts</a></li>-->
+<!--                                                                <li id="menu-item-47147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47147"><a href="http://breaking911.com/category/bad-news/gangs/">Gangs</a></li>-->
+<!--                                                                <li id="menu-item-47148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47148"><a href="http://breaking911.com/category/bad-news/guns/">Guns</a></li>-->
+<!--                                                                <li id="menu-item-47149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47149"><a href="http://breaking911.com/category/bad-news/iran/">Iran</a></li>-->
+<!--                                                                <li id="menu-item-47150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47150"><a href="http://breaking911.com/category/bad-news/weather/">Natural Disasters and Weather</a></li>-->
+<!--                                                                <li id="menu-item-47151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47151"><a href="http://breaking911.com/category/bad-news/police-brutality/">Police Brutality</a></li>-->
+<!--                                                                <li id="menu-item-47152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47152"><a href="http://breaking911.com/category/bad-news/racism/">Racism</a></li>-->
+<!--                                                                <li id="menu-item-47153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47153"><a href="http://breaking911.com/category/bad-news/terrorism/">Terrorism</a></li>-->
+<!--                                                                <li id="menu-item-47154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47154"><a href="http://breaking911.com/category/bad-news/terrorism/isis/">ISIS</a></li>-->
+<!--                                                                <li id="menu-item-47155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47155"><a href="http://breaking911.com/category/bad-news/violent/">Violent Crime</a></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </li>-->
+<!--                                                        <li id="menu-item-47036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47036"><a href="http://breaking911.com/category/video/">VIDEOS</a>-->
+<!--                                                            <ul class="sub-menu">-->
+<!--                                                                <li id="menu-item-47038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47038"><a href="http://breaking911.com/category/video/viral-video/">Viral Videos</a></li>-->
+<!--                                                                <li id="menu-item-47037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47037"><a href="http://breaking911.com/category/video/isis-videos/">ISIS Videos</a></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </li>-->
+<!--                                                    </ul></td>-->
+<!--                                            </tr></table>-->
+<!--                                    </div></div>-->
+<!--                            </div>-->
+
+                            <!--/ Dropdown Menu Widget -->
+                            <ul>
+                                <li class="active"><a href="http://breaking911.com/">HOME</a></li>
+                                <li><a href="http://breaking911.com/contact-us/">CONTACT US</a></li>
+                                <li><a href="http://breaking911.com/news-tips/">NEWS TIPS</a></li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+    </div>
+
+    <div id="cse-search-results" style="margin: 0 auto; width:800px;"></div>
+    <script type="text/javascript">
+        var googleSearchIframeName = "cse-search-results";
+        var googleSearchFormName = "cse-search-box";
+        var googleSearchFrameWidth = 800;
+        var googleSearchDomain = "www.google.com";
+        var googleSearchPath = "/cse";
+    </script>
+    <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+    <script>
+        jQuery('.header-container').css('height', jQuery('.header').height()+'px');
+        jQuery( window ).resize(function() {
+            jQuery('.header-container').css('height', jQuery('.header').height()+'px');
+        });
+    </script>
+    <script>
+        jQuery( document ).ready(function() {
+            var logoTopMargin = (jQuery('.header').height() - jQuery('.logo img').height())/2;
+            if(logoTopMargin < 0){
+                logoTopMargin = 0;
+            }
+            jQuery('.logo').css('margin-top', logoTopMargin+'px');
+            jQuery( window ).resize(function() {
+                var logoTopMargin = (jQuery('.header').height() - jQuery('.logo img').height())/2;
+                if(logoTopMargin < 0){
+                 logoTopMargin = 0;
+                }
+                jQuery('.logo').css('margin-top', logoTopMargin+'px');
+            });
+        })
+    </script>
+
+    <!-- End Header-->
+<script type='text/javascript'>
+    /* <![CDATA[ */
+    //var infinite_scroll = "{\"loading\":{\"msgText\":\"<em>Loading...<\\\/em>\",\"finishedMsg\":\"<em>No additional News.<\\\/em>\",\"img\":\"http:\\\/\\\/www.breaking911.com\\\/wp-content\\\/plugins\\\/infinite-scroll\\\/img\\\/ajax-loader.gif\"},\"nextSelector\":\"#nav-below a:first\",\"navSelector\":\"#nav-below\",\"itemSelector\":\".post\",\"contentSelector\":\"#content\",\"debug\":false,\"behavior\":\"\",\"callback\":\"\"}";
+    /* ]]> */
+</script>
+<div class="wrapper">
+    <section class="body_container">
+        <div class="left_conatiner" id="content">
+            <section class="cmn_sec cmn_secmob">
+                <div class="cmn_topsec">
+			 <span class="date">
+				February 8, 2016 | 1:47 PM			</span>
+
+                    <h1><a href="http://breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/">Brooklyn Man Sentenced In Subway Hammer Attacks</a></h1>
+                    <span class="title"><strong>By:  T. Grant Benson </strong> (Breaking911 Newsroom)</span>
+                    <span class="date2">February 8, 2016                        | 1:47 PM</span>
+                    <p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://breaking911.com" rel="v:url" property="v:title">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://breaking911.com/category/breaking-news/" rel="v:url" property="v:title">BREAKING NEWS</a> » <span class="breadcrumb_last">Brooklyn Man Sentenced In Subway Hammer Attacks</span></span></span></span></p>                </div>
+
+                <!--Top Sec end -->
+                <!--Btm details start -->
+                <section class="btm_details">
+
+
+                                            <article id="post-66143" class="post-66143 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-violent">
+
+            <!--defaultformat -->
+
+<!--        --><!--            <!--thumbnail -->
+<!--            --><!--                <!--sp_post_thumb -->
+<!--                <div class="post-image">-->
+<!--                    <a href="--><!--">-->
+<!--                        --><!--                    </a>-->
+<!--                </div>-->
+<!--            --><!--        -->
+    
+
+    <div class="banner">
+                            </div>
+
+    
+    
+    
+
+
+
+  <div class="clearfix"></div>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- CM_BR_Desktop_AP_728*90 -->
+  <ins class="adsbygoogle"
+  style="display:block;width:728px;height:90px;margin: auto;"
+  data-ad-client="ca-pub-5116462037312968"
+  data-ad-slot="2177638738"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <div class="clearfix"></div>
+        <div class="my_social_btn">
+      <a onclick="windowpop('https://www.facebook.com/sharer/sharer.php?u=breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/', 500, 400)" class="facebook_btn">
+        <span>Share on Facebook</span>
+      </a>
+      <a onclick="windowpop('https://twitter.com/intent/tweet?text=Brooklyn Man Sentenced In Subway Hammer Attacks - Breaking911 breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/', 500, 400)" class="twitter_btn">
+      <span>Share on Twitter</span></a>
+    </div>
+    <div class="addthis_wrapper">
+    <div class="addthis_jumbo_share"></div>
+    </div>
+              <!--JUMBO-->
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <!--<div class="addthis_jumbo_share"></div>-->
+
+        <div class="post-header">
+
+                    <span class="cat"><a href="http://breaking911.com/category/breaking-news/" title="View all posts in BREAKING NEWS" >BREAKING NEWS</a>, <a href="http://breaking911.com/category/bad-news/violent/" title="View all posts in Violent Crime" >Violent Crime</a></span>
+        
+                            
+                    <span class="date">February 8, 2016</span>
+        
+    </div>
+
+    <div class="post-entry">
+
+                        
+                                <!-- foobar  -->
+
+                <div class='the_main_content_area'><div><div class='ad-336'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CM_BR_Desktop_AP_TC_336*280 -->
+<ins class="adsbygoogle"
+ style="display:inline-block;width:336px;height:280px"
+ data-ad-client="ca-pub-5116462037312968"
+ data-ad-slot="8246021936"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div><p>NEW YORK — A 30-year-old Brooklyn man was sentenced to 12 years in prison for two separate robberies of subway commuters. In each incident, the defendant approached from behind, struck the victim’s head with a hammer as the victim purchased a MetroCard, demanded money and fled the scene.</p><div><div class='ad-336' style='float: right;'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300X600 Desktop -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-5116462037312968"
+     data-ad-slot="8606153933"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div><p>District Attorney Thompson said, “In order for our city to be a place of law and order, people must be able to enter our subways without fear of being violently attacked. This defendant caused such fear by ambushing subway riders from behind, smashing them over their heads with a hammer and running off with their money. Without question, he now deserves to spend many years locked up in prison due to the extremely violent nature of his attacks.”</p><p>The District Attorney identified the defendant as Anthony Coward, 30, of 159 Hull Street, in Bedford-Stuyvesant, Brooklyn. He was sentenced today to 12 years in prison and five years’ post-release supervision following a guilty plea on January 25, 2015 to two counts of first-degree robbery, which represent the top counts of the indictment.</p><p>The District Attorney said that, according to the investigation, both incidents took place inside the Rockaway Avenue subway station, which serves the A and C subway lines and is located at the corner of Rockaway Avenue and Fulton Street in Bedford Stuyvesant, Brooklyn.</p><p>On May 4, 2014, at approximately 11 a.m., Cory Healy was purchasing a MetroCard from a vending machine when he was approached from behind and hit on the side of the head with a hammer by the defendant. The victim fell to the ground and the defendant demanded his property and continued to strike him with the hammer. The defendant then fled with the victim’s wallet, MetroCard, debit card and $58 in cash.</p><p><a href="http://breaking911.com/wp-content/uploads/2016/02/unnamed1.jpg"><img class="alignnone size-full wp-image-66144" src="http://breaking911.com/wp-content/uploads/2016/02/unnamed1.jpg" alt="unnamed" width="482" height="606"></a></p><p>On May 7, 2014, at approximately 9:20 a.m., Brijanand Rishianand was purchasing a MetroCard when he was hit in the side of the head with a hammer by the defendant. The victim, bleeding, gave the defendant $140 and the defendant fled.</p><p>Both victims suffered pain, bruising and swelling to the head. The first victim also suffered bruising to the arm, while the second also suffered a concussion.</p><div class="twitter-share"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fbreaking911.com%2Fbrooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer%2F&amp;via=Breaking911&amp;related=grantb911%3AT.%20Grant%20Benson" class="twitter-share-button" data-size="large">Tweet</a></div></div>                <script>
+                    jQuery( document ).ready(function() {
+                        //jQuery(jQuery(".the_main_content_area > p")[0]).after('');
+                    });
+                </script>
+                            <script>
+                    jQuery( document ).ready(function() {
+                        jQuery(jQuery(".the_main_content_area > p:last")).after('');
+                    });
+                </script>
+                            <script>
+                    jQuery( document ).ready(function() {
+                        var half = Math.ceil(jQuery(".the_main_content_area > p").length/2)-1;
+                        jQuery(jQuery(".the_main_content_area > p")[half]).after('');
+                    });
+                </script>
+                            <script>
+          jQuery( document ).ready(function() {
+              //..jQuery('.video-section').append( jQuery('.the_main_content_area iframe[src*="youtube.com"]') );
+          });
+        </script>
+                                    <div class="post-tags">
+                                    </div>
+                    
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 728X90 Desktop -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-5116462037312968"
+             data-ad-slot="4958895538"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+                        <!-- <div class="video-section"></div> -->
+                <div class="add-this-container">
+                    <div class="addthis_jumbo_share"></div>
+                </div>        <!--div>JUMBO!!</div-->
+        <div class="my_social_btn">
+                <a onclick="windowpop('https://www.facebook.com/sharer/sharer.php?u=breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/', 500, 400)"
+                   class="facebook_btn">
+                    <span>Share on Facebook</span></a>
+            <a onclick="windowpop('https://twitter.com/intent/tweet?text=Brooklyn Man Sentenced In Subway Hammer Attacks - Breaking911 breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/', 500, 400)" class="twitter_btn">
+                <span>Share on Twitter</span></a>
+        </div>
+
+                <!--    facebook comments-->
+        <div style="width: 100%;" class="fb-comments" data-href="http://breaking911.com/brooklyn-man-sentenced-to-12-years-in-prison-for-robbing-two-subway-riders-after-attacking-them-with-a-hammer/" data-numposts="5" data-colorscheme="light"></div>
+
+        <div style="display: none; !important; width: 100%;">
+         <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+          <!-- Matched -->
+          <ins class="adsbygoogle"
+               style="display:block;"
+               data-ad-client="ca-pub-5116462037312968"
+               data-ad-slot="7798807131"
+               data-ad-format="autorelaxed"></ins>
+          <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+        <div class="clearfix"></div>
+
+                            
+    </div>
+
+<div id="yavli_content"></div>
+
+    <!-- start taboola -->
+    <div id="taboola-below-article-thumbnails"></div>
+
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'autosized-generated-text-under-2r',
+            container: 'taboola-below-article-thumbnails',
+            placement: 'Below Article Thumbnails',
+            target_type: 'mix'
+        });
+    </script>
+    <!-- end taboola -->
+
+    <!--native ad-->
+
+        <style>
+
+            .ntv    {display:block;}
+            .ntvmob {display:none;}
+
+            @media (max-width: 414px) {
+                .ntv {display:none;}
+                .ntvmob {display:block;}
+            }
+
+        </style>
+
+        <div class="ntv">
+            <div id="avdntvarr">
+                <script intent="get" type="text/javascript">(function() {
+                        var id = "id" + Math.floor((Math.random() * 100000) + 1);
+                        var cs=document.currentScript||function(){for(var t,n,r=[],c=0,e=0;e<document.scripts.length;e++)t=document.scripts[e],n=t.getAttribute("intent"),null!=n&&"get"===n&&(r[c++]=t);return 0===r.length?null:r[c-1]}();
+                        if(!cs) return;
+                        var gs = document.createElement("script");
+                        gs.setAttribute("id", id);
+                        gs.setAttribute("async", true);
+                        gs.setAttribute("defer", true);
+                        gs.src = "https://network.advertise.com/adentify/bindevent.do?e=adent&mode=mainwell-i&affiliate=breaking_911NAT&subid=desktop&cn=5&maxAds=10&urlRefresh=false&u=false&endpoint=https%3A%2F%2Fnetwork.advertise.com&scriptId=" + id;
+                        cs = cs.parentNode.replaceChild(gs, cs);
+                    })();
+                </script>
+                <style>
+                    #avdntvarr table {padding:0px 0px 0px 0px;border:none;margin:0px 0px 0px 0px;}
+                    #avdntvarr table td {padding:0px 2px 0px 0px;border:none;margin:0px 0px 0px 0px;vertical-align:top;}
+                </style>
+            </div>
+        </div>
+
+        <div class="ntvmob">
+            <div id="avdntvarr">
+                <script intent="get" type="text/javascript">(function() {
+                        var id = "id" + Math.floor((Math.random() * 100000) + 1);
+                        var cs=document.currentScript||function(){for(var t,n,r=[],c=0,e=0;e<document.scripts.length;e++)t=document.scripts[e],n=t.getAttribute("intent"),null!=n&&"get"===n&&(r[c++]=t);return 0===r.length?null:r[c-1]}();
+                        if(!cs) return;
+                        var gs = document.createElement("script");
+                        gs.setAttribute("id", id);
+                        gs.setAttribute("async", true);
+                        gs.setAttribute("defer", true);
+                        gs.src = "https://network.advertise.com/adentify/bindevent.do?e=adent&mode=mainwell-i&affiliate=breaking_911NAT&subid=mobile&cn=2&maxAds=4&urlRefresh=false&u=false&endpoint=https%3A%2F%2Fnetwork.advertise.com&scriptId=" + id;
+                        cs = cs.parentNode.replaceChild(gs, cs);
+                    })();
+                </script>
+                <style>
+                    #avdntvarr table {padding:0px 0px 0px 0px;border:none;margin:0px 0px 0px 0px;}
+                    #avdntvarr table td {padding:0px 2px 0px 0px;border:none;margin:0px 0px 0px 0px;vertical-align:top;}
+                </style>
+            </div>
+        </div>
+
+        <!-- end native ad -->
+
+       <!-- gravity -->
+        <div id="grv-personalization-1"></div>
+        <script type='text/javascript'>
+            //<![CDATA[
+            (function(){
+                window.gravityInsightsParams = {
+                    'type': 'content',
+                    'action': '',
+                    'site_guid': '39897a1f691f4ab9d29e150bf51ca4e3'
+                };
+                var adServerReq,bUrl,cburl,doUseGravityUserGuid,extPlacementIdOpt,externalPlacementId,includeJs,jq,pfurl,ppid,ppidOpt,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";
+                ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+                wlUrl=(wlPrefix="https:"===location.protocol?"https://secure-api.gravity.com/v1/api/intelligence":"http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",extPlacementIdOpt=gravityInsightsParams.epl||"",externalPlacementId="${EXTERNAL_PLACEMENT_ID}"!==extPlacementIdOpt?extPlacementIdOpt:"",
+                    ppidOpt=gravityInsightsParams.ppid||"",ppid="${PUBLISHER_PLACEMENT_ID}"!==ppidOpt?ppidOpt:"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-1&pl=1"+("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+encodeURIComponent(pfurl)+(""!==externalPlacementId?"&epl="+encodeURIComponent(externalPlacementId):"")+(""!==ppid?"&ppid="+encodeURIComponent(ppid):"")+("&x="+(new Date).getTime())+("undefined"!==
+                typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+            //]]>
+        </script>
+
+    <!-- earnify -->
+    <div class="earnify-widget" data-widget-id="188"></div>
+
+<!--
+    <div class="addthis_wrapper">
+-->
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!--
+        <div class="addthis_jumbo_share"></div>
+    </div>
+-->
+
+            <div class="post-share">
+
+            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://breaking911.com/developing-comcast-outage-hits-thousands-of-customers-nationwide/"><span
+                    class="share-box"><i class="fa fa-facebook"></i></span></a>
+            <a target="_blank"
+               href="https://twitter.com/home?status=Check%20out%20this%20article:%20Comcast Outage Hits Thousands of Customers Nationwide%20-%20http://breaking911.com/developing-comcast-outage-hits-thousands-of-customers-nationwide/"><span
+                    class="share-box"><i class="fa fa-twitter"></i></span></a>
+                        <a target="_blank"
+               href="https://pinterest.com/pin/create/button/?url=http://breaking911.com/developing-comcast-outage-hits-thousands-of-customers-nationwide/&media=http://breaking911.com/wp-content/uploads/2016/02/CbRjca4W8AACyjn.png&description=Comcast Outage Hits Thousands of Customers Nationwide"><span
+                    class="share-box"><i class="fa fa-pinterest"></i></span></a>
+            <a target="_blank" href="https://plus.google.com/share?url=http://breaking911.com/developing-comcast-outage-hits-thousands-of-customers-nationwide/"><span
+                    class="share-box"><i class="fa fa-google-plus"></i></span></a>
+
+            <a href="http://breaking911.com/developing-comcast-outage-hits-thousands-of-customers-nationwide/#respond"><span data-lf-article-id="66876" data-lf-site-id="379184" class="livefyre-commentcount"><span class="share-box"><i class="fa fa-comment-o"></i></span></span></a>
+        </div>
+    
+
+                        <div class="post-author">
+		
+	<div class="author-img">
+		<img alt='' src='http://2.gravatar.com/avatar/21227aab5f80040c19d732c1a122558a?s=100&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/21227aab5f80040c19d732c1a122558a?s=200&amp;d=mm&amp;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />	</div>
+	
+	<div class="author-content">
+		<h5><a href="http://breaking911.com/author/grant/" title="Posts by T. Grant Benson" rel="author">T. Grant Benson</a></h5>
+		<p></p>
+				<a target="_blank" class="author-social" href="http://twitter.com/@GrantB911"><i class="fa fa-twitter"></i></a>									</div>
+	
+</div>            
+                                    
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <!--div class="addthis_jumbo_share"></div-->
+    
+    
+    
+</article>
+
+<script>
+var windowpop = function(url, width, height) {
+    window.open( url);
+}
+
+</script>
+                                            
+                </section>
+
+                <section class="breaking_details content">
+                    <h3>#breaking now </h3>
+
+                                        <div class="left_add_box mobile">
+                                                                                    <li class="indexad">			<div class="textwidget"></div>
+		</li>                                <!-- single 1 start google ad-->
+                                                    
+                    </div>
+                    
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/66964/"><img width="605" height="316" src="http://breaking911.com/wp-content/uploads/2016/02/Capture.jpg" class="attachment-post-thumbnail wp-post-image" alt="Capture" /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/66964/">At Least 35 People Trapped in Rubble as Residential Building Collapses in Russia</a></h4>
+
+                                <p>An entire section of a five story residential building in the Russian city of Yaroslavl has collapsed in a&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">5564 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/watch-george-w-bush-weighs-in-on-charleston-church-shooting/"><img width="1366" height="768" src="http://breaking911.com/wp-content/uploads/2016/02/Screenshot-2016-02-15-22.20.45.png" class="attachment-post-thumbnail wp-post-image" alt="Screenshot 2016-02-15 22.20.45" /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/watch-george-w-bush-weighs-in-on-charleston-church-shooting/">WATCH: George W. Bush Weighs In On Charleston Church Shooting</a></h4>
+
+                                <p>Former U.S. President George W. Bush at a campaign rally in North Charleston for his younger brother, Republican presidential&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">6987 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/major-omaha-gang-members-indicted-in-ground-breaking-rico-investigation/"><img width="1280" height="720" src="http://breaking911.com/wp-content/uploads/2015/12/Gavel-Courtroom-Gavel-jpg_650638_ver1.0_1280_720.jpg" class="attachment-post-thumbnail wp-post-image" alt="Monet Curtis was found guilty of one count of second-degree murder and one count of first-degree child abuse resulting in death of her 20 month old son. Curtis faces up to 40 years in prison for her crimes." /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/major-omaha-gang-members-indicted-in-ground-breaking-rico-investigation/">ATF: Major Omaha Gang Members Indicted in &#8220;Ground-Breaking&#8221; Investigation</a></h4>
+
+                                <p>NEBRASKA &#8212; United States Attorney for the District of Nebraska Deborah R. Gilg announced the federal Grand Jury for&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">14487 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/san-diego-gymnastics-coach-arrested-for-sexual-assault/"><img width="1024" height="576" src="http://breaking911.com/wp-content/uploads/2016/02/Patrick-Wehrung-web-story-1024x576.jpg" class="attachment-post-thumbnail wp-post-image" alt="Patrick-Wehrung-web-story-1024x576" /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/san-diego-gymnastics-coach-arrested-for-sexual-assault/">Disturbing Sexual Assault Charges Filed Against San Diego Gymnastics Coach</a></h4>
+
+                                <p>CALIFORNIA &#8212; On February 9, 2016, a juvenile reported to police she had been involved in an inappropriate relationship&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">19013 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/viral-video-how-not-to-use-an-escalator-watch/"><img width="480" height="270" src="http://breaking911.com/wp-content/uploads/2016/02/Qarta.oq1b.1-small-How-not-to-use-an-escalator.jpg" class="attachment-post-thumbnail wp-post-image" alt="Qarta.oq1b.1-small-How-not-to-use-an-escalator" /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/viral-video-how-not-to-use-an-escalator-watch/">VIRAL VIDEO: How NOT To Use An Escalator &#8211; WATCH</a></h4>
+
+                                <p>This guy&#8217;s decision to slide down an escalator backfires in the most painful way possible! Epic fail!</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">28098 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/21-year-old-woman-vanishes-in-los-angeles/"><img width="150" height="177" src="http://breaking911.com/wp-content/uploads/2016/02/NR16045AJ-msp-Delia-linn-Wilson.jpg" class="attachment-post-thumbnail wp-post-image" alt="NR16045AJ msp Delia linn Wilson" /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/21-year-old-woman-vanishes-in-los-angeles/">21-Year-Old Woman Vanishes In Los Angeles</a></h4>
+
+                                <p>CALIFORNIA &#8212; The family of Delia Linn Wilson and the Los Angeles Police Department&#8217;s Missing Persons Unit are asking&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">14899 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/federal-jury-convicts-milwaukee-man-of-transporting-a-minor-to-illinois-from-wisconsin-to-engage-in-prostitution/"><img width="1280" height="720" src="http://breaking911.com/wp-content/uploads/2015/12/Gavel-Courtroom-Gavel-jpg_650638_ver1.0_1280_720.jpg" class="attachment-post-thumbnail wp-post-image" alt="Monet Curtis was found guilty of one count of second-degree murder and one count of first-degree child abuse resulting in death of her 20 month old son. Curtis faces up to 40 years in prison for her crimes." /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/federal-jury-convicts-milwaukee-man-of-transporting-a-minor-to-illinois-from-wisconsin-to-engage-in-prostitution/">Milwaukee Man Found Guilty of Taking Girl to Chicago Area for Prostitution</a></h4>
+
+                                <p>Federal Jury Convicts Milwaukee Man of Transporting a Minor to Illinois from Wisconsin to Engage in Prostitution CHICAGO —&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">11182 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="post article_box">
+                            <div class="article_video">
+                                                              <div class="video">
+                                    <a href="http://breaking911.com/member-of-cherry-hill-group-udh-sentenced-to-30-years-in-prison-for-racketeering-conspiracy-including-murder-robbed-and-murdered-a-drug-rival/"><img width="1280" height="720" src="http://breaking911.com/wp-content/uploads/2015/12/Gavel-Courtroom-Gavel-jpg_650638_ver1.0_1280_720.jpg" class="attachment-post-thumbnail wp-post-image" alt="Monet Curtis was found guilty of one count of second-degree murder and one count of first-degree child abuse resulting in death of her 20 month old son. Curtis faces up to 40 years in prison for her crimes." /></a>
+                                </div>
+                              <h4><a href="http://breaking911.com/member-of-cherry-hill-group-udh-sentenced-to-30-years-in-prison-for-racketeering-conspiracy-including-murder-robbed-and-murdered-a-drug-rival/">Baltimore Gang Member Gets 30 Years in Prison for Racketeering Conspiracy, Murder</a></h4>
+
+                                <p>Member of Cherry Hill Group ‘UDH’ Sentenced to 30 Years in Prison for Racketeering Conspiracy, Including Murder &#8211; Robbed&hellip;</p>
+
+                                <div class="bottom_box">
+						<span class="comment">
+							<a href="#">
+                                                                0 Comments                            </a>
+					 </span>
+
+                                    <span class="share"><a href="#">9281 Views</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    
+                                        <div class="left_add_box mobile">
+
+                        <li class="indexad">			<div class="textwidget"></div>
+		</li>
+                    </div>
+
+<!--                    --><!--                    --><!--                        <div class="article_box">-->
+<!--                            <div class="article_video">-->
+<!--                                <div class="video">-->
+<!--                                    <a href="--><!--">--><!--    </a>-->
+<!--                                </div>-->
+<!--                                <h4><a href="--><!--">--><!--</a></h4>-->
+<!---->
+<!--                                <p>--><!--</p>-->
+<!---->
+<!--                                <div class="bottom_box">-->
+<!--						<span class="comment">-->
+<!--					-->
+<!--						<a href="#">-->
+<!--                            --><!--                            --><!--                        </a>-->
+<!--					 </span>-->
+<!--                                    <span class="share"><a href="#">--><!-- Views</a></span>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    --><!--                    -->
+                </section>
+            </section>
+
+        </div>
+
+        <div class="navigation" id="nav-below">
+            <p>
+            <p></p>
+            </p>
+        </div>
+
+
+        <div class="right_conatiner rightsidebar">
+                        <div class="connect_box">
+                <h3>#connect</h3>
+
+                <div class="connect_details">
+                    <h4>Never Miss Breaking News -<br>
+                        Follow Breaking911</h4>
+
+                    <div class="follow_box">
+                        <!--<div class="fb-follow" data-href="https://www.facebook.com/breaking911" data-width="290" data-height="50" data-colorscheme="light" data-layout="button_count" data-show-faces="true"></div>-->
+                                                <div class="follow_left"><span class="facebook"><a target="_blank"
+                                                                           href="http://www.facebook.com/breaking911">Follow
+                                    us on Facebook</a></span> <span class="followers facebook">                                <span id="fb_count"></span> likes</span></div>
+                        <div class="follow_left"><span class="twitter"><a target="_blank"
+                                                                          href="http://www.twitter.com/breaking911">Follow
+                                    us on Twitter</a></span> <span class="followers">128,263                                followers</span></div>
+                    </div>
+                </div>
+            </div>
+                        <!--single 2 start google ad-->
+
+<!--            <div class="earnify-widget" data-widget-id="189"></div>-->
+
+            <h3>#trending</h3>
+
+            <div id="yavli"></div>
+
+                                        <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/fugitive-is-believed-to-be-in-the-st-clair-county-kill-police-scotty-eugene-priest/"><img width="296" height="394" src="http://breaking911.com/wp-content/uploads/2016/02/10402384_651397834985991_8012366985807950034_n.jpg" class="attachment-post-thumbnail wp-post-image" alt="10402384_651397834985991_8012366985807950034_n" /> </a></div>
+                      <h4><a href="http://breaking911.com/fugitive-is-believed-to-be-in-the-st-clair-county-kill-police-scotty-eugene-priest/">&#8216;Armed &#038; Dangerous': Fugitive Scotty E. Priest Has Threatened To Kill Police Officers</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/fugitive-is-believed-to-be-in-the-st-clair-county-kill-police-scotty-eugene-priest/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">485139 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                            
+                    <!-- /58723324/CM_DFP_Sidebar_300*600 -->
+                    <div id='div-gpt-ad-1450674886548-0' style='height:600px; width:300px;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1450674886548-0'); });
+                        </script>
+                    </div>
+                                    
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/breaking-news-train-tracks-burn-near-bonnet-carre-spillway/"><img width="1920" height="1080" src="http://breaking911.com/wp-content/uploads/2016/02/0f1f876dc190952ed28d03e893bfb1e9.jpg" class="attachment-post-thumbnail wp-post-image" alt="0f1f876dc190952ed28d03e893bfb1e9" /> </a></div>
+                      <h4><a href="http://breaking911.com/breaking-news-train-tracks-burn-near-bonnet-carre-spillway/">Train Tracks Burn Near Bonnet Carré Spillway In Louisiana</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/breaking-news-train-tracks-burn-near-bonnet-carre-spillway/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">399419 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/viral-video-guy-gives-his-girlfriend-screenshots-of-her-cheating-as-a-valentines-day-present/"><img width="1366" height="768" src="http://breaking911.com/wp-content/uploads/2016/02/Screenshot-2016-02-14-13.31.43.png" class="attachment-post-thumbnail wp-post-image" alt="Screenshot 2016-02-14 13.31.43" /> </a></div>
+                      <h4><a href="http://breaking911.com/viral-video-guy-gives-his-girlfriend-screenshots-of-her-cheating-as-a-valentines-day-present/">WATCH: Guy Gives Girlfriend Proof of Her Cheating as Valentine&#8217;s Day Present</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/viral-video-guy-gives-his-girlfriend-screenshots-of-her-cheating-as-a-valentines-day-present/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">292651 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/new-york-teenager-has-his-arm-ripped-off-after-theft-attempt-goes-wrong/"><img width="947" height="682" src="http://breaking911.com/wp-content/uploads/2016/02/401b822bc246003abe6131848505483e.jpg" class="attachment-post-thumbnail wp-post-image" alt="401b822bc246003abe6131848505483e" /> </a></div>
+                      <h4><a href="http://breaking911.com/new-york-teenager-has-his-arm-ripped-off-after-theft-attempt-goes-wrong/">WATCH: New York Teenager Has His Arm Ripped Off After Theft Attempt Goes Wrong</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/new-york-teenager-has-his-arm-ripped-off-after-theft-attempt-goes-wrong/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">257622 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/carroll-county-sheriff-james-t-dewees-posted-on-facebook-saturday-morning-a-letter-to-the-president-following-the-deaths-of-law-enforcement-officers-across-the-country-including-two-sheriffs-deputi/"><img width="620" height="349" src="http://breaking911.com/wp-content/uploads/2016/02/Sheriff-Jim-DeWees.jpg" class="attachment-post-thumbnail wp-post-image" alt="Sheriff-Jim-DeWees" /> </a></div>
+                      <h4><a href="http://breaking911.com/carroll-county-sheriff-james-t-dewees-posted-on-facebook-saturday-morning-a-letter-to-the-president-following-the-deaths-of-law-enforcement-officers-across-the-country-including-two-sheriffs-deputi/">Sheriff&#8217;s Letter to President Obama Going Viral</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/carroll-county-sheriff-james-t-dewees-posted-on-facebook-saturday-morning-a-letter-to-the-president-following-the-deaths-of-law-enforcement-officers-across-the-country-including-two-sheriffs-deputi/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">181977 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/justice-scalia-found-dead-with-pillow-over-his-head/"><img width="1068" height="708" src="http://breaking911.com/wp-content/uploads/2016/02/8da8569cbb212becf17b4c113923df68.jpg" class="attachment-post-thumbnail wp-post-image" alt="8da8569cbb212becf17b4c113923df68" /> </a></div>
+                      <h4><a href="http://breaking911.com/justice-scalia-found-dead-with-pillow-over-his-head/">Justice Scalia Found Dead With &#8216;Pillow Over His Head&#8217;</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/justice-scalia-found-dead-with-pillow-over-his-head/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">163060 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/albuquerque-international-airport-bomb-explosive-car-threat/"><img width="500" height="400" src="http://breaking911.com/wp-content/uploads/2015/12/Breaking-News1.jpeg" class="attachment-post-thumbnail wp-post-image" alt="Breaking News" /> </a></div>
+                      <h4><a href="http://breaking911.com/albuquerque-international-airport-bomb-explosive-car-threat/">Explosive Device Found at Albuquerque Airport Rental Car Station</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/albuquerque-international-airport-bomb-explosive-car-threat/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">144538 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/two-males-with-weapons-reported-near-the-student-union-arkansas-state-lockdown/"><img width="500" height="400" src="http://breaking911.com/wp-content/uploads/2015/10/CQm_YUOWcAAKE8Z.jpg" class="attachment-post-thumbnail wp-post-image" alt="AKRON, Ohio - A plane crashed into an apartment building in Akron on Tuesday, police said." /> </a></div>
+                      <h4><a href="http://breaking911.com/two-males-with-weapons-reported-near-the-student-union-arkansas-state-lockdown/">Arkansas State Univ. on Lockdown; 3 Gunmen Seen On Campus</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/two-males-with-weapons-reported-near-the-student-union-arkansas-state-lockdown/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">122455 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/several-dead-after-fifty-vehicle-pile-up-on-pennsylvania-highway/"><img width="1024" height="660" src="http://breaking911.com/wp-content/uploads/2016/02/CbHTv4NUMAA1Kv9.jpeg" class="attachment-post-thumbnail wp-post-image" alt="CbHTv4NUMAA1Kv9" /> </a></div>
+                      <h4><a href="http://breaking911.com/several-dead-after-fifty-vehicle-pile-up-on-pennsylvania-highway/">Several Dead After Fifty-Vehicle Pile-Up On Pennsylvania Highway</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/several-dead-after-fifty-vehicle-pile-up-on-pennsylvania-highway/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">120451 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/this-dash-cam-compilation-will-keep-you-on-the-edge-of-your-seat/"><img width="1366" height="768" src="http://breaking911.com/wp-content/uploads/2016/02/Screenshot-2016-02-14-15.45.30.png" class="attachment-post-thumbnail wp-post-image" alt="Screenshot 2016-02-14 15.45.30" /> </a></div>
+                      <h4><a href="http://breaking911.com/this-dash-cam-compilation-will-keep-you-on-the-edge-of-your-seat/">This Dash Cam Compilation Will Keep You On The Edge of Your Seat!</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/this-dash-cam-compilation-will-keep-you-on-the-edge-of-your-seat/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">112083 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/isis-instructor-gets-head-blown-off-during-beheading-class/"><img width="1600" height="884" src="http://breaking911.com/wp-content/uploads/2016/02/4.jpg" class="attachment-post-thumbnail wp-post-image" alt="4" /> </a></div>
+                      <h4><a href="http://breaking911.com/isis-instructor-gets-head-blown-off-during-beheading-class/">ISIS Instructor Gets Head Blown Off During Beheading Class</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/isis-instructor-gets-head-blown-off-during-beheading-class/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">95026 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                            <div class="article_box">
+                    <div class="article_video">
+                                              <div class="video"><a
+                                href="http://breaking911.com/watch-witnesses-say-legendary-yeti-spotted-at-popular-ski-resort/"><img width="600" height="315" src="http://breaking911.com/wp-content/uploads/2016/02/CbMOOw8XEAEtqhr.jpg" class="attachment-post-thumbnail wp-post-image" alt="CbMOOw8XEAEtqhr" /> </a></div>
+                      <h4><a href="http://breaking911.com/watch-witnesses-say-legendary-yeti-spotted-at-popular-ski-resort/">&#8216;Yeti&#8217; Sighting at Spanish Ski Resort Sparks Debate</a></h4>
+
+                        <div class="bottom_box"> <span class="comment"> <a href="#">
+                                    <!--                                    -->                                    <!--                                    -->                                    <span class="fb-comments-count" data-href="http://breaking911.com/watch-witnesses-say-legendary-yeti-spotted-at-popular-ski-resort/"></span>
+                                    comments
+                                </a> </span>
+                            <span class="share"><a href="#">94473 Views</a></span>
+                        </div>
+                    </div>
+                </div>
+                
+                                    
+            <div class="rpbt_shortcode">
+<h3>Related Posts</h3>
+<ul>
+			<li><a href="http://breaking911.com/strange-unexplained-sounds-heard-in-singapore/" title="Strange Unexplained Sounds Heard In Singapore">Strange Unexplained Sounds Heard In Singapore</a></li>
+			<li><a href="http://breaking911.com/viral-video-guy-gives-his-girlfriend-screenshots-of-her-cheating-as-a-valentines-day-present/" title="WATCH: Guy Gives Girlfriend Proof of Her Cheating as Valentine&#8217;s Day Present">WATCH: Guy Gives Girlfriend Proof of Her Cheating as Valentine&#8217;s Day Present</a></li>
+			<li><a href="http://breaking911.com/video-hilarious-reaction-to-a-close-lightning-strike/" title="WATCH: Australian Man Has Hilarious Reaction To Close Lightning Strike">WATCH: Australian Man Has Hilarious Reaction To Close Lightning Strike</a></li>
+			<li><a href="http://breaking911.com/watch-this-broncos-fan-allegedly-kicks-pver-porta-potty-with-patriots-fan-inside/" title="VIDEO: Broncos Fan Allegedly Kicks Pver Porta-Potty With Patriots Fan Inside">VIDEO: Broncos Fan Allegedly Kicks Pver Porta-Potty With Patriots Fan Inside</a></li>
+			<li><a href="http://breaking911.com/watch-crazy-driver-moons-the-public-in-brooklyn-road-rage/" title="WATCH: Crazy Driver Moons the Public in Brooklyn Road Rage">WATCH: Crazy Driver Moons the Public in Brooklyn Road Rage</a></li>
+	</ul>
+</div>
+            <!--single 3 start google ad-->
+
+                    </div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+        	<!-- END CONTAINER -->
+
+	</div>
+
+</section>
+
+	<footer>
+             <div class="wrapper"> <span class="footer_logo"><a href="#"><img src="http://rpdinfotech.com/avipix/wp-content/uploads/2015/04/footer_logo1.png" alt=""></a></span> </div>
+	</footer>
+
+  <script type="text/javascript" src="http://breaking911.com/wp-content/themes/rdppix/js/script.js"></script>
+	<script>if(zy==undefined){var zy={u:'//breaking911.com/datolite/diaboleite/2015/08/cerussite-dragunow12164a-:r:.png',at_ru:"http://exactly0r.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(zy,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",zy,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(zy.i)return false;zy.i=true;return zy.abd(function(){zy.now(zy.u.replace(":r:",zy.rs(5,12)),zy.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(zy.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(zy.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=zy.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(zy.at_e){var rid=zy.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+zy.at_ec+'" id="'+rid+'" style="'+zy.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(zy.at_e||zy.at_r){var step=200,t1=800,t2=1000;(function rec(rid,tw){if(tw==undefined)var tw=0;if(zy.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(zy.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){rec(rid,tw+step);},step);})(rid);}}}(),rs:function(){return function(l,h){var le=Math.floor(Math.random()*(h-l+1))+l;var r="",c="abcdefghijklnopqrstuw0123456789";for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=zy.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){zy.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});zy.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',zy.scan,false);}}}(),scan:function(){return function(o){var a=zy.q(o.child,zy.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(zy.cl[p]==undefined){zy.cl[p]=a[p];zy.now(zy.u.replace(":r:",zy.rs(5,12)),a[p]);}}}}(),now:function(){return function(url,parent){if(zy.uc!=false){zy.collection(zy.uc,parent);zy.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){zy.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=zy.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(zy.c==1&&ucl.observe.enabled==1){zy.uc=ucl;zy.later(ucl.observe);}else{zy.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(zy.css==false){zy.css=zy.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(zy.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=zy.q(ts,parent);if(t.length<1)return;t=t[0];zy.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=zy.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=zy.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];zy.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=zy.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(zy.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(zy.pv==false){zy.pv=true;pv=1;}var i=new Image();i.src=ucl.view_url.replace(":i:",lt).replace(":p:",pv).replace(":r:",zy.rs(5,12)).replace(":g:",zy.g()).replace(":w7:",("000000"+u.widget_id).slice(-7));return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=ucl.load_url.replace(":i:",ls).replace(":r:",zy.rs(5,12)).replace(":g:",zy.g());return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}zy.start();</script>
+<script type="text/javascript">var lf_config = [{"collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkJyb29rbHluIE1hbiBTZW50ZW5jZWQgSW4gU3Vid2F5IEhhbW1lciBBdHRhY2tzIiwidXJsIjoiaHR0cDpcL1wvYnJlYWtpbmc5MTEuY29tXC9icm9va2x5bi1tYW4tc2VudGVuY2VkLXRvLTEyLXllYXJzLWluLXByaXNvbi1mb3Itcm9iYmluZy10d28tc3Vid2F5LXJpZGVycy1hZnRlci1hdHRhY2tpbmctdGhlbS13aXRoLWEtaGFtbWVyXC8iLCJ0YWdzIjoiIiwiY2hlY2tzdW0iOiJlNjllZWVlOGM2NGFkZmViM2U1MTc2YTc3MDI4YzkxMiIsImFydGljbGVJZCI6NjYxNDN9.aUmYsz7OPm3fn13g3EosQpjXadc_w6IULHSHjCvaI5M","checksum":"e69eeee8c64adfeb3e5176a77028c912","siteId":"379184","articleId":66143,"strings":"","el":"livefyre-comments"}];var conv = fyre.conv.load({}, lf_config);</script>
+            <!-- LF DEBUG
+            site-id: 379184
+            article-id: 66143
+            post-type: post
+            comments-open: true
+            is-single: true
+            display-posts: true
+            display-pages: true
+            -->
+        <script type='text/javascript' src='http://breaking911.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://breaking911.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/breaking911.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://breaking911.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+window.twttr=(function(w){t=w.twttr||{};t._e=[];t.ready=function(f){t._e.push(f);};return t;}(window));
+/* ]]> */
+</script>
+<script type="text/javascript" id="twitter-wjs" async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+    <script type="text/javascript" src="//cdn4.wibbitz.com/breaking911/embed.js" async></script>
+
+<!--    <script async type="text/javascript" src="http://twistfire.plxserve.com/serve?id=29479"></script>-->
+
+
+
+
+<!--
+<script src="http://interyield.td563.com/InterYield/bindevent.do?e=click&affiliate=breaking_911&subid=breaking911&snoozeMinutes=1&adCountIntervalHours=24&maxAdCountsPerInterval=2&disableBackButton&pop=under&chromeoption=flash&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td563.com" type="text/javascript"></script>
+-->
+<script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
+</body>
+
+</html>

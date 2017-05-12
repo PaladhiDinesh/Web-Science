@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>名前募集バーガー | キャンペーン | McDonald's</title>
+<meta name="keywords" content="マクドナルド,マック,名前募集バーガーキャンペーン,北海道産ほくほくポテトとチェダーチーズに焦がし醤油風味の特性オニオンソースが効いたジューシービーフバーガー">
+<meta name="description" content="名前募集バーガーキャンペーン">
+<link rel="alternate" media="handheld" href="http://w.mdj.jp/">
+<meta property="og:title" content="名前募集バーガー | キャンペーン | McDonald's">
+<meta property="og:description" content="名前募集バーガーキャンペーン">
+<meta property="og:image" content="https://mcdonalds.pcp.jp/namaeboshu/img/sp/share1.jpg">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://mcdonalds.pcp.jp/namaeboshu/">
+<meta property="og:site_name" content="Welcome to McDonald's Japan">
+<link rel="stylesheet" type="text/css" href="//www.mcdonalds.co.jp/common/css/cmn_layout.css" media="all">
+<link rel="stylesheet" type="text/css" href="//www.mcdonalds.co.jp/common/css/cmn_style.css" media="all">
+<!-- ★★↓ CSSを追加する場合はこちらに記してください ★★ -->
+
+<link rel="stylesheet" type="text/css" href="/namaeboshu/css/pc/top.css" media="all">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/namaeboshu/css/pc/caution.css" media="all">
+<![endif]-->
+
+<!-- ★★↑ CSSを追加する場合はこちらに記してください ★★ -->
+<script type="text/javascript" src="//www.mcdonalds.co.jp/common/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="//www.mcdonalds.co.jp/common/js/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript" src="//www.mcdonalds.co.jp/common/js/googlepulus.js"></script>
+<script type="text/javascript" src="//www.mcdonalds.co.jp/common/js/common.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="//www.mcdonalds.co.jp/common/js/selectivizr-min.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="//www.mcdonalds.co.jp/common/js/html5shiv-printshiv.js"></script><![endif]-->
+<!-- ★★↓ JavaScriptを追加する場合はこちらに記してください ★★ -->
+
+<script type="text/javascript" src="/namaeboshu/js/pc/plugin.min.js"></script>
+<script type="text/javascript" src="/namaeboshu/js/pc/common.min.js"></script>
+<script type="text/javascript" src="/namaeboshu/js/pc/burger.min.js"></script>
+
+<!-- ★★↑ JavaScriptを追加する場合はこちらに記してください ★★ -->
+</head>
+<body>
+	<!--[if lt IE 9]>	 
+        <p id="outdated" class="browsehappy">このInternet Explorerのブラウザバージョンは当サイトでサポートされておりません。最新バージョンをインストールすることをお勧めします。</p>   
+	<![endif]-->
+	<header id="header">
+		<div id="headerIn">
+			<h1 id="headerLogo"><a href="http://www.mcdonalds.co.jp/"><img src="//www.mcdonalds.co.jp/common/images/header/logo01.png" width="105" height="95" alt="I'm lovin' it"></a></h1>
+
+			<div class="inner">
+				<!-- <ul id="breadcrumb">
+					<li><a href="/index.html">ホーム</a></li>
+					<li class="type01">キャンペーン</li>
+					<li>■■■</li>
+				</ul>
+				<div id="headerUtility"></div> -->
+				<!-- /inner -->
+			</div>
+			<!-- /headerIn -->
+		</div>
+	</header>
+	<div id="wrapper">
+		<div id="wrapperIn">
+		<!-- コンテンツここから -->
+
+			<!-- ★★↓ コンテンツを追加する場合はこちらに記してください ★★ -->
+			<div id="contents">
+				<div class="section_inner">
+					<div class="section_main">
+						<div class="main_block">
+							<p class="main_dateicon"><img src="/namaeboshu/img/pc/top/main_dateicon.png" width="74" height="22" alt="期間限定"></p>
+							<h2 class="main_title"><img src="/namaeboshu/img/pc/top/main_title.png" width="267" height="446" alt="北海道産ほくほくポテトとチェダーチーズに焦がし醤油風味の特製オニオンソースが効いたジューシービーフバーガー（仮）"></h2>
+							<p class="main_sale"><span class="main_sale_bg"><img src="/namaeboshu/img/pc/top/main_sale_bg.png" width="160" height="164" alt=""></span><span class="main_sale_text"><img src="/namaeboshu/img/pc/top/main_sale_text.png" width="160" height="164" alt="販売中！！"></span></p>
+							<div class="main_chara"><img src="/namaeboshu/img/pc/top/main_chara.png" width="431" height="451" alt=""></div>
+						</div>
+					</div>
+				</div>
+			<!-- /contents --></div>
+
+			<div id="contents02">
+				<div class="section_announcement">
+					<div class="section_inner">
+						<h4 class="announcement_copy"><img src="/namaeboshu/img/pc/top/announcement_copy.png" width="962" height="217" alt="話題のバーガー好評発売中！"></h4>
+						<h3 class="announcement_title"><img src="/namaeboshu/img/pc/top/announcement_title.png" width="843" height="163" alt="名前募集バーガーキャンペーン"></h3>
+						<p class="announcement_close"><img src="/namaeboshu/img/pc/top/announcement_close.png" width="719" height="123" alt="名前の募集は終了致しました。たくさんのご応募ありがとうございました。"></p>
+					</div>
+				</div>
+				<div class="section_decision">
+					<div class="section_inner">
+						<h3 class="decision_text1"><img src="/namaeboshu/img/pc/top/decision_text1.png" width="590" height="397" alt="2月22日（月）ついに正式名称決定！"></h3>
+						<div class="decision_img"><img src="/namaeboshu/img/pc/top/decision_img.jpg" width="537" height="333" alt=""></div>
+						<p class="decision_text2"><img src="/namaeboshu/img/pc/top/decision_text2.png" width="481" height="56" alt="発表をお楽しみに！"></p>
+					</div>
+				</div>
+				<div class="section_secret">
+					<div class="section_inner">
+						<div class="slide" id="slide">
+							<div class="content">
+								<h3 class="secret_title"><img src="/namaeboshu/img/pc/top/secret_title.png" width="661" height="46" alt="一言では言い尽くせないおいしさの秘密"></h3>
+								<div class="balloon_area">
+									<div class="item"><img src="/namaeboshu/img/pc/top/secret_item.jpg" width="800" height="511" alt=""></div>
+									<div class="balloon balloon1">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon1.png" width="198" height="171" alt="「手丸めバンズ」このバーガーのためだけに１つ１つを手で丸めた、特別なバンズを採用。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+									<div class="balloon balloon2">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon2.png" width="198" height="192" alt="「北海道ポテトフィリング」北海道産じゃがいもをバター風味で味付けした、コクのあるポテトフィリング。ほくほくの具材感たっぷり。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+									<div class="balloon balloon3">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon3.png" width="198" height="129" alt="「スライスベーコン」味わいにアクセントをつける、スモ―キーなベーコンを２枚。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+									<div class="balloon balloon4">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon4.png" width="198" height="165" alt="「100％ビーフパティ」つなぎも添加物も使っていない、100％ビーフのジューシーなパティ。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+									<div class="balloon balloon5">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon5.png" width="198" height="168" alt="「北海道チーズ」北海道産の生乳を贅沢に使った、濃厚で味わい深いチェダーチーズ。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+									<div class="balloon balloon6">
+										<div class="balloon_img"><img src="/namaeboshu/img/pc/top/secret_balloon6.png" width="198" height="190" alt="「オニオンソース」ソテーしたオニオンを焦がし醤油の風味で味付けした特製ソース。クセになる香ばしさ。"></div>
+										<div class="balloon_line"><div class="balloon_point"></div></div>
+									</div>
+								</div>
+								<p class="secret_price"><img src="/namaeboshu/img/pc/top/secret_price.png" width="268" height="34" alt="¥390 set¥690"></p>
+								<p class="secret_allergy"><a href="http://www.mcdonalds.co.jp/quality/basic_information/menu_info.php?mid=7020#">アレルギー栄養情報はこちら</a></p>
+								<ul class="secret_note_list">
+									<li class="secret_note_item">※表記は税込み価格です。</li>
+									<li class="secret_note_item">※一部店舗でお取り扱いのない商品がございます。</li>
+									<li class="secret_note_item">※朝マック販売店舗では10:30からの販売となります。</li>
+									<li class="secret_note_item">※一部店舗で検証を行っている場合、商品によって価格が異なることがあります。</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="section_example">
+					<div class="section_inner">
+						<div class="example_chara"><img src="/namaeboshu/img/pc/top/example_chara.jpg" width="752" height="594" alt=""></div>
+						<h3 class="example_title"><img src="/namaeboshu/img/pc/top/example_title.png" width="362" height="145" alt="こんな名前もありました！"></h3>
+						<p class="example_name"><img src="/namaeboshu/img/pc/top/example_name1.png" width="351" height="247" alt="ゴロゴロ北の国バーガー、ほくほくぜいたくバーガー、ほっかいもちーずバーガー"></p>
+					</div>
+				</div>
+			<!-- /contents02 --></div>
+
+			<p class="btn_pagetop"><a href="#header"><img src="/namaeboshu/img/pc/common/btn_pagetop.png" width="64" height="64" alt="ページトップへ"></a></p>
+			<!-- ★★↑ コンテンツを追加する場合はこちらに記してください ★★ -->
+
+		<!-- コンテンツここまで -->
+
+<footer id="footer">
+	<div id="footerShare">
+		<ul>
+			<li>
+				<div id="fb-root"></div>
+
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+
+				<div class="fb-like" data-send="false" data-layout="button_count" data-width="85" data-show-faces="false"></div>
+			</li>
+			<li><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="none">ツイート</a>
+
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+			</li>
+			<li class="googleplus"><g:plusone size="medium" annotation="none"></g:plusone></li>
+		</ul>
+	<!-- /footerShare --></div>
+	<div id="footerUtility">
+		<ul id="footerLinks">
+			<li><a href="http://www.mcdonalds.co.jp/cservice/index2.html">ご意見・ご要望</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/privacy/index.html">個人情報保護方針</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/policy/index.html">サイト利用規約</a></li>
+			<li><a href="http://www.mcdonalds.co.jp/sitemap/index.html">サイトマップ</a></li>
+		</ul>
+		<p id="copyright">&copy; 2016 McDonald's</p>
+	<!-- /footerUtility --></div>
+</footer>
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJV7WW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-TJV7WW');</script>
+
+<!-- End Google Tag Manager -->
+			<!-- /wrapperIn -->
+		</div>
+		<!-- /wrapper -->
+	</div>
+</body>
+
+</html>
